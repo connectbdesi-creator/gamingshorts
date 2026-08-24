@@ -1,0 +1,159 @@
+import { MessageCircle } from "lucide-react";
+import type { Metadata } from "next";
+import Image from "next/image";
+import { notFound } from "next/navigation";
+import { CategoryBadge } from "@/components/cards/category-badge";
+import { PlatformChip } from "@/components/cards/platform-chip";
+import { Comments } from "@/components/comments/comments";
+import { LikeButton } from "@/components/engagement/like-button";
+import { ArticleReaderLauncher } from "@/components/reader/article-reader-launcher";
+import { ShareButtons } from "@/components/share/share-buttons";
+import { getCategory } from "@/lib/categories";
+import { getAllCards } from "@/lib/cards";
+import { formatRelativeTime } from "@/lib/format";
+import { getSiteUrl } from "@/lib/site";
+
+// New cards get their own static page on the next rebuild the ingestion
+// workflow triggers; this revalidate is a same-build content freshness
+// safety net for pages that already exist.
+export const revalidate = 7200;
+
+type Props = { params: Promise<{ slug: string }> };
+
+function getCard(slug: string) {
+  return getAllCards().find((c) => c.slug === slug);
+}
+
+export function generateStaticParams() {
+  return getAllCards().map((c) => ({ slug: c.slug }));
+}
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { slug } = await params;
+  const card = getCard(slug);
+  if (!card) return {};
+
+  const url = `${getSiteUrl()}/news/${card.slug}`;
+
+  return {
+    title: card.headline,
+    description: card.summary,
+    alternates: { canonical: url },
+    openGraph: {
+      type: "article",
+      title: card.headline,
+      description: card.summary,
+      url,
+      images: [{ url: card.image_url }],
+      publishedTime: card.published_at,
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: card.headline,
+      description: card.summary,
+      images: [card.image_url],
+    },
+  };
+}
+
+export default async function NewsCardPage({ params }: Props) {
+  const { slug } = await params;
+  const card = getCard(slug);
+  if (!card) notFound();
+
+  const allCards = getAllCards();
+  const categoryInfo = getCategory(card.category);
+  const cardIndex = allCards.findIndex((c) => c.id === card.id);
+  const url = `${getSiteUrl()}/news/${card.slug}`;
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    headline: card.headline,
+    description: card.summary,
+    image: [card.image_url],
+    datePublished: card.published_at,
+    dateModified: card.published_at,
+    articleSection: categoryInfo?.label ?? card.category,
+    isBasedOn: card.source_url,
+    author: { "@type": "Organization", name: "GameShorts" },
+    publisher: {
+      "@type": "Organization",
+      name: "GameShorts",
+      logo: { "@type": "ImageObject", url: `${getSiteUrl()}/favicon.ico` },
+    },
+    mainEntityOfPage: { "@type": "WebPage", "@id": url },
+  };
+
+  return (
+    <div className="mx-auto w-full max-w-2xl px-4 py-6">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+
+      <div className="relative aspect-[16/10] w-full overflow-hidden rounded-card bg-background-elevated">
+        <Image
+          src={card.image_url}
+          alt=""
+          fill
+          sizes="(min-width: 768px) 672px, 100vw"
+          className="object-cover"
+          priority
+        />
+        <div className="absolute left-3 top-3">
+          <CategoryBadge category={card.category} />
+        </div>
+      </div>
+
+      <h1 className="mt-5 text-2xl font-bold leading-snug text-foreground">
+        {card.headline}
+      </h1>
+
+      <p className="mt-2 text-sm text-foreground-subtle">
+        {card.source_name} · {formatRelativeTime(card.published_at)}
+      </p>
+
+      <p className="mt-4 text-base leading-relaxed text-foreground-muted">
+        {card.summary}
+      </p>
+
+      {card.platform_tags.length > 0 && (
+        <div className="mt-4 flex flex-wrap gap-2">
+          {card.platform_tags.map((p) => (
+            <PlatformChip key={p} platform={p} />
+          ))}
+        </div>
+      )}
+
+      <a
+        href={card.source_url}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="mt-6 inline-flex w-fit items-center rounded-chip bg-accent px-4 py-2 text-sm font-semibold text-accent-foreground transition-colors hover:bg-accent-hover"
+      >
+        Read full story →
+      </a>
+
+      <div className="mt-6 flex flex-wrap items-center justify-between gap-4 border-y border-border py-3 text-sm text-foreground-muted">
+        <div className="flex items-center gap-5">
+          <LikeButton cardId={card.id} initialCount={card.like_count} />
+          <a href="#comments" className="flex items-center gap-1.5 hover:text-foreground">
+            <MessageCircle className="size-4" />
+            {card.comment_count}
+          </a>
+        </div>
+        <ShareButtons url={url} title={card.headline} />
+      </div>
+
+      <div className="mt-6">
+        <ArticleReaderLauncher cards={allCards} startIndex={cardIndex} />
+      </div>
+
+      <div id="comments" className="mt-10 scroll-mt-28">
+        <h2 className="mb-4 text-lg font-semibold text-foreground">Comments</h2>
+        <Comments term={card.slug} />
+      </div>
+    </div>
+  );
+}

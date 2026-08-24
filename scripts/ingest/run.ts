@@ -1,0 +1,140 @@
+import fs from "node:fs";
+import path from "node:path";
+import Parser from "rss-parser";
+import { summarizeArticle } from "./anthropic";
+import { RSS_SOURCES } from "./sources";
+import { hashId, slugify } from "./slugify";
+import type { Card } from "@/types/card";
+
+const DATA_DIR = path.join(process.cwd(), "data");
+const CARDS_PATH = path.join(DATA_DIR, "cards.json");
+const SEEN_PATH = path.join(DATA_DIR, "seen.json");
+
+const MAX_CARDS = 200;
+const FORCE_REFRESH = process.env.FORCE_REFRESH === "true";
+const MAX_NEW_PER_SOURCE = FORCE_REFRESH ? 15 : 5;
+const MAX_NEW_TOTAL = FORCE_REFRESH ? 120 : 40;
+
+type MediaItem = { $?: { url?: string } };
+
+const parser = new Parser<object, { enclosure?: { url?: string }; mediaContent?: MediaItem[] }>({
+  headers: {
+    // Several outlets (e.g. Xbox Wire) block the default Node UA.
+    "User-Agent":
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36 GameShortsBot/1.0",
+  },
+  customFields: {
+    item: [["media:content", "mediaContent", { keepArray: true }]],
+  },
+});
+
+function readJson<T>(filePath: string, fallback: T): T {
+  try {
+    return JSON.parse(fs.readFileSync(filePath, "utf8")) as T;
+  } catch {
+    return fallback;
+  }
+}
+
+function writeJson(filePath: string, data: unknown) {
+  fs.mkdirSync(path.dirname(filePath), { recursive: true });
+  fs.writeFileSync(filePath, `${JSON.stringify(data, null, 2)}\n`);
+}
+
+function extractImage(item: {
+  enclosure?: { url?: string };
+  mediaContent?: MediaItem[];
+}, seed: string): string {
+  const fromEnclosure = item.enclosure?.url;
+  const fromMedia = item.mediaContent?.[0]?.$?.url;
+  return fromEnclosure || fromMedia || `https://picsum.photos/seed/${seed}/800/600`;
+}
+
+async function run() {
+  fs.mkdirSync(DATA_DIR, { recursive: true });
+
+  const existingCards = readJson<Card[]>(CARDS_PATH, []);
+  const seen = new Set<string>(FORCE_REFRESH ? [] : readJson<string[]>(SEEN_PATH, []));
+
+  const newCards: Card[] = [];
+  let processedCount = 0;
+
+  for (const source of RSS_SOURCES) {
+    if (processedCount >= MAX_NEW_TOTAL) break;
+
+    let feed;
+    try {
+      feed = await parser.parseURL(source.url);
+    } catch (err) {
+      console.error(`! Failed to fetch ${source.name} (${source.url}):`, (err as Error).message);
+      continue;
+    }
+
+    let newFromThisSource = 0;
+    for (const item of feed.items) {
+      if (processedCount >= MAX_NEW_TOTAL) break;
+      if (newFromThisSource >= MAX_NEW_PER_SOURCE) break;
+
+      const link = item.link;
+      if (!link) continue;
+      const itemId = hashId(link);
+      if (seen.has(itemId)) continue;
+
+      const title = item.title ?? "Untitled";
+      const content =
+        item.contentSnippet ?? item.content ?? item.summary ?? title;
+
+      console.log(`- Summarizing "${title}" (${source.name})`);
+      const summarized = await summarizeArticle({
+        title,
+        content: content.slice(0, 3000),
+        sourceName: source.name,
+      });
+
+      seen.add(itemId);
+      processedCount++;
+
+      if (!summarized) {
+        console.error(`  ! Skipped (summarization failed): ${title}`);
+        continue;
+      }
+
+      const publishedAt = item.isoDate ?? (item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString());
+
+      const card: Card = {
+        id: itemId,
+        slug: slugify(summarized.headline, link),
+        headline: summarized.headline,
+        summary: summarized.summary,
+        category: summarized.category,
+        platform_tags: summarized.platform_tags,
+        source_name: source.name,
+        source_url: link,
+        image_url: extractImage(item, itemId),
+        published_at: publishedAt,
+        hype_signal: summarized.hype_signal,
+        like_count: 0,
+        comment_count: 0,
+      };
+
+      newCards.push(card);
+      newFromThisSource++;
+    }
+  }
+
+  const merged = [...newCards, ...existingCards]
+    .sort((a, b) => new Date(b.published_at).getTime() - new Date(a.published_at).getTime())
+    .slice(0, MAX_CARDS);
+
+  writeJson(CARDS_PATH, merged);
+  writeJson(SEEN_PATH, Array.from(seen));
+
+  console.log(
+    `\nDone. ${newCards.length} new card(s) added, ${merged.length} total in data/cards.json.`
+  );
+}
+
+run().catch((err) => {
+  console.error("Ingestion run failed:", err);
+  process.exit(1);
+});

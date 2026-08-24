@@ -1,0 +1,105 @@
+@import "tailwindcss";
+
+/*
+  Dark is the default theme (gaming-audience expectation). Light mode is
+  opt-in via next-themes, which toggles the `.light` class on <html>.
+  Tokens are defined as plain CSS custom properties, then re-exposed to
+  Tailwind via @theme inline so utilities like `bg-surface` / `text-muted`
+  are generated from them.
+*/
+
+:root {
+  --background: #09090b;
+  --background-elevated: #101014;
+  --surface: #17171c;
+  --surface-hover: #1f1f26;
+  --border: #27272f;
+
+  --foreground: #f4f4f5;
+  --foreground-muted: #a1a1aa;
+  --foreground-subtle: #71717a;
+
+  --accent: #7c5cff;
+  --accent-foreground: #ffffff;
+  --accent-hover: #8f73ff;
+
+  --like: #ff4d6d;
+
+  /* Category colors */
+  --cat-releases: #22c55e;
+  --cat-reviews: #f5b301;
+  --cat-patches: #38bdf8;
+  --cat-industry: #a1a1aa;
+  --cat-esports: #f472b6;
+  --cat-deals: #fb923c;
+
+  --radius-card: 1rem;
+  --radius-chip: 999px;
+
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+.light {
+  --background: #fafafa;
+  --background-elevated: #ffffff;
+  --surface: #ffffff;
+  --surface-hover: #f4f4f5;
+  --border: #e4e4e7;
+
+  --foreground: #18181b;
+  --foreground-muted: #52525b;
+  --foreground-subtle: #71717a;
+
+  --accent: #6d28d9;
+  --accent-foreground: #ffffff;
+  --accent-hover: #5b21b6;
+
+  --like: #e11d48;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-background-elevated: var(--background-elevated);
+  --color-surface: var(--surface);
+  --color-surface-hover: var(--surface-hover);
+  --color-border: var(--border);
+
+  --color-foreground: var(--foreground);
+  --color-foreground-muted: var(--foreground-muted);
+  --color-foreground-subtle: var(--foreground-subtle);
+
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent-hover: var(--accent-hover);
+
+  --color-like: var(--like);
+
+  --color-cat-releases: var(--cat-releases);
+  --color-cat-reviews: var(--cat-reviews);
+  --color-cat-patches: var(--cat-patches);
+  --color-cat-industry: var(--cat-industry);
+  --color-cat-esports: var(--cat-esports);
+  --color-cat-deals: var(--cat-deals);
+
+  --radius-card: var(--radius-card);
+  --radius-chip: var(--radius-chip);
+
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-mono);
+}
+
+body {
+  background: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-sans), system-ui, sans-serif;
+}
+
+/* Hide scrollbar for the swipe reader's snap track, keep it scrollable */
+.no-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
