@@ -13,7 +13,7 @@ import { ShareButtons } from "@/components/share/share-buttons";
 import { getCategory } from "@/lib/categories";
 import { getAllCards } from "@/lib/cards";
 import { formatRelativeTime } from "@/lib/format";
-import { getSiteUrl } from "@/lib/site";
+import { getSiteUrl, pageAlternates } from "@/lib/site";
 
 // New cards get their own static page on the next rebuild the ingestion
 // workflow triggers; this revalidate is a same-build content freshness
@@ -40,7 +40,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: card.headline,
     description: card.summary,
-    alternates: { canonical: url },
+    alternates: pageAlternates(`/news/${card.slug}`),
     openGraph: {
       type: "article",
       title: card.headline,
@@ -118,7 +118,7 @@ export default async function NewsCardPage({ params }: Props) {
       <div className="relative aspect-[16/10] w-full overflow-hidden rounded-card bg-background-elevated">
         <Image
           src={card.image_url}
-          alt=""
+          alt={card.headline}
           fill
           sizes="(min-width: 768px) 672px, 100vw"
           className="object-cover"

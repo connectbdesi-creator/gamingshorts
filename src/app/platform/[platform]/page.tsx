@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import { FilterableCardGrid } from "@/components/cards/filterable-card-grid";
 import { getAllCards } from "@/lib/cards";
 import { getPlatform, PLATFORMS } from "@/lib/platforms";
+import { pageAlternates } from "@/lib/site";
 
 export const revalidate = 7200;
 
@@ -20,6 +21,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${info.label} News`,
     description: `Latest ${info.label} video game news, releases, and reviews, summarized in 60 words.`,
+    alternates: pageAlternates(`/platform/${platform}`),
   };
 }
 

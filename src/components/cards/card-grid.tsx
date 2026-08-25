@@ -18,8 +18,12 @@ export function CardGrid({
 
   return (
     <div className="columns-1 gap-4 sm:columns-2 lg:columns-3 xl:columns-4">
-      {cards.map((card) => (
-        <NewsCard key={card.id} card={card} onOpen={onOpen} />
+      {cards.map((card, index) => (
+        // Only the first row-ish of cards should eagerly load/preload —
+        // marking every card priority (as the reader used to) forces the
+        // browser to fetch dozens of images up front instead of lazily as
+        // the user scrolls, which hurts load time without helping LCP.
+        <NewsCard key={card.id} card={card} onOpen={onOpen} priority={index < 4} />
       ))}
     </div>
   );

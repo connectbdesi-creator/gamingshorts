@@ -126,7 +126,7 @@ export function SwipeReader({
           ref={trackRef}
           className="no-scrollbar h-full snap-y snap-mandatory overflow-y-scroll scroll-smooth"
         >
-          {cards.map((card) => (
+          {cards.map((card, index) => (
             <section
               key={card.id}
               className="relative flex h-full w-full snap-start flex-col [scroll-snap-stop:always]"
@@ -134,11 +134,15 @@ export function SwipeReader({
               <div className="relative h-[45%] w-full shrink-0 sm:h-[55%]">
                 <Image
                   src={card.image_url}
-                  alt=""
+                  alt={card.headline}
                   fill
                   sizes="100vw"
                   className="object-cover"
-                  priority
+                  // Every card in the track renders up front (no
+                  // virtualization), so only the card actually being opened
+                  // should preload eagerly — marking all of them priority
+                  // forces the browser to fetch every image at once.
+                  priority={index === initialIndex}
                 />
                 <div className="absolute inset-x-0 bottom-0 h-24 bg-gradient-to-t from-background to-transparent" />
                 <div className="absolute left-4 top-4">

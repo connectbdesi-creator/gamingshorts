@@ -25,7 +25,7 @@ export function GameInfoPanel({ info }: { info: GameInfo }) {
         <div className="relative aspect-[21/9] w-full overflow-hidden bg-background-elevated">
           <Image
             src={info.background_image}
-            alt=""
+            alt={`${info.name} artwork`}
             fill
             sizes="(min-width: 1024px) 1024px, 100vw"
             className="object-cover"
@@ -58,12 +58,18 @@ export function GameInfoPanel({ info }: { info: GameInfo }) {
 
         {info.screenshots.length > 0 && (
           <div className="no-scrollbar flex gap-2 overflow-x-auto">
-            {info.screenshots.map((url) => (
+            {info.screenshots.map((url, index) => (
               <div
                 key={url}
                 className="relative aspect-video w-40 shrink-0 overflow-hidden rounded-chip bg-background-elevated"
               >
-                <Image src={url} alt="" fill sizes="160px" className="object-cover" />
+                <Image
+                  src={url}
+                  alt={`${info.name} screenshot ${index + 1}`}
+                  fill
+                  sizes="160px"
+                  className="object-cover"
+                />
               </div>
             ))}
           </div>

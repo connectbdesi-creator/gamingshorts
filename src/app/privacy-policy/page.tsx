@@ -1,9 +1,11 @@
 import type { Metadata } from "next";
 import { CONTACT_EMAIL, LEGAL_LAST_UPDATED, SITE_OPERATOR } from "@/lib/legal";
+import { pageAlternates } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Privacy Policy",
   description: `How ${SITE_OPERATOR} collects, uses, and protects your information.`,
+  alternates: pageAlternates("/privacy-policy"),
 };
 
 function Section({

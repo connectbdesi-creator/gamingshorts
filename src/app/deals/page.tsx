@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { FilterableCardGrid } from "@/components/cards/filterable-card-grid";
 import { getAllCards } from "@/lib/cards";
+import { pageAlternates } from "@/lib/site";
 
 // Phase 6 adds the Steam price-data ingestion + affiliate link fields and
 // the "Sponsored" native ad card variant, both landing on this route.
@@ -10,6 +11,7 @@ export const metadata: Metadata = {
   title: "Deals & Sales",
   description:
     "The best current video game deals and sales across Steam, Epic, PSN, and Xbox, updated automatically.",
+  alternates: pageAlternates("/deals"),
 };
 
 export default function DealsPage() {

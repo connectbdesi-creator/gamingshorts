@@ -7,7 +7,7 @@ import { GameInfoPanel } from "@/components/games/game-info-panel";
 import { getAllCards } from "@/lib/cards";
 import { getGameInfo } from "@/lib/game-info";
 import { getGame, getGameIndex } from "@/lib/games";
-import { getSiteUrl } from "@/lib/site";
+import { getSiteUrl, pageAlternates } from "@/lib/site";
 
 export const revalidate = 7200;
 
@@ -27,7 +27,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: game.label,
     description,
-    alternates: { canonical: `${getSiteUrl()}/game/${slug}` },
+    alternates: pageAlternates(`/game/${slug}`),
     openGraph: { type: "website", title: game.label, description },
   };
 }

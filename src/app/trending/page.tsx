@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { FilterableCardGrid } from "@/components/cards/filterable-card-grid";
 import { getAllCards } from "@/lib/cards";
+import { pageAlternates } from "@/lib/site";
 import { getTrendingCards } from "@/lib/trending";
 
 export const revalidate = 7200;
@@ -8,6 +9,7 @@ export const revalidate = 7200;
 export const metadata: Metadata = {
   title: "Trending",
   description: "The biggest video game news right now, ranked by hype and recency.",
+  alternates: pageAlternates("/trending"),
 };
 
 export default function TrendingPage() {

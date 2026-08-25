@@ -1,9 +1,11 @@
 import type { Metadata } from "next";
 import { CONTACT_EMAIL, LEGAL_LAST_UPDATED, SITE_OPERATOR } from "@/lib/legal";
+import { pageAlternates } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Terms & Conditions",
   description: `The terms that govern use of ${SITE_OPERATOR}.`,
+  alternates: pageAlternates("/terms"),
 };
 
 function Section({

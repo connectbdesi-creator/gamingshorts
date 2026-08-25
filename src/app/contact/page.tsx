@@ -1,9 +1,11 @@
 import type { Metadata } from "next";
 import { CONTACT_EMAIL, SITE_OPERATOR } from "@/lib/legal";
+import { pageAlternates } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Contact Us",
   description: `Get in touch with ${SITE_OPERATOR} — corrections, takedown requests, partnerships, and general questions.`,
+  alternates: pageAlternates("/contact"),
 };
 
 export default function ContactPage() {

@@ -12,8 +12,10 @@ game it's about, where applicable.
 
 - [Homepage](/): latest cards across all categories
 - [Trending](/trending): highest-signal current stories
+- [Hot Topics](/hot-topics): stories generating the most likes and discussion
 - [Deals & Sales](/deals): current game/hardware deals
-- [Release Calendar](/release-calendar): upcoming launches
+- Category pages at /category/[releases|reviews|patches|industry|esports|deals]
+- Platform pages at /platform/[pc|playstation|xbox|switch|mobile|vr]
 - [RSS feed](/feed.xml): machine-readable feed of the latest cards
 - [Sitemap](/sitemap.xml): full list of indexed pages
 

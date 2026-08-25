@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "@/components/theme/theme-provider";
@@ -40,6 +40,13 @@ export const metadata: Metadata = {
     title: "GameShorts — Gaming News in 60 Words",
     description: SITE_DESCRIPTION,
   },
+};
+
+// Matches the manifest's background_color — dark is the only default
+// theme (ThemeProvider has enableSystem={false}), so a single static
+// color is correct rather than a prefers-color-scheme-based one.
+export const viewport: Viewport = {
+  themeColor: "#09090b",
 };
 
 const jsonLd = {

@@ -14,11 +14,15 @@ export function NewsCard({
   card,
   className,
   onOpen,
+  priority = false,
 }: {
   card: Card;
   className?: string;
   /** When provided, opens the full-screen swipe reader instead of navigating. */
   onOpen?: (card: Card) => void;
+  /** Eagerly loads this card's image instead of lazy-loading it — only the
+   * first few above-the-fold cards should set this. */
+  priority?: boolean;
 }) {
   return (
     <article
@@ -42,10 +46,11 @@ export function NewsCard({
         <div className="relative aspect-[4/3] w-full overflow-hidden bg-background-elevated">
           <Image
             src={card.image_url}
-            alt=""
+            alt={card.headline}
             fill
             sizes="(min-width: 1024px) 25vw, (min-width: 640px) 50vw, 100vw"
             className="object-cover transition-transform duration-300 group-hover:scale-105"
+            priority={priority}
           />
           <div className="absolute left-3 top-3 flex items-center gap-2">
             <CategoryBadge category={card.category} />

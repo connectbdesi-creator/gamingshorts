@@ -1,10 +1,12 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { CONTACT_EMAIL, SITE_OPERATOR } from "@/lib/legal";
+import { pageAlternates } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "About Us",
   description: `About ${SITE_OPERATOR} — an Inshorts-style, 60-word news site for the video game industry.`,
+  alternates: pageAlternates("/about"),
 };
 
 export default function AboutPage() {

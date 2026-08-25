@@ -8,6 +8,10 @@ export const metadata: Metadata = {
   title: "Release Calendar",
   description:
     "Upcoming video game releases for the next 2-4 weeks, across PC, PlayStation, Xbox, Switch, mobile, and VR.",
+  // Not indexed until this actually has content — a search engine landing
+  // on "will appear here once the pipeline is wired up" is a thin-content
+  // problem, not a page worth ranking. Remove once real release data ships.
+  robots: { index: false, follow: true },
 };
 
 export default function ReleaseCalendarPage() {

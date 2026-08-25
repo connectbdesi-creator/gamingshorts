@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { FilterableCardGrid } from "@/components/cards/filterable-card-grid";
 import { getAllCards } from "@/lib/cards";
 import { getHotTopics } from "@/lib/hot-topics";
+import { pageAlternates } from "@/lib/site";
 
 export const revalidate = 7200;
 
@@ -9,6 +10,7 @@ export const metadata: Metadata = {
   title: "Hot Topics",
   description:
     "The video game stories generating the most likes and discussion right now — jump in and join the conversation.",
+  alternates: pageAlternates("/hot-topics"),
 };
 
 export default function HotTopicsPage() {
