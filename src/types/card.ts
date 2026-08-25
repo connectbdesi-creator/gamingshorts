@@ -21,7 +21,18 @@ import type { PlatformSlug } from "@/lib/platforms";
  *   display name. Set by the ingestion pipeline's Claude call, same as
  *   category/platform_tags — there's no fixed game registry, it's derived
  *   from whatever cards exist (see src/lib/games.ts).
+ * - `sources` — replaces the old single source_name/source_url pair.
+ *   Multiple outlets covering the same story get clustered into one card
+ *   by the ingestion pipeline (see scripts/ingest/dedup.ts), so a card can
+ *   carry more than one contributing source. Always has at least one
+ *   entry; UI components display `sources[0]` when there's only one and a
+ *   comma-separated outlet list when there's more (see CardSource below).
  */
+export interface CardSource {
+  name: string;
+  url: string;
+}
+
 export interface Card {
   id: string;
   slug: string;
@@ -30,8 +41,7 @@ export interface Card {
   summary: string;
   category: CategorySlug;
   platform_tags: PlatformSlug[];
-  source_name: string;
-  source_url: string;
+  sources: CardSource[];
   image_url: string;
   /** ISO 8601 */
   published_at: string;

@@ -127,7 +127,7 @@ Reference point: Inshorts itself derives the large majority of its revenue (hist
 - [ ] Finalize domain name and hosting provider
 - [ ] Decide custom comment system vs. Giscus embed
 - [ ] Decide affiliate networks to sign up for first (Instant Gaming / Eneba / Steam / Amazon Associates)
-- [ ] Design the card schema (fields: id, headline, summary, category, platform_tags[], source_name, source_url, image_url, published_at, score/hype_signal, like_count)
+- [x] Design the card schema (fields: id, headline, summary, category, platform_tags[], sources[] ({name, url} — multi-outlet, clustered by the ingestion pipeline), image_url, published_at, score/hype_signal, like_count)
 - [ ] Define the scoring/importance algorithm (source quality + recency + keyword signals + hype/discussion velocity)
 - [ ] Set initial refresh cadence rules for showcase/event windows
 - [ ] Set up analytics (for tracking search vs. direct vs. referral split from day 1)

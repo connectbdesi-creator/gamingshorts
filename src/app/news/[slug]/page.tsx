@@ -12,7 +12,7 @@ import { ArticleReaderLauncher } from "@/components/reader/article-reader-launch
 import { ShareButtons } from "@/components/share/share-buttons";
 import { getCategory } from "@/lib/categories";
 import { getAllCards } from "@/lib/cards";
-import { formatRelativeTime } from "@/lib/format";
+import { formatRelativeTime, formatSourceNames } from "@/lib/format";
 import { getSiteUrl, pageAlternates } from "@/lib/site";
 
 // New cards get their own static page on the next rebuild the ingestion
@@ -82,8 +82,8 @@ export default async function NewsCardPage({ params }: Props) {
         keywords: [categoryInfo?.label, card.game_label, ...card.platform_tags]
           .filter(Boolean)
           .join(", "),
-        isBasedOn: card.source_url,
-        citation: card.source_url,
+        isBasedOn: card.sources.map((s) => s.url),
+        citation: card.sources.map((s) => s.url),
         author: { "@type": "Organization", name: "GameShorts" },
         publisher: {
           "@type": "Organization",
@@ -145,7 +145,7 @@ export default async function NewsCardPage({ params }: Props) {
       )}
 
       <p className="mt-2 text-sm text-foreground-subtle">
-        {card.source_name} · {formatRelativeTime(card.published_at)}
+        {formatSourceNames(card.sources)} · {formatRelativeTime(card.published_at)}
       </p>
 
       <p className="mt-4 text-base leading-relaxed text-foreground-muted">
@@ -161,14 +161,19 @@ export default async function NewsCardPage({ params }: Props) {
       )}
 
       <div className="mt-6 flex flex-wrap items-center gap-4">
-        <a
-          href={card.source_url}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="inline-flex w-fit items-center rounded-chip bg-accent px-4 py-2 text-sm font-semibold text-accent-foreground transition-colors hover:bg-accent-hover"
-        >
-          Read full story →
-        </a>
+        <div className="flex flex-wrap gap-2">
+          {card.sources.map((source) => (
+            <a
+              key={source.url}
+              href={source.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex w-fit items-center rounded-chip bg-accent px-4 py-2 text-sm font-semibold text-accent-foreground transition-colors hover:bg-accent-hover"
+            >
+              {card.sources.length > 1 ? `Read at ${source.name} →` : "Read full story →"}
+            </a>
+          ))}
+        </div>
         <div className="flex items-center gap-4">
           <LikeButton cardId={card.id} initialCount={card.like_count} size="lg" />
           <a

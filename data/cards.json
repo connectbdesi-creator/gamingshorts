@@ -10,15 +10,19 @@
       "playstation",
       "xbox"
     ],
-    "source_name": "IGN",
-    "source_url": "https://www.ign.com/articles/gta-6-leak-subpoena-discord-says-it-will-evaluate-the-validity-and-scope-before-responding",
     "image_url": "https://assets-prd.ignimgs.com/2026/08/25/gettyimages-2291403187-1787651053146.jpg",
     "published_at": "2026-08-25T09:54:10.000Z",
     "hype_signal": 45,
     "like_count": 0,
     "comment_count": 0,
     "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
+    "game_label": "Grand Theft Auto 6",
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-leak-subpoena-discord-says-it-will-evaluate-the-validity-and-scope-before-responding"
+      }
+    ]
   },
   {
     "id": "48642573f960",
@@ -31,15 +35,19 @@
       "playstation",
       "xbox"
     ],
-    "source_name": "IGN",
-    "source_url": "https://www.ign.com/articles/exclusive-baldurs-gate-3-astarion-excerpt-narrated-by-neil-newbon-himself",
     "image_url": "https://assets-prd.ignimgs.com/2026/08/25/bg3-main-1787647147286.jpg",
     "published_at": "2026-08-25T09:50:36.000Z",
     "hype_signal": 72,
     "like_count": 0,
     "comment_count": 0,
     "game": "baldurs-gate-3",
-    "game_label": "Baldur's Gate 3"
+    "game_label": "Baldur's Gate 3",
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/exclusive-baldurs-gate-3-astarion-excerpt-narrated-by-neil-newbon-himself"
+      }
+    ]
   },
   {
     "id": "df05bfaabf79",
@@ -48,15 +56,19 @@
     "summary": "Long-time Pokémon designer James Turner is rejoining the franchise after a departure to work on indie game The Plucky Squire. His return marks a notable shift following his time away from the monster-catching series.",
     "category": "industry",
     "platform_tags": [],
-    "source_name": "IGN",
-    "source_url": "https://www.ign.com/articles/pokemon-veteran-james-turner-rejoins-franchise-following-work-on-the-plucky-squire",
     "image_url": "https://assets-prd.ignimgs.com/2026/08/25/hqgqazda0aa8bgv-1787648192125.jpg",
     "published_at": "2026-08-25T09:03:00.000Z",
     "hype_signal": 45,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
-    "game_label": null
+    "game_label": null,
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/pokemon-veteran-james-turner-rejoins-franchise-following-work-on-the-plucky-squire"
+      }
+    ]
   },
   {
     "id": "6cddca81472c",
@@ -65,15 +77,19 @@
     "summary": "Discord confirms it hasn't yet received Take-Two's subpoena regarding Grand Theft Auto 6 leaks. The Rockstar parent company filed multiple subpoenas seeking broad user data access from Discord and Microsoft to investigate the leak's origins and identify those responsible.",
     "category": "industry",
     "platform_tags": [],
-    "source_name": "Eurogamer",
-    "source_url": "https://www.eurogamer.net/take-two-rockstar-gta-6-leaks-subpoena-discord-response",
     "image_url": "https://assetsio.gnwcdn.com/gta-6-ultimate-screen-crop-1.jpg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-08-25T08:39:48.000Z",
     "hype_signal": 45,
     "like_count": 0,
     "comment_count": 0,
     "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
+    "game_label": "Grand Theft Auto 6",
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/take-two-rockstar-gta-6-leaks-subpoena-discord-response"
+      }
+    ]
   },
   {
     "id": "a01104155875",
@@ -82,15 +98,19 @@
     "summary": "Focus Entertainment has signed on as the publisher for Maverick Games' upcoming racing title Clutch. This partnership comes after Amazon previously pulled out of supporting the project earlier this year.",
     "category": "industry",
     "platform_tags": [],
-    "source_name": "IGN",
-    "source_url": "https://www.ign.com/articles/clutch-picks-up-a-publisher-as-maverick-games-partners-with-focus-entertainment",
     "image_url": "https://assets-prd.ignimgs.com/2026/06/05/cutch-thumb-1780699520389.jpg",
     "published_at": "2026-08-25T08:23:37.000Z",
     "hype_signal": 45,
     "like_count": 0,
     "comment_count": 0,
     "game": "clutch",
-    "game_label": "Clutch"
+    "game_label": "Clutch",
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/clutch-picks-up-a-publisher-as-maverick-games-partners-with-focus-entertainment"
+      }
+    ]
   },
   {
     "id": "a3153bebc455",
@@ -99,15 +119,19 @@
     "summary": "A planned two-part sci-fi streaming series from director Ridley Scott was cancelled before completion. The project combined elements reminiscent of speculative fiction classics, blending advanced technology with noir aesthetics. Despite its cancellation, the series was regarded as an ambitious venture that fans believe warranted continued development.",
     "category": "industry",
     "platform_tags": [],
-    "source_name": "Polygon",
-    "source_url": "https://www.polygon.com/ridley-scott-raised-by-wolves-sci-fi-series/",
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/tcdraby_h7097.jpg",
     "published_at": "2026-08-25T08:00:14.000Z",
     "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
-    "game_label": null
+    "game_label": null,
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/ridley-scott-raised-by-wolves-sci-fi-series/"
+      }
+    ]
   },
   {
     "id": "828bfbbee17f",
@@ -116,15 +140,19 @@
     "summary": "Polygon celebrates Weird Al Yankovic's 1999 parody song \"The Saga Begins\" as a comedic masterpiece, arguing it surpassed Star Wars: Episode I in cultural impact. The track cleverly adapted Don McLean's \"American Pie\" to humorously chronicle the Phantom Menace's plot.",
     "category": "industry",
     "platform_tags": [],
-    "source_name": "Polygon",
-    "source_url": "https://www.polygon.com/star-wars-weird-al-parody/",
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/msdstwa_fe086.jpg",
     "published_at": "2026-08-25T08:00:14.000Z",
     "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
-    "game_label": null
+    "game_label": null,
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/star-wars-weird-al-parody/"
+      }
+    ]
   },
   {
     "id": "db9592682676",
@@ -137,15 +165,19 @@
       "playstation",
       "xbox"
     ],
-    "source_name": "GameSpot",
-    "source_url": "https://www.gamespot.com/articles/gamescom-opening-night-live-2026-start-time-how-to-watch-and-what-to-expect/",
     "image_url": "https://www.gamespot.com/wp-content/uploads/2026/05/Gamescom-ONL.jpg?w=300",
     "published_at": "2026-08-25T06:59:00.000Z",
     "hype_signal": 85,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
-    "game_label": null
+    "game_label": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gamescom-opening-night-live-2026-start-time-how-to-watch-and-what-to-expect/"
+      }
+    ]
   },
   {
     "id": "a2f3c5e0a0cd",
@@ -154,15 +186,19 @@
     "summary": "Tim Burton's acclaimed fantasy film Big Fish is now freely accessible on streaming platforms. Often overlooked despite its critical acclaim, the film stands as one of Burton's strongest directorial efforts, though it diverges from his typical stylistic approach.",
     "category": "industry",
     "platform_tags": [],
-    "source_name": "Polygon",
-    "source_url": "https://www.polygon.com/big-fish-tim-burton-movies-free-streaming-august-2026/",
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/mcdbifi_ec008.jpg",
     "published_at": "2026-08-25T04:00:19.000Z",
     "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
-    "game_label": null
+    "game_label": null,
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/big-fish-tim-burton-movies-free-streaming-august-2026/"
+      }
+    ]
   },
   {
     "id": "aae2aed749c2",
@@ -171,15 +207,19 @@
     "summary": "The iconic 1998 anime film Akira is returning to cinemas for a one-day exclusive event in September, presented in IMAX and 4K formats through a collaboration between Crunchyroll and Sony. Tickets are currently available for purchase.",
     "category": "releases",
     "platform_tags": [],
-    "source_name": "Polygon",
-    "source_url": "https://www.polygon.com/akira-movie-2026-theatrical-rerelease-imax-4k/",
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/6998201/akira.jpg",
     "published_at": "2026-08-25T01:34:30.000Z",
     "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
-    "game_label": null
+    "game_label": null,
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/akira-movie-2026-theatrical-rerelease-imax-4k/"
+      }
+    ]
   },
   {
     "id": "0f4208c38419",
@@ -188,15 +228,19 @@
     "summary": "A highly regarded science fiction thriller from the 1980s, celebrated for its creative approach to zombie storytelling, has become freely accessible on streaming platforms. The film maintains a devoted fanbase due to its innovative filmmaking and genre-bending narrative elements.",
     "category": "deals",
     "platform_tags": [],
-    "source_name": "Polygon",
-    "source_url": "https://www.polygon.com/re-animator-1985-zombie-movie-tubi/",
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/re-animator-3.jpg",
     "published_at": "2026-08-25T01:00:15.000Z",
     "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
-    "game_label": null
+    "game_label": null,
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/re-animator-1985-zombie-movie-tubi/"
+      }
+    ]
   },
   {
     "id": "ec2b38ac4974",
@@ -205,15 +249,19 @@
     "summary": "Lucasfilm and Disney announced that Star Wars: The Mandalorian and Grogu will become available on digital platforms and 4K Blu-ray formats beginning July 21. Fans can prepare to add this Star Wars installment to their collections through multiple viewing options.",
     "category": "releases",
     "platform_tags": [],
-    "source_name": "Polygon",
-    "source_url": "https://www.polygon.com/star-wars-mandalorian-and-grogu-digital-release-date-4k-blu-ray/",
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/star-wars-the-mandalorian-and-grogu-anzellans.jpg",
     "published_at": "2026-08-25T00:48:31.000Z",
     "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
-    "game_label": null
+    "game_label": null,
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/star-wars-mandalorian-and-grogu-digital-release-date-4k-blu-ray/"
+      }
+    ]
   },
   {
     "id": "00df7e4e599d",
@@ -227,15 +275,19 @@
       "xbox",
       "switch"
     ],
-    "source_name": "IGN",
-    "source_url": "https://www.ign.com/articles/the-witcher-3-songs-of-the-past-expansion-confirmed-to-include-more-gwent-and-everyone-is-already-celebrating",
     "image_url": "https://assets-prd.ignimgs.com/2026/08/24/the-witcher-3-gwent-songs-of-the-past-1787611131275.png",
     "published_at": "2026-08-24T22:56:30.000Z",
     "hype_signal": 65,
     "like_count": 0,
     "comment_count": 0,
     "game": "the-witcher-3",
-    "game_label": "The Witcher 3"
+    "game_label": "The Witcher 3",
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/the-witcher-3-songs-of-the-past-expansion-confirmed-to-include-more-gwent-and-everyone-is-already-celebrating"
+      }
+    ]
   },
   {
     "id": "025923db788c",
@@ -244,15 +296,19 @@
     "summary": "The beloved RPG franchise celebrates three decades with a special partnership featuring exclusive cream puffs at Beard Papa's bakery locations. The collaboration marks a fun milestone for the long-running series.",
     "category": "industry",
     "platform_tags": [],
-    "source_name": "IGN",
-    "source_url": "https://www.ign.com/articles/persona-comes-to-beard-papas-with-special-30th-anniversary-collaboration",
     "image_url": "https://assets-prd.ignimgs.com/2026/08/24/persona4-creampuffs-blogroll-1787611272077.jpg",
     "published_at": "2026-08-24T22:41:35.000Z",
     "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
     "game": "persona",
-    "game_label": "Persona"
+    "game_label": "Persona",
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/persona-comes-to-beard-papas-with-special-30th-anniversary-collaboration"
+      }
+    ]
   },
   {
     "id": "e389fecf090f",
@@ -261,15 +317,19 @@
     "summary": "France and Saudi Arabia have partnered to develop an ambitious $7 billion entertainment complex near Paris. The facility will draw inspiration from popular manga properties including Dragon Ball Z, aiming to bring beloved anime franchises to life through immersive attractions.",
     "category": "industry",
     "platform_tags": [],
-    "source_name": "Polygon",
-    "source_url": "https://www.polygon.com/dragon-ball-z-manga-theme-park-paris/",
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/mv5bnmjmzty3nwqtnza2mi00ywniltkwymitmgzjzgm3mwu3mtu3xkeyxkfqcgc-_v1_.jpg",
     "published_at": "2026-08-24T22:18:07.000Z",
     "hype_signal": 65,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
-    "game_label": null
+    "game_label": null,
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/dragon-ball-z-manga-theme-park-paris/"
+      }
+    ]
   },
   {
     "id": "6ec4be063059",
@@ -280,15 +340,19 @@
     "platform_tags": [
       "mobile"
     ],
-    "source_name": "Polygon",
-    "source_url": "https://www.polygon.com/steal-an-egg-roblox-what-happened-discord-black-mirror-netflix/",
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/bmep.JPG",
     "published_at": "2026-08-24T22:13:43.000Z",
     "hype_signal": 72,
     "like_count": 0,
     "comment_count": 0,
     "game": "roblox",
-    "game_label": "Roblox"
+    "game_label": "Roblox",
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/steal-an-egg-roblox-what-happened-discord-black-mirror-netflix/"
+      }
+    ]
   },
   {
     "id": "e00de2b288c1",
@@ -297,15 +361,19 @@
     "summary": "Saudi Arabia is financing a $7 billion Dragon Ball Z theme park in France as part of its anime and entertainment expansion efforts. The project represents a significant investment in anime-related attractions and cultural initiatives.",
     "category": "industry",
     "platform_tags": [],
-    "source_name": "Kotaku",
-    "source_url": "https://kotaku.com/france-celebrates-7-billion-dragon-ball-z-theme-park-paid-for-by-saudi-arabia-you-know-my-passion-for-manga-2000727680",
     "image_url": "https://kotaku.com/app/uploads/2026/08/goku.jpg",
     "published_at": "2026-08-24T22:00:56.000Z",
     "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
-    "game_label": null
+    "game_label": null,
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/france-celebrates-7-billion-dragon-ball-z-theme-park-paid-for-by-saudi-arabia-you-know-my-passion-for-manga-2000727680"
+      }
+    ]
   },
   {
     "id": "6d855cc17c03",
@@ -318,15 +386,19 @@
       "playstation",
       "xbox"
     ],
-    "source_name": "Kotaku",
-    "source_url": "https://kotaku.com/every-song-and-radio-station-weve-spotted-in-the-gta-6-leaks-2000727661",
     "image_url": "https://kotaku.com/app/uploads/2025/05/0f109d881f799bde51423dbbea7fa909-1280x720.jpg",
     "published_at": "2026-08-24T21:30:01.000Z",
     "hype_signal": 45,
     "like_count": 0,
     "comment_count": 0,
     "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
+    "game_label": "Grand Theft Auto 6",
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/every-song-and-radio-station-weve-spotted-in-the-gta-6-leaks-2000727661"
+      }
+    ]
   },
   {
     "id": "f6a879d16dd9",
@@ -339,15 +411,19 @@
       "playstation",
       "xbox"
     ],
-    "source_name": "IGN",
-    "source_url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-devs-vow-to-update-captain-price-after-botched-haircut-goes-viral",
     "image_url": "https://assets-prd.ignimgs.com/2026/08/24/call-of-duty-modern-warfare-4-captain-price-hair-1787605087848.png",
     "published_at": "2026-08-24T21:13:30.000Z",
     "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
     "game": "call-of-duty-modern-warfare-4",
-    "game_label": "Call of Duty: Modern Warfare 4"
+    "game_label": "Call of Duty: Modern Warfare 4",
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-devs-vow-to-update-captain-price-after-botched-haircut-goes-viral"
+      }
+    ]
   },
   {
     "id": "aa109e82a74e",
@@ -358,15 +434,19 @@
     "platform_tags": [
       "pc"
     ],
-    "source_name": "IGN",
-    "source_url": "https://www.ign.com/articles/canceled-iron-man-game-footage-from-just-cause-and-mad-max-developer-leaks-online",
     "image_url": "https://assets-prd.ignimgs.com/2022/09/20/iron-man-ea-motive-1663686372718.jpg",
     "published_at": "2026-08-24T21:03:11.000Z",
     "hype_signal": 65,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
-    "game_label": null
+    "game_label": null,
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/canceled-iron-man-game-footage-from-just-cause-and-mad-max-developer-leaks-online"
+      }
+    ]
   },
   {
     "id": "b12aa9b541b1",
@@ -377,15 +457,19 @@
     "platform_tags": [
       "pc"
     ],
-    "source_name": "Kotaku",
-    "source_url": "https://kotaku.com/find-needle-haystack-game-steam-5-million-twitter-x-2000727664",
     "image_url": "https://kotaku.com/app/uploads/2026/08/needle-1280x720.jpg",
     "published_at": "2026-08-24T20:45:16.000Z",
     "hype_signal": 45,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
-    "game_label": null
+    "game_label": null,
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/find-needle-haystack-game-steam-5-million-twitter-x-2000727664"
+      }
+    ]
   },
   {
     "id": "0ab0cdb9e89b",
@@ -396,15 +480,19 @@
     "platform_tags": [
       "switch"
     ],
-    "source_name": "IGN",
-    "source_url": "https://www.ign.com/articles/this-legend-of-zelda-brain-teaser-recreates-one-of-the-best-side-quests-from-tears-of-the-kingdom",
     "image_url": "https://assets-prd.ignimgs.com/2026/08/24/zelda-puzzle-1787601281002.png",
     "published_at": "2026-08-24T20:18:30.000Z",
     "hype_signal": 45,
     "like_count": 0,
     "comment_count": 0,
     "game": "the-legend-of-zelda-tears-of-the-kingdom",
-    "game_label": "The Legend of Zelda: Tears of the Kingdom"
+    "game_label": "The Legend of Zelda: Tears of the Kingdom",
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/this-legend-of-zelda-brain-teaser-recreates-one-of-the-best-side-quests-from-tears-of-the-kingdom"
+      }
+    ]
   },
   {
     "id": "9c6df35ec58b",
@@ -413,15 +501,19 @@
     "summary": "Tom Hardy's Venom: The Last Dance has become a streaming phenomenon, climbing to the #2 position on Netflix's global viewership rankings. The $478 million sci-fi action film continues to attract massive audiences following its theatrical release, demonstrating strong performance on the platform.",
     "category": "industry",
     "platform_tags": [],
-    "source_name": "Polygon",
-    "source_url": "https://www.polygon.com/venom-3-the-last-dance-tom-hardy-streaming-success-netflix/",
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mcdveth_sp031.jpg",
     "published_at": "2026-08-24T20:05:32.000Z",
     "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
-    "game_label": null
+    "game_label": null,
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/venom-3-the-last-dance-tom-hardy-streaming-success-netflix/"
+      }
+    ]
   },
   {
     "id": "f677ffa93b84",
@@ -430,15 +522,19 @@
     "summary": "Kotaku explores the unique design of Zork, an armored sea creature character beloved by fans. The piece examines distinctive visual characteristics and gameplay mechanics, drawing comparisons to classic tokusatsu heroes while highlighting what makes this character memorable to players.",
     "category": "industry",
     "platform_tags": [],
-    "source_name": "Kotaku",
-    "source_url": "https://kotaku.com/the-duskbloods-zork-mosquito-ultra-man-2000727643",
     "image_url": "https://kotaku.com/app/uploads/2026/08/zork-and-pals-1280x720.jpg",
     "published_at": "2026-08-24T20:00:59.000Z",
     "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
-    "game_label": null
+    "game_label": null,
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/the-duskbloods-zork-mosquito-ultra-man-2000727643"
+      }
+    ]
   },
   {
     "id": "a55e451f141a",
@@ -447,15 +543,19 @@
     "summary": "A retrospective celebrates one of Calvin and Hobbes' most overlooked characters—Calvin's mother—highlighting her funniest and most quotable moment from Bill Watterson's legendary comic strip that continues to resonate with readers.",
     "category": "industry",
     "platform_tags": [],
-    "source_name": "Polygon",
-    "source_url": "https://www.polygon.com/best-quote-mom-calvin-hobbes/",
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/screen-shot-2026-08-24-at-12-23-33-pm.jpg",
     "published_at": "2026-08-24T20:00:14.000Z",
     "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
-    "game_label": null
+    "game_label": null,
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/best-quote-mom-calvin-hobbes/"
+      }
+    ]
   },
   {
     "id": "cc549b54b0e3",
@@ -466,15 +566,19 @@
     "platform_tags": [
       "switch"
     ],
-    "source_name": "GameSpot",
-    "source_url": "https://www.gamespot.com/articles/the-duskbloods-playtest-was-even-more-popular-than-elden-ring-nightreigns/",
     "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/The-Duskbloods-Playtest-More-Popular-Than-Nightreign.jpg?w=300",
     "published_at": "2026-08-24T19:52:57.000Z",
     "hype_signal": 78,
     "like_count": 0,
     "comment_count": 0,
     "game": "the-duskbloods",
-    "game_label": "The Duskbloods"
+    "game_label": "The Duskbloods",
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/the-duskbloods-playtest-was-even-more-popular-than-elden-ring-nightreigns/"
+      }
+    ]
   },
   {
     "id": "77d50bd696a3",
@@ -483,15 +587,19 @@
     "summary": "Discord stated it has not yet received a subpoena from Take-Two Interactive related to the GTA 6 leaks. The platform says it will carefully review any legal request's validity and scope before complying. Users have expressed concerns about the potential breadth of Take-Two's data demands.",
     "category": "industry",
     "platform_tags": [],
-    "source_name": "Kotaku",
-    "source_url": "https://kotaku.com/discord-says-it-hasnt-been-served-with-a-subpoena-over-gta-6-leaks-yet-well-evaluate-the-validity-and-scope-before-responding-2000727642",
     "image_url": "https://kotaku.com/app/uploads/2025/05/960aa64ef4d3f3dfd780ffd98d89d28d-1280x720.jpg",
     "published_at": "2026-08-24T19:20:38.000Z",
     "hype_signal": 45,
     "like_count": 0,
     "comment_count": 0,
     "game": "grand-theft-auto-vi",
-    "game_label": "Grand Theft Auto VI"
+    "game_label": "Grand Theft Auto VI",
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/discord-says-it-hasnt-been-served-with-a-subpoena-over-gta-6-leaks-yet-well-evaluate-the-validity-and-scope-before-responding-2000727642"
+      }
+    ]
   },
   {
     "id": "88c24ba1357b",
@@ -505,15 +613,19 @@
       "xbox",
       "switch"
     ],
-    "source_name": "GameSpot",
-    "source_url": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-is-way-ahead-of-black-ops-7-already-by-one-metric/",
     "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/CODMW4.jpg?w=300",
     "published_at": "2026-08-24T19:12:33.000Z",
     "hype_signal": 75,
     "like_count": 0,
     "comment_count": 0,
     "game": "call-of-duty-modern-warfare-4",
-    "game_label": "Call of Duty: Modern Warfare 4"
+    "game_label": "Call of Duty: Modern Warfare 4",
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-is-way-ahead-of-black-ops-7-already-by-one-metric/"
+      }
+    ]
   },
   {
     "id": "f7663289353d",
@@ -526,15 +638,19 @@
       "playstation",
       "xbox"
     ],
-    "source_name": "GameSpot",
-    "source_url": "https://www.gamespot.com/articles/gta-6-leaks-a-timeline-of-the-events-so-far/",
     "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/GTA-6-1.jpg?w=300",
     "published_at": "2026-08-24T19:01:36.000Z",
     "hype_signal": 85,
     "like_count": 0,
     "comment_count": 0,
     "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
+    "game_label": "Grand Theft Auto 6",
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-leaks-a-timeline-of-the-events-so-far/"
+      }
+    ]
   },
   {
     "id": "12eac6ba15c5",
@@ -543,15 +659,19 @@
     "summary": "Konami is partnering with CatCon 2026 to release official Metal Gear Solid-themed cat products, including scratch boxes designed like iconic game cardboard containers, plushie toys, and collars. The merchandise will be available exclusively at the cat convention in October and online through OKS Gear Shop during the event.",
     "category": "releases",
     "platform_tags": [],
-    "source_name": "GameSpot",
-    "source_url": "https://www.gamespot.com/articles/my-cat-doesnt-care-about-the-metal-gear-box-just-the-box-it-came-in/",
     "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/MGS-Cat.jpg?w=300",
     "published_at": "2026-08-24T18:34:49.000Z",
     "hype_signal": 45,
     "like_count": 0,
     "comment_count": 0,
     "game": "metal-gear-solid",
-    "game_label": "Metal Gear Solid"
+    "game_label": "Metal Gear Solid",
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/my-cat-doesnt-care-about-the-metal-gear-box-just-the-box-it-came-in/"
+      }
+    ]
   },
   {
     "id": "94aad741c8fa",
@@ -564,15 +684,19 @@
       "playstation",
       "xbox"
     ],
-    "source_name": "IGN",
-    "source_url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-new-dynamic-cosmetic-options-for-certain-characters-like-ghost",
     "image_url": "https://assets-prd.ignimgs.com/2026/05/28/cod4image1-1779986564142.jpg",
     "published_at": "2026-08-24T18:06:58.000Z",
     "hype_signal": 45,
     "like_count": 0,
     "comment_count": 0,
     "game": "call-of-duty-modern-warfare-4",
-    "game_label": "Call of Duty: Modern Warfare 4"
+    "game_label": "Call of Duty: Modern Warfare 4",
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-new-dynamic-cosmetic-options-for-certain-characters-like-ghost"
+      }
+    ]
   },
   {
     "id": "fa25630dd162",
@@ -583,15 +707,19 @@
     "platform_tags": [
       "pc"
     ],
-    "source_name": "GameSpot",
-    "source_url": "https://www.gamespot.com/articles/red-dead-redemption-2-is-getting-a-mexico-expansion-soon-but-not-from-rockstar/",
     "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Red-Dead-2-Mexico-Mod.jpg?w=300",
     "published_at": "2026-08-24T18:04:35.000Z",
     "hype_signal": 72,
     "like_count": 0,
     "comment_count": 0,
     "game": "red-dead-redemption-2",
-    "game_label": "Red Dead Redemption 2"
+    "game_label": "Red Dead Redemption 2",
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/red-dead-redemption-2-is-getting-a-mexico-expansion-soon-but-not-from-rockstar/"
+      }
+    ]
   },
   {
     "id": "3ebed6403b68",
@@ -605,15 +733,19 @@
       "xbox",
       "switch"
     ],
-    "source_name": "GameSpot",
-    "source_url": "https://www.gamespot.com/articles/castlevania-belmonts-curse-is-basically-a-netflix-castlevania-reunion/",
     "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Castlevania.jpg?w=300",
     "published_at": "2026-08-24T18:03:25.000Z",
     "hype_signal": 72,
     "like_count": 0,
     "comment_count": 0,
     "game": "castlevania-belmonts-curse",
-    "game_label": "Castlevania: Belmont's Curse"
+    "game_label": "Castlevania: Belmont's Curse",
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/castlevania-belmonts-curse-is-basically-a-netflix-castlevania-reunion/"
+      }
+    ]
   },
   {
     "id": "4b2743f45e04",
@@ -622,15 +754,19 @@
     "summary": "Humanoid robots participated in competitive gaming events, demonstrating their abilities through interactive challenges. Participants were observed performing popular video game emotes and dance moves, highlighting the entertainment and performance aspects of robotics competitions alongside technical gameplay demonstrations.",
     "category": "industry",
     "platform_tags": [],
-    "source_name": "Kotaku",
-    "source_url": "https://kotaku.com/world-humanoid-robot-games-robots-catching-fire-fortnite-dance-emotes-2000727595",
     "image_url": "https://kotaku.com/app/uploads/2026/08/GettyImages-2291560983.jpg",
     "published_at": "2026-08-24T18:00:00.000Z",
     "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
     "game": "fortnite",
-    "game_label": "Fortnite"
+    "game_label": "Fortnite",
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/world-humanoid-robot-games-robots-catching-fire-fortnite-dance-emotes-2000727595"
+      }
+    ]
   },
   {
     "id": "522a37ac0c3d",
@@ -641,15 +777,19 @@
     "platform_tags": [
       "switch"
     ],
-    "source_name": "GameSpot",
-    "source_url": "https://www.gamespot.com/articles/why-a-nintendo-direct-is-likely-to-happen-next-month/",
     "image_url": "https://www.gamespot.com/wp-content/uploads/2026/06/gamespot-ocarina-of-time-remake-3.jpg?w=300",
     "published_at": "2026-08-24T17:48:45.000Z",
     "hype_signal": 65,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
-    "game_label": null
+    "game_label": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/why-a-nintendo-direct-is-likely-to-happen-next-month/"
+      }
+    ]
   },
   {
     "id": "e093413ffef1",
@@ -662,15 +802,19 @@
       "playstation",
       "xbox"
     ],
-    "source_name": "Kotaku",
-    "source_url": "https://kotaku.com/gta-6-leaker-now-encouraging-people-to-antagonize-rockstar-irl-and-one-person-already-did-it-2000727623",
     "image_url": "https://kotaku.com/app/uploads/2026/08/GTa6leekprotest-1280x720.jpg",
     "published_at": "2026-08-24T17:45:21.000Z",
     "hype_signal": 65,
     "like_count": 0,
     "comment_count": 0,
     "game": "gta-6",
-    "game_label": "GTA 6"
+    "game_label": "GTA 6",
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/gta-6-leaker-now-encouraging-people-to-antagonize-rockstar-irl-and-one-person-already-did-it-2000727623"
+      }
+    ]
   },
   {
     "id": "97da0b909adf",
@@ -679,15 +823,19 @@
     "summary": "A Canadian Pokémon card collector undertook a self-directed sting operation to retrieve approximately $4,000 in stolen cards after local authorities declined to intervene. Unable to obtain police assistance, the collector personally orchestrated the recovery effort.",
     "category": "industry",
     "platform_tags": [],
-    "source_name": "IGN",
-    "source_url": "https://www.ign.com/articles/pokemon-collector-poses-as-buyer-to-recover-4000-worth-of-stolen-cards",
     "image_url": "https://assets-prd.ignimgs.com/2026/08/24/pokemon-card-collector-poses-as-buyer-to-recover-stolen-cards-1787592495584.jpg",
     "published_at": "2026-08-24T17:35:49.000Z",
     "hype_signal": 45,
     "like_count": 0,
     "comment_count": 0,
     "game": "pokemon",
-    "game_label": "Pokémon"
+    "game_label": "Pokémon",
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/pokemon-collector-poses-as-buyer-to-recover-4000-worth-of-stolen-cards"
+      }
+    ]
   },
   {
     "id": "12e4a3f248a3",
@@ -701,15 +849,19 @@
       "xbox",
       "switch"
     ],
-    "source_name": "Kotaku",
-    "source_url": "https://kotaku.com/overwatch-lifeweaver-bug-glitch-removal-fix-date-2000727620",
     "image_url": "https://kotaku.com/app/uploads/2023/05/5bd380e12a5d65310af30a3b848b46ab-1280x720.jpg",
     "published_at": "2026-08-24T17:30:45.000Z",
     "hype_signal": 45,
     "like_count": 0,
     "comment_count": 0,
     "game": "overwatch-2",
-    "game_label": "Overwatch 2"
+    "game_label": "Overwatch 2",
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/overwatch-lifeweaver-bug-glitch-removal-fix-date-2000727620"
+      }
+    ]
   },
   {
     "id": "2a796d3bdfd2",
@@ -722,15 +874,19 @@
       "playstation",
       "xbox"
     ],
-    "source_name": "Kotaku",
-    "source_url": "https://kotaku.com/the-duskbloods-pvp-network-test-losing-2000727554",
     "image_url": "https://kotaku.com/app/uploads/2026/08/duskbloods.jpg",
     "published_at": "2026-08-24T17:00:31.000Z",
     "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
     "game": "elden-ring",
-    "game_label": "Elden Ring"
+    "game_label": "Elden Ring",
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/the-duskbloods-pvp-network-test-losing-2000727554"
+      }
+    ]
   },
   {
     "id": "185d4a31f535",
@@ -745,15 +901,19 @@
       "switch",
       "mobile"
     ],
-    "source_name": "IGN",
-    "source_url": "https://www.ign.com/articles/the-long-game-the-4-best-crops-to-invest-in-early-in-stardew-valley",
     "image_url": "https://assets-prd.ignimgs.com/2026/08/20/1-header-1787254744336.jpg",
     "published_at": "2026-08-24T17:00:00.000Z",
     "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
     "game": "stardew-valley",
-    "game_label": "Stardew Valley"
+    "game_label": "Stardew Valley",
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/the-long-game-the-4-best-crops-to-invest-in-early-in-stardew-valley"
+      }
+    ]
   },
   {
     "id": "e1907d552abc",
@@ -764,15 +924,19 @@
     "platform_tags": [
       "pc"
     ],
-    "source_name": "IGN",
-    "source_url": "https://www.ign.com/articles/mtg-he-man-masters-of-the-universe-secret-lair-card-list",
     "image_url": "https://assets-prd.ignimgs.com/2026/08/24/mtg-masters-of-the-universe-secret-lair-1787589857265.png",
     "published_at": "2026-08-24T16:54:11.000Z",
     "hype_signal": 65,
     "like_count": 0,
     "comment_count": 0,
     "game": "magic-the-gathering",
-    "game_label": "Magic: The Gathering"
+    "game_label": "Magic: The Gathering",
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/mtg-he-man-masters-of-the-universe-secret-lair-card-list"
+      }
+    ]
   },
   {
     "id": "8793ea05b9f1",
@@ -781,15 +945,19 @@
     "summary": "Legendary game designer Hideo Kojima turned 63 and shared thoughts on balancing time and creative pursuits. He emphasized his commitment to game development despite receiving offers for other ventures. Kojima's studio will mark its 10th anniversary in 2026, alongside his 40th year in the industry.",
     "category": "industry",
     "platform_tags": [],
-    "source_name": "GameSpot",
-    "source_url": "https://www.gamespot.com/articles/hideo-kojima-says-hes-aware-of-his-mortality-as-he-celebrates-63rd-birthday/",
     "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Screenshot-2026-08-24-at-12.09.02-PM.png?w=300",
     "published_at": "2026-08-24T16:34:06.000Z",
     "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
-    "game_label": null
+    "game_label": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/hideo-kojima-says-hes-aware-of-his-mortality-as-he-celebrates-63rd-birthday/"
+      }
+    ]
   },
   {
     "id": "bece89777d1e",
@@ -802,15 +970,19 @@
       "playstation",
       "xbox"
     ],
-    "source_name": "Kotaku",
-    "source_url": "https://kotaku.com/all-the-new-details-we-spotted-in-the-leaked-gta-6-videos-six-star-wanted-level-gas-meter-improved-combat-boosting-stats-with-basketball-2000725524",
     "image_url": "https://kotaku.com/app/uploads/2026/02/Xbox-gta-1280x720.jpg",
     "published_at": "2026-08-24T16:20:48.000Z",
     "hype_signal": 85,
     "like_count": 0,
     "comment_count": 0,
     "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
+    "game_label": "Grand Theft Auto 6",
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/all-the-new-details-we-spotted-in-the-leaked-gta-6-videos-six-star-wanted-level-gas-meter-improved-combat-boosting-stats-with-basketball-2000725524"
+      }
+    ]
   },
   {
     "id": "727b3aa3ee5a",
@@ -821,15 +993,19 @@
     "platform_tags": [
       "pc"
     ],
-    "source_name": "IGN",
-    "source_url": "https://www.ign.com/articles/metal-gear-solid-master-collection-vol-2-pc-preorder-discount",
     "image_url": "https://assets-prd.ignimgs.com/2026/08/24/mgs-collection-vol-2-blogroll-1787585391900.png",
     "published_at": "2026-08-24T16:19:01.000Z",
     "hype_signal": 45,
     "like_count": 0,
     "comment_count": 0,
     "game": "metal-gear-solid-master-collection-vol-2",
-    "game_label": "Metal Gear Solid Master Collection Vol. 2"
+    "game_label": "Metal Gear Solid Master Collection Vol. 2",
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/metal-gear-solid-master-collection-vol-2-pc-preorder-discount"
+      }
+    ]
   },
   {
     "id": "a6f82d0096bf",
@@ -840,15 +1016,19 @@
     "platform_tags": [
       "pc"
     ],
-    "source_name": "Kotaku",
-    "source_url": "https://kotaku.com/i-burnt-my-kids-pancakes-playing-way-too-much-blood-dungeon-an-excellent-vampire-survivors-like-from-the-designer-of-nidhogg-and-id-do-it-again-2000727589",
     "image_url": "https://kotaku.com/app/uploads/2026/08/blood-dungeons.jpg",
     "published_at": "2026-08-24T16:15:35.000Z",
     "hype_signal": 72,
     "like_count": 0,
     "comment_count": 0,
     "game": "blood-dungeon",
-    "game_label": "Blood Dungeon"
+    "game_label": "Blood Dungeon",
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/i-burnt-my-kids-pancakes-playing-way-too-much-blood-dungeon-an-excellent-vampire-survivors-like-from-the-designer-of-nidhogg-and-id-do-it-again-2000727589"
+      }
+    ]
   },
   {
     "id": "b2a8e5f3e7ab",
@@ -859,15 +1039,19 @@
     "platform_tags": [
       "pc"
     ],
-    "source_name": "Eurogamer",
-    "source_url": "https://www.eurogamer.net/the-witcher-4-release-date-2028",
     "image_url": "https://assetsio.gnwcdn.com/Witcher-4_Ciri-UE5-demo.png?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-08-24T16:05:45.000Z",
     "hype_signal": 75,
     "like_count": 0,
     "comment_count": 0,
     "game": "the-witcher-4",
-    "game_label": "The Witcher 4"
+    "game_label": "The Witcher 4",
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/the-witcher-4-release-date-2028"
+      }
+    ]
   },
   {
     "id": "d1950e784c90",
@@ -880,15 +1064,19 @@
       "playstation",
       "xbox"
     ],
-    "source_name": "IGN",
-    "source_url": "https://www.ign.com/articles/control-resonant-final-preview",
     "image_url": "https://assets-prd.ignimgs.com/2026/08/13/ign-first-controlresonant-6-thefinalpreview-blogroll-1786627528052.jpg",
     "published_at": "2026-08-24T16:00:00.000Z",
     "hype_signal": 72,
     "like_count": 0,
     "comment_count": 0,
     "game": "control",
-    "game_label": "Control"
+    "game_label": "Control",
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/control-resonant-final-preview"
+      }
+    ]
   },
   {
     "id": "9ddd5cb2ee2b",
@@ -899,15 +1087,19 @@
     "platform_tags": [
       "pc"
     ],
-    "source_name": "Kotaku",
-    "source_url": "https://kotaku.com/the-witcher-4-release-window-2028-gamescom-trailer-2000727598",
     "image_url": "https://kotaku.com/app/uploads/2025/06/746ed16e11a5353c40e125696c63e2ab.jpg",
     "published_at": "2026-08-24T15:52:21.000Z",
     "hype_signal": 78,
     "like_count": 0,
     "comment_count": 0,
     "game": "the-witcher-4",
-    "game_label": "The Witcher 4"
+    "game_label": "The Witcher 4",
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/the-witcher-4-release-window-2028-gamescom-trailer-2000727598"
+      }
+    ]
   },
   {
     "id": "09a62451b12d",
@@ -920,15 +1112,19 @@
       "playstation",
       "xbox"
     ],
-    "source_name": "IGN",
-    "source_url": "https://www.ign.com/articles/the-witcher-4-confirmed-for-2028-release-in-official-cd-projekt-gamescom-2026-announcement",
     "image_url": "https://assets-prd.ignimgs.com/2025/06/03/witcher-4-tech-demo-blogroll-1748956874427.jpg",
     "published_at": "2026-08-24T15:33:18.000Z",
     "hype_signal": 85,
     "like_count": 0,
     "comment_count": 0,
     "game": "the-witcher-4",
-    "game_label": "The Witcher 4"
+    "game_label": "The Witcher 4",
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/the-witcher-4-confirmed-for-2028-release-in-official-cd-projekt-gamescom-2026-announcement"
+      }
+    ]
   },
   {
     "id": "fa3bc916778d",
@@ -937,15 +1133,19 @@
     "summary": "Dream Con 2026 showcased impressive cosplay creations, with attendees bringing characters to life from popular franchises including Naruto, Dragon Ball, and DC Comics. The event featured seventeen particularly notable costume entries that demonstrated detailed craftsmanship and dedication to character authenticity.",
     "category": "industry",
     "platform_tags": [],
-    "source_name": "Kotaku",
-    "source_url": "https://kotaku.com/cosplay-gallery-dream-con-2026-mineralblu-naruto-dragon-ball-batman-2000727521",
     "image_url": "https://kotaku.com/app/uploads/2026/08/main-image-1280x720.jpeg",
     "published_at": "2026-08-24T15:30:04.000Z",
     "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
-    "game_label": null
+    "game_label": null,
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/cosplay-gallery-dream-con-2026-mineralblu-naruto-dragon-ball-batman-2000727521"
+      }
+    ]
   },
   {
     "id": "698fb0cd6627",
@@ -954,15 +1154,19 @@
     "summary": "A person dressed as Spider-Man was arrested during a Minneapolis protest after confronting racist demonstrators. The individual now requires community support and assistance, according to reports covering the incident at the protest event.",
     "category": "industry",
     "platform_tags": [],
-    "source_name": "Kotaku",
-    "source_url": "https://kotaku.com/spider-man-jake-lang-minneapolis-protest-shiloh-hendrix-2000727520",
     "image_url": "https://kotaku.com/app/uploads/2026/08/spiderman-minneapolis.jpg",
     "published_at": "2026-08-24T15:00:12.000Z",
     "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
-    "game_label": null
+    "game_label": null,
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/spider-man-jake-lang-minneapolis-protest-shiloh-hendrix-2000727520"
+      }
+    ]
   },
   {
     "id": "76d56dd76932",
@@ -971,15 +1175,19 @@
     "summary": "Zork, one of six playable characters featured in The Duskbloods' network test, has captured players' attention and inspired the viral trend \"Zorkin' It.\" The unusual character has resonated strongly with the community, becoming an unexpected fan favorite during early testing.",
     "category": "releases",
     "platform_tags": [],
-    "source_name": "IGN",
-    "source_url": "https://www.ign.com/articles/why-everybody-loves-zork-the-duskbloods-weirdest-character-and-miyazakis-favorite",
     "image_url": "https://assets-prd.ignimgs.com/2026/08/24/the-duskbloods-17-1787577339639.png",
     "published_at": "2026-08-24T14:44:42.000Z",
     "hype_signal": 65,
     "like_count": 0,
     "comment_count": 0,
     "game": "the-duskbloods",
-    "game_label": "The Duskbloods"
+    "game_label": "The Duskbloods",
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/why-everybody-loves-zork-the-duskbloods-weirdest-character-and-miyazakis-favorite"
+      }
+    ]
   },
   {
     "id": "4bbf4bc124dc",
@@ -988,15 +1196,19 @@
     "summary": "The Magic: The Gathering Marvel Super Heroes Bundle is currently on sale at Amazon with a 15% discount. The deal includes promo cards and booster packs at a reduced price, making it a good opportunity for collectors and players interested in the crossover set.",
     "category": "deals",
     "platform_tags": [],
-    "source_name": "IGN",
-    "source_url": "https://www.ign.com/articles/mtg-marvel-super-heroes-bundle-amazon-discount",
     "image_url": "https://assets-prd.ignimgs.com/2026/08/24/marvel-super-heroes-bundle-deal-1787581916728.png",
     "published_at": "2026-08-24T14:32:31.000Z",
     "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
     "game": "magic-the-gathering",
-    "game_label": "Magic: The Gathering"
+    "game_label": "Magic: The Gathering",
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/mtg-marvel-super-heroes-bundle-amazon-discount"
+      }
+    ]
   },
   {
     "id": "8004c8500812",
@@ -1005,15 +1217,19 @@
     "summary": "An ongoing series of GTA 6 leaks escalated with the release of gameplay containing explicit content. The leaker has indicated they may publish narrative spoilers and is encouraging fans to stage protests at Rockstar and Take-Two Interactive offices, amplifying concerns about the data breach.",
     "category": "industry",
     "platform_tags": [],
-    "source_name": "IGN",
-    "source_url": "https://www.ign.com/articles/gta-6-leaker-drops-new-nudity-filled-gameplay-polls-people-on-whether-to-release-story-spoilers",
     "image_url": "https://assets-prd.ignimgs.com/2023/12/07/gta6-trailer-4k-00-00-38-29-still001-1701962524689.png",
     "published_at": "2026-08-24T14:31:55.000Z",
     "hype_signal": 75,
     "like_count": 0,
     "comment_count": 0,
     "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
+    "game_label": "Grand Theft Auto 6",
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-leaker-drops-new-nudity-filled-gameplay-polls-people-on-whether-to-release-story-spoilers"
+      }
+    ]
   },
   {
     "id": "7826d571d10b",
@@ -1026,15 +1242,19 @@
       "playstation",
       "xbox"
     ],
-    "source_name": "Kotaku",
-    "source_url": "https://kotaku.com/gamescom-opening-night-live-where-watch-date-time-stream-2000727546",
     "image_url": "https://kotaku.com/app/uploads/2026/06/ff7-1280x719.jpg",
     "published_at": "2026-08-24T14:30:53.000Z",
     "hype_signal": 75,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
-    "game_label": null
+    "game_label": null,
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/gamescom-opening-night-live-where-watch-date-time-stream-2000727546"
+      }
+    ]
   },
   {
     "id": "55b3a8a40bdf",
@@ -1045,15 +1265,19 @@
     "platform_tags": [
       "pc"
     ],
-    "source_name": "IGN",
-    "source_url": "https://www.ign.com/articles/nautus-exclusive-hands-on-preview-it-feels-like-mash-up-of-steamworld-dig-and-subnautica",
     "image_url": "https://assets-prd.ignimgs.com/2026/08/21/nautus-blogroll-1787340582249.jpg",
     "published_at": "2026-08-24T14:00:00.000Z",
     "hype_signal": 65,
     "like_count": 0,
     "comment_count": 0,
     "game": "nautus",
-    "game_label": "Nautus"
+    "game_label": "Nautus",
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/nautus-exclusive-hands-on-preview-it-feels-like-mash-up-of-steamworld-dig-and-subnautica"
+      }
+    ]
   },
   {
     "id": "8e1ec0c8b45b",
@@ -1066,15 +1290,19 @@
       "playstation",
       "xbox"
     ],
-    "source_name": "Kotaku",
-    "source_url": "https://kotaku.com/new-gta-6-leak-is-filled-with-boobs-and-dicks-2000727526",
     "image_url": "https://kotaku.com/app/uploads/2025/05/feed8131c865d8e6c207e1b96f96096e-1280x720.jpg",
     "published_at": "2026-08-24T13:54:42.000Z",
     "hype_signal": 72,
     "like_count": 0,
     "comment_count": 0,
     "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
+    "game_label": "Grand Theft Auto 6",
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/new-gta-6-leak-is-filled-with-boobs-and-dicks-2000727526"
+      }
+    ]
   },
   {
     "id": "c84c232c20c2",
@@ -1083,15 +1311,19 @@
     "summary": "The legendary Metal Gear Solid and Death Stranding director is celebrating his 63rd birthday while contemplating his future projects. Kojima expresses optimism about his creative potential but acknowledges the finite time remaining to bring his ambitious ideas to fruition.",
     "category": "industry",
     "platform_tags": [],
-    "source_name": "IGN",
-    "source_url": "https://www.ign.com/articles/as-hideo-kojima-turns-63-the-metal-gear-solid-creator-says-he-has-more-ideas-than-ever-but-less-time-left-to-make-them",
     "image_url": "https://assets-prd.ignimgs.com/2026/08/24/hqdvhr9biaajeta-1787579249501.jpg",
     "published_at": "2026-08-24T13:48:20.000Z",
     "hype_signal": 45,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
-    "game_label": null
+    "game_label": null,
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/as-hideo-kojima-turns-63-the-metal-gear-solid-creator-says-he-has-more-ideas-than-ever-but-less-time-left-to-make-them"
+      }
+    ]
   },
   {
     "id": "4ae3e6d1716c",
@@ -1104,15 +1336,19 @@
       "playstation",
       "xbox"
     ],
-    "source_name": "IGN",
-    "source_url": "https://www.ign.com/articles/black-myth-zhong-kui-doesnt-look-as-epic-as-wukong-and-thats-great",
     "image_url": "https://assets-prd.ignimgs.com/2026/08/24/black-myth-blogroll-1787576200760.jpg",
     "published_at": "2026-08-24T13:30:00.000Z",
     "hype_signal": 72,
     "like_count": 0,
     "comment_count": 0,
     "game": "black-myth-zhong-kui",
-    "game_label": "Black Myth: Zhong Kui"
+    "game_label": "Black Myth: Zhong Kui",
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/black-myth-zhong-kui-doesnt-look-as-epic-as-wukong-and-thats-great"
+      }
+    ]
   },
   {
     "id": "9bac9cb70138",
@@ -1123,15 +1359,19 @@
     "platform_tags": [
       "xbox"
     ],
-    "source_name": "IGN",
-    "source_url": "https://www.ign.com/articles/the-elder-scrolls-iv-oblivion-i-spent-44-hours-in-4-days-playing-it-in-bethesdas-basement",
     "image_url": "https://assets-prd.ignimgs.com/2026/08/22/oblivion-1787434528792.jpg",
     "published_at": "2026-08-24T13:10:00.000Z",
     "hype_signal": 65,
     "like_count": 0,
     "comment_count": 0,
     "game": "the-elder-scrolls-iv-oblivion",
-    "game_label": "The Elder Scrolls IV: Oblivion"
+    "game_label": "The Elder Scrolls IV: Oblivion",
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/the-elder-scrolls-iv-oblivion-i-spent-44-hours-in-4-days-playing-it-in-bethesdas-basement"
+      }
+    ]
   },
   {
     "id": "0701e1bdd142",
@@ -1142,15 +1382,19 @@
     "platform_tags": [
       "playstation"
     ],
-    "source_name": "Kotaku",
-    "source_url": "https://kotaku.com/vampire-rpg-blood-of-dawnwalker-will-rush-out-a-60fps-mode-after-after-backlash-we-heard-your-feedback-2000727511",
     "image_url": "https://kotaku.com/app/uploads/2026/08/blood-dawn-1280x720.jpg",
     "published_at": "2026-08-24T13:00:25.000Z",
     "hype_signal": 45,
     "like_count": 0,
     "comment_count": 0,
     "game": "blood-of-dawnwalker",
-    "game_label": "Blood of Dawnwalker"
+    "game_label": "Blood of Dawnwalker",
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/vampire-rpg-blood-of-dawnwalker-will-rush-out-a-60fps-mode-after-after-backlash-we-heard-your-feedback-2000727511"
+      }
+    ]
   },
   {
     "id": "ddefc208ffec",
@@ -1159,15 +1403,19 @@
     "summary": "A Connecticut content creator has filed a class action lawsuit against Twitch, claiming the platform harvested streamer data beyond its disclosed policies to develop Amazon's artificial intelligence products. The case challenges Twitch's AI training practices and their scope.",
     "category": "industry",
     "platform_tags": [],
-    "source_name": "Kotaku",
-    "source_url": "https://kotaku.com/streamer-files-class-action-lawsuit-against-twitch-over-ai-training-2000727274",
     "image_url": "https://kotaku.com/app/uploads/2021/09/24123897f999eec2a0b478d27f417dbb-1280x720.jpg",
     "published_at": "2026-08-23T22:01:51.000Z",
     "hype_signal": 65,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
-    "game_label": null
+    "game_label": null,
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/streamer-files-class-action-lawsuit-against-twitch-over-ai-training-2000727274"
+      }
+    ]
   },
   {
     "id": "6b7330e19546",
@@ -1179,15 +1427,19 @@
       "pc",
       "playstation"
     ],
-    "source_name": "Kotaku",
-    "source_url": "https://kotaku.com/revolutionary-macintosh-fantasy-series-celebrates-40th-anniversary-with-pc-version-2000727271",
     "image_url": "https://kotaku.com/app/uploads/2026/08/darkcastle-e1787574634174.jpg",
     "published_at": "2026-08-23T21:01:52.000Z",
     "hype_signal": 65,
     "like_count": 0,
     "comment_count": 0,
     "game": "dark-castle",
-    "game_label": "Dark Castle"
+    "game_label": "Dark Castle",
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/revolutionary-macintosh-fantasy-series-celebrates-40th-anniversary-with-pc-version-2000727271"
+      }
+    ]
   },
   {
     "id": "97e4a9fc326a",
@@ -1196,15 +1448,19 @@
     "summary": "A Disneyland regular became the target of intense online scrutiny following allegations about her interactions with Peter Pan cast members. The subsequent backlash raised questions about parasocial relationships, content creation ethics, and the boundaries between fandom and appropriate behavior at theme parks.",
     "category": "industry",
     "platform_tags": [],
-    "source_name": "Kotaku",
-    "source_url": "https://kotaku.com/alleged-peter-pan-stalker-latest-stress-test-on-content-creation-and-boundaries-2000727266",
     "image_url": "https://kotaku.com/app/uploads/2026/08/peter-pan.jpg",
     "published_at": "2026-08-23T20:03:29.000Z",
     "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
-    "game_label": null
+    "game_label": null,
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/alleged-peter-pan-stalker-latest-stress-test-on-content-creation-and-boundaries-2000727266"
+      }
+    ]
   },
   {
     "id": "e7344ad36fa4",
@@ -1216,14 +1472,18 @@
       "xbox",
       "pc"
     ],
-    "source_name": "GameSpot",
-    "source_url": "https://www.gamespot.com/articles/surprise-xbox-game-to-be-announced-at-gamescom-insider-says/",
     "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/XboxGamescom_765260.jpg?w=300",
     "published_at": "2026-08-18T19:17:38.000Z",
     "hype_signal": 25,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
-    "game_label": null
+    "game_label": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/surprise-xbox-game-to-be-announced-at-gamescom-insider-says/"
+      }
+    ]
   }
 ]

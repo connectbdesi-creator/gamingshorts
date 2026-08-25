@@ -5,7 +5,7 @@ import { CategoryBadge } from "@/components/cards/category-badge";
 import { LikeButton } from "@/components/engagement/like-button";
 import { GameBadge } from "@/components/games/game-badge";
 import { ShareMenu } from "@/components/share/share-menu";
-import { formatRelativeTime } from "@/lib/format";
+import { formatRelativeTime, formatSourceNames } from "@/lib/format";
 import { getSiteUrl } from "@/lib/site";
 import { cn } from "@/lib/utils";
 import type { Card } from "@/types/card";
@@ -71,7 +71,7 @@ export function NewsCard({
             {card.summary}
           </p>
           <span className="truncate text-xs text-foreground-subtle">
-            {card.source_name} · {formatRelativeTime(card.published_at)}
+            {formatSourceNames(card.sources)} · {formatRelativeTime(card.published_at)}
           </span>
         </div>
       </Link>
@@ -92,7 +92,7 @@ export function NewsCard({
         </div>
         <div className="flex items-center gap-3">
           <a
-            href={card.source_url}
+            href={card.sources[0].url}
             target="_blank"
             rel="noopener noreferrer"
             onClick={(e) => e.stopPropagation()}

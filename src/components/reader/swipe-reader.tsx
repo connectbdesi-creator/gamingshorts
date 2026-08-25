@@ -10,7 +10,7 @@ import { FollowButton } from "@/components/engagement/follow-button";
 import { LikeButton } from "@/components/engagement/like-button";
 import { GameBadge } from "@/components/games/game-badge";
 import { ShareButtons } from "@/components/share/share-buttons";
-import { formatRelativeTime } from "@/lib/format";
+import { formatRelativeTime, formatSourceNames } from "@/lib/format";
 import { getSiteUrl } from "@/lib/site";
 import type { Card } from "@/types/card";
 
@@ -189,10 +189,10 @@ export function SwipeReader({
                 <div className="mt-auto flex flex-col gap-3 border-t border-border pt-4 text-sm text-foreground-subtle">
                   <div className="flex items-center justify-between">
                     <span>
-                      {card.source_name} · {formatRelativeTime(card.published_at)}
+                      {formatSourceNames(card.sources)} · {formatRelativeTime(card.published_at)}
                     </span>
                     <a
-                      href={card.source_url}
+                      href={card.sources[0].url}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="font-medium text-accent hover:text-accent-hover"

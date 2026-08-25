@@ -1,4 +1,5 @@
 import { getAllCards } from "@/lib/cards";
+import { formatSourceNames } from "@/lib/format";
 import { getSiteUrl } from "@/lib/site";
 
 function escapeXml(text: string): string {
@@ -27,7 +28,7 @@ export function GET() {
       <pubDate>${new Date(card.published_at).toUTCString()}</pubDate>
       <description>${escapeXml(card.summary)}</description>
       <category>${escapeXml(card.category)}</category>
-      <source url="${escapeXml(card.source_url)}">${escapeXml(card.source_name)}</source>
+      <source url="${escapeXml(card.sources[0].url)}">${escapeXml(formatSourceNames(card.sources))}</source>
     </item>`;
     })
     .join("");

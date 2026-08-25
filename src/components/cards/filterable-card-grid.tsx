@@ -10,6 +10,7 @@ import { GameDropdown, type GameFilterValue } from "@/components/filters/game-dr
 import { PlatformDropdown } from "@/components/filters/platform-dropdown";
 import { SearchInput } from "@/components/filters/search-input";
 import { SwipeReader } from "@/components/reader/swipe-reader";
+import { formatSourceNames } from "@/lib/format";
 import { getTrendingGames } from "@/lib/games";
 import type { PlatformSlug } from "@/lib/platforms";
 import type { Card } from "@/types/card";
@@ -48,7 +49,7 @@ export function FilterableCardGrid({
       if (platforms.size > 0 && !card.platform_tags.some((p) => platforms.has(p))) return false;
       if (game !== "all" && card.game !== game) return false;
       if (query) {
-        const haystack = `${card.headline} ${card.summary} ${card.game_label ?? ""} ${card.source_name}`.toLowerCase();
+        const haystack = `${card.headline} ${card.summary} ${card.game_label ?? ""} ${formatSourceNames(card.sources)}`.toLowerCase();
         if (!haystack.includes(query)) return false;
       }
       return true;

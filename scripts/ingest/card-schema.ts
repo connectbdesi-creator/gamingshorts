@@ -28,7 +28,17 @@ export const CARD_JSON_SCHEMA = {
     is_gaming_news: {
       type: "boolean",
       description:
-        "True only if this article is substantively about the video game industry or a specific video game — a release, a review, a patch/update, an esports event, game-related business news (studio/publisher deals, layoffs, funding), or a video game storefront sale. False for everything else, even if it mentions a game in passing or uses gaming terminology loosely — general entertainment/movie/TV/anime news, consumer tech or hardware that isn't gaming-specific, non-gaming stories that merely reference a game, or stories where a game is only a minor detail rather than the subject.",
+        "True only if the article is substantively about video games, game studios, publishers, platforms, esports, or the video game business. Articles about movies, TV shows, comics, general pop culture, or celebrity news are NOT gaming news, even if published by a gaming outlet or if they mention a game in passing.",
+    },
+    is_sensitive: {
+      type: "boolean",
+      description:
+        "True if the article involves NSFW/explicit leaked content, real-world violence, arrests, protests, or other content inappropriate for a general gaming news audience — even if it's otherwise on-topic gaming news.",
+    },
+    skip_reason: {
+      type: ["string", "null"],
+      description:
+        "A short reason (a few words) for why is_gaming_news is false or is_sensitive is true, for QC logging — e.g. \"movie news, not gaming\" or \"NSFW leaked content\". Null when both flags are clean (is_gaming_news true, is_sensitive false).",
     },
     headline: {
       type: "string",
@@ -62,6 +72,8 @@ export const CARD_JSON_SCHEMA = {
   },
   required: [
     "is_gaming_news",
+    "is_sensitive",
+    "skip_reason",
     "headline",
     "summary",
     "category",
@@ -71,11 +83,15 @@ export const CARD_JSON_SCHEMA = {
   ],
 } as const;
 
+const SYSTEM_PREAMBLE = `You are filtering and summarizing articles for a video game industry news site. First classify the article using is_gaming_news and is_sensitive (see their descriptions). If is_gaming_news is false, or is_sensitive is true, set skip_reason to a short explanation and fill the remaining fields with your best guess anyway — they'll be discarded, only the flags and reason matter. Otherwise set skip_reason to null and summarize it as a video game news card for a 60-word Inshorts-style feed.`;
+
 export function buildPrompt(
   article: { title: string; content: string; sourceName: string },
   feedback?: string
 ): string {
-  return `Source outlet: ${article.sourceName}
+  return `${SYSTEM_PREAMBLE}
+
+Source outlet: ${article.sourceName}
 Original headline: ${article.title}
 
 Article content:
@@ -83,9 +99,32 @@ Article content:
 ${article.content}
 """
 
-This is a video-game-industry-only news feed. First decide whether the article is genuinely about video games — not just published by a gaming-adjacent outlet. Set is_gaming_news to false for general entertainment/movie/TV/anime coverage, non-gaming tech or hardware, or anything where a game is only mentioned in passing rather than being the actual subject; if it's false, fill the other fields with your best guess anyway, they'll be discarded.
+Rewrite everything in your own words — do not copy sentences from the article. The summary must be ${MAX_SUMMARY_WORDS} words or fewer, no exceptions.${feedback ? `\n\n${feedback}` : ""}`;
+}
 
-If it is gaming news, summarize it as a video game news card for a 60-word Inshorts-style feed. Rewrite everything in your own words — do not copy sentences from the article. The summary must be ${MAX_SUMMARY_WORDS} words or fewer, no exceptions.${feedback ? `\n\n${feedback}` : ""}`;
+/**
+ * Prompt for merging multiple already-classified articles about the same
+ * underlying story (see dedup.ts's isSameStory) into a single card. Reuses
+ * CARD_JSON_SCHEMA/CARD_TOOL as-is rather than a separate tool definition —
+ * every provider's tool is fixed at module scope (see providers/*.ts), and
+ * the merge output is just a subset of the same card fields, so a second
+ * tool isn't worth the added plumbing. is_gaming_news/is_sensitive are
+ * explicitly told to pass clean since every contributing article already
+ * individually cleared classification.
+ */
+export function buildMergePrompt(
+  articles: { title: string; content: string; sourceName: string }[],
+  feedback?: string
+): string {
+  const articlesBlock = articles
+    .map((a, i) => `${i + 1}. Source: ${a.sourceName}\nHeadline: ${a.title}\n${a.content.slice(0, 1000)}`)
+    .join("\n\n");
+
+  return `The following ${articles.length} articles all cover the same underlying video game news story from different outlets — every one has already been individually confirmed as legitimate, on-topic, non-sensitive gaming news, so set is_gaming_news to true, is_sensitive to false, and skip_reason to null.
+
+${articlesBlock}
+
+Write ONE combined card for this story: a single rewritten headline and a ${MAX_SUMMARY_WORDS}-word-or-fewer summary covering the story itself — not any one outlet's specific angle — plus the single best category, platform tags, hype signal, and game label for it.${feedback ? `\n\n${feedback}` : ""}`;
 }
 
 export function truncateToWordLimit(text: string, limit: number): string {

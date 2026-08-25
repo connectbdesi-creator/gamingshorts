@@ -1,3 +1,11 @@
+import type { CardSource } from "@/types/card";
+
+/** "IGN" for a single source, "IGN, Eurogamer, Kotaku" for a merged
+ * multi-outlet card. */
+export function formatSourceNames(sources: CardSource[]): string {
+  return sources.map((s) => s.name).join(", ");
+}
+
 export function isWithinHours(isoDate: string, hours: number, now = Date.now()): boolean {
   return now - new Date(isoDate).getTime() <= hours * 60 * 60 * 1000;
 }

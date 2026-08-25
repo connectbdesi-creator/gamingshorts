@@ -1,3 +1,5 @@
+import { slugifyGameName } from "./slugify";
+
 const STOPWORDS = new Set([
   "a", "an", "the", "of", "in", "on", "for", "to", "and", "with", "is",
   "are", "at", "by", "as", "from", "its", "it", "after", "over", "amid",
@@ -57,6 +59,33 @@ export function titleSimilarity(a: string, b: string): number {
 
 const DUPLICATE_THRESHOLD = 0.5;
 
-export function isDuplicateTitle(title: string, against: string[]): boolean {
-  return against.some((existing) => titleSimilarity(title, existing) >= DUPLICATE_THRESHOLD);
+// Same signal as DUPLICATE_THRESHOLD, but only needs to clear a much lower
+// bar when both articles already agree on the specific game — that
+// agreement alone is a strong prior that they're the same story, so the
+// headline text doesn't have to overlap nearly as much before treating
+// them as one. Stories with no game tag (industry/business, cross-outlet
+// leak coverage) fall back to the higher game-agnostic threshold.
+const GAME_MATCH_THRESHOLD = 0.3;
+
+/**
+ * Decides whether two articles are coverage of the same underlying story —
+ * used both to catch same-run duplicates before they become separate cards
+ * and to match a new article against a recently-published card so outlets
+ * get merged into one card's `sources` instead of spawning near-duplicates
+ * (see run.ts). Deliberately a cheap heuristic (game tag + title token
+ * overlap), not embeddings — good enough for the common "N outlets ran the
+ * same wire story" case without the infra cost of a real similarity model.
+ */
+export function isSameStory(
+  a: { headline: string; gameLabel: string | null },
+  b: { headline: string; gameLabel: string | null }
+): boolean {
+  const similarity = titleSimilarity(a.headline, b.headline);
+  const sameGame =
+    a.gameLabel !== null &&
+    b.gameLabel !== null &&
+    slugifyGameName(a.gameLabel) === slugifyGameName(b.gameLabel);
+
+  if (sameGame && similarity >= GAME_MATCH_THRESHOLD) return true;
+  return similarity >= DUPLICATE_THRESHOLD;
 }
