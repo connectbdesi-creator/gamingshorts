@@ -55,3 +55,11 @@ export function getTrendingGames(cards: Card[], limit = 5): GameEntry[] {
     .sort((a, b) => b.last24hCount - a.last24hCount || b.cardCount - a.cardCount)
     .slice(0, limit);
 }
+
+/** Top N games by total article volume (all-time within the current card
+ * set, not just the last 24h), for the "By Games" filter dropdown. */
+export function getTopGamesByVolume(cards: Card[], limit = 10): GameEntry[] {
+  return getGameIndex(cards)
+    .sort((a, b) => b.cardCount - a.cardCount)
+    .slice(0, limit);
+}

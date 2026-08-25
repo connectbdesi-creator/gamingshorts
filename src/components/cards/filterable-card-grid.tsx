@@ -6,39 +6,54 @@ import {
   CategoryDropdown,
   type CategoryFilterValue,
 } from "@/components/filters/category-dropdown";
+import { GameDropdown, type GameFilterValue } from "@/components/filters/game-dropdown";
 import { PlatformDropdown } from "@/components/filters/platform-dropdown";
+import { SearchInput } from "@/components/filters/search-input";
 import { SwipeReader } from "@/components/reader/swipe-reader";
+import { getTopGamesByVolume } from "@/lib/games";
 import type { PlatformSlug } from "@/lib/platforms";
 import type { Card } from "@/types/card";
 
 /**
  * Client-side grid + filter + reader orchestrator used by the homepage,
- * category pages, and the deals page. Category/platform filtering happens
- * in-memory (no navigation) so it stays instant; opening a card pushes a
- * real history entry for its permanent /news/[slug] URL so the browser
- * back button and shared links both behave correctly, without a full page
- * navigation or data refetch.
+ * category pages, and the deals page. Category/platform/game filtering and
+ * search all happen in-memory (no navigation) so they stay instant; opening
+ * a card pushes a real history entry for its permanent /news/[slug] URL so
+ * the browser back button and shared links both behave correctly, without a
+ * full page navigation or data refetch.
  */
 export function FilterableCardGrid({
   cards,
   showCategoryTabs = false,
   showPlatformFilter = true,
+  showGameFilter = showPlatformFilter,
 }: {
   cards: Card[];
   showCategoryTabs?: boolean;
   showPlatformFilter?: boolean;
+  showGameFilter?: boolean;
 }) {
   const [category, setCategory] = useState<CategoryFilterValue>("all");
   const [platforms, setPlatforms] = useState<Set<PlatformSlug>>(new Set());
+  const [game, setGame] = useState<GameFilterValue>("all");
+  const [search, setSearch] = useState("");
   const [openIndex, setOpenIndex] = useState<number | null>(null);
 
+  const topGames = useMemo(() => getTopGamesByVolume(cards, 10), [cards]);
+
   const filteredCards = useMemo(() => {
+    const query = search.trim().toLowerCase();
     return cards.filter((card) => {
       if (category !== "all" && card.category !== category) return false;
-      if (platforms.size === 0) return true;
-      return card.platform_tags.some((p) => platforms.has(p));
+      if (platforms.size > 0 && !card.platform_tags.some((p) => platforms.has(p))) return false;
+      if (game !== "all" && card.game !== game) return false;
+      if (query) {
+        const haystack = `${card.headline} ${card.summary} ${card.game_label ?? ""} ${card.source_name}`.toLowerCase();
+        if (!haystack.includes(query)) return false;
+      }
+      return true;
     });
-  }, [cards, category, platforms]);
+  }, [cards, category, platforms, game, search]);
 
   function togglePlatform(platform: PlatformSlug) {
     setPlatforms((prev) => {
@@ -80,7 +95,7 @@ export function FilterableCardGrid({
 
   return (
     <div className="flex flex-col gap-4">
-      {(showCategoryTabs || showPlatformFilter) && (
+      {(showCategoryTabs || showPlatformFilter || showGameFilter) && (
         <div className="flex flex-wrap items-center gap-2">
           {showCategoryTabs && <CategoryDropdown value={category} onChange={setCategory} />}
           {showPlatformFilter && (
@@ -90,6 +105,10 @@ export function FilterableCardGrid({
               onClear={clearPlatforms}
             />
           )}
+          {showGameFilter && topGames.length > 0 && (
+            <GameDropdown games={topGames} value={game} onChange={setGame} />
+          )}
+          {showGameFilter && <SearchInput value={search} onChange={setSearch} />}
         </div>
       )}
       <CardGrid cards={filteredCards} onOpen={openCard} />

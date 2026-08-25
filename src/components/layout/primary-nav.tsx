@@ -19,6 +19,7 @@ export function PrimaryNav() {
             aria-current={active ? "page" : undefined}
             className={cn(
               "shrink-0 rounded-chip px-3 py-1.5 transition-colors",
+              item.href === "/hot-topics" && "hot-topics-glow",
               active
                 ? "bg-accent text-accent-foreground"
                 : "hover:bg-surface-hover hover:text-foreground"

@@ -58,6 +58,7 @@ export function MobileMenu() {
                   aria-current={active ? "page" : undefined}
                   className={cn(
                     "rounded-chip px-3 py-2.5 text-sm font-medium transition-colors",
+                    item.href === "/hot-topics" && "hot-topics-glow",
                     active
                       ? "bg-accent text-accent-foreground"
                       : "text-foreground-muted hover:bg-surface-hover hover:text-foreground"

@@ -38,6 +38,12 @@
 
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+
+  /* Actual measured height of the sticky header (see
+     header-height-observer.tsx) — the swipe reader uses this to sit below
+     the header instead of covering it. Fallback covers the gap before JS
+     measures the real value on mount. */
+  --header-h: 64px;
 }
 
 .light {
@@ -102,4 +108,23 @@ body {
 }
 .no-scrollbar::-webkit-scrollbar {
   display: none;
+}
+
+/* Draws attention to the Hot Topics nav link with a pulsing warm-colored
+   border, independent of its active/selected state. */
+@keyframes hot-glow {
+  0%,
+  100% {
+    box-shadow:
+      0 0 0 1px rgba(251, 146, 60, 0.6),
+      0 0 6px 1px rgba(251, 146, 60, 0.45);
+  }
+  50% {
+    box-shadow:
+      0 0 0 1px rgba(251, 146, 60, 0.9),
+      0 0 14px 4px rgba(251, 146, 60, 0.7);
+  }
+}
+.hot-topics-glow {
+  animation: hot-glow 2.2s ease-in-out infinite;
 }
