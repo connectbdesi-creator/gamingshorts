@@ -1,11 +1,13 @@
 import fs from "node:fs";
 import path from "node:path";
 import Parser from "rss-parser";
+import { isDuplicateTitle } from "./dedup";
 import { fetchGameInfo } from "./game-info";
 import { sendPushForNewCards } from "./push";
 import { getActiveProvider, summarizeArticle } from "./summarize";
-import { RSS_SOURCES } from "./sources";
+import { RSS_SOURCES, type RssSource } from "./sources";
 import { hashId, slugify, slugifyGameName } from "./slugify";
+import { isWithinHours } from "@/lib/format";
 import type { Card } from "@/types/card";
 import type { GameInfo } from "@/types/game-info";
 
@@ -18,8 +20,30 @@ const MAX_CARDS = 200;
 const FORCE_REFRESH = process.env.FORCE_REFRESH === "true";
 const MAX_NEW_PER_SOURCE = FORCE_REFRESH ? 15 : 5;
 const MAX_NEW_TOTAL = FORCE_REFRESH ? 120 : 40;
+// How far back to look at already-published cards when checking whether a
+// candidate duplicates a story that got covered in an earlier run.
+const RECENT_CARD_WINDOW_HOURS = 48;
 
 type MediaItem = { $?: { url?: string } };
+type FeedItem = {
+  link?: string;
+  title?: string;
+  contentSnippet?: string;
+  content?: string;
+  summary?: string;
+  isoDate?: string;
+  pubDate?: string;
+  enclosure?: { url?: string };
+  mediaContent?: MediaItem[];
+};
+
+interface Candidate {
+  source: RssSource;
+  item: FeedItem;
+  title: string;
+  link: string;
+  itemId: string;
+}
 
 const parser = new Parser<object, { enclosure?: { url?: string }; mediaContent?: MediaItem[] }>({
   headers: {
@@ -45,10 +69,7 @@ function writeJson(filePath: string, data: unknown) {
   fs.writeFileSync(filePath, `${JSON.stringify(data, null, 2)}\n`);
 }
 
-function extractImage(item: {
-  enclosure?: { url?: string };
-  mediaContent?: MediaItem[];
-}, seed: string): string {
+function extractImage(item: FeedItem, seed: string): string {
   const fromEnclosure = item.enclosure?.url;
   const fromMedia = item.mediaContent?.[0]?.$?.url;
   return fromEnclosure || fromMedia || `https://picsum.photos/seed/${seed}/800/600`;
@@ -68,12 +89,11 @@ async function run() {
   const existingCards = readJson<Card[]>(CARDS_PATH, []);
   const seen = new Set<string>(FORCE_REFRESH ? [] : readJson<string[]>(SEEN_PATH, []));
 
-  const newCards: Card[] = [];
-  let processedCount = 0;
-
+  // Phase 1: gather every not-yet-seen item across all feeds first, instead
+  // of summarizing as we go — this is what lets duplicate-story detection
+  // (phase 2) see the full candidate pool before anything gets processed.
+  const candidates: Candidate[] = [];
   for (const source of RSS_SOURCES) {
-    if (processedCount >= MAX_NEW_TOTAL) break;
-
     let feed;
     try {
       feed = await parser.parseURL(source.url);
@@ -82,65 +102,89 @@ async function run() {
       continue;
     }
 
-    let newFromThisSource = 0;
-    for (const item of feed.items) {
-      if (processedCount >= MAX_NEW_TOTAL) break;
-      if (newFromThisSource >= MAX_NEW_PER_SOURCE) break;
-
+    let fromThisSource = 0;
+    for (const item of feed.items as FeedItem[]) {
+      if (fromThisSource >= MAX_NEW_PER_SOURCE) break;
       const link = item.link;
       if (!link) continue;
       const itemId = hashId(link);
       if (seen.has(itemId)) continue;
 
-      const title = item.title ?? "Untitled";
-      const content =
-        item.contentSnippet ?? item.content ?? item.summary ?? title;
-
-      console.log(`- Summarizing "${title}" (${source.name})`);
-      const summarized = await summarizeArticle({
-        title,
-        content: content.slice(0, 3000),
-        sourceName: source.name,
-      });
-
-      // Only mark as seen on success. A failed summarization is often a
-      // systemic issue (bad/missing API key, rate limit) rather than
-      // something wrong with this specific article — marking it seen
-      // anyway would permanently blacklist real news the moment that
-      // issue is fixed. processedCount still counts the attempt either
-      // way, so a run of persistently-failing articles can't loop forever.
-      processedCount++;
-
-      if (!summarized) {
-        console.error(`  ! Skipped (summarization failed, will retry next run): ${title}`);
-        continue;
-      }
-
-      seen.add(itemId);
-
-      const publishedAt = item.isoDate ?? (item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString());
-
-      const card: Card = {
-        id: itemId,
-        slug: slugify(summarized.headline, link),
-        headline: summarized.headline,
-        summary: summarized.summary,
-        category: summarized.category,
-        platform_tags: summarized.platform_tags,
-        source_name: source.name,
-        source_url: link,
-        image_url: extractImage(item, itemId),
-        published_at: publishedAt,
-        hype_signal: summarized.hype_signal,
-        like_count: 0,
-        comment_count: 0,
-        game: summarized.game_label ? slugifyGameName(summarized.game_label) : null,
-        game_label: summarized.game_label,
-      };
-
-      newCards.push(card);
-      newFromThisSource++;
+      candidates.push({ source, item, title: item.title ?? "Untitled", link, itemId });
+      fromThisSource++;
     }
+  }
+
+  // Phase 2: drop candidates that look like the same story as something
+  // already accepted this run, or already published recently — multiple
+  // outlets frequently run near-identical headlines for the same wire
+  // story/press release. Duplicates are marked seen (not retried) since
+  // the story itself is already covered, just via a different source.
+  const recentHeadlines = existingCards
+    .filter((c) => isWithinHours(c.published_at, RECENT_CARD_WINDOW_HOURS))
+    .map((c) => c.headline);
+
+  const acceptedTitles = [...recentHeadlines];
+  const dedupedCandidates: Candidate[] = [];
+  for (const candidate of candidates) {
+    if (isDuplicateTitle(candidate.title, acceptedTitles)) {
+      console.log(
+        `  = Skipping duplicate story (${candidate.source.name}): "${candidate.title}"`
+      );
+      seen.add(candidate.itemId);
+      continue;
+    }
+    acceptedTitles.push(candidate.title);
+    dedupedCandidates.push(candidate);
+  }
+
+  // Phase 3: summarize survivors, respecting the total-per-run cap.
+  const newCards: Card[] = [];
+  for (const { source, item, title, link, itemId } of dedupedCandidates) {
+    if (newCards.length >= MAX_NEW_TOTAL) break;
+
+    const content = item.contentSnippet ?? item.content ?? item.summary ?? title;
+
+    console.log(`- Summarizing "${title}" (${source.name})`);
+    const summarized = await summarizeArticle({
+      title,
+      content: content.slice(0, 3000),
+      sourceName: source.name,
+    });
+
+    if (!summarized) {
+      console.error(`  ! Skipped (summarization failed, will retry next run): ${title}`);
+      // Not marked seen — a failed call is usually systemic (bad/missing
+      // key, rate limit), not something wrong with this specific article,
+      // so it should be retried once the real issue is fixed rather than
+      // permanently blacklisted.
+      continue;
+    }
+
+    seen.add(itemId);
+
+    const publishedAt =
+      item.isoDate ?? (item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString());
+
+    const card: Card = {
+      id: itemId,
+      slug: slugify(summarized.headline, link),
+      headline: summarized.headline,
+      summary: summarized.summary,
+      category: summarized.category,
+      platform_tags: summarized.platform_tags,
+      source_name: source.name,
+      source_url: link,
+      image_url: extractImage(item, itemId),
+      published_at: publishedAt,
+      hype_signal: summarized.hype_signal,
+      like_count: 0,
+      comment_count: 0,
+      game: summarized.game_label ? slugifyGameName(summarized.game_label) : null,
+      game_label: summarized.game_label,
+    };
+
+    newCards.push(card);
   }
 
   const merged = [...newCards, ...existingCards]

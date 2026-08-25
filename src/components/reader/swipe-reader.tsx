@@ -141,7 +141,7 @@ export function SwipeReader({
         {cards.map((card) => (
           <section
             key={card.id}
-            className="relative flex h-full w-full snap-start flex-col"
+            className="relative flex h-full w-full snap-start flex-col [scroll-snap-stop:always]"
           >
             <div className="relative h-[45%] w-full shrink-0 sm:h-[55%]">
               <Image
