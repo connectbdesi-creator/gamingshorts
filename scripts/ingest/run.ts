@@ -154,7 +154,11 @@ async function run() {
     `\nDone. ${newCards.length} new card(s) added, ${merged.length} total in data/cards.json.`
   );
 
-  await fetchNewGameInfo(newCards);
+  // Scans the full merged set, not just newCards — a game can already have
+  // cards from before RAWG_API_KEY was configured (or from before it was
+  // ever successfully looked up), and this is what backfills those on the
+  // next run rather than waiting for a fresh article about that game.
+  await fetchNewGameInfo(merged);
 
   if (newCards.length > 0) {
     await sendPushForNewCards(newCards);
@@ -162,17 +166,18 @@ async function run() {
 }
 
 /**
- * Fetches RAWG metadata (see game-info.ts) only for games that showed up
- * for the first time in this run — existing entries are never re-fetched,
- * which keeps this well within RAWG's free-tier request budget. No-ops
- * entirely if RAWG_API_KEY isn't set (fetchGameInfo returns null).
+ * Fetches RAWG metadata (see game-info.ts) for every game in `cards` that
+ * doesn't already have an entry in data/games.json — existing entries are
+ * never re-fetched, which keeps this well within RAWG's free-tier request
+ * budget. No-ops entirely if RAWG_API_KEY isn't set (fetchGameInfo returns
+ * null for every call, so nothing gets added).
  */
-async function fetchNewGameInfo(newCards: Card[]) {
+async function fetchNewGameInfo(cards: Card[]) {
   const games = readJson<GameInfo[]>(GAMES_PATH, []);
   const knownSlugs = new Set(games.map((g) => g.slug));
 
   const newGames = new Map<string, string>(); // slug -> label
-  for (const card of newCards) {
+  for (const card of cards) {
     if (card.game && card.game_label && !knownSlugs.has(card.game)) {
       newGames.set(card.game, card.game_label);
     }
