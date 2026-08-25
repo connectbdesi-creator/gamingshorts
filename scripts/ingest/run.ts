@@ -92,13 +92,20 @@ async function run() {
         sourceName: source.name,
       });
 
-      seen.add(itemId);
+      // Only mark as seen on success. A failed summarization is often a
+      // systemic issue (bad/missing API key, rate limit) rather than
+      // something wrong with this specific article — marking it seen
+      // anyway would permanently blacklist real news the moment that
+      // issue is fixed. processedCount still counts the attempt either
+      // way, so a run of persistently-failing articles can't loop forever.
       processedCount++;
 
       if (!summarized) {
-        console.error(`  ! Skipped (summarization failed): ${title}`);
+        console.error(`  ! Skipped (summarization failed, will retry next run): ${title}`);
         continue;
       }
+
+      seen.add(itemId);
 
       const publishedAt = item.isoDate ?? (item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString());
 
