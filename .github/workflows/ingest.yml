@@ -7,12 +7,19 @@
 #
 # Required, under Settings -> Secrets and variables -> Actions:
 #   Secrets:
-#     ANTHROPIC_API_KEY   Claude API key used for summarization.
-#     REVALIDATE_SECRET   Must match the app's REVALIDATE_SECRET env var.
+#     ANTHROPIC_API_KEY        Claude API key used for summarization.
+#     REVALIDATE_SECRET        Must match the app's REVALIDATE_SECRET env var.
+#     SUPABASE_SERVICE_ROLE_KEY  Used to look up game_follows/push_subscriptions
+#                                when sending push notifications. Optional —
+#                                push sending is skipped without it.
+#     VAPID_PRIVATE_KEY        Web Push signing key. Optional, same as above.
+#     VAPID_SUBJECT            mailto: contact required by Web Push. Optional.
 #   Variables (not sensitive, so a repo Variable rather than a Secret):
-#     SITE_URL            Deployed site origin, e.g. https://gameshorts.example
-#                         (matches the app's NEXT_PUBLIC_SITE_URL). Optional —
-#                         the on-demand revalidate call is skipped without it.
+#     SITE_URL                 Deployed site origin, e.g. https://gameshorts.example
+#                               (matches the app's NEXT_PUBLIC_SITE_URL). Optional —
+#                               the on-demand revalidate call is skipped without it.
+#     NEXT_PUBLIC_SUPABASE_URL   Same value as the app's env var.
+#     NEXT_PUBLIC_VAPID_PUBLIC_KEY  Same value as the app's env var.
 
 name: Ingest gaming news
 
@@ -52,6 +59,11 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           FORCE_REFRESH: ${{ inputs.force_refresh || 'false' }}
+          NEXT_PUBLIC_SUPABASE_URL: ${{ vars.NEXT_PUBLIC_SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          NEXT_PUBLIC_VAPID_PUBLIC_KEY: ${{ vars.NEXT_PUBLIC_VAPID_PUBLIC_KEY }}
+          VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
+          VAPID_SUBJECT: ${{ secrets.VAPID_SUBJECT }}
         run: pnpm ingest
 
       - name: Commit updated data

@@ -16,6 +16,8 @@ export interface SummarizedArticle {
   category: CategorySlug;
   platform_tags: PlatformSlug[];
   hype_signal: number | null;
+  /** Display name of the single game this article is about, e.g. "Elden Ring". null if not game-specific. */
+  game_label: string | null;
 }
 
 let client: Anthropic | null = null;
@@ -54,8 +56,13 @@ const CARD_TOOL: Anthropic.Tool = {
         description:
           "0-100 estimate of how exciting/important this is to a gaming audience. Use null when a hype score wouldn't be meaningful for this kind of story (e.g. routine patch notes, procedural business news).",
       },
+      game_label: {
+        type: ["string", "null"],
+        description:
+          "The display name of the single specific game this article is primarily about, e.g. \"Elden Ring\" or \"VALORANT\" — used so readers can follow that game and get notified of future news about it. Use null for stories not about one specific game (industry/business news, storewide sales, multi-game roundups). Use the game's most common short name, not a version-specific subtitle unless that's how it's actually branded (e.g. \"Overwatch 2\", not \"Overwatch\").",
+      },
     },
-    required: ["headline", "summary", "category", "platform_tags", "hype_signal"],
+    required: ["headline", "summary", "category", "platform_tags", "hype_signal", "game_label"],
   },
 };
 

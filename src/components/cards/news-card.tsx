@@ -3,6 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { CategoryBadge } from "@/components/cards/category-badge";
 import { LikeButton } from "@/components/engagement/like-button";
+import { GameBadge } from "@/components/games/game-badge";
 import { ShareMenu } from "@/components/share/share-menu";
 import { formatRelativeTime } from "@/lib/format";
 import { getSiteUrl } from "@/lib/site";
@@ -69,6 +70,12 @@ export function NewsCard({
           </span>
         </div>
       </Link>
+
+      {card.game && card.game_label && (
+        <div className="px-4 pt-2">
+          <GameBadge slug={card.game} label={card.game_label} />
+        </div>
+      )}
 
       <div className="flex items-center justify-between gap-2 px-4 py-3 text-foreground-subtle">
         <div className="flex items-center gap-3">

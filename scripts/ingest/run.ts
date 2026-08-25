@@ -2,8 +2,9 @@ import fs from "node:fs";
 import path from "node:path";
 import Parser from "rss-parser";
 import { summarizeArticle } from "./anthropic";
+import { sendPushForNewCards } from "./push";
 import { RSS_SOURCES } from "./sources";
-import { hashId, slugify } from "./slugify";
+import { hashId, slugify, slugifyGameName } from "./slugify";
 import type { Card } from "@/types/card";
 
 const DATA_DIR = path.join(process.cwd(), "data");
@@ -115,6 +116,8 @@ async function run() {
         hype_signal: summarized.hype_signal,
         like_count: 0,
         comment_count: 0,
+        game: summarized.game_label ? slugifyGameName(summarized.game_label) : null,
+        game_label: summarized.game_label,
       };
 
       newCards.push(card);
@@ -132,6 +135,10 @@ async function run() {
   console.log(
     `\nDone. ${newCards.length} new card(s) added, ${merged.length} total in data/cards.json.`
   );
+
+  if (newCards.length > 0) {
+    await sendPushForNewCards(newCards);
+  }
 }
 
 run().catch((err) => {

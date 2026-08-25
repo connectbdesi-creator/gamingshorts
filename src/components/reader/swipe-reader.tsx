@@ -6,7 +6,9 @@ import Link from "next/link";
 import { useEffect, useRef } from "react";
 import { CategoryBadge } from "@/components/cards/category-badge";
 import { PlatformChip } from "@/components/cards/platform-chip";
+import { FollowButton } from "@/components/engagement/follow-button";
 import { LikeButton } from "@/components/engagement/like-button";
+import { GameBadge } from "@/components/games/game-badge";
 import { ShareButtons } from "@/components/share/share-buttons";
 import { formatRelativeTime } from "@/lib/format";
 import { getSiteUrl } from "@/lib/site";
@@ -122,6 +124,16 @@ export function SwipeReader({
               <h1 className="text-xl font-bold leading-snug text-foreground">
                 {card.headline}
               </h1>
+              {card.game && card.game_label && (
+                <div className="flex items-center gap-3">
+                  <GameBadge
+                    slug={card.game}
+                    label={card.game_label}
+                    className="text-sm font-semibold text-accent hover:text-accent-hover"
+                  />
+                  <FollowButton gameSlug={card.game} />
+                </div>
+              )}
               <p className="text-sm leading-relaxed text-foreground-muted">
                 {card.summary}
               </p>

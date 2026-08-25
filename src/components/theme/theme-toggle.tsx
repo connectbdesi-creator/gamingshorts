@@ -2,20 +2,7 @@
 
 import { Moon, Sun } from "lucide-react";
 import { useTheme } from "next-themes";
-import { useSyncExternalStore } from "react";
-
-const emptySubscribe = () => () => {};
-
-// next-themes only knows the real theme after the client hydrates, so this
-// avoids a server/client markup mismatch without the setState-in-effect
-// "mounted" pattern.
-function useHasMounted() {
-  return useSyncExternalStore(
-    emptySubscribe,
-    () => true,
-    () => false
-  );
-}
+import { useHasMounted } from "@/lib/use-has-mounted";
 
 export function ThemeToggle() {
   const { resolvedTheme, setTheme } = useTheme();

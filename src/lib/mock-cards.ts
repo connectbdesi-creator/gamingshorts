@@ -31,6 +31,8 @@ export const MOCK_CARDS: Card[] = [
     hype_signal: 80,
     like_count: 241,
     comment_count: 46,
+    game: "metal-gear-solid-master-collection-vol-2",
+    game_label: "Metal Gear Solid: Master Collection Vol. 2",
   },
   {
     id: "2",
@@ -48,6 +50,8 @@ export const MOCK_CARDS: Card[] = [
     hype_signal: 90,
     like_count: 388,
     comment_count: 71,
+    game: "elden-ring",
+    game_label: "Elden Ring",
   },
   {
     id: "3",
@@ -65,6 +69,8 @@ export const MOCK_CARDS: Card[] = [
     hype_signal: 66,
     like_count: 103,
     comment_count: 19,
+    game: "once-human",
+    game_label: "Once Human",
   },
   {
     id: "4",
@@ -81,6 +87,8 @@ export const MOCK_CARDS: Card[] = [
     hype_signal: 71,
     like_count: 118,
     comment_count: 24,
+    game: "resonance-a-plague-tale-legacy",
+    game_label: "Resonance: A Plague Tale Legacy",
   },
   {
     id: "5",
@@ -97,6 +105,8 @@ export const MOCK_CARDS: Card[] = [
     hype_signal: 95,
     like_count: 412,
     comment_count: 88,
+    game: "big-walk",
+    game_label: "Big Walk",
   },
   {
     id: "6",
@@ -113,6 +123,8 @@ export const MOCK_CARDS: Card[] = [
     hype_signal: 83,
     like_count: 197,
     comment_count: 42,
+    game: "mortal-shell-2",
+    game_label: "Mortal Shell II",
   },
   {
     id: "7",
@@ -129,6 +141,8 @@ export const MOCK_CARDS: Card[] = [
     hype_signal: 61,
     like_count: 74,
     comment_count: 16,
+    game: "mafia-the-old-country",
+    game_label: "Mafia: The Old Country",
   },
   {
     id: "8",
@@ -145,6 +159,8 @@ export const MOCK_CARDS: Card[] = [
     hype_signal: null,
     like_count: 88,
     comment_count: 21,
+    game: "valorant",
+    game_label: "VALORANT",
   },
   {
     id: "9",
@@ -161,6 +177,8 @@ export const MOCK_CARDS: Card[] = [
     hype_signal: null,
     like_count: 65,
     comment_count: 18,
+    game: "overwatch-2",
+    game_label: "Overwatch 2",
   },
   {
     id: "10",
@@ -177,6 +195,8 @@ export const MOCK_CARDS: Card[] = [
     hype_signal: null,
     like_count: 53,
     comment_count: 27,
+    game: "fallout-4",
+    game_label: "Fallout 4",
   },
   {
     id: "11",
@@ -194,6 +214,8 @@ export const MOCK_CARDS: Card[] = [
     hype_signal: null,
     like_count: 156,
     comment_count: 94,
+    game: null,
+    game_label: null,
   },
   {
     id: "12",
@@ -211,6 +233,8 @@ export const MOCK_CARDS: Card[] = [
     hype_signal: null,
     like_count: 203,
     comment_count: 132,
+    game: null,
+    game_label: null,
   },
   {
     id: "13",
@@ -228,6 +252,8 @@ export const MOCK_CARDS: Card[] = [
     hype_signal: null,
     like_count: 91,
     comment_count: 37,
+    game: null,
+    game_label: null,
   },
   {
     id: "14",
@@ -244,6 +270,8 @@ export const MOCK_CARDS: Card[] = [
     hype_signal: 88,
     like_count: 174,
     comment_count: 39,
+    game: "counter-strike-2",
+    game_label: "Counter-Strike 2",
   },
   {
     id: "15",
@@ -260,6 +288,8 @@ export const MOCK_CARDS: Card[] = [
     hype_signal: 79,
     like_count: 149,
     comment_count: 31,
+    game: "rocket-league",
+    game_label: "Rocket League",
   },
   {
     id: "16",
@@ -276,6 +306,8 @@ export const MOCK_CARDS: Card[] = [
     hype_signal: 75,
     like_count: 96,
     comment_count: 22,
+    game: "fortnite",
+    game_label: "Fortnite",
   },
   {
     id: "17",
@@ -293,6 +325,8 @@ export const MOCK_CARDS: Card[] = [
     hype_signal: null,
     like_count: 112,
     comment_count: 26,
+    game: null,
+    game_label: null,
   },
   {
     id: "18",
@@ -309,6 +343,8 @@ export const MOCK_CARDS: Card[] = [
     hype_signal: null,
     like_count: 134,
     comment_count: 29,
+    game: null,
+    game_label: null,
   },
   {
     id: "19",
@@ -325,6 +361,8 @@ export const MOCK_CARDS: Card[] = [
     hype_signal: null,
     like_count: 68,
     comment_count: 11,
+    game: "cardpocalypse",
+    game_label: "Cardpocalypse",
   },
   {
     id: "20",
@@ -342,5 +380,7 @@ export const MOCK_CARDS: Card[] = [
     hype_signal: null,
     like_count: 87,
     comment_count: 15,
+    game: null,
+    game_label: null,
   },
 ];

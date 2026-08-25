@@ -5,7 +5,9 @@ import { notFound } from "next/navigation";
 import { CategoryBadge } from "@/components/cards/category-badge";
 import { PlatformChip } from "@/components/cards/platform-chip";
 import { Comments } from "@/components/comments/comments";
+import { FollowButton } from "@/components/engagement/follow-button";
 import { LikeButton } from "@/components/engagement/like-button";
+import { GameBadge } from "@/components/games/game-badge";
 import { ArticleReaderLauncher } from "@/components/reader/article-reader-launcher";
 import { ShareButtons } from "@/components/share/share-buttons";
 import { getCategory } from "@/lib/categories";
@@ -109,6 +111,17 @@ export default async function NewsCardPage({ params }: Props) {
       <h1 className="mt-5 text-2xl font-bold leading-snug text-foreground">
         {card.headline}
       </h1>
+
+      {card.game && card.game_label && (
+        <div className="mt-2 flex items-center gap-3">
+          <GameBadge
+            slug={card.game}
+            label={card.game_label}
+            className="text-sm font-semibold text-accent hover:text-accent-hover"
+          />
+          <FollowButton gameSlug={card.game} />
+        </div>
+      )}
 
       <p className="mt-2 text-sm text-foreground-subtle">
         {card.source_name} · {formatRelativeTime(card.published_at)}
