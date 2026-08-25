@@ -7,7 +7,12 @@
 #
 # Required, under Settings -> Secrets and variables -> Actions:
 #   Secrets:
-#     ANTHROPIC_API_KEY        Claude API key used for summarization.
+#     Set ONE of these two for summarization (OpenRouter is preferred if
+#     both are set — see scripts/ingest/summarize.ts):
+#       OPENROUTER_API_KEY     openrouter.ai key. Optionally pair with the
+#                               OPENROUTER_MODEL variable below to pick a
+#                               specific/cheaper model.
+#       ANTHROPIC_API_KEY      Anthropic API key, used directly.
 #     REVALIDATE_SECRET        Must match the app's REVALIDATE_SECRET env var.
 #     SUPABASE_SERVICE_ROLE_KEY  Used to look up game_follows/push_subscriptions
 #                                when sending push notifications. Optional —
@@ -20,6 +25,8 @@
 #                               the on-demand revalidate call is skipped without it.
 #     NEXT_PUBLIC_SUPABASE_URL   Same value as the app's env var.
 #     NEXT_PUBLIC_VAPID_PUBLIC_KEY  Same value as the app's env var.
+#     OPENROUTER_MODEL         Optional override, e.g. a free/cheaper model.
+#     ANTHROPIC_MODEL          Optional override for the Anthropic path.
 
 name: Ingest gaming news
 
@@ -57,7 +64,10 @@ jobs:
 
       - name: Run ingestion
         env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
           FORCE_REFRESH: ${{ inputs.force_refresh || 'false' }}
           NEXT_PUBLIC_SUPABASE_URL: ${{ vars.NEXT_PUBLIC_SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}

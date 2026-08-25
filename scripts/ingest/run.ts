@@ -1,8 +1,8 @@
 import fs from "node:fs";
 import path from "node:path";
 import Parser from "rss-parser";
-import { summarizeArticle } from "./anthropic";
 import { sendPushForNewCards } from "./push";
+import { getActiveProvider, summarizeArticle } from "./summarize";
 import { RSS_SOURCES } from "./sources";
 import { hashId, slugify, slugifyGameName } from "./slugify";
 import type { Card } from "@/types/card";
@@ -52,6 +52,14 @@ function extractImage(item: {
 }
 
 async function run() {
+  const provider = getActiveProvider();
+  if (!provider) {
+    throw new Error(
+      "No model provider configured — set OPENROUTER_API_KEY or ANTHROPIC_API_KEY before running ingestion."
+    );
+  }
+  console.log(`Using ${provider.name} for summarization.\n`);
+
   fs.mkdirSync(DATA_DIR, { recursive: true });
 
   const existingCards = readJson<Card[]>(CARDS_PATH, []);
