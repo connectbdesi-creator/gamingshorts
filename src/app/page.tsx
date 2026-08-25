@@ -1,10 +1,16 @@
+import type { Metadata } from "next";
 import { FilterableCardGrid } from "@/components/cards/filterable-card-grid";
 import { getAllCards } from "@/lib/cards";
 import { isWithinHours } from "@/lib/format";
+import { pageAlternates } from "@/lib/site";
 
 // Cards come from data/cards.json (Phase 5 ingestion output), rebuilt on
 // every push the cron workflow makes, with ISR as a same-build safety net.
 export const revalidate = 7200;
+
+export const metadata: Metadata = {
+  alternates: pageAlternates("/"),
+};
 
 const FRESH_WINDOW_HOURS = 24;
 
@@ -18,8 +24,8 @@ export default function HomePage() {
   return (
     <div className="mx-auto w-full max-w-6xl px-4 py-6 sm:py-10">
       <div className="rounded-card border border-border bg-surface p-4 shadow-lg sm:p-6">
-        <h1 className="mb-4 text-xl font-bold text-foreground">
-          Video Game News in 60 Words
+        <h1 className="mb-4 text-center text-xl font-bold text-foreground">
+          Latest Gaming News in Last 24 Hours
         </h1>
         <FilterableCardGrid cards={freshCards} showCategoryTabs />
       </div>
