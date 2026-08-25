@@ -1,3 +1,4 @@
+import { isWithinHours } from "@/lib/format";
 import type { Card } from "@/types/card";
 
 export interface GameEntry {
@@ -14,19 +15,18 @@ export interface GameEntry {
  * set, so it's derived here rather than hardcoded.
  */
 export function getGameIndex(cards: Card[]): GameEntry[] {
-  const now = Date.now();
-  const dayMs = 24 * 60 * 60 * 1000;
   const bySlug = new Map<string, GameEntry>();
 
   for (const card of cards) {
     if (!card.game || !card.game_label) continue;
 
+    const fresh = isWithinHours(card.published_at, 24);
     const publishedMs = new Date(card.published_at).getTime();
     const existing = bySlug.get(card.game);
 
     if (existing) {
       existing.cardCount++;
-      if (now - publishedMs <= dayMs) existing.last24hCount++;
+      if (fresh) existing.last24hCount++;
       if (publishedMs > new Date(existing.latestPublishedAt).getTime()) {
         existing.latestPublishedAt = card.published_at;
       }
@@ -35,7 +35,7 @@ export function getGameIndex(cards: Card[]): GameEntry[] {
         slug: card.game,
         label: card.game_label,
         cardCount: 1,
-        last24hCount: now - publishedMs <= dayMs ? 1 : 0,
+        last24hCount: fresh ? 1 : 0,
         latestPublishedAt: card.published_at,
       });
     }

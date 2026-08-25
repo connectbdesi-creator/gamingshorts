@@ -1,3 +1,7 @@
+export function isWithinHours(isoDate: string, hours: number, now = Date.now()): boolean {
+  return now - new Date(isoDate).getTime() <= hours * 60 * 60 * 1000;
+}
+
 export function formatRelativeTime(isoDate: string, now = new Date()) {
   const then = new Date(isoDate);
   const diffMs = now.getTime() - then.getTime();
