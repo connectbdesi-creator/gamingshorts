@@ -1,9 +1,9 @@
 "use client";
 
-import { MessageCircle, X } from "lucide-react";
+import { ChevronDown, ChevronUp, MessageCircle, X } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import { CategoryBadge } from "@/components/cards/category-badge";
 import { PlatformChip } from "@/components/cards/platform-chip";
 import { FollowButton } from "@/components/engagement/follow-button";
@@ -12,13 +12,17 @@ import { GameBadge } from "@/components/games/game-badge";
 import { ShareButtons } from "@/components/share/share-buttons";
 import { formatRelativeTime } from "@/lib/format";
 import { getSiteUrl } from "@/lib/site";
+import { cn } from "@/lib/utils";
 import type { Card } from "@/types/card";
 
 /**
  * Full-screen Inshorts-style reader. Vertical scroll-snap gives native
- * swipe-to-advance on touch devices for free; arrow keys cover desktop.
- * An IntersectionObserver reports the active card back to the caller so it
- * can keep the address bar's slug in sync as the user swipes.
+ * swipe-to-advance on touch devices for free, but mouse-wheel scroll isn't
+ * reliable everywhere (nested scroll areas, some desktop browsers/trackpad
+ * configs) — the on-screen prev/next buttons are the guaranteed-to-work
+ * path, with arrow keys as a second option. An IntersectionObserver reports
+ * the active card so the address bar's slug and the buttons' disabled
+ * state both stay in sync as the user swipes.
  */
 export function SwipeReader({
   cards,
@@ -32,6 +36,7 @@ export function SwipeReader({
   onIndexChange?: (index: number) => void;
 }) {
   const trackRef = useRef<HTMLDivElement>(null);
+  const [activeIndex, setActiveIndex] = useState(initialIndex);
 
   useEffect(() => {
     const el = trackRef.current?.children[initialIndex] as
@@ -53,14 +58,17 @@ export function SwipeReader({
 
   useEffect(() => {
     const track = trackRef.current;
-    if (!track || !onIndexChange) return;
+    if (!track) return;
 
     const observer = new IntersectionObserver(
       (entries) => {
         for (const entry of entries) {
           if (entry.isIntersecting && entry.intersectionRatio >= 0.6) {
             const index = Array.from(track.children).indexOf(entry.target);
-            if (index !== -1) onIndexChange(index);
+            if (index !== -1) {
+              setActiveIndex(index);
+              onIndexChange?.(index);
+            }
           }
         }
       },
@@ -71,19 +79,22 @@ export function SwipeReader({
     return () => observer.disconnect();
   }, [cards, onIndexChange]);
 
+  function goTo(index: number) {
+    if (index < 0 || index >= cards.length) return;
+    const el = trackRef.current?.children[index] as HTMLElement | undefined;
+    el?.scrollIntoView({ block: "start", behavior: "smooth" });
+  }
+
   useEffect(() => {
     function onKeyDown(e: KeyboardEvent) {
       if (e.key === "Escape") onClose();
-      if (e.key === "ArrowDown" || e.key === "ArrowUp") {
-        const dir = e.key === "ArrowDown" ? 1 : -1;
-        const track = trackRef.current;
-        if (!track) return;
-        track.scrollBy({ top: dir * track.clientHeight, behavior: "smooth" });
-      }
+      if (e.key === "ArrowDown") goTo(activeIndex + 1);
+      if (e.key === "ArrowUp") goTo(activeIndex - 1);
     }
     window.addEventListener("keydown", onKeyDown);
     return () => window.removeEventListener("keydown", onKeyDown);
-  }, [onClose]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [onClose, activeIndex]);
 
   return (
     <div className="fixed inset-0 z-50 bg-background">
@@ -95,6 +106,33 @@ export function SwipeReader({
       >
         <X className="size-5" />
       </button>
+
+      <div className="absolute bottom-6 right-4 z-10 flex flex-col gap-2">
+        <button
+          type="button"
+          onClick={() => goTo(activeIndex - 1)}
+          disabled={activeIndex === 0}
+          aria-label="Previous card"
+          className={cn(
+            "flex size-9 items-center justify-center rounded-full bg-black/50 text-white backdrop-blur transition-colors",
+            activeIndex === 0 ? "opacity-30" : "hover:bg-black/70"
+          )}
+        >
+          <ChevronUp className="size-5" />
+        </button>
+        <button
+          type="button"
+          onClick={() => goTo(activeIndex + 1)}
+          disabled={activeIndex === cards.length - 1}
+          aria-label="Next card"
+          className={cn(
+            "flex size-9 items-center justify-center rounded-full bg-black/50 text-white backdrop-blur transition-colors",
+            activeIndex === cards.length - 1 ? "opacity-30" : "hover:bg-black/70"
+          )}
+        >
+          <ChevronDown className="size-5" />
+        </button>
+      </div>
 
       <div
         ref={trackRef}

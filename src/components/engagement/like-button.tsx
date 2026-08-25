@@ -19,7 +19,7 @@ export function LikeButton({
 }: {
   cardId: string;
   initialCount: number;
-  size?: "sm" | "md";
+  size?: "sm" | "md" | "lg";
 }) {
   const [count, setCount] = useState(initialCount);
   const [liked, setLiked] = useState(false);
@@ -110,12 +110,17 @@ export function LikeButton({
       aria-label={liked ? "Unlike" : "Like"}
       className={cn(
         "flex items-center gap-1.5 transition-colors",
-        liked ? "text-like" : "text-foreground-muted hover:text-like",
+        liked ? "text-like" : size === "lg" ? "text-foreground hover:text-like" : "text-foreground-muted hover:text-like",
         !ready && "cursor-default",
-        size === "sm" ? "text-xs" : "text-sm"
+        size === "sm" ? "text-xs" : size === "lg" ? "text-base font-medium" : "text-sm"
       )}
     >
-      <Heart className={cn(size === "sm" ? "size-3.5" : "size-4", liked && "fill-current")} />
+      <Heart
+        className={cn(
+          size === "sm" ? "size-3.5" : size === "lg" ? "size-5" : "size-4",
+          liked && "fill-current"
+        )}
+      />
       {count}
     </button>
   );

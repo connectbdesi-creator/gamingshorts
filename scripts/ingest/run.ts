@@ -1,15 +1,18 @@
 import fs from "node:fs";
 import path from "node:path";
 import Parser from "rss-parser";
+import { fetchGameInfo } from "./game-info";
 import { sendPushForNewCards } from "./push";
 import { getActiveProvider, summarizeArticle } from "./summarize";
 import { RSS_SOURCES } from "./sources";
 import { hashId, slugify, slugifyGameName } from "./slugify";
 import type { Card } from "@/types/card";
+import type { GameInfo } from "@/types/game-info";
 
 const DATA_DIR = path.join(process.cwd(), "data");
 const CARDS_PATH = path.join(DATA_DIR, "cards.json");
 const SEEN_PATH = path.join(DATA_DIR, "seen.json");
+const GAMES_PATH = path.join(DATA_DIR, "games.json");
 
 const MAX_CARDS = 200;
 const FORCE_REFRESH = process.env.FORCE_REFRESH === "true";
@@ -151,9 +154,38 @@ async function run() {
     `\nDone. ${newCards.length} new card(s) added, ${merged.length} total in data/cards.json.`
   );
 
+  await fetchNewGameInfo(newCards);
+
   if (newCards.length > 0) {
     await sendPushForNewCards(newCards);
   }
+}
+
+/**
+ * Fetches RAWG metadata (see game-info.ts) only for games that showed up
+ * for the first time in this run — existing entries are never re-fetched,
+ * which keeps this well within RAWG's free-tier request budget. No-ops
+ * entirely if RAWG_API_KEY isn't set (fetchGameInfo returns null).
+ */
+async function fetchNewGameInfo(newCards: Card[]) {
+  const games = readJson<GameInfo[]>(GAMES_PATH, []);
+  const knownSlugs = new Set(games.map((g) => g.slug));
+
+  const newGames = new Map<string, string>(); // slug -> label
+  for (const card of newCards) {
+    if (card.game && card.game_label && !knownSlugs.has(card.game)) {
+      newGames.set(card.game, card.game_label);
+    }
+  }
+  if (newGames.size === 0) return;
+
+  for (const [slug, label] of newGames) {
+    console.log(`- Fetching game info for "${label}"`);
+    const info = await fetchGameInfo(slug, label);
+    if (info) games.push(info);
+  }
+
+  writeJson(GAMES_PATH, games);
 }
 
 run().catch((err) => {

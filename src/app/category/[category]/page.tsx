@@ -29,11 +29,12 @@ export default async function CategoryPage({ params }: Props) {
   if (!info) notFound();
 
   const cards = getAllCards().filter((c) => c.category === category);
+  const showPlatformFilter = category === "releases" || category === "reviews";
 
   return (
     <div className="mx-auto w-full max-w-6xl px-4 py-6">
       <h1 className="mb-4 text-xl font-bold text-foreground">{info.label}</h1>
-      <FilterableCardGrid cards={cards} />
+      <FilterableCardGrid cards={cards} showPlatformFilter={showPlatformFilter} />
     </div>
   );
 }

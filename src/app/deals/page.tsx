@@ -18,7 +18,7 @@ export default function DealsPage() {
   return (
     <div className="mx-auto w-full max-w-6xl px-4 py-6">
       <h1 className="mb-4 text-xl font-bold text-foreground">Deals & Sales</h1>
-      <FilterableCardGrid cards={cards} />
+      <FilterableCardGrid cards={cards} showPlatformFilter={false} />
     </div>
   );
 }

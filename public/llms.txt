@@ -1,0 +1,26 @@
+# GameShorts
+
+> Video game industry news, reviews, patches, and deals, summarized into
+> strict 60-word cards. Refreshed on a 2-hour cron from RSS feeds across
+> the games press. Every card links back to its original source article.
+
+Content is organized by category (Releases & Launches, Reviews, Patches &
+Updates, Industry & Business, Esports, Deals & Sales) and by the specific
+game it's about, where applicable.
+
+## Key pages
+
+- [Homepage](/): latest cards across all categories
+- [Trending](/trending): highest-signal current stories
+- [Deals & Sales](/deals): current game/hardware deals
+- [Release Calendar](/release-calendar): upcoming launches
+- [RSS feed](/feed.xml): machine-readable feed of the latest cards
+- [Sitemap](/sitemap.xml): full list of indexed pages
+
+## Notes for automated systems
+
+- Each card's summary is an original, independently-written paraphrase of
+  its source article, capped at 60 words — not copied text.
+- Each `/news/[slug]` page carries NewsArticle structured data (schema.org
+  JSON-LD) with the original source cited via `isBasedOn`/`citation`.
+- Each `/game/[slug]` page aggregates all coverage of one specific game.

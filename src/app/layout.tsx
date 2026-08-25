@@ -15,14 +15,49 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const SITE_DESCRIPTION =
+  "Video game industry news, reviews, patches, and deals summarized into 60-word cards. Refreshed every 2 hours.";
+
 export const metadata: Metadata = {
   metadataBase: new URL(getSiteUrl()),
   title: {
     default: "GameShorts — Gaming News in 60 Words",
     template: "%s | GameShorts",
   },
-  description:
-    "Video game industry news, reviews, patches, and deals summarized into 60-word cards. Refreshed every 2 hours.",
+  description: SITE_DESCRIPTION,
+  alternates: {
+    types: { "application/rss+xml": [{ url: "/feed.xml", title: "GameShorts RSS Feed" }] },
+  },
+  openGraph: {
+    type: "website",
+    siteName: "GameShorts",
+    title: "GameShorts — Gaming News in 60 Words",
+    description: SITE_DESCRIPTION,
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "GameShorts — Gaming News in 60 Words",
+    description: SITE_DESCRIPTION,
+  },
+};
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      name: "GameShorts",
+      url: getSiteUrl(),
+      description: SITE_DESCRIPTION,
+      inLanguage: "en",
+    },
+    {
+      "@type": "Organization",
+      name: "GameShorts",
+      url: getSiteUrl(),
+      logo: `${getSiteUrl()}/favicon.ico`,
+    },
+  ],
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
@@ -33,6 +68,10 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col bg-background text-foreground">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
         <ThemeProvider
           attribute="class"
           defaultTheme="dark"

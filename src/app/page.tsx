@@ -9,6 +9,9 @@ export default function HomePage() {
   return (
     <div className="mx-auto w-full max-w-6xl px-4 py-6 sm:py-10">
       <div className="rounded-card border border-border bg-surface p-4 shadow-lg sm:p-6">
+        <h1 className="mb-4 text-xl font-bold text-foreground">
+          Video Game News in 60 Words
+        </h1>
         <FilterableCardGrid cards={getAllCards()} showCategoryTabs />
       </div>
     </div>

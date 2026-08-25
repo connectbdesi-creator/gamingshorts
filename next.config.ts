@@ -27,6 +27,13 @@ const nextConfig: NextConfig = {
       { protocol: "https", hostname: "images.nintendolife.com" },
       { protocol: "https", hostname: "images.pushsquare.com" },
       { protocol: "https", hostname: "images.purexbox.com" },
+
+      // RAWG's media CDN (scripts/ingest/game-info.ts, background_image +
+      // screenshots on /game/[slug]). Not yet confirmed against a live
+      // response — verify this hostname once RAWG_API_KEY is set and
+      // data/games.json has real entries; adjust if RAWG serves from a
+      // different domain than expected.
+      { protocol: "https", hostname: "media.rawg.io" },
     ],
   },
 };

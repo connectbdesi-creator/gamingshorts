@@ -20,7 +20,7 @@ export const CATEGORIES = [
   {
     slug: "industry",
     label: "Industry & Business",
-    shortLabel: "Industry",
+    shortLabel: "Business",
     colorVar: "var(--color-cat-industry)",
   },
   {

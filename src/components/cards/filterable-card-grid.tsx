@@ -22,9 +22,11 @@ import type { Card } from "@/types/card";
 export function FilterableCardGrid({
   cards,
   showCategoryTabs = false,
+  showPlatformFilter = true,
 }: {
   cards: Card[];
   showCategoryTabs?: boolean;
+  showPlatformFilter?: boolean;
 }) {
   const [category, setCategory] = useState<CategoryFilterValue>("all");
   const [platforms, setPlatforms] = useState<Set<PlatformSlug>>(new Set());
@@ -75,7 +77,9 @@ export function FilterableCardGrid({
   return (
     <div className="flex flex-col gap-4">
       {showCategoryTabs && <CategoryTabs value={category} onChange={setCategory} />}
-      <PlatformFilterBar selected={platforms} onToggle={togglePlatform} />
+      {showPlatformFilter && (
+        <PlatformFilterBar selected={platforms} onToggle={togglePlatform} />
+      )}
       <CardGrid cards={filteredCards} onOpen={openCard} />
 
       {openIndex !== null && (

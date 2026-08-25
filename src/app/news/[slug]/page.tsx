@@ -70,21 +70,42 @@ export default async function NewsCardPage({ params }: Props) {
 
   const jsonLd = {
     "@context": "https://schema.org",
-    "@type": "NewsArticle",
-    headline: card.headline,
-    description: card.summary,
-    image: [card.image_url],
-    datePublished: card.published_at,
-    dateModified: card.published_at,
-    articleSection: categoryInfo?.label ?? card.category,
-    isBasedOn: card.source_url,
-    author: { "@type": "Organization", name: "GameShorts" },
-    publisher: {
-      "@type": "Organization",
-      name: "GameShorts",
-      logo: { "@type": "ImageObject", url: `${getSiteUrl()}/favicon.ico` },
-    },
-    mainEntityOfPage: { "@type": "WebPage", "@id": url },
+    "@graph": [
+      {
+        "@type": "NewsArticle",
+        headline: card.headline,
+        description: card.summary,
+        image: [card.image_url],
+        datePublished: card.published_at,
+        dateModified: card.published_at,
+        articleSection: categoryInfo?.label ?? card.category,
+        keywords: [categoryInfo?.label, card.game_label, ...card.platform_tags]
+          .filter(Boolean)
+          .join(", "),
+        isBasedOn: card.source_url,
+        citation: card.source_url,
+        author: { "@type": "Organization", name: "GameShorts" },
+        publisher: {
+          "@type": "Organization",
+          name: "GameShorts",
+          logo: { "@type": "ImageObject", url: `${getSiteUrl()}/favicon.ico` },
+        },
+        mainEntityOfPage: { "@type": "WebPage", "@id": url },
+      },
+      {
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Home", item: getSiteUrl() },
+          {
+            "@type": "ListItem",
+            position: 2,
+            name: categoryInfo?.label ?? card.category,
+            item: `${getSiteUrl()}/category/${card.category}`,
+          },
+          { "@type": "ListItem", position: 3, name: card.headline, item: url },
+        ],
+      },
+    ],
   };
 
   return (
@@ -139,23 +160,28 @@ export default async function NewsCardPage({ params }: Props) {
         </div>
       )}
 
-      <a
-        href={card.source_url}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="mt-6 inline-flex w-fit items-center rounded-chip bg-accent px-4 py-2 text-sm font-semibold text-accent-foreground transition-colors hover:bg-accent-hover"
-      >
-        Read full story →
-      </a>
-
-      <div className="mt-6 flex flex-wrap items-center justify-between gap-4 border-y border-border py-3 text-sm text-foreground-muted">
-        <div className="flex items-center gap-5">
-          <LikeButton cardId={card.id} initialCount={card.like_count} />
-          <a href="#comments" className="flex items-center gap-1.5 hover:text-foreground">
-            <MessageCircle className="size-4" />
+      <div className="mt-6 flex flex-wrap items-center gap-4">
+        <a
+          href={card.source_url}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex w-fit items-center rounded-chip bg-accent px-4 py-2 text-sm font-semibold text-accent-foreground transition-colors hover:bg-accent-hover"
+        >
+          Read full story →
+        </a>
+        <div className="flex items-center gap-4">
+          <LikeButton cardId={card.id} initialCount={card.like_count} size="lg" />
+          <a
+            href="#comments"
+            className="flex items-center gap-1.5 text-base font-medium text-foreground hover:text-accent"
+          >
+            <MessageCircle className="size-5" />
             {card.comment_count}
           </a>
         </div>
+      </div>
+
+      <div className="mt-4 border-y border-border py-3">
         <ShareButtons url={url} title={card.headline} />
       </div>
 
