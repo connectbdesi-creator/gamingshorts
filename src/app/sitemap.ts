@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 import { CATEGORIES } from "@/lib/categories";
 import { getAllCards } from "@/lib/cards";
 import { getGameIndex } from "@/lib/games";
+import { PLATFORMS } from "@/lib/platforms";
 import { getSiteUrl } from "@/lib/site";
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -14,12 +15,22 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/trending`, changeFrequency: "hourly", priority: 0.9 },
     { url: `${base}/deals`, changeFrequency: "hourly", priority: 0.8 },
     { url: `${base}/release-calendar`, changeFrequency: "daily", priority: 0.7 },
+    { url: `${base}/about`, changeFrequency: "monthly", priority: 0.3 },
+    { url: `${base}/contact`, changeFrequency: "monthly", priority: 0.3 },
+    { url: `${base}/privacy-policy`, changeFrequency: "yearly", priority: 0.2 },
+    { url: `${base}/terms`, changeFrequency: "yearly", priority: 0.2 },
   ];
 
   const categoryPages: MetadataRoute.Sitemap = CATEGORIES.map((c) => ({
     url: `${base}/category/${c.slug}`,
     changeFrequency: "hourly",
     priority: 0.7,
+  }));
+
+  const platformPages: MetadataRoute.Sitemap = PLATFORMS.map((p) => ({
+    url: `${base}/platform/${p.slug}`,
+    changeFrequency: "hourly",
+    priority: 0.6,
   }));
 
   const gamePages: MetadataRoute.Sitemap = games.map((g) => ({
@@ -36,5 +47,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.5,
   }));
 
-  return [...staticPages, ...categoryPages, ...gamePages, ...articlePages];
+  return [...staticPages, ...categoryPages, ...platformPages, ...gamePages, ...articlePages];
 }

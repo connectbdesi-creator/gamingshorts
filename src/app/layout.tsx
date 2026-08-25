@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "@/components/theme/theme-provider";
+import { SiteFooter } from "@/components/layout/site-footer";
 import { SiteHeader } from "@/components/layout/site-header";
 import { getSiteUrl } from "@/lib/site";
 
@@ -80,6 +81,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         >
           <SiteHeader />
           <main className="flex flex-1 flex-col">{children}</main>
+          <SiteFooter />
         </ThemeProvider>
       </body>
     </html>
