@@ -48,18 +48,11 @@ export function getGame(cards: Card[], slug: string): GameEntry | undefined {
   return getGameIndex(cards).find((g) => g.slug === slug);
 }
 
-/** Top N games by article volume in the last 24h, for the header's dynamic row. */
+/** Top N games by article volume in the last 24h, for the footer's games
+ * column and the "Trending Games" filter dropdown. */
 export function getTrendingGames(cards: Card[], limit = 5): GameEntry[] {
   return getGameIndex(cards)
     .filter((g) => g.last24hCount > 0)
     .sort((a, b) => b.last24hCount - a.last24hCount || b.cardCount - a.cardCount)
-    .slice(0, limit);
-}
-
-/** Top N games by total article volume (all-time within the current card
- * set, not just the last 24h), for the "By Games" filter dropdown. */
-export function getTopGamesByVolume(cards: Card[], limit = 10): GameEntry[] {
-  return getGameIndex(cards)
-    .sort((a, b) => b.cardCount - a.cardCount)
     .slice(0, limit);
 }

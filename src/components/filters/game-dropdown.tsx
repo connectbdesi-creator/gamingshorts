@@ -22,7 +22,9 @@ export function GameDropdown({
   useClickOutside(ref, () => setOpen(false));
 
   const selectedLabel =
-    value === "all" ? "By Games" : (games.find((g) => g.slug === value)?.label ?? "By Games");
+    value === "all"
+      ? "Trending Games"
+      : (games.find((g) => g.slug === value)?.label ?? "Trending Games");
 
   return (
     <div ref={ref} className="relative">

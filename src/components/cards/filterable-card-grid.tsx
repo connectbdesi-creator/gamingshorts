@@ -10,7 +10,7 @@ import { GameDropdown, type GameFilterValue } from "@/components/filters/game-dr
 import { PlatformDropdown } from "@/components/filters/platform-dropdown";
 import { SearchInput } from "@/components/filters/search-input";
 import { SwipeReader } from "@/components/reader/swipe-reader";
-import { getTopGamesByVolume } from "@/lib/games";
+import { getTrendingGames } from "@/lib/games";
 import type { PlatformSlug } from "@/lib/platforms";
 import type { Card } from "@/types/card";
 
@@ -39,7 +39,7 @@ export function FilterableCardGrid({
   const [search, setSearch] = useState("");
   const [openIndex, setOpenIndex] = useState<number | null>(null);
 
-  const topGames = useMemo(() => getTopGamesByVolume(cards, 10), [cards]);
+  const trendingGames = useMemo(() => getTrendingGames(cards, 10), [cards]);
 
   const filteredCards = useMemo(() => {
     const query = search.trim().toLowerCase();
@@ -105,8 +105,8 @@ export function FilterableCardGrid({
               onClear={clearPlatforms}
             />
           )}
-          {showGameFilter && topGames.length > 0 && (
-            <GameDropdown games={topGames} value={game} onChange={setGame} />
+          {showGameFilter && trendingGames.length > 0 && (
+            <GameDropdown games={trendingGames} value={game} onChange={setGame} />
           )}
           {showGameFilter && <SearchInput value={search} onChange={setSearch} />}
         </div>
