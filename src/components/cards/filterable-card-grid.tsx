@@ -3,10 +3,10 @@
 import { useEffect, useMemo, useState } from "react";
 import { CardGrid } from "@/components/cards/card-grid";
 import {
-  CategoryTabs,
+  CategoryDropdown,
   type CategoryFilterValue,
-} from "@/components/filters/category-tabs";
-import { PlatformFilterBar } from "@/components/filters/platform-filter-bar";
+} from "@/components/filters/category-dropdown";
+import { PlatformDropdown } from "@/components/filters/platform-dropdown";
 import { SwipeReader } from "@/components/reader/swipe-reader";
 import type { PlatformSlug } from "@/lib/platforms";
 import type { Card } from "@/types/card";
@@ -49,6 +49,10 @@ export function FilterableCardGrid({
     });
   }
 
+  function clearPlatforms() {
+    setPlatforms(new Set());
+  }
+
   function openCard(card: Card) {
     const index = filteredCards.findIndex((c) => c.id === card.id);
     if (index === -1) return;
@@ -76,9 +80,17 @@ export function FilterableCardGrid({
 
   return (
     <div className="flex flex-col gap-4">
-      {showCategoryTabs && <CategoryTabs value={category} onChange={setCategory} />}
-      {showPlatformFilter && (
-        <PlatformFilterBar selected={platforms} onToggle={togglePlatform} />
+      {(showCategoryTabs || showPlatformFilter) && (
+        <div className="flex flex-wrap items-center gap-2">
+          {showCategoryTabs && <CategoryDropdown value={category} onChange={setCategory} />}
+          {showPlatformFilter && (
+            <PlatformDropdown
+              selected={platforms}
+              onToggle={togglePlatform}
+              onClear={clearPlatforms}
+            />
+          )}
+        </div>
       )}
       <CardGrid cards={filteredCards} onOpen={openCard} />
 

@@ -16,22 +16,27 @@ let cache: Card[] | null = null;
  *
  * Reads happen at build/request time in Server Components only — this
  * touches the filesystem, so never import it from a Client Component.
+ *
+ * Always returned newest-first by published_at. The ingestion pipeline
+ * already writes data/cards.json in that order, but sorting again here
+ * guarantees it for every consumer regardless of source (including the
+ * mock-data fallback) rather than relying on each caller to get it right.
  */
 export function getAllCards(): Card[] {
   if (cache) return cache;
 
+  let cards = MOCK_CARDS;
   try {
     const raw = fs.readFileSync(CARDS_JSON_PATH, "utf8");
     const parsed = JSON.parse(raw) as Card[];
-    if (Array.isArray(parsed) && parsed.length > 0) {
-      cache = parsed;
-      return cache;
-    }
+    if (Array.isArray(parsed) && parsed.length > 0) cards = parsed;
   } catch {
     // data/cards.json doesn't exist yet (ingestion has never run) or is
-    // malformed — fall through to mock data below.
+    // malformed — fall through to mock data.
   }
 
-  cache = MOCK_CARDS;
+  cache = [...cards].sort(
+    (a, b) => new Date(b.published_at).getTime() - new Date(a.published_at).getTime()
+  );
   return cache;
 }
