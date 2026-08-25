@@ -1,6 +1,6 @@
 "use client";
 
-import { ChevronDown, ChevronUp, MessageCircle, X } from "lucide-react";
+import { MessageCircle, X } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
@@ -12,7 +12,6 @@ import { GameBadge } from "@/components/games/game-badge";
 import { ShareButtons } from "@/components/share/share-buttons";
 import { formatRelativeTime } from "@/lib/format";
 import { getSiteUrl } from "@/lib/site";
-import { cn } from "@/lib/utils";
 import type { Card } from "@/types/card";
 
 /**
@@ -20,12 +19,9 @@ import type { Card } from "@/types/card";
  * header (via the --header-h var, see header-height-observer.tsx) rather
  * than covering it, so the header/nav stays visible and usable on both
  * mobile and desktop while swiping. Vertical scroll-snap gives native
- * swipe-to-advance on touch devices for free, but mouse-wheel scroll isn't
- * reliable everywhere (nested scroll areas, some desktop browsers/trackpad
- * configs) — the on-screen prev/next buttons are the guaranteed-to-work
- * path, with arrow keys as a second option. An IntersectionObserver reports
- * the active card so the address bar's slug and the buttons' disabled
- * state both stay in sync as the user swipes.
+ * swipe-to-advance on touch/mouse-wheel, with arrow keys as a second
+ * option. An IntersectionObserver reports the active card so the address
+ * bar's slug stays in sync as the user swipes.
  */
 export function SwipeReader({
   cards,
@@ -40,12 +36,18 @@ export function SwipeReader({
 }) {
   const trackRef = useRef<HTMLDivElement>(null);
   const [activeIndex, setActiveIndex] = useState(initialIndex);
+  const lastReportedIndexRef = useRef(initialIndex);
 
   useEffect(() => {
     const el = trackRef.current?.children[initialIndex] as
       | HTMLElement
       | undefined;
-    el?.scrollIntoView({ block: "start" });
+    // Explicit "instant" is required here, not just omitting `behavior` —
+    // the track has `scroll-smooth` CSS (so goTo()'s manual prev/next
+    // scrolls animate nicely), and scrollIntoView's default "auto"
+    // behavior inherits that CSS, which made opening any card past the
+    // first visibly animate through every card above it first.
+    el?.scrollIntoView({ block: "start", behavior: "instant" });
     // Only run on mount: this seeks to the opened card, subsequent index
     // changes come from the user's own scroll and shouldn't re-trigger it.
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -68,7 +70,13 @@ export function SwipeReader({
         for (const entry of entries) {
           if (entry.isIntersecting && entry.intersectionRatio >= 0.6) {
             const index = Array.from(track.children).indexOf(entry.target);
-            if (index !== -1) {
+            // The browser can deliver multiple callbacks for the same
+            // settled index (e.g. as images above/below finish loading and
+            // shift layout) — only report real changes so onIndexChange
+            // doesn't fire (and rewrite the URL) redundantly for the card
+            // that's already active.
+            if (index !== -1 && index !== lastReportedIndexRef.current) {
+              lastReportedIndexRef.current = index;
               setActiveIndex(index);
               onIndexChange?.(index);
             }
@@ -104,7 +112,7 @@ export function SwipeReader({
       className="fixed inset-x-0 bottom-0 z-30 flex justify-center bg-black/70 p-3 backdrop-blur-sm sm:p-6"
       style={{ top: "var(--header-h)" }}
     >
-      <div className="relative flex h-full w-full max-w-2xl flex-col overflow-hidden rounded-card border border-border bg-background shadow-2xl">
+      <div className="relative flex h-full w-full max-w-6xl flex-col overflow-hidden rounded-card border border-border bg-background shadow-2xl">
         <button
           type="button"
           onClick={onClose}
@@ -113,33 +121,6 @@ export function SwipeReader({
         >
           <X className="size-5" />
         </button>
-
-        <div className="absolute bottom-6 right-4 z-10 flex flex-col gap-2">
-          <button
-            type="button"
-            onClick={() => goTo(activeIndex - 1)}
-            disabled={activeIndex === 0}
-            aria-label="Previous card"
-            className={cn(
-              "flex size-9 items-center justify-center rounded-full bg-black/50 text-white backdrop-blur transition-colors",
-              activeIndex === 0 ? "opacity-30" : "hover:bg-black/70"
-            )}
-          >
-            <ChevronUp className="size-5" />
-          </button>
-          <button
-            type="button"
-            onClick={() => goTo(activeIndex + 1)}
-            disabled={activeIndex === cards.length - 1}
-            aria-label="Next card"
-            className={cn(
-              "flex size-9 items-center justify-center rounded-full bg-black/50 text-white backdrop-blur transition-colors",
-              activeIndex === cards.length - 1 ? "opacity-30" : "hover:bg-black/70"
-            )}
-          >
-            <ChevronDown className="size-5" />
-          </button>
-        </div>
 
         <div
           ref={trackRef}
