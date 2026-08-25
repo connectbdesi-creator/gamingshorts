@@ -15,6 +15,7 @@ const DATA_DIR = path.join(process.cwd(), "data");
 const CARDS_PATH = path.join(DATA_DIR, "cards.json");
 const SEEN_PATH = path.join(DATA_DIR, "seen.json");
 const GAMES_PATH = path.join(DATA_DIR, "games.json");
+const META_PATH = path.join(DATA_DIR, "meta.json");
 
 const MAX_CARDS = 200;
 const FORCE_REFRESH = process.env.FORCE_REFRESH === "true";
@@ -152,7 +153,15 @@ async function run() {
       sourceName: source.name,
     });
 
-    if (!summarized) {
+    if (summarized.status === "not_gaming") {
+      console.log(`  = Skipping non-gaming story (${source.name}): "${title}"`);
+      // Marked seen — this is a real content judgment, not a transient
+      // failure, so it shouldn't be retried every run forever.
+      seen.add(itemId);
+      continue;
+    }
+
+    if (summarized.status === "failed") {
       console.error(`  ! Skipped (summarization failed, will retry next run): ${title}`);
       // Not marked seen — a failed call is usually systemic (bad/missing
       // key, rate limit), not something wrong with this specific article,
@@ -162,26 +171,27 @@ async function run() {
     }
 
     seen.add(itemId);
+    const summary = summarized.card;
 
     const publishedAt =
       item.isoDate ?? (item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString());
 
     const card: Card = {
       id: itemId,
-      slug: slugify(summarized.headline, link),
-      headline: summarized.headline,
-      summary: summarized.summary,
-      category: summarized.category,
-      platform_tags: summarized.platform_tags,
+      slug: slugify(summary.headline, link),
+      headline: summary.headline,
+      summary: summary.summary,
+      category: summary.category,
+      platform_tags: summary.platform_tags,
       source_name: source.name,
       source_url: link,
       image_url: extractImage(item, itemId),
       published_at: publishedAt,
-      hype_signal: summarized.hype_signal,
+      hype_signal: summary.hype_signal,
       like_count: 0,
       comment_count: 0,
-      game: summarized.game_label ? slugifyGameName(summarized.game_label) : null,
-      game_label: summarized.game_label,
+      game: summary.game_label ? slugifyGameName(summary.game_label) : null,
+      game_label: summary.game_label,
     };
 
     newCards.push(card);
@@ -205,6 +215,10 @@ async function run() {
 
   writeJson(CARDS_PATH, merged);
   writeJson(SEEN_PATH, Array.from(seen));
+  // Written every run regardless of whether new cards were found — this is
+  // "when did the cron last check", not "when did it last find something",
+  // which is what the header's last-refresh indicator actually needs.
+  writeJson(META_PATH, { lastRunAt: new Date().toISOString() });
 
   console.log(
     `\nDone. ${newCards.length} new card(s) added, ${merged.length} total in data/cards.json.`

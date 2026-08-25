@@ -13,6 +13,18 @@ import { MAX_SUMMARY_WORDS, countWords } from "@/types/card";
 const MAX_ATTEMPTS = 2;
 
 /**
+ * "not_gaming" is distinct from "failed": it's a real content judgment
+ * (this article isn't video game news), not a transient error, so the
+ * caller should permanently mark it seen instead of retrying it next run —
+ * unlike "failed", which is usually a systemic issue (bad key, rate limit)
+ * worth retrying once that's fixed.
+ */
+export type SummarizeOutcome =
+  | { status: "ok"; card: SummarizedArticle }
+  | { status: "not_gaming" }
+  | { status: "failed" };
+
+/**
  * OpenRouter is preferred when both are configured since it's the more
  * commonly-held key for this project (one key, many models) — but either
  * works standalone. Set OPENROUTER_MODEL / ANTHROPIC_MODEL to override the
@@ -30,13 +42,16 @@ export function getActiveProvider(): ModelProvider | null {
  * over the word cap; if it's still over after that, hard-truncates at the
  * word boundary rather than dropping the article — CLAUDE.md's 60-word cap
  * is "no exceptions", so the guarantee has to hold even when the model
- * doesn't cooperate.
+ * doesn't cooperate. Rejects articles the model judges aren't actually
+ * gaming news (see is_gaming_news in card-schema.ts) — several sources
+ * (Kotaku, Polygon, etc.) run a general entertainment/tech feed alongside
+ * their gaming coverage, not just games.
  */
 export async function summarizeArticle(article: {
   title: string;
   content: string;
   sourceName: string;
-}): Promise<SummarizedArticle | null> {
+}): Promise<SummarizeOutcome> {
   const provider = getActiveProvider();
   if (!provider) {
     throw new Error(
@@ -49,11 +64,15 @@ export async function summarizeArticle(article: {
 
   for (let attempt = 0; attempt < MAX_ATTEMPTS; attempt++) {
     const raw = await provider.callForCard(buildPrompt(article, feedback));
-    if (!raw) return lastResult;
+    if (!raw) return lastResult ? { status: "ok", card: lastResult } : { status: "failed" };
+
+    if (raw.is_gaming_news === false) {
+      return { status: "not_gaming" };
+    }
 
     if (!isValidCategory(raw.category)) {
       console.error(`  ! Invalid category "${raw.category}" for "${article.title}", skipping`);
-      return null;
+      return { status: "failed" };
     }
 
     const input: SummarizedArticle = {
@@ -68,7 +87,7 @@ export async function summarizeArticle(article: {
     lastResult = input;
 
     if (countWords(input.summary) <= MAX_SUMMARY_WORDS) {
-      return input;
+      return { status: "ok", card: input };
     }
 
     feedback = `Your previous summary was ${countWords(input.summary)} words — over the ${MAX_SUMMARY_WORDS}-word limit. Rewrite it shorter.`;
@@ -76,6 +95,7 @@ export async function summarizeArticle(article: {
 
   if (lastResult) {
     lastResult.summary = truncateToWordLimit(lastResult.summary, MAX_SUMMARY_WORDS);
+    return { status: "ok", card: lastResult };
   }
-  return lastResult;
+  return { status: "failed" };
 }

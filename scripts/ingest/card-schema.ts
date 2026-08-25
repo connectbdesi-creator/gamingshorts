@@ -25,6 +25,11 @@ export interface SummarizedArticle {
 export const CARD_JSON_SCHEMA = {
   type: "object",
   properties: {
+    is_gaming_news: {
+      type: "boolean",
+      description:
+        "True only if this article is substantively about the video game industry or a specific video game — a release, a review, a patch/update, an esports event, game-related business news (studio/publisher deals, layoffs, funding), or a video game storefront sale. False for everything else, even if it mentions a game in passing or uses gaming terminology loosely — general entertainment/movie/TV/anime news, consumer tech or hardware that isn't gaming-specific, non-gaming stories that merely reference a game, or stories where a game is only a minor detail rather than the subject.",
+    },
     headline: {
       type: "string",
       description: "Rewritten headline in your own words — do not copy the source's title verbatim.",
@@ -55,7 +60,15 @@ export const CARD_JSON_SCHEMA = {
         "The display name of the single specific game this article is primarily about, e.g. \"Elden Ring\" or \"VALORANT\" — used so readers can follow that game and get notified of future news about it. Use null for stories not about one specific game (industry/business news, storewide sales, multi-game roundups). Use the game's most common short name, not a version-specific subtitle unless that's how it's actually branded (e.g. \"Overwatch 2\", not \"Overwatch\").",
     },
   },
-  required: ["headline", "summary", "category", "platform_tags", "hype_signal", "game_label"],
+  required: [
+    "is_gaming_news",
+    "headline",
+    "summary",
+    "category",
+    "platform_tags",
+    "hype_signal",
+    "game_label",
+  ],
 } as const;
 
 export function buildPrompt(
@@ -70,7 +83,9 @@ Article content:
 ${article.content}
 """
 
-Summarize this as a video game news card for a 60-word Inshorts-style feed. Rewrite everything in your own words — do not copy sentences from the article. The summary must be ${MAX_SUMMARY_WORDS} words or fewer, no exceptions.${feedback ? `\n\n${feedback}` : ""}`;
+This is a video-game-industry-only news feed. First decide whether the article is genuinely about video games — not just published by a gaming-adjacent outlet. Set is_gaming_news to false for general entertainment/movie/TV/anime coverage, non-gaming tech or hardware, or anything where a game is only mentioned in passing rather than being the actual subject; if it's false, fill the other fields with your best guess anyway, they'll be discarded.
+
+If it is gaming news, summarize it as a video game news card for a 60-word Inshorts-style feed. Rewrite everything in your own words — do not copy sentences from the article. The summary must be ${MAX_SUMMARY_WORDS} words or fewer, no exceptions.${feedback ? `\n\n${feedback}` : ""}`;
 }
 
 export function truncateToWordLimit(text: string, limit: number): string {
