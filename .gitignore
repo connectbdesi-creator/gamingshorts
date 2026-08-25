@@ -37,6 +37,10 @@ yarn-error.log*
 # vercel
 .vercel
 
+# supabase CLI local state
+supabase/.temp/
+supabase/.branches/
+
 # claude code local session state (permission allowlists etc.)
 .claude/
 
