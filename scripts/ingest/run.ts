@@ -187,7 +187,19 @@ async function run() {
     newCards.push(card);
   }
 
+  // Defensive de-dup by id (= hash of source_url) on top of the seen-set
+  // check above — belt and suspenders against ever re-adding the same
+  // article twice (e.g. after a seen.json reset), since a duplicate id
+  // breaks React's list reconciliation (duplicate keys) wherever cards
+  // render, including the reader's card-index tracking. Keeps whichever
+  // copy sorts first (newCards before existingCards, i.e. the newest).
+  const seenIds = new Set<string>();
   const merged = [...newCards, ...existingCards]
+    .filter((card) => {
+      if (seenIds.has(card.id)) return false;
+      seenIds.add(card.id);
+      return true;
+    })
     .sort((a, b) => new Date(b.published_at).getTime() - new Date(a.published_at).getTime())
     .slice(0, MAX_CARDS);
 

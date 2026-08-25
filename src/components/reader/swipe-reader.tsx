@@ -162,16 +162,28 @@ export function SwipeReader({
               <h1 className="text-xl font-bold leading-snug text-foreground">
                 {card.headline}
               </h1>
-              {card.game && card.game_label && (
-                <div className="flex items-center gap-3">
-                  <GameBadge
-                    slug={card.game}
-                    label={card.game_label}
-                    className="text-sm font-semibold text-accent hover:text-accent-hover"
-                  />
-                  <FollowButton gameSlug={card.game} />
-                </div>
-              )}
+
+              <div className="flex flex-wrap items-center gap-3">
+                {card.game && card.game_label && (
+                  <>
+                    <GameBadge
+                      slug={card.game}
+                      label={card.game_label}
+                      className="text-sm font-semibold text-accent hover:text-accent-hover"
+                    />
+                    <FollowButton gameSlug={card.game} />
+                  </>
+                )}
+                <LikeButton cardId={card.id} initialCount={card.like_count} />
+                <Link
+                  href={`/news/${card.slug}#comments`}
+                  className="flex items-center gap-1.5 text-sm text-foreground-muted hover:text-foreground"
+                >
+                  <MessageCircle className="size-4" />
+                  {card.comment_count}
+                </Link>
+              </div>
+
               <p className="text-sm leading-relaxed text-foreground-muted">
                 {card.summary}
               </p>
@@ -196,17 +208,7 @@ export function SwipeReader({
                     Read full story →
                   </a>
                 </div>
-                <div className="flex items-center justify-between">
-                  <div className="flex items-center gap-4">
-                    <LikeButton cardId={card.id} initialCount={card.like_count} />
-                    <Link
-                      href={`/news/${card.slug}#comments`}
-                      className="flex items-center gap-1.5 text-foreground-muted hover:text-foreground"
-                    >
-                      <MessageCircle className="size-4" />
-                      {card.comment_count}
-                    </Link>
-                  </div>
+                <div className="flex justify-center">
                   <ShareButtons
                     url={`${getSiteUrl()}/news/${card.slug}`}
                     title={card.headline}
