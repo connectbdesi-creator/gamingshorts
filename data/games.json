@@ -3064,5 +3064,297 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-26T17:04:39.821Z"
+  },
+  {
+    "slug": "crash-bandicoot",
+    "name": "Crash Bandicoot",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/bc1/bc141ec3f4ca8d1d14f0ab4e4f9e654d.jpg",
+    "released": "1996-09-09",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Platformer",
+      "Action"
+    ],
+    "platforms": [
+      "PlayStation"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/8b4/8b4571baa92c91ab5b483d0cb85b4e11.jpg",
+      "https://media.rawg.io/media/screenshots/e97/e97fc37d7d25c8ee5ca7cc5888caec75.jpg",
+      "https://media.rawg.io/media/screenshots/31a/31a1d90b70f1bfd56d7d1b814be1c835.jpg",
+      "https://media.rawg.io/media/screenshots/6d5/6d53e2bf39ff22caa7e25fa0608a3a17.jpg",
+      "https://media.rawg.io/media/screenshots/fce/fcecad4add6e039db595cecd28413f75.jpg",
+      "https://media.rawg.io/media/screenshots/941/9410c99f1ed0405a0c3b4f1e4eb89dd2.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T20:04:05.937Z"
+  },
+  {
+    "slug": "blue-dragon",
+    "name": "Blue Dragon",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/42a/42aec355fc6a797a5da14fa09739da4e.jpg",
+    "released": "2008-01-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "Xbox 360"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/62b/62bfa18b64c5101077a15ef99b8cfe1c.jpg",
+      "https://media.rawg.io/media/screenshots/07e/07ee05c28207b233792b39291f5d0d8a.jpg",
+      "https://media.rawg.io/media/screenshots/057/057ddf4bde466b61a8b563bdf527f58b.jpg",
+      "https://media.rawg.io/media/screenshots/102/10220878aa81ff96ec44f8f9f9a71c7b.jpg",
+      "https://media.rawg.io/media/screenshots/1ce/1cec40c79402e590004cd2108b0d0a76.jpg",
+      "https://media.rawg.io/media/screenshots/60b/60b111732c21e22e2f6d0aaaddca2225.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T20:04:06.530Z"
+  },
+  {
+    "slug": "warhammer-40000-boltgun-2",
+    "name": "Warhammer 40,000: Boltgun",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/96e/96ed69295a50e926d42412a7b4413d08.jpg",
+    "released": "2023-05-22",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/be0/be047089d195f4fadd4a84009a996d56.jpg",
+      "https://media.rawg.io/media/screenshots/e10/e102df39a22d02ba5b52911682c33d84.jpg",
+      "https://media.rawg.io/media/screenshots/62b/62bde2be1198435efe0633a96d623c76.jpg",
+      "https://media.rawg.io/media/screenshots/998/99816f4352f805b7245c1788467ea1b7.jpg",
+      "https://media.rawg.io/media/screenshots/44f/44f1e4294e9b57d671770f3b4773ed80.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T20:04:12.898Z"
+  },
+  {
+    "slug": "stalker-2",
+    "name": "Talker/Stalker",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/ff9/ff93cdbfb97c76907bfa8d48e8269b55.jpg",
+    "released": "2016-08-07",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "Android"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/ff9/ff93cdbfb97c76907bfa8d48e8269b55.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T20:04:13.685Z"
+  },
+  {
+    "slug": "amphibian",
+    "name": "Amphibian",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/dcd/dcdee3a83316dda702621b4dad3fb877.jpg",
+    "released": "2014-08-25",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Linux",
+      "Web"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/dcd/dcdee3a83316dda702621b4dad3fb877.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T20:04:15.648Z"
+  },
+  {
+    "slug": "neon-abyss-2",
+    "name": "Neon Abyss 2",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/ad7/ad788aec1096a4bae275180db53a0d09.jpg",
+    "released": "2025-07-17",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/aeb/aeba649c3999c2f9daf8a18b68bd9b83.jpg",
+      "https://media.rawg.io/media/screenshots/d3f/d3f24cacd8e7dd73f49b1cede8fb930c.jpg",
+      "https://media.rawg.io/media/screenshots/4ba/4ba518f6c0ac9cd323f564dace7981fd.jpg",
+      "https://media.rawg.io/media/screenshots/249/2492e1e2a07ed6fb63891b1ad4452f37.jpg",
+      "https://media.rawg.io/media/screenshots/626/626adf2a0d9e02c6ec77ecdb14d01849.jpg",
+      "https://media.rawg.io/media/screenshots/c1a/c1ab2075f1caadbf6ab83a7abe4bb280.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T20:04:16.139Z"
+  },
+  {
+    "slug": "train-sim-world-7",
+    "name": "Train Sim World: CSX Heavy Haul",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/782/7826aea2a63a470e1c4d488eb142dbc5.jpg",
+    "released": "2017-03-16",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/27e/27e9a87269601281ce98cef3d1b123f2.jpg",
+      "https://media.rawg.io/media/screenshots/bd8/bd8060562234f764a0e0fa494e4935ee.jpg",
+      "https://media.rawg.io/media/screenshots/1c7/1c7f7b3108b956373a23a2e3e0334952.jpg",
+      "https://media.rawg.io/media/screenshots/95e/95e79d44ccea91a346466ae58058f05a.jpg",
+      "https://media.rawg.io/media/screenshots/931/93189930cf3ad58583660f20b672156e.jpg",
+      "https://media.rawg.io/media/screenshots/193/193394a732e12826286358f268d4acdc.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T20:04:17.405Z"
+  },
+  {
+    "slug": "danganronpa-22",
+    "name": "Danganronpa 2: Goodbye Despair",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/a6c/a6cd31267a20a615d35f618e766208fc.jpg",
+    "released": "2012-07-26",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Casual",
+      "Adventure"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "iOS",
+      "macOS",
+      "Linux",
+      "PS Vita",
+      "PSP"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/2d1/2d1ae64713b2a73a6914dc43259722ff.jpg",
+      "https://media.rawg.io/media/screenshots/713/713f2bed5255d04496b41ee51cc42bca.jpg",
+      "https://media.rawg.io/media/screenshots/b1c/b1cb788579b6d240b835c713089ce777.jpg",
+      "https://media.rawg.io/media/screenshots/268/268de8a35ba328f1a7fb55d13089594b.jpg",
+      "https://media.rawg.io/media/screenshots/ba6/ba62ad698c330327bdef148cae47ff7c.jpg",
+      "https://media.rawg.io/media/screenshots/e0c/e0ca2f78efd9f5a8c82d9ad8f181e92a.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T20:04:22.487Z"
+  },
+  {
+    "slug": "guns-of-eschaton",
+    "name": "Guns of Eschaton",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/7d4/7d41a69870954437c619fc7762169b71.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/590/590808e718b0fde4f2c1f5a2b6edc94f.jpg",
+      "https://media.rawg.io/media/screenshots/76e/76e626d87a8ec01e1d0f33a041568add.jpg",
+      "https://media.rawg.io/media/screenshots/8e1/8e1d7aca02d5e626dde8f6946d8e4a04.jpg",
+      "https://media.rawg.io/media/screenshots/a38/a38206fb1f7f802cef0ad743204d1185.jpg",
+      "https://media.rawg.io/media/screenshots/dad/dadf3c4eb48f31cb3aa30136ae605083.jpg",
+      "https://media.rawg.io/media/screenshots/cb6/cb6b2d6507fe401313b9adf012f5febc.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T20:04:23.700Z"
+  },
+  {
+    "slug": "modern-warfare-4",
+    "name": "Call of Duty 4: Modern Warfare",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/9fb/9fbaea2168caea1f806546dfdaaeb1da.jpg",
+    "released": "2007-11-05",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Nintendo DS",
+      "macOS",
+      "Xbox 360",
+      "PlayStation 3",
+      "Wii"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/e8e/e8e92ec1aff7d7767662614d6b47e1c6.jpg",
+      "https://media.rawg.io/media/screenshots/3a7/3a716eecfb1b6cbc85d90c36534177a4.jpg",
+      "https://media.rawg.io/media/screenshots/982/982c8f523d6d83159f6b9bbca20665d5.jpg",
+      "https://media.rawg.io/media/screenshots/c9e/c9e72793428ed326cf1587c630cc02ca.jpg",
+      "https://media.rawg.io/media/screenshots/9e1/9e1e7d81d2b3ae15091c0f038c14f369.jpg",
+      "https://media.rawg.io/media/screenshots/de9/de931d605285d86431a07d9f5530230b.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T20:04:24.921Z"
+  },
+  {
+    "slug": "where-winds-meet",
+    "name": "Where Winds Meet",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/8a7/8a797083d6dd0f810a42bb2fa379a23a.jpg",
+    "released": "2025-11-14",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/44a/44a0397a487f56f2741c0c3c2ffbc9b1.jpg",
+      "https://media.rawg.io/media/screenshots/ad7/ad742d2cefa6380d2632d7cc47228a54.jpg",
+      "https://media.rawg.io/media/screenshots/d83/d83d04a36a5b644bf2567a103fd0857a.jpg",
+      "https://media.rawg.io/media/screenshots/8a7/8a797083d6dd0f810a42bb2fa379a23a.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T20:04:27.765Z"
   }
 ]
