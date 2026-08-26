@@ -53,8 +53,15 @@ const CATEGORIES = [
 ];
 const PLATFORMS = ["pc", "playstation", "xbox", "switch", "mobile", "vr"];
 
-const GEMINI_MODEL = "gemini-2.0-flash";
-const GROQ_MODEL = "llama-3.3-70b-versatile";
+// gemini-2.0-flash was retired — Google's own 404 on that ID names
+// gemini-3.6-flash as the direct replacement (confirmed current/GA
+// against ai.google.dev's model list as of this change).
+const GEMINI_MODEL = "gemini-3.6-flash";
+// llama-3.3-70b-versatile still exists on Groq but moved to
+// Enterprise/contact-sales pricing (confirmed via console.groq.com/docs/
+// models) — a free/standard-tier key gets exactly the 404 seen here.
+// gpt-oss-120b is Groq's large open model on standard self-serve pricing.
+const GROQ_MODEL = "openai/gpt-oss-120b";
 
 // Same source list as scripts/ingest/sources.ts (kept in sync manually —
 // this file is intentionally dependency-free of the TS pipeline so it can
