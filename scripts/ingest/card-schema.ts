@@ -127,6 +127,23 @@ ${articlesBlock}
 Write ONE combined card for this story: a single rewritten headline and a ${MAX_SUMMARY_WORDS}-word-or-fewer summary covering the story itself — not any one outlet's specific angle — plus the single best category, platform tags, hype signal, and game label for it.${feedback ? `\n\n${feedback}` : ""}`;
 }
 
+/**
+ * Anthropic/OpenRouter get the field shape via native tool-calling
+ * (CARD_JSON_SCHEMA passed as the tool's parameters — see providers/*.ts),
+ * so buildPrompt/buildMergePrompt don't need to spell it out in words.
+ * Gemini and Groq are called in plain JSON mode instead (no forced-schema
+ * tool call), so their prompt needs the shape written out explicitly —
+ * this appends that shared description to either base prompt.
+ */
+function buildCardShapeInstructions(): string {
+  return `Respond with ONLY a single valid JSON object, no markdown formatting, no commentary, matching exactly this shape:
+{"is_gaming_news": boolean, "is_sensitive": boolean, "skip_reason": string|null, "headline": string, "summary": string, "category": one of ${JSON.stringify(CATEGORIES.map((c) => c.slug))}, "platform_tags": array using only values from ${JSON.stringify(PLATFORMS.map((p) => p.slug))}, "hype_signal": integer 0-100 or null, "game_label": string|null}`;
+}
+
+export function toJsonModePrompt(basePrompt: string): string {
+  return `${basePrompt}\n\n${buildCardShapeInstructions()}`;
+}
+
 export function truncateToWordLimit(text: string, limit: number): string {
   const words = text.trim().split(/\s+/);
   if (words.length <= limit) return text.trim();

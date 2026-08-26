@@ -5,7 +5,7 @@ import type { SummarizedArticle } from "./card-schema";
 import { isSameStory } from "./dedup";
 import { fetchGameInfo } from "./game-info";
 import { sendPushForNewCards } from "./push";
-import { getActiveProvider, mergeArticles, summarizeArticle } from "./summarize";
+import { getConfiguredProviders, mergeArticles, summarizeArticle } from "./summarize";
 import { RSS_SOURCES, type RssSource } from "./sources";
 import { hashId, slugify, slugifyGameName } from "./slugify";
 import { isWithinHours } from "@/lib/format";
@@ -130,13 +130,13 @@ function buildCard(
 }
 
 async function run() {
-  const provider = getActiveProvider();
-  if (!provider) {
+  const providers = getConfiguredProviders();
+  if (providers.length === 0) {
     throw new Error(
-      "No model provider configured — set OPENROUTER_API_KEY or ANTHROPIC_API_KEY before running ingestion."
+      "No model provider configured — set OPENROUTER_API_KEY, ANTHROPIC_API_KEY, GEMINI_API_KEY, or GROQ_API_KEY before running ingestion."
     );
   }
-  console.log(`Using ${provider.name} for summarization.\n`);
+  console.log(`Provider fallback order: ${providers.map((p) => p.name).join(" -> ")}\n`);
 
   fs.mkdirSync(DATA_DIR, { recursive: true });
 

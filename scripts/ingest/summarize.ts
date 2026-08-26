@@ -7,6 +7,8 @@ import {
   type SummarizedArticle,
 } from "./card-schema";
 import { anthropicProvider } from "./providers/anthropic-provider";
+import { geminiProvider } from "./providers/gemini-provider";
+import { groqProvider } from "./providers/groq-provider";
 import { openRouterProvider } from "./providers/openrouter-provider";
 import type { ModelProvider } from "./providers/types";
 import { MAX_SUMMARY_WORDS, countWords } from "@/types/card";
@@ -27,15 +29,24 @@ export type SummarizeOutcome =
   | { status: "failed" };
 
 /**
- * OpenRouter is preferred when both are configured since it's the more
- * commonly-held key for this project (one key, many models) — but either
- * works standalone. Set OPENROUTER_MODEL / ANTHROPIC_MODEL to override the
- * default model for whichever provider ends up active.
+ * Every configured provider, in priority order — OpenRouter/Anthropic
+ * first (the paid tiers, when funded), Gemini/Groq as the free fallback
+ * tier. Unlike a single "pick one" choice, summarizeArticle/mergeArticles
+ * cascade through *all* of these per call: if OpenRouter is configured but
+ * out of credits (a real failure, not just "not configured"), the very
+ * next call automatically falls through to Anthropic, then Gemini, then
+ * Groq, within the same run — a stale/broken key for one provider doesn't
+ * stall the whole pipeline as long as another one works. Set
+ * OPENROUTER_MODEL / ANTHROPIC_MODEL / GEMINI_MODEL / GROQ_MODEL to
+ * override the default model for whichever provider(s) are configured.
  */
-export function getActiveProvider(): ModelProvider | null {
-  if (process.env.OPENROUTER_API_KEY) return openRouterProvider;
-  if (process.env.ANTHROPIC_API_KEY) return anthropicProvider;
-  return null;
+export function getConfiguredProviders(): ModelProvider[] {
+  const providers: ModelProvider[] = [];
+  if (process.env.OPENROUTER_API_KEY) providers.push(openRouterProvider);
+  if (process.env.ANTHROPIC_API_KEY) providers.push(anthropicProvider);
+  if (process.env.GEMINI_API_KEY) providers.push(geminiProvider);
+  if (process.env.GROQ_API_KEY) providers.push(groqProvider);
+  return providers;
 }
 
 function skipReason(raw: Record<string, unknown>): string {
@@ -66,49 +77,65 @@ function toSummarizedArticle(raw: Record<string, unknown>): SummarizedArticle {
  * gaming news, or are sensitive content (see is_gaming_news/is_sensitive in
  * card-schema.ts) — several sources (Kotaku, Polygon, etc.) run a general
  * entertainment/tech feed alongside their gaming coverage, not just games.
+ *
+ * Cascades through every configured provider (see getConfiguredProviders)
+ * — a provider whose call fails outright (network/auth/credits error, or
+ * an unparseable/invalid response) is skipped in favor of the next one,
+ * within this same call, rather than the whole article failing.
  */
 export async function summarizeArticle(article: {
   title: string;
   content: string;
   sourceName: string;
 }): Promise<SummarizeOutcome> {
-  const provider = getActiveProvider();
-  if (!provider) {
+  const providers = getConfiguredProviders();
+  if (providers.length === 0) {
     throw new Error(
-      "No model provider configured — set OPENROUTER_API_KEY or ANTHROPIC_API_KEY."
+      "No model provider configured — set OPENROUTER_API_KEY, ANTHROPIC_API_KEY, GEMINI_API_KEY, or GROQ_API_KEY."
     );
   }
 
-  let feedback: string | undefined;
-  let lastResult: SummarizedArticle | null = null;
+  for (const provider of providers) {
+    let feedback: string | undefined;
+    let lastResult: SummarizedArticle | null = null;
+    let providerFailed = false;
 
-  for (let attempt = 0; attempt < MAX_ATTEMPTS; attempt++) {
-    const raw = await provider.callForCard(buildPrompt(article, feedback));
-    if (!raw) return lastResult ? { status: "ok", card: lastResult } : { status: "failed" };
+    for (let attempt = 0; attempt < MAX_ATTEMPTS; attempt++) {
+      const raw = await provider.callForCard(buildPrompt(article, feedback));
+      if (!raw) {
+        providerFailed = true;
+        break;
+      }
 
-    if (raw.is_gaming_news === false || raw.is_sensitive === true) {
-      return { status: "skipped", reason: skipReason(raw) };
+      if (raw.is_gaming_news === false || raw.is_sensitive === true) {
+        return { status: "skipped", reason: skipReason(raw) };
+      }
+
+      if (!isValidCategory(raw.category)) {
+        console.error(
+          `  ! Invalid category "${raw.category}" for "${article.title}" via ${provider.name}, trying next provider`
+        );
+        providerFailed = true;
+        break;
+      }
+
+      const input = toSummarizedArticle(raw);
+      lastResult = input;
+
+      if (countWords(input.summary) <= MAX_SUMMARY_WORDS) {
+        return { status: "ok", card: input };
+      }
+
+      feedback = `Your previous summary was ${countWords(input.summary)} words — over the ${MAX_SUMMARY_WORDS}-word limit. Rewrite it shorter.`;
     }
 
-    if (!isValidCategory(raw.category)) {
-      console.error(`  ! Invalid category "${raw.category}" for "${article.title}", skipping`);
-      return { status: "failed" };
+    if (!providerFailed && lastResult) {
+      lastResult.summary = truncateToWordLimit(lastResult.summary, MAX_SUMMARY_WORDS);
+      return { status: "ok", card: lastResult };
     }
-
-    const input = toSummarizedArticle(raw);
-    lastResult = input;
-
-    if (countWords(input.summary) <= MAX_SUMMARY_WORDS) {
-      return { status: "ok", card: input };
-    }
-
-    feedback = `Your previous summary was ${countWords(input.summary)} words — over the ${MAX_SUMMARY_WORDS}-word limit. Rewrite it shorter.`;
+    // providerFailed (or no usable result) — fall through to the next provider.
   }
 
-  if (lastResult) {
-    lastResult.summary = truncateToWordLimit(lastResult.summary, MAX_SUMMARY_WORDS);
-    return { status: "ok", card: lastResult };
-  }
   return { status: "failed" };
 }
 
@@ -118,42 +145,52 @@ export async function summarizeArticle(article: {
  * picking one arbitrarily or publishing several near-duplicates. Every
  * contributing article has already individually passed summarizeArticle's
  * classification, so this doesn't re-check is_gaming_news/is_sensitive —
- * buildMergePrompt tells the model they're pre-confirmed clean.
+ * buildMergePrompt tells the model they're pre-confirmed clean. Cascades
+ * across providers the same way summarizeArticle does.
  */
 export async function mergeArticles(
   articles: { title: string; content: string; sourceName: string }[]
 ): Promise<SummarizedArticle | null> {
-  const provider = getActiveProvider();
-  if (!provider) {
+  const providers = getConfiguredProviders();
+  if (providers.length === 0) {
     throw new Error(
-      "No model provider configured — set OPENROUTER_API_KEY or ANTHROPIC_API_KEY."
+      "No model provider configured — set OPENROUTER_API_KEY, ANTHROPIC_API_KEY, GEMINI_API_KEY, or GROQ_API_KEY."
     );
   }
 
-  let feedback: string | undefined;
-  let lastResult: SummarizedArticle | null = null;
+  for (const provider of providers) {
+    let feedback: string | undefined;
+    let lastResult: SummarizedArticle | null = null;
+    let providerFailed = false;
 
-  for (let attempt = 0; attempt < MAX_ATTEMPTS; attempt++) {
-    const raw = await provider.callForCard(buildMergePrompt(articles, feedback));
-    if (!raw) return lastResult;
+    for (let attempt = 0; attempt < MAX_ATTEMPTS; attempt++) {
+      const raw = await provider.callForCard(buildMergePrompt(articles, feedback));
+      if (!raw) {
+        providerFailed = true;
+        break;
+      }
 
-    if (!isValidCategory(raw.category)) {
-      console.error(`  ! Invalid category for merged cluster, skipping`);
-      return null;
+      if (!isValidCategory(raw.category)) {
+        console.error(`  ! Invalid category for merged cluster via ${provider.name}, trying next provider`);
+        providerFailed = true;
+        break;
+      }
+
+      const input = toSummarizedArticle(raw);
+      lastResult = input;
+
+      if (countWords(input.summary) <= MAX_SUMMARY_WORDS) {
+        return input;
+      }
+
+      feedback = `Your previous summary was ${countWords(input.summary)} words — over the ${MAX_SUMMARY_WORDS}-word limit. Rewrite it shorter.`;
     }
 
-    const input = toSummarizedArticle(raw);
-    lastResult = input;
-
-    if (countWords(input.summary) <= MAX_SUMMARY_WORDS) {
-      return input;
+    if (!providerFailed && lastResult) {
+      lastResult.summary = truncateToWordLimit(lastResult.summary, MAX_SUMMARY_WORDS);
+      return lastResult;
     }
-
-    feedback = `Your previous summary was ${countWords(input.summary)} words — over the ${MAX_SUMMARY_WORDS}-word limit. Rewrite it shorter.`;
   }
 
-  if (lastResult) {
-    lastResult.summary = truncateToWordLimit(lastResult.summary, MAX_SUMMARY_WORDS);
-  }
-  return lastResult;
+  return null;
 }
