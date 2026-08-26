@@ -2903,5 +2903,166 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-26T15:02:13.259Z"
+  },
+  {
+    "slug": "nintendo-switch-2",
+    "name": "Nintendo Entertainment System - Nintendo Switch Online",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/d26/d26ddc869179c4e890de225f0054ff70.jpg",
+    "released": "2018-09-18",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d65/d654d1a72fbc4b90a452e2770401c09a.jpg",
+      "https://media.rawg.io/media/screenshots/f7a/f7a52bf629742c031655ae6661c73801.jpg",
+      "https://media.rawg.io/media/screenshots/223/22328b6292e2caf8a8a1ec0d19b77eec.jpg",
+      "https://media.rawg.io/media/screenshots/417/41729e4a27effbf810de9c9850ccca16.jpg",
+      "https://media.rawg.io/media/screenshots/b2e/b2e97f7b6fc2cb8caad891ac72093955.jpg",
+      "https://media.rawg.io/media/screenshots/dda/ddaaf2963eedd28469cad7ec092807fe.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T17:04:36.082Z"
+  },
+  {
+    "slug": "grand-theft-auto-vi",
+    "name": "Grand Theft Auto VI",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/734/7342a1cd82c8997ec620084ae4c2e7e4.jpg",
+    "released": "2026-11-19",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/598/5983ffe274a237b33e0f0452364fba78.jpg",
+      "https://media.rawg.io/media/screenshots/384/384241113cb4510774289415d7d6dba1.jpg",
+      "https://media.rawg.io/media/screenshots/4c4/4c47d5e898bda3ce131a8e73db6fe505.jpg",
+      "https://media.rawg.io/media/screenshots/db2/db2c206e7896ddc846c60f5d315ecfc3.jpg",
+      "https://media.rawg.io/media/screenshots/05d/05db79dc3d0b0cc9af3f10135ad78025.jpg",
+      "https://media.rawg.io/media/screenshots/d11/d119bf3a0e7473ac0fe86648c4841859.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T17:04:37.018Z"
+  },
+  {
+    "slug": "mega-man",
+    "name": "Mega Man (1987)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/f78/f7809ab885f7464845681e5931aabeb8.jpg",
+    "released": "1987-12-17",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Nintendo 3DS",
+      "PlayStation",
+      "Wii U",
+      "Wii",
+      "NES"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c34/c34917ad1dd9cf761c86494256b3cc41.jpg",
+      "https://media.rawg.io/media/screenshots/054/054a6d4df349f88edc091b6a193fe1a7.jpg",
+      "https://media.rawg.io/media/screenshots/9f4/9f4c5508a96e53f19c57064dcdccf01a.jpg",
+      "https://media.rawg.io/media/screenshots/4b5/4b5b9d3c3139ff3281cc0a15b29ebccd.jpg",
+      "https://media.rawg.io/media/screenshots/592/592b400de3ff1e4007c3ce9c5521df21.jpg",
+      "https://media.rawg.io/media/screenshots/d15/d154c58e088ef3c0f55b7067bb408379.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T17:04:37.491Z"
+  },
+  {
+    "slug": "chained-echoes",
+    "name": "Chained Echoes",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/54a/54a8908159b95eda884e91463529192b.jpg",
+    "released": "2022-12-08",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch",
+      "macOS",
+      "Linux"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/2b4/2b4a7418ee9e69adff69c52e8b2117fc.jpg",
+      "https://media.rawg.io/media/screenshots/c41/c419458b38ac18020e650a69b62e84d4.jpg",
+      "https://media.rawg.io/media/screenshots/226/226d9e55a30750a0f75f374f1ce4bd58.jpg",
+      "https://media.rawg.io/media/screenshots/2eb/2eb6bef5dca8f74f63570100aff68105.jpg",
+      "https://media.rawg.io/media/screenshots/957/9576801330eefd4e3a8c4a4b8b6c6868.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T17:04:38.042Z"
+  },
+  {
+    "slug": "xbox-series-x",
+    "name": "NBA 2K22 for Xbox Series X|S",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/d7f/d7f7a0455f1171b89cfdb6c0b83fb688.jpg",
+    "released": "2021-09-10",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "Xbox One"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f39/f39a8f844be00976fbaa4c83354b862b.jpg",
+      "https://media.rawg.io/media/screenshots/771/771e2e94215a1a74478d8e6d7ba4e0a9.jpg",
+      "https://media.rawg.io/media/screenshots/d7f/d7f7a0455f1171b89cfdb6c0b83fb688.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T17:04:38.540Z"
+  },
+  {
+    "slug": "sega",
+    "name": "Sega Rally Championship (1995)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/46b/46ba1e9707ed333f6a9a98427ff25fdc.jpg",
+    "released": "1995-12-19",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PC",
+      "Game Boy Advance",
+      "SEGA Saturn"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c68/c68301b3910c3c043188960439288df0.jpg",
+      "https://media.rawg.io/media/screenshots/9d1/9d1c1b25719561d848eadef7c98b4857.jpg",
+      "https://media.rawg.io/media/screenshots/d44/d440860af4ad2c3b742251af05d0a493.jpg",
+      "https://media.rawg.io/media/screenshots/5af/5aff4122e4482717f071c4c1384443d8.jpg",
+      "https://media.rawg.io/media/screenshots/aa1/aa1bd1af2a593d10a3487f45007f4df7.jpg",
+      "https://media.rawg.io/media/screenshots/10e/10e8d0c515ed1a271fcc0469838cd70d.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T17:04:39.821Z"
   }
 ]
