@@ -123,14 +123,17 @@ function extractImage(item: FeedItem, seed: string): string {
 function buildCard(
   primary: { candidate: Candidate; summary: SummarizedArticle },
   sources: CardSource[],
-  publishedAt: string
+  publishedAt: string,
+  usedSlugs: Set<string>
 ): Card {
   const primaryLink = sources[0].url;
   const id = hashId(primaryLink);
+  const slug = slugify(primary.summary.headline, usedSlugs);
+  usedSlugs.add(slug);
 
   return {
     id,
-    slug: slugify(primary.summary.headline, primaryLink),
+    slug,
     headline: primary.summary.headline,
     summary: primary.summary.summary,
     category: primary.summary.category,
@@ -328,12 +331,18 @@ async function run() {
   // Phase 4: turn each cluster into its final card — a single-draft
   // cluster is already a finished card, a multi-draft cluster gets one
   // combined summary via mergeArticles().
+  const usedSlugs = new Set<string>(existingCards.map((c) => c.slug));
   const newCards: Card[] = [];
   for (const group of clusters) {
     if (group.length === 1) {
       const draft = group[0];
       newCards.push(
-        buildCard(draft, [{ name: draft.candidate.source.name, url: draft.candidate.link }], draft.publishedAt)
+        buildCard(
+          draft,
+          [{ name: draft.candidate.source.name, url: draft.candidate.link }],
+          draft.publishedAt,
+          usedSlugs
+        )
       );
       seen.add(draft.candidate.itemId);
       continue;
@@ -354,7 +363,9 @@ async function run() {
     );
 
     if (merged) {
-      newCards.push(buildCard({ candidate: primaryDraft.candidate, summary: merged }, sources, latestPublishedAt));
+      newCards.push(
+        buildCard({ candidate: primaryDraft.candidate, summary: merged }, sources, latestPublishedAt, usedSlugs)
+      );
       for (const d of group) seen.add(d.candidate.itemId);
       console.log(`  = Merged card: "${merged.headline}" [${sources.map((s) => s.name).join(", ")}]`);
       mergedClustersLog.push({
@@ -367,7 +378,9 @@ async function run() {
       // valid gaming news over an LLM hiccup.
       console.error(`  ! Merge call failed for cluster, publishing ${group.length} articles separately`);
       for (const d of group) {
-        newCards.push(buildCard(d, [{ name: d.candidate.source.name, url: d.candidate.link }], d.publishedAt));
+        newCards.push(
+          buildCard(d, [{ name: d.candidate.source.name, url: d.candidate.link }], d.publishedAt, usedSlugs)
+        );
         seen.add(d.candidate.itemId);
       }
     }

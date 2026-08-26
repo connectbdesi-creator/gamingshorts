@@ -8,7 +8,7 @@ import {
   type SummarizeOutcome,
 } from "./card-schema";
 import { ollamaProvider } from "./providers/ollama-provider";
-import { ruleBasedClassify } from "./rule-based";
+import { hasConfidentNonGamingSignal, ruleBasedClassify } from "./rule-based";
 import { MAX_SUMMARY_WORDS, countWords } from "@/types/card";
 
 export type { SummarizeOutcome } from "./card-schema";
@@ -69,6 +69,20 @@ export async function summarizeArticle(article: {
         `  ! Ollama returned an invalid response for "${article.title}" (status=${String(raw.status)}, category=${String(raw.category)})`
       );
       break;
+    }
+
+    // Double-check even a "publish" verdict against the original article's
+    // own text — a small local model is more prone than a hosted one to
+    // mistaking a gaming outlet's general-entertainment coverage (movie/TV
+    // articles Polygon, Kotaku, etc. run alongside their game news) for
+    // actual gaming news. Checked here, not just in the rule-based fallback,
+    // so it also catches Ollama's own misses, not only Ollama-down cases.
+    if (hasConfidentNonGamingSignal(article)) {
+      return {
+        status: "skipped",
+        reason: "skip: failed rule-based relevance double-check (zero gaming keyword hits)",
+        providerUsed: "ollama",
+      };
     }
 
     const input = toSummarizedArticle(raw);

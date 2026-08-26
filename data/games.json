@@ -114,38 +114,6 @@
     "fetched_at": "2026-08-25T10:35:13.490Z"
   },
   {
-    "slug": "the-witcher-3-wild-hunt",
-    "name": "The Witcher 3: Wild Hunt",
-    "description": null,
-    "background_image": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg",
-    "released": "2015-05-18",
-    "developers": [],
-    "publishers": [],
-    "genres": [
-      "Action",
-      "RPG"
-    ],
-    "platforms": [
-      "PC",
-      "PlayStation 5",
-      "Xbox One",
-      "PlayStation 4",
-      "Xbox Series S/X",
-      "Nintendo Switch",
-      "macOS"
-    ],
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/1ac/1ac19f31974314855ad7be266adeb500.jpg",
-      "https://media.rawg.io/media/screenshots/6a0/6a08afca95261a2fe221ea9e01d28762.jpg",
-      "https://media.rawg.io/media/screenshots/cdd/cdd31b6b4a687425a87b5ce231ac89d7.jpg",
-      "https://media.rawg.io/media/screenshots/862/862397b153221a625922d3bb66337834.jpg",
-      "https://media.rawg.io/media/screenshots/166/166787c442a45f52f4f230c33fd7d605.jpg",
-      "https://media.rawg.io/media/screenshots/f63/f6373ee614046d81503d63f167181803.jpg"
-    ],
-    "stores": [],
-    "fetched_at": "2026-08-25T10:35:14.142Z"
-  },
-  {
     "slug": "persona",
     "name": "Revelations: Persona",
     "description": null,
@@ -281,32 +249,6 @@
     "screenshots": [],
     "stores": [],
     "fetched_at": "2026-08-25T10:35:17.255Z"
-  },
-  {
-    "slug": "grand-theft-auto-vi",
-    "name": "Grand Theft Auto VI",
-    "description": null,
-    "background_image": "https://media.rawg.io/media/games/734/7342a1cd82c8997ec620084ae4c2e7e4.jpg",
-    "released": "2026-11-19",
-    "developers": [],
-    "publishers": [],
-    "genres": [
-      "Action"
-    ],
-    "platforms": [
-      "PlayStation 5",
-      "Xbox Series S/X"
-    ],
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/598/5983ffe274a237b33e0f0452364fba78.jpg",
-      "https://media.rawg.io/media/screenshots/384/384241113cb4510774289415d7d6dba1.jpg",
-      "https://media.rawg.io/media/screenshots/4c4/4c47d5e898bda3ce131a8e73db6fe505.jpg",
-      "https://media.rawg.io/media/screenshots/db2/db2c206e7896ddc846c60f5d315ecfc3.jpg",
-      "https://media.rawg.io/media/screenshots/05d/05db79dc3d0b0cc9af3f10135ad78025.jpg",
-      "https://media.rawg.io/media/screenshots/d11/d119bf3a0e7473ac0fe86648c4841859.jpg"
-    ],
-    "stores": [],
-    "fetched_at": "2026-08-25T10:35:17.821Z"
   },
   {
     "slug": "metal-gear-solid",
@@ -875,34 +817,6 @@
     "fetched_at": "2026-08-26T04:46:03.864Z"
   },
   {
-    "slug": "metal-gear",
-    "name": "Metal Gear",
-    "description": null,
-    "background_image": "https://media.rawg.io/media/games/407/407b2f74d5c77ba4db91022051c64bd7.jpg",
-    "released": "1987-07-07",
-    "developers": [],
-    "publishers": [],
-    "genres": [
-      "Adventure",
-      "Action"
-    ],
-    "platforms": [
-      "PC",
-      "NES",
-      "Commodore / Amiga"
-    ],
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/130/1308bd0df76ea71c517abf3ad7b6e53d.jpg",
-      "https://media.rawg.io/media/screenshots/7c8/7c8b60accf38ad922f580b8cb31d310a.jpg",
-      "https://media.rawg.io/media/screenshots/444/4443606f271497264d9449a1611bfe73.jpg",
-      "https://media.rawg.io/media/screenshots/a6a/a6af5c93f95995c750aabf5182e51a6a.jpg",
-      "https://media.rawg.io/media/screenshots/5ce/5ce64f8ebe1355f31eefe3b45f74e62c.jpg",
-      "https://media.rawg.io/media/screenshots/351/3515b9af6bc7b0576a12a2c51d4b9a26.jpg"
-    ],
-    "stores": [],
-    "fetched_at": "2026-08-26T04:46:04.213Z"
-  },
-  {
     "slug": "heroes-of-might-magic-iii",
     "name": "Heroes of Might and Magic 3: Complete",
     "description": null,
@@ -1008,34 +922,6 @@
     "fetched_at": "2026-08-26T07:10:20.195Z"
   },
   {
-    "slug": "grand-theft-auto",
-    "name": "Grand Theft Auto",
-    "description": null,
-    "background_image": "https://media.rawg.io/media/games/786/786f9a212646c793ccbad196cba2cf36.jpg",
-    "released": "1997-10-21",
-    "developers": [],
-    "publishers": [],
-    "genres": [
-      "Action"
-    ],
-    "platforms": [
-      "PC",
-      "PlayStation",
-      "Game Boy Color",
-      "Game Boy"
-    ],
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/8f5/8f577f88855945518d24edf59dba9dff.jpg",
-      "https://media.rawg.io/media/screenshots/aab/aabcb87421c5e3f5af4ac39d62b01eae.jpg",
-      "https://media.rawg.io/media/screenshots/311/31181ab4311854dcccb0da8dcb25a8d1.jpg",
-      "https://media.rawg.io/media/screenshots/ab1/ab1f0c435afa5678392dae0da2db484e.jpg",
-      "https://media.rawg.io/media/screenshots/9b7/9b7995efbe72ca11c11bdc0101c69eae.jpg",
-      "https://media.rawg.io/media/screenshots/afb/afbe0f8a33778e5434155eaf9b97076b.jpg"
-    ],
-    "stores": [],
-    "fetched_at": "2026-08-26T07:10:21.354Z"
-  },
-  {
     "slug": "diablo-4",
     "name": "Diablo IV",
     "description": null,
@@ -1116,32 +1002,6 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-26T07:10:22.943Z"
-  },
-  {
-    "slug": "warlock",
-    "name": "Warlock",
-    "description": null,
-    "background_image": "https://media.rawg.io/media/screenshots/81f/81fe92d6b5fbd1f414d19bc27e823acf.jpg",
-    "released": "1995-08-15",
-    "developers": [],
-    "publishers": [],
-    "genres": [
-      "Action"
-    ],
-    "platforms": [
-      "SNES",
-      "Genesis"
-    ],
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/ba9/ba94b4921dfb8e981097d1a430892ec8.jpg",
-      "https://media.rawg.io/media/screenshots/42c/42cf735e127d17f5e57e986811b8d5ba.jpg",
-      "https://media.rawg.io/media/screenshots/a5d/a5dc952c5d945d589ccf5e1743b75f2a.jpg",
-      "https://media.rawg.io/media/screenshots/3fb/3fb7c8143d6972440b877bea436fa3f1.jpg",
-      "https://media.rawg.io/media/screenshots/6d6/6d64144632c0dc652d969332082008f8.jpg",
-      "https://media.rawg.io/media/screenshots/81f/81fe92d6b5fbd1f414d19bc27e823acf.jpg"
-    ],
-    "stores": [],
-    "fetched_at": "2026-08-26T07:10:23.400Z"
   },
   {
     "slug": "tarae-the-unbound",
@@ -1253,29 +1113,6 @@
     "fetched_at": "2026-08-26T07:10:26.034Z"
   },
   {
-    "slug": "final-fantasy-vii-revelation",
-    "name": "Final Fantasy VII: Revelations",
-    "description": null,
-    "background_image": "https://media.rawg.io/media/screenshots/bd6/bd6f13e500300836b12916ff162c87cb.jpg",
-    "released": null,
-    "developers": [],
-    "publishers": [],
-    "genres": [
-      "RPG"
-    ],
-    "platforms": [
-      "PC",
-      "PlayStation 5",
-      "Xbox Series S/X",
-      "Nintendo Switch"
-    ],
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/bd6/bd6f13e500300836b12916ff162c87cb.jpg"
-    ],
-    "stores": [],
-    "fetched_at": "2026-08-26T07:10:26.534Z"
-  },
-  {
     "slug": "no-law",
     "name": "NO LAW",
     "description": null,
@@ -1296,34 +1133,6 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-26T07:10:26.903Z"
-  },
-  {
-    "slug": "gears-of-war",
-    "name": "Gears of War",
-    "description": null,
-    "background_image": "https://media.rawg.io/media/games/988/98834d39955e7f15d3717fac438128aa.jpg",
-    "released": "2006-11-08",
-    "developers": [],
-    "publishers": [],
-    "genres": [
-      "Shooter",
-      "Action"
-    ],
-    "platforms": [
-      "PC",
-      "Xbox One",
-      "Xbox 360"
-    ],
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/854/854f930ed3b39cfd00eca91b7a99c7de.jpg",
-      "https://media.rawg.io/media/screenshots/342/34219a3368b000d8380714aa34fc85d0.jpg",
-      "https://media.rawg.io/media/screenshots/95d/95d43a23c2777d6e3f0e99505416da3b.jpg",
-      "https://media.rawg.io/media/screenshots/c4a/c4a31b6dd94540e36695c617dd60f660.jpg",
-      "https://media.rawg.io/media/screenshots/6c9/6c95c707889a09fb592c04206d90d902.jpg",
-      "https://media.rawg.io/media/screenshots/e6a/e6a2e2de37eca634f0285adb91263867.jpg"
-    ],
-    "stores": [],
-    "fetched_at": "2026-08-26T07:10:27.305Z"
   },
   {
     "slug": "gears-of-war-e-day",
@@ -1381,37 +1190,6 @@
     "fetched_at": "2026-08-26T07:10:28.301Z"
   },
   {
-    "slug": "lego-cities-skylines",
-    "name": "Cities: Skylines",
-    "description": null,
-    "background_image": "https://media.rawg.io/media/games/25c/25c4776ab5723d5d735d8bf617ca12d9.jpg",
-    "released": "2015-03-10",
-    "developers": [],
-    "publishers": [],
-    "genres": [
-      "Strategy",
-      "Simulation"
-    ],
-    "platforms": [
-      "PC",
-      "Xbox One",
-      "PlayStation 4",
-      "Nintendo Switch",
-      "macOS",
-      "Linux"
-    ],
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/c0c/c0c098666e5ee532a8b1459fce1b3a01.jpg",
-      "https://media.rawg.io/media/screenshots/702/7021e966d68ab8ccc76f859d30d925fe.jpg",
-      "https://media.rawg.io/media/screenshots/15d/15dc7309784c53b75ae05ec95c347d9e.jpg",
-      "https://media.rawg.io/media/screenshots/2e7/2e7924d7f3bf1a61498ece6e89edd26c.jpg",
-      "https://media.rawg.io/media/screenshots/030/0308db992eac77d507240ae7d6874dd1.jpg",
-      "https://media.rawg.io/media/screenshots/e03/e03e7124d4aea8276a6281fb760fb5ce.jpg"
-    ],
-    "stores": [],
-    "fetched_at": "2026-08-26T07:10:28.874Z"
-  },
-  {
     "slug": "path-of-exile-2",
     "name": "Path of Exile 2",
     "description": null,
@@ -1435,36 +1213,6 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-26T07:10:29.337Z"
-  },
-  {
-    "slug": "war-for-westeros",
-    "name": "Transformers: War for Cybertron",
-    "description": null,
-    "background_image": "https://media.rawg.io/media/games/dd4/dd43f221a21fce6eb3d27381569779d5.jpg",
-    "released": "2010-06-22",
-    "developers": [],
-    "publishers": [],
-    "genres": [
-      "Shooter",
-      "Action"
-    ],
-    "platforms": [
-      "PC",
-      "Nintendo DS",
-      "Xbox 360",
-      "PlayStation 3",
-      "Wii"
-    ],
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/992/9929fe7d4df0b0a853ca341617fb2caf.jpg",
-      "https://media.rawg.io/media/screenshots/a17/a1726cf73b621dcdaad1d0a6104bcfb8.jpg",
-      "https://media.rawg.io/media/screenshots/1c1/1c1e354a904e58167d7eb46b289361d3.jpg",
-      "https://media.rawg.io/media/screenshots/829/82914e1c8d38fd3c782a948121a10295.jpg",
-      "https://media.rawg.io/media/screenshots/1c4/1c46192cf2949d25a3a71aff0256d01f.jpg",
-      "https://media.rawg.io/media/screenshots/e10/e104dd7aad81449e1f35c9fb92bae69c.jpg"
-    ],
-    "stores": [],
-    "fetched_at": "2026-08-26T07:10:29.771Z"
   },
   {
     "slug": "rainbow-six-tactics",
@@ -1575,39 +1323,6 @@
     "fetched_at": "2026-08-26T07:10:31.797Z"
   },
   {
-    "slug": "modern-warfare-4",
-    "name": "Call of Duty 4: Modern Warfare",
-    "description": null,
-    "background_image": "https://media.rawg.io/media/games/9fb/9fbaea2168caea1f806546dfdaaeb1da.jpg",
-    "released": "2007-11-05",
-    "developers": [],
-    "publishers": [],
-    "genres": [
-      "Shooter",
-      "Action"
-    ],
-    "platforms": [
-      "PC",
-      "Xbox One",
-      "PlayStation 4",
-      "Nintendo DS",
-      "macOS",
-      "Xbox 360",
-      "PlayStation 3",
-      "Wii"
-    ],
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/e8e/e8e92ec1aff7d7767662614d6b47e1c6.jpg",
-      "https://media.rawg.io/media/screenshots/3a7/3a716eecfb1b6cbc85d90c36534177a4.jpg",
-      "https://media.rawg.io/media/screenshots/982/982c8f523d6d83159f6b9bbca20665d5.jpg",
-      "https://media.rawg.io/media/screenshots/c9e/c9e72793428ed326cf1587c630cc02ca.jpg",
-      "https://media.rawg.io/media/screenshots/9e1/9e1e7d81d2b3ae15091c0f038c14f369.jpg",
-      "https://media.rawg.io/media/screenshots/de9/de931d605285d86431a07d9f5530230b.jpg"
-    ],
-    "stores": [],
-    "fetched_at": "2026-08-26T08:33:47.877Z"
-  },
-  {
     "slug": "activision-classic-games",
     "name": "Kingdom: Classic",
     "description": null,
@@ -1655,31 +1370,6 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-26T08:33:49.094Z"
-  },
-  {
-    "slug": "humankind-2",
-    "name": "HUMANKIND - OpenDev",
-    "description": null,
-    "background_image": "https://media.rawg.io/media/screenshots/c98/c98679ecd581897c521033e5e29df147.jpg",
-    "released": null,
-    "developers": [],
-    "publishers": [],
-    "genres": [
-      "Strategy"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/321/3214b9f6f72c2f978ba973dc60d6f997.jpg",
-      "https://media.rawg.io/media/screenshots/f8d/f8d218b9f006f8f12e793711011f619a.jpg",
-      "https://media.rawg.io/media/screenshots/c83/c8321e151efbe1cf109a207d62b0d88b.jpg",
-      "https://media.rawg.io/media/screenshots/2b1/2b16f4cacf997bd0af7e768ba2d3dffa.jpg",
-      "https://media.rawg.io/media/screenshots/d8c/d8c28f4e06ef005964fe22046a693799.jpg",
-      "https://media.rawg.io/media/screenshots/d53/d537953356f396c0d04181da1b6c4b28.jpg"
-    ],
-    "stores": [],
-    "fetched_at": "2026-08-26T08:33:49.770Z"
   },
   {
     "slug": "avengers-endgame-encore",
@@ -1780,61 +1470,6 @@
     "fetched_at": "2026-08-26T08:33:51.722Z"
   },
   {
-    "slug": "the-witcher-3-remastered",
-    "name": "The Witcher 3: Wild Hunt",
-    "description": null,
-    "background_image": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg",
-    "released": "2015-05-18",
-    "developers": [],
-    "publishers": [],
-    "genres": [
-      "Action",
-      "RPG"
-    ],
-    "platforms": [
-      "PC",
-      "PlayStation 5",
-      "Xbox One",
-      "PlayStation 4",
-      "Xbox Series S/X",
-      "Nintendo Switch",
-      "macOS"
-    ],
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/1ac/1ac19f31974314855ad7be266adeb500.jpg",
-      "https://media.rawg.io/media/screenshots/6a0/6a08afca95261a2fe221ea9e01d28762.jpg",
-      "https://media.rawg.io/media/screenshots/cdd/cdd31b6b4a687425a87b5ce231ac89d7.jpg",
-      "https://media.rawg.io/media/screenshots/862/862397b153221a625922d3bb66337834.jpg",
-      "https://media.rawg.io/media/screenshots/166/166787c442a45f52f4f230c33fd7d605.jpg",
-      "https://media.rawg.io/media/screenshots/f63/f6373ee614046d81503d63f167181803.jpg"
-    ],
-    "stores": [],
-    "fetched_at": "2026-08-26T08:33:52.293Z"
-  },
-  {
-    "slug": "final-fantasy-7-revelation",
-    "name": "Final Fantasy VII: Revelations",
-    "description": null,
-    "background_image": "https://media.rawg.io/media/screenshots/bd6/bd6f13e500300836b12916ff162c87cb.jpg",
-    "released": null,
-    "developers": [],
-    "publishers": [],
-    "genres": [
-      "RPG"
-    ],
-    "platforms": [
-      "PC",
-      "PlayStation 5",
-      "Xbox Series S/X",
-      "Nintendo Switch"
-    ],
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/bd6/bd6f13e500300836b12916ff162c87cb.jpg"
-    ],
-    "stores": [],
-    "fetched_at": "2026-08-26T08:33:52.807Z"
-  },
-  {
     "slug": "path-of-exile",
     "name": "Path of Exile",
     "description": null,
@@ -1863,37 +1498,6 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-26T08:33:53.242Z"
-  },
-  {
-    "slug": "lego-skylines",
-    "name": "Cities: Skylines",
-    "description": null,
-    "background_image": "https://media.rawg.io/media/games/25c/25c4776ab5723d5d735d8bf617ca12d9.jpg",
-    "released": "2015-03-10",
-    "developers": [],
-    "publishers": [],
-    "genres": [
-      "Strategy",
-      "Simulation"
-    ],
-    "platforms": [
-      "PC",
-      "Xbox One",
-      "PlayStation 4",
-      "Nintendo Switch",
-      "macOS",
-      "Linux"
-    ],
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/c0c/c0c098666e5ee532a8b1459fce1b3a01.jpg",
-      "https://media.rawg.io/media/screenshots/702/7021e966d68ab8ccc76f859d30d925fe.jpg",
-      "https://media.rawg.io/media/screenshots/15d/15dc7309784c53b75ae05ec95c347d9e.jpg",
-      "https://media.rawg.io/media/screenshots/2e7/2e7924d7f3bf1a61498ece6e89edd26c.jpg",
-      "https://media.rawg.io/media/screenshots/030/0308db992eac77d507240ae7d6874dd1.jpg",
-      "https://media.rawg.io/media/screenshots/e03/e03e7124d4aea8276a6281fb760fb5ce.jpg"
-    ],
-    "stores": [],
-    "fetched_at": "2026-08-26T08:33:53.692Z"
   },
   {
     "slug": "rollercoaster-tycoon-wonderworks",
@@ -1938,36 +1542,6 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-26T08:33:54.771Z"
-  },
-  {
-    "slug": "amsterdam",
-    "name": "Hamsterdam",
-    "description": null,
-    "background_image": "https://media.rawg.io/media/screenshots/436/436423f4b5254df4748dcfea555f416c.jpg",
-    "released": "2019-08-01",
-    "developers": [],
-    "publishers": [],
-    "genres": [
-      "Indie",
-      "Action"
-    ],
-    "platforms": [
-      "PC",
-      "Nintendo Switch",
-      "iOS",
-      "Android",
-      "macOS"
-    ],
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/acc/acc0b4a2289e16fbea121ab953368ffc.jpg",
-      "https://media.rawg.io/media/screenshots/2b6/2b6579908d20df334d2c02b4c84e924b.jpg",
-      "https://media.rawg.io/media/screenshots/a8f/a8fe656aba805f85c8fdb303aee648b2.jpg",
-      "https://media.rawg.io/media/screenshots/aba/abaa13d7ba9cb1ce56f39ad13c198242.jpg",
-      "https://media.rawg.io/media/screenshots/e82/e82658f77397c04aeab1a47fc110e954.jpg",
-      "https://media.rawg.io/media/screenshots/fd1/fd17ef0c88876ad673c7afb09b702a70.jpg"
-    ],
-    "stores": [],
-    "fetched_at": "2026-08-26T08:33:55.297Z"
   },
   {
     "slug": "warlock-dungeons-dragons",
@@ -2108,39 +1682,6 @@
     "fetched_at": "2026-08-26T08:33:58.311Z"
   },
   {
-    "slug": "game-of-thrones-war-for-westeros",
-    "name": "Reigns: Game of Thrones",
-    "description": null,
-    "background_image": "https://media.rawg.io/media/games/f88/f88c1db527f668a6cd875425f1a08d67.jpg",
-    "released": "2018-10-18",
-    "developers": [],
-    "publishers": [],
-    "genres": [
-      "Card",
-      "Adventure",
-      "RPG",
-      "Indie"
-    ],
-    "platforms": [
-      "PC",
-      "Nintendo Switch",
-      "iOS",
-      "Android",
-      "macOS",
-      "Linux"
-    ],
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/200/200ad7755ccbdd9a75b135c632357635.jpg",
-      "https://media.rawg.io/media/screenshots/d4a/d4a7f40f2336504ffe9e26c7043bfb5b.jpg",
-      "https://media.rawg.io/media/screenshots/1c6/1c6ff753fbed05699f0ad7a38480346b.jpg",
-      "https://media.rawg.io/media/screenshots/60b/60b61af947bb1f30681233e34cad9435.jpg",
-      "https://media.rawg.io/media/screenshots/91a/91a63d05da95a38c5a119fbbe804a0d8.jpg",
-      "https://media.rawg.io/media/screenshots/982/982da0831eab9dabc6a3a2e13cb537ad.jpg"
-    ],
-    "stores": [],
-    "fetched_at": "2026-08-26T08:33:58.988Z"
-  },
-  {
     "slug": "pubg",
     "name": "PlayerUnknown’s Battlegrounds",
     "description": null,
@@ -2229,55 +1770,6 @@
     "fetched_at": "2026-08-26T08:34:00.565Z"
   },
   {
-    "slug": "grand-theft-auto-6-killer-ananta",
-    "name": "Grand Theft Auto VI",
-    "description": null,
-    "background_image": "https://media.rawg.io/media/games/734/7342a1cd82c8997ec620084ae4c2e7e4.jpg",
-    "released": "2026-11-19",
-    "developers": [],
-    "publishers": [],
-    "genres": [
-      "Action"
-    ],
-    "platforms": [
-      "PlayStation 5",
-      "Xbox Series S/X"
-    ],
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/598/5983ffe274a237b33e0f0452364fba78.jpg",
-      "https://media.rawg.io/media/screenshots/384/384241113cb4510774289415d7d6dba1.jpg",
-      "https://media.rawg.io/media/screenshots/4c4/4c47d5e898bda3ce131a8e73db6fe505.jpg",
-      "https://media.rawg.io/media/screenshots/db2/db2c206e7896ddc846c60f5d315ecfc3.jpg",
-      "https://media.rawg.io/media/screenshots/05d/05db79dc3d0b0cc9af3f10135ad78025.jpg",
-      "https://media.rawg.io/media/screenshots/d11/d119bf3a0e7473ac0fe86648c4841859.jpg"
-    ],
-    "stores": [],
-    "fetched_at": "2026-08-26T08:34:01.216Z"
-  },
-  {
-    "slug": "humankind",
-    "name": "Humankind",
-    "description": null,
-    "background_image": "https://media.rawg.io/media/games/5d2/5d2c081494438ffa0642ca2a9b4baa00.jpg",
-    "released": "2021-08-17",
-    "developers": [],
-    "publishers": [],
-    "genres": [
-      "Strategy"
-    ],
-    "platforms": [
-      "PC",
-      "macOS"
-    ],
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/3b7/3b7bf21da6d3d9fce280626f34c5cc3f.jpg",
-      "https://media.rawg.io/media/screenshots/ab7/ab77ebeaa405be7fd29dbd2a9ff75266.jpg",
-      "https://media.rawg.io/media/screenshots/276/276c7ca2c653c675b64feb1e5f3faccc.jpg"
-    ],
-    "stores": [],
-    "fetched_at": "2026-08-26T08:34:01.744Z"
-  },
-  {
     "slug": "nodus-fall",
     "name": "Godus",
     "description": null,
@@ -2357,31 +1849,6 @@
     "fetched_at": "2026-08-26T08:34:04.891Z"
   },
   {
-    "slug": "the-witcher",
-    "name": "The Witcher",
-    "description": null,
-    "background_image": "https://media.rawg.io/media/screenshots/2f7/2f70e8bf43b0d6223823aa644b0a2854.jpg",
-    "released": "2007-10-24",
-    "developers": [],
-    "publishers": [],
-    "genres": [
-      "RPG"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/0f4/0f4ea1e92cdb4d782af9e68e5841936b.jpg",
-      "https://media.rawg.io/media/screenshots/2a2/2a26e28a4358ab1a28436739249f4514.jpg",
-      "https://media.rawg.io/media/screenshots/3c8/3c87ff09c37349cd26d910543949ea00.jpg",
-      "https://media.rawg.io/media/screenshots/e1d/e1daacbc4a810aa1f58965e0faa0f583.jpg",
-      "https://media.rawg.io/media/screenshots/417/417f1b14e27c45b08c5c640ed351139d.jpg",
-      "https://media.rawg.io/media/screenshots/1ff/1ff324448756ce232037fbcc9808cea8.jpg"
-    ],
-    "stores": [],
-    "fetched_at": "2026-08-26T08:34:05.517Z"
-  },
-  {
     "slug": "iron-man",
     "name": "Iron Man",
     "description": null,
@@ -2410,25 +1877,6 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-26T08:34:05.986Z"
-  },
-  {
-    "slug": "duskbloods",
-    "name": "The Duskbloods",
-    "description": null,
-    "background_image": null,
-    "released": null,
-    "developers": [],
-    "publishers": [],
-    "genres": [
-      "Action",
-      "RPG"
-    ],
-    "platforms": [
-      "Nintendo Switch"
-    ],
-    "screenshots": [],
-    "stores": [],
-    "fetched_at": "2026-08-26T08:34:06.569Z"
   },
   {
     "slug": "terranigma",
@@ -2482,32 +1930,6 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-26T08:34:07.833Z"
-  },
-  {
-    "slug": "forza-horizon",
-    "name": "Forza Horizon",
-    "description": null,
-    "background_image": "https://media.rawg.io/media/games/994/99496806493c2f39b9f191923de2a63b.jpg",
-    "released": "2012-10-23",
-    "developers": [],
-    "publishers": [],
-    "genres": [
-      "Racing",
-      "Arcade"
-    ],
-    "platforms": [
-      "Xbox 360"
-    ],
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/4f0/4f08c34cdee8f47944a169f80f34ebcd.jpg",
-      "https://media.rawg.io/media/screenshots/a23/a23b55359a952efd51025616e19820df.jpg",
-      "https://media.rawg.io/media/screenshots/623/6230ff9a1dfd3f6235687f13e752ba84.jpg",
-      "https://media.rawg.io/media/screenshots/a94/a94c08a4411580af9b295609a51a5384.jpg",
-      "https://media.rawg.io/media/screenshots/efa/efa1af5a9b0fc4c22fc089572e568660.jpg",
-      "https://media.rawg.io/media/screenshots/ddb/ddb6e708570bb8e9dad0cb11d56d880b.jpg"
-    ],
-    "stores": [],
-    "fetched_at": "2026-08-26T08:34:08.611Z"
   },
   {
     "slug": "genshin-impact",

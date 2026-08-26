@@ -26,6 +26,34 @@ interface RawgStoresResponse {
 
 const RAWG_BASE = "https://api.rawg.io/api";
 
+const NAME_STOPWORDS = new Set(["the", "a", "an", "of", "and"]);
+
+function significantWords(name: string): string[] {
+  return name
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/g, " ")
+    .split(/\s+/)
+    .filter((w) => w.length > 1 && !NAME_STOPWORDS.has(w));
+}
+
+/**
+ * RAWG's search is a fuzzy/relevance ranking, not an exact lookup — for a
+ * short or generic query (a single word, a franchise name without its
+ * number) the top hit is often a completely different, unrelated game
+ * (e.g. searching "Amsterdam" for the article "1666: Amsterdam" top-matched
+ * an unrelated game literally named "Hamsterdam"; "Lego Cities Skylines"
+ * matched the base "Cities: Skylines", dropping "Lego" entirely). Requiring
+ * every significant word of our query to appear in the candidate's actual
+ * name — not just word-order/substring similarity — rejects those
+ * mismatches; better to show no game panel than a wrong one.
+ */
+function namesLikelyMatch(query: string, candidateName: string): boolean {
+  const queryWords = significantWords(query);
+  if (queryWords.length === 0) return true;
+  const candidateWords = new Set(significantWords(candidateName));
+  return queryWords.every((w) => candidateWords.has(w));
+}
+
 async function rawgFetch<T>(path: string, apiKey: string): Promise<T | null> {
   const separator = path.includes("?") ? "&" : "?";
   try {
@@ -52,10 +80,10 @@ export async function fetchGameInfo(
   if (!apiKey) return null;
 
   const search = await rawgFetch<RawgSearchResponse>(
-    `/games?search=${encodeURIComponent(gameLabel)}&page_size=1`,
+    `/games?search=${encodeURIComponent(gameLabel)}&page_size=10`,
     apiKey
   );
-  const match = search?.results?.[0];
+  const match = search?.results?.find((r) => namesLikelyMatch(gameLabel, r.name));
   if (!match) return null;
 
   const [screenshots, stores] = await Promise.all([

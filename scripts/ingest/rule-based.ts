@@ -17,8 +17,10 @@ const GAMING_KEYWORDS = [
 ];
 const NON_GAMING_KEYWORDS = [
   "movie", "film", "box office", "tv show", "television series",
-  "streaming series", "actor", "actress", "album", "concert", "musician",
-  "theme park", "celebrity", "red carpet", "comic book",
+  "streaming series", "streaming platform", "streaming service",
+  "series finale", "renewed for season", "showrunner", "actor", "actress",
+  "album", "concert", "musician", "theme park", "celebrity", "red carpet",
+  "comic book",
 ];
 const SENSITIVE_KEYWORDS = [
   "arrest", "arrested", "harassment", "harassed", "protest", "protesters",
@@ -80,11 +82,35 @@ export function computeHypeScore(text: string): number {
 }
 
 /**
+ * True only when the text has an actual non-gaming signal word (movie, TV
+ * show, streaming platform, etc.) AND zero gaming keyword hits — used as a
+ * cheap second opinion on top of Ollama's own "publish" verdict (see
+ * summarize.ts's hasConfidentNonGamingSignal use), since a small local
+ * model is more prone than a hosted one to mistaking a gaming outlet's
+ * general-entertainment coverage for actual gaming news. Deliberately
+ * requires *positive* non-gaming evidence rather than just "zero gaming
+ * keywords" — plenty of genuine gaming articles (a review that talks about
+ * "roguelike," "co-op," "boss design" without ever saying "game" or naming
+ * a platform) would otherwise trip a bare absence-of-gaming-keywords check.
+ */
+export function hasConfidentNonGamingSignal(article: { title: string; content: string }): boolean {
+  const text = `${article.title} ${article.content}`.toLowerCase();
+  const gamingHits = countKeywordHits(text, GAMING_KEYWORDS);
+  const nonGamingHits = countKeywordHits(text, NON_GAMING_KEYWORDS);
+  return gamingHits === 0 && nonGamingHits > 0;
+}
+
+/**
  * Keyword-hit relevance/sensitivity check, keyword category/platform
  * tagging, and word-count truncation. No game_label — reliably extracting a
  * specific game name needs real language understanding, not keyword
  * matching, so rule-based cards are never tagged to a game (they just don't
  * cluster/get followed by game — everything else about them still works).
+ * Stricter than hasConfidentNonGamingSignal above (zero gaming hits alone
+ * is enough to skip here, no non-gaming word required) — appropriate for
+ * this being the last-resort path when Ollama itself is unreachable, unlike
+ * that function's job of double-checking an already-published Ollama
+ * verdict without over-suppressing real gaming stories.
  */
 export function ruleBasedClassify(article: { title: string; content: string }): SummarizeOutcome {
   const text = `${article.title} ${article.content}`.toLowerCase();

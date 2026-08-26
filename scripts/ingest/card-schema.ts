@@ -27,7 +27,9 @@ const SYSTEM_PREAMBLE = `You are a strict content classifier and summarizer for 
 - "skip": the article is clearly NOT gaming news — movies, TV shows, comics, general pop culture, or celebrity news, even if published by a gaming outlet or mentioning a game in passing.
 - "needs_review": the article is gaming-adjacent but involves sensitive content (arrests, harassment, protests, explicit/NSFW leaked material, real-world violence) inappropriate for a general gaming news audience, or its gaming relevance is genuinely ambiguous.
 
-If status is "publish", also fill in headline, summary, category, platform_tags, hype_signal, and game_label. Otherwise set reason to a short explanation and leave those fields null/empty — they'll be discarded, only the status and reason matter.`;
+If status is "publish", also fill in headline, summary, category, platform_tags, hype_signal, and game_label. Otherwise set reason to a short explanation and leave those fields null/empty — they'll be discarded, only the status and reason matter.
+
+game_label is the display name of the single specific game this article is primarily about (null if it's not about one specific game — industry news, storewide sales, multi-game roundups). Get the exact title right, since it's used to look up official artwork and to group every article about the same game onto one page: never drop a number, roman numeral, or colon-prefixed word that's part of the actual title (write "1666: Amsterdam", not just "Amsterdam"; "The Witcher 4", not just "The Witcher" — a shortened name can silently refer to a completely different, unrelated game). Always use the exact same full title for the same underlying game across different articles, including remaster/re-release coverage of it (always "The Witcher 3: Wild Hunt", never "The Witcher 3" or "Witcher 3 Remastered" for the same base game) — but a genuinely distinct sequel or spin-off ("Elden Ring Nightreign" vs "Elden Ring"; "Humankind 2" vs "Humankind") is its own separate game_label, never folded into the base game's.`;
 
 export function buildPrompt(
   article: { title: string; content: string; sourceName: string },

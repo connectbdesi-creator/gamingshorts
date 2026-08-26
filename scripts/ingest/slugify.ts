@@ -17,9 +17,21 @@ function kebabCase(text: string): string {
     .replace(/-+$/, "");
 }
 
-/** Kebab-cases a headline and appends a short stable hash to guarantee uniqueness. */
-export function slugify(headline: string, uniqueSeed: string): string {
-  return `${kebabCase(headline)}-${hashId(uniqueSeed)}`;
+/**
+ * Kebab-cases a headline into a clean, SEO-friendly URL slug — no random
+ * hash suffix. Collisions (two articles that kebab-case to the same text)
+ * are rare but possible, so a short numeric suffix is appended only when
+ * the plain slug is already taken, checked against `existingSlugs` (every
+ * slug already in use, updated by the caller as each new one is minted so
+ * within-run collisions are caught too, not just against past runs).
+ */
+export function slugify(headline: string, existingSlugs: Set<string>): string {
+  const base = kebabCase(headline) || "story";
+  if (!existingSlugs.has(base)) return base;
+
+  let n = 2;
+  while (existingSlugs.has(`${base}-${n}`)) n++;
+  return `${base}-${n}`;
 }
 
 /**
