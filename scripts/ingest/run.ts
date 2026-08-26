@@ -178,8 +178,22 @@ async function run() {
   // against successful classifications, so a noisy run (lots of rejects)
   // still processes enough candidates to find MAX_NEW_TOTAL real stories.
   const drafts: Draft[] = [];
+  let consecutiveFailures = 0;
   for (const candidate of candidates) {
     if (drafts.length >= MAX_NEW_TOTAL) break;
+
+    // A run-ending failure (bad/expired key, provider outage, exhausted
+    // rate limit) doesn't stop the loop on its own — "failed" only skips
+    // that one candidate — so without this it'd burn through every
+    // remaining candidate (up to MAX_NEW_PER_SOURCE * RSS_SOURCES.length,
+    // ~100+) making the exact same failing call each time. 5 in a row is a
+    // clear enough signal that this run isn't going to succeed.
+    if (consecutiveFailures >= 5) {
+      console.error(
+        `  ! ${consecutiveFailures} consecutive summarization failures — stopping this run early instead of repeating the same failure through the rest of the candidates.`
+      );
+      break;
+    }
 
     const content =
       candidate.item.contentSnippet ?? candidate.item.content ?? candidate.item.summary ?? candidate.title;
@@ -197,6 +211,7 @@ async function run() {
       // Marked seen — this is a content judgment, not a transient failure,
       // so it shouldn't be retried every run forever.
       seen.add(candidate.itemId);
+      consecutiveFailures = 0;
       continue;
     }
 
@@ -205,6 +220,7 @@ async function run() {
       // Not marked seen — usually a systemic issue (bad key, rate limit),
       // not something wrong with this specific article.
       failedCount++;
+      consecutiveFailures++;
       continue;
     }
 
@@ -213,6 +229,7 @@ async function run() {
       (candidate.item.pubDate ? new Date(candidate.item.pubDate).toISOString() : new Date().toISOString());
 
     drafts.push({ candidate, summary: outcome.card, content: content.slice(0, 3000), publishedAt });
+    consecutiveFailures = 0;
   }
 
   // Phase 3: clustering. First, fold any draft that covers the same story
