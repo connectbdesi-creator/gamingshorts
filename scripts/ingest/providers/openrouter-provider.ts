@@ -45,7 +45,11 @@ export const openRouterProvider: ModelProvider = {
     try {
       completion = await getClient().chat.completions.create({
         model,
-        max_tokens: 1024,
+        // The full card JSON (a 60-word summary plus a handful of short
+        // fields) never comes close to needing 1024 tokens — kept low so a
+        // low OpenRouter/Anthropic balance doesn't reject the request over
+        // budget reserved for a response this short never actually uses.
+        max_tokens: 600,
         tools: [CARD_TOOL],
         tool_choice: { type: "function", function: { name: CARD_TOOL_NAME } },
         messages: [{ role: "user", content: prompt }],
