@@ -52,3 +52,8 @@ next-env.d.ts
 # meant for spot-checking the classifier/clustering via the workflow's
 # uploaded artifact, not part of the published site's data
 /data/ingestion-log.json
+
+# inter-job staging area for the matrix ingestion pipeline (see
+# scripts/ingest/lib/io.ts, .github/workflows/ingest.yml) — passed between
+# jobs as GitHub Actions artifacts, never committed
+/data-tmp/

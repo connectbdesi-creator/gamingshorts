@@ -29,7 +29,7 @@ Runs on its own 2-hour cron via GitHub Actions, or manually:
 pnpm ingest
 ```
 
-Summarizes/classifies/clusters against a local Ollama instance (no API key — install Ollama and run `ollama serve` locally; the GitHub Actions workflow installs and starts it automatically). Writes `data/cards.json` + `data/seen.json` (dedup history). In CI, the workflow commits both, which is what actually triggers a redeploy — see the comment at the top of `.github/workflows/ingest.yml` for why a full rebuild (not just ISR revalidation) is required for brand-new cards. Required repo secrets/variables are documented there too.
+Summarizes/classifies/clusters against a local Ollama instance (no API key — install Ollama and run `ollama serve` locally; the GitHub Actions workflow installs and starts it automatically). `pnpm ingest` runs the whole thing sequentially in one process for local dev; in CI it's split across 3 jobs (fetch candidates -> classify in a 4-way parallel matrix -> merge/cluster/publish) so a 2-hour cron run doesn't take as long as one runner working through every candidate serially — see the comment at the top of `.github/workflows/ingest.yml`. Both paths share the same logic under `scripts/ingest/lib/`. Writes `data/cards.json` + `data/seen.json` (dedup history); the workflow commits both, which is what actually triggers a redeploy (a full rebuild, not just ISR revalidation, is required for brand-new card slugs). Required repo secrets/variables are documented in the workflow file.
 
 ## Scripts
 

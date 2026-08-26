@@ -7,12 +7,18 @@ const DEFAULT_HOST = "http://localhost:11434";
 // generous timeout so a slow-but-working generation isn't mistaken for a
 // dead server and sent through the rule-based fallback unnecessarily.
 const REQUEST_TIMEOUT_MS = 90_000;
+// A full card response (status/reason/headline/60-word summary/category/
+// platform_tags/hype_signal/game_label as JSON) never realistically needs
+// more than ~200 tokens — capping generation here is the single biggest
+// per-call speed lever available: without it, a small local model can
+// keep generating (rambling, retrying its own JSON, or padding) well past
+// what the response actually needs, and CI has been paying for every one
+// of those extra tokens serially. 256 leaves headroom over a bare 200-word
+// estimate for JSON punctuation and a full platform_tags array without
+// being unbounded.
+const NUM_PREDICT = 256;
 
-/**
- * Raw call to Ollama's /api/generate in JSON mode — shared by the card
- * provider below and by dedup.ts's cluster-confirmation call, which needs
- * its own (differently-shaped) prompt rather than the card shape.
- */
+/** Raw call to Ollama's /api/generate in JSON mode. */
 export async function callOllamaJson(prompt: string): Promise<Record<string, unknown> | null> {
   const model = process.env.OLLAMA_MODEL || DEFAULT_MODEL;
   const host = process.env.OLLAMA_HOST || DEFAULT_HOST;
@@ -30,6 +36,7 @@ export async function callOllamaJson(prompt: string): Promise<Record<string, unk
         prompt,
         format: "json",
         stream: false,
+        options: { num_predict: NUM_PREDICT },
       }),
       signal: controller.signal,
     });

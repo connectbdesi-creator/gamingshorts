@@ -1,15 +1,34 @@
-# Runs the RSS -> Ollama -> data/cards.json pipeline (scripts/ingest/run.ts)
-# on a 2-hour cron, matching CLAUDE.md's baseline refresh cadence, and
-# commits the result. That commit is what actually refreshes the site: it
-# triggers Vercel's git-integration rebuild, which is required for any
-# brand-new card slugs to get their own static /news/[slug] page (ISR's
-# revalidate only refreshes pages that already exist from a prior build).
+# Runs the RSS -> Ollama -> data/cards.json pipeline on a 2-hour cron,
+# matching CLAUDE.md's baseline refresh cadence, and commits the result.
+# That commit is what actually refreshes the site: it triggers Vercel's
+# git-integration rebuild, which is required for any brand-new card slugs
+# to get their own static /news/[slug] page (ISR's revalidate only
+# refreshes pages that already exist from a prior build).
 #
-# Summarization/classification/clustering runs against a local Ollama
-# instance, installed and started on the runner below — no API key, no
-# billing, no rate limit. Rule-based keyword classification
-# (scripts/ingest/rule-based.ts) is only used as a fallback if Ollama itself
-# fails to respond for a given call.
+# Three jobs, split so classification can run in parallel across several
+# runners instead of one runner working through every candidate serially
+# (this used to take 25-40 minutes as a single job):
+#   1. fetch            - fetches every RSS feed, writes the not-yet-seen
+#                          candidate list as an artifact. No AI, no Ollama.
+#   2. classify (matrix) - SHARD_COUNT parallel runners, each installs its
+#                          own local Ollama, restores the shared model
+#                          cache, and classifies/summarizes only its even
+#                          slice of the candidates. Uploads its own partial
+#                          results as an artifact.
+#   3. merge-and-publish - downloads every shard's partial results, applies
+#                          the rule-based clustering pass across the FULL
+#                          merged set (a story split across two shards can
+#                          only be caught once they're back together —
+#                          clustering never runs on a single shard alone),
+#                          writes the final data/*.json, and commits.
+#
+# Summarization/classification runs against each job's own local Ollama
+# instance, installed and started below — no API key, no billing, no rate
+# limit. Rule-based keyword classification (scripts/ingest/rule-based.ts)
+# is only used as a fallback if Ollama itself fails to respond for a given
+# call. AI-assisted clustering confirmation was removed (see dedup.ts) to
+# cut AI calls per run — clustering is now purely rule-based
+# (title-token overlap + game-tag agreement).
 #
 # Required, under Settings -> Secrets and variables -> Actions:
 #   Secrets:
@@ -45,15 +64,13 @@ on:
 permissions:
   contents: write
 
+env:
+  OLLAMA_MODEL: ${{ vars.OLLAMA_MODEL || 'llama3.2:3b' }}
+  OLLAMA_MODELS: ${{ github.workspace }}/.ollama-models
+
 jobs:
-  ingest:
+  fetch:
     runs-on: ubuntu-latest
-    env:
-      OLLAMA_MODEL: ${{ vars.OLLAMA_MODEL || 'llama3.2:3b' }}
-      # Explicit model storage dir so the cache step below has a stable,
-      # known path regardless of how the install script sets up the local
-      # Ollama service on the runner.
-      OLLAMA_MODELS: ${{ github.workspace }}/.ollama-models
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -70,6 +87,125 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
+      - name: Fetch RSS candidates
+        env:
+          FORCE_REFRESH: ${{ inputs.force_refresh || 'false' }}
+        run: npx tsx scripts/ingest/fetch-candidates.ts
+
+      - name: Upload candidates
+        uses: actions/upload-artifact@v4
+        with:
+          name: candidates
+          path: data-tmp/candidates.json
+          retention-days: 1
+
+  # 4 shards, evenly splitting the candidate list (see classify-shard.ts's
+  # `i % SHARD_TOTAL === SHARD_INDEX`) — SHARD_TOTAL below must match the
+  # length of this matrix array if either is ever changed.
+  classify:
+    needs: fetch
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3]
+    env:
+      SHARD_INDEX: ${{ matrix.shard }}
+      SHARD_TOTAL: 4
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Download candidates
+        uses: actions/download-artifact@v4
+        with:
+          name: candidates
+          path: data-tmp
+
+      - name: Install Ollama
+        run: curl -fsSL https://ollama.com/install.sh | sh
+
+      # Shared across every shard (and the merge job below) via the same
+      # cache key — only a genuinely cold cache (the very first run ever,
+      # or after an OLLAMA_MODEL change) pulls the model more than once;
+      # every run after that is a cache hit for all of them.
+      - name: Cache Ollama models
+        id: ollama-cache
+        uses: actions/cache@v4
+        with:
+          path: ${{ env.OLLAMA_MODELS }}
+          key: ollama-models-${{ env.OLLAMA_MODEL }}
+
+      - name: Start Ollama server
+        run: |
+          ollama serve &
+          for i in $(seq 1 30); do
+            curl -sf http://localhost:11434/api/version && break
+            sleep 1
+          done
+
+      - name: Pull Ollama model
+        if: steps.ollama-cache.outputs.cache-hit != 'true'
+        run: ollama pull "$OLLAMA_MODEL"
+
+      - name: Classify shard
+        run: npx tsx scripts/ingest/classify-shard.ts
+
+      - name: Upload shard results
+        uses: actions/upload-artifact@v4
+        with:
+          name: shard-results-${{ matrix.shard }}
+          path: data-tmp/shard-${{ matrix.shard }}.json
+          retention-days: 1
+
+  merge-and-publish:
+    needs: classify
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Download candidates
+        uses: actions/download-artifact@v4
+        with:
+          name: candidates
+          path: data-tmp
+
+      - name: Download all shard results
+        uses: actions/download-artifact@v4
+        with:
+          pattern: shard-results-*
+          path: data-tmp
+          merge-multiple: true
+
+      # Needed here too: a cluster with more than one draft still calls
+      # Ollama once (mergeArticles, see lib/cluster.ts) to write a single
+      # combined summary — rare (most drafts are standalone stories) but
+      # real, so this job needs a live Ollama instance same as the shards.
       - name: Install Ollama
         run: curl -fsSL https://ollama.com/install.sh | sh
 
@@ -92,18 +228,17 @@ jobs:
         if: steps.ollama-cache.outputs.cache-hit != 'true'
         run: ollama pull "$OLLAMA_MODEL"
 
-      - name: Run ingestion
+      - name: Merge shards, cluster, and publish
         env:
-          FORCE_REFRESH: ${{ inputs.force_refresh || 'false' }}
           NEXT_PUBLIC_SUPABASE_URL: ${{ vars.NEXT_PUBLIC_SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
           NEXT_PUBLIC_VAPID_PUBLIC_KEY: ${{ vars.NEXT_PUBLIC_VAPID_PUBLIC_KEY }}
           VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
           VAPID_SUBJECT: ${{ secrets.VAPID_SUBJECT }}
           RAWG_API_KEY: ${{ secrets.RAWG_API_KEY }}
-        run: pnpm ingest
+        run: npx tsx scripts/ingest/merge-and-publish.ts
 
-      - name: Upload QC log (skipped articles + merged clusters + provider breakdown)
+      - name: Upload QC log (skipped articles + merged clusters + timing breakdown)
         if: always()
         uses: actions/upload-artifact@v4
         with:

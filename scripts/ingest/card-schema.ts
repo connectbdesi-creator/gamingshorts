@@ -22,14 +22,14 @@ export type SummarizeOutcome =
   | { status: "ok"; card: SummarizedArticle; providerUsed: "ollama" | "rule-based" }
   | { status: "skipped"; reason: string; providerUsed: "ollama" | "rule-based" };
 
-const SYSTEM_PREAMBLE = `You are a strict content classifier and summarizer for a video game news aggregator site. Decide a status for the article below:
-- "publish": the article is clearly, substantively about video games — a release, review, patch/update, esports event, game industry business news, or a game storefront deal.
-- "skip": the article is clearly NOT gaming news — movies, TV shows, comics, general pop culture, or celebrity news, even if published by a gaming outlet or mentioning a game in passing.
-- "needs_review": the article is gaming-adjacent but involves sensitive content (arrests, harassment, protests, explicit/NSFW leaked material, real-world violence) inappropriate for a general gaming news audience, or its gaming relevance is genuinely ambiguous.
+const SYSTEM_PREAMBLE = `Classify the article below for a video game news site, status:
+- "publish": substantively about video games (release, review, patch, esports, industry/business, or a game deal).
+- "skip": clearly not gaming news (movies, TV, comics, celebrity), even from a gaming outlet, even if a game is mentioned in passing.
+- "needs_review": gaming-adjacent but sensitive (arrests, harassment, protests, NSFW/leaked content, real-world violence), or genuinely ambiguous.
 
-If status is "publish", also fill in headline, summary, category, platform_tags, hype_signal, and game_label. Otherwise set reason to a short explanation and leave those fields null/empty — they'll be discarded, only the status and reason matter.
+If "publish": fill in headline, summary, category, platform_tags, hype_signal, game_label. Else: set reason, leave those null/empty.
 
-game_label is the display name of the single specific game this article is primarily about (null if it's not about one specific game — industry news, storewide sales, multi-game roundups). Get the exact title right, since it's used to look up official artwork and to group every article about the same game onto one page: never drop a number, roman numeral, or colon-prefixed word that's part of the actual title (write "1666: Amsterdam", not just "Amsterdam"; "The Witcher 4", not just "The Witcher" — a shortened name can silently refer to a completely different, unrelated game). Always use the exact same full title for the same underlying game across different articles, including remaster/re-release coverage of it (always "The Witcher 3: Wild Hunt", never "The Witcher 3" or "Witcher 3 Remastered" for the same base game) — but a genuinely distinct sequel or spin-off ("Elden Ring Nightreign" vs "Elden Ring"; "Humankind 2" vs "Humankind") is its own separate game_label, never folded into the base game's.`;
+game_label: the one specific game this is about (null if not game-specific). Keep the full distinguishing title — never drop a number/prefix ("1666: Amsterdam" not "Amsterdam"; "The Witcher 4" not "The Witcher" — a shortened name can mean a different game). Same full title for the same game across articles, including remasters ("The Witcher 3: Wild Hunt" always, never "Witcher 3 Remastered") — but a real sequel/spin-off ("Elden Ring Nightreign" vs "Elden Ring") keeps its own label.`;
 
 export function buildPrompt(
   article: { title: string; content: string; sourceName: string },
@@ -59,14 +59,14 @@ export function buildMergePrompt(
   feedback?: string
 ): string {
   const articlesBlock = articles
-    .map((a, i) => `${i + 1}. Source: ${a.sourceName}\nHeadline: ${a.title}\n${a.content.slice(0, 1000)}`)
+    .map((a, i) => `${i + 1}. Source: ${a.sourceName}\nHeadline: ${a.title}\n${a.content}`)
     .join("\n\n");
 
-  return `The following ${articles.length} articles all cover the same underlying video game news story from different outlets — every one has already been individually confirmed as legitimate, on-topic, non-sensitive gaming news, so always report status "publish" with reason null.
+  return `These ${articles.length} articles cover the same video game story from different outlets — already confirmed as legitimate, on-topic, non-sensitive gaming news, so always report status "publish" with reason null.
 
 ${articlesBlock}
 
-Write ONE combined card for this story: a single rewritten headline and a ${MAX_SUMMARY_WORDS}-word-or-fewer summary covering the story itself — not any one outlet's specific angle — plus the single best category, platform tags, hype signal, and game label for it.${feedback ? `\n\n${feedback}` : ""}`;
+Write ONE combined card: a rewritten headline and a ${MAX_SUMMARY_WORDS}-word-or-fewer summary covering the story itself, not one outlet's angle — plus the best category, platform tags, hype signal, and game_label.${feedback ? `\n\n${feedback}` : ""}`;
 }
 
 /**
