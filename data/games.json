@@ -847,5 +847,59 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-25T10:35:29.276Z"
+  },
+  {
+    "slug": "showa-american-story",
+    "name": "Showa American Story",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/389/389b7d6dfc634460a28ff0011bc91a9c.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/b4a/b4a2ae45487a307d2b08572cf8b6f9bd.jpg",
+      "https://media.rawg.io/media/screenshots/37c/37cbeb3662475355f1d6c89c8d8eabb3.jpg",
+      "https://media.rawg.io/media/screenshots/1e7/1e774660da495474b0d47ced75ab322d.jpg",
+      "https://media.rawg.io/media/screenshots/1d9/1d992bee50b400a49541307cd5b4928f.jpg",
+      "https://media.rawg.io/media/screenshots/389/389b7d6dfc634460a28ff0011bc91a9c.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T04:46:03.864Z"
+  },
+  {
+    "slug": "metal-gear",
+    "name": "Metal Gear",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/407/407b2f74d5c77ba4db91022051c64bd7.jpg",
+    "released": "1987-07-07",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "NES",
+      "Commodore / Amiga"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/130/1308bd0df76ea71c517abf3ad7b6e53d.jpg",
+      "https://media.rawg.io/media/screenshots/7c8/7c8b60accf38ad922f580b8cb31d310a.jpg",
+      "https://media.rawg.io/media/screenshots/444/4443606f271497264d9449a1611bfe73.jpg",
+      "https://media.rawg.io/media/screenshots/a6a/a6af5c93f95995c750aabf5182e51a6a.jpg",
+      "https://media.rawg.io/media/screenshots/5ce/5ce64f8ebe1355f31eefe3b45f74e62c.jpg",
+      "https://media.rawg.io/media/screenshots/351/3515b9af6bc7b0576a12a2c51d4b9a26.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T04:46:04.213Z"
   }
 ]
