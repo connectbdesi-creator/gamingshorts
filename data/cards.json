@@ -1,5 +1,778 @@
 [
   {
+    "id": "e635daf0ea3d",
+    "slug": "new-romance-option-sighted-in-the-witcher-3-songs-of-the-past",
+    "headline": "New Romance Option Sighted in The Witcher 3: Songs of the Past",
+    "summary": "An upcoming expansion for The Witcher 3 may introduce a new romanceable character for Geralt to pursue, adding to the existing list of eligible ladies.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/witcher-3-songs-of-the-past-romance-geralt"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/witcher-3-songs-of-past-romance.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-08-26T10:38:38.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-songs-of-the-past",
+    "game_label": "The Witcher 3: Songs of the Past"
+  },
+  {
+    "id": "08bfd34ee2a0",
+    "slug": "dragon-ball-5-strongest-saiyans-piccolo-can-beat-ranked",
+    "headline": "Dragon Ball: 5 Strongest Saiyans Piccolo Can Beat, Ranked",
+    "summary": "A recent assessment reveals that Piccolo, once outmatched by Super Saiyans, has become strong enough to take down many powerful Saiyans, including Orange Piccolo.",
+    "category": "esports",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/dragon-ball-strongest-saiyans-piccolo-can-beat-ranked/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/kefla-piccolo-gotenks.png",
+    "published_at": "2026-08-26T10:30:12.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dragon-ball",
+    "game_label": "Dragon Ball"
+  },
+  {
+    "id": "b8d4939b7fc9",
+    "slug": "round-up-gamescom-opening-night-live-2026-every-switch-1-2-announcemen",
+    "headline": "Round Up: Gamescom Opening Night Live 2026 - Every Switch 1 & 2 Announcement & Trailer",
+    "summary": "Nintendo Life recap of Gamescom Opening Night Live 2026, highlighting Switch 1 and 2 announcements and trailers, including The Witcher 3 and Lego Skylines",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/features/round-up-gamescom-opening-night-live-2026-every-switch-1-and-2-announcement-and-trailer"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/f3b9813634c4b/large.jpg",
+    "published_at": "2026-08-26T10:30:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3",
+    "game_label": "The Witcher 3"
+  },
+  {
+    "id": "8b66d4ab5c49",
+    "slug": "xbox-and-ikea-collaborate-on-yxstaby-collection",
+    "headline": "XBOX and IKEA Collaborate on YXSTABY Collection",
+    "summary": "Xbox and IKEA team up to bring a new furniture collection that incorporates Xbox-inspired design elements",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/08/26/xbox-and-ikea-make-room-for-play-with-the-new-yxstaby-collection/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/8b66d4ab5c49/800/600",
+    "published_at": "2026-08-26T10:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ce06285fb7b9",
+    "slug": "heroes-of-might-and-magic-3-complete-edition-now-available-on-steam",
+    "headline": "Heroes of Might and Magic 3 Complete Edition Now Available on Steam",
+    "summary": "The complete edition of Heroes of Might and Magic 3 is now available on Steam, following issues with its release. A remake of the game is also in the works for 2027.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/heroes-of-might-and-magic-3-remake-announced-as-the-complete-edition-releases-on-steam-with-no-game-files/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/ce06285fb7b9/800/600",
+    "published_at": "2026-08-26T10:28:58.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "heroes-of-might-and-magic-3",
+    "game_label": "Heroes of Might and Magic 3"
+  },
+  {
+    "id": "32e1bca6f814",
+    "slug": "cd-projekt-reds-the-witcher-3-songs-of-the-past-expansion-footage-reve",
+    "headline": "CD Projekt Red's The Witcher 3: Songs of the Past expansion footage revealed",
+    "summary": "CD Projekt Red shows off first footage of The Witcher 3 expansion 'Songs of the Past', taking players to a new location called Letten, 11 years after the base game's release.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/witcher-3-songs-of-the-past-story-written-years-ago-interview"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/songs-of-the-past-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-08-26T10:27:37.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-songs-of-the-past",
+    "game_label": "The Witcher 3: Songs of the Past"
+  },
+  {
+    "id": "f44f0e4b41d2",
+    "slug": "kingdom-hearts-25th-anniversary-exhibition-will-have-exclusive-merch",
+    "headline": "Kingdom Hearts 25th Anniversary Exhibition Will Have Exclusive Merch",
+    "summary": "TheGamer is excited about an upcoming Kingdom Hearts exhibition that will feature exclusive merchandise, cementing 2027 as a big year for the beloved franchise.",
+    "category": "deals",
+    "platform_tags": [
+      "mobile",
+      "pc",
+      "playstation",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/kingdom-hearts-25th-anniversary-exhibition-announced-merch-keyblades/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/kingdomhearts4soraintro.jpg",
+    "published_at": "2026-08-26T10:24:11.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "kingdom-hearts",
+    "game_label": "Kingdom Hearts"
+  },
+  {
+    "id": "a9945e251a68",
+    "slug": "new-mario-lego-minifigure-sets-released",
+    "headline": "New Mario LEGO Minifigure Sets Released",
+    "summary": "LEGO has launched its upcoming Mario minifigure sets, featuring a range of characters, with prices starting from a few dollars, and the sets will be released in 2027.",
+    "category": "deals",
+    "platform_tags": [
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/08/new-mario-lego-minifigure-sets-are-small-but-they-wont-break-the-bank"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/5f49ffa59ca06/large.jpg",
+    "published_at": "2026-08-26T10:15:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "mario-lego-minifigure-sets",
+    "game_label": "Mario LEGO Minifigure Sets"
+  },
+  {
+    "id": "8f84a7dedaa3",
+    "slug": "how-to-get-all-cursed-relics-in-black-ops-7-zombies",
+    "headline": "How to Get All Cursed Relics in Black Ops 7 Zombies",
+    "summary": "This article guides players on how to collect all 30 Relics for Cursed Mode in Black Ops 7 Zombies, providing their locations and effects.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/black-ops-7-zombies-all-relics-effects-locations/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/08/black-ops-7-zombies-how-to-get-all-relics.jpg",
+    "published_at": "2026-08-26T10:08:06.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "black-ops-7-zombies",
+    "game_label": "Black Ops 7 Zombies"
+  },
+  {
+    "id": "61cb71f0d2af",
+    "slug": "fable-after-watching-a-full-quest-i-couldn",
+    "headline": "Fable: After Watching a Full Quest, I Couldn",
+    "summary": "The author expresses their excitement to play Fable after watching a full quest, highlighting the game's immersive atmosphere",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/fable-after-watching-a-full-quest-i-couldnt-be-more-excited-to-play-it-gamescom-2026"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/08/26/fable-preview-blog-1787737593256.jpg",
+    "published_at": "2026-08-26T10:06:57.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fable",
+    "game_label": "Fable"
+  },
+  {
+    "id": "60babdc56c0d",
+    "slug": "every-piece-of-furniture-in-the-xbox-x-ikea-collection-and-how-much-it",
+    "headline": "Every Piece Of Furniture In The Xbox x Ikea Collection And How Much It Costs",
+    "summary": "Xbox has revealed its entire Ikea furniture collection. Here's everything you'll be able to buy when it's released and how much each item costs.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/everything-xbox-ikea-furniture-collection/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/08/new-project-2026-08-26t101833-632.jpg",
+    "published_at": "2026-08-26T10:00:14.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "71c9cd273382",
+    "slug": "gamerant-daily-crossword-mini-august-27-2026",
+    "headline": "GameRant Daily Crossword Mini (August 27, 2026)",
+    "summary": "Gather eldritch insight and journey into frozen Norse realms with today's mini video game crossword.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/game/gamerant-daily-crossword-mini-2026-08-27/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/game-rant-games-game-rant-daily-crossword-puzzle-mini-site-banner-graphic.jpg",
+    "published_at": "2026-08-26T10:00:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7d83e1b05ab8",
+    "slug": "gamerant-daily-crossword-august-27-2026",
+    "headline": "GameRant Daily Crossword (August 27, 2026)",
+    "summary": "Explore iconic developer histories and unmask legendary RPG party members with today's GameRant Daily Crossword.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/game/gamerant-daily-crossword-2026-08-27/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/game-rant-games-game-rant-daily-crossword-puzzle-site-banner-graphic.jpg",
+    "published_at": "2026-08-26T10:00:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9554a42663d4",
+    "slug": "name-that-game-august-27-2026",
+    "headline": "Name That Game (August 27, 2026)",
+    "summary": "Navigate enchanting Disney worlds with Sora and glide across vast desert landscapes with today's Name That Game quiz.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/game/name-that-game-2026-08-27/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/game-rant-games-name-that-game-site-banner-graphic.jpg",
+    "published_at": "2026-08-26T10:00:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c40978d26c2a",
+    "slug": "pragmata-plays-with-fans-theories-with-mega-man-inspired-joke",
+    "headline": "Pragmata Plays with Fans' Theories with Mega Man-Inspired Joke",
+    "summary": "Capcom's Pragmata played a prank on fans who thought it was secretly a Mega Man game, poking fun at the conspiracy theory in an April Fools joke.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/08/pragmata-fully-leans-into-mega-man-conspiracy-with-a-ridiculous-in-game-outfit"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/7e1306602d392/large.jpg",
+    "published_at": "2026-08-26T10:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pragmata",
+    "game_label": "Pragmata"
+  },
+  {
+    "id": "04bc3da1759b",
+    "slug": "state-of-decay-3-closed-beta-to-open-to-more-players",
+    "headline": "State of Decay 3 Closed Beta to Open to More Players",
+    "summary": "State of Decay 3 is set to launch in 2027, with a closed beta playtest expected before its release, allowing the community to test the game ahead of its launch",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/08/26/state-of-decay-3-closed-beta-playtests/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/04bc3da1759b/800/600",
+    "published_at": "2026-08-26T10:00:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "state-of-decay-3",
+    "game_label": "State of Decay 3"
+  },
+  {
+    "id": "85fec7b185c3",
+    "slug": "ikea-unveils-first-ever-xbox-collection",
+    "headline": "IKEA Unveils First Ever Xbox Collection",
+    "summary": "IKEA is partnering with Xbox to release a 9-piece home gaming collection featuring furniture and accessories.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/08/ikea-unveils-first-ever-xbox-collection-including-chairs-stools-cushions-and-more"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/8e78e9af673f4/large.jpg",
+    "published_at": "2026-08-26T10:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b6cbcae3423f",
+    "slug": "avengers-endgame-encore-includes-sneak-peek-of-avengers-doomsday",
+    "headline": "Avengers: Endgame Encore Includes Sneak Peek of Avengers: Doomsday",
+    "summary": "Avengers: Endgame Encore will feature a surprise cameo from Avengers: Doomsday, but only in certain screenings.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-endgame-encore-includes-an-additional-sneak-peek-of-avengers-doomsday-but-not-in-every-screening/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/C9wvjJD3zi5cNhigC2xu8L-1280-80.jpg",
+    "published_at": "2026-08-26T09:54:41.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "dc475bcfac74",
+    "slug": "final-fantasy-7-revelation-trailer-released-during-opening-night-live",
+    "headline": "Final Fantasy 7 Revelation Trailer Released During Opening Night Live",
+    "summary": "Square Enix has released a trailer for Final Fantasy 7 Revelation, and the director has hinted at more information to come in the coming months.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-trailer-at-opening-night-live-is-just-the-beginning-of-our-information-rollout-naoki-hamaguchi-says-well-be-sharing-much-more-in-the-months-ahead/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/9RGPQZdQwPTjFFe75DjAP9-1280-80.jpg",
+    "published_at": "2026-08-26T09:51:37.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-7-revelation",
+    "game_label": "Final Fantasy 7 Revelation"
+  },
+  {
+    "id": "497c728cd9f2",
+    "slug": "ubisoft-remakes-heroes-of-might-and-magic-3",
+    "headline": "Ubisoft Remakes Heroes of Might and Magic 3",
+    "summary": "Ubisoft is remaking the classic game Heroes of Might and Magic 3 with updated visuals, set for PC, PS5, and Xbox Series S/X release next year.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/heroes-of-might-and-magic-3-remade-ubisoft"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/heroes-of-might-and-magic-remake-11.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-08-26T09:47:11.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "heroes-of-might-and-magic-3",
+    "game_label": "Heroes of Might and Magic 3"
+  },
+  {
+    "id": "ca0dc31bf218",
+    "slug": "the-witcher-crossover-with-diablo-announced",
+    "headline": "The Witcher Crossover with Diablo Announced",
+    "summary": "CD Projekt Red teams up with Blizzard for a crossover event involving The Witcher 3 on Battle.net, marking a new partnership between the two companies.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/witcher-diablo-skin-collabration-cdpr-blizzard-battlenet/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/witcher-3-geralt-blood-and-wine-close-up.jpg",
+    "published_at": "2026-08-26T09:46:43.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
+    "id": "5e11c4d29ec4",
+    "slug": "warlock-dungeons-dragons-gameplay-revealed",
+    "headline": "Warlock: Dungeons & Dragons Gameplay Revealed",
+    "summary": "Gameplay footage from upcoming action RPG Warlock: Dungeons & Dragons has been released, showcasing magical combat and questing in the fantasy world.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/08/ps5-action-rpg-warlock-dungeons-and-dragons-is-all-swords-and-sorcery-in-debut-gameplay"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/ae9174be70907/large.jpg",
+    "published_at": "2026-08-26T09:45:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "warlock-dungeons-dragons",
+    "game_label": "Warlock: Dungeons & Dragons"
+  },
+  {
+    "id": "ac2ae1ce99a5",
+    "slug": "testronic-expands-senior-leadership-with-mike-guttman-appointment",
+    "headline": "Testronic Expands Senior Leadership with Mike Guttman Appointment",
+    "summary": "Testronic has appointed Mike Guttman as vice president of senior partnerships, expanding its senior leadership across global locations.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/testronic-expands-senior-leadership-mike-guttman-appointed-vice-president-of-senior-partnerships"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/testronic.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-08-26T09:39:21.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "null",
+    "game_label": "null"
+  },
+  {
+    "id": "77387c71c075",
+    "slug": "avengers-endgame-encore-trailer-changes-key-line-of-dialogue-sparking",
+    "headline": "Avengers: Endgame Encore trailer changes key line of dialogue, sparking debate among fans",
+    "summary": "A trailer for Avengers: Endgame Encore has altered a dialogue line, causing Marvel enthusiasts to speculate about its significance",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-endgame-encore-trailer-changes-one-key-line-of-dialogue-and-marvel-fans-are-torn-on-what-it-means/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ZSxQTASovYYVMBizNSSbQF-1280-80.jpg",
+    "published_at": "2026-08-26T09:36:15.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "15c84f0d985b",
+    "slug": "wilderings-the-lost-spring-launches-in-spring-2027",
+    "headline": "Wilderings: The Lost Spring Launches in Spring 2027",
+    "summary": "An open-world roguelite action game is set to launch for consoles and PC in spring 2027.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/08/wilderings-the-lost-spring-launches-in-spring-2027"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/15c84f0d985b/800/600",
+    "published_at": "2026-08-26T09:30:50.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "wilderings-the-lost-spring",
+    "game_label": "Wilderings: The Lost Spring"
+  },
+  {
+    "id": "e80ef339fe86",
+    "slug": "guitar-hero-revival-on-the-horizon-with-stage-tour",
+    "headline": "Guitar Hero Revival on the Horizon with Stage Tour",
+    "summary": "RedOctane's Stage Tour is a new rhythm game coming to the Switch 2, promising a nostalgic experience with a release date of December 10th, 2026.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/08/stage-tour-is-looking-more-and-more-like-the-guitar-hero-revival-we-sorely-need"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/8d0c03488be46/large.jpg",
+    "published_at": "2026-08-26T09:30:00.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "stage-tour",
+    "game_label": "Stage Tour"
+  },
+  {
+    "id": "beb9f030bdc9",
+    "slug": "yakuza-prequel-control-scheme-sparks-frustration",
+    "headline": "Yakuza Prequel Control Scheme Sparks Frustration",
+    "summary": "A writer for Kotaku expresses frustration with the Yakuza prequel's control scheme, which they believe doesn't align with the game's fluid combat system.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/stranger-than-heaven-preview-yakuza-like-dragon-controls-2000727560"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/08/strangerthanheaven1-1280x720.jpg",
+    "published_at": "2026-08-26T09:00:52.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "yakuza-prequel",
+    "game_label": "Yakuza prequel"
+  },
+  {
+    "id": "1b9d77182772",
+    "slug": "persona-4-revival-still-timeless-after-all-these-years",
+    "headline": "Persona 4 Revival Still Timeless After All These Years",
+    "summary": "A writer revisits the remake of Persona 4, finding that its early sections remain impactful even years later, a testament to the game's enduring design.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/persona-4-revival-preview-gamescom-atlus-p-studio-boss-2000727581"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/08/p4ryi1-1280x720.jpg",
+    "published_at": "2026-08-26T09:00:33.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "persona-4-revival",
+    "game_label": "Persona 4 Revival"
+  },
+  {
+    "id": "8203e8ee8544",
+    "slug": "geralt-of-rivia-joins-diablo-4",
+    "headline": "Geralt of Rivia Joins Diablo 4",
+    "summary": "Geralt of Rivia from The Witcher will be added to Diablo 4, as The Witcher 3 Remastered is released on Battle.net.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/geralt-of-rivia-makes-his-debut-in-diablo-4-as-the-witcher-3-remastered-launches-on-battle-net/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/8203e8ee8544/800/600",
+    "published_at": "2026-08-26T09:00:06.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
+    "id": "44b83324cdeb",
+    "slug": "persona-4-revival-hands-on",
+    "headline": "Persona 4 Revival Hands-On",
+    "summary": "IGN's preview of Persona 4 Revival at Gamescom 2026 finds the game feeling like a strong contender for best in the series, with a focus on staying true to the original while addressing potential long-time player concerns.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/persona-4-revival-the-good-and-the-bad-of-our-first-hands-on-gamescom-2026"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/08/25/persona-4-revival-whatwethink-blogroll-01-1787697134921.jpg",
+    "published_at": "2026-08-26T09:00:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "persona-4-revival",
+    "game_label": "Persona 4 Revival"
+  },
+  {
+    "id": "b10d8c079558",
+    "slug": "total-war-warhammer-40k-hands-on-preview-at-gamescom-2026",
+    "headline": "Total War: Warhammer 40k Hands-On Preview at Gamescom 2026",
+    "summary": "IGN shares initial impressions of Total War: Warhammer 40k, noting the game's DNA appears intact but future gameplay will determine its success.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/total-war-warhammer-40k-the-first-hands-on-preview-gamescom-2026"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/08/25/twwh40k-blogroll-1787694533032.jpg",
+    "published_at": "2026-08-26T09:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "total-war-warhammer-40k",
+    "game_label": "Total War: Warhammer 40k"
+  },
+  {
+    "id": "323e830b8565",
+    "slug": "the-witcher-3-songs-of-the-pasts-first-gameplay-demo-showcases-geralts",
+    "headline": "The Witcher 3 Songs of the Past's First Gameplay Demo Showcases Geralt's New Weapon and Deadly Enemies",
+    "summary": "A recent gameplay demo of The Witcher 3: Songs of the Past reveals Geralt's new abilities and challenging enemies.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/witcher-3-songs-past-preview-gameplay-gamescom/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/geralt.jpg",
+    "published_at": "2026-08-26T08:57:36.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-songs-of-the-past",
+    "game_label": "The Witcher 3: Songs of the Past"
+  },
+  {
     "id": "49c02a195307",
     "slug": "no-the-humankind-2-announcement-trailer-wasnt-made-with-gen-ai-despite-49c02a195307",
     "headline": "No, the Humankind 2 announcement trailer wasn't made with gen-AI, despite it sharing a similar kind of look",
@@ -88,6 +861,31 @@
     "game_label": null
   },
   {
+    "id": "1a014e54b212",
+    "slug": "roblox-restricts-access-to-reward-driven-media-feeds-in-kids-games",
+    "headline": "Roblox restricts access to reward-driven media feeds in kids' games",
+    "summary": "Roblox has implemented a policy to block children from accessing certain media feeds in games meant for kids, citing concerns about the potential impact on their mental health and wellbeing.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/roblox-applies-restrictions-to-games-featuring-reward-driven-media-feeds-available-in-roblox-kids-and-select"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/roblox_tXvZOEK.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-08-26T08:10:26.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "null",
+    "game_label": "null"
+  },
+  {
     "id": "1c327286ac7c",
     "slug": "activision-brings-classic-atari-2600-games-to-physical-cartridges-1c327286ac7c",
     "headline": "Activision Brings Classic Atari 2600 Games to Physical Cartridges",
@@ -118,6 +916,29 @@
     "comment_count": 0,
     "game": "activision-classic-games",
     "game_label": "Activision classic games"
+  },
+  {
+    "id": "394a634441a9",
+    "slug": "construction-simulator-evolution-shifts-to-early-access-with-demolitio",
+    "headline": "Construction Simulator: Evolution Shifts to Early Access with Demolition Feature",
+    "summary": "Construction Simulator: Evolution is transitioning to Early Access on PC before its full release, with a new demolition feature announced",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/08/construction-simulator-evolution-shifts-to-early-access-release-demolition-feature-revealed"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/394a634441a9/800/600",
+    "published_at": "2026-08-26T08:00:27.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "construction-simulator-evolution",
+    "game_label": "Construction Simulator: Evolution"
   },
   {
     "id": "6f3f12de2adf",
@@ -440,6 +1261,30 @@
     "game_label": "Metro 2039"
   },
   {
+    "id": "fe9a24422ed2",
+    "slug": "ananta",
+    "headline": "Ananta",
+    "summary": "NetEase Games and Naked Rain's open-world action RPG, Ananta, launches January 15, 2027, with a modern China-inspired setting.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/ananta-launches-in-2027-with-china-inspired-open-world-modern-city-chongxiao/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/fe9a24422ed2/800/600",
+    "published_at": "2026-08-26T06:20:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ananta",
+    "game_label": "Ananta"
+  },
+  {
     "id": "7e0c1259c923",
     "slug": "the-success-of-uncharted-2s-set-pieces-had-a-negative-impact-on-unchar-7e0c1259c923",
     "headline": "The success of Uncharted 2’s set pieces had a negative impact on Uncharted 3, designer says",
@@ -459,6 +1304,121 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "804bcf511d20",
+    "slug": "drapline-launches-september-24",
+    "headline": "DRAPLINE Launches September 24",
+    "summary": "DRAPLINE, a roguelite game, will transition from Early Access and release on PC, marking a new milestone in its development",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/08/drapline-launches-september-24"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/804bcf511d20/800/600",
+    "published_at": "2026-08-26T06:00:33.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "drapline",
+    "game_label": "DRAPLINE"
+  },
+  {
+    "id": "c1a53e4ba942",
+    "slug": "turok-origins-delayed-now-coming-to-switch-2-in-2027",
+    "headline": "Turok: Origins Delayed, Now Coming to Switch 2 in 2027",
+    "summary": "Saber Interactive's Turok: Origins, a solo and co-op game set in the Turok universe, has been delayed from its original Autumn 2026 release and will now launch on the Switch 2 alongside other platforms in 2027.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/08/turok-origins-has-been-delayed-and-will-now-claw-its-way-onto-switch-2-in-2027"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/157e5e56458a7/large.jpg",
+    "published_at": "2026-08-26T06:00:00.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "turok-origins",
+    "game_label": "Turok: Origins"
+  },
+  {
+    "id": "1b00c49d0b62",
+    "slug": "the-legend-of-dark-witch-now-available-for-ps5",
+    "headline": "The Legend of Dark Witch now available for PS5",
+    "summary": "Side-scrolling action game The Legend of Dark Witch has been released for the PlayStation 5, according to Inside System.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/08/the-legend-of-dark-witch-now-available-for-ps5"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/1b00c49d0b62/800/600",
+    "published_at": "2026-08-26T05:59:30.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-legend-of-dark-witch",
+    "game_label": "The Legend of Dark Witch"
+  },
+  {
+    "id": "dd03b728ae00",
+    "slug": "executives-from-ea-and-tencent-to-speak-alongside-netflix-sony-and-dis",
+    "headline": "Executives from EA and Tencent to speak alongside Netflix, Sony, and Disney at FT Business of Entertainment summit",
+    "summary": "The Financial Times has unveiled the C-suite line-up for its upcoming Business of Entertainment Summit in LA in September, with games industry speakers from EA and Tencent Games joining a roster which includes executives from linear media firms including Netflix, Sony Pictures, NBCUniversal and UFC/WWE parent TKO Group. GamesIndustry.biz is a promotional partner for the event alongside our parent",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/executives-from-ea-and-tencent-to-speak-alongside-netflix-sony-and-disney-at-ft-business-of-entertainment-summit"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Games-Industry.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-08-26T05:56:36.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "cc5870084596",
+    "slug": "capcom-teases-mega-man-skin-in-pragmata",
+    "headline": "Capcom Teases Mega Man Skin in Pragmata",
+    "summary": "Capcom has confirmed a Mega Man skin in their upcoming space game Pragmata, following an earlier tease",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/08/no-joke-capcom-is-adding-a-mega-man-skin-to-pragmata"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/be1d92a1d6493/large.jpg",
+    "published_at": "2026-08-26T05:30:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pragmata",
+    "game_label": "Pragmata"
   },
   {
     "id": "662794721a2e",
@@ -503,6 +1463,34 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "6a8161c8d9dd",
+    "slug": "crazy-taxi-world-tours-ai-disclosure-guarantees-no-ai-generated-conten",
+    "headline": "Crazy Taxi: World Tour's AI Disclosure Guarantees No AI-Generated Content",
+    "summary": "Crazy Taxi: World Tour has updated its language regarding AI-generated content, promising no AI-generated content in the final game, after a change made between late July and early August.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/crazy-taxi-world-tours-ai-disclosure-guarantees-no-ai-generated-content-in-the-final-game-following-update-to-wording/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/6a8161c8d9dd/800/600",
+    "published_at": "2026-08-26T03:55:59.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "crazy-taxi-world-tour",
+    "game_label": "Crazy Taxi: World Tour"
   },
   {
     "id": "cf8605d34d30",
@@ -575,6 +1563,84 @@
     "comment_count": 0,
     "game": "honkai-star-rail",
     "game_label": "Honkai: Star Rail"
+  },
+  {
+    "id": "78a6f335faa4",
+    "slug": "ps5-news-from-gamescom-2026",
+    "headline": "PS5 News from Gamescom 2026",
+    "summary": "Geoff Keighley hosted the Gamescom Opening Night Live 2026 showcase, which included several PS5 reveals, although most of the news is not groundbreaking.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/features/round-up-what-was-announced-at-gamescom-opening-night-live-2026"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/46033871238b3/large.jpg",
+    "published_at": "2026-08-26T01:30:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "null",
+    "game_label": "null"
+  },
+  {
+    "id": "c617c631d384",
+    "slug": "koei-tecmo-announces-tgs-2026-lineup",
+    "headline": "Koei Tecmo Announces TGS 2026 Lineup",
+    "summary": "Koei Tecmo has revealed its lineup for Tokyo Game Show 2026, but the details remain under wraps for now.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/08/koei-tecmo-announces-tgs-2026-lineup"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/c617c631d384/800/600",
+    "published_at": "2026-08-26T01:13:22.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "null",
+    "game_label": "null"
+  },
+  {
+    "id": "3549e883f7da",
+    "slug": "gamescom-opening-night-live-2026-low-key-showcase-reveals",
+    "headline": "Gamescom Opening Night Live 2026: Low-Key Showcase Reveals",
+    "summary": "Gamescom's Opening Night Live had a modest year, with a few surprises, but no major announcements, unlike other major gaming events.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/08/poll-how-would-you-rate-gamescom-opening-night-live-2026"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/5e01fc27d4943/large.jpg",
+    "published_at": "2026-08-26T01:00:00.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "null",
+    "game_label": "null"
   },
   {
     "id": "86b01386c72c",
@@ -666,6 +1732,57 @@
     ],
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/tds-02865.jpg",
     "published_at": "2026-08-26T00:00:14.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ac654da10825",
+    "slug": "in-ps5-arabian-fantasy-1001-threads-of-mizan-you-ride-magic-carpet-hov",
+    "headline": "In PS5 Arabian Fantasy '1001 Threads of Mizan', You Ride Magic Carpet Hoverboards",
+    "summary": "So that's cool. Personally I’m not a huge fan of co-op action games, even though I appreciate they’re enormously popular. I mean, just look at Helldivers 2, it’s one of Sony’s biggest games ever – and I think a big part of that is because it’s co-op. (It’s also damn fun, of course, which matters too.) Read the full article…",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/08/in-ps5-arabian-fantasy-1001-threads-of-mizan-you-ride-magic-carpet-hoverboards"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/de3ac9021fb41/large.jpg",
+    "published_at": "2026-08-25T23:45:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "1cde1355c00a",
+    "slug": "gamescom-opening-night-live-2026-highlights",
+    "headline": "Gamescom Opening Night Live 2026 Highlights",
+    "summary": "GamesIndustry.biz attended the opening night of Gamescom, a packed and star-studded event featuring Xbox head Asha Sharma. The showcase included celebrity appearances and a crowded hall, but no game-specific announcements were made.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/the-highlights-of-gamescom-opening-night-live-2026"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/gamescom-opening-night-live-robot.jpeg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-08-25T23:23:11.000Z",
     "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
@@ -955,6 +2072,30 @@
     "game_label": "The Witcher 3: Wild Hunt"
   },
   {
+    "id": "bc51f9e80cfb",
+    "slug": "the-witcher-3s-songs-of-the-past-expansion-to-launch-in-2027",
+    "headline": "The Witcher 3’s Songs of the Past Expansion to Launch in 2027",
+    "summary": "CD Projekt Red reveals a new expansion for The Witcher 3, set to launch in 2027. Details on the expansion were not provided during the Gamescom event, leaving fans eagerly awaiting further information.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/the-witcher-3s-new-songs-of-the-past-expansion-launches-in-2027/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/bc51f9e80cfb/800/600",
+    "published_at": "2026-08-25T21:50:07.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3",
+    "game_label": "The Witcher 3"
+  },
+  {
     "id": "5b87bf78c33f",
     "slug": "this-gamescom-showcase-did-a-lot-of-games-dirty-5b87bf78c33f",
     "headline": "This Gamescom Showcase Did A Lot Of Games Dirty",
@@ -1068,6 +2209,32 @@
     "game_label": "Warlock: Dungeons & Dragons"
   },
   {
+    "id": "ada107957d48",
+    "slug": "commodore-and-cd-projekt-red-team-up-for-cyberpunk-2077-hardware-colla",
+    "headline": "Commodore and CD Projekt Red Team Up for Cyberpunk 2077 Hardware Collaboration",
+    "summary": "Commodore has announced a hardware collaboration with CD Projekt Red, the developer of Cyberpunk 2077, bringing together past and future tech. Details of the collaboration have not been released yet.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/commodore-announces-cyberpunk-2077-hardware-collaboration-with-cd-projekt-red/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/ada107957d48/800/600",
+    "published_at": "2026-08-25T21:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "cyberpunk-2077",
+    "game_label": "Cyberpunk 2077"
+  },
+  {
     "id": "7c35be15b96d",
     "slug": "commodore-77-to-bring-cyberpunk-2077-demos-to-c64-demo-scene-7c35be15b96d",
     "headline": "Commodore 77 to Bring Cyberpunk 2077 Demos to C64 Demo Scene",
@@ -1110,6 +2277,32 @@
     "comment_count": 0,
     "game": "tarae-the-unbound",
     "game_label": "Tarae: The Unbound"
+  },
+  {
+    "id": "ffcfafdf3dc0",
+    "slug": "geralt-returns-in-the-witcher-3-wild-hunt",
+    "headline": "Geralt Returns in The Witcher 3: Wild Hunt",
+    "summary": "The Witcher 3: Wild Hunt is getting a remastered version with new content, including Geralt's return, set to release on September 29.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/08/25/witcher-3-remastered-and-songs-of-the-past/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/ffcfafdf3dc0/800/600",
+    "published_at": "2026-08-25T20:58:37.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
   },
   {
     "id": "afda51109e85",
@@ -1316,6 +2509,55 @@
     "game_label": "Final Fantasy VII: Revelation"
   },
   {
+    "id": "171f42dceddc",
+    "slug": "pony-island-2-panda-circus-launches-in-2027",
+    "headline": "Pony Island 2: Panda Circus Launches in 2027",
+    "summary": "VentureBeat reports on the upcoming release of Pony Island 2: Panda Circus, an upcoming sequel from creator Daniel Mullins, set to launch on April 27, 2027.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/pony-island-2-panda-circus-launches-on-april-27-2027/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/171f42dceddc/800/600",
+    "published_at": "2026-08-25T20:34:00.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pony-island-2-panda-circus",
+    "game_label": "Pony Island 2: Panda Circus"
+  },
+  {
+    "id": "633731342f2e",
+    "slug": "xbox-game-pass-titles-get-new-reveals-at-gamescom-opening-night-live-2",
+    "headline": "Xbox Game Pass Titles Get New Reveals At Gamescom Opening Night Live 2026",
+    "summary": "Xbox Game Pass titles, including Gears of War: E-Day, received new trailers at Gamescom Opening Night Live 2026.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/08/four-xbox-game-pass-titles-get-new-reveals-at-gamescom-opening-night-live-2026"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/e4dd0415064db/large.jpg",
+    "published_at": "2026-08-25T20:34:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gears-of-war-e-day",
+    "game_label": "Gears of War: E-Day"
+  },
+  {
     "id": "209d3d9d5b2f",
     "slug": "the-witcher-3s-songs-of-the-past-dlc-includes-homage-to-cd-projekt-red-209d3d9d5b2f",
     "headline": "The Witcher 3's Songs of the Past DLC Includes Homage to CD Projekt Red's Original RPG",
@@ -1342,6 +2584,52 @@
     "game_label": "The Witcher 3: Wild Hunt"
   },
   {
+    "id": "6efc4ee40657",
+    "slug": "onimusha-way-of-the-sword-update",
+    "headline": "Onimusha: Way of the Sword Update",
+    "summary": "PlayStation 5 exclusive Onimusha: Way of the Sword, set in early Edo-period Kyoto, is coming September 4. Players will control Miyamoto Musashi, wielding supernatural powers in an action-packed swordplay saga.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/08/25/onimusha-way-of-the-sword-interview-demo-update-detailed-new-trailer-revealed/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/6efc4ee40657/800/600",
+    "published_at": "2026-08-25T20:23:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "onimusha-way-of-the-sword",
+    "game_label": "Onimusha: Way of the Sword"
+  },
+  {
+    "id": "53895550f558",
+    "slug": "the-witcher-3-wild-hunt-remastered-free-upgrade-coming-to-xbox",
+    "headline": "The Witcher 3: Wild Hunt - Remastered Free Upgrade Coming to Xbox",
+    "summary": "A free remastered version of The Witcher 3: Wild Hunt is arriving on Xbox in September 2026, featuring improved visuals and combat.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/08/the-witcher-3-remastered-is-a-major-free-upgrade-heading-to-xbox-this-september"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/cdf39b937099b/large.jpg",
+    "published_at": "2026-08-25T20:23:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
     "id": "036211c9189c",
     "slug": "witcher-3-dlc-gameplay-reveal-036211c9189c",
     "headline": "Witcher 3 DLC Gameplay Reveal",
@@ -1365,6 +2653,33 @@
     "comment_count": 0,
     "game": "the-witcher-3",
     "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
+    "id": "33af00d5abf7",
+    "slug": "nc-reveals-like-or-die-at-gamescom-2026",
+    "headline": "NC Reveals Like or Die at Gamescom 2026",
+    "summary": "Game developer NC has announced Like or Die, formerly known as Project Bonfire, as one of three titles featured at the upcoming Gamescom Opening Night Live showcase.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/nc-reveal-like-or-die-at-gamescom-2026/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/33af00d5abf7/800/600",
+    "published_at": "2026-08-25T20:17:52.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "like-or-die",
+    "game_label": "Like or Die"
   },
   {
     "id": "ac6fef19f844",
@@ -1457,6 +2772,29 @@
     "game_label": "Gravhounds"
   },
   {
+    "id": "9e9bc455af54",
+    "slug": "19-new-games-coming-to-playstation-at-gamescom",
+    "headline": "19 New Games Coming to PlayStation at Gamescom",
+    "summary": "The PlayStation Blog shares highlights from Gamescom's Opening Night Live, featuring new trailers and announcements for upcoming PlayStation titles.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/08/25/gamescom-opening-night-live-highlights-19-games-coming-to-playstation/"
+      }
+    ],
+    "image_url": "https://blog.playstation.com/uploads/2026/08/5b88358925802f48e1e4f2b2ce813ba60155dd30.mp4",
+    "published_at": "2026-08-25T20:08:48.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "null",
+    "game_label": "null"
+  },
+  {
     "id": "16b09ab4ca06",
     "slug": "the-witcher-3-remastered-arrives-september-29-with-free-upgrade-16b09ab4ca06",
     "headline": "The Witcher 3 Remastered Arrives September 29 With Free Upgrade",
@@ -1483,6 +2821,29 @@
     "game_label": "The Witcher 3: Wild Hunt"
   },
   {
+    "id": "e2062794df6a",
+    "slug": "all-the-biggest-xbox-reveals-from-gamescom-opening-night-live-2026",
+    "headline": "All The Biggest Xbox Reveals From Gamescom Opening Night Live 2026",
+    "summary": "Gamescom Opening Night Live 2026 event showcases major Xbox reveals, including new game announcements and updates.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/features/roundup-all-the-biggest-xbox-reveals-from-gamescom-opening-night-live-2026"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/0de29880f3557/large.jpg",
+    "published_at": "2026-08-25T20:05:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "null",
+    "game_label": "null"
+  },
+  {
     "id": "2e4fbe3c478a",
     "slug": "final-fantasy-vii-revelation-unveils-new-weapon-and-boss-battles-2e4fbe3c478a",
     "headline": "Final Fantasy VII: Revelation Unveils New Weapon and Boss Battles",
@@ -1507,6 +2868,29 @@
     "comment_count": 0,
     "game": "final-fantasy-vii-revelation",
     "game_label": "Final Fantasy VII: Revelation"
+  },
+  {
+    "id": "09299abaf0ec",
+    "slug": "new-guitar-hero-inspired-game-stage-tour-coming-to-xbox",
+    "headline": "New Guitar Hero-Inspired Game 'Stage Tour' Coming to Xbox",
+    "summary": "RedOctane Games is releasing a new rhythm game called 'Stage Tour' on Xbox, featuring a full set of controllers, on December 10, 2026.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/08/new-guitar-hero-inspired-stage-tour-coming-to-xbox-with-full-bands-worth-of-controllers"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/0f118fca1e383/large.jpg",
+    "published_at": "2026-08-25T20:03:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "stage-tour",
+    "game_label": "Stage Tour"
   },
   {
     "id": "fbd77a52bf39",
@@ -1706,6 +3090,29 @@
     "game_label": "Humankind 2"
   },
   {
+    "id": "90ecfe464bea",
+    "slug": "gears-of-war-e-day-campaign-hands-on",
+    "headline": "Gears of War: E-Day Campaign Hands On",
+    "summary": "Xbox Wire previewed the emotional and intense Gears of War: E-Day campaign, describing it as 'brutal, brilliant, and quintessentially Gears'.",
+    "category": "reviews",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/08/25/gears-of-war-e-day-campaign-preview-gameplay-xbox/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/90ecfe464bea/800/600",
+    "published_at": "2026-08-25T20:00:00.000Z",
+    "hype_signal": 95,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gears-of-war",
+    "game_label": "Gears of War"
+  },
+  {
     "id": "bf41625053a6",
     "slug": "gears-of-war-e-day-feels-like-a-direct-continuation-of-the-original-xb-bf41625053a6",
     "headline": "Gears of War: E-Day Feels Like a Direct Continuation of the Original Xbox 360 Trilogy",
@@ -1810,6 +3217,30 @@
     "comment_count": 0,
     "game": "lego-city-builder",
     "game_label": "Lego City Builder"
+  },
+  {
+    "id": "6c2c99f07ac1",
+    "slug": "schell-games-reportedly-lay-off-staff",
+    "headline": "Schell Games Reportedly Lay Off Staff",
+    "summary": "Schell Games, a developer behind popular titles like Among Us 3D and I Expect You to Die, has reportedly let go of staff, sparking concerns about the future of the company.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/schell-games-reportedly-lays-off-staff"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-08-25-at-20.29.00.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-08-25T19:45:19.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "798078d39264",
@@ -1931,12 +3362,16 @@
   },
   {
     "id": "b5965e162436",
-    "slug": "lego-cities-skylines-announced-at-gamescom-opening-night-live-b5965e162436",
+    "slug": "lego-cities-skylines-announced-at-gamescom-opening-night-live",
     "headline": "Lego Cities Skylines Announced At Gamescom Opening Night Live",
-    "summary": "Paradox has officially revealed Lego Cities Skylines, a new city‑building title that combines the beloved SimCity‑style gameplay with Lego’s iconic building blocks. Announced during Gamescom’s Opening Night Live, the game promises creative construction, familiar mechanics, and cross‑platform availability, sparking excitement among fans of both Lego and city‑sim genres.",
-    "category": "releases",
+    "summary": "Paradox has finally confirmed the game after a leak months ago, making it official. Details about the game are still scarce.",
+    "category": "deals",
     "platform_tags": [
-      "pc"
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
     ],
     "sources": [
       {
@@ -1946,7 +3381,7 @@
     ],
     "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/a-lego-city.jpg",
     "published_at": "2026-08-25T19:37:11.000Z",
-    "hype_signal": 75,
+    "hype_signal": 40,
     "like_count": 0,
     "comment_count": 0,
     "game": "lego-cities-skylines",
@@ -1975,14 +3410,12 @@
   },
   {
     "id": "33862fc3d0ad",
-    "slug": "path-of-exile-2-sets-full-launch-for-late-2026-33862fc3d0ad",
-    "headline": "Path Of Exile 2 Sets Full Launch For Late 2026",
-    "summary": "Grinding Gear Games has officially scheduled the 1.0 launch of Path of Exile 2 for December 2026. The full version will arrive following a two-year early access period, bringing the complete action RPG experience to players.",
+    "slug": "path-of-exile-2-full-release-date-announced",
+    "headline": "Path of Exile 2 Full Release Date Announced",
+    "summary": "Grinding Gear Games has announced that Path of Exile 2 is set to release in December 2026, following two years of early access.",
     "category": "releases",
     "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
+      "pc"
     ],
     "sources": [
       {
@@ -1992,11 +3425,37 @@
     ],
     "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/06/mixcollage-01-jun-2026-07-58-am-4540.jpg",
     "published_at": "2026-08-25T19:36:32.000Z",
-    "hype_signal": 85,
+    "hype_signal": 0,
     "like_count": 0,
     "comment_count": 0,
     "game": "path-of-exile-2",
     "game_label": "Path of Exile 2"
+  },
+  {
+    "id": "17e1b4ff2365",
+    "slug": "lego-cities-skylines-spin-off-announced",
+    "headline": "Lego Cities: Skylines spin-off announced",
+    "summary": "A Lego version of Cities: Skylines is coming, where players build cities with Lego bricks, but no release date or details were provided.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/lego-skylines-is-a-brick-based-spin-off-of-the-cities-skylines-series/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/17e1b4ff2365/800/600",
+    "published_at": "2026-08-25T19:35:39.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "lego-cities-skylines",
+    "game_label": "Lego Cities: Skylines"
   },
   {
     "id": "ef6126e58463",
@@ -2072,6 +3531,33 @@
     "game_label": null
   },
   {
+    "id": "a5cff28a0d83",
+    "slug": "snoop-dogg-is-coming-to-hitman-world-of-assassination",
+    "headline": "Snoop Dogg is coming to Hitman: World of Assassination",
+    "summary": "Hitman: World of Assassination is getting a special guest, Snoop Dogg, who will be playable for a limited time before he leaves the game next month.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/snoop-dogg-is-coming-to-hitman-world-of-assassination/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/a5cff28a0d83/800/600",
+    "published_at": "2026-08-25T19:19:57.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "hitman-world-of-assassination",
+    "game_label": "Hitman: World of Assassination"
+  },
+  {
     "id": "55737eec9a78",
     "slug": "metro-2039-gameplay-trailer-reveals-grim-post-apocalyptic-world-55737eec9a78",
     "headline": "Metro 2039 Gameplay Trailer Reveals Grim Post-Apocalyptic World",
@@ -2115,6 +3601,32 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "395a3bd0c1c5",
+    "slug": "warlock-shows-off-dragons-dogma-style-gameplay",
+    "headline": "Warlock Shows Off Dragon’s Dogma-Style Gameplay",
+    "summary": "The upcoming D&D game Warlock has revealed nearly 10 minutes of gameplay, showcasing its Dragon’s Dogma-inspired combat and character customization.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/open-world/warlock-the-next-big-d-and-d-game-to-come-after-baldurs-gate-3-just-showed-off-nearly-10-minutes-of-its-dragons-dogma-style-gameplay-and-i-cant-wait-to-play-next-year/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/SWzoWdVVKQmMUNNSksrMSB-1280-80.jpg",
+    "published_at": "2026-08-25T19:10:59.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "warlock",
+    "game_label": "Warlock"
   },
   {
     "id": "79ee99256fff",
@@ -2395,6 +3907,59 @@
     "game_label": "Exodus"
   },
   {
+    "id": "a494b0af5d13",
+    "slug": "mega-man-fans-to-get-pragmata-skins",
+    "headline": "Mega Man Fans to Get Pragmata Skins",
+    "summary": "A new game called Pragmata is getting skins of popular characters from the Mega Man series, according to Capcom.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/pragmata-is-getting-mega-man-skins/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/a494b0af5d13/800/600",
+    "published_at": "2026-08-25T18:45:22.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pragmata",
+    "game_label": "Pragmata"
+  },
+  {
+    "id": "f1e24b8bbf03",
+    "slug": "exodus-release-date-confirmed-in-new-trailer",
+    "headline": "Exodus Release Date Confirmed in New Trailer",
+    "summary": "A new trailer for the game Exodus has revealed its release date, which is set for April 7, 2027.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/exodus-release-date-2027/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/01_4k_exodus_salt_jun.jpg",
+    "published_at": "2026-08-25T18:45:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "exodus",
+    "game_label": "Exodus"
+  },
+  {
     "id": "975cf80c41db",
     "slug": "anime-gta-6-killer-ananta-finally-has-a-release-date-and-a-slick-new-t-975cf80c41db",
     "headline": "Anime 'GTA 6 Killer' Ananta Finally Has A Release Date And A Slick New Trailer",
@@ -2486,6 +4051,56 @@
     ],
     "image_url": "https://assetsio.gnwcdn.com/rainbow-six-tactics-_0011_SND_Screenshot_ShoulderShoot_PC_AnnoucementGamesCom_250826_815PM_CEST.jpg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-08-25T18:15:17.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "rainbow-six-tactics",
+    "game_label": "Rainbow Six Tactics"
+  },
+  {
+    "id": "17fd879b768d",
+    "slug": "rainbow-six-tactics-revealed",
+    "headline": "Rainbow Six Tactics Revealed",
+    "summary": "A new turn-based tactical single-player game set in the Rainbow Six Universe, featuring Six as the commander of the Rainbow unit, is coming to XBOX Series X|S and PC.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/08/25/rainbow-six-tactics-revealed-building-a-turn-based-tactical-experience/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/17fd879b768d/800/600",
+    "published_at": "2026-08-25T18:15:00.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "rainbow-six-tactics",
+    "game_label": "Rainbow Six Tactics"
+  },
+  {
+    "id": "4e8b7d0f4864",
+    "slug": "ubisoft-to-release-first-single-player-rainbow-six-game-in-19-years",
+    "headline": "Ubisoft to Release First Single-Player Rainbow Six Game in 19 Years",
+    "summary": "Ubisoft is developing a single-player Rainbow Six game, led by the team behind Mario + Rabbids, with a tactics gameplay style similar to XCOM.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/strategy/ubisoft-is-making-the-first-singleplayer-rainbow-six-in-19-years-and-its-a-tactics-game-in-the-style-of-xcom/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/5toCsUTT37R9ryGaXkZqte-1280-80.jpg",
+    "published_at": "2026-08-25T18:14:40.000Z",
     "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
@@ -2655,6 +4270,100 @@
     "game_label": null
   },
   {
+    "id": "12e3365113ea",
+    "slug": "i-attempted-to-become-a-professional-driver-in-gta-5-with-hilarious-re",
+    "headline": "I Attempted to Become a Professional Driver in GTA 5, with Hilarious Results",
+    "summary": "A PC Gamer writer shares their experience playing Grand Theft Auto 5 and trying to become a professional driver, but encounters unexpected issues with car friction.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/i-attempted-to-become-a-professional-driver-in-a-gta-5-where-every-car-had-no-friction/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/KZjCt69h4nMLZARkZjDgGc-1280-80.jpg",
+    "published_at": "2026-08-25T17:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-5",
+    "game_label": "Grand Theft Auto 5"
+  },
+  {
+    "id": "0e3a6dd76b22",
+    "slug": "heres-how-to-watch-the-future-games-show-at-gamescom-2026",
+    "headline": " Here's how to watch the Future Games Show at Gamescom 2026 ",
+    "summary": "This year's showcase will be hosted by the dynamic zombie-killing duo of Nick Apostolides and Angela Sant'Albano.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/heres-how-to-watch-the-future-games-show-at-gamescom-2026/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/tw9o28Xfp9mWcWpdQ2FcaF-1280-80.jpg",
+    "published_at": "2026-08-25T16:51:09.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "daf7fd0c3362",
+    "slug": "every-announcement-from-gamescom-opening-night-live-2026",
+    "headline": "Every announcement from Gamescom Opening Night Live 2026",
+    "summary": "Gamescom Opening Night Live 2026 saw Keighley's world premiere gauntlet, featuring several major game announcements.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/news/live/gamescom-opening-night-live-2026-live-coverage/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/afqLXF7xhrwmUKsbwgfBuh-1280-80.jpg",
+    "published_at": "2026-08-25T16:49:14.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ee810bf3801a",
+    "slug": "lenovo-reveals-fix-for-faulty-legion-go-laptops",
+    "headline": "Lenovo Reveals Fix for Faulty Legion Go Laptops",
+    "summary": "Lenovo says it's taking steps to fix issues with its Legion Go laptops, including offering repairs for devices out of warranty at no extra cost.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/lenovo-says-it-is-clear-legion-go-faults-not-user-error-and-even-devices-out-of-warranty-could-be-repaired-free-of-charge/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Mtd9KE9GGKAYgcADYHEt2L-1280-80.jpg",
+    "published_at": "2026-08-25T16:23:51.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "92a57a55939b",
     "slug": "roblox-cracks-down-on-endless-scrolling-games-92a57a55939b",
     "headline": "Roblox Cracks Down on Endless Scrolling Games",
@@ -2771,6 +4480,52 @@
     "game_label": "Call of Duty: Modern Warfare 4"
   },
   {
+    "id": "7f75b6ee673f",
+    "slug": "seabed-is-an-overwhelmingly-positive-yuri-mystery-visual-novel-that-bl",
+    "headline": "SeaBed is an Overwhelmingly Positive yuri mystery visual novel that blurs the lines between delusion and reality",
+    "summary": "SeaBed is a yuri mystery visual novel available on Steam, praised for its ability to blur the lines between reality and delusion. The game has garnered a positive response from players.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/column/seabed-is-an-overwhelmingly-positive-yuri-mystery-visual-novel-that-blurs-the-lies-between-delusion-and-reality-steam-gems-from-japan-you-might-be-missing-out-on/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/7f75b6ee673f/800/600",
+    "published_at": "2026-08-25T14:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "seabed",
+    "game_label": "SeaBed"
+  },
+  {
+    "id": "278b564743ce",
+    "slug": "senti-metrica-steam-demo-released",
+    "headline": "Senti Metrica Steam Demo Released",
+    "summary": "A turn-based otome visual novel titled Senti Metrica has released a playable demo on Steam, with plans for an English version in the future.",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/senti-metrica-a-turn-based-otome-vn-in-which-you-romance-monster-hunters-as-a-girl-slowly-turning-into-a-monster-gets-steam-demo/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/278b564743ce/800/600",
+    "published_at": "2026-08-25T13:00:00.000Z",
+    "hype_signal": 10,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "senti-metrica",
+    "game_label": "Senti Metrica"
+  },
+  {
     "id": "4b22aba44dc5",
     "slug": "witcher-4s-2028-release-date-sparks-concern-over-physical-release-4b22aba44dc5",
     "headline": "Witcher 4's 2028 Release Date Sparks Concern Over Physical Release",
@@ -2845,6 +4600,30 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "f3c3f85cdeee",
+    "slug": "drunken-rogue-overpowers-critics-with-97-positive-steam-review",
+    "headline": "Drunken Rogue Overpowers Critics with 97% Positive Steam Review",
+    "summary": "Drunken Rogue, a challenging dungeon crawler, has received widespread critical acclaim with a 97% positive Steam review score, with a Nintendo Switch version set to launch soon.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/drunken-rogue-a-dungeon-crawler-where-you-rely-on-the-sheer-power-of-alcohol-and-procrastination-to-survive-launches-to-a-97-positive-steam-review-score/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/f3c3f85cdeee/800/600",
+    "published_at": "2026-08-25T12:00:00.000Z",
+    "hype_signal": 90,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "drunken-rogue",
+    "game_label": "Drunken Rogue"
   },
   {
     "id": "18c3698901de",
@@ -2941,6 +4720,29 @@
         "url": "https://www.ign.com/articles/exclusive-baldurs-gate-3-astarion-excerpt-narrated-by-neil-newbon-himself"
       }
     ]
+  },
+  {
+    "id": "81d2e0d33ad5",
+    "slug": "enhanced-earth-defense-force-62-coming-to-ps5-in-2027",
+    "headline": "Enhanced Earth Defense Force 6.2 Coming to PS5 in 2027",
+    "summary": "A revamped version of Earth Defense Force 6.2: Invaders from Another World will be released exclusively on PS5 in 2027, offering more enemies on screen than the original.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/earth-defense-force-6-2-invaders-from-another-world-will-have-more-than-double-the-number-of-enemies-on-screen-enhanced-version-of-the-original-coming-in-2027/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/81d2e0d33ad5/800/600",
+    "published_at": "2026-08-25T09:08:41.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "earth-defense-force-62-invaders-from-another-world",
+    "game_label": "Earth Defense Force 6.2: Invaders from Another World"
   },
   {
     "id": "df05bfaabf79",
@@ -3092,1717 +4894,5 @@
         "url": "https://www.polygon.com/big-fish-tim-burton-movies-free-streaming-august-2026/"
       }
     ]
-  },
-  {
-    "id": "aae2aed749c2",
-    "slug": "akira-anime-classic-gets-limited-imax-and-4k-theatrical-re-release-aae2aed749c2",
-    "headline": "Akira Anime Classic Gets Limited IMAX and 4K Theatrical Re-Release",
-    "summary": "The iconic 1998 anime film Akira is returning to cinemas for a one-day exclusive event in September, presented in IMAX and 4K formats through a collaboration between Crunchyroll and Sony. Tickets are currently available for purchase.",
-    "category": "releases",
-    "platform_tags": [],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/6998201/akira.jpg",
-    "published_at": "2026-08-25T01:34:30.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null,
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/akira-movie-2026-theatrical-rerelease-imax-4k/"
-      }
-    ]
-  },
-  {
-    "id": "0f4208c38419",
-    "slug": "cult-classic-80s-sci-fi-thriller-now-available-to-stream-for-free-0f4208c38419",
-    "headline": "Cult Classic '80s Sci-Fi Thriller Now Available to Stream for Free",
-    "summary": "A highly regarded science fiction thriller from the 1980s, celebrated for its creative approach to zombie storytelling, has become freely accessible on streaming platforms. The film maintains a devoted fanbase due to its innovative filmmaking and genre-bending narrative elements.",
-    "category": "deals",
-    "platform_tags": [],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/re-animator-3.jpg",
-    "published_at": "2026-08-25T01:00:15.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null,
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/re-animator-1985-zombie-movie-tubi/"
-      }
-    ]
-  },
-  {
-    "id": "ec2b38ac4974",
-    "slug": "star-wars-the-mandalorian-and-grogu-coming-to-digital-and-physical-med-ec2b38ac4974",
-    "headline": "Star Wars: The Mandalorian and Grogu Coming to Digital and Physical Media",
-    "summary": "Lucasfilm and Disney announced that Star Wars: The Mandalorian and Grogu will become available on digital platforms and 4K Blu-ray formats beginning July 21. Fans can prepare to add this Star Wars installment to their collections through multiple viewing options.",
-    "category": "releases",
-    "platform_tags": [],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/star-wars-the-mandalorian-and-grogu-anzellans.jpg",
-    "published_at": "2026-08-25T00:48:31.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null,
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/star-wars-mandalorian-and-grogu-digital-release-date-4k-blu-ray/"
-      }
-    ]
-  },
-  {
-    "id": "00df7e4e599d",
-    "slug": "the-witcher-3s-upcoming-expansion-promises-new-gwent-content-00df7e4e599d",
-    "headline": "The Witcher 3's upcoming expansion promises new Gwent content",
-    "summary": "CD Projekt Red announced that the Songs of the Past expansion for The Witcher 3 will feature additional Gwent cards and gameplay. Fans of the in-game card game are enthusiastic about the expansion, which will give players more opportunities to engage with the beloved mini-game.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/24/the-witcher-3-gwent-songs-of-the-past-1787611131275.png",
-    "published_at": "2026-08-24T22:56:30.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-witcher-3",
-    "game_label": "The Witcher 3: Wild Hunt",
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/the-witcher-3-songs-of-the-past-expansion-confirmed-to-include-more-gwent-and-everyone-is-already-celebrating"
-      }
-    ]
-  },
-  {
-    "id": "025923db788c",
-    "slug": "persona-series-gets-cream-puff-collaboration-for-30th-anniversary-025923db788c",
-    "headline": "Persona Series Gets Cream Puff Collaboration for 30th Anniversary",
-    "summary": "The beloved RPG franchise celebrates three decades with a special partnership featuring exclusive cream puffs at Beard Papa's bakery locations. The collaboration marks a fun milestone for the long-running series.",
-    "category": "industry",
-    "platform_tags": [],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/24/persona4-creampuffs-blogroll-1787611272077.jpg",
-    "published_at": "2026-08-24T22:41:35.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "persona",
-    "game_label": "Persona",
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/persona-comes-to-beard-papas-with-special-30th-anniversary-collaboration"
-      }
-    ]
-  },
-  {
-    "id": "e389fecf090f",
-    "slug": "massive-7-billion-dragon-ball-z-theme-park-announced-for-paris-area-e389fecf090f",
-    "headline": "Massive $7 billion Dragon Ball Z theme park announced for Paris area",
-    "summary": "France and Saudi Arabia have partnered to develop an ambitious $7 billion entertainment complex near Paris. The facility will draw inspiration from popular manga properties including Dragon Ball Z, aiming to bring beloved anime franchises to life through immersive attractions.",
-    "category": "industry",
-    "platform_tags": [],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/mv5bnmjmzty3nwqtnza2mi00ywniltkwymitmgzjzgm3mwu3mtu3xkeyxkfqcgc-_v1_.jpg",
-    "published_at": "2026-08-24T22:18:07.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null,
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/dragon-ball-z-manga-theme-park-paris/"
-      }
-    ]
-  },
-  {
-    "id": "6ec4be063059",
-    "slug": "popular-roblox-horror-game-steal-an-egg-pulled-offline-after-reaching-6ec4be063059",
-    "headline": "Popular Roblox horror game Steal an Egg pulled offline after reaching number one",
-    "summary": "Steal an Egg, a disturbing Roblox experience that became wildly popular and topped charts, has been mysteriously removed from the platform. The game went viral on social media before its unexpected disappearance, leaving players and fans speculating about the reasons behind its sudden removal.",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/bmep.JPG",
-    "published_at": "2026-08-24T22:13:43.000Z",
-    "hype_signal": 72,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "roblox",
-    "game_label": "Roblox",
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/steal-an-egg-roblox-what-happened-discord-black-mirror-netflix/"
-      }
-    ]
-  },
-  {
-    "id": "e00de2b288c1",
-    "slug": "saudi-arabia-funds-massive-dragon-ball-z-theme-park-in-france-e00de2b288c1",
-    "headline": "Saudi Arabia funds massive Dragon Ball Z theme park in France",
-    "summary": "Saudi Arabia is financing a $7 billion Dragon Ball Z theme park in France as part of its anime and entertainment expansion efforts. The project represents a significant investment in anime-related attractions and cultural initiatives.",
-    "category": "industry",
-    "platform_tags": [],
-    "image_url": "https://kotaku.com/app/uploads/2026/08/goku.jpg",
-    "published_at": "2026-08-24T22:00:56.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null,
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/france-celebrates-7-billion-dragon-ball-z-theme-park-paid-for-by-saudi-arabia-you-know-my-passion-for-manga-2000727680"
-      }
-    ]
-  },
-  {
-    "id": "6d855cc17c03",
-    "slug": "leaked-gta-6-soundtrack-reveals-diverse-music-selection-6d855cc17c03",
-    "headline": "Leaked GTA 6 soundtrack reveals diverse music selection",
-    "summary": "Leaked footage from GTA 6 has unveiled the game's in-game radio stations featuring an eclectic mix of tracks. The soundtrack spans classic rock to contemporary pop, alongside unexpected international covers. Rockstar's music curation continues the franchise tradition of curating licensed soundtracks across multiple themed stations.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2025/05/0f109d881f799bde51423dbbea7fa909-1280x720.jpg",
-    "published_at": "2026-08-24T21:30:01.000Z",
-    "hype_signal": 45,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6",
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/every-song-and-radio-station-weve-spotted-in-the-gta-6-leaks-2000727661"
-      }
-    ]
-  },
-  {
-    "id": "f6a879d16dd9",
-    "slug": "call-of-duty-modern-warfare-4-developers-commit-to-fixing-captain-pric-f6a879d16dd9",
-    "headline": "Call of Duty: Modern Warfare 4 developers commit to fixing Captain Price's appearance",
-    "summary": "Infinity Ward and Activision are addressing community feedback about Captain Price's lackluster hairstyle in Modern Warfare 4, which sparked widespread online mockery. The developers have pledged to release an updated version of the character's appearance to resolve the issue.",
-    "category": "patches",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/24/call-of-duty-modern-warfare-4-captain-price-hair-1787605087848.png",
-    "published_at": "2026-08-24T21:13:30.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "call-of-duty-modern-warfare-4",
-    "game_label": "Call of Duty: Modern Warfare 4",
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-devs-vow-to-update-captain-price-after-botched-haircut-goes-viral"
-      }
-    ]
-  },
-  {
-    "id": "aa109e82a74e",
-    "slug": "gameplay-footage-emerges-from-scrapped-avalanche-studios-iron-man-proj-aa109e82a74e",
-    "headline": "Gameplay footage emerges from scrapped Avalanche Studios Iron Man project",
-    "summary": "Unreleased gameplay footage from a cancelled Iron Man video game developed by Avalanche Studios has appeared online. The developer is known for creating Just Cause and Mad Max. Details about why the project was abandoned remain unclear.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2022/09/20/iron-man-ea-motive-1663686372718.jpg",
-    "published_at": "2026-08-24T21:03:11.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null,
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/canceled-iron-man-game-footage-from-just-cause-and-mad-max-developer-leaks-online"
-      }
-    ]
-  },
-  {
-    "id": "b12aa9b541b1",
-    "slug": "experimental-search-game-launching-on-steam-this-week-b12aa9b541b1",
-    "headline": "Experimental Search Game Launching on Steam This Week",
-    "summary": "A unique indie game challenging players to locate a single needle hidden among five million pieces arrives on Steam soon. The title divides opinion between those finding it meditative and others experiencing it as anxiety-inducing, depending on personal gameplay preferences and tolerance.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/08/needle-1280x720.jpg",
-    "published_at": "2026-08-24T20:45:16.000Z",
-    "hype_signal": 45,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null,
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/find-needle-haystack-game-steam-5-million-twitter-x-2000727664"
-      }
-    ]
-  },
-  {
-    "id": "0ab0cdb9e89b",
-    "slug": "fan-creates-brain-teaser-inspired-by-tears-of-the-kingdoms-best-side-q-0ab0cdb9e89b",
-    "headline": "Fan Creates Brain Teaser Inspired by Tears of the Kingdom's Best Side Quest",
-    "summary": "A creative fan has designed a brain teaser that recreates one of the standout side quests from The Legend of Zelda: Tears of the Kingdom. The puzzle challenges players with the same logic and problem-solving elements that made the original in-game quest memorable and engaging.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/24/zelda-puzzle-1787601281002.png",
-    "published_at": "2026-08-24T20:18:30.000Z",
-    "hype_signal": 45,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-legend-of-zelda-tears-of-the-kingdom",
-    "game_label": "The Legend of Zelda: Tears of the Kingdom",
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/this-legend-of-zelda-brain-teaser-recreates-one-of-the-best-side-quests-from-tears-of-the-kingdom"
-      }
-    ]
-  },
-  {
-    "id": "9c6df35ec58b",
-    "slug": "venom-the-last-dance-climbs-to-second-place-on-netflix-global-charts-9c6df35ec58b",
-    "headline": "Venom: The Last Dance Climbs to Second Place on Netflix Global Charts",
-    "summary": "Tom Hardy's Venom: The Last Dance has become a streaming phenomenon, climbing to the #2 position on Netflix's global viewership rankings. The $478 million sci-fi action film continues to attract massive audiences following its theatrical release, demonstrating strong performance on the platform.",
-    "category": "industry",
-    "platform_tags": [],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mcdveth_sp031.jpg",
-    "published_at": "2026-08-24T20:05:32.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null,
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/venom-3-the-last-dance-tom-hardy-streaming-success-netflix/"
-      }
-    ]
-  },
-  {
-    "id": "f677ffa93b84",
-    "slug": "zork-the-armored-sea-chicken-fan-favorite-character-design-deep-dive-f677ffa93b84",
-    "headline": "Zork the Armored Sea Chicken: Fan-Favorite Character Design Deep Dive",
-    "summary": "Kotaku explores the unique design of Zork, an armored sea creature character beloved by fans. The piece examines distinctive visual characteristics and gameplay mechanics, drawing comparisons to classic tokusatsu heroes while highlighting what makes this character memorable to players.",
-    "category": "industry",
-    "platform_tags": [],
-    "image_url": "https://kotaku.com/app/uploads/2026/08/zork-and-pals-1280x720.jpg",
-    "published_at": "2026-08-24T20:00:59.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null,
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/the-duskbloods-zork-mosquito-ultra-man-2000727643"
-      }
-    ]
-  },
-  {
-    "id": "a55e451f141a",
-    "slug": "calvin-and-hobbes-moms-most-memorable-quote-remains-iconic-decades-lat-a55e451f141a",
-    "headline": "Calvin and Hobbes Mom's Most Memorable Quote Remains Iconic Decades Later",
-    "summary": "A retrospective celebrates one of Calvin and Hobbes' most overlooked characters—Calvin's mother—highlighting her funniest and most quotable moment from Bill Watterson's legendary comic strip that continues to resonate with readers.",
-    "category": "industry",
-    "platform_tags": [],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/screen-shot-2026-08-24-at-12-23-33-pm.jpg",
-    "published_at": "2026-08-24T20:00:14.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null,
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/best-quote-mom-calvin-hobbes/"
-      }
-    ]
-  },
-  {
-    "id": "cc549b54b0e3",
-    "slug": "the-duskbloods-playtest-attracted-more-sign-ups-than-elden-ring-nightr-cc549b54b0e3",
-    "headline": "The Duskbloods Playtest Attracted More Sign-Ups Than Elden Ring Nightreign Despite Smaller Switch 2 Install Base",
-    "summary": "From Software's producer revealed The Duskbloods' closed network test generated record playtest registrations, surpassing Elden Ring Nightreign's numbers. The mystery surrounding the game's mechanics and its association with legendary director Hidetaka Miyazaki likely drove the surge in interest.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/The-Duskbloods-Playtest-More-Popular-Than-Nightreign.jpg?w=300",
-    "published_at": "2026-08-24T19:52:57.000Z",
-    "hype_signal": 78,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-duskbloods",
-    "game_label": "The Duskbloods",
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/the-duskbloods-playtest-was-even-more-popular-than-elden-ring-nightreigns/"
-      }
-    ]
-  },
-  {
-    "id": "77d50bd696a3",
-    "slug": "discord-addresses-potential-take-two-subpoena-regarding-gta-6-leak-mat-77d50bd696a3",
-    "headline": "Discord addresses potential Take-Two subpoena regarding GTA 6 leak materials",
-    "summary": "Discord stated it has not yet received a subpoena from Take-Two Interactive related to the GTA 6 leaks. The platform says it will carefully review any legal request's validity and scope before complying. Users have expressed concerns about the potential breadth of Take-Two's data demands.",
-    "category": "industry",
-    "platform_tags": [],
-    "image_url": "https://kotaku.com/app/uploads/2025/05/960aa64ef4d3f3dfd780ffd98d89d28d-1280x720.jpg",
-    "published_at": "2026-08-24T19:20:38.000Z",
-    "hype_signal": 45,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6",
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/discord-says-it-hasnt-been-served-with-a-subpoena-over-gta-6-leaks-yet-well-evaluate-the-validity-and-scope-before-responding-2000727642"
-      }
-    ]
-  },
-  {
-    "id": "88c24ba1357b",
-    "slug": "modern-warfare-4-pre-sales-significantly-outpace-black-ops-7-on-steam-88c24ba1357b",
-    "headline": "Modern Warfare 4 Pre-Sales Significantly Outpace Black Ops 7 on Steam Before Launch",
-    "summary": "Modern Warfare 4 has already attracted nearly 400,000 Steam pre-orders, doubling Black Ops 7's launch numbers two months before release. The beta reached over 115,000 concurrent players, surpassing its predecessor. Strong PC performance stems from MW4's exclusion from Game Pass, contrasting with last year's title.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/CODMW4.jpg?w=300",
-    "published_at": "2026-08-24T19:12:33.000Z",
-    "hype_signal": 75,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "call-of-duty-modern-warfare-4",
-    "game_label": "Call of Duty: Modern Warfare 4",
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-is-way-ahead-of-black-ops-7-already-by-one-metric/"
-      }
-    ]
-  },
-  {
-    "id": "f7663289353d",
-    "slug": "gta-6-gameplay-leaks-emerge-from-anonymous-group-cyberleek-f7663289353d",
-    "headline": "GTA 6 Gameplay Leaks Emerge From Anonymous Group CyberLeek",
-    "summary": "An anonymous hacker collective called CyberLeek released unreleased Grand Theft Auto 6 footage starting mid-August, revealing protagonist Jason Duval's gameplay mechanics including basketball, combat, and a map of the fictional city Leonida. The leaks include Focus mechanics and new weapons like tasers, prompting Rockstar to issue DMCA takedowns confirming authenticity.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/GTA-6-1.jpg?w=300",
-    "published_at": "2026-08-24T19:01:36.000Z",
-    "hype_signal": 85,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6",
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gta-6-leaks-a-timeline-of-the-events-so-far/"
-      }
-    ]
-  },
-  {
-    "id": "12eac6ba15c5",
-    "slug": "konami-announces-metal-gear-solid-cat-merchandise-collection-launching-12eac6ba15c5",
-    "headline": "Konami announces Metal Gear Solid cat merchandise collection launching at CatCon 2026",
-    "summary": "Konami is partnering with CatCon 2026 to release official Metal Gear Solid-themed cat products, including scratch boxes designed like iconic game cardboard containers, plushie toys, and collars. The merchandise will be available exclusively at the cat convention in October and online through OKS Gear Shop during the event.",
-    "category": "releases",
-    "platform_tags": [],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/MGS-Cat.jpg?w=300",
-    "published_at": "2026-08-24T18:34:49.000Z",
-    "hype_signal": 45,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "metal-gear-solid",
-    "game_label": "Metal Gear Solid",
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/my-cat-doesnt-care-about-the-metal-gear-box-just-the-box-it-came-in/"
-      }
-    ]
-  },
-  {
-    "id": "94aad741c8fa",
-    "slug": "call-of-duty-modern-warfare-4-introduces-expanded-cosmetic-customizati-94aad741c8fa",
-    "headline": "Call of Duty: Modern Warfare 4 Introduces Expanded Cosmetic Customization for Operators",
-    "summary": "Call of Duty: Modern Warfare 4 is expanding operator customization with fresh cosmetic choices. Players can now personalize their favorite characters, including iconic skins like Ghost, with new dynamic appearance options to further distinguish their in-game loadouts.",
-    "category": "patches",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/05/28/cod4image1-1779986564142.jpg",
-    "published_at": "2026-08-24T18:06:58.000Z",
-    "hype_signal": 45,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "call-of-duty-modern-warfare-4",
-    "game_label": "Call of Duty: Modern Warfare 4",
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-new-dynamic-cosmetic-options-for-certain-characters-like-ghost"
-      }
-    ]
-  },
-  {
-    "id": "fa25630dd162",
-    "slug": "fan-made-mexico-expansion-coming-to-red-dead-redemption-2-fa25630dd162",
-    "headline": "Fan-Made Mexico Expansion Coming to Red Dead Redemption 2",
-    "summary": "A community modder is creating an ambitious Mexico expansion for Red Dead Redemption 2 featuring new locations, missions, and story content. Players can experience the mod as Sadie Adler, Arthur Morgan, or John Marston. Nuevo Paraiso—The Forgotten Frontier releases September 16 for free on PC, offering interconnected narrative to the original game.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Red-Dead-2-Mexico-Mod.jpg?w=300",
-    "published_at": "2026-08-24T18:04:35.000Z",
-    "hype_signal": 72,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "red-dead-redemption-2",
-    "game_label": "Red Dead Redemption 2",
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/red-dead-redemption-2-is-getting-a-mexico-expansion-soon-but-not-from-rockstar/"
-      }
-    ]
-  },
-  {
-    "id": "3ebed6403b68",
-    "slug": "castlevania-belmonts-curse-assembles-netflix-animated-series-voice-tal-3ebed6403b68",
-    "headline": "Castlevania: Belmont's Curse assembles Netflix animated series voice talent",
-    "summary": "Castlevania: Belmont's Curse features a star-studded voice cast including Graham McTavish reprising Dracula from the Netflix animated series, alongside fellow anime alumni like Alejandra Reynoso and Liam O'Brien. The Evil Empire-developed action game launches October 15 across PC and consoles, marking the franchise's 40th anniversary.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Castlevania.jpg?w=300",
-    "published_at": "2026-08-24T18:03:25.000Z",
-    "hype_signal": 72,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "castlevania-belmonts-curse",
-    "game_label": "Castlevania: Belmont's Curse",
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/castlevania-belmonts-curse-is-basically-a-netflix-castlevania-reunion/"
-      }
-    ]
-  },
-  {
-    "id": "4b2743f45e04",
-    "slug": "humanoid-robots-showcase-capabilities-through-gaming-competitions-4b2743f45e04",
-    "headline": "Humanoid robots showcase capabilities through gaming competitions",
-    "summary": "Humanoid robots participated in competitive gaming events, demonstrating their abilities through interactive challenges. Participants were observed performing popular video game emotes and dance moves, highlighting the entertainment and performance aspects of robotics competitions alongside technical gameplay demonstrations.",
-    "category": "industry",
-    "platform_tags": [],
-    "image_url": "https://kotaku.com/app/uploads/2026/08/GettyImages-2291560983.jpg",
-    "published_at": "2026-08-24T18:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "fortnite",
-    "game_label": "Fortnite",
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/world-humanoid-robot-games-robots-catching-fire-fortnite-dance-emotes-2000727595"
-      }
-    ]
-  },
-  {
-    "id": "522a37ac0c3d",
-    "slug": "nintendo-likely-hosting-a-direct-event-next-month-based-on-historical-522a37ac0c3d",
-    "headline": "Nintendo Likely Hosting a Direct Event Next Month Based on Historical Pattern",
-    "summary": "Nintendo has held Direct events in September nine out of the past ten years. Industry analysts expect another presentation soon to announce release dates for The Duskbloods and Zelda: Ocarina of Time remake, plus reveal upcoming Switch 2 titles for early 2027.",
-    "category": "industry",
-    "platform_tags": [
-      "switch"
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/06/gamespot-ocarina-of-time-remake-3.jpg?w=300",
-    "published_at": "2026-08-24T17:48:45.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null,
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/why-a-nintendo-direct-is-likely-to-happen-next-month/"
-      }
-    ]
-  },
-  {
-    "id": "e093413ffef1",
-    "slug": "gta-6-leaker-encourages-fans-to-harass-rockstar-north-in-person-e093413ffef1",
-    "headline": "GTA 6 Leaker Encourages Fans to Harass Rockstar North in Person",
-    "summary": "An individual responsible for leaking GTA 6 content has begun encouraging people to confront Rockstar North at their office location. The leaked material reportedly contained inappropriate content and included messages urging confrontation, with at least one person allegedly acting on these requests already.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/08/GTa6leekprotest-1280x720.jpg",
-    "published_at": "2026-08-24T17:45:21.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gta-6",
-    "game_label": "GTA 6",
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/gta-6-leaker-now-encouraging-people-to-antagonize-rockstar-irl-and-one-person-already-did-it-2000727623"
-      }
-    ]
-  },
-  {
-    "id": "97da0b909adf",
-    "slug": "canadian-collector-stages-undercover-operation-to-recover-stolen-pokem-97da0b909adf",
-    "headline": "Canadian Collector Stages Undercover Operation to Recover Stolen Pokémon Cards",
-    "summary": "A Canadian Pokémon card collector undertook a self-directed sting operation to retrieve approximately $4,000 in stolen cards after local authorities declined to intervene. Unable to obtain police assistance, the collector personally orchestrated the recovery effort.",
-    "category": "industry",
-    "platform_tags": [],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/24/pokemon-card-collector-poses-as-buyer-to-recover-stolen-cards-1787592495584.jpg",
-    "published_at": "2026-08-24T17:35:49.000Z",
-    "hype_signal": 45,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "pokemon",
-    "game_label": "Pokémon",
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/pokemon-collector-poses-as-buyer-to-recover-4000-worth-of-stolen-cards"
-      }
-    ]
-  },
-  {
-    "id": "12e4a3f248a3",
-    "slug": "overwatch-2-players-anxiously-await-lifeweavers-return-12e4a3f248a3",
-    "headline": "Overwatch 2 players anxiously await Lifeweaver's return",
-    "summary": "Players are expressing their impatience for Lifeweaver's comeback in Overwatch 2. The support hero's absence from the game is creating frustration among the community, with fans eagerly anticipating when the character will be reinstated and available for play once again.",
-    "category": "patches",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2023/05/5bd380e12a5d65310af30a3b848b46ab-1280x720.jpg",
-    "published_at": "2026-08-24T17:30:45.000Z",
-    "hype_signal": 45,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "overwatch-2",
-    "game_label": "Overwatch 2",
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/overwatch-lifeweaver-bug-glitch-removal-fix-date-2000727620"
-      }
-    ]
-  },
-  {
-    "id": "c7df082e2cef",
-    "slug": "how-to-fish-c7df082e2cef",
-    "headline": "How to Fish",
-    "summary": "Steam's latest cooperative shooter game allows players to hunt and kill sea creatures, with new features like private lobbies and player support",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/how-to-fish-is-steams-latest-cursed-co-op-sensation-now-updated-with-private-lobbies-eight-player-support-and-anti-griefer-measures"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/how-to-fish-screen-1.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-08-24T17:04:45.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "how-to-fish",
-    "game_label": "How to Fish"
-  },
-  {
-    "id": "8212204f0477",
-    "slug": "red-dead-redemption-2-nuevo-paraiso-expansion-mod-releases-next-month-8212204f0477",
-    "headline": "Red Dead Redemption 2: Nuevo Paraiso Expansion Mod Releases Next Month",
-    "summary": "A detailed Mexico expansion mod for Red Dead Redemption 2 is set to release in September.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/red-dead-redemption-2-nuevo-paraiso-the-latest-mexico-expansion-mod-for-rockstars-western-releases-next-month"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/red-dead-redemption-2-nuevo-paraiso-mod-release-date-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-08-24T17:03:30.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "red-dead-redemption-2",
-    "game_label": "Red Dead Redemption 2"
-  },
-  {
-    "id": "2a796d3bdfd2",
-    "slug": "elden-ring-fan-questions-whether-fromsoftwares-next-game-will-cater-to-2a796d3bdfd2",
-    "headline": "Elden Ring Fan Questions Whether FromSoftware's Next Game Will Cater to PvP Struggles",
-    "summary": "A devoted Elden Ring player expresses concerns after spending time with the Duskbloods content, questioning whether FromSoftware's upcoming title will accommodate those who struggle with player-versus-player combat mechanics.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/08/duskbloods.jpg",
-    "published_at": "2026-08-24T17:00:31.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "elden-ring",
-    "game_label": "Elden Ring",
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/the-duskbloods-pvp-network-test-losing-2000727554"
-      }
-    ]
-  },
-  {
-    "id": "185d4a31f535",
-    "slug": "top-early-game-crop-choices-for-profitable-farming-in-stardew-valley-185d4a31f535",
-    "headline": "Top early-game crop choices for profitable farming in Stardew Valley",
-    "summary": "A guide highlighting the four most valuable crops to plant early in Stardew Valley that offer strong returns on your initial farming investment. These strategic crop choices help maximize profits during the game's opening stages.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/20/1-header-1787254744336.jpg",
-    "published_at": "2026-08-24T17:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "stardew-valley",
-    "game_label": "Stardew Valley",
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/the-long-game-the-4-best-crops-to-invest-in-early-in-stardew-valley"
-      }
-    ]
-  },
-  {
-    "id": "e1907d552abc",
-    "slug": "magic-the-gathering-releases-masters-of-the-universe-crossover-cards-e1907d552abc",
-    "headline": "Magic: The Gathering Releases Masters of the Universe Crossover Cards",
-    "summary": "Wizards of the Coast has announced five Secret Lair collections featuring Masters of the Universe characters including He-Man and Skeletor. The crossover brings classic 80s IP to Magic's cardpool. Complete card listings, pricing details, and availability information have been released for collectors.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/24/mtg-masters-of-the-universe-secret-lair-1787589857265.png",
-    "published_at": "2026-08-24T16:54:11.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "magic-the-gathering",
-    "game_label": "Magic: The Gathering",
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/mtg-he-man-masters-of-the-universe-secret-lair-card-list"
-      }
-    ]
-  },
-  {
-    "id": "8793ea05b9f1",
-    "slug": "hideo-kojima-reflects-on-mortality-on-his-63rd-birthday-8793ea05b9f1",
-    "headline": "Hideo Kojima Reflects on Mortality on His 63rd Birthday",
-    "summary": "Legendary game designer Hideo Kojima turned 63 and shared thoughts on balancing time and creative pursuits. He emphasized his commitment to game development despite receiving offers for other ventures. Kojima's studio will mark its 10th anniversary in 2026, alongside his 40th year in the industry.",
-    "category": "industry",
-    "platform_tags": [],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Screenshot-2026-08-24-at-12.09.02-PM.png?w=300",
-    "published_at": "2026-08-24T16:34:06.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null,
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/hideo-kojima-says-hes-aware-of-his-mortality-as-he-celebrates-63rd-birthday/"
-      }
-    ]
-  },
-  {
-    "id": "ecea1afcda97",
-    "slug": "cd-projekt-red-sets-2028-release-window-for-the-witcher-4-ecea1afcda97",
-    "headline": "CD Projekt Red Sets 2028 Release Window for The Witcher 4",
-    "summary": "CD Projekt Red has confirmed that The Witcher 4 will be released in 2028, along with a hint at a new expansion for The Witcher 3: Wild Hunt.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/the-witcher-4-is-targeting-release-in-2028-cd-projekt-red-confirm-while-teasing-that-extra-witcher-3-dlc-songs-of-the-past-has-a-dark-story-in-store"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/the-witcher-4-state-of-unreal-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-08-24T16:21:02.000Z",
-    "hype_signal": 75,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-witcher-4",
-    "game_label": "The Witcher 4"
-  },
-  {
-    "id": "bece89777d1e",
-    "slug": "leaked-gta-6-footage-showcases-gameplay-mechanics-including-six-star-w-bece89777d1e",
-    "headline": "Leaked GTA 6 footage showcases gameplay mechanics including six-star wanted level and new features",
-    "summary": "Fresh GTA 6 leaks have surfaced revealing new gameplay mechanics and systems. The footage shows expanded wanted levels, vehicle refueling, fishing gameplay, stamina management, and other details about Rockstar's upcoming open-world title.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/02/Xbox-gta-1280x720.jpg",
-    "published_at": "2026-08-24T16:20:48.000Z",
-    "hype_signal": 85,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6",
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/all-the-new-details-we-spotted-in-the-leaked-gta-6-videos-six-star-wanted-level-gas-meter-improved-combat-boosting-stats-with-basketball-2000725524"
-      }
-    ]
-  },
-  {
-    "id": "727b3aa3ee5a",
-    "slug": "metal-gear-solid-master-collection-vol-2-pc-preorder-discount-availabl-727b3aa3ee5a",
-    "headline": "Metal Gear Solid Master Collection Vol. 2 PC Preorder Discount Available",
-    "summary": "Metal Gear Solid Master Collection Vol. 2 launches this week on Steam. Players can take advantage of a 23% discount by preordering the PC version ahead of its Thursday release, bringing down the cost significantly from the standard price.",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/24/mgs-collection-vol-2-blogroll-1787585391900.png",
-    "published_at": "2026-08-24T16:19:01.000Z",
-    "hype_signal": 45,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "metal-gear-solid-master-collection-vol-2",
-    "game_label": "Metal Gear Solid Master Collection Vol. 2",
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/metal-gear-solid-master-collection-vol-2-pc-preorder-discount"
-      }
-    ]
-  },
-  {
-    "id": "a6f82d0096bf",
-    "slug": "nidhogg-creators-new-game-blood-dungeon-blends-vampire-survivors-with-a6f82d0096bf",
-    "headline": "Nidhogg Creator's New Game Blood Dungeon Blends Vampire Survivors with Platforming Chaos",
-    "summary": "Messhof delivers Blood Dungeon, a vampire survivors-style game that transforms bullet-heaven mechanics into a chaotic platformer experience. The designer behind Nidhogg creates an engaging indie title that combines intense action with platforming elements for an addictive gameplay loop.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/08/blood-dungeons.jpg",
-    "published_at": "2026-08-24T16:15:35.000Z",
-    "hype_signal": 72,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "blood-dungeon",
-    "game_label": "Blood Dungeon",
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/i-burnt-my-kids-pancakes-playing-way-too-much-blood-dungeon-an-excellent-vampire-survivors-like-from-the-designer-of-nidhogg-and-id-do-it-again-2000727589"
-      }
-    ]
-  },
-  {
-    "id": "b2a8e5f3e7ab",
-    "slug": "cd-projekt-red-is-targeting-a-2028-release-date-for-the-witcher-4-per-b2a8e5f3e7ab",
-    "headline": "CD Projekt Red is \"targeting\" a 2028 release date for The Witcher 4, per a new update from the developer",
-    "summary": "CD Projekt Red has posted a quick update about The Witcher 4, narrowing down the release date for its upcoming RPG sequel. \"This is our biggest, boldest, and most ambitious game to date,\" says CD Projekt Red joint-CEO Michal Nowakowski, shortly before confirming the studio is \"targeting\" a release date in 2028. Bear in mind, then, that this could always…",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/the-witcher-4-release-date-2028"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Witcher-4_Ciri-UE5-demo.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-08-24T16:05:45.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d1950e784c90",
-    "slug": "hands-on-preview-of-control-resonant-proves-initial-skepticism-unfound-d1950e784c90",
-    "headline": "Hands-on Preview of Control Resonant Proves Initial Skepticism Unfounded",
-    "summary": "After experiencing two new Control Resonant missions firsthand, the reviewer reconsidered previous doubts about the expansion. The preview coverage demonstrates the content's quality and potential to engage players with fresh gameplay experiences.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/13/ign-first-controlresonant-6-thefinalpreview-blogroll-1786627528052.jpg",
-    "published_at": "2026-08-24T16:00:00.000Z",
-    "hype_signal": 72,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "control",
-    "game_label": "Control",
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/control-resonant-final-preview"
-      }
-    ]
-  },
-  {
-    "id": "9ddd5cb2ee2b",
-    "slug": "cd-projekt-red-confirms-the-witcher-4-coming-in-2028-wont-appear-at-ga-9ddd5cb2ee2b",
-    "headline": "CD Projekt RED Confirms The Witcher 4 Coming in 2028, Won't Appear at Gamescom",
-    "summary": "CD Projekt RED announced that The Witcher 4, featuring protagonist Ciri, is targeted for 2028. The highly anticipated RPG sequel won't be showcased at the upcoming Gamescom event, but the studio has finally provided a release window for eager fans.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2025/06/746ed16e11a5353c40e125696c63e2ab.jpg",
-    "published_at": "2026-08-24T15:52:21.000Z",
-    "hype_signal": 78,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-witcher-4",
-    "game_label": "The Witcher 4",
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/the-witcher-4-release-window-2028-gamescom-trailer-2000727598"
-      }
-    ]
-  },
-  {
-    "id": "09a62451b12d",
-    "slug": "cd-projekt-reveals-the-witcher-4-is-aiming-for-2028-launch-09a62451b12d",
-    "headline": "CD Projekt Reveals The Witcher 4 Is Aiming for 2028 Launch",
-    "summary": "CD Projekt officially confirmed The Witcher 4's expected arrival in 2028 during Gamescom 2026. The announcement marks the studio's first concrete release window for the highly anticipated sequel, giving fans a clearer picture of when they can expect to return to the world of monster hunting.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2025/06/03/witcher-4-tech-demo-blogroll-1748956874427.jpg",
-    "published_at": "2026-08-24T15:33:18.000Z",
-    "hype_signal": 85,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-witcher-4",
-    "game_label": "The Witcher 4",
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/the-witcher-4-confirmed-for-2028-release-in-official-cd-projekt-gamescom-2026-announcement"
-      }
-    ]
-  },
-  {
-    "id": "eb7119a4cba0",
-    "slug": "paradoxs-next-grand-strategy-game-is-a-post-apocalyptic-wasteland-trib-eb7119a4cba0",
-    "headline": "Paradox's next grand strategy game is a post-apocalyptic wasteland tribe-battler called Afterworld, according to leaks ahead of Gamescom",
-    "summary": "Update 25/08: Paradox have officially announced Afterworld with a story trailer - read more about it here. Our original story continues below. What is happening across the Paradox Universe? So the publishers behind strategy stalwarts like Crusader Kings 3 and Europa Universalis 4 asked in a post to the socials the other day, which promised all will be revealed on…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/paradoxs-next-grand-strategy-game-is-a-post-apocalyptic-wasteland-tribe-battler-called-afterworld-according-to-leaks-ahead-of-gamescom"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/paradox-post-apocalyptic-grand-strategy-leak-gamescom-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-08-24T15:31:09.000Z",
-    "hype_signal": 95,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "fa3bc916778d",
-    "slug": "standout-cosplay-costumes-from-dream-con-2026-fa3bc916778d",
-    "headline": "Standout cosplay costumes from Dream Con 2026",
-    "summary": "Dream Con 2026 showcased impressive cosplay creations, with attendees bringing characters to life from popular franchises including Naruto, Dragon Ball, and DC Comics. The event featured seventeen particularly notable costume entries that demonstrated detailed craftsmanship and dedication to character authenticity.",
-    "category": "industry",
-    "platform_tags": [],
-    "image_url": "https://kotaku.com/app/uploads/2026/08/main-image-1280x720.jpeg",
-    "published_at": "2026-08-24T15:30:04.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null,
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/cosplay-gallery-dream-con-2026-mineralblu-naruto-dragon-ball-batman-2000727521"
-      }
-    ]
-  },
-  {
-    "id": "516d3ed7b652",
-    "slug": "the-people-of-video-games-on-what-gives-them-cause-for-hope-516d3ed7b652",
-    "headline": "The people of video games on what gives them cause for hope",
-    "summary": "Hello and welcome to one of our final pieces for Optimism Week here on Eurogamer. This time, we've turned to the industry itself for some answers, and as such I'm going to do my best to get out of the way as quickly as possible.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/people-of-video-games-what-gives-hope-optimism-week"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/optimism-week-devs.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-08-24T15:11:04.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "698fb0cd6627",
-    "slug": "spider-man-costume-wearer-arrested-at-minneapolis-protest-698fb0cd6627",
-    "headline": "Spider-Man Costume Wearer Arrested at Minneapolis Protest",
-    "summary": "A person dressed as Spider-Man was arrested during a Minneapolis protest after confronting racist demonstrators. The individual now requires community support and assistance, according to reports covering the incident at the protest event.",
-    "category": "industry",
-    "platform_tags": [],
-    "image_url": "https://kotaku.com/app/uploads/2026/08/spiderman-minneapolis.jpg",
-    "published_at": "2026-08-24T15:00:12.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null,
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/spider-man-jake-lang-minneapolis-protest-shiloh-hendrix-2000727520"
-      }
-    ]
-  },
-  {
-    "id": "76d56dd76932",
-    "slug": "zork-becomes-breakout-hit-among-the-duskbloods-network-test-players-76d56dd76932",
-    "headline": "Zork Becomes Breakout Hit Among The Duskbloods Network Test Players",
-    "summary": "Zork, one of six playable characters featured in The Duskbloods' network test, has captured players' attention and inspired the viral trend \"Zorkin' It.\" The unusual character has resonated strongly with the community, becoming an unexpected fan favorite during early testing.",
-    "category": "releases",
-    "platform_tags": [],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/24/the-duskbloods-17-1787577339639.png",
-    "published_at": "2026-08-24T14:44:42.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-duskbloods",
-    "game_label": "The Duskbloods",
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/why-everybody-loves-zork-the-duskbloods-weirdest-character-and-miyazakis-favorite"
-      }
-    ]
-  },
-  {
-    "id": "4bbf4bc124dc",
-    "slug": "magic-the-gathering-marvel-super-heroes-bundle-discounted-15-on-amazon-4bbf4bc124dc",
-    "headline": "Magic: The Gathering Marvel Super Heroes Bundle Discounted 15% on Amazon",
-    "summary": "The Magic: The Gathering Marvel Super Heroes Bundle is currently on sale at Amazon with a 15% discount. The deal includes promo cards and booster packs at a reduced price, making it a good opportunity for collectors and players interested in the crossover set.",
-    "category": "deals",
-    "platform_tags": [],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/24/marvel-super-heroes-bundle-deal-1787581916728.png",
-    "published_at": "2026-08-24T14:32:31.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "magic-the-gathering",
-    "game_label": "Magic: The Gathering",
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/mtg-marvel-super-heroes-bundle-amazon-discount"
-      }
-    ]
-  },
-  {
-    "id": "8004c8500812",
-    "slug": "massive-gta-6-leak-continues-with-explicit-footage-hacker-threatens-st-8004c8500812",
-    "headline": "Massive GTA 6 Leak Continues With Explicit Footage, Hacker Threatens Story Spoilers",
-    "summary": "An ongoing series of GTA 6 leaks escalated with the release of gameplay containing explicit content. The leaker has indicated they may publish narrative spoilers and is encouraging fans to stage protests at Rockstar and Take-Two Interactive offices, amplifying concerns about the data breach.",
-    "category": "industry",
-    "platform_tags": [],
-    "image_url": "https://assets-prd.ignimgs.com/2023/12/07/gta6-trailer-4k-00-00-38-29-still001-1701962524689.png",
-    "published_at": "2026-08-24T14:31:55.000Z",
-    "hype_signal": 75,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6",
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6-leaker-drops-new-nudity-filled-gameplay-polls-people-on-whether-to-release-story-spoilers"
-      }
-    ]
-  },
-  {
-    "id": "7826d571d10b",
-    "slug": "major-gamescom-showcase-to-feature-final-fantasy-7-and-witcher-reveals-7826d571d10b",
-    "headline": "Major Gamescom showcase to feature Final Fantasy 7 and Witcher reveals",
-    "summary": "Geoff Keighley is organizing an upcoming showcase at Gamescom featuring multiple anticipated franchises including Final Fantasy 7 and The Witcher 3. The event promises significant announcements and reveals from major game publishers, giving fans a look at upcoming projects and developments in the gaming industry.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/06/ff7-1280x719.jpg",
-    "published_at": "2026-08-24T14:30:53.000Z",
-    "hype_signal": 75,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null,
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/gamescom-opening-night-live-where-watch-date-time-stream-2000727546"
-      }
-    ]
-  },
-  {
-    "id": "55b3a8a40bdf",
-    "slug": "nautus-blends-cozy-exploration-with-mysterious-ocean-secrets-55b3a8a40bdf",
-    "headline": "Nautus Blends Cozy Exploration with Mysterious Ocean Secrets",
-    "summary": "Magic Design Studios' upcoming Nautus combines relaxing gameplay with tropical island exploration and underwater mystery-solving. The indie title features charming Cartoon Network-style aesthetics and emphasizes atmospheric storytelling through character bonding, delivering a chill adventure experience reminiscent of exploration and resource-gathering mechanics.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/21/nautus-blogroll-1787340582249.jpg",
-    "published_at": "2026-08-24T14:00:00.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "nautus",
-    "game_label": "Nautus",
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/nautus-exclusive-hands-on-preview-it-feels-like-mash-up-of-steamworld-dig-and-subnautica"
-      }
-    ]
-  },
-  {
-    "id": "e45d7dcd0477",
-    "slug": "i-want-to-keep-pouring-my-energy-into-game-creation-going-forward-hide-e45d7dcd0477",
-    "headline": "\"I want to keep pouring my energy into game creation going forward\" - Hideo Kojima still wants to make games even at 63",
-    "summary": "Hideo Kojima - known as the director of the Death Stranding and Metal Gear Solid series - celebrated his 63rd birthday recently. Don't worry though, he's not interested in retiring just yet.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/hideo-kojima-63-years-old-still-wants-to-make-games"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Hideo-Kojima-in-Prada's-space-based-short-film.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-08-24T13:57:16.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8e1ec0c8b45b",
-    "slug": "gta-6-leak-reveals-new-game-details-and-graphics-8e1ec0c8b45b",
-    "headline": "GTA 6 Leak Reveals New Game Details and Graphics",
-    "summary": "Recent leaked footage from GTA 6 has surfaced online, showcasing various in-game elements and environmental details. The footage highlights the game's visual quality, including notably rendered nighttime settings and environmental design that demonstrate Rockstar's attention to graphical fidelity for the upcoming release.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2025/05/feed8131c865d8e6c207e1b96f96096e-1280x720.jpg",
-    "published_at": "2026-08-24T13:54:42.000Z",
-    "hype_signal": 72,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6",
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/new-gta-6-leak-is-filled-with-boobs-and-dicks-2000727526"
-      }
-    ]
-  },
-  {
-    "id": "c84c232c20c2",
-    "slug": "hideo-kojima-reflects-on-age-and-creative-vision-as-he-turns-63-c84c232c20c2",
-    "headline": "Hideo Kojima Reflects on Age and Creative Vision as He Turns 63",
-    "summary": "The legendary Metal Gear Solid and Death Stranding director is celebrating his 63rd birthday while contemplating his future projects. Kojima expresses optimism about his creative potential but acknowledges the finite time remaining to bring his ambitious ideas to fruition.",
-    "category": "industry",
-    "platform_tags": [],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/24/hqdvhr9biaajeta-1787579249501.jpg",
-    "published_at": "2026-08-24T13:48:20.000Z",
-    "hype_signal": 45,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null,
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/as-hideo-kojima-turns-63-the-metal-gear-solid-creator-says-he-has-more-ideas-than-ever-but-less-time-left-to-make-them"
-      }
-    ]
-  },
-  {
-    "id": "4ae3e6d1716c",
-    "slug": "black-myth-zhong-kui-takes-more-grounded-approach-compared-to-wukong-4ae3e6d1716c",
-    "headline": "Black Myth: Zhong Kui Takes More Grounded Approach Compared to Wukong",
-    "summary": "The upcoming Black Myth: Zhong Kui adopts a less grandiose tone than its predecessor, focusing on a more realistic narrative style. This shift in direction may allow the game to explore deeper storytelling ambitions and character development beyond epic spectacle.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/24/black-myth-blogroll-1787576200760.jpg",
-    "published_at": "2026-08-24T13:30:00.000Z",
-    "hype_signal": 72,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "black-myth-zhong-kui",
-    "game_label": "Black Myth: Zhong Kui",
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/black-myth-zhong-kui-doesnt-look-as-epic-as-wukong-and-thats-great"
-      }
-    ]
-  },
-  {
-    "id": "8926b4fc8a8f",
-    "slug": "this-week-in-pc-games-gamescom-and-gta-6-fight-for-our-attention-but-d-8926b4fc8a8f",
-    "headline": "This week in PC games: Gamescom and GTA 6 fight for our attention, but don't forget Folk Emerging, MGS4 and the horror game about balancing a cake",
-    "summary": "Hello all! I regret to report that the Maw is in a really good mood this week. Its scales have an almost flirtatious lustre, flashing in and out of visibility as I gaze from my eyrie above north London. Its crimson coral coils and fins of mounded verdigris can be seen reflected in the distant moneytemples of Canary Wharf. Its…",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-gamescom-and-gta-6-fight-for-attention-but-dont-forget-folk-emerging-mgs4-and-the-horror-game-about-balancing-a-cake"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Dont-drop-the-cake.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-08-24T13:10:49.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9bac9cb70138",
-    "slug": "ign-journalist-reflects-on-intensive-oblivion-marathon-at-bethesda-stu-9bac9cb70138",
-    "headline": "IGN journalist reflects on intensive Oblivion marathon at Bethesda studio",
-    "summary": "An IGN writer spent 44 hours over 4 days immersed in The Elder Scrolls IV: Oblivion at Bethesda's offices, highlighting its legacy as a defining Xbox 360 release. The piece celebrates the game's enduring impact and expresses anticipation for The Elder Scrolls 6 to deliver similar experiences.",
-    "category": "reviews",
-    "platform_tags": [
-      "xbox"
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/22/oblivion-1787434528792.jpg",
-    "published_at": "2026-08-24T13:10:00.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-elder-scrolls-iv-oblivion",
-    "game_label": "The Elder Scrolls IV: Oblivion",
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/the-elder-scrolls-iv-oblivion-i-spent-44-hours-in-4-days-playing-it-in-bethesdas-basement"
-      }
-    ]
-  },
-  {
-    "id": "0701e1bdd142",
-    "slug": "blood-of-dawnwalker-adds-60fps-mode-following-community-complaints-0701e1bdd142",
-    "headline": "Blood of Dawnwalker Adds 60FPS Mode Following Community Complaints",
-    "summary": "The vampire RPG Blood of Dawnwalker will introduce a 60FPS performance mode after player backlash. The game was originally planned to launch without this option, even on PS5 Pro. Developers responded to community feedback by committing to deliver the higher frame rate setting.",
-    "category": "patches",
-    "platform_tags": [
-      "playstation"
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/08/blood-dawn-1280x720.jpg",
-    "published_at": "2026-08-24T13:00:25.000Z",
-    "hype_signal": 45,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "blood-of-dawnwalker",
-    "game_label": "Blood of Dawnwalker",
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/vampire-rpg-blood-of-dawnwalker-will-rush-out-a-60fps-mode-after-after-backlash-we-heard-your-feedback-2000727511"
-      }
-    ]
-  },
-  {
-    "id": "8e2a691c4613",
-    "slug": "haul-a-star-through-a-labyrinth-in-todays-star-is-a-challenging-free-g-8e2a691c4613",
-    "headline": "Haul a star through a labyrinth in Today's Star Is, a challenging free game from the Love Eternal devs with a new level coming every day",
-    "summary": "It's the start of a new week, and you've got a bad case of the Mondays. Ah, but why do I antagonise you so with these twee and crushingly normative white collar office job cliches? You aren't necessarily working a 9-5, and every day is hard, isn't it? You've got a lot on your mind. You've got a lot on…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/haul-a-star-through-a-labyrinth-in-todays-star-is-a-challenging-free-game-from-the-love-eternal-devs-with-a-new-level-coming-every-day"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-08-24-102200.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-08-24T10:04:30.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ddefc208ffec",
-    "slug": "twitch-sued-for-allegedly-using-streamer-content-to-train-amazons-ai-s-ddefc208ffec",
-    "headline": "Twitch sued for allegedly using streamer content to train Amazon's AI systems",
-    "summary": "A Connecticut content creator has filed a class action lawsuit against Twitch, claiming the platform harvested streamer data beyond its disclosed policies to develop Amazon's artificial intelligence products. The case challenges Twitch's AI training practices and their scope.",
-    "category": "industry",
-    "platform_tags": [],
-    "image_url": "https://kotaku.com/app/uploads/2021/09/24123897f999eec2a0b478d27f417dbb-1280x720.jpg",
-    "published_at": "2026-08-23T22:01:51.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null,
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/streamer-files-class-action-lawsuit-against-twitch-over-ai-training-2000727274"
-      }
-    ]
-  },
-  {
-    "id": "6b7330e19546",
-    "slug": "dark-castle-brings-landmark-1980s-apple-game-to-modern-pc-after-40-yea-6b7330e19546",
-    "headline": "Dark Castle Brings Landmark 1980s Apple Game to Modern PC After 40 Years",
-    "summary": "The classic fantasy title Dark Castle arrives on PC, marking four decades since it originally challenged the technical capabilities of early Macintosh hardware. This pioneering animated adventure defined what was possible on retro Apple systems and maintains its cultural impact today.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation"
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/08/darkcastle-e1787574634174.jpg",
-    "published_at": "2026-08-23T21:01:52.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "dark-castle",
-    "game_label": "Dark Castle",
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/revolutionary-macintosh-fantasy-series-celebrates-40th-anniversary-with-pc-version-2000727271"
-      }
-    ]
-  },
-  {
-    "id": "97e4a9fc326a",
-    "slug": "disneyland-visitor-faces-online-harassment-after-accusations-of-obsess-97e4a9fc326a",
-    "headline": "Disneyland visitor faces online harassment after accusations of obsessing over park performers",
-    "summary": "A Disneyland regular became the target of intense online scrutiny following allegations about her interactions with Peter Pan cast members. The subsequent backlash raised questions about parasocial relationships, content creation ethics, and the boundaries between fandom and appropriate behavior at theme parks.",
-    "category": "industry",
-    "platform_tags": [],
-    "image_url": "https://kotaku.com/app/uploads/2026/08/peter-pan.jpg",
-    "published_at": "2026-08-23T20:03:29.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null,
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/alleged-peter-pan-stalker-latest-stress-test-on-content-creation-and-boundaries-2000727266"
-      }
-    ]
-  },
-  {
-    "id": "e7344ad36fa4",
-    "slug": "xbox-mystery-announcement-unlikely-at-gamescom-insider-backtracks-e7344ad36fa4",
-    "headline": "Xbox mystery announcement unlikely at Gamescom, insider backtracks",
-    "summary": "Gaming insider NateTheHate2 reversed his earlier claim about a surprise Xbox game reveal at Gamescom, now suggesting it's improbable. He previously hinted at a new entry in an existing Microsoft franchise developed by an external studio, but has since downplayed expectations for any announcement at the upcoming event.",
-    "category": "industry",
-    "platform_tags": [
-      "xbox",
-      "pc"
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/XboxGamescom_765260.jpg?w=300",
-    "published_at": "2026-08-18T19:17:38.000Z",
-    "hype_signal": 25,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null,
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/surprise-xbox-game-to-be-announced-at-gamescom-insider-says/"
-      }
-    ]
-  },
-  {
-    "id": "6af6d827d275",
-    "slug": "monopoly-go-x-the-simpsons-crossover-event-coming-soon-6af6d827d275",
-    "headline": "Monopoly Go x The Simpsons Crossover Event Coming Soon",
-    "summary": "VG247 reports on the upcoming crossover event for Monopoly Go and The Simpsons, providing official confirmation after leaked details surfaced.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "VG247",
-        "url": "https://www.vg247.com/monopoly-go-the-simpsons-crossover-details"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/monopoly-go-simpsons-crossover-keyart-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-06-02T08:41:21.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "monopoly-go",
-    "game_label": "Monopoly Go"
-  },
-  {
-    "id": "81dd0ec1f5ba",
-    "slug": "honkai-star-rail-43-update-adds-new-chapter-and-playable-mortenax-blad-81dd0ec1f5ba",
-    "headline": "Honkai: Star Rail 4.3 Update Adds New Chapter and Playable Mortenax Blade",
-    "summary": "HoYoverse announced Honkai: Star Rail's Version 4.3, titled The Lethe Below the Living, releasing June 1. The update adds a new chapter to the Planarcadia story arc and introduces the playable Mortenax Blade character, expanding exploration in the World in Canvas area. Players can expect fresh quests and gear.",
-    "category": "patches",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "VG247",
-        "url": "https://www.vg247.com/honkai-star-rail-version-4-3-all-details"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/honkai-star-rail-version-4-3-keyart-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-05-22T13:43:44.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "honkai-star-rail",
-    "game_label": "Honkai: Star Rail"
-  },
-  {
-    "id": "45e24f575784",
-    "slug": "forza-horizon-6-available-on-steam-early-45e24f575784",
-    "headline": "Forza Horizon 6 Available on Steam Early",
-    "summary": "Forza Horizon 6 is now playable on Steam for Premium Edition owners before its official release on May 19, sparking excitement among fans.",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "VG247",
-        "url": "https://www.vg247.com/forza-horizon-6-steam-numbers-big-launch"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/forza-horizon-6-keyart-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-05-15T11:00:02.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "forza-horizon-6",
-    "game_label": "Forza Horizon 6"
-  },
-  {
-    "id": "74cad9ac7202",
-    "slug": "mystic-messengers-most-loyal-fans-face-bans-74cad9ac7202",
-    "headline": "Mystic Messenger's Most Loyal Fans Face Bans",
-    "summary": "Long-time Mystic Messenger players are facing bans after showing signs of excessive play",
-    "category": "industry",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "VG247",
-        "url": "https://www.vg247.com/mystic-messenger-ban-wave-thousands-of-hourglasses-anniversary"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/mystic-messenger%20(1).png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-05-15T10:02:10.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "mystic-messenger",
-    "game_label": "Mystic Messenger"
-  },
-  {
-    "id": "c5871d38ba42",
-    "slug": "forza-horizon-6-review-a-series-that-aims-for-broad-appeal-c5871d38ba42",
-    "headline": "Forza Horizon 6 Review: A Series That Aims for Broad Appeal",
-    "summary": "Forza Horizon 6 is a driving game that balances accessibility with a long-running series' legacy, aiming to appeal to a wide audience with each new entry.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "VG247",
-        "url": "https://www.vg247.com/forza-horizon-6-review"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/forza-horizon-6-screen-13.jpeg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-05-14T12:00:03.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "forza-horizon-6",
-    "game_label": "Forza Horizon 6"
-  },
-  {
-    "id": "e7eddaee611d",
-    "slug": "genshin-impact-luna-7-reveal-unveils-hexenzirkel-and-sumeru-update-det-e7eddaee611d",
-    "headline": "Genshin Impact Luna 7 Reveal Unveils Hexenzirkel and Sumeru Update Details",
-    "summary": "HoYoverse has revealed details about Genshin Impact's next major update, Luna 7, which includes the first playable Hexenzirkel and a new region, Sumeru.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "VG247",
-        "url": "https://www.vg247.com/genshin-impact-version-luna-7-nicole-new-quest-details"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/genshin-impact-luna-7-keyart-1.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-05-08T13:44:39.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "genshin-impact",
-    "game_label": "Genshin Impact"
-  },
-  {
-    "id": "bd511ea272bb",
-    "slug": "petit-planet-preview-bd511ea272bb",
-    "headline": "Petit Planet Preview",
-    "summary": "VG247 previewed HoYoverse's new game Petit Planet, which seems to be heavily influenced by Animal Crossing. The game's creator aims to create a 'family-friendly' experience, but critics are worried it may be too similar to existing titles.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "VG247",
-        "url": "https://www.vg247.com/petit-planet-preview-hoyoverses-first-foray-into-family-friendly-games-is-very-careful-to-colour-within-the-lines"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/petit-planetStardrift_Test_Splashscreen.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-04-30T14:38:34.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "petit-planet",
-    "game_label": "Petit Planet"
-  },
-  {
-    "id": "77050b597e2c",
-    "slug": "zenless-zone-zero-coming-to-steam-77050b597e2c",
-    "headline": "Zenless Zone Zero Coming to Steam",
-    "summary": "HoYoverse announces that Zenless Zone Zero is coming to Steam, with a new update bringing a new team comp mechanic, and a special program providing details on the next update and game's availability on the platform.",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "VG247",
-        "url": "https://www.vg247.com/zenless-zone-zero-version-2-8-steam-all-details"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/zenless-zone-zero-version-2-8-keyart-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-04-24T13:47:03.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "zenless-zone-zero",
-    "game_label": "Zenless Zone Zero"
-  },
-  {
-    "id": "3aba0d644b7b",
-    "slug": "blizzard-to-focus-on-lord-of-hatred-before-diablo-4-expansion-launch-3aba0d644b7b",
-    "headline": "Blizzard to Focus on Lord of Hatred Before Diablo 4 Expansion Launch",
-    "summary": "Blizzard is prioritizing the upcoming Lord of Hatred expansion in Diablo 4, with no new mechanics or theme planned for the next season",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "VG247",
-        "url": "https://www.vg247.com/diablo-4-season-of-reckoning-lord-of-hatred-launch"
-      },
-      {
-        "name": "VG247",
-        "url": "https://www.vg247.com/diablo-4-lord-of-hatred-last-pre-launch-developer-update-schedule"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/diablo-4-lord-of-hatred-reveal-screen-3.jpeg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-04-24T09:30:50.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "diablo-4",
-    "game_label": "Diablo 4"
-  },
-  {
-    "id": "c6879449980d",
-    "slug": "diablo-4-lord-of-hatred-review-c6879449980d",
-    "headline": "Diablo 4: Lord of Hatred Review",
-    "summary": "The reviewer praises Diablo 4: Lord of Hatred for its compelling conclusion and high production value, making it a standout among other ARPGs",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "VG247",
-        "url": "https://www.vg247.com/diablo-4-lord-of-hatred-expansion-review"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/diablo-4-lord-of-hatred-keyart-no-logo-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-04-21T16:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "diablo-4",
-    "game_label": "Diablo 4"
   }
 ]

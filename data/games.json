@@ -2118,5 +2118,548 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-26T08:34:19.070Z"
+  },
+  {
+    "slug": "the-witcher-3-songs-of-the-past",
+    "name": "The Witcher 3: Songs of the Past",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/472/472189e44b839e676ba32c56f01dd1c5.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/472/472189e44b839e676ba32c56f01dd1c5.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T10:51:38.140Z"
+  },
+  {
+    "slug": "dragon-ball",
+    "name": "Dragon Ball",
+    "description": null,
+    "background_image": null,
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [],
+    "screenshots": [],
+    "stores": [],
+    "fetched_at": "2026-08-26T10:51:38.767Z"
+  },
+  {
+    "slug": "heroes-of-might-and-magic-3",
+    "name": "Heroes of Might and Magic 3: Complete",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/efa/efa20a88e86267ed7c49f394fa22c1d0.jpg",
+    "released": "2000-03-31",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/4df/4dfa22614f3a1f0a432e0e315b30fbc0.jpg",
+      "https://media.rawg.io/media/screenshots/126/1266122055562edeb3c203dfed01b18b.jpg",
+      "https://media.rawg.io/media/screenshots/0d3/0d38a4d29fb1a0ada900e5e7b4ed3664.jpg",
+      "https://media.rawg.io/media/screenshots/f53/f533227a3faf487341ab4f9ae4bf1452.jpg",
+      "https://media.rawg.io/media/screenshots/2dd/2dd7c4d52074686006dd021e6556417b.jpg",
+      "https://media.rawg.io/media/screenshots/274/2746ffb98c19972c9f7c3f6e3fc9d709.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T10:51:39.399Z"
+  },
+  {
+    "slug": "kingdom-hearts",
+    "name": "Kingdom Hearts",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/bc3/bc3c433821089108642a41a3057f92c5.jpg",
+    "released": "2002-03-28",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PlayStation 2"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/442/442ac739955483e8e9bc78ad011c77fb.jpg",
+      "https://media.rawg.io/media/screenshots/c9e/c9eb9630b4d9eb4fc2f87a37c77c0324.jpg",
+      "https://media.rawg.io/media/screenshots/527/527baf3fc4db7d654b2dff60f22f0099.jpg",
+      "https://media.rawg.io/media/screenshots/f0f/f0fb1b82cdf92aed080437bf181c7ab9.jpg",
+      "https://media.rawg.io/media/screenshots/f4c/f4ccef487bc891b23841e5bb4b5783aa.jpg",
+      "https://media.rawg.io/media/screenshots/e78/e783e780581b873e88bc3b12cb00f1d0.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T10:51:39.978Z"
+  },
+  {
+    "slug": "black-ops-7-zombies",
+    "name": "Call of Duty: Black Ops Zombies",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/f93/f93e818e0dbc57e1a48db2400c7d798d.jpg",
+    "released": "2011-11-30",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "iOS",
+      "Android"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/76d/76dcecb2a1b9943d2f0595e6547ed58e.jpg",
+      "https://media.rawg.io/media/screenshots/c2b/c2bfc0483656070c14a51d8bb2955d41.jpg",
+      "https://media.rawg.io/media/screenshots/10a/10aa381a8095714f8a9d23d29f8c07e3.jpg",
+      "https://media.rawg.io/media/screenshots/e89/e89fc5dee2547bcd57b3aa0a9b1e4408.jpg",
+      "https://media.rawg.io/media/screenshots/7af/7aff73da2984a99617a95436592fa26b.jpg",
+      "https://media.rawg.io/media/screenshots/d7c/d7c2e18772a680941138b81f92f2912d.jpeg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T10:51:40.792Z"
+  },
+  {
+    "slug": "fable",
+    "name": "Fable",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/705/7052ebf19b7b57ada5eeb21dea59f0e7.jpg",
+    "released": "2027-02-23",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/1cb/1cb8c4bbf2eddbeee787ba0ff1721aca.jpg",
+      "https://media.rawg.io/media/screenshots/750/750a8797af6cb6bc15b51a2be46cc085.jpg",
+      "https://media.rawg.io/media/screenshots/8f4/8f4f5dc506820462698f63c80ddb8752.jpg",
+      "https://media.rawg.io/media/screenshots/504/504b50fbb2d4f4d79b2b26f7d4d693eb.jpg",
+      "https://media.rawg.io/media/screenshots/c3f/c3f7a6bb043a897bc7039b03776db16c.jpg",
+      "https://media.rawg.io/media/screenshots/f91/f91b1a2e762b183bf540adddb631bf46.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T10:51:41.175Z"
+  },
+  {
+    "slug": "pragmata",
+    "name": "Pragmata",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/9b2/9b20adbf00491d56ad6793654067f2fd.jpg",
+    "released": "2026-04-17",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/ca1/ca18d0aae36eb9111d699e5fc301792c.jpg",
+      "https://media.rawg.io/media/screenshots/bed/bed539410f44bb30d7ec90d5c3d3d79d.jpg",
+      "https://media.rawg.io/media/screenshots/4c7/4c78732f954103ddbc7919a7ea08042a.jpg",
+      "https://media.rawg.io/media/screenshots/70e/70e3a7485f7b31744c955213860f8a86.jpg",
+      "https://media.rawg.io/media/screenshots/075/075dcf7acab1045481d17b59c8b17192.jpg",
+      "https://media.rawg.io/media/screenshots/524/524ef9b98451f60200b5f6169577fe06_VxBdSyL.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T10:51:41.715Z"
+  },
+  {
+    "slug": "state-of-decay-3",
+    "name": "State of Decay 3",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/322/3225bdc4ee8f3c84a0e4059a7e649fe4.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/322/3225bdc4ee8f3c84a0e4059a7e649fe4.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T10:51:42.220Z"
+  },
+  {
+    "slug": "the-witcher-3-wild-hunt",
+    "name": "The Witcher 3: Wild Hunt",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg",
+    "released": "2015-05-18",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/1ac/1ac19f31974314855ad7be266adeb500.jpg",
+      "https://media.rawg.io/media/screenshots/6a0/6a08afca95261a2fe221ea9e01d28762.jpg",
+      "https://media.rawg.io/media/screenshots/cdd/cdd31b6b4a687425a87b5ce231ac89d7.jpg",
+      "https://media.rawg.io/media/screenshots/862/862397b153221a625922d3bb66337834.jpg",
+      "https://media.rawg.io/media/screenshots/166/166787c442a45f52f4f230c33fd7d605.jpg",
+      "https://media.rawg.io/media/screenshots/f63/f6373ee614046d81503d63f167181803.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T10:51:43.336Z"
+  },
+  {
+    "slug": "null",
+    "name": "Null: Remastered",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/0c2/0c2acfc29b57fadcb440fd5007005a31.jpg",
+    "released": "2023-05-18",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC",
+      "Android",
+      "macOS",
+      "Linux"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/ab1/ab1f53bc1e2e0c05038362ac5868e579.jpg",
+      "https://media.rawg.io/media/screenshots/6fd/6fd0f7c89058c373314e8548beba267f.jpg",
+      "https://media.rawg.io/media/screenshots/281/281ed9bb742a281dddda6e9d5eba62a4.jpg",
+      "https://media.rawg.io/media/screenshots/52b/52b084698a4218f1a3bdc05bd464283e.jpg",
+      "https://media.rawg.io/media/screenshots/9bb/9bb1962be39652420780b67ddd0a6d4e.jpg",
+      "https://media.rawg.io/media/screenshots/419/4195cdacd0eec80eb0095df77d1ed765.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T10:51:43.913Z"
+  },
+  {
+    "slug": "persona-4-revival",
+    "name": "Persona 4 Revival",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/7ae/7ae90da8257556877d0e75f30e587abb.jpeg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/7ae/7ae90da8257556877d0e75f30e587abb.jpeg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T10:51:45.667Z"
+  },
+  {
+    "slug": "drapline",
+    "name": "DRAPLINE",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/dcd/dcd90e2ac0d65b515f7f358b94e1fa0b.jpg",
+    "released": "2025-06-29",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Adventure",
+      "RPG",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/2b4/2b41617d4ceb1926dc9295853cd7768d.jpg",
+      "https://media.rawg.io/media/screenshots/576/5768db79648af6f8328fa55541a8ad3c.jpg",
+      "https://media.rawg.io/media/screenshots/218/218fed03436dd1107a0c4b9b4b43dd4d.jpg",
+      "https://media.rawg.io/media/screenshots/bb3/bb3c0b9f7f15d953e522c93d5487a49e.jpg",
+      "https://media.rawg.io/media/screenshots/cde/cde860fed98688c06d7a21b1cb7171ee.jpg",
+      "https://media.rawg.io/media/screenshots/077/0771e8a31c150e788bf259320c8a4cf9.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T10:51:47.305Z"
+  },
+  {
+    "slug": "the-legend-of-dark-witch",
+    "name": "The Legend of Dark Witch",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/6bb/6bb7ddbf54f57f3f34862c01eeacfb52.jpg",
+    "released": "2014-10-16",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "Nintendo 3DS",
+      "PS Vita"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/90a/90af358de3e30ddf26050e5248347752.jpg",
+      "https://media.rawg.io/media/screenshots/9fd/9fd0ea83d6145583d1938935cbbda6fa.jpg",
+      "https://media.rawg.io/media/screenshots/c55/c556cebdbf10d0127b50e4b32074e3d3.jpg",
+      "https://media.rawg.io/media/screenshots/221/221915024670213864a20090e60de161.jpg",
+      "https://media.rawg.io/media/screenshots/e3c/e3ca15ef4f66a2e7c0fb7084828ea970.jpg",
+      "https://media.rawg.io/media/screenshots/858/85890c336898e6be71e84da50740e6ad.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T10:51:48.188Z"
+  },
+  {
+    "slug": "humankind-2",
+    "name": "HUMANKIND - OpenDev",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/c98/c98679ecd581897c521033e5e29df147.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/321/3214b9f6f72c2f978ba973dc60d6f997.jpg",
+      "https://media.rawg.io/media/screenshots/f8d/f8d218b9f006f8f12e793711011f619a.jpg",
+      "https://media.rawg.io/media/screenshots/c83/c8321e151efbe1cf109a207d62b0d88b.jpg",
+      "https://media.rawg.io/media/screenshots/2b1/2b16f4cacf997bd0af7e768ba2d3dffa.jpg",
+      "https://media.rawg.io/media/screenshots/d8c/d8c28f4e06ef005964fe22046a693799.jpg",
+      "https://media.rawg.io/media/screenshots/d53/d537953356f396c0d04181da1b6c4b28.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T10:51:49.057Z"
+  },
+  {
+    "slug": "pony-island-2-panda-circus",
+    "name": "Pony Island 2: Panda Circus",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/efa/efa4f91331940b078b8bca6e7f4a471b.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Puzzle"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/9b9/9b93c7de5e793f1c25bb9bd8919fc4b1_EclviqR.jpg",
+      "https://media.rawg.io/media/screenshots/9df/9df9ccc61aeb7a3cd3d23b689c4e92a4.jpg",
+      "https://media.rawg.io/media/screenshots/a07/a07bd0cab5f5caf8698536c40a6ba300_0GJ7UKt.jpg",
+      "https://media.rawg.io/media/screenshots/a65/a65b98df8fd9cb316ecef227e61313ee.jpg",
+      "https://media.rawg.io/media/screenshots/efa/efa4f91331940b078b8bca6e7f4a471b.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T10:51:49.932Z"
+  },
+  {
+    "slug": "onimusha-way-of-the-sword",
+    "name": "Onimusha: Way Of The Sword",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/48e/48ea2f7adb60615d658887899ffe4d1f.jpg",
+    "released": "2026-09-04",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a34/a3444739430f1b440bbef6d493a62585.jpg",
+      "https://media.rawg.io/media/screenshots/184/18431ea009b07288111a9fb3743a2830.jpg",
+      "https://media.rawg.io/media/screenshots/bb8/bb82117127b5839995ea4c7186354190.jpg",
+      "https://media.rawg.io/media/screenshots/965/9653d36f42d6a7a360c99963253384ff.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T10:51:50.434Z"
+  },
+  {
+    "slug": "gears-of-war",
+    "name": "Gears of War",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/988/98834d39955e7f15d3717fac438128aa.jpg",
+    "released": "2006-11-08",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Xbox 360"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/854/854f930ed3b39cfd00eca91b7a99c7de.jpg",
+      "https://media.rawg.io/media/screenshots/342/34219a3368b000d8380714aa34fc85d0.jpg",
+      "https://media.rawg.io/media/screenshots/95d/95d43a23c2777d6e3f0e99505416da3b.jpg",
+      "https://media.rawg.io/media/screenshots/c4a/c4a31b6dd94540e36695c617dd60f660.jpg",
+      "https://media.rawg.io/media/screenshots/6c9/6c95c707889a09fb592c04206d90d902.jpg",
+      "https://media.rawg.io/media/screenshots/e6a/e6a2e2de37eca634f0285adb91263867.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T10:51:51.112Z"
+  },
+  {
+    "slug": "1666-amsterdam",
+    "name": "1666: Amsterdam",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/c56/c56fe0145a3e68010ebf3b7b68260315.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/5b3/5b3353047c8d7e14f0ac963238f3455d.jpg",
+      "https://media.rawg.io/media/screenshots/f6c/f6c88b2ee7c9688c317981854405d16c.jpg",
+      "https://media.rawg.io/media/screenshots/21f/21faea95bfecb032a3a073640cc62970.jpg",
+      "https://media.rawg.io/media/screenshots/330/3303ebe340bdb63e6dfe28c47a31b4df.jpg",
+      "https://media.rawg.io/media/screenshots/c56/c56fe0145a3e68010ebf3b7b68260315.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T10:51:52.107Z"
+  },
+  {
+    "slug": "warlock",
+    "name": "Warlock",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/81f/81fe92d6b5fbd1f414d19bc27e823acf.jpg",
+    "released": "1995-08-15",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "SNES",
+      "Genesis"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/ba9/ba94b4921dfb8e981097d1a430892ec8.jpg",
+      "https://media.rawg.io/media/screenshots/42c/42cf735e127d17f5e57e986811b8d5ba.jpg",
+      "https://media.rawg.io/media/screenshots/a5d/a5dc952c5d945d589ccf5e1743b75f2a.jpg",
+      "https://media.rawg.io/media/screenshots/3fb/3fb7c8143d6972440b877bea436fa3f1.jpg",
+      "https://media.rawg.io/media/screenshots/6d6/6d64144632c0dc652d969332082008f8.jpg",
+      "https://media.rawg.io/media/screenshots/81f/81fe92d6b5fbd1f414d19bc27e823acf.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T10:51:53.134Z"
+  },
+  {
+    "slug": "grand-theft-auto-5",
+    "name": "Grand Theft Auto V",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
+    "released": "2013-09-17",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f95/f9518b1d99210c0cae21fc09e95b4e31.jpg",
+      "https://media.rawg.io/media/screenshots/a5c/a5c95ea539c87d5f538763e16e18fb99.jpg",
+      "https://media.rawg.io/media/screenshots/a7e/a7e990bc574f4d34e03b5926361d1ee7.jpg",
+      "https://media.rawg.io/media/screenshots/eb0/eb0a2c0de9194a635fc0cd04f5a29ae7.jpg",
+      "https://media.rawg.io/media/screenshots/ec7/ec7f05fb82290fea9647b7879fe9a6bf.jpg",
+      "https://media.rawg.io/media/screenshots/260/260559fbefce0b36c66ae5e280c7d774.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T10:51:53.986Z"
+  },
+  {
+    "slug": "seabed",
+    "name": "SeaBed",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/3da/3da527c8120fdff3aa467dc40e2ba4f7.jpg",
+    "released": "2020-03-19",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Adventure"
+    ],
+    "platforms": [
+      "PC",
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a01/a01fa7455666b0ad355f59e21700c453.jpg",
+      "https://media.rawg.io/media/screenshots/7e2/7e2ed4bb6f2737b0781420d895f18783.jpg",
+      "https://media.rawg.io/media/screenshots/e00/e00909199da1a0977d47a56552890327.jpg",
+      "https://media.rawg.io/media/screenshots/095/095c52d697ca56d27246cc3509ae91ea.jpg",
+      "https://media.rawg.io/media/screenshots/4b2/4b2e50508d16654ace8a7fe80b816a7f.jpg",
+      "https://media.rawg.io/media/screenshots/3da/3da527c8120fdff3aa467dc40e2ba4f7.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-26T10:51:54.375Z"
   }
 ]
