@@ -29,7 +29,7 @@ Runs on its own 2-hour cron via GitHub Actions, or manually:
 pnpm ingest
 ```
 
-Requires `ANTHROPIC_API_KEY`. Writes `data/cards.json` + `data/seen.json` (dedup history). In CI, the workflow commits both, which is what actually triggers a redeploy — see the comment at the top of `.github/workflows/ingest.yml` for why a full rebuild (not just ISR revalidation) is required for brand-new cards. Required repo secrets/variables are documented there too.
+Summarizes/classifies/clusters against a local Ollama instance (no API key — install Ollama and run `ollama serve` locally; the GitHub Actions workflow installs and starts it automatically). Writes `data/cards.json` + `data/seen.json` (dedup history). In CI, the workflow commits both, which is what actually triggers a redeploy — see the comment at the top of `.github/workflows/ingest.yml` for why a full rebuild (not just ISR revalidation) is required for brand-new cards. Required repo secrets/variables are documented there too.
 
 ## Scripts
 

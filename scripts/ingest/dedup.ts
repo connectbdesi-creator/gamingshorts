@@ -1,3 +1,4 @@
+import { callOllamaJson } from "./providers/ollama-provider";
 import { slugifyGameName } from "./slugify";
 
 const STOPWORDS = new Set([
@@ -67,25 +68,76 @@ const DUPLICATE_THRESHOLD = 0.5;
 // leak coverage) fall back to the higher game-agnostic threshold.
 const GAME_MATCH_THRESHOLD = 0.3;
 
+// Below the "definite" thresholds above but above these, two headlines
+// aren't confidently the same story OR confidently unrelated by title
+// overlap alone — that middle band gets a real Ollama call to decide
+// (see confirmSameStoryWithOllama) instead of being silently treated as
+// "not a match", which is what a single-threshold heuristic would do.
+const AMBIGUOUS_GAME_MATCH_THRESHOLD = 0.15;
+const AMBIGUOUS_THRESHOLD = 0.25;
+
+export type StoryRelation = "match" | "ambiguous" | "no-match";
+
 /**
- * Decides whether two articles are coverage of the same underlying story —
- * used both to catch same-run duplicates before they become separate cards
- * and to match a new article against a recently-published card so outlets
- * get merged into one card's `sources` instead of spawning near-duplicates
- * (see run.ts). Deliberately a cheap heuristic (game tag + title token
- * overlap), not embeddings — good enough for the common "N outlets ran the
- * same wire story" case without the infra cost of a real similarity model.
+ * Cheap heuristic (game tag + title token overlap) classification of
+ * whether two articles are coverage of the same underlying story — cheap
+ * enough to run on every pair without an AI call. "match"/"no-match" are
+ * confident enough to act on directly; "ambiguous" needs confirmSameStory-
+ * WithOllama to resolve.
  */
-export function isSameStory(
+export function classifyStorySimilarity(
   a: { headline: string; gameLabel: string | null },
   b: { headline: string; gameLabel: string | null }
-): boolean {
+): StoryRelation {
   const similarity = titleSimilarity(a.headline, b.headline);
   const sameGame =
     a.gameLabel !== null &&
     b.gameLabel !== null &&
     slugifyGameName(a.gameLabel) === slugifyGameName(b.gameLabel);
 
-  if (sameGame && similarity >= GAME_MATCH_THRESHOLD) return true;
-  return similarity >= DUPLICATE_THRESHOLD;
+  if (sameGame) {
+    if (similarity >= GAME_MATCH_THRESHOLD) return "match";
+    if (similarity >= AMBIGUOUS_GAME_MATCH_THRESHOLD) return "ambiguous";
+    return "no-match";
+  }
+
+  if (similarity >= DUPLICATE_THRESHOLD) return "match";
+  if (similarity >= AMBIGUOUS_THRESHOLD) return "ambiguous";
+  return "no-match";
+}
+
+interface StoryLike {
+  headline: string;
+  summary: string;
+  sourceName: string;
+}
+
+function buildClusterConfirmPrompt(a: StoryLike, b: StoryLike): string {
+  return `The following two articles may be covering the same video game news story. Decide:
+- "merge": definitely the same underlying story, just covered by different outlets.
+- "possible_duplicate": likely related but not certainly the exact same story — should be kept separate.
+- "separate": actually distinct stories that just happen to share surface keywords or entities.
+
+1. [${a.sourceName}] ${a.headline}
+${a.summary}
+
+2. [${b.sourceName}] ${b.headline}
+${b.summary}
+
+Respond with ONLY a single valid JSON object, no markdown, no commentary, matching exactly this shape:
+{"decision": "merge"|"possible_duplicate"|"separate", "reason": string}`;
+}
+
+/**
+ * Confirms an "ambiguous" classifyStorySimilarity() verdict via Ollama —
+ * only called for the middle band where title-token overlap alone isn't
+ * confident either way (see run.ts's isSameStory). Defaults to false (keep
+ * separate) if Ollama is unreachable or returns anything but "merge" — the
+ * safer default, since publishing a near-duplicate pair is a much smaller
+ * problem than silently losing a source's coverage inside a wrongly-merged
+ * card.
+ */
+export async function confirmSameStoryWithOllama(a: StoryLike, b: StoryLike): Promise<boolean> {
+  const raw = await callOllamaJson(buildClusterConfirmPrompt(a, b));
+  return raw?.decision === "merge";
 }

@@ -5,55 +5,20 @@ import {
   sanitizePlatformTags,
   truncateToWordLimit,
   type SummarizedArticle,
+  type SummarizeOutcome,
 } from "./card-schema";
-import { anthropicProvider } from "./providers/anthropic-provider";
-import { geminiProvider } from "./providers/gemini-provider";
-import { groqProvider } from "./providers/groq-provider";
-import { openRouterProvider } from "./providers/openrouter-provider";
-import type { ModelProvider } from "./providers/types";
+import { ollamaProvider } from "./providers/ollama-provider";
+import { ruleBasedClassify } from "./rule-based";
 import { MAX_SUMMARY_WORDS, countWords } from "@/types/card";
+
+export type { SummarizeOutcome } from "./card-schema";
 
 const MAX_ATTEMPTS = 2;
 
-/**
- * "skipped" is distinct from "failed": it's a real content judgment (not
- * gaming news, or sensitive content — see is_gaming_news/is_sensitive in
- * card-schema.ts), not a transient error, so the caller should permanently
- * mark it seen instead of retrying it next run — unlike "failed", which is
- * usually a systemic issue (bad key, rate limit) worth retrying once
- * that's fixed.
- */
-export type SummarizeOutcome =
-  | { status: "ok"; card: SummarizedArticle }
-  | { status: "skipped"; reason: string }
-  | { status: "failed" };
-
-/**
- * Every configured provider, in priority order — OpenRouter/Anthropic
- * first (the paid tiers, when funded), Gemini/Groq as the free fallback
- * tier. Unlike a single "pick one" choice, summarizeArticle/mergeArticles
- * cascade through *all* of these per call: if OpenRouter is configured but
- * out of credits (a real failure, not just "not configured"), the very
- * next call automatically falls through to Anthropic, then Gemini, then
- * Groq, within the same run — a stale/broken key for one provider doesn't
- * stall the whole pipeline as long as another one works. Set
- * OPENROUTER_MODEL / ANTHROPIC_MODEL / GEMINI_MODEL / GROQ_MODEL to
- * override the default model for whichever provider(s) are configured.
- */
-export function getConfiguredProviders(): ModelProvider[] {
-  const providers: ModelProvider[] = [];
-  if (process.env.OPENROUTER_API_KEY) providers.push(openRouterProvider);
-  if (process.env.ANTHROPIC_API_KEY) providers.push(anthropicProvider);
-  if (process.env.GEMINI_API_KEY) providers.push(geminiProvider);
-  if (process.env.GROQ_API_KEY) providers.push(groqProvider);
-  return providers;
-}
-
 function skipReason(raw: Record<string, unknown>): string {
-  if (typeof raw.skip_reason === "string" && raw.skip_reason.trim()) {
-    return raw.skip_reason.trim();
-  }
-  return raw.is_sensitive === true ? "sensitive content" : "not gaming news";
+  const status = raw.status === "needs_review" ? "needs_review" : "skip";
+  const detail = typeof raw.reason === "string" && raw.reason.trim() ? raw.reason.trim() : "no reason given";
+  return `${status}: ${detail}`;
 }
 
 function toSummarizedArticle(raw: Record<string, unknown>): SummarizedArticle {
@@ -68,128 +33,105 @@ function toSummarizedArticle(raw: Record<string, unknown>): SummarizedArticle {
 }
 
 /**
- * Summarizes one article into card fields via a forced tool call (reliable
- * structured output vs. parsing free text). Retries once if the model goes
- * over the word cap; if it's still over after that, hard-truncates at the
- * word boundary rather than dropping the article — CLAUDE.md's 60-word cap
- * is "no exceptions", so the guarantee has to hold even when the model
- * doesn't cooperate. Rejects articles the model judges aren't actually
- * gaming news, or are sensitive content (see is_gaming_news/is_sensitive in
- * card-schema.ts) — several sources (Kotaku, Polygon, etc.) run a general
- * entertainment/tech feed alongside their gaming coverage, not just games.
+ * Summarizes one article into card fields via a local Ollama call.
+ * Retries once if the model goes over the word cap; if it's still over
+ * after that, hard-truncates at the word boundary rather than dropping the
+ * article — CLAUDE.md's 60-word cap is "no exceptions", so the guarantee
+ * has to hold even when the model doesn't cooperate. Rejects articles the
+ * model judges aren't actually gaming news, or are sensitive/ambiguous (see
+ * the publish/skip/needs_review status in card-schema.ts) — several sources
+ * (Kotaku, Polygon, etc.) run a general entertainment/tech feed alongside
+ * their gaming coverage, not just games.
  *
- * Cascades through every configured provider (see getConfiguredProviders)
- * — a provider whose call fails outright (network/auth/credits error, or
- * an unparseable/invalid response) is skipped in favor of the next one,
- * within this same call, rather than the whole article failing.
+ * Falls back to keyword-based rule classification (rule-based.ts) only if
+ * Ollama itself fails to respond at all (down, timed out, out of memory) —
+ * this should be rare since there's no billing or rate limit to hit, unlike
+ * a hosted API.
  */
 export async function summarizeArticle(article: {
   title: string;
   content: string;
   sourceName: string;
 }): Promise<SummarizeOutcome> {
-  const providers = getConfiguredProviders();
-  if (providers.length === 0) {
-    throw new Error(
-      "No model provider configured — set OPENROUTER_API_KEY, ANTHROPIC_API_KEY, GEMINI_API_KEY, or GROQ_API_KEY."
-    );
-  }
+  let feedback: string | undefined;
+  let lastResult: SummarizedArticle | null = null;
 
-  for (const provider of providers) {
-    let feedback: string | undefined;
-    let lastResult: SummarizedArticle | null = null;
-    let providerFailed = false;
+  for (let attempt = 0; attempt < MAX_ATTEMPTS; attempt++) {
+    const raw = await ollamaProvider.callForCard(buildPrompt(article, feedback));
+    if (!raw) break;
 
-    for (let attempt = 0; attempt < MAX_ATTEMPTS; attempt++) {
-      const raw = await provider.callForCard(buildPrompt(article, feedback));
-      if (!raw) {
-        providerFailed = true;
-        break;
-      }
-
-      if (raw.is_gaming_news === false || raw.is_sensitive === true) {
-        return { status: "skipped", reason: skipReason(raw) };
-      }
-
-      if (!isValidCategory(raw.category)) {
-        console.error(
-          `  ! Invalid category "${raw.category}" for "${article.title}" via ${provider.name}, trying next provider`
-        );
-        providerFailed = true;
-        break;
-      }
-
-      const input = toSummarizedArticle(raw);
-      lastResult = input;
-
-      if (countWords(input.summary) <= MAX_SUMMARY_WORDS) {
-        return { status: "ok", card: input };
-      }
-
-      feedback = `Your previous summary was ${countWords(input.summary)} words — over the ${MAX_SUMMARY_WORDS}-word limit. Rewrite it shorter.`;
+    if (raw.status === "skip" || raw.status === "needs_review") {
+      return { status: "skipped", reason: skipReason(raw), providerUsed: "ollama" };
     }
 
-    if (!providerFailed && lastResult) {
-      lastResult.summary = truncateToWordLimit(lastResult.summary, MAX_SUMMARY_WORDS);
-      return { status: "ok", card: lastResult };
+    if (raw.status !== "publish" || !isValidCategory(raw.category)) {
+      console.error(
+        `  ! Ollama returned an invalid response for "${article.title}" (status=${String(raw.status)}, category=${String(raw.category)})`
+      );
+      break;
     }
-    // providerFailed (or no usable result) — fall through to the next provider.
+
+    const input = toSummarizedArticle(raw);
+    lastResult = input;
+
+    if (countWords(input.summary) <= MAX_SUMMARY_WORDS) {
+      return { status: "ok", card: input, providerUsed: "ollama" };
+    }
+
+    feedback = `Your previous summary was ${countWords(input.summary)} words — over the ${MAX_SUMMARY_WORDS}-word limit. Rewrite it shorter.`;
   }
 
-  return { status: "failed" };
+  if (lastResult) {
+    lastResult.summary = truncateToWordLimit(lastResult.summary, MAX_SUMMARY_WORDS);
+    return { status: "ok", card: lastResult, providerUsed: "ollama" };
+  }
+
+  console.error(`  ! Ollama unavailable for "${article.title}" — using rule-based fallback`);
+  return ruleBasedClassify(article);
 }
 
 /**
  * Combines multiple already-classified articles about the same story (see
- * dedup.ts's isSameStory) into a single card via one call, instead of
- * picking one arbitrarily or publishing several near-duplicates. Every
- * contributing article has already individually passed summarizeArticle's
- * classification, so this doesn't re-check is_gaming_news/is_sensitive —
- * buildMergePrompt tells the model they're pre-confirmed clean. Cascades
- * across providers the same way summarizeArticle does.
+ * dedup.ts) into a single card via one Ollama call, instead of picking one
+ * arbitrarily or publishing several near-duplicates. Every contributing
+ * article has already individually passed summarizeArticle's
+ * classification, so this doesn't re-check status — buildMergePrompt tells
+ * the model they're pre-confirmed clean.
+ *
+ * Returns null (rather than a rule-based merge) on failure — there's no
+ * reasonable keyword-based way to combine multiple articles into one
+ * synthesized summary, so the caller (run.ts) publishes each article in the
+ * cluster as its own card instead, which is a fine fallback since every one
+ * of them already has a real per-article summary from summarizeArticle.
  */
 export async function mergeArticles(
   articles: { title: string; content: string; sourceName: string }[]
 ): Promise<SummarizedArticle | null> {
-  const providers = getConfiguredProviders();
-  if (providers.length === 0) {
-    throw new Error(
-      "No model provider configured — set OPENROUTER_API_KEY, ANTHROPIC_API_KEY, GEMINI_API_KEY, or GROQ_API_KEY."
-    );
+  let feedback: string | undefined;
+  let lastResult: SummarizedArticle | null = null;
+
+  for (let attempt = 0; attempt < MAX_ATTEMPTS; attempt++) {
+    const raw = await ollamaProvider.callForCard(buildMergePrompt(articles, feedback));
+    if (!raw) break;
+
+    if (!isValidCategory(raw.category)) {
+      console.error(`  ! Ollama returned an invalid category for merged cluster`);
+      break;
+    }
+
+    const input = toSummarizedArticle(raw);
+    lastResult = input;
+
+    if (countWords(input.summary) <= MAX_SUMMARY_WORDS) {
+      return input;
+    }
+
+    feedback = `Your previous summary was ${countWords(input.summary)} words — over the ${MAX_SUMMARY_WORDS}-word limit. Rewrite it shorter.`;
   }
 
-  for (const provider of providers) {
-    let feedback: string | undefined;
-    let lastResult: SummarizedArticle | null = null;
-    let providerFailed = false;
-
-    for (let attempt = 0; attempt < MAX_ATTEMPTS; attempt++) {
-      const raw = await provider.callForCard(buildMergePrompt(articles, feedback));
-      if (!raw) {
-        providerFailed = true;
-        break;
-      }
-
-      if (!isValidCategory(raw.category)) {
-        console.error(`  ! Invalid category for merged cluster via ${provider.name}, trying next provider`);
-        providerFailed = true;
-        break;
-      }
-
-      const input = toSummarizedArticle(raw);
-      lastResult = input;
-
-      if (countWords(input.summary) <= MAX_SUMMARY_WORDS) {
-        return input;
-      }
-
-      feedback = `Your previous summary was ${countWords(input.summary)} words — over the ${MAX_SUMMARY_WORDS}-word limit. Rewrite it shorter.`;
-    }
-
-    if (!providerFailed && lastResult) {
-      lastResult.summary = truncateToWordLimit(lastResult.summary, MAX_SUMMARY_WORDS);
-      return lastResult;
-    }
+  if (lastResult) {
+    lastResult.summary = truncateToWordLimit(lastResult.summary, MAX_SUMMARY_WORDS);
+    return lastResult;
   }
 
   return null;

@@ -52,8 +52,3 @@ next-env.d.ts
 # meant for spot-checking the classifier/clustering via the workflow's
 # uploaded artifact, not part of the published site's data
 /data/ingestion-log.json
-
-# standalone AI-first pipeline (scripts/fetch-updates.mjs) — its own
-# separate experiment, not wired into the live site's data/cards.json
-/data/fetch-updates-output.json
-/data/fetch-updates-seen.json

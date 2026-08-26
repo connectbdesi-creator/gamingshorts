@@ -1,23 +1,18 @@
-# Runs the RSS -> Claude -> data/cards.json pipeline (scripts/ingest/run.ts)
+# Runs the RSS -> Ollama -> data/cards.json pipeline (scripts/ingest/run.ts)
 # on a 2-hour cron, matching CLAUDE.md's baseline refresh cadence, and
 # commits the result. That commit is what actually refreshes the site: it
 # triggers Vercel's git-integration rebuild, which is required for any
 # brand-new card slugs to get their own static /news/[slug] page (ISR's
 # revalidate only refreshes pages that already exist from a prior build).
 #
+# Summarization/classification/clustering runs against a local Ollama
+# instance, installed and started on the runner below — no API key, no
+# billing, no rate limit. Rule-based keyword classification
+# (scripts/ingest/rule-based.ts) is only used as a fallback if Ollama itself
+# fails to respond for a given call.
+#
 # Required, under Settings -> Secrets and variables -> Actions:
 #   Secrets:
-#     Set ANY of these four for summarization — every one that's set gets
-#     tried in this priority order per article (OpenRouter -> Anthropic ->
-#     Gemini -> Groq — see getConfiguredProviders in scripts/ingest/
-#     summarize.ts), falling through to the next configured provider if one
-#     fails outright (bad key, no credits, etc.), not just at startup:
-#       OPENROUTER_API_KEY     openrouter.ai key. Optionally pair with the
-#                               OPENROUTER_MODEL variable below to pick a
-#                               specific/cheaper model.
-#       ANTHROPIC_API_KEY      Anthropic API key, used directly.
-#       GEMINI_API_KEY         Free key at aistudio.google.com/apikey.
-#       GROQ_API_KEY           Free key at console.groq.com/keys.
 #     REVALIDATE_SECRET        Must match the app's REVALIDATE_SECRET env var.
 #     SUPABASE_SERVICE_ROLE_KEY  Used to look up game_follows/push_subscriptions
 #                                when sending push notifications. Optional —
@@ -32,10 +27,8 @@
 #                               the on-demand revalidate call is skipped without it.
 #     NEXT_PUBLIC_SUPABASE_URL   Same value as the app's env var.
 #     NEXT_PUBLIC_VAPID_PUBLIC_KEY  Same value as the app's env var.
-#     OPENROUTER_MODEL         Optional override, e.g. a free/cheaper model.
-#     ANTHROPIC_MODEL          Optional override for the Anthropic path.
-#     GEMINI_MODEL             Optional override for the Gemini path.
-#     GROQ_MODEL               Optional override for the Groq path.
+#     OLLAMA_MODEL              Optional override, e.g. gemma2:2b for a
+#                               smaller/faster model. Defaults to llama3.2:3b.
 
 name: Ingest gaming news
 
@@ -55,6 +48,12 @@ permissions:
 jobs:
   ingest:
     runs-on: ubuntu-latest
+    env:
+      OLLAMA_MODEL: ${{ vars.OLLAMA_MODEL || 'llama3.2:3b' }}
+      # Explicit model storage dir so the cache step below has a stable,
+      # known path regardless of how the install script sets up the local
+      # Ollama service on the runner.
+      OLLAMA_MODELS: ${{ github.workspace }}/.ollama-models
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -71,16 +70,30 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
+      - name: Install Ollama
+        run: curl -fsSL https://ollama.com/install.sh | sh
+
+      - name: Cache Ollama models
+        id: ollama-cache
+        uses: actions/cache@v4
+        with:
+          path: ${{ env.OLLAMA_MODELS }}
+          key: ollama-models-${{ env.OLLAMA_MODEL }}
+
+      - name: Start Ollama server
+        run: |
+          ollama serve &
+          for i in $(seq 1 30); do
+            curl -sf http://localhost:11434/api/version && break
+            sleep 1
+          done
+
+      - name: Pull Ollama model
+        if: steps.ollama-cache.outputs.cache-hit != 'true'
+        run: ollama pull "$OLLAMA_MODEL"
+
       - name: Run ingestion
         env:
-          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-          OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          GROQ_MODEL: ${{ vars.GROQ_MODEL }}
           FORCE_REFRESH: ${{ inputs.force_refresh || 'false' }}
           NEXT_PUBLIC_SUPABASE_URL: ${{ vars.NEXT_PUBLIC_SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
@@ -90,7 +103,7 @@ jobs:
           RAWG_API_KEY: ${{ secrets.RAWG_API_KEY }}
         run: pnpm ingest
 
-      - name: Upload QC log (skipped articles + merged clusters)
+      - name: Upload QC log (skipped articles + merged clusters + provider breakdown)
         if: always()
         uses: actions/upload-artifact@v4
         with:

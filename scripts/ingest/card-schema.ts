@@ -2,10 +2,6 @@ import { CATEGORIES, type CategorySlug } from "@/lib/categories";
 import { PLATFORMS, type PlatformSlug } from "@/lib/platforms";
 import { MAX_SUMMARY_WORDS } from "@/types/card";
 
-export const CARD_TOOL_NAME = "emit_card";
-export const CARD_TOOL_DESCRIPTION =
-  "Emit a structured video game news card summarizing the given article.";
-
 export interface SummarizedArticle {
   headline: string;
   summary: string;
@@ -17,73 +13,21 @@ export interface SummarizedArticle {
 }
 
 /**
- * Plain JSON Schema for the card tool's arguments — shared across
- * providers since Anthropic's `input_schema` and OpenAI/OpenRouter's
- * `function.parameters` are both just JSON Schema underneath, only the
- * outer wrapper shape differs (see providers/*.ts).
+ * "skipped" is a real content judgment — not gaming news, or gaming-adjacent
+ * but sensitive/ambiguous (see the publish/skip/needs_review status in the
+ * prompt below) — not a transient error, so the caller marks it permanently
+ * seen instead of retrying it next run.
  */
-export const CARD_JSON_SCHEMA = {
-  type: "object",
-  properties: {
-    is_gaming_news: {
-      type: "boolean",
-      description:
-        "True only if the article is substantively about video games, game studios, publishers, platforms, esports, or the video game business. Articles about movies, TV shows, comics, general pop culture, or celebrity news are NOT gaming news, even if published by a gaming outlet or if they mention a game in passing.",
-    },
-    is_sensitive: {
-      type: "boolean",
-      description:
-        "True if the article involves NSFW/explicit leaked content, real-world violence, arrests, protests, or other content inappropriate for a general gaming news audience — even if it's otherwise on-topic gaming news.",
-    },
-    skip_reason: {
-      type: ["string", "null"],
-      description:
-        "A short reason (a few words) for why is_gaming_news is false or is_sensitive is true, for QC logging — e.g. \"movie news, not gaming\" or \"NSFW leaked content\". Null when both flags are clean (is_gaming_news true, is_sensitive false).",
-    },
-    headline: {
-      type: "string",
-      description: "Rewritten headline in your own words — do not copy the source's title verbatim.",
-    },
-    summary: {
-      type: "string",
-      description: `A rewritten, standalone summary in your own words, ${MAX_SUMMARY_WORDS} words or fewer. Never copy sentences verbatim from the source article — this must be an original paraphrase.`,
-    },
-    category: {
-      type: "string",
-      enum: CATEGORIES.map((c) => c.slug),
-      description: "The single best-fitting category for this article.",
-    },
-    platform_tags: {
-      type: "array",
-      items: { type: "string", enum: PLATFORMS.map((p) => p.slug) },
-      description:
-        "Platforms this news concerns. Empty array for news that isn't platform-specific (e.g. business/industry stories).",
-    },
-    hype_signal: {
-      type: ["integer", "null"],
-      description:
-        "0-100 estimate of how exciting/important this is to a gaming audience. Use null when a hype score wouldn't be meaningful for this kind of story (e.g. routine patch notes, procedural business news).",
-    },
-    game_label: {
-      type: ["string", "null"],
-      description:
-        "The display name of the single specific game this article is primarily about, e.g. \"Elden Ring\" or \"VALORANT\" — used so readers can follow that game and get notified of future news about it. Use null for stories not about one specific game (industry/business news, storewide sales, multi-game roundups). Use the game's most common short name, not a version-specific subtitle unless that's how it's actually branded (e.g. \"Overwatch 2\", not \"Overwatch\").",
-    },
-  },
-  required: [
-    "is_gaming_news",
-    "is_sensitive",
-    "skip_reason",
-    "headline",
-    "summary",
-    "category",
-    "platform_tags",
-    "hype_signal",
-    "game_label",
-  ],
-} as const;
+export type SummarizeOutcome =
+  | { status: "ok"; card: SummarizedArticle; providerUsed: "ollama" | "rule-based" }
+  | { status: "skipped"; reason: string; providerUsed: "ollama" | "rule-based" };
 
-const SYSTEM_PREAMBLE = `You are filtering and summarizing articles for a video game industry news site. First classify the article using is_gaming_news and is_sensitive (see their descriptions). If is_gaming_news is false, or is_sensitive is true, set skip_reason to a short explanation and fill the remaining fields with your best guess anyway — they'll be discarded, only the flags and reason matter. Otherwise set skip_reason to null and summarize it as a video game news card for a 60-word Inshorts-style feed.`;
+const SYSTEM_PREAMBLE = `You are a strict content classifier and summarizer for a video game news aggregator site. Decide a status for the article below:
+- "publish": the article is clearly, substantively about video games — a release, review, patch/update, esports event, game industry business news, or a game storefront deal.
+- "skip": the article is clearly NOT gaming news — movies, TV shows, comics, general pop culture, or celebrity news, even if published by a gaming outlet or mentioning a game in passing.
+- "needs_review": the article is gaming-adjacent but involves sensitive content (arrests, harassment, protests, explicit/NSFW leaked material, real-world violence) inappropriate for a general gaming news audience, or its gaming relevance is genuinely ambiguous.
+
+If status is "publish", also fill in headline, summary, category, platform_tags, hype_signal, and game_label. Otherwise set reason to a short explanation and leave those fields null/empty — they'll be discarded, only the status and reason matter.`;
 
 export function buildPrompt(
   article: { title: string; content: string; sourceName: string },
@@ -104,13 +48,9 @@ Rewrite everything in your own words — do not copy sentences from the article.
 
 /**
  * Prompt for merging multiple already-classified articles about the same
- * underlying story (see dedup.ts's isSameStory) into a single card. Reuses
- * CARD_JSON_SCHEMA/CARD_TOOL as-is rather than a separate tool definition —
- * every provider's tool is fixed at module scope (see providers/*.ts), and
- * the merge output is just a subset of the same card fields, so a second
- * tool isn't worth the added plumbing. is_gaming_news/is_sensitive are
- * explicitly told to pass clean since every contributing article already
- * individually cleared classification.
+ * underlying story (see dedup.ts) into a single card. Every contributing
+ * article has already individually passed buildPrompt's classification, so
+ * this tells the model to always report status "publish".
  */
 export function buildMergePrompt(
   articles: { title: string; content: string; sourceName: string }[],
@@ -120,7 +60,7 @@ export function buildMergePrompt(
     .map((a, i) => `${i + 1}. Source: ${a.sourceName}\nHeadline: ${a.title}\n${a.content.slice(0, 1000)}`)
     .join("\n\n");
 
-  return `The following ${articles.length} articles all cover the same underlying video game news story from different outlets — every one has already been individually confirmed as legitimate, on-topic, non-sensitive gaming news, so set is_gaming_news to true, is_sensitive to false, and skip_reason to null.
+  return `The following ${articles.length} articles all cover the same underlying video game news story from different outlets — every one has already been individually confirmed as legitimate, on-topic, non-sensitive gaming news, so always report status "publish" with reason null.
 
 ${articlesBlock}
 
@@ -128,16 +68,14 @@ Write ONE combined card for this story: a single rewritten headline and a ${MAX_
 }
 
 /**
- * Anthropic/OpenRouter get the field shape via native tool-calling
- * (CARD_JSON_SCHEMA passed as the tool's parameters — see providers/*.ts),
- * so buildPrompt/buildMergePrompt don't need to spell it out in words.
- * Gemini and Groq are called in plain JSON mode instead (no forced-schema
- * tool call), so their prompt needs the shape written out explicitly —
- * this appends that shared description to either base prompt.
+ * Ollama is called in plain JSON mode (format: "json" on /api/generate, no
+ * native tool-calling schema), so the expected shape has to be spelled out
+ * in the prompt text itself — this appends that shared description to
+ * either base prompt.
  */
 function buildCardShapeInstructions(): string {
   return `Respond with ONLY a single valid JSON object, no markdown formatting, no commentary, matching exactly this shape:
-{"is_gaming_news": boolean, "is_sensitive": boolean, "skip_reason": string|null, "headline": string, "summary": string, "category": one of ${JSON.stringify(CATEGORIES.map((c) => c.slug))}, "platform_tags": array using only values from ${JSON.stringify(PLATFORMS.map((p) => p.slug))}, "hype_signal": integer 0-100 or null, "game_label": string|null}`;
+{"status": "publish"|"skip"|"needs_review", "reason": string|null, "headline": string|null, "summary": string|null, "category": one of ${JSON.stringify(CATEGORIES.map((c) => c.slug))} or null, "platform_tags": array using only values from ${JSON.stringify(PLATFORMS.map((p) => p.slug))}, "hype_signal": integer 0-100 or null, "game_label": string|null}`;
 }
 
 export function toJsonModePrompt(basePrompt: string): string {

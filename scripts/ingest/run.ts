@@ -2,10 +2,10 @@ import fs from "node:fs";
 import path from "node:path";
 import Parser from "rss-parser";
 import type { SummarizedArticle } from "./card-schema";
-import { isSameStory } from "./dedup";
+import { classifyStorySimilarity, confirmSameStoryWithOllama } from "./dedup";
 import { fetchGameInfo } from "./game-info";
 import { sendPushForNewCards } from "./push";
-import { getConfiguredProviders, mergeArticles, summarizeArticle } from "./summarize";
+import { mergeArticles, summarizeArticle } from "./summarize";
 import { RSS_SOURCES, type RssSource } from "./sources";
 import { hashId, slugify, slugifyGameName } from "./slugify";
 import { isWithinHours } from "@/lib/format";
@@ -73,6 +73,23 @@ interface MergedClusterLogEntry {
   mode: "new-cluster" | "matched-existing";
 }
 
+/**
+ * Resolves classifyStorySimilarity's cheap heuristic verdict into a final
+ * yes/no — "match"/"no-match" are acted on directly, "ambiguous" gets a real
+ * Ollama call to decide (see dedup.ts's confirmSameStoryWithOllama).
+ */
+async function isSameStory(
+  a: { headline: string; gameLabel: string | null; summary: string; sourceName: string },
+  b: { headline: string; gameLabel: string | null; summary: string; sourceName: string }
+): Promise<boolean> {
+  const relation = classifyStorySimilarity(a, b);
+  if (relation === "match") return true;
+  if (relation === "no-match") return false;
+
+  console.log(`  ~ Ambiguous match ("${a.headline}" vs "${b.headline}") — confirming with Ollama`);
+  return confirmSameStoryWithOllama(a, b);
+}
+
 const parser = new Parser<object, { enclosure?: { url?: string }; mediaContent?: MediaItem[] }>({
   headers: {
     // Several outlets (e.g. Xbox Wire) block the default Node UA.
@@ -130,13 +147,9 @@ function buildCard(
 }
 
 async function run() {
-  const providers = getConfiguredProviders();
-  if (providers.length === 0) {
-    throw new Error(
-      "No model provider configured — set OPENROUTER_API_KEY, ANTHROPIC_API_KEY, GEMINI_API_KEY, or GROQ_API_KEY before running ingestion."
-    );
-  }
-  console.log(`Provider fallback order: ${providers.map((p) => p.name).join(" -> ")}\n`);
+  const startedAt = Date.now();
+  const model = process.env.OLLAMA_MODEL || "llama3.2:3b";
+  console.log(`Model provider: Ollama (${model}), rule-based keyword classification as fallback\n`);
 
   fs.mkdirSync(DATA_DIR, { recursive: true });
 
@@ -144,7 +157,7 @@ async function run() {
   const seen = new Set<string>(FORCE_REFRESH ? [] : readJson<string[]>(SEEN_PATH, []));
   const skippedLog: SkippedLogEntry[] = [];
   const mergedClustersLog: MergedClusterLogEntry[] = [];
-  let failedCount = 0;
+  const providerBreakdown = { ollama: 0, "rule-based": 0 };
 
   // Phase 1: gather every not-yet-seen item across all feeds first.
   const candidates: Candidate[] = [];
@@ -170,7 +183,7 @@ async function run() {
     }
   }
 
-  // Phase 2: classify + draft-summarize each candidate (one combined tool
+  // Phase 2: classify + draft-summarize each candidate (one combined Ollama
   // call — see card-schema.ts). Non-gaming/sensitive articles are rejected
   // here and never reach clustering or publication. The MAX_NEW_TOTAL cap
   // bounds how many candidates get classified per run (a cost/rate-limit
@@ -178,22 +191,10 @@ async function run() {
   // against successful classifications, so a noisy run (lots of rejects)
   // still processes enough candidates to find MAX_NEW_TOTAL real stories.
   const drafts: Draft[] = [];
-  let consecutiveFailures = 0;
+  let consecutiveRuleBasedFallbacks = 0;
+  let warnedOllamaDown = false;
   for (const candidate of candidates) {
     if (drafts.length >= MAX_NEW_TOTAL) break;
-
-    // A run-ending failure (bad/expired key, provider outage, exhausted
-    // rate limit) doesn't stop the loop on its own — "failed" only skips
-    // that one candidate — so without this it'd burn through every
-    // remaining candidate (up to MAX_NEW_PER_SOURCE * RSS_SOURCES.length,
-    // ~100+) making the exact same failing call each time. 5 in a row is a
-    // clear enough signal that this run isn't going to succeed.
-    if (consecutiveFailures >= 5) {
-      console.error(
-        `  ! ${consecutiveFailures} consecutive summarization failures — stopping this run early instead of repeating the same failure through the rest of the candidates.`
-      );
-      break;
-    }
 
     const content =
       candidate.item.contentSnippet ?? candidate.item.content ?? candidate.item.summary ?? candidate.title;
@@ -205,22 +206,30 @@ async function run() {
       sourceName: candidate.source.name,
     });
 
+    providerBreakdown[outcome.providerUsed]++;
+    // Ollama failing outright (not "the model judged this unfit") repeats
+    // identically for every remaining candidate — worth one clear warning
+    // rather than a wall of identical per-candidate errors, but there's no
+    // need to stop the run: rule-based fallback still produces a real,
+    // usable (if rougher) card for every candidate.
+    if (outcome.providerUsed === "rule-based") {
+      consecutiveRuleBasedFallbacks++;
+      if (consecutiveRuleBasedFallbacks >= 5 && !warnedOllamaDown) {
+        warnedOllamaDown = true;
+        console.error(
+          "  ! 5 consecutive rule-based fallbacks — Ollama looks unreachable for this run. Continuing with rule-based classification for the rest of the candidates."
+        );
+      }
+    } else {
+      consecutiveRuleBasedFallbacks = 0;
+    }
+
     if (outcome.status === "skipped") {
-      console.log(`  = Skipped (${outcome.reason}): "${candidate.title}" [${candidate.source.name}]`);
+      console.log(`  = Skipped (${outcome.reason}) via ${outcome.providerUsed}: "${candidate.title}" [${candidate.source.name}]`);
       skippedLog.push({ source: candidate.source.name, title: candidate.title, reason: outcome.reason });
       // Marked seen — this is a content judgment, not a transient failure,
       // so it shouldn't be retried every run forever.
       seen.add(candidate.itemId);
-      consecutiveFailures = 0;
-      continue;
-    }
-
-    if (outcome.status === "failed") {
-      console.error(`  ! Failed (will retry next run): "${candidate.title}"`);
-      // Not marked seen — usually a systemic issue (bad key, rate limit),
-      // not something wrong with this specific article.
-      failedCount++;
-      consecutiveFailures++;
       continue;
     }
 
@@ -229,7 +238,6 @@ async function run() {
       (candidate.item.pubDate ? new Date(candidate.item.pubDate).toISOString() : new Date().toISOString());
 
     drafts.push({ candidate, summary: outcome.card, content: content.slice(0, 3000), publishedAt });
-    consecutiveFailures = 0;
   }
 
   // Phase 3: clustering. First, fold any draft that covers the same story
@@ -239,12 +247,22 @@ async function run() {
   const unmatchedDrafts: Draft[] = [];
 
   for (const draft of drafts) {
-    const match = existingRecent.find((c) =>
-      isSameStory(
-        { headline: draft.candidate.title, gameLabel: draft.summary.game_label },
-        { headline: c.headline, gameLabel: c.game_label }
-      )
-    );
+    let match: Card | undefined;
+    for (const c of existingRecent) {
+      const same = await isSameStory(
+        {
+          headline: draft.candidate.title,
+          gameLabel: draft.summary.game_label,
+          summary: draft.summary.summary,
+          sourceName: draft.candidate.source.name,
+        },
+        { headline: c.headline, gameLabel: c.game_label, summary: c.summary, sourceName: c.sources[0]?.name ?? "unknown" }
+      );
+      if (same) {
+        match = c;
+        break;
+      }
+    }
 
     if (match) {
       const alreadyCredited = match.sources.some((s) => s.url === draft.candidate.link);
@@ -277,12 +295,27 @@ async function run() {
 
     for (let j = i + 1; j < unmatchedDrafts.length; j++) {
       if (consumed.has(j)) continue;
-      const matchesGroup = group.some((g) =>
-        isSameStory(
-          { headline: g.candidate.title, gameLabel: g.summary.game_label },
-          { headline: unmatchedDrafts[j].candidate.title, gameLabel: unmatchedDrafts[j].summary.game_label }
-        )
-      );
+      let matchesGroup = false;
+      for (const g of group) {
+        const same = await isSameStory(
+          {
+            headline: g.candidate.title,
+            gameLabel: g.summary.game_label,
+            summary: g.summary.summary,
+            sourceName: g.candidate.source.name,
+          },
+          {
+            headline: unmatchedDrafts[j].candidate.title,
+            gameLabel: unmatchedDrafts[j].summary.game_label,
+            summary: unmatchedDrafts[j].summary.summary,
+            sourceName: unmatchedDrafts[j].candidate.source.name,
+          }
+        );
+        if (same) {
+          matchesGroup = true;
+          break;
+        }
+      }
       if (matchesGroup) {
         group.push(unmatchedDrafts[j]);
         consumed.add(j);
@@ -361,18 +394,22 @@ async function run() {
   // "when did the cron last check", not "when did it last find something",
   // which is what the header's last-refresh indicator actually needs.
   writeJson(META_PATH, { lastRunAt: new Date().toISOString() });
+  const runTimeMs = Date.now() - startedAt;
   writeJson(LOG_PATH, {
     generatedAt: new Date().toISOString(),
+    runTimeMs,
+    model,
+    providerBreakdown,
     candidatesConsidered: candidates.length,
     newCardsPublished: newCards.length,
-    failedCount,
     skipped: skippedLog,
     mergedClusters: mergedClustersLog,
   });
 
   console.log(
-    `\nDone. ${newCards.length} new card(s) added (${skippedLog.length} skipped, ${mergedClustersLog.length} merged, ${failedCount} failed), ${merged.length} total in data/cards.json.`
+    `\nDone in ${(runTimeMs / 1000).toFixed(1)}s. ${newCards.length} new card(s) added (${skippedLog.length} skipped, ${mergedClustersLog.length} merged), ${merged.length} total in data/cards.json.`
   );
+  console.log(`Provider usage — ollama: ${providerBreakdown.ollama}, rule-based: ${providerBreakdown["rule-based"]}`);
 
   // Scans the full merged set, not just newCards — a game can already have
   // cards from before RAWG_API_KEY was configured (or from before it was
