@@ -13,13 +13,20 @@ export const metadata: Metadata = {
 };
 
 const FRESH_WINDOW_HOURS = 24;
+// Once someone picks a specific game from the filter, show its recent
+// history rather than just whatever happened to publish in the last 24h —
+// see FilterableCardGrid's extendedCards prop. 30 days, matching how far
+// back the Release Calendar's own "upcoming" framing implicitly looks.
+const GAME_FILTER_WINDOW_HOURS = 24 * 30;
 
 export default function HomePage() {
-  // Only the last 24h shows on the homepage — older cards aren't deleted,
-  // they just stop appearing here. They're still fully reachable via their
-  // own /news/[slug] page, their category page, and (most usefully) their
-  // /game/[slug] page, which is unfiltered by design.
-  const freshCards = getAllCards().filter((c) => isWithinHours(c.published_at, FRESH_WINDOW_HOURS));
+  // Only the last 24h shows on the homepage by default — older cards
+  // aren't deleted, they just stop appearing here. They're still fully
+  // reachable via their own /news/[slug] page, their category page, and
+  // (most usefully) their /game/[slug] page, which is unfiltered by design.
+  const allCards = getAllCards();
+  const freshCards = allCards.filter((c) => isWithinHours(c.published_at, FRESH_WINDOW_HOURS));
+  const gameFilterCards = allCards.filter((c) => isWithinHours(c.published_at, GAME_FILTER_WINDOW_HOURS));
 
   return (
     <div className="mx-auto w-full max-w-6xl px-4 py-6 sm:py-10">
@@ -27,7 +34,7 @@ export default function HomePage() {
         <h1 className="mb-4 text-center text-xl font-bold text-foreground">
           Latest Gaming News in Last 24 Hours
         </h1>
-        <FilterableCardGrid cards={freshCards} showCategoryTabs />
+        <FilterableCardGrid cards={freshCards} extendedCards={gameFilterCards} showCategoryTabs />
       </div>
     </div>
   );
