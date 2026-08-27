@@ -57,7 +57,7 @@ export async function subscribeToPush(): Promise<void> {
     throw new Error("Browser returned an incomplete push subscription.");
   }
 
-  const supabase = getSupabaseBrowserClient();
+  const supabase = await getSupabaseBrowserClient();
   const { error } = await supabase.from("push_subscriptions").insert({
     visitor_id: getVisitorId(),
     endpoint: json.endpoint,
@@ -82,7 +82,7 @@ export async function unsubscribeFromPush(): Promise<void> {
   await subscription.unsubscribe();
 
   try {
-    const supabase = getSupabaseBrowserClient();
+    const supabase = await getSupabaseBrowserClient();
     await supabase.from("push_subscriptions").delete().eq("endpoint", endpoint);
   } catch {
     // Supabase not configured — the browser-side unsubscribe above still

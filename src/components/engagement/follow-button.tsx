@@ -24,7 +24,7 @@ export function FollowButton({ gameSlug }: { gameSlug: string }) {
     async function load() {
       let supabase;
       try {
-        supabase = getSupabaseBrowserClient();
+        supabase = await getSupabaseBrowserClient();
       } catch {
         return;
       }
@@ -53,7 +53,7 @@ export function FollowButton({ gameSlug }: { gameSlug: string }) {
 
     let supabase;
     try {
-      supabase = getSupabaseBrowserClient();
+      supabase = await getSupabaseBrowserClient();
     } catch {
       return;
     }

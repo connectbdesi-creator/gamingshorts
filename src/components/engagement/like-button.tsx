@@ -32,7 +32,7 @@ export function LikeButton({
     async function load() {
       let supabase;
       try {
-        supabase = getSupabaseBrowserClient();
+        supabase = await getSupabaseBrowserClient();
       } catch {
         return;
       }
@@ -68,7 +68,7 @@ export function LikeButton({
 
     let supabase;
     try {
-      supabase = getSupabaseBrowserClient();
+      supabase = await getSupabaseBrowserClient();
     } catch {
       return;
     }

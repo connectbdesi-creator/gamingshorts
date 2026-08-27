@@ -131,7 +131,7 @@ export function SwipeReader({
               key={card.id}
               className="relative flex h-full w-full snap-start flex-col [scroll-snap-stop:always]"
             >
-              <div className="relative h-[45%] w-full shrink-0 sm:h-[55%]">
+              <div className="relative h-[30%] w-full shrink-0 sm:h-[50%]">
                 <FallbackImage
                   src={card.image_url}
                   alt={card.headline}
@@ -150,8 +150,17 @@ export function SwipeReader({
                 </div>
               </div>
 
-              <div className="flex flex-1 flex-col gap-3 overflow-y-auto px-5 py-4">
-                <h1 className="text-xl font-bold leading-snug text-foreground">
+              {/* No overflow-y-auto here on purpose — a scrollable region
+                  nested inside the track's own swipe-to-advance scroll
+                  fights it on touch: a swipe starting inside this div gets
+                  captured as an ordinary scroll instead of reaching the
+                  outer snap container, so advancing to the next card
+                  needed two gestures (scroll this to its end, then swipe
+                  again). Headline/summary are clamped so real content
+                  reliably fits the space instead; overflow-hidden is a
+                  clipping safety net, not a scrollbar, if it doesn't. */}
+              <div className="flex flex-1 flex-col gap-2 overflow-hidden px-5 py-3 sm:gap-3 sm:py-4">
+                <h1 className="line-clamp-2 text-lg font-bold leading-snug text-foreground sm:text-xl">
                   {card.headline}
                 </h1>
 
@@ -176,7 +185,7 @@ export function SwipeReader({
                   </Link>
                 </div>
 
-                <p className="text-sm leading-relaxed text-foreground-muted">
+                <p className="line-clamp-4 text-sm leading-relaxed text-foreground-muted sm:line-clamp-none">
                   {card.summary}
                 </p>
 
@@ -186,7 +195,7 @@ export function SwipeReader({
                   ))}
                 </div>
 
-                <div className="mt-auto flex flex-col gap-3 border-t border-border pt-4 text-sm text-foreground-subtle">
+                <div className="mt-auto flex flex-col gap-2 border-t border-border pt-3 text-sm text-foreground-subtle sm:gap-3 sm:pt-4">
                   <div className="flex items-center justify-between">
                     <span>
                       {formatSourceNames(card.sources)} · {formatRelativeTime(card.published_at)}

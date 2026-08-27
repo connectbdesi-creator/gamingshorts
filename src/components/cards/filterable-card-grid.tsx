@@ -1,5 +1,6 @@
 "use client";
 
+import dynamic from "next/dynamic";
 import { useEffect, useMemo, useState } from "react";
 import { CardGrid } from "@/components/cards/card-grid";
 import {
@@ -9,11 +10,22 @@ import {
 import { GameDropdown, type GameFilterValue } from "@/components/filters/game-dropdown";
 import { PlatformDropdown } from "@/components/filters/platform-dropdown";
 import { SearchInput } from "@/components/filters/search-input";
-import { SwipeReader } from "@/components/reader/swipe-reader";
 import { formatSourceNames } from "@/lib/format";
 import { getTrendingGames } from "@/lib/games";
 import type { PlatformSlug } from "@/lib/platforms";
 import type { Card } from "@/types/card";
+
+// Not needed until a card is actually opened, so it shouldn't be part of
+// the JS the browser must parse before the grid itself becomes tappable —
+// every extra byte on that critical path widens the window where a tap
+// can land before hydration finishes and fall through to the underlying
+// <Link>'s href (a real bug this caused: see the comment on
+// getSupabaseBrowserClient in src/lib/supabase/client.ts for how it was
+// confirmed and the bigger half of this same fix).
+const SwipeReader = dynamic(
+  () => import("@/components/reader/swipe-reader").then((mod) => mod.SwipeReader),
+  { ssr: false }
+);
 
 /**
  * Client-side grid + filter + reader orchestrator used by the homepage,
