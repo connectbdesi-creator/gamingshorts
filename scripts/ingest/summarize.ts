@@ -21,6 +21,17 @@ function skipReason(raw: Record<string, unknown>): string {
   return `${status}: ${detail}`;
 }
 
+// Ollama occasionally emits the literal string "null" instead of a real
+// JSON null for an optional field — a small-model JSON-mode quirk, not
+// something the prompt wording alone reliably prevents. Taking it at face
+// value produced game_label: "null" on several cards, which slugified to
+// an actual /game/null page.
+function normalizeNullableString(value: unknown): string | null {
+  if (typeof value !== "string") return null;
+  const trimmed = value.trim();
+  return !trimmed || trimmed.toLowerCase() === "null" ? null : trimmed;
+}
+
 function toSummarizedArticle(raw: Record<string, unknown>): SummarizedArticle {
   return {
     headline: String(raw.headline ?? ""),
@@ -28,7 +39,7 @@ function toSummarizedArticle(raw: Record<string, unknown>): SummarizedArticle {
     category: raw.category as SummarizedArticle["category"],
     platform_tags: sanitizePlatformTags(raw.platform_tags),
     hype_signal: typeof raw.hype_signal === "number" ? raw.hype_signal : null,
-    game_label: typeof raw.game_label === "string" ? raw.game_label : null,
+    game_label: normalizeNullableString(raw.game_label),
   };
 }
 

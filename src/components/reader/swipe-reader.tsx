@@ -1,7 +1,6 @@
 "use client";
 
 import { MessageCircle, X } from "lucide-react";
-import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
 import { CategoryBadge } from "@/components/cards/category-badge";
@@ -9,6 +8,7 @@ import { PlatformChip } from "@/components/cards/platform-chip";
 import { FollowButton } from "@/components/engagement/follow-button";
 import { LikeButton } from "@/components/engagement/like-button";
 import { GameBadge } from "@/components/games/game-badge";
+import { FallbackImage } from "@/components/media/fallback-image";
 import { ShareButtons } from "@/components/share/share-buttons";
 import { formatRelativeTime, formatSourceNames } from "@/lib/format";
 import { getSiteUrl } from "@/lib/site";
@@ -132,7 +132,7 @@ export function SwipeReader({
               className="relative flex h-full w-full snap-start flex-col [scroll-snap-stop:always]"
             >
               <div className="relative h-[45%] w-full shrink-0 sm:h-[55%]">
-                <Image
+                <FallbackImage
                   src={card.image_url}
                   alt={card.headline}
                   fill

@@ -306,6 +306,13 @@ jobs:
 
       - name: Merge shards, cluster, and publish
         env:
+          # Used by getSiteUrl() (src/lib/site.ts) to build the URL inside
+          # push notification payloads (scripts/ingest/push.ts) — without
+          # this, it silently falls back to http://localhost:3000, since
+          # this job never otherwise sees NEXT_PUBLIC_SITE_URL (only the
+          # differently-named SITE_URL variable used by the revalidate
+          # step below).
+          NEXT_PUBLIC_SITE_URL: ${{ vars.SITE_URL }}
           NEXT_PUBLIC_SUPABASE_URL: ${{ vars.NEXT_PUBLIC_SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
           NEXT_PUBLIC_VAPID_PUBLIC_KEY: ${{ vars.NEXT_PUBLIC_VAPID_PUBLIC_KEY }}

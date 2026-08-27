@@ -1,5 +1,5 @@
 import { ExternalLink } from "lucide-react";
-import Image from "next/image";
+import { FallbackImage } from "@/components/media/fallback-image";
 import type { GameInfo } from "@/types/game-info";
 
 function InfoRow({ label, value }: { label: string; value: string }) {
@@ -23,7 +23,7 @@ export function GameInfoPanel({ info }: { info: GameInfo }) {
     <div className="mb-6 overflow-hidden rounded-card border border-border bg-surface">
       {info.background_image && (
         <div className="relative aspect-[21/9] w-full overflow-hidden bg-background-elevated">
-          <Image
+          <FallbackImage
             src={info.background_image}
             alt={`${info.name} artwork`}
             fill
@@ -63,7 +63,7 @@ export function GameInfoPanel({ info }: { info: GameInfo }) {
                 key={url}
                 className="relative aspect-video w-40 shrink-0 overflow-hidden rounded-chip bg-background-elevated"
               >
-                <Image
+                <FallbackImage
                   src={url}
                   alt={`${info.name} screenshot ${index + 1}`}
                   fill

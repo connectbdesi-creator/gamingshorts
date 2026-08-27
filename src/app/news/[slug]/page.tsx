@@ -1,6 +1,5 @@
 import { MessageCircle } from "lucide-react";
 import type { Metadata } from "next";
-import Image from "next/image";
 import { notFound } from "next/navigation";
 import { CategoryBadge } from "@/components/cards/category-badge";
 import { PlatformChip } from "@/components/cards/platform-chip";
@@ -8,6 +7,7 @@ import { Comments } from "@/components/comments/comments";
 import { FollowButton } from "@/components/engagement/follow-button";
 import { LikeButton } from "@/components/engagement/like-button";
 import { GameBadge } from "@/components/games/game-badge";
+import { FallbackImage } from "@/components/media/fallback-image";
 import { ArticleReaderLauncher } from "@/components/reader/article-reader-launcher";
 import { ShareButtons } from "@/components/share/share-buttons";
 import { getCategory } from "@/lib/categories";
@@ -116,7 +116,7 @@ export default async function NewsCardPage({ params }: Props) {
       />
 
       <div className="relative aspect-[16/10] w-full overflow-hidden rounded-card bg-background-elevated">
-        <Image
+        <FallbackImage
           src={card.image_url}
           alt={card.headline}
           fill

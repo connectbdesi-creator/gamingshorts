@@ -1,9 +1,9 @@
 import { Flame, MessageCircle } from "lucide-react";
-import Image from "next/image";
 import Link from "next/link";
 import { CategoryBadge } from "@/components/cards/category-badge";
 import { LikeButton } from "@/components/engagement/like-button";
 import { GameBadge } from "@/components/games/game-badge";
+import { FallbackImage } from "@/components/media/fallback-image";
 import { ShareMenu } from "@/components/share/share-menu";
 import { formatRelativeTime, formatSourceNames } from "@/lib/format";
 import { getSiteUrl } from "@/lib/site";
@@ -44,7 +44,7 @@ export function NewsCard({
         className="block"
       >
         <div className="relative aspect-[4/3] w-full overflow-hidden bg-background-elevated">
-          <Image
+          <FallbackImage
             src={card.image_url}
             alt={card.headline}
             fill
