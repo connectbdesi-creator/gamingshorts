@@ -1,5 +1,97 @@
 [
   {
+    "id": "adec29ff2e93",
+    "slug": "gta-6-targeting-30fps-on-ps5-undecided-on-performance-mode",
+    "headline": "GTA 6 Targeting 30fps on PS5, Undecided on Performance Mode",
+    "summary": "Not surprising really.\nGTA 6 is targeting 30fps on PS5 right now, with Rockstar uncertain whether it’ll add a Performance Mode later.\nThat’s likely to include the PS5 Pro by the way, which has a beefier GPU than its base counterpart, but is unlikely to pack enough CPU power to double the frame rate.\nRead the full article on pushsquare.com",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/08/gta-6-targeting-30fps-on-ps5-undecided-on-performance-mode"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/018e329626e42/large.jpg",
+    "published_at": "2026-08-27T23:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9e9a221a4366",
+    "slug": "warlock-dd-game-building-on-the-shoulders-of-giants",
+    "headline": "Warlock D&D Game Building on the Shoulders of Giants",
+    "summary": "Warlock, a new D&D game, aims to contribute to the world of Dungeons & Dragons without requiring extensive knowledge of the genre.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/open-world/warlock-is-building-on-the-shoulders-of-giants-as-a-d-and-d-game-but-just-like-baldurs-gate-3-you-dont-need-to-know-any-d-and-d-to-get-it/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ZfQktrEErgzb2ygwesapN-1280-80.jpg",
+    "published_at": "2026-08-27T23:21:50.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "warlock",
+    "game_label": "Warlock"
+  },
+  {
+    "id": "0d67ed211045",
+    "slug": "new-co-op-game-on-steam-reveals-darker-side-of-cocaine-trade",
+    "headline": "New Co-Op Game on Steam Reveals Darker Side of Cocaine Trade",
+    "summary": "A new cooperative game on Steam has sparked controversy with its depiction of the cocaine trade, sparking comparisons to Schedule 1 of the US Controlled Substances Act.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/steam-games-like-schedule-1-schedule-rehab-business/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/schedule-rehab-business-steam-game-like-schedule-1-gamerant.jpg",
+    "published_at": "2026-08-27T23:00:13.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "cocaine-tycoon",
+    "game_label": "Cocaine Tycoon"
+  },
+  {
+    "id": "9fb6389dd72b",
+    "slug": "genshin-impact-devs-next-game-planning-massive-change-to-gacha-system",
+    "headline": "Genshin Impact Dev's Next Game Planning Massive Change to Gacha System",
+    "summary": "A new game that's in the works by developer HoYoverse will make a major change to the gacha system Genshin Impact players know.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/nodusfall-no-gacha-elements-free-to-play/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/genshin-impact-lumine-shocked.jpg",
+    "published_at": "2026-08-27T23:00:13.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "ff62ef41a45a",
     "slug": "gta-6-map-size-revealed",
     "headline": "GTA 6 Map Size Revealed",
@@ -15,15 +107,160 @@
       {
         "name": "Eurogamer",
         "url": "https://www.eurogamer.net/gta-6-map-size-length-how-big-revealed"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-map-size-game-length/"
+      },
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/features/poll-are-you-sold-on-gta-6"
       }
     ],
     "image_url": "https://assetsio.gnwcdn.com/GTA-6-Extended-Look-Sky-Diving.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-08-27T21:37:19.000Z",
+    "published_at": "2026-08-27T23:00:00.000Z",
     "hype_signal": 80,
     "like_count": 0,
     "comment_count": 0,
     "game": "grand-theft-auto-6",
     "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "ada65a3d1cf6",
+    "slug": "open-world-rpgs-with-perfect-quest-systems",
+    "headline": "Open-World RPGs With Perfect Quest Systems",
+    "summary": "These open-world RPGs with flawless, emotionally surprising stories that redefine exploration through their brilliant quest design.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/open-world-rpg-games-perfect-quest-systems/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/open-world-rpgs-with-perfect-quest-systems.jpg",
+    "published_at": "2026-08-27T22:45:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2b3ddbd381c1",
+    "slug": "gta-6-gameplay-reveal-breakdown",
+    "headline": "GTA 6 Gameplay Reveal Breakdown",
+    "summary": "A summary of the gameplay details revealed during the latest Grand Theft Auto 6 update",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-gameplay-reveal-details-breakdown/"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/the-grand-theft-auto-6-gameplay-just-makes-me-want-a-pc-version-even-more"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/CEPafYXbfz9mup9ybDKMt9-1280-80.jpg",
+    "published_at": "2026-08-27T22:30:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "7f2e41ed1fe1",
+    "slug": "gta-6-devs-at-rockstar-celebrate-as-extended-look-finally-reveals-game",
+    "headline": "GTA 6 Devs at Rockstar Celebrate as Extended Look Finally Reveals Gameplay After Years of Development",
+    "summary": "Rockstar Games has finally revealed an official look at GTA 6 gameplay, and members of the development team couldn't be happier to finally see fans' reactions.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-devs-at-rockstar-celebrate-as-extended-look-finally-reveals-gameplay-after-years-of-development"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/08/27/gta6-5-blogroll-1787855617077.jpg",
+    "published_at": "2026-08-27T22:28:24.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6c98cbef233b",
+    "slug": "star-citizen-spinoff-squadron-42-delayed-to-2027-dev-insists-its-becau",
+    "headline": "Star Citizen Spinoff Squadron 42 Delayed to 2027, Dev Insists It's Because of GTA 6",
+    "summary": "Star Citizen single-player spinoff Squadron 42 has been delayed to 2027, with developer Chris Roberts insisting it wouldn't get the attention it deserves because of Grand Theft Auto 6.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/star-citizen-spinoff-squadron-42-delayed-to-2027-dev-insists-its-because-of-gta-6"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2023/10/23/star-1698055904902.jpg",
+    "published_at": "2026-08-27T22:05:05.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "292fdf904e8d",
+    "slug": "say-goodbye-to-stealing-any-car-you-like-with-a-single-button-in-gta-6",
+    "headline": "Say goodbye to stealing any car you like with a single button in GTA 6, and hello to whatever the hell the WAINK scanner is",
+    "summary": "It's finally here! The preview for that extended look at a crime sim currently without a PC release date! GTA 6, or in the immortal words of Jack Nance, \"Grand Theft Auto\" [6]. After a long drought of anything actual concrete, we've now been flooded with details, like how it's up to you as to whether protagonists Lucia and Jason…",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/say-goodbye-to-stealing-any-car-you-like-with-a-single-button-in-gta-6-and-hello-to-whatever-the-hell-the-waink-scanner-is"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/grand-theft-auto-6-cars.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-08-27T22:02:56.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c2cc68d94b0f",
+    "slug": "gta-6-will-be-30fps-at-launch-rockstar-reportedly-not-sure-about-60fps",
+    "headline": "GTA 6 Will Be 30FPS At Launch, Rockstar Reportedly Not Sure About 60FPS Performance Mode",
+    "summary": "Higher frame rates could get patched in later",
+    "category": "patches",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/gta-6-will-be-30fps-at-launch-rockstar-reportedly-not-sure-about-60fps-performance-mode-2000729032"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/08/GTa-6-10803-1280x720.jpg",
+    "published_at": "2026-08-27T22:01:10.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "4a55260bd469",
@@ -84,32 +321,6 @@
     "game_label": "Grand Theft Auto 6"
   },
   {
-    "id": "2b3ddbd381c1",
-    "slug": "gta-6-gameplay-reveal-breakdown",
-    "headline": "GTA 6 Gameplay Reveal Breakdown",
-    "summary": "A summary of the gameplay details revealed during the latest Grand Theft Auto 6 update",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-gameplay-reveal-details-breakdown/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/CEPafYXbfz9mup9ybDKMt9-1280-80.jpg",
-    "published_at": "2026-08-27T21:23:08.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
     "id": "f46613950c99",
     "slug": "elden-ring-on-nintendo-switch-2-a-guide-for-newcomers",
     "headline": "Elden Ring on Nintendo Switch 2: A Guide for Newcomers",
@@ -148,6 +359,10 @@
       {
         "name": "GamesRadar+",
         "url": "https://www.gamesradar.com/games/grand-theft-auto/the-gta-6-map-is-3-times-bigger-than-red-dead-redemption-2s/"
+      },
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-map-is-3x-bigger-than-red-dead-redemption-2s/"
       }
     ],
     "image_url": "https://cdn.mos.cms.futurecdn.net/gA2SeaEw9H3guJjLLgPpp6-1280-80.jpg",
@@ -220,6 +435,14 @@
       {
         "name": "PC Gamer",
         "url": "https://www.pcgamer.com/games/grand-theft-auto/what-do-you-think-of-the-gta-6-reveal/"
+      },
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/gta-6-activities-things-to-do-spotted-so-far"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-netflix-preview-news-reveals-rockstar-games/"
       }
     ],
     "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Brian_Heder_01.jpg?w=300",
@@ -245,6 +468,10 @@
       {
         "name": "GameSpot",
         "url": "https://www.gamespot.com/articles/how-to-steal-cars-in-gta-6/"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-car-steal-system-explained"
       }
     ],
     "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/27cul-gta-creation-01-wbcf-superJumbo.webp?w=300",
@@ -435,6 +662,31 @@
     "comment_count": 0,
     "game": "grand-theft-auto-vi",
     "game_label": "Grand Theft Auto VI"
+  },
+  {
+    "id": "dca47b700af7",
+    "slug": "how-long-is-gta-6",
+    "headline": "How Long is GTA 6?",
+    "summary": "A Rockstar developer claims GTA 6 has a playtime of around 80 hours if you want to complete side quests, sparking speculation about the game's depth and replay value.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/how-long-is-gta-6-about-80-hours-according-to-one-rockstar-devs-playthrough/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/WpRL93sTxVJSCwq3VV6ock-1280-80.png",
+    "published_at": "2026-08-27T20:50:45.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
   },
   {
     "id": "b9f74b07f024",
@@ -708,6 +960,48 @@
     "comment_count": 0,
     "game": "grand-theft-auto-6",
     "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "e0256408af94",
+    "slug": "gta-6-story-is-about-whether-love-can-survive-through-this-storm",
+    "headline": "GTA 6 Story Is About “Whether Love Can Survive Through This Storm”",
+    "summary": "Grand Theft Auto VI has finally had its big gameplay reveal. That included more details about the story, which centers heavily on the relationship between Jason and Lucia, and how it'ss impacted by their life of crime. \"We’re trying to reflect a sort of crazy, warped version of this American state and city--we always try to do that,” Rockstar North's…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-story-is-about-whether-love-can-survive-through-this-storm/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/4230001-1_4177ab.jpg?w=300",
+    "published_at": "2026-08-27T20:04:24.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "1da130d5e10a",
+    "slug": "gta-6s-relationship-system-will-let-you-keep-jason-and-lucia-in-the-fr",
+    "headline": "GTA 6's Relationship System Will Let You Keep Jason and Lucia in the Friend Zone",
+    "summary": "Rockstar Games' Rob Nelson says 'don’t bother with it' if you don't care about the central romance in GTA 6.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-relationship-system-netflix-preview/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/polygon-stock-art-gta-6-jason-and-lucia-3.jpg",
+    "published_at": "2026-08-27T20:02:53.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "3a325816fe67",
@@ -1714,6 +2008,10 @@
       {
         "name": "TheGamer",
         "url": "https://www.thegamer.com/star-wars-zero-company-best-operators-cly-trick-tel-rae-who-to-use-specialization-talent-guide/"
+      },
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/strategy/star-wars-zero-company-release-date-launch-times/"
       }
     ],
     "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/08/three-different-models-of-astromechs-in-star-wars-zero-company.jpg",
@@ -4438,270 +4736,6 @@
     "image_url": "https://assetsio.gnwcdn.com/ULTIMATE_EDITION_ELECTRIC_FANG_03.jpg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-08-27T09:37:16.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9c4f2718fd29",
-    "slug": "bethesda-is-giving-away-free-copies-of-the-elder-scrolls-online-with-t",
-    "headline": "Bethesda Is Giving Away Free Copies of The Elder Scrolls Online with This New Fantasy Novel",
-    "summary": "You can currently score a free PC copy of The Elder Scrolls Online—plus an exclusive in-game pet—with paperback copies of Travis Baldree’s new fantasy novel \"Brigands & Breadknives\".",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/free-elder-scrolls-online-brigands-breadknives-travis-baldree"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/05/brigands-and-breadknives-elder-scrolls-online-1785944412439.png",
-    "published_at": "2026-08-27T09:31:56.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2c8828c9db75",
-    "slug": "the-witcher-3-remastered-includes-work-from-a-top-modder-as-cd-projekt",
-    "headline": "The Witcher 3 Remastered includes work from a top modder, as CD Projekt Red follow the path they walked with the RPG's next-gen update",
-    "summary": "As revealed earlier this week alongside a look at next year's Songs of the Past expansion, The Witcher 3 is getting a free remastered update next month. As with 2022's next-gen update, some of its tweaks and additions are the work of modders, with the creator of The Witcher 3's HD Reworked Project having revealed that they got the call…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/the-witcher-3-remastered-includes-work-from-a-top-modder-as-cd-projekt-follow-the-path-they-walked-with-the-rpgs-next-gen-update"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/witcher-3-remastered-hd-rework-modder-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-08-27T09:29:37.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6821e190c93a",
-    "slug": "european-games-developer-federation-announces-2026-28-board-hendrik-le",
-    "headline": "European Games Developer Federation announces 2026-28 board, Hendrik Lesser re-elected as president",
-    "summary": "Hendrik Lesser has been re-elected president of the European Games Developer Federation (EGDF) as the organisation announces its 2026-2028 board.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/european-games-developer-federation-announces-2026-28-board-hendrik-lesser-re-elected-as-president"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/EGDF.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-08-27T09:05:35.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "efe061232d15",
-    "slug": "new-job-listing-suggests-riot-is-working-on-digital-riftbound-client",
-    "headline": "New Job Listing Suggests Riot Is Working On Digital Riftbound Client",
-    "summary": "A fresh LinkedIn post strongly suggests that Riot will soon move forward with a digital client for its popular trading card game.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/a-digital-version-of-riftbound-may-already-be-in-development/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/03/riftbound-champion-artwork.jpg",
-    "published_at": "2026-08-27T09:00:49.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8a061a54593e",
-    "slug": "zoopunk-extended-gamescom-2026-trailer",
-    "headline": "ZOOPUNK extended Gamescom 2026 trailer",
-    "summary": "TiGames has released a five-minute extended version of the newly released Gamescom 2026 trailer action …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/08/zoopunk-extended-gamescom-2026-trailer"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/8a061a54593e/800/600",
-    "published_at": "2026-08-27T09:00:35.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "406f597a6e3a",
-    "slug": "konami-announces-tgs-2026-lineup",
-    "headline": "Konami announces TGS 2026 lineup",
-    "summary": "Konami has announced its lineup for Tokyo Game Show 2026, which will run from September …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/08/konami-announces-tgs-2026-lineup"
-      },
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/08/happinet-announces-tgs-2026-lineup"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/406f597a6e3a/800/600",
-    "published_at": "2026-08-27T09:00:04.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cc2cd7bdbede",
-    "slug": "gallery-heres-a-look-at-the-xbox-booth-at-gamescom-2026",
-    "headline": "Gallery: Here's A Look At The Xbox Booth At Gamescom 2026",
-    "summary": "Don't worry, we wish we were in Cologne too! What a start it's been at Gamescom 2026! Whilst Fraser and I have been strapped to our seats reporting on all the latest comings and goings from the event, that doesn't mean we can't share some exclusive photos too! Some of the Hookshot squad are currently hanging out in Germany to…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/08/gallery-heres-a-look-at-the-xbox-booth-at-gamescom-2026"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/98bbc22d3c64e/large.jpg",
-    "published_at": "2026-08-27T09:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "198f8e3f8949",
-    "slug": "the-official-august-newsletter-for-steams-chaotic-roguelike-elin-has-b",
-    "headline": "The official August newsletter for Steam’s chaotic roguelike Elin has been released. Little Sister-roids combine into a giant Little Sister called “Imoutomaton” and attack!",
-    "summary": "Elin State of the Game – July 2026Elin State of the Game – August 2026edition of Elin's official newsletter.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/official-august-newsletter-for-steams-chaotic-roguelike-elin-has-been-released-little-sister-roids-combine-into-a-giant-little-sister/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/198f8e3f8949/800/600",
-    "published_at": "2026-08-27T09:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9fdb679a30c4",
-    "slug": "guide-gta-6-netflix-extended-look-when-and-how-to-watch",
-    "headline": "Guide: GTA 6 Netflix Extended Look: When and How to Watch",
-    "summary": "Dates, times, and all you need to know. GTA 6 is on the horizon, but before it makes its long-awaited debut on 19th November 2026, Rockstar Games is treating us to what it calls an Extended Look — and it's available first on Netflix. Though we don't know exactly what it'll entail, it's expected this will be our biggest and…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/guides/gta-6-netflix-extended-look-when-and-how-to-watch"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/c6c2cfa664762/large.jpg",
-    "published_at": "2026-08-27T09:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "574e544d5c0f",
-    "slug": "psa-modern-warfare-4s-switch-2-retail-version-is-a-code-in-a-box",
-    "headline": "PSA: Modern Warfare 4's Switch 2 Retail Version Is A Code-In-A-Box",
-    "summary": "Update: Amazon listing confirms it. If you're wondering how exactly Activision will distribute the retail version of Call of Duty: Modern Warfare 4 on the Switch 2, some new information has surfaced via social media. This update comes from Video Games Plus. According to the North American physical video game distributor, the Switch 2 version of MW4 will be a…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/08/psa-modern-warfare-4s-switch-2-retail-version-is-a-code-in-a-box"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/2c136ad24abea/large.jpg",
-    "published_at": "2026-08-27T09:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1ba034c2f50a",
-    "slug": "gta-6-life-simulation-elements-confirmed-thank-god-we-can-turn-the-off",
-    "headline": "GTA 6 life simulation elements confirmed: thank god, we can turn the offensively hot Jason and Lucia into exhausted slobs like the rest of us",
-    "summary": "If you think the protagonists of Grand Theft Auto 6 look dull as piping hot ditchwater then rejoice, friend, for the game will let you transform these gung-ho sex magnets into weary and despairing zombies, tottering along the shore of Leonida with eyes like sandy latrines and skin like forgotten cheese.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/gta-6-life-simulation-elements-confirmed-thank-god-we-can-turn-the-offensively-hot-jason-and-lucia-into-exhausted-slobs-like-the-rest-of-us"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Lucia_Caminos_02.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-08-27T08:51:45.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "76179c088f27",
-    "slug": "sega-announces-tgs-2026-lineup",
-    "headline": "SEGA announces TGS 2026 lineup",
-    "summary": "SEGA has revealed its schedule for Tokyo Game Show 2026, but no specific game releases or details are provided",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/08/sega-announces-tgs-2026-lineup"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/76179c088f27/800/600",
-    "published_at": "2026-08-27T08:15:03.000Z",
-    "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
