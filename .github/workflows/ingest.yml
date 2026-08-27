@@ -30,6 +30,26 @@
 # cut AI calls per run — clustering is now purely rule-based
 # (title-token overlap + game-tag agreement).
 #
+# GitHub's `schedule` trigger is explicitly best-effort — GitHub's own docs
+# warn it "can be delayed during periods of high load," and in practice
+# this workflow has gone 5+ hours without firing at all despite every run
+# that DID fire succeeding in under 15 minutes (confirmed via the public
+# Actions API — nothing queued, in progress, or failed in between, GitHub
+# simply never started a run for a couple of consecutive `0 */2 * * *`
+# slots). There's no way to make GitHub itself trigger reliably, so instead
+# this triggers every 20 minutes and the `fetch` job's first step exits
+# early unless data/meta.json's lastRunAt is at least ~110 minutes old —
+# real ingestion work still only happens roughly every 2 hours, but a
+# dropped/delayed trigger now self-heals within ~20 minutes instead of
+# silently waiting for the next 2-hour slot (or longer). A manual
+# workflow_dispatch always runs regardless of the last run's age.
+#
+# Also added: a workflow-level `concurrency` group (a run that hangs — seen
+# once, a workflow_dispatch that took 2h25m before failing — no longer
+# risks a second run racing it on the final `git push`) and a
+# `timeout-minutes` cap on every job so a hung run can't block the queue
+# for hours in the first place.
+#
 # Required, under Settings -> Secrets and variables -> Actions:
 #   Secrets:
 #     REVALIDATE_SECRET        Must match the app's REVALIDATE_SECRET env var.
@@ -53,7 +73,7 @@ name: Ingest gaming news
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "*/20 * * * *"
   workflow_dispatch:
     inputs:
       force_refresh:
@@ -64,6 +84,14 @@ on:
 permissions:
   contents: write
 
+# A scheduled trigger that fires while a previous run is still going (a
+# delayed trigger catching up, or a hung run — see the timeout-minutes
+# below) now queues behind it instead of running concurrently and racing
+# on the final `git push`.
+concurrency:
+  group: ingest-gaming-news
+  cancel-in-progress: false
+
 env:
   OLLAMA_MODEL: ${{ vars.OLLAMA_MODEL || 'llama3.2:3b' }}
   OLLAMA_MODELS: ${{ github.workspace }}/.ollama-models
@@ -71,28 +99,67 @@ env:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    outputs:
+      run_due: ${{ steps.check.outputs.due }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # Cheap (checkout + a grep, no pnpm/Node setup needed), so running it
+      # on every 20-minute trigger costs almost nothing — see the workflow
+      # header comment for why this exists.
+      - name: Check if a run is due
+        id: check
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "due=true" >> "$GITHUB_OUTPUT"
+            echo "Not a scheduled trigger (${{ github.event_name }}) — running regardless of last run time."
+            exit 0
+          fi
+
+          LAST_RUN=$(grep -oP '"lastRunAt":\s*"\K[^"]+' data/meta.json 2>/dev/null || echo "")
+          if [ -z "$LAST_RUN" ]; then
+            echo "due=true" >> "$GITHUB_OUTPUT"
+            echo "No previous run recorded (data/meta.json missing or unreadable) — running."
+            exit 0
+          fi
+
+          LAST_EPOCH=$(date -d "$LAST_RUN" +%s)
+          NOW_EPOCH=$(date -u +%s)
+          ELAPSED_MIN=$(( (NOW_EPOCH - LAST_EPOCH) / 60 ))
+          echo "Last real run: $LAST_RUN ($ELAPSED_MIN minute(s) ago)"
+
+          if [ "$ELAPSED_MIN" -ge 110 ]; then
+            echo "due=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "due=false" >> "$GITHUB_OUTPUT"
+            echo "Not due yet — skipping this trigger, next check in ~20 minutes."
+          fi
+
       - name: Setup pnpm
+        if: steps.check.outputs.due == 'true'
         uses: pnpm/action-setup@v4
 
       - name: Setup Node
+        if: steps.check.outputs.due == 'true'
         uses: actions/setup-node@v4
         with:
           node-version: 22
           cache: pnpm
 
       - name: Install dependencies
+        if: steps.check.outputs.due == 'true'
         run: pnpm install --frozen-lockfile
 
       - name: Fetch RSS candidates
+        if: steps.check.outputs.due == 'true'
         env:
           FORCE_REFRESH: ${{ inputs.force_refresh || 'false' }}
         run: npx tsx scripts/ingest/fetch-candidates.ts
 
       - name: Upload candidates
+        if: steps.check.outputs.due == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: candidates
@@ -104,7 +171,9 @@ jobs:
   # length of this matrix array if either is ever changed.
   classify:
     needs: fetch
+    if: needs.fetch.outputs.run_due == 'true'
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     strategy:
       fail-fast: false
       matrix:
@@ -171,8 +240,15 @@ jobs:
           retention-days: 1
 
   merge-and-publish:
-    needs: classify
+    needs: [fetch, classify]
+    # needs.<job>.outputs is only visible to jobs that list <job> directly
+    # in their own `needs` — classify alone wouldn't expose fetch's output,
+    # hence depending on both. An explicit `if:` here also replaces the
+    # default implicit `success()` check, so it has to be spelled out
+    # (needs.classify.result == 'success') rather than assumed.
+    if: needs.fetch.outputs.run_due == 'true' && needs.classify.result == 'success'
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - name: Checkout
         uses: actions/checkout@v4
