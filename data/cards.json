@@ -1,5 +1,705 @@
 [
   {
+    "id": "d51d0f749d08",
+    "slug": "new-trump-tariffs-could-make-gaming-even-more-expensive",
+    "headline": "New Trump Tariffs Could Make Gaming Even More Expensive",
+    "summary": "The Trump administration considers tariffs on semiconductors, which would drive up the prices of video game systems like PS5, Xbox, and Switch 2.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/trump-tariffs-video-games/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/trump-tariffs-make-video-games-expensive.jpg",
+    "published_at": "2026-08-27T17:30:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c5c9719e6cfc",
+    "slug": "gta-6-netflix-trailer-to-reveal-26-minute-extended-look",
+    "headline": "GTA 6 Netflix Trailer to Reveal 26-Minute Extended Look",
+    "summary": "Rockstar's GTA 6 event on Netflix will last 26 minutes, an extended look at the game",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-netflix-trailers-beefy-runtime-revealed-footage-captured-on-ps5/"
+      },
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/news/live/grand-theft-auto-6-reveal-live-coverage-breaking-down-the-netflix-extended-look-event/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Brian_Heder_01.jpg?w=300",
+    "published_at": "2026-08-27T17:30:05.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "27d09bc48e44",
+    "slug": "rockstar-games-and-florida-officials-are-having-conversations-to-turn",
+    "headline": "Rockstar Games and Florida Officials Are Having Conversations to Turn Miami in to Vice City IRL for GTA 6's Marketing Campaign",
+    "summary": "Florida officials and Rockstar Games are having conversations to turn parts of Miami into Vice City for Grand Theft Auto 6's marketing campaign.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/rockstar-games-and-florida-officials-are-having-conversations-to-turn-miami-in-to-vice-city-irl-for-gta-6s-marketing-campaign"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/06/18/jason-and-lucia-03-landscape-1781798123709.jpg",
+    "published_at": "2026-08-27T17:29:47.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "369b0ad9d453",
+    "slug": "devolver-digital-reveals-its-gta-6-competitor-and-its-a-remaster-of-a",
+    "headline": "Devolver Digital Reveals Its GTA 6 Competitor, And It’s A Remaster Of A Nonexistent Remake",
+    "summary": "Few game companies are brave enough to go head-to-head with the release of Rockstar's Grand Theft Auto 6, but that's exactly what publisher Devolver Digital is doing with the launch of Volvy's Adventure: Reslimed on November 19. Billed as a \"remaster of the second remake of the original monochrome action-platformer starring the most famous video game mascot of all time,\"…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/devolver-digital-reveals-its-gta-6-competitor-and-its-a-remaster-of-a-nonexistent-remake/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Volvys-Adventure-Reslimed-GTA-6.jpg?w=300",
+    "published_at": "2026-08-27T17:21:14.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "08792fe9935e",
+    "slug": "armatus-single-player-action-shooter-set-for-january-ps5-release",
+    "headline": "Armatus Single Player Action Shooter Set for January PS5 Release",
+    "summary": "Action shooter Armatus has a confirmed January 7th PS5 release date, following a previously vague 'winter' window promise.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/08/godfall-devs-single-player-action-shooter-armatus-takes-aim-at-january-release-date-on-ps5"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/1e4d3c1a4c8b1/large.jpg",
+    "published_at": "2026-08-27T17:15:00.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "armatus",
+    "game_label": "Armatus"
+  },
+  {
+    "id": "a566e5c69c3e",
+    "slug": "blue-dragon-has-received-an-incredible-fan-made-pc-port",
+    "headline": "Blue Dragon Has Received An Incredible Fan-Made PC Port",
+    "summary": "Blue Dragon has been rotting on the Xbox 360 for 20 years, but a fan-made PC port has finally given it the love it deserves.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/blue-dragon-pc-port/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2024/03/akira-toriyama-blue-dragon.jpg",
+    "published_at": "2026-08-27T17:14:17.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b43ce5df59ee",
+    "slug": "gta-6-no-thanks-ill-be-playing-volvys-adventure-reslimed-an-action-pla",
+    "headline": "GTA 6? No thanks, I'll be playing Volvy's Adventure: Reslimed, an action platformer from Devolver that's releasing day and date with Rockstar's behemoth",
+    "summary": "We all know when GTA 6 is releasing because there are zero games releasing in November apart from it. Or, that would be true, if Devolver Digital weren't the miscreants they love to be. They've been saying for a while now that they'll be releasing a game come hell or highwater, day and date with GTA 6, and that's exactly…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/gta-6-no-thanks-ill-be-playing-volvys-adventure-reslimed-an-action-platformer-from-devolver-thats-releasing-day-and-date-with-rockstars-behemoth"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/volvys-adventure-reslimed.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-08-27T17:10:09.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "887c26203ec0",
+    "slug": "new-elden-ring-update-117-now-available",
+    "headline": "New Elden Ring Update 1.17 Now Available",
+    "summary": "FromSoftware has released a brand-new update for Elden Ring, expanding the game's open world, across all platforms.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/elden-ring-update-today-patch-notes-august-2026-version-1-17/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/elden-ring-update-1-17-version-patch-notes.jpg",
+    "published_at": "2026-08-27T17:05:26.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "elden-ring",
+    "game_label": "Elden Ring"
+  },
+  {
+    "id": "f9e2f216385c",
+    "slug": "poll-whats-your-verdict-on-call-of-duty-modern-warfare-4s-beta-campaig",
+    "headline": "Poll: What's Your Verdict On Call Of Duty: Modern Warfare 4's Beta Campaign On Switch 2?",
+    "summary": "Oorah! Call of Duty: Modern Warfare 4 is now available in open beta form on the Switch 2 – well, the campaign mission at least, at the time of writing. For those looking to get in on some multiplayer action, you'll have to boot it up from tomorrow (Friday 28th August). If you want to experience a brief slice of…",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/features/poll-whats-your-verdict-on-call-of-duty-modern-warfare-4s-beta-campaign-on-switch-2"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/85316c1477899/large.jpg",
+    "published_at": "2026-08-27T17:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c6a7b5029c3d",
+    "slug": "gta-6-leak-flood-looks-to-have-ended-in-most-unsurprising-way-possible",
+    "headline": "GTA 6 Leak Flood Looks to Have Ended in Most Unsurprising Way Possible: $250,000 Crypto Grift",
+    "summary": "A recent GTA 6 leak has been linked to a $250,000 crypto scam, marking a disappointing end to the rumors and speculation surrounding the game's release.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/cyberleeks-gta-6-leak-flood-looks-to-have-ended-in-the-most-unsurprising-way-possible-a-usd250-000-crypto-grift/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/7omrCg77puGkpb2DUuG8gm-1280-80.jpg",
+    "published_at": "2026-08-27T16:53:21.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
+    "id": "90a3f5656ff5",
+    "slug": "10-game-pass-titles-get-new-reveals-in-xboxs-second-gamescom-2026-stre",
+    "headline": "10 Game Pass Titles Get New Reveals In Xbox's Second Gamescom 2026 Stream",
+    "summary": "Several Xbox Game Pass announcements. Xbox just wrapped up their second Gamescom 2026 stream and there was plenty of Xbox Game Pass related goodness to revel in. Of the 10 games featured, we really liked the look of Holstin's unique retro aesthetic. Its mix of top-down and over-the-shoulder perspectives make it an interesting addition to Xbox Game Pass. Read the…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/08/10-game-pass-titles-get-new-reveals-in-xboxs-second-gamescom-2026-stream"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/39e8f6462764d/large.jpg",
+    "published_at": "2026-08-27T16:48:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ba325502064c",
+    "slug": "xbox-ceo-plays-coy-about-whether-elder-scrolls-6-will-skip-playstation",
+    "headline": "Xbox CEO Plays Coy About Whether Elder Scrolls 6 Will Skip PlayStation",
+    "summary": "Xbox CEO Asha Sharma has suggested Microsoft could make more exclusive games again, but will The Elder Scrolls 6 be among them? We still don't know, but that's the question the BBC asked Sharma at Gamescom this week. But first, Sharma discussed her thoughts generally about exclusives, and how every platform, in her estimation, needs some form of exclusive content…",
+    "category": "industry",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/xbox-ceo-plays-coy-about-whether-elder-scrolls-6-will-skip-playstation/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Screenshot-2026-08-27-at-12.28.19-PM.png?w=300",
+    "published_at": "2026-08-27T16:43:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e632774492af",
+    "slug": "xboxs-second-gamescom-2026-stream-included-tons-of-surprise-announceme",
+    "headline": "Xbox's Second Gamescom 2026 Stream Included Tons Of Surprise Announcements",
+    "summary": "Lots of release dates and Game Pass unveilings. The second of two Xbox livestreams from Gamescom 2026 has just finished, and although it didn't contain the same level of huge announcements as the first one, we definitely saw many interesting reveals over its three-hour duration. In particular, we were shocked at just how many games either received brand-new reveals, new…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/08/xboxs-second-gamescom-2026-stream-included-tons-of-surprise-announcements"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/111301c1fd5c9/large.jpg",
+    "published_at": "2026-08-27T16:41:00.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "4ad92730eceb",
+    "slug": "limited-edition-xbox-series-x-quickly-sells-out",
+    "headline": "Limited-Edition Xbox Series X Quickly Sells Out",
+    "summary": "Microsoft has released a limited-edition Xbox Series X to celebrate its 25th anniversary, but it has already sold out, with scalpers already reselling them on online marketplaces.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/the-most-expensive-xbox-ever-sold-out-and-people-are-already-flipping-it-for-thousands/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/His-Precious.jpg?w=300",
+    "published_at": "2026-08-27T16:39:18.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "xbox-series-x",
+    "game_label": "Xbox Series X"
+  },
+  {
+    "id": "68d243fe66ae",
+    "slug": "militsioner-adds-xbox-series-version-launches-in-2027",
+    "headline": "MILITSIONER adds Xbox Series version, launches in 2027",
+    "summary": "First-person Kafkaesque immersive simulation game MILITSIONER will launch for Xbox Series and PC via Microsoft …",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/08/militsioner-adds-xbox-series-version-launches-in-2027"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/68d243fe66ae/800/600",
+    "published_at": "2026-08-27T16:34:48.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b8bf8dacd89d",
+    "slug": "gamestop-wants-you-to-trade-in-gaming-history-for-new-games-and-i-need",
+    "headline": " GameStop wants you to \"trade in gaming history\" for new games, and I need you to tell them no ",
+    "summary": "GameStop thinks you should trade in retro consoles like the Dreamcast for games like GTA 6, but I'd urge you to reject the offer and embrace your old systems.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/hardware/retro/gamestop-wants-you-to-trade-in-gaming-history-for-new-games-and-i-need-you-to-tell-them-no/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/VqthadwJ3Vmejkwzis4FHi-1280-80.jpg",
+    "published_at": "2026-08-27T16:31:42.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5c5d66d8ae9f",
+    "slug": "ps-plus-monthly-games-for-september-2026-include-one-of-the-best-pixel",
+    "headline": "PS Plus Monthly Games for September 2026 Include One Of The Best Pixel Art Turn-Based RPGs In Years And ‘GTA For Kids’",
+    "summary": "More colorful friendslop is coming to PlayStaton's subscription service",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/ps-plus-monthly-games-for-september-2026-include-one-of-the-best-pixel-art-turn-based-rpgs-in-years-and-gta-for-kids-2000728577"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/08/mashup-1280x724.jpg",
+    "published_at": "2026-08-27T16:30:35.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "95da2ff46aa4",
+    "slug": "how-to-recruit-astromechs-in-star-wars-zero-company",
+    "headline": "How to Recruit Astromechs In Star Wars Zero Company",
+    "summary": "The article provides tips on how to effectively deploy and utilize astromech droids in the Star Wars: Zero Company game, optimizing their performance in combat scenarios.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/star-wars-zero-company-unlock-recruit-astromechs/"
+      },
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/strategy/star-wars-zero-company-respec-change-class/"
+      },
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/star-wars-zero-company-best-operators-cly-trick-tel-rae-who-to-use-specialization-talent-guide/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/08/three-different-models-of-astromechs-in-star-wars-zero-company.jpg",
+    "published_at": "2026-08-27T16:25:14.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "star-wars-zero-company",
+    "game_label": "Star Wars Zero Company"
+  },
+  {
+    "id": "dd76dad3235e",
+    "slug": "elden-ring-fans-just-got-a-major-reason-to-come-back-to-the-game",
+    "headline": "Elden Ring Fans Just Got a Major Reason to Come Back to the Game",
+    "summary": "Elden Ring is receiving a significant new patch with new weapon additions and item rebalancing.",
+    "category": "patches",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/elden-ring-patch-notes-tarnished-edition-switch-2/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/assets_2026_06_1780581492_torrent.jpeg",
+    "published_at": "2026-08-27T16:25:03.000Z",
+    "hype_signal": 75,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "elden-ring",
+    "game_label": "Elden Ring"
+  },
+  {
+    "id": "c0489cc885e0",
+    "slug": "arc-raiders-is-adding-a-camera-mode-as-part-of-octobers-major-update-b",
+    "headline": " Arc Raiders is adding a camera mode as part of October's major update, but some fans need more proof that the game's not going to wither away ",
+    "summary": "This would've been really cool eight months ago.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-adding-a-camera-mode-as-part-of-octobers-major-update-but-some-fans-need-more-proof-that-the-games-not-going-to-wither-away/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/N2UZotwqvwFYigkedwYkS6-1280-80.png",
+    "published_at": "2026-08-27T16:21:58.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7e6aaca43dd3",
+    "slug": "dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to",
+    "headline": "Dwarf Fortress is getting the mother of all magic updates, extending to \"the fundamental cosmological makeup of the universe\"",
+    "summary": "Infamously simulation-heavy colony builder Dwarf Fortress is getting a Myth and Magic update that, at the possible risk of being maybe a touch hyperbolic, threatens to make all other fantasy game spellcraft look like a sleepy bout of Got Your Nose. It's summarised by Bay12 co-founder Tarn Adams as a set of procedural systems \"that go beyond combining spell effects...…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Dwarf-Fortress_l6U4yxY.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-08-27T16:20:59.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "001c32c3abc1",
+    "slug": "oh-lord-konami-want-yearly-silent-hill-games-alongside-vaguely-describ",
+    "headline": "Oh lord, Konami want yearly Silent Hill games alongside vaguely described \"experiences,\" just don't let that be another movie",
+    "summary": "After an entire decade without a proper new Silent Hill game, in the past three years we've had two completely new games (one of which was pretty damn good if you ask me), one remake, whatever Ascension was meant to be, and the laughably bad new film. A mixed bunch, to be sure, but food is food, and Silent Hill…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/oh-lord-konami-want-yearly-silent-hill-games-alongside-vaguely-described-experiences-just-dont-let-that-be-another-movie"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/silent-hill-f-screenshot-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-08-27T16:07:20.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "737cdddf038d",
+    "slug": "co-op-physics-based-building-game-what-goes-up-announced-for-ps5-xbox",
+    "headline": "Co-op physics-based building game What Goes Up announced for PS5, Xbox Series, and PC",
+    "summary": "Publisher Team17 and developer Bossa Games have announced What Goes Up, a cooperative physics-based building …",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/08/co-op-physics-based-building-game-what-goes-up-announced-for-ps5-xbox-series-and-pc"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/737cdddf038d/800/600",
+    "published_at": "2026-08-27T16:02:27.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "549f2d6a2f19",
+    "slug": "marvel-tokon-fans-are-pretty-much-in-agreement-about-the-games-worst-c",
+    "headline": "Marvel Tōkon Fans Are Pretty Much In Agreement About The Game’s Worst Character",
+    "summary": "Though in a tag fighter, even low-tier characters have their uses",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/marvel-tokon-fighting-souls-tier-list-danger-worst-best-2000728875"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/05/marveltokonfightingsouls_lob_mas_mob_03-1280x610.jpg",
+    "published_at": "2026-08-27T16:00:23.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5cc812ca59ed",
+    "slug": "germanys-president-warns-of-downsides-to-gaming-including-games-with-e",
+    "headline": "Germany’s President Warns Of Downsides To Gaming, Including Games With “Extremist Ideologies”",
+    "summary": "This year's Gamescom event is underway in Cologne, Germany, and now the country's president, Frank-Walter Steinmeier--speaking at the event itself--warned people to consider the downsides to gaming. He also said gaming is great and has lots of positive effects on people and society. As reported by DPA International, he said video games have \"become so ubiquitous,\" so it's only prudent…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/germanys-president-warns-of-downsides-to-gaming-including-games-with-extremist-ideologies/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Screenshot-2026-08-27-at-11.49.31-AM.png?w=300",
+    "published_at": "2026-08-27T15:57:39.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "de721756dabc",
+    "slug": "holstin-launches-in-2027",
+    "headline": "Holstin launches in 2027",
+    "summary": "Psychological survival horror game Holstin will launch for PlayStation 5, Xbox Series, Switch, and PC …",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/08/holstin-launches-in-2027"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/de721756dabc/800/600",
+    "published_at": "2026-08-27T15:54:16.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a59d6d71bb8b",
+    "slug": "state-of-decay-3-announces-closed-beta-playtests-later-this-year",
+    "headline": "State of Decay 3 Announces Closed Beta Playtests Later This Year",
+    "summary": "State of Decay 3 fans will have the chance to play the game later this year via a closed beta.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/state-of-decay-3-announces-closed-beta-playtests-later-this-year"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2024/06/09/sod2-1717953324498.png",
+    "published_at": "2026-08-27T15:54:14.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "4eb10ae7bd4e",
+    "slug": "trump-reportedly-flirting-with-new-round-of-tariffs-on-gaming-hardware",
+    "headline": "Trump Reportedly Flirting With New Round of Tariffs on Gaming Hardware",
+    "summary": "US President Donald Trump is reportedly considering new tariffs on gaming hardware, which could impact console prices",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/trump-reportedly-flirting-with-a-new-round-of-tariffs-on-gaming-hardware-2000728863"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2025/04/ca86d289e7ac3ef0b304360ca1c737c4-1280x720.jpg",
+    "published_at": "2026-08-27T15:40:24.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2b9e34f4fc4d",
+    "slug": "free-play-days-try-these-xbox-games-for-free-august-27-30",
+    "headline": "Free Play Days: Try These Xbox Games For Free (August 27-30)",
+    "summary": "Presenting your latest batch of weekend freebies! Thursday has an uncanny habit of creeping up on us, and this one has been a particularly busy Thursday! Xbox is live from Gamescom right now, but we're here to bring you the next batch of Xbox Free Play Days titles. This week, we've got some bangers! Of course, Call of Duty: Modern…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/08/free-play-days-try-these-xbox-games-for-free-august-27-30"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/0c2975b9b317b/large.jpg",
+    "published_at": "2026-08-27T15:36:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "dd0c7f671f3e",
+    "slug": "son-of-thanjai-launches-in-spring-2027",
+    "headline": "Son of Thanjai Launches in Spring 2027",
+    "summary": "An action-adventure game set in 11th century South India, Son of Thanjai is coming to PlayStation 5, but no release date or details have been announced yet.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/08/son-of-thanjai-launches-in-spring-2027"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/dd0c7f671f3e/800/600",
+    "published_at": "2026-08-27T15:32:59.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "son-of-thanjai",
+    "game_label": "Son of Thanjai"
+  },
+  {
     "id": "618c725e7088",
     "slug": "every-free-game-released-on-the-epic-games-store-august-2026",
     "headline": "Every Free Game Released On The Epic Games Store (August 2026)",
@@ -50,29 +750,27 @@
     "game_label": "Forza Horizon 6"
   },
   {
-    "id": "95da2ff46aa4",
-    "slug": "how-to-recruit-astromechs-in-star-wars-zero-company",
-    "headline": "How to Recruit Astromechs In Star Wars Zero Company",
-    "summary": "The article provides tips on how to effectively deploy and utilize astromech droids in the Star Wars: Zero Company game, optimizing their performance in combat scenarios.",
+    "id": "e5cf4d44a6e6",
+    "slug": "nintendo-download-27th-august-north-america",
+    "headline": "Nintendo Download: 27th August (North America)",
+    "summary": "MGS! Elden Ring! Orbitals! COD Beta! The latest Nintendo Download update for North America has arrived, and it's bringing new games galore to the eShop. As always, be sure to drop a vote in our poll and comment down below with your potential picks for the week. Enjoy! Switch 2 eShop - Highlights Call of Duty: Modern Warfare 4 Open…",
     "category": "releases",
     "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
+      "switch"
     ],
     "sources": [
       {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/star-wars-zero-company-unlock-recruit-astromechs/"
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/08/nintendo-download-27th-august-north-america"
       }
     ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/08/three-different-models-of-astromechs-in-star-wars-zero-company.jpg",
-    "published_at": "2026-08-27T15:30:20.000Z",
-    "hype_signal": 50,
+    "image_url": "https://images.nintendolife.com/c57694d20607c/large.jpg",
+    "published_at": "2026-08-27T15:30:00.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
-    "game": "star-wars-zero-company",
-    "game_label": "Star Wars Zero Company"
+    "game": null,
+    "game_label": null
   },
   {
     "id": "0a3a5c51147b",
@@ -87,6 +785,10 @@
       {
         "name": "Pure Xbox",
         "url": "https://www.purexbox.com/news/2026/08/the-xbox-25th-anniversary-console-is-already-proving-very-popular-with-scalpers"
+      },
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/08/scalpers-are-already-trying-to-sell-the-xbox-25th-anniversary-console-at-high-prices"
       }
     ],
     "image_url": "https://images.purexbox.com/d2f62d5bfc4b3/large.jpg",
@@ -124,6 +826,32 @@
     "comment_count": 0,
     "game": "scott-pilgrim-ex",
     "game_label": "Scott Pilgrim EX"
+  },
+  {
+    "id": "63410505962d",
+    "slug": "the-witcher-3-price-quietly-increased-ahead-of-remaster-release",
+    "headline": "The Witcher 3 Price Quietly Increased Ahead of Remaster Release",
+    "summary": "CD Projekt Red's The Witcher 3: Wild Hunt is set to receive a price hike ahead of its remastered release next month, although the exact amount is not specified.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/the-witcher-3-price-quietly-increased-ahead-of-remaster-release"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/03/25/witcher-3-easl-br-1774455428792.jpg",
+    "published_at": "2026-08-27T15:22:47.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
   },
   {
     "id": "7172da1493c1",
@@ -607,6 +1335,27 @@
     "game_label": null
   },
   {
+    "id": "4bac02b996e9",
+    "slug": "stuntman-hollywood-adds-jurassic-world-inspired-action-sequences",
+    "headline": "Stuntman: Hollywood adds Jurassic World-inspired action sequences",
+    "summary": "Single-player action racing game Stuntman: Hollywood will feature stunt sequences inspired by Universal Pictures’ Jurassic …",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/08/stuntman-hollywood-adds-jurassic-world-inspired-action-sequences"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/4bac02b996e9/800/600",
+    "published_at": "2026-08-27T14:31:38.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "d5bdc864a9e0",
     "slug": "gta-6-extended-look-will-show-nearly-30-minutes-of-gameplay",
     "headline": "GTA 6 Extended Look Will Show Nearly 30 Minutes of Gameplay",
@@ -790,6 +1539,27 @@
     "game_label": null
   },
   {
+    "id": "767588baab25",
+    "slug": "this-indie-studios-gamescom-booth-was-a-blank-wall-so-they-grabbed-mar",
+    "headline": "This indie studio’s Gamescom booth was a blank wall — so they grabbed marker pens",
+    "summary": "Every Gamescom booth tells a story. For indie developer Road Studio, that story started with a blank wall. Three weeks before this year’s show,...\nThe post This indie studio’s Gamescom booth was a blank wall — so they grabbed marker pens appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/this-indie-studios-gamescom-booth-was-a-blank-wall-so-they-grabbed-marker-pens/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/767588baab25/800/600",
+    "published_at": "2026-08-27T13:42:24.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "a4af491bd370",
     "slug": "european-games-industry-sees-30-billion-in-revenue",
     "headline": "European Games Industry Sees €30 Billion in Revenue",
@@ -903,30 +1673,6 @@
     "comment_count": 0,
     "game": "gta-6",
     "game_label": "GTA 6"
-  },
-  {
-    "id": "c5c9719e6cfc",
-    "slug": "gta-6-netflix-trailer-to-reveal-26-minute-extended-look",
-    "headline": "GTA 6 Netflix Trailer to Reveal 26-Minute Extended Look",
-    "summary": "Rockstar's GTA 6 event on Netflix will last 26 minutes, an extended look at the game",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gta-6-netflix-trailers-beefy-runtime-revealed-footage-captured-on-ps5/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Brian_Heder_01.jpg?w=300",
-    "published_at": "2026-08-27T13:18:01.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "c6ba00d7a434",
@@ -3846,758 +4592,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "5bb9d557081e",
-    "slug": "yu-gi-oh-x-crocs-collaboration-revealed-ahead-of-world-championship",
-    "headline": "Yu-Gi-Oh x Crocs Collaboration Revealed Ahead of World Championship",
-    "summary": "Crocs and Konami have revealed a new line of clogs inspired by the Yu-Gi-Oh trading card game and anime series.",
-    "category": "esports",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/yu-gi-oh-crocs-collaboration-reveal"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/26/yugiohcroc-1787769275500.jpg",
-    "published_at": "2026-08-26T19:20:54.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f643a7e13c6a",
-    "slug": "1666-amsterdam-brings-open-world-day-night-mechanics-to-early-access",
-    "headline": "1666: Amsterdam Brings Open-World Day-Night Mechanics to Early Access",
-    "summary": "Game 1666: Amsterdam is now available in Early Access, showcasing a unique approach to day and night cycles that blend gameplay and scenery.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/1666-amsterdam-day-night-cycle-open-world-gameplay/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/bazaart_58fe2f7a-ab9b-4b81-a22b-a1636764c1cd.jpeg",
-    "published_at": "2026-08-26T19:15:13.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "1666-amsterdam",
-    "game_label": "1666: Amsterdam"
-  },
-  {
-    "id": "616efcc1d7a1",
-    "slug": "everything-announced-at-fgs-live-from-gamescom-2026-2",
-    "headline": " Everything announced at FGS Live From Gamescom 2026 ",
-    "summary": "Here’s every reveal from the sister show of the Future Games Show at gamescom",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/events-conferences/everything-announced-at-fgs-live-from-gamescom-2026/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/UvpkAPS6s3Bs8AeuvoebdF-1280-80.jpg",
-    "published_at": "2026-08-26T19:13:52.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1242f37f4bd0",
-    "slug": "dungeons-dragons-long-rest-tavern-experience-shines",
-    "headline": "Dungeons & Dragons: Long Rest Tavern Experience Shines",
-    "summary": "D&D: Long Rest Tavern lets players run an inn, providing a unique experience compared to typical D&D adventures",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/this-dd-game-made-a-better-first-impression-than-warlock/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/long-rest-tavern.jpg?w=300",
-    "published_at": "2026-08-26T19:12:18.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "dungeons-dragons-long-rest-tavern",
-    "game_label": "Dungeons & Dragons: Long Rest Tavern"
-  },
-  {
-    "id": "0fd56ebb6b31",
-    "slug": "gta-6-spoilers-are-part-of-the-latest-gameplay-leak",
-    "headline": "GTA 6 Spoilers Are Part Of The Latest Gameplay Leak",
-    "summary": "A new gameplay leak for GTA 6 has surfaced, revealing story spoilers and details about the playable character Jason. The leak has sparked excitement among fans, but also warns users to be cautious of spoilers.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gta-6-spoilers-are-part-of-the-latest-gameplay-leak/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-2.41.29-PM.png?w=300",
-    "published_at": "2026-08-26T19:11:03.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gta-6",
-    "game_label": "GTA 6"
-  },
-  {
-    "id": "63ce63871a6b",
-    "slug": "1047-games-ends-active-development-on-empulse-and-splitgate-arena-relo",
-    "headline": "1047 Games ends active development on Empulse and Splitgate: Arena Reloaded, says it's moving away from live service shooters",
-    "summary": "1047 Games is ending active development on Empulse and Splitgate: Arena Reloaded, moving both titles to peer-to-peer hosting as the studio signals a broader shift away from live service shooters after ten years.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/1047-games-ends-active-development-on-empulse-and-splitgate-arena-reloaded-says-its-moving-away-from-live-service-shooters"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/splitgate-2_t5cCSSi.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-08-26T19:10:37.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "180c03321180",
-    "slug": "warhammer-40000-boltgun-2-is-out-this-october-with-a-very-special-gues",
-    "headline": "Warhammer 40,000: Boltgun 2 Is Out This October With A Very Special Guest",
-    "summary": "Warhammer 40,000: Boltgun 2 is one of the most highly anticipated games in the entire Warhammer franchise, and we'll be able to play it very soon. Even better, it's going to feature a guest appearance by one of the most legendary composers in the history of first-person shooters. On October 14, Warhammer 40,000: Boltgun 2 will release across PS5, Xbox…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/warhammer-40000-boltgun-2-is-out-this-october-with-a-very-special-guest/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/boltgun-2-release-date.jpg?w=300",
-    "published_at": "2026-08-26T19:10:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8eaeb7be9da7",
-    "slug": "hoarder-launches-in-2027-2",
-    "headline": "HOARDER launches in 2027",
-    "summary": "Psychological horror game HOARDER for PlayStation 5, Xbox Series, and PC via Steam in 2027, …",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/08/hoarder-launches-in-2027"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/8eaeb7be9da7/800/600",
-    "published_at": "2026-08-26T19:05:03.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f5e6558bc9e7",
-    "slug": "more-people-watch-hockey-thanks-to-heated-rivalry-and-this-new-game-ho-2",
-    "headline": "More People Watch Hockey Thanks To Heated Rivalry, And This New Game Hopes To Benefit",
-    "summary": "Savage Planet series developer Raccoon Logic announced a new game at Gamescom today, and it's not what anyone would expect.\nBreakaway Hockey League is a new \"high-skill\" 4v4 ice hockey game with five-minute matches, ranked play, and what the studio called \"larger-than-life spectacle.\"\n\nhttps://www.youtube.com/watch?v=XIqv5Qg2Tmo&t=1s\n\n\n\n\nIn development for PC, Breakaway Hockey League has players c",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/more-people-watch-hockey-thanks-to-heated-rivalry-and-this-new-game-hopes-to-benefit/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/BHL-Large.jpeg?w=300",
-    "published_at": "2026-08-26T19:01:57.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d632f820493a",
-    "slug": "roblox-officially-cracks-down-on-doomscrolling-reward-games-after-cont",
-    "headline": "Roblox Officially Cracks Down on Doomscrolling-Reward Games After Controversy",
-    "summary": "'Roblox' has taken a stance against \"doomscrolling\" by restricting games that reward ongoing media feed consumption.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/roblox-doomscroll-game-steal-an-egg-media-feed-restriction/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/roblox-key-art.jpg",
-    "published_at": "2026-08-26T19:01:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "476bf8922976",
-    "slug": "roblox-cracks-down-on-doomscrolling-games",
-    "headline": "Roblox Cracks Down On 'Doomscrolling Games'",
-    "summary": "Roblox is cracking down on games that encourage players to do chores while playing, citing concerns for player well-being",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/roblox-cracks-down-on-doomscrolling-games-like-steal-an-egg-that-forces-players-to-watch-reels-while-running-on-a-treadmill-2000727952"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/roblox-doomscroll-game-steal-an-egg-media-feed-restriction/"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/08/scroll-a-brainrot.jpg",
-    "published_at": "2026-08-26T19:01:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "838472ca7b6b",
-    "slug": "why-a-game-originally-prototyped-for-game-boy-color-is-going-head-to-h",
-    "headline": "Why A Game Originally Prototyped For Game Boy Color Is Going Head-To-Head With GTA 6",
-    "summary": "'If only we knew about the GTA 6 nudist colony'",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/volvys-adventure-devolver-digital-gta-6-2000728516"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/08/volvy-1280x720.jpg",
-    "published_at": "2026-08-26T19:00:48.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c674dbc895c3",
-    "slug": "stalker-2-all-legendary-artifact-locations-effects",
-    "headline": "STALKER 2: All Legendary Artifact Locations & Effects",
-    "summary": "Game Rant reveals locations and effects of legendary artifacts in STALKER 2, a game focused on survival and exploration in a post-apocalyptic world.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/stalker-2-all-legendary-weird-artifacts-effects-locations/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/20be4f-1.JPG",
-    "published_at": "2026-08-26T19:00:13.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "stalker-2",
-    "game_label": "STALKER 2"
-  },
-  {
-    "id": "112ddbd2d7a6",
-    "slug": "danganronpa-2x2-no-longer-getting-a-full-cartridge-release-on-switch-2",
-    "headline": "Danganronpa 2x2 No Longer Getting A Full Cartridge Release On Switch 2",
-    "summary": "Spike Chunsoft opts for Game-Key Card. Spike Chunsoft has announced that its retail editions of Danganronpa 2x2 will no longer be released on a proper physical cartridge on Switch 2 when it launches early 2027. Instead, the game will be made available on a Game-Key Card. As such, pre-orders of the Danganronpa 2x2 Psycho Tropical Vacation Package from Spike Chunsoft's…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/08/danganronpa-2x2-no-longer-getting-a-full-cartridge-release-on-switch-2"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/866b3a8f6deb0/large.jpg",
-    "published_at": "2026-08-26T19:00:00.000Z",
-    "hype_signal": 100,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d354de79eea4",
-    "slug": "next-gen-xbox-prioritises-affordability-as-rumours-of-stupidly-expensi",
-    "headline": "Next-Gen Xbox Prioritises 'Affordability' as Rumours of Stupidly Expensive PS6 Continue",
-    "summary": "\"Giving people more choice\". The mass uncertainty that currently surrounds next-gen consoles will obviously have to be addressed by both Sony and Microsoft at some point, but until then, the two companies will continue to make vague — but still somewhat interesting — statements. Xbox boss Asha Sharma is doing just that with her latest comments, fresh out of Gamescom.…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/08/next-gen-xbox-prioritises-affordability-as-rumours-of-stupidly-expensive-ps6-continue"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/c5a68763055a8/large.jpg",
-    "published_at": "2026-08-26T19:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "eaa47e2ee9d8",
-    "slug": "star-wars-zero-company-tips-for-tactics-padawans",
-    "headline": "Star Wars Zero Company Tips for Tactics Padawans",
-    "summary": "Star Wars Zero Company is finally out August 27, 2026, on XBOX Series X|S. This tactics game set during the Clone Wars is the debut from Bit Reactor, which was founded by veteran developers from XCOM, XCOM 2, and Marvel’s Midnight Suns explicitly to build upon the foundation of their exceptional previous work in the […] The post Star Wars…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/08/26/star-wars-zero-company-tips/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/eaa47e2ee9d8/800/600",
-    "published_at": "2026-08-26T19:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1bca450dc4d4",
-    "slug": "gta-6-brings-back-a-fan-favorite-san-andreas-feature-youll-get-chubby",
-    "headline": "GTA 6 brings back a fan-favorite San Andreas feature: you'll get chubby if you eat a lot ",
-    "summary": "Rockstar Games is revisiting a feature from Grand Theft Auto: San Andreas, where players can gain weight by eating unhealthy foods, in Grand Theft Auto 6.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-brings-back-a-fan-favorite-san-andreas-feature-youll-get-chubby-if-you-eat-a-lot/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Se9BZFD5s9Au3L5p7hhTzm-1280-80.jpg",
-    "published_at": "2026-08-26T18:59:47.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "f8e947007c93",
-    "slug": "poppy-playtime-studio-reveals-its-next-survival-horror-game-and-this-t",
-    "headline": " Poppy Playtime studio reveals its next survival horror game, and this time it's co-op ",
-    "summary": "You've met the critters, now become one in Mob Entertainment's Escape From Playtime.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/horror/poppy-playtime-studio-reveals-its-next-survival-horror-game-and-this-time-its-co-op/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/H5soxJifWCtYC8tbFyqhvZ-1280-80.jpg",
-    "published_at": "2026-08-26T18:58:51.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "edc2463bdec0",
-    "slug": "gamescom-continues-to-grow-in-attendance",
-    "headline": "Gamescom Continues to Grow in Attendance",
-    "summary": "Gamescom has sold out its exhibition floor with 1,600 exhibitors and is expected to draw hundreds of thousands of attendees, making it one of the largest gaming shows in the world.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/the-biggest-gaming-show-in-the-west-continues-to-grow/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Screenshot-2026-08-25-at-1.57.39-PM.png?w=300",
-    "published_at": "2026-08-26T18:58:22.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "502b5685bff9",
-    "slug": "super2d-turn-based-rpg-amphibian-announced-for-ps5-xbox-series-switch",
-    "headline": "‘Super2D turn-based RPG’ Amphibian announced for PS5, Xbox Series, Switch, and PC",
-    "summary": "JARCORP Interactive has announced Amphibian, a “Super2D turn-based RPG” coming to PlayStation 5, Xbox Series, …",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/08/super2d-turn-based-rpg-amphibian-announced-for-ps5-xbox-series-switch-and-pc"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/502b5685bff9/800/600",
-    "published_at": "2026-08-26T18:55:53.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "609c942b6e5e",
-    "slug": "gta-6s-first-official-preview-reveals-5-juicy-new-details",
-    "headline": "GTA 6's First Official Preview Reveals 5 Juicy New Details",
-    "summary": "Rockstar Games has revealed five key details about Grand Theft Auto 6, including a more complex honor system and more realistic non-player characters, in an official preview.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox",
-      "playstation",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-dazed-magazine-preview-npc-honor-realism-gameplay/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/untitled-design-9.jpg",
-    "published_at": "2026-08-26T18:52:59.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "b87010beb055",
-    "slug": "first-person-narrative-driven-horror-breakup-simulator-sweetheart-anno-2",
-    "headline": "‘First-person narrative-driven horror breakup simulator’ Sweetheart announced for PS5, Xbox Series, Switch, and PC",
-    "summary": "T.W.I.R.L. developer Genie Boy Games has announced Sweetheart, a “first-person narrative-driven horror breakup simulator.” It …",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/08/first-person-narrative-driven-horror-breakup-simulator-sweetheart-announced-for-ps5-xbox-series-switch-and-pc"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/b87010beb055/800/600",
-    "published_at": "2026-08-26T18:52:16.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "678596c89935",
-    "slug": "neon-abyss-2-launches-this-fall-for-ps5-xbox-series-switch-and-pc",
-    "headline": "Neon Abyss 2 launches this fall for PS5, Xbox Series, Switch, and PC",
-    "summary": "Side-scrolling roguelike action game sequel Neon Abyss 2 will leave Early Access and launch for …",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/08/neon-abyss-2-launches-this-fall-for-ps5-xbox-series-switch-and-pc"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/678596c89935/800/600",
-    "published_at": "2026-08-26T18:45:26.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4e210fa73710",
-    "slug": "train-sim-world-7-will-come-to-ps5-weeks-before-the-japanese-route-ive",
-    "headline": "Train Sim World 7 Will Come to PS5 Weeks Before the Japanese Route I've Spent Years Writing About",
-    "summary": "It's close. There was an air of inevitability to all this really, I suppose. It’s almost September, which means a new Train Sim World game is right around the corner, this time Train Sim World 7. (At some point we might have to start writing the number in words like when a football team suffers a particularly heavy loss.) Read…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/08/train-sim-world-7-will-come-to-ps5-weeks-before-the-japanese-route-ive-spent-years-writing-about"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/877cbc317431f/large.jpg",
-    "published_at": "2026-08-26T18:45:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2902055049e1",
-    "slug": "rockstar-games-doubled-in-size-for-gta-6-hired-real-world-professional",
-    "headline": "Rockstar Games Doubled in Size for GTA 6, Hired Real World Professionals for Fashion, Vehicles, and More",
-    "summary": "Rockstar Games doubled its employee headcount for Grand Theft Auto 6 and hired real-world professionals for the game's vehicles, fashion, and more.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/rockstar-games-doubled-in-size-for-gta-6-hired-real-world-professionals-for-fashion-vehicles-and-more"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/25/vintage-vice-city-pack-exclusive-looks-01-1787655039708.jpg",
-    "published_at": "2026-08-26T18:42:05.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9e6f576e3f2e",
-    "slug": "call-of-duty-modern-warfare-4-for-switch-2-now-available-for-preorder-2",
-    "headline": "Call of Duty: Modern Warfare 4 for Switch 2 Now Available for Preorder",
-    "summary": "Call of Duty: Modern Warfare 4 is now available for preorder on the Nintendo Switch 2, but there are no physical copies to be found in the box.",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-for-switch-2-where-to-buy"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/26/untitled-design-1787767062967.png",
-    "published_at": "2026-08-26T18:39:44.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "call-of-duty-modern-warfare-4",
-    "game_label": "Call of Duty: Modern Warfare 4"
-  },
-  {
-    "id": "f27125339d22",
-    "slug": "warhammer-40000-boltgun-ii-launches-october-14-for-ps5-xbox-series-and",
-    "headline": "Warhammer 40,000: Boltgun II launches October 14 for PS5, Xbox Series, and PC, later for Switch 2",
-    "summary": "Retro-style first-person shooter sequel Warhammer 40,000: Boltgun II will launch for PlayStation 5, Xbox Series, …",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/08/warhammer-40000-boltgun-ii-launches-october-14-for-ps5-xbox-series-and-pc-later-for-switch-2"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/f27125339d22/800/600",
-    "published_at": "2026-08-26T18:35:35.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cd8a1cf3eaf8",
-    "slug": "the-duskbloods-feels-like-a-nintendo-party-game-in-a-bloody-wrapper-2",
-    "headline": "The Duskbloods Feels Like a Nintendo Party Game in a Bloody Wrapper",
-    "summary": "IGN praises The Duskbloods for its unique blend of dark visuals and classic multiplayer gameplay, drawing comparisons to Nintendo party games.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/the-duskbloods-feels-like-a-nintendo-party-game-in-a-bloody-wrapper"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/26/wnzyrfiwlt-t80ttkxvnskn4mrykb-fbwpiwr8nztpi-1787768931367.jpg",
-    "published_at": "2026-08-26T18:35:01.000Z",
-    "hype_signal": 75,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-duskbloods",
-    "game_label": "The Duskbloods"
-  },
-  {
-    "id": "a13490a6cf94",
-    "slug": "danganronpa-22-switch-pre-orders-canceled-2",
-    "headline": "Danganronpa 2×2 Switch Pre-Orders Canceled",
-    "summary": "Kotaku reports that pre-orders for a Danganronpa 2×2 Switch version have been canceled after the game was used as a game-key card",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/danganronpa-2x2-switch-2-game-key-card-pre-order-cancel-2000728537"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/07/2x2-1280x722.jpg",
-    "published_at": "2026-08-26T18:31:38.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "danganronpa-22",
-    "game_label": "Danganronpa 2×2"
-  },
-  {
-    "id": "87576c156b7a",
-    "slug": "warhammer-age-of-sigmar-deathmaster-gameplay-trailer-screenshots-2",
-    "headline": "Warhammer Age of Sigmar: Deathmaster ‘Gameplay’ trailer, screenshots",
-    "summary": "Publisher Dotemu and developer Old Skull Games have released a gameplay trailer and new screenshots …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/08/warhammer-age-of-sigmar-deathmaster-gameplay-trailer-screenshots"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/87576c156b7a/800/600",
-    "published_at": "2026-08-26T18:30:34.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ce2eadb0e30f",
-    "slug": "10-great-games-where-earning-money-is-more-difficult-than-youd-expect-2",
-    "headline": "10 Great Games Where Earning Money Is More Difficult Than You'd Expect",
-    "summary": "These games make every coin count, whether you’re funding a revolution, feeding your family, or desperately restocking Blood Vials.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/games-where-money-is-hard-to-earn/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/08/lightning-farron-hollow-knight-and-the-bloodborne-hunter-on-a-rimworld-background.jpg",
-    "published_at": "2026-08-26T18:30:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f2fe95ca78a0",
-    "slug": "dd-long-rest-tavern",
-    "headline": "D&D Long Rest Tavern",
-    "summary": "A new D&D game is coming to PC, where players can experience life as an adventurer in the Forgotten Realms",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/dnd-dungeons-dragons-new-game-long-rest-tavern-sim/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/d-d-long-rest-tavern-featured-image-header.jpg",
-    "published_at": "2026-08-26T18:30:14.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "dungeons-dragons-long-rest-tavern",
-    "game_label": "Dungeons & Dragons: Long Rest Tavern"
   }
 ]
