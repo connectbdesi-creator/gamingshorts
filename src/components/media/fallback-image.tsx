@@ -1,21 +1,53 @@
 "use client";
 
 import Image, { type ImageProps } from "next/image";
-import { useState } from "react";
+import { useMemo, useState } from "react";
+import { ALLOWED_IMAGE_HOSTNAMES } from "@/lib/image-hosts";
+
+const ALLOWED_HOSTNAME_SET = new Set(ALLOWED_IMAGE_HOSTNAMES);
+
+function isAllowedRemoteUrl(src: ImageProps["src"]): boolean {
+  if (typeof src !== "string") return true; // a StaticImageData import — always local, always safe
+  try {
+    const url = new URL(src);
+    // next.config.ts's remotePatterns are https-only (matching real
+    // outlet CDN behavior almost universally) — an http:// URL for an
+    // otherwise-allowed hostname still fails Next's own pattern match
+    // (protocol is part of the pattern), so it has to be rejected here
+    // too, not just the hostname.
+    return url.protocol === "https:" && ALLOWED_HOSTNAME_SET.has(url.hostname);
+  } catch {
+    return false; // not a valid absolute URL
+  }
+}
 
 /**
  * Drop-in replacement for next/image that falls back to a stable
- * placeholder if the real image fails to load client-side — a source
- * outlet's CDN periodically 403s, 404s, or otherwise stops serving an
- * image URL that was valid when it was ingested (hotlink protection,
- * asset rotation, deleted articles), and there's no way to fully prevent
- * that at ingestion time. Without this, a dead URL renders as a browser's
- * broken-image icon with the headline/badges overlapping oddly on top of
- * it, since the image's box still reserves its normal space.
+ * placeholder in two cases:
+ *  - The URL's hostname isn't in next.config.ts's image allowlist
+ *    (src/lib/image-hosts.ts) — next/image doesn't fail soft here, it
+ *    throws synchronously and takes down the whole page, since an
+ *    unconfigured remote host is treated as a security misconfiguration,
+ *    not an ordinary load failure. A new RSS source or a CDN serving from
+ *    an unexpected subdomain (confirmed: IGN uses both
+ *    assets-prd.ignimgs.com and assets1.ignimgs.com) can introduce one at
+ *    any time.
+ *  - The image genuinely fails to load client-side (a source outlet's CDN
+ *    403s/404s/expires a URL after ingestion) — this renders as the
+ *    browser's broken-image icon with headline/badges overlapping oddly
+ *    on top of it, since the image's box still reserves its normal space.
  */
 export function FallbackImage({ alt, src, ...rest }: ImageProps) {
-  const [failed, setFailed] = useState(false);
+  const [loadFailed, setLoadFailed] = useState(false);
+  const configInvalid = useMemo(() => !isAllowedRemoteUrl(src), [src]);
   const fallbackSrc = `https://picsum.photos/seed/${encodeURIComponent(String(src))}/800/600`;
 
-  return <Image {...rest} alt={alt} src={failed ? fallbackSrc : src} onError={() => setFailed(true)} />;
+  return (
+    <Image
+      {...rest}
+      alt={alt}
+      src={loadFailed || configInvalid ? fallbackSrc : src}
+      onError={() => setLoadFailed(true)}
+    />
+  );
 }
