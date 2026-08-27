@@ -3327,5 +3327,231 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-26T20:04:27.765Z"
+  },
+  {
+    "slug": "one-piece",
+    "name": "One piece",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/525/525727aa07eb1c8bc5f871a4f1523a18.jpg",
+    "released": "2022-12-31",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/525/525727aa07eb1c8bc5f871a4f1523a18.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-27T07:33:55.446Z"
+  },
+  {
+    "slug": "xenoblade-chronicles-2",
+    "name": "Xenoblade Chronicles 2",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/a9a/a9a6055569c986a04d066b310ea57ebb.jpg",
+    "released": "2017-11-30",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/799/799b1a80f06693ad59e4fed0b6d71269.jpg",
+      "https://media.rawg.io/media/screenshots/b56/b562b17ceb010770961342d5e3509584.jpg",
+      "https://media.rawg.io/media/screenshots/191/191fa63ec54ad776d8594518a0747023.jpg",
+      "https://media.rawg.io/media/screenshots/810/810fbac0d9df81ece5c1674388d98b75.jpg",
+      "https://media.rawg.io/media/screenshots/b50/b500224bc5def470e51aebc3955198f3.jpg",
+      "https://media.rawg.io/media/screenshots/def/deff6fc6564f7ecd120904c43c6ee78e.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-27T07:33:56.235Z"
+  },
+  {
+    "slug": "jujutsu-kaisen",
+    "name": "Jujutsu Kaisen",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/25f/25fb20c3fdab4235e7e5e83df16654b3.jpg",
+    "released": "2022-12-20",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/25f/25fb20c3fdab4235e7e5e83df16654b3.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-27T07:33:57.068Z"
+  },
+  {
+    "slug": "brutal-legend",
+    "name": "Brutal Legend",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/af7/af7a831001c5c32c46e950cc883b8cb7.jpg",
+    "released": "2009-10-12",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "iOS",
+      "macOS",
+      "Linux",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/ded/ded6b47a8903f3ff9903f2068f132942.jpg",
+      "https://media.rawg.io/media/screenshots/252/252def39bf9e2630a2c7eb6a736171eb.jpg",
+      "https://media.rawg.io/media/screenshots/092/092467f790f3f594bb3f0886df02d9d0.jpg",
+      "https://media.rawg.io/media/screenshots/9bb/9bb08c6e8ae706f90c106c8a7de57644.jpg",
+      "https://media.rawg.io/media/screenshots/d29/d298235806cffe6393aadf37ef6c0632.jpg",
+      "https://media.rawg.io/media/screenshots/a30/a3059c047b76d09c8dfa19ce5ed0c8cf.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-27T07:33:57.869Z"
+  },
+  {
+    "slug": "grand-theft-auto",
+    "name": "Grand Theft Auto",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/786/786f9a212646c793ccbad196cba2cf36.jpg",
+    "released": "1997-10-21",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Game Boy Color",
+      "Game Boy"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/8f5/8f577f88855945518d24edf59dba9dff.jpg",
+      "https://media.rawg.io/media/screenshots/aab/aabcb87421c5e3f5af4ac39d62b01eae.jpg",
+      "https://media.rawg.io/media/screenshots/311/31181ab4311854dcccb0da8dcb25a8d1.jpg",
+      "https://media.rawg.io/media/screenshots/ab1/ab1f0c435afa5678392dae0da2db484e.jpg",
+      "https://media.rawg.io/media/screenshots/9b7/9b7995efbe72ca11c11bdc0101c69eae.jpg",
+      "https://media.rawg.io/media/screenshots/afb/afbe0f8a33778e5434155eaf9b97076b.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-27T07:34:00.016Z"
+  },
+  {
+    "slug": "chronicles-medieval",
+    "name": "Chronicles: Medieval",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/a4b/a4bf44cf18632db07ba929759ec041f3.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "Action"
+    ],
+    "platforms": [],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a4b/a4bf44cf18632db07ba929759ec041f3.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-27T07:34:02.386Z"
+  },
+  {
+    "slug": "silent-hill",
+    "name": "Silent Hill",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/15d/15db2360d1130ba8c10573586588b0bd.jpg",
+    "released": "1999-01-31",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PlayStation"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/eb4/eb4dc938cb3467681355bd4e67765a8c.jpg",
+      "https://media.rawg.io/media/screenshots/9f6/9f610b866680c7b8892c857093d9b603.jpg",
+      "https://media.rawg.io/media/screenshots/52b/52bc69b7fcf330c8f57063af77c8789d.jpg",
+      "https://media.rawg.io/media/screenshots/690/6900a9b2e72b04189736dad80f6b98dd.jpg",
+      "https://media.rawg.io/media/screenshots/7f3/7f3ccfc1a53ee57ddfb43fb009c7e8ea.jpg",
+      "https://media.rawg.io/media/screenshots/eb2/eb28922addfc37ddf9d1fb8072c247ea.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-27T07:34:03.006Z"
+  },
+  {
+    "slug": "grand-theft-auto-v",
+    "name": "Grand Theft Auto V",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
+    "released": "2013-09-17",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f95/f9518b1d99210c0cae21fc09e95b4e31.jpg",
+      "https://media.rawg.io/media/screenshots/a5c/a5c95ea539c87d5f538763e16e18fb99.jpg",
+      "https://media.rawg.io/media/screenshots/a7e/a7e990bc574f4d34e03b5926361d1ee7.jpg",
+      "https://media.rawg.io/media/screenshots/eb0/eb0a2c0de9194a635fc0cd04f5a29ae7.jpg",
+      "https://media.rawg.io/media/screenshots/ec7/ec7f05fb82290fea9647b7879fe9a6bf.jpg",
+      "https://media.rawg.io/media/screenshots/260/260559fbefce0b36c66ae5e280c7d774.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-27T07:34:03.686Z"
+  },
+  {
+    "slug": "a-plague-tale-legacy",
+    "name": "Resonance: A Plague Tale Legacy",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/c55/c55cc53bdf3cc4ee6f0a39f3c8b1dca7.jpg",
+    "released": "2026-08-27",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/419/419f397ba985087fce71ea41138690ba.jpg",
+      "https://media.rawg.io/media/screenshots/31c/31c5bbd89e97b093203d53417b27fe04.jpg",
+      "https://media.rawg.io/media/screenshots/b9d/b9db23a3443d56166f495c209a9f15ab.jpg",
+      "https://media.rawg.io/media/screenshots/bda/bdac8e4a76552b44949a922314aa885f.jpg",
+      "https://media.rawg.io/media/screenshots/ee5/ee558619e1f5f179a68333cdd52c04e3.jpg",
+      "https://media.rawg.io/media/screenshots/5c3/5c3db4df4bbff72b83626a7328bdaf20.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-27T07:34:05.244Z"
   }
 ]
