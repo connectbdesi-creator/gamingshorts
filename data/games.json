@@ -3603,5 +3603,87 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-27T13:26:48.295Z"
+  },
+  {
+    "slug": "scott-pilgrim-ex",
+    "name": "Scott Pilgrim EX",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/870/8708fa745efd9cfeb6ddac80a8e98d3c.jpg",
+    "released": "2026-03-03",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/3de/3de360dd25889c82c8f3578293e2d7d5.jpg",
+      "https://media.rawg.io/media/screenshots/45e/45eef1d760f51cf06161fd9db0a13163.jpg",
+      "https://media.rawg.io/media/screenshots/5a6/5a65dc7f3e94454aeb81bdb0e0a01404.jpg",
+      "https://media.rawg.io/media/screenshots/948/948f21028c9216e9ea0e25e62c4e1800.jpg",
+      "https://media.rawg.io/media/screenshots/949/949e82a04d7627e6500d5ff3ae844c3c.jpg",
+      "https://media.rawg.io/media/screenshots/9d4/9d48b61ceb48f6e456a78685dd332b75.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-27T15:42:55.784Z"
+  },
+  {
+    "slug": "persona-4",
+    "name": "Shin Megami Tensei: Persona 4",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/052/05237236b13f321e0fd9efa984a7d7a1.jpg",
+    "released": "2008-07-10",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PlayStation 3",
+      "PlayStation 2"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/5d2/5d285d2457d4b3bccdda719e55ce9882.jpg",
+      "https://media.rawg.io/media/screenshots/08a/08a0974f5ce01ba5187aac9c57a66de0.jpg",
+      "https://media.rawg.io/media/screenshots/6bf/6bf04669188a6cfeb805f0c3ee26e720.jpg",
+      "https://media.rawg.io/media/screenshots/423/42381c3116331015f3a445a1627e03e9.jpg",
+      "https://media.rawg.io/media/screenshots/026/0264557a4b01a02264b2b13208f49834.jpg",
+      "https://media.rawg.io/media/screenshots/a5b/a5b3cd58dc279a620b722f74a974e9d8.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-27T15:42:56.175Z"
+  },
+  {
+    "slug": "whisper-of-the-house",
+    "name": "Whisper of the House",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/de5/de55c5046ea3d150083ac24cc49684a7.jpg",
+    "released": "2025-08-27",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d5d/d5d7edae466d6c0953490cf073c23bbb.jpg",
+      "https://media.rawg.io/media/screenshots/31f/31f259a9a2e0250b3d53ba68f283aba9.jpg",
+      "https://media.rawg.io/media/screenshots/58a/58ac2cc668d613ddde79678601d84e1b.jpg",
+      "https://media.rawg.io/media/screenshots/5cc/5cc1f308e0baeeda218c969ce02fe702.jpg",
+      "https://media.rawg.io/media/screenshots/1d0/1d0e6355799e74283616f9f965b6346d.jpg",
+      "https://media.rawg.io/media/screenshots/e20/e205b17b9a4244b7b927b4e072459252.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-27T15:42:57.857Z"
   }
 ]
