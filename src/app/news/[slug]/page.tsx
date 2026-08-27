@@ -1,8 +1,8 @@
-import { MessageCircle } from "lucide-react";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { CategoryBadge } from "@/components/cards/category-badge";
 import { PlatformChip } from "@/components/cards/platform-chip";
+import { CommentCountBadge } from "@/components/comments/comment-count-badge";
 import { Comments } from "@/components/comments/comments";
 import { FollowButton } from "@/components/engagement/follow-button";
 import { LikeButton } from "@/components/engagement/like-button";
@@ -180,8 +180,7 @@ export default async function NewsCardPage({ params }: Props) {
             href="#comments"
             className="flex items-center gap-1.5 text-base font-medium text-foreground hover:text-accent"
           >
-            <MessageCircle className="size-5" />
-            {card.comment_count}
+            <CommentCountBadge initialCount={card.comment_count} />
           </a>
         </div>
       </div>

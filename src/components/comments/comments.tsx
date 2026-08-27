@@ -39,7 +39,7 @@ export function Comments({ term }: { term: string }) {
       mapping="specific"
       term={term}
       reactionsEnabled="1"
-      emitMetadata="0"
+      emitMetadata="1"
       inputPosition="top"
       theme={resolvedTheme === "dark" ? "dark" : "light"}
       lang="en"
