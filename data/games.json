@@ -3525,5 +3525,83 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-27T07:34:05.244Z"
+  },
+  {
+    "slug": "morrowind",
+    "name": "The Elder Scrolls III: Morrowind",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/ccf/ccf26f6e3d553a04f0033a8107a521b8.jpg",
+    "released": "2002-05-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "Xbox"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/aad/aadaaaad6e236f42b12b9a4334d0e242.jpg",
+      "https://media.rawg.io/media/screenshots/939/939fa07c730385d2ccf16f340ff612b0.jpg",
+      "https://media.rawg.io/media/screenshots/d06/d06fedaf9f6cdf79e8f89fc7e971ba69.jpg",
+      "https://media.rawg.io/media/screenshots/4dd/4dd30cc6133aae026dc0869976f0eaba.jpg",
+      "https://media.rawg.io/media/screenshots/47e/47eb377d6dfd4286e9f8857b459abb80.jpg",
+      "https://media.rawg.io/media/screenshots/39e/39e1e212b32ebd68deacad9287ada462.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-27T13:26:46.836Z"
+  },
+  {
+    "slug": "kingdom-hearts-4",
+    "name": "Kingdom Hearts IV",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/559/55921ffbe8beba576464a2c5aa4fdf1f.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/62b/62b04b9312814459d825faa004ab3820.jpg",
+      "https://media.rawg.io/media/screenshots/f62/f629e38cc8f2a37d56265e983eae230c.jpg",
+      "https://media.rawg.io/media/screenshots/e5a/e5a1307b13483968c2d13b740abc1793.jpg",
+      "https://media.rawg.io/media/screenshots/494/49476fd1eeb594c7eb0dc441da0b26c6_0aRXtCM.jpg",
+      "https://media.rawg.io/media/screenshots/7c0/7c05524d81cac77d048f8cc445e21677.jpg",
+      "https://media.rawg.io/media/screenshots/8ce/8ce4e7bb82a54f2580d85c8be56a653c.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-27T13:26:47.317Z"
+  },
+  {
+    "slug": "tides-of-annihilation",
+    "name": "Tides of Annihilation",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/9f2/9f20a2fa3ecdd23aaa67b23a3f255c9a.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/71f/71f3c4a1fb10df46705d761991815196.jpg",
+      "https://media.rawg.io/media/screenshots/51b/51b478bb04e2650bb803f0dff6db7575.jpg",
+      "https://media.rawg.io/media/screenshots/d72/d721f0c93bbdf638b7d594344f9545a6.jpg",
+      "https://media.rawg.io/media/screenshots/68c/68c21819085f2fb0beac26c33ceaafd5.jpg",
+      "https://media.rawg.io/media/screenshots/39c/39c1bafd44896465ec7aafdd85a952fe.jpg",
+      "https://media.rawg.io/media/screenshots/9f2/9f20a2fa3ecdd23aaa67b23a3f255c9a.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-27T13:26:48.295Z"
   }
 ]
