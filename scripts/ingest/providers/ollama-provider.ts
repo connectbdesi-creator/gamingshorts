@@ -3,10 +3,16 @@ import type { ModelProvider } from "./types";
 
 const DEFAULT_MODEL = "llama3.2:3b";
 const DEFAULT_HOST = "http://localhost:11434";
-// Local inference on a CPU CI runner is much slower than a hosted API —
-// generous timeout so a slow-but-working generation isn't mistaken for a
-// dead server and sent through the rule-based fallback unnecessarily.
-const REQUEST_TIMEOUT_MS = 90_000;
+// Started at 90s ("generous, so a slow-but-working generation isn't
+// mistaken for dead") but that let one bad shard burn most of its whole
+// time budget on a handful of calls when Ollama got inconsistently slow on
+// a CI runner (observed: a same-sized sibling shard finished in 2 seconds
+// while this one was still going after 14 minutes). 45s still comfortably
+// covers a normal, healthy generation with NUM_PREDICT capping output
+// length below — failing faster to rule-based here is what makes
+// lib/classify.ts's own shard-level deadline actually effective, not just
+// a backstop that never gets a chance to matter.
+const REQUEST_TIMEOUT_MS = 45_000;
 // A full card response (status/reason/headline/60-word summary/category/
 // platform_tags/hype_signal/game_label as JSON) never realistically needs
 // more than ~200 tokens — capping generation here is the single biggest

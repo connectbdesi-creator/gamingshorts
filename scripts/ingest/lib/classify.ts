@@ -1,3 +1,4 @@
+import { ruleBasedClassify } from "../rule-based";
 import { summarizeArticle } from "../summarize";
 import type { Candidate, Draft, ProviderBreakdown, SkippedLogEntry } from "./types";
 
@@ -8,6 +9,24 @@ import type { Candidate, Draft, ProviderBreakdown, SkippedLogEntry } from "./typ
 // therefore extra generation time — see NUM_PREDICT in
 // providers/ollama-provider.ts for the other half of this trade-off).
 const MAX_CONTENT_CHARS = 400;
+
+// Self-imposed wall-clock budget for a shard's classification loop —
+// exists because the alternative is worse: GitHub Actions' own
+// timeout-minutes (ingest.yml) kills the whole job from the outside,
+// which discards every candidate this shard already classified (the
+// "Upload shard results" step never runs on a cancelled job). A shard hit
+// this in practice: Ollama was inconsistently slow across otherwise-
+// identical parallel runners, and one shard's classify step got killed
+// after ~14 minutes of real, lost work while a same-sized sibling shard
+// finished in 2 seconds. Once this budget is spent, remaining candidates
+// in the slice classify via the rule-based fallback (instant, no network
+// call) instead of Ollama, so the shard always finishes and uploads
+// something well inside the external timeout — degrading gracefully to
+// rougher classifications under load instead of losing a run's work
+// entirely. Comfortably under the classify job's 18-minute cap (ingest.yml)
+// once ~1-1.5 minutes of Ollama install/cache/server-start overhead (which
+// happens before this function is even called) is accounted for.
+const DEFAULT_SHARD_DEADLINE_MS = 12 * 60 * 1000;
 
 export interface ClassifyResult {
   drafts: Draft[];
@@ -31,7 +50,10 @@ export interface ClassifyResult {
  * split across two shards has to be visible to the same clustering pass to
  * be caught, which per-shard classification alone can't do.
  */
-export async function classifyCandidates(candidates: Candidate[]): Promise<ClassifyResult> {
+export async function classifyCandidates(
+  candidates: Candidate[],
+  deadlineMs: number = DEFAULT_SHARD_DEADLINE_MS
+): Promise<ClassifyResult> {
   const startedAt = Date.now();
   const drafts: Draft[] = [];
   const skippedLog: SkippedLogEntry[] = [];
@@ -39,18 +61,28 @@ export async function classifyCandidates(candidates: Candidate[]): Promise<Class
   const providerBreakdown: ProviderBreakdown = { ollama: 0, "rule-based": 0 };
   let consecutiveRuleBasedFallbacks = 0;
   let warnedOllamaDown = false;
+  let deadlinePassed = false;
 
   for (const candidate of candidates) {
     const rawContent =
       candidate.item.contentSnippet ?? candidate.item.content ?? candidate.item.summary ?? candidate.title;
     const content = rawContent.slice(0, MAX_CONTENT_CHARS);
 
+    if (!deadlinePassed && Date.now() - startedAt >= deadlineMs) {
+      deadlinePassed = true;
+      console.error(
+        `  ! Shard deadline (${(deadlineMs / 60000).toFixed(1)}min) reached — classifying the rest of this shard's candidates rule-based only, to guarantee this shard finishes and uploads results.`
+      );
+    }
+
     console.log(`- Classifying "${candidate.title}" (${candidate.source.name})`);
-    const outcome = await summarizeArticle({
-      title: candidate.title,
-      content,
-      sourceName: candidate.source.name,
-    });
+    const outcome = deadlinePassed
+      ? ruleBasedClassify({ title: candidate.title, content })
+      : await summarizeArticle({
+          title: candidate.title,
+          content,
+          sourceName: candidate.source.name,
+        });
 
     processedItemIds.push(candidate.itemId);
     providerBreakdown[outcome.providerUsed]++;

@@ -184,7 +184,13 @@ jobs:
     needs: fetch
     if: needs.fetch.outputs.run_due == 'true'
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    # classify-shard.ts self-limits its own classify loop to 12 minutes
+    # (see SHARD_DEADLINE_MS in lib/classify.ts) and always uploads
+    # results after that, however far it got — this external cap only
+    # exists as the last-resort backstop if setup itself hangs (Ollama
+    # install/pull/server-start, observed to normally take ~1-1.5min), not
+    # as the thing that's expected to fire in normal operation anymore.
+    timeout-minutes: 18
     strategy:
       fail-fast: false
       matrix:
