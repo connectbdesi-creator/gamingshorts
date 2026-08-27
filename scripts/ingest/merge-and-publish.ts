@@ -7,6 +7,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { clusterAndBuildCards } from "./lib/cluster";
 import { syncCommentCounts } from "./lib/comment-counts";
+import { updateEventDetection, type EventDetectionState } from "./lib/event-detection";
 import { fetchGameInfo } from "./game-info";
 import { sendPushForNewCards } from "./push";
 import { MAX_CARDS } from "./lib/constants";
@@ -149,10 +150,26 @@ async function main() {
 
   writeJson(CARDS_PATH, merged);
   writeJson(SEEN_PATH, Array.from(seen));
+
+  const previousMeta = readJson<EventDetectionState>(META_PATH, {});
+  const { recentCandidateCounts, denseModeUntil, spikeDetected } = updateEventDetection(
+    previousMeta,
+    candidatesFile.candidates.length,
+    new Date()
+  );
+  if (spikeDetected) {
+    console.log(
+      `- Event-aware refresh: ${candidatesFile.candidates.length} new candidates is a volume spike — dense mode until ${denseModeUntil}`
+    );
+  }
   // Written every run regardless of whether new cards were found — this is
   // "when did the cron last check", not "when did it last find something",
   // which is what the header's last-refresh indicator actually needs.
-  writeJson(META_PATH, { lastRunAt: new Date().toISOString() });
+  writeJson(META_PATH, {
+    lastRunAt: new Date().toISOString(),
+    recentCandidateCounts,
+    ...(denseModeUntil ? { denseModeUntil } : {}),
+  });
 
   const gameInfoStartedAt = Date.now();
   await fetchNewGameInfo(merged);

@@ -29,3 +29,7 @@ function getAllGameInfo(): GameInfo[] {
 export function getGameInfo(slug: string): GameInfo | undefined {
   return getAllGameInfo().find((g) => g.slug === slug);
 }
+
+export function getAllGames(): GameInfo[] {
+  return getAllGameInfo();
+}

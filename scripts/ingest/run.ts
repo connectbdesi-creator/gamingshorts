@@ -10,6 +10,7 @@ import { classifyCandidates } from "./lib/classify";
 import { clusterAndBuildCards } from "./lib/cluster";
 import { syncCommentCounts } from "./lib/comment-counts";
 import { DEFAULT_MAX_NEW_PER_SOURCE, FORCE_REFRESH_MAX_NEW_PER_SOURCE, MAX_CARDS } from "./lib/constants";
+import { updateEventDetection, type EventDetectionState } from "./lib/event-detection";
 import { fetchGameInfo } from "./game-info";
 import { sendPushForNewCards } from "./push";
 import {
@@ -90,7 +91,23 @@ async function run() {
 
   writeJson(CARDS_PATH, merged);
   writeJson(SEEN_PATH, Array.from(seen));
-  writeJson(META_PATH, { lastRunAt: new Date().toISOString() });
+
+  const previousMeta = readJson<EventDetectionState>(META_PATH, {});
+  const { recentCandidateCounts, denseModeUntil, spikeDetected } = updateEventDetection(
+    previousMeta,
+    candidates.length,
+    new Date()
+  );
+  if (spikeDetected) {
+    console.log(
+      `- Event-aware refresh: ${candidates.length} new candidates is a volume spike — dense mode until ${denseModeUntil}`
+    );
+  }
+  writeJson(META_PATH, {
+    lastRunAt: new Date().toISOString(),
+    recentCandidateCounts,
+    ...(denseModeUntil ? { denseModeUntil } : {}),
+  });
 
   const gameInfoStartedAt = Date.now();
   await fetchNewGameInfo(merged);

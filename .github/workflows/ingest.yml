@@ -50,6 +50,17 @@
 # `timeout-minutes` cap on every job so a hung run can't block the queue
 # for hours in the first place.
 #
+# Event-aware refresh (CLAUDE.md's "denser cadence during showcase
+# windows"): merge-and-publish.ts tracks recent runs' new-candidate volume
+# in data/meta.json and flags a temporary denseModeUntil window when a run
+# finds an unusual burst (see scripts/ingest/lib/event-detection.ts) —
+# reacting to the actual evidence a Direct/State of Play/Summer Game Fest
+# produces (many outlets filing at once) rather than a hardcoded events
+# calendar that needs upkeep and still misses surprise announcements. The
+# "Check if a run is due" step below uses a much shorter threshold while
+# that window is active, so the standing ~2-hour cadence temporarily
+# collapses to ~20 minutes with no manual intervention.
+#
 # Required, under Settings -> Secrets and variables -> Actions:
 #   Secrets:
 #     REVALIDATE_SECRET        Must match the app's REVALIDATE_SECRET env var.
@@ -141,11 +152,29 @@ jobs:
           ELAPSED_MIN=$(( (NOW_EPOCH - LAST_EPOCH) / 60 ))
           echo "Last real run: $LAST_RUN ($ELAPSED_MIN minute(s) ago)"
 
-          if [ "$ELAPSED_MIN" -ge 110 ]; then
+          # Event-aware refresh (scripts/ingest/lib/event-detection.ts):
+          # merge-and-publish sets denseModeUntil when a run finds an
+          # unusual burst of new RSS volume (a showcase/Direct-style spike),
+          # instead of relying on a hardcoded events calendar. While that
+          # window is still in the future, collapse the normal ~110-minute
+          # gate down to the trigger interval itself, so the standing
+          # ~2-hour cadence temporarily becomes ~20 minutes without any
+          # change to this workflow file.
+          THRESHOLD_MIN=110
+          DENSE_UNTIL=$(grep -oP '"denseModeUntil":\s*"\K[^"]+' data/meta.json 2>/dev/null || echo "")
+          if [ -n "$DENSE_UNTIL" ]; then
+            DENSE_EPOCH=$(date -d "$DENSE_UNTIL" +%s 2>/dev/null || echo 0)
+            if [ "$NOW_EPOCH" -lt "$DENSE_EPOCH" ]; then
+              THRESHOLD_MIN=15
+              echo "Event-aware dense mode active until $DENSE_UNTIL — using a ${THRESHOLD_MIN}-minute threshold."
+            fi
+          fi
+
+          if [ "$ELAPSED_MIN" -ge "$THRESHOLD_MIN" ]; then
             echo "due=true" >> "$GITHUB_OUTPUT"
           else
             echo "due=false" >> "$GITHUB_OUTPUT"
-            echo "Not due yet — skipping this trigger, next check in ~20 minutes."
+            echo "Not due yet (threshold ${THRESHOLD_MIN}min) — skipping this trigger, next check in ~20 minutes."
           fi
 
       - name: Setup pnpm
