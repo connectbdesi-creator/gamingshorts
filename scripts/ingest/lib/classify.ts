@@ -64,8 +64,16 @@ export async function classifyCandidates(
   let deadlinePassed = false;
 
   for (const candidate of candidates) {
+    // `??` alone isn't enough here — it only skips null/undefined, not an
+    // RSS item whose contentSnippet/content/summary is a defined-but-empty
+    // string (a real, observed case), which locked in "" as the article
+    // content and produced a card with an empty summary end to end. Every
+    // field before `title` here can legitimately be empty; `title` is the
+    // one guaranteed non-empty value (see lib/gather.ts's `?? "Untitled"`).
     const rawContent =
-      candidate.item.contentSnippet ?? candidate.item.content ?? candidate.item.summary ?? candidate.title;
+      [candidate.item.contentSnippet, candidate.item.content, candidate.item.summary, candidate.title].find(
+        (v) => v && v.trim()
+      ) ?? candidate.title;
     const content = rawContent.slice(0, MAX_CONTENT_CHARS);
 
     if (!deadlinePassed && Date.now() - startedAt >= deadlineMs) {

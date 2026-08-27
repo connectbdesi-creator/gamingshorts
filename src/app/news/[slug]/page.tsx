@@ -6,6 +6,7 @@ import { CommentCountBadge } from "@/components/comments/comment-count-badge";
 import { Comments } from "@/components/comments/comments";
 import { FollowButton } from "@/components/engagement/follow-button";
 import { LikeButton } from "@/components/engagement/like-button";
+import { RelativeTime } from "@/components/format/relative-time";
 import { GameBadge } from "@/components/games/game-badge";
 import { FallbackImage } from "@/components/media/fallback-image";
 import { ArticleReaderLauncher } from "@/components/reader/article-reader-launcher";
@@ -13,7 +14,7 @@ import { EmbedButton } from "@/components/share/embed-button";
 import { ShareButtons } from "@/components/share/share-buttons";
 import { getCategory } from "@/lib/categories";
 import { getAllCards } from "@/lib/cards";
-import { formatRelativeTime, formatSourceNames } from "@/lib/format";
+import { formatSourceNames } from "@/lib/format";
 import { getSiteUrl, pageAlternates } from "@/lib/site";
 
 // New cards get their own static page on the next rebuild the ingestion
@@ -146,7 +147,7 @@ export default async function NewsCardPage({ params }: Props) {
       )}
 
       <p className="mt-2 text-sm text-foreground-subtle">
-        {formatSourceNames(card.sources)} · {formatRelativeTime(card.published_at)}
+        {formatSourceNames(card.sources)} · <RelativeTime dateStr={card.published_at} />
       </p>
 
       <p className="mt-4 text-base leading-relaxed text-foreground-muted">

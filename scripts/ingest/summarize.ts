@@ -32,6 +32,17 @@ function normalizeNullableString(value: unknown): string | null {
   return !trimmed || trimmed.toLowerCase() === "null" ? null : trimmed;
 }
 
+// Defense in depth against a real bug found in production: an RSS item
+// with an empty (not missing) content field fed an empty "article content"
+// into the prompt, and both the rule-based fallback and — separately — a
+// model response ended up with an empty summary end to end. Rejecting an
+// empty headline/summary here means a response like that gets treated the
+// same as an invalid category (fall through to the next attempt/provider)
+// instead of silently publishing a blank card.
+function isBlank(value: unknown): boolean {
+  return typeof value !== "string" || value.trim() === "";
+}
+
 function toSummarizedArticle(raw: Record<string, unknown>): SummarizedArticle {
   return {
     headline: String(raw.headline ?? ""),
@@ -75,9 +86,9 @@ export async function summarizeArticle(article: {
       return { status: "skipped", reason: skipReason(raw), providerUsed: "ollama" };
     }
 
-    if (raw.status !== "publish" || !isValidCategory(raw.category)) {
+    if (raw.status !== "publish" || !isValidCategory(raw.category) || isBlank(raw.headline) || isBlank(raw.summary)) {
       console.error(
-        `  ! Ollama returned an invalid response for "${article.title}" (status=${String(raw.status)}, category=${String(raw.category)})`
+        `  ! Ollama returned an invalid response for "${article.title}" (status=${String(raw.status)}, category=${String(raw.category)}, headline blank=${isBlank(raw.headline)}, summary blank=${isBlank(raw.summary)})`
       );
       break;
     }
@@ -139,8 +150,8 @@ export async function mergeArticles(
     const raw = await ollamaProvider.callForCard(buildMergePrompt(articles, feedback));
     if (!raw) break;
 
-    if (!isValidCategory(raw.category)) {
-      console.error(`  ! Ollama returned an invalid category for merged cluster`);
+    if (!isValidCategory(raw.category) || isBlank(raw.headline) || isBlank(raw.summary)) {
+      console.error(`  ! Ollama returned an invalid response for merged cluster`);
       break;
     }
 

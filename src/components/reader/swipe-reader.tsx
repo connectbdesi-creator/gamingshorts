@@ -7,10 +7,11 @@ import { CategoryBadge } from "@/components/cards/category-badge";
 import { PlatformChip } from "@/components/cards/platform-chip";
 import { FollowButton } from "@/components/engagement/follow-button";
 import { LikeButton } from "@/components/engagement/like-button";
+import { RelativeTime } from "@/components/format/relative-time";
 import { GameBadge } from "@/components/games/game-badge";
 import { FallbackImage } from "@/components/media/fallback-image";
 import { ShareButtons } from "@/components/share/share-buttons";
-import { formatRelativeTime, formatSourceNames } from "@/lib/format";
+import { formatSourceNames } from "@/lib/format";
 import { getSiteUrl } from "@/lib/site";
 import type { Card } from "@/types/card";
 
@@ -198,7 +199,7 @@ export function SwipeReader({
                 <div className="mt-auto flex flex-col gap-2 border-t border-border pt-3 text-sm text-foreground-subtle sm:gap-3 sm:pt-4">
                   <div className="flex items-center justify-between">
                     <span>
-                      {formatSourceNames(card.sources)} · {formatRelativeTime(card.published_at)}
+                      {formatSourceNames(card.sources)} · <RelativeTime dateStr={card.published_at} />
                     </span>
                     <a
                       href={card.sources[0].url}

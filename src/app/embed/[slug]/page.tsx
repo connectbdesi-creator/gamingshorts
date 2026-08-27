@@ -1,9 +1,10 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { CategoryBadge } from "@/components/cards/category-badge";
+import { RelativeTime } from "@/components/format/relative-time";
 import { FallbackImage } from "@/components/media/fallback-image";
 import { getAllCards } from "@/lib/cards";
-import { formatRelativeTime, formatSourceNames } from "@/lib/format";
+import { formatSourceNames } from "@/lib/format";
 import { getSiteUrl } from "@/lib/site";
 
 // Same cadence as every other card-derived page — this is a static export
@@ -69,7 +70,7 @@ export default async function EmbedCardPage({ params }: Props) {
           <h1 className="line-clamp-2 text-sm font-semibold leading-snug text-foreground">{card.headline}</h1>
           <p className="line-clamp-3 flex-1 text-xs leading-relaxed text-foreground-muted">{card.summary}</p>
           <span className="text-[11px] text-foreground-subtle">
-            {formatSourceNames(card.sources)} · {formatRelativeTime(card.published_at)}
+            {formatSourceNames(card.sources)} · <RelativeTime dateStr={card.published_at} />
           </span>
         </div>
       </a>

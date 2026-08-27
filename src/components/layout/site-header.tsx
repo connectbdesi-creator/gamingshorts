@@ -1,10 +1,10 @@
 import { RefreshCw } from "lucide-react";
 import Link from "next/link";
+import { RelativeTime } from "@/components/format/relative-time";
 import { HeaderHeightObserver } from "@/components/layout/header-height-observer";
 import { MobileMenu } from "@/components/layout/mobile-menu";
 import { PrimaryNav } from "@/components/layout/primary-nav";
 import { ThemeToggle } from "@/components/theme/theme-toggle";
-import { formatRelativeTime } from "@/lib/format";
 import { getLastRefreshedAt } from "@/lib/meta";
 
 export function SiteHeader() {
@@ -26,7 +26,7 @@ export function SiteHeader() {
               className="hidden items-center gap-1.5 text-xs text-foreground-subtle sm:flex"
             >
               <RefreshCw className="size-3.5" />
-              Updated {formatRelativeTime(lastRefreshedAt)}
+              Updated <RelativeTime dateStr={lastRefreshedAt} />
             </span>
           )}
           <ThemeToggle />

@@ -3,9 +3,10 @@ import Link from "next/link";
 import { CategoryBadge } from "@/components/cards/category-badge";
 import { LikeButton } from "@/components/engagement/like-button";
 import { GameBadge } from "@/components/games/game-badge";
+import { RelativeTime } from "@/components/format/relative-time";
 import { FallbackImage } from "@/components/media/fallback-image";
 import { ShareMenu } from "@/components/share/share-menu";
-import { formatRelativeTime, formatSourceNames } from "@/lib/format";
+import { formatSourceNames } from "@/lib/format";
 import { getSiteUrl } from "@/lib/site";
 import { cn } from "@/lib/utils";
 import type { Card } from "@/types/card";
@@ -71,7 +72,7 @@ export function NewsCard({
             {card.summary}
           </p>
           <span className="truncate text-xs text-foreground-subtle">
-            {formatSourceNames(card.sources)} · {formatRelativeTime(card.published_at)}
+            {formatSourceNames(card.sources)} · <RelativeTime dateStr={card.published_at} />
           </span>
         </div>
       </Link>
