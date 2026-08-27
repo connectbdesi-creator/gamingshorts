@@ -66,6 +66,11 @@
 #                               the on-demand revalidate call is skipped without it.
 #     NEXT_PUBLIC_SUPABASE_URL   Same value as the app's env var.
 #     NEXT_PUBLIC_VAPID_PUBLIC_KEY  Same value as the app's env var.
+#     NEXT_PUBLIC_GISCUS_REPO   Same value as the app's env var, e.g.
+#                               owner/repo. Optional — comment count sync
+#                               is skipped without it (counts just stay at
+#                               their last-known value).
+#     NEXT_PUBLIC_GISCUS_CATEGORY_ID  Same value as the app's env var.
 #     OLLAMA_MODEL              Optional override, e.g. gemma2:2b for a
 #                               smaller/faster model. Defaults to llama3.2:3b.
 
@@ -83,6 +88,12 @@ on:
 
 permissions:
   contents: write
+  # Read-only access to this repo's own GitHub Discussions (the backing
+  # store for Giscus comments) — used by the merge-and-publish job to sync
+  # real comment counts back into data/cards.json (see
+  # scripts/ingest/lib/comment-counts.ts). The automatic GITHUB_TOKEN
+  # covers this; no secret to create.
+  discussions: read
 
 # A scheduled trigger that fires while a previous run is still going (a
 # delayed trigger catching up, or a hung run — see the timeout-minutes
@@ -319,6 +330,14 @@ jobs:
           VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
           VAPID_SUBJECT: ${{ secrets.VAPID_SUBJECT }}
           RAWG_API_KEY: ${{ secrets.RAWG_API_KEY }}
+          # Used by syncCommentCounts (scripts/ingest/lib/comment-counts.ts)
+          # to pull real comment counts from this repo's own Discussions —
+          # same values as Vercel's NEXT_PUBLIC_GISCUS_* vars. GITHUB_TOKEN
+          # is provided automatically by Actions (see the discussions:read
+          # permission above); no secret to create for it.
+          NEXT_PUBLIC_GISCUS_REPO: ${{ vars.NEXT_PUBLIC_GISCUS_REPO }}
+          NEXT_PUBLIC_GISCUS_CATEGORY_ID: ${{ vars.NEXT_PUBLIC_GISCUS_CATEGORY_ID }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npx tsx scripts/ingest/merge-and-publish.ts
 
       - name: Upload QC log (skipped articles + merged clusters + timing breakdown)

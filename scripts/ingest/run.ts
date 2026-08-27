@@ -8,6 +8,7 @@ import fs from "node:fs";
 import { gatherCandidates } from "./lib/gather";
 import { classifyCandidates } from "./lib/classify";
 import { clusterAndBuildCards } from "./lib/cluster";
+import { syncCommentCounts } from "./lib/comment-counts";
 import { DEFAULT_MAX_NEW_PER_SOURCE, FORCE_REFRESH_MAX_NEW_PER_SOURCE, MAX_CARDS } from "./lib/constants";
 import { fetchGameInfo } from "./game-info";
 import { sendPushForNewCards } from "./push";
@@ -80,6 +81,13 @@ async function run() {
     .sort((a, b) => new Date(b.published_at).getTime() - new Date(a.published_at).getTime())
     .slice(0, MAX_CARDS);
 
+  const commentSyncStartedAt = Date.now();
+  const { updated: commentCountsUpdated } = await syncCommentCounts(merged);
+  const commentSyncMs = Date.now() - commentSyncStartedAt;
+  if (commentCountsUpdated > 0) {
+    console.log(`- Synced comment counts: ${commentCountsUpdated} card(s) updated from GitHub Discussions`);
+  }
+
   writeJson(CARDS_PATH, merged);
   writeJson(SEEN_PATH, Array.from(seen));
   writeJson(META_PATH, { lastRunAt: new Date().toISOString() });
@@ -101,7 +109,8 @@ async function run() {
     newCardsPublished: newCards.length,
     skipped: skippedLog,
     mergedClusters: mergedClustersLog,
-    timing: { rssFetchMs, classifyMs, clusteringMs, gameInfoMs, totalMs },
+    timing: { rssFetchMs, classifyMs, clusteringMs, commentSyncMs, gameInfoMs, totalMs },
+    commentCountsUpdated,
   });
 
   console.log(

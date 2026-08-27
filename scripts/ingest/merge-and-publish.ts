@@ -6,6 +6,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { clusterAndBuildCards } from "./lib/cluster";
+import { syncCommentCounts } from "./lib/comment-counts";
 import { fetchGameInfo } from "./game-info";
 import { sendPushForNewCards } from "./push";
 import { MAX_CARDS } from "./lib/constants";
@@ -139,6 +140,13 @@ async function main() {
     .sort((a, b) => new Date(b.published_at).getTime() - new Date(a.published_at).getTime())
     .slice(0, MAX_CARDS);
 
+  const commentSyncStartedAt = Date.now();
+  const { updated: commentCountsUpdated } = await syncCommentCounts(merged);
+  const commentSyncMs = Date.now() - commentSyncStartedAt;
+  if (commentCountsUpdated > 0) {
+    console.log(`- Synced comment counts: ${commentCountsUpdated} card(s) updated from GitHub Discussions`);
+  }
+
   writeJson(CARDS_PATH, merged);
   writeJson(SEEN_PATH, Array.from(seen));
   // Written every run regardless of whether new cards were found — this is
@@ -175,9 +183,11 @@ async function main() {
       classifyWallClockMs: shardTimings.length > 0 ? Math.max(...shardTimings.map((s) => s.timingMs)) : 0,
       totalInferenceMs,
       clusteringMs,
+      commentSyncMs,
       gameInfoMs,
       mergeJobTotalMs: totalMs,
     },
+    commentCountsUpdated,
   });
 
   console.log(
