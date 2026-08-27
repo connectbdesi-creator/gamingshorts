@@ -9,6 +9,7 @@ import { LikeButton } from "@/components/engagement/like-button";
 import { GameBadge } from "@/components/games/game-badge";
 import { FallbackImage } from "@/components/media/fallback-image";
 import { ArticleReaderLauncher } from "@/components/reader/article-reader-launcher";
+import { EmbedButton } from "@/components/share/embed-button";
 import { ShareButtons } from "@/components/share/share-buttons";
 import { getCategory } from "@/lib/categories";
 import { getAllCards } from "@/lib/cards";
@@ -185,8 +186,9 @@ export default async function NewsCardPage({ params }: Props) {
         </div>
       </div>
 
-      <div className="mt-4 border-y border-border py-3">
+      <div className="mt-4 flex items-center justify-center gap-2 border-y border-border py-3">
         <ShareButtons url={url} title={card.headline} />
+        <EmbedButton slug={card.slug} siteUrl={getSiteUrl()} />
       </div>
 
       <div className="mt-6">

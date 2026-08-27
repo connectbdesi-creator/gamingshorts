@@ -3,9 +3,10 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { GoogleAnalytics } from "@/components/analytics/google-analytics";
 import { InstallPrompt } from "@/components/install/install-prompt";
-import { ThemeProvider } from "@/components/theme/theme-provider";
+import { SiteChrome } from "@/components/layout/site-chrome";
 import { SiteFooter } from "@/components/layout/site-footer";
 import { SiteHeader } from "@/components/layout/site-header";
+import { ThemeProvider } from "@/components/theme/theme-provider";
 import { getSiteUrl } from "@/lib/site";
 
 const geistSans = Geist({
@@ -89,10 +90,9 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           themes={["dark", "light"]}
           enableSystem={false}
         >
-          <SiteHeader />
-          <main className="flex flex-1 flex-col">{children}</main>
-          <SiteFooter />
-          <InstallPrompt />
+          <SiteChrome header={<SiteHeader />} footer={<SiteFooter />} installPrompt={<InstallPrompt />}>
+            {children}
+          </SiteChrome>
         </ThemeProvider>
       </body>
     </html>
