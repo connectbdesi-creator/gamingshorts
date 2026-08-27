@@ -31,18 +31,28 @@
 # (title-token overlap + game-tag agreement).
 #
 # GitHub's `schedule` trigger is explicitly best-effort — GitHub's own docs
-# warn it "can be delayed during periods of high load," and in practice
-# this workflow has gone 5+ hours without firing at all despite every run
-# that DID fire succeeding in under 15 minutes (confirmed via the public
-# Actions API — nothing queued, in progress, or failed in between, GitHub
-# simply never started a run for a couple of consecutive `0 */2 * * *`
-# slots). There's no way to make GitHub itself trigger reliably, so instead
-# this triggers every 20 minutes and the `fetch` job's first step exits
-# early unless data/meta.json's lastRunAt is at least ~110 minutes old —
-# real ingestion work still only happens roughly every 2 hours, but a
-# dropped/delayed trigger now self-heals within ~20 minutes instead of
-# silently waiting for the next 2-hour slot (or longer). A manual
-# workflow_dispatch always runs regardless of the last run's age.
+# warn it "can be delayed during periods of high load." In practice this
+# went further than delay: confirmed via the public Actions API that
+# `schedule` stopped firing ENTIRELY for 11+ hours straight even with the
+# */20 * * * * trigger below already live — not one run of any kind (queued,
+# in progress, failed) in that whole window. A workflow file can't fix
+# something upstream of itself, so the real fix is not depending on
+# GitHub's scheduler at all: src/app/api/cron/dispatch-ingest is a Vercel
+# API route that calls GitHub's REST API to fire workflow_dispatch
+# directly, meant to be pinged every ~15-20 minutes by a genuinely
+# reliable external cron (Vercel's own Cron Jobs only run once/day on the
+# Hobby plan — too coarse — so a free service like cron-job.org is the
+# default recommendation, not a paid upgrade). That external ping passes
+# respect_cadence=true, which routes it through the SAME "Check if a run
+# is due" gate below that a `schedule` event uses — the actual ~2-hour
+# cadence logic didn't need to change, it just needed a reliable trigger
+# regularly giving it a chance to run. The `schedule` trigger itself stays
+# configured too, as a free second trigger source if GitHub's scheduler
+# ever recovers on its own — redundant, not conflicting (the concurrency
+# group below queues instead of racing if both happen to fire close
+# together). A manual "Run workflow" click in the GitHub UI always runs
+# immediately regardless of the last run's age (respect_cadence defaults
+# to false there).
 #
 # Also added: a workflow-level `concurrency` group (a run that hangs — seen
 # once, a workflow_dispatch that took 2h25m before failing — no longer
@@ -96,6 +106,10 @@ on:
         description: "Reprocess all current feed items, ignoring dedup history (use after a showcase/event for a denser catch-up refresh)"
         type: boolean
         default: false
+      respect_cadence:
+        description: "Internal — set by the external cron pinger (src/app/api/cron/dispatch-ingest), not meant to be checked manually. Applies the same ~2-hour due-check a schedule trigger would, instead of always running immediately."
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -134,9 +148,16 @@ jobs:
       - name: Check if a run is due
         id: check
         run: |
-          if [ "${{ github.event_name }}" != "schedule" ]; then
+          # A manual "Run workflow" click (workflow_dispatch with
+          # respect_cadence left at its default false) always runs
+          # immediately — only `schedule` events and workflow_dispatch
+          # calls that explicitly opt into cadence-respecting (the external
+          # cron pinger at src/app/api/cron/dispatch-ingest, since GitHub's
+          # own `schedule` event has been observed going completely silent
+          # for 11+ hours at a stretch) go through the elapsed-time gate.
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.respect_cadence }}" != "true" ]; then
             echo "due=true" >> "$GITHUB_OUTPUT"
-            echo "Not a scheduled trigger (${{ github.event_name }}) — running regardless of last run time."
+            echo "Manual trigger (respect_cadence not set) — running regardless of last run time."
             exit 0
           fi
 
