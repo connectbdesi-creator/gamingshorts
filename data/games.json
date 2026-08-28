@@ -4034,5 +4034,65 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-28T13:55:29.960Z"
+  },
+  {
+    "slug": "resident-evil-4",
+    "name": "Resident Evil 4",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/51a/51a404b9918a0b19fc704a3ca248c69f.jpg",
+    "released": "2023-03-24",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "iOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/26c/26c298b0426461ebbca4a17d14a8c87b.jpg",
+      "https://media.rawg.io/media/screenshots/33d/33dbe045a82988878cd865b80fcc6269.jpg",
+      "https://media.rawg.io/media/screenshots/cdd/cdd81f8b87c0352e20ab9f8eefba7ddb.jpg",
+      "https://media.rawg.io/media/screenshots/a73/a739f3814e9d57228bd6cdd406012911.jpg",
+      "https://media.rawg.io/media/screenshots/44a/44a9d54fefbef2e21e6b3b8c1c54546b.jpg",
+      "https://media.rawg.io/media/screenshots/d55/d55e1c4da132fb3de2138586f1b75848.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-28T15:55:09.703Z"
+  },
+  {
+    "slug": "half-life",
+    "name": "Half-Life",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/6c5/6c55e22185876626881b76c11922b073.jpg",
+    "released": "1998-11-19",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Linux",
+      "PlayStation 2",
+      "Dreamcast"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/345/3458269ae8ea44a6b8c8268d39fe36a1.jpg",
+      "https://media.rawg.io/media/screenshots/3c5/3c55c835054009de798c0a9fa886ef8b.jpg",
+      "https://media.rawg.io/media/screenshots/700/70005f6c84708d988a287d406cbb038c.jpg",
+      "https://media.rawg.io/media/screenshots/755/755a2b42257cf09c7f37e902dfa08400.jpg",
+      "https://media.rawg.io/media/screenshots/921/9213ce16eba80f51b3562a3e5d322e02.jpg",
+      "https://media.rawg.io/media/screenshots/948/948de39d02c1f08c8c98fa10e69e87af.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-28T15:55:10.198Z"
   }
 ]
