@@ -1,5 +1,99 @@
 [
   {
+    "id": "01cfe75f1279",
+    "slug": "pokemon-hack-promotes-scam",
+    "headline": "Pokemon Hack Promotes Scam",
+    "summary": "A Pokémon account was hacked, promoting a fake giveaway to the account's 8 million followers.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/pokemon-twitter-hack-memecoin-scam/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/08/pokemon-ash-twitter-background.jpg",
+    "published_at": "2026-08-28T07:29:57.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "bd28c18e53e8",
+    "slug": "xbox-is-trying-to-sell-tv-and-movie-rights-for-almost-all-its-ips-to-o",
+    "headline": "Xbox Is Trying To Sell TV And Movie Rights For Almost All Its IPs To One Studio",
+    "summary": "Xbox is reportedly pitching a package to major studios that would give the buyer TV and movie rights to over a dozen of its biggest games.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/xbox-selling-tv-movie-package-halo-elder-scrolls/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/xmnzzkdlftx3wf9knhvpwe.jpg",
+    "published_at": "2026-08-28T07:29:42.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6927430e533d",
+    "slug": "jujutsu-kaisen-season-4-update-coming-via-juju-fest-2026",
+    "headline": "Jujutsu Kaisen Season 4 Update Coming via Juju Fest 2026",
+    "summary": "Jujutsu Kaisen Season 4 will receive an update as part of the upcoming event Juju Fest 2026.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/jujutsu-kaisen-season-4-update-august-29/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/jujutsu-kaisen-season-4-new-update-august-29.jpeg",
+    "published_at": "2026-08-28T06:30:13.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "jujutsu-kaisen-season-4",
+    "game_label": "Jujutsu Kaisen Season 4"
+  },
+  {
+    "id": "431512a65d41",
+    "slug": "how-the-gta-6-map-size-stacks-up-to-other-rockstar-games-like-rdr2-and",
+    "headline": "How the GTA 6 Map Size Stacks Up to Other Rockstar Games Like RDR2 and GTA 5",
+    "summary": "Grand Theft Auto 6's map is significantly larger than Rockstar's previous games; here's how it compares to the studio's other titles.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/how-the-gta-6-map-size-stacks-up-to-other-rockstar-games-like-rdr2-and-gta-5"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/08/28/mega-13-1787895250638.jpg",
+    "published_at": "2026-08-28T05:35:45.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "fd688c32e200",
     "slug": "icymi-sandisk-is-now-selling-a-1tb-microsd-express-card-for-switch-2",
     "headline": "ICYMI: SanDisk Is Now Selling A 1TB MicroSD Express Card For Switch 2",
@@ -3081,6 +3175,30 @@
     "game_label": null
   },
   {
+    "id": "4e5667d3b207",
+    "slug": "onexplayer-x2-mini-launches-with-intel-arc-g3-chipset-for-2000",
+    "headline": "OneXPlayer X2 Mini Launches with Intel Arc G3 Chipset for $2,000",
+    "summary": "OneXPlayer has introduced its X2 Mini handheld with an Intel Arc G3 processor, priced at $2,000, further expanding its Arc G3 lineup",
+    "category": "deals",
+    "platform_tags": [
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/hardware/handhelds/onexplayer-adds-another-pricey-handheld-to-the-arc-g3-pile-and-this-one-is-usd2-000/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/yFWE8QrXuinFn9pBDN3ei5-1280-80.jpg",
+    "published_at": "2026-08-27T15:29:34.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "x2-mini",
+    "game_label": "X2 Mini"
+  },
+  {
     "id": "0a3a5c51147b",
     "slug": "xbox-25th-anniversary-console-proves-popular-among-scalpers",
     "headline": "Xbox 25th Anniversary Console Proves Popular Among Scalpers",
@@ -3539,6 +3657,29 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "753ea207e450",
+    "slug": "best-hawks-class-in-star-wars-zero-company",
+    "headline": "Best Hawks Class in Star Wars Zero Company",
+    "summary": "GamesRadar+ explores the best specialization class for Hawks in Star Wars Zero Company, offering tips on how to change it.",
+    "category": "esports",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/strategy/star-wars-zero-company-specialization-class/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/kJ8RBeDZM3YrQ7zuv8hxP9-1280-80.jpg",
+    "published_at": "2026-08-27T15:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "star-wars-zero-company",
+    "game_label": "Star Wars Zero Company"
   },
   {
     "id": "68219957a5d1",
@@ -4648,143 +4789,6 @@
     "image_url": "https://picsum.photos/seed/f0ee8ed1d83d/800/600",
     "published_at": "2026-08-27T12:00:00.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "84a9b5ab0248",
-    "slug": "tides-of-annihilation-devs-hint-at-ai-use-in-upcoming-game",
-    "headline": "Tides of Annihilation Devs Hint at AI Use in Upcoming Game",
-    "summary": "The developers of Tides of Annihilation are being cautious about their use of AI technology, but plan to utilize the techniques they excel at in their upcoming game",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/action/tides-of-annihilation-devs-are-continuously-monitoring-new-developments-in-ai-technology-but-will-be-using-the-techniques-they-are-the-best-at-in-development-instead/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/PnwdphQuqHe5CVXjgWRA5Z-1280-80.jpg",
-    "published_at": "2026-08-27T11:52:54.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "tides-of-annihilation",
-    "game_label": "Tides of Annihilation"
-  },
-  {
-    "id": "e7ba25e4fd11",
-    "slug": "speedrunner-turns-one-of-metal-gear-solid-4s-biggest-bosses-into-a-tot",
-    "headline": " Speedrunner turns one of Metal Gear Solid 4's biggest bosses into a total pushover using the power of Master Collection Vol 2's enhanced framerate ",
-    "summary": "\"It's not over yet\"... oh wait it is",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/metal-gear/speedrunner-turns-one-of-metal-gear-solid-4s-biggest-bosses-into-a-total-pushover-using-the-power-of-master-collection-vol-2s-enhanced-framerate/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/C2ZETUgZX6FfDt2UEPuDDL-1280-80.jpg",
-    "published_at": "2026-08-27T11:49:21.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "61b8aef49a7c",
-    "slug": "i-turned-a-skeleton-into-a-roast-chicken-in-fable-and-id-do-it-again-g",
-    "headline": "I Turned a Skeleton Into a Roast Chicken in Fable, and I’d Do It Again | gamescom 2026",
-    "summary": "We finally played Fable, and there's a surprising amount of depth to be found in its spell-slinging combat. Our hands-on preview:",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/fable-combat-preview"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/27/fable-combat-blog-1787829357514.jpg",
-    "published_at": "2026-08-27T11:49:04.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "df8afd1ee56d",
-    "slug": "xboxs-disc-to-digital-program-praised-by-former-playstation-studios-pr",
-    "headline": "Xbox's Disc-to-Digital Program Praised by Former PlayStation Studios President",
-    "summary": "Former PlayStation Studios President Shuhei Yoshida has expressed praise for Microsoft's disc-to-digital program, a notable move given his past affiliation with the company",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/former-playstation-studios-president-praises-xboxs-solution-to-a-digital-only-future/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/2yVnL2L37YYiLxJ8b42W2A-1200-80.png?w=300",
-    "published_at": "2026-08-27T11:38:55.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b03cf117b072",
-    "slug": "nvidia-reveals-gaming-industrys-decline-in-earnings-call",
-    "headline": "Nvidia Reveals Gaming Industry's Decline in Earnings Call",
-    "summary": "Nvidia discussed gaming's decline during its recent earnings call, sparking concerns about the industry's future. The company emphasized its focus on high-end gaming and AI research.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/software/ai/i-barely-remember-the-last-time-nvidia-mentioned-gaming-at-all-in-an-earnings-call/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/kHuY4jFFVYqZxzAx2bbAdn-1280-80.jpg",
-    "published_at": "2026-08-27T11:38:49.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "12451c943360",
-    "slug": "dragons-dogma-2s-game-changing-ps5-patch-dated-but-slightly-delayed",
-    "headline": "Dragon's Dogma 2's Game-Changing PS5 Patch Dated, But Slightly Delayed",
-    "summary": "The big one. Capcom has long promised a major update for Dragon's Dogma 2, dropping ahead of its Dark Arisen expansion on the 9th October. Previously, this patch was scheduled for late August, but the developer's now confirmed that it'll be arriving a little late, on the 1st or 2nd of September depending on your timezone. Read the full article…",
-    "category": "patches",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/08/dragons-dogma-2s-game-changing-ps5-patch-dated-but-slightly-delayed"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/3cdffeb872e6c/large.jpg",
-    "published_at": "2026-08-27T11:30:00.000Z",
-    "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
