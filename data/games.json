@@ -4155,5 +4155,57 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-28T17:55:05.311Z"
+  },
+  {
+    "slug": "iron-man-game",
+    "name": "Iron Man game",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/695/69543d9556703b6e26530de7ebeba7f0.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [],
+    "stores": [],
+    "fetched_at": "2026-08-28T19:53:38.475Z"
+  },
+  {
+    "slug": "resident-evil",
+    "name": "Resident Evil (2002)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/d24/d24ceb45b267f4b69b5d51c36c9a46db.jpg",
+    "released": "2002-03-22",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "Xbox 360",
+      "PlayStation 3",
+      "Wii",
+      "GameCube"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/2ba/2badcd49bb35d12063415bea86c6438b.jpg",
+      "https://media.rawg.io/media/screenshots/022/022e853733b3f5a1c11605c27a73ca2c.jpg",
+      "https://media.rawg.io/media/screenshots/d89/d89eab5de6ceadb66fa06a985b9e5919.jpg",
+      "https://media.rawg.io/media/screenshots/b80/b8054392256929f15bd302f68751a411.jpg",
+      "https://media.rawg.io/media/screenshots/1b8/1b85f39d2e61178ea6b16e3b414c7893.jpg",
+      "https://media.rawg.io/media/screenshots/2e0/2e07ca5ec3d896eabe7185f257733e6b.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-28T19:53:39.287Z"
   }
 ]
