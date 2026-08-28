@@ -1,5 +1,197 @@
 [
   {
+    "id": "be30c367c404",
+    "slug": "nvidia-dlss-5s-ai-yassification-filter-reportedly-escapes-containment",
+    "headline": "Nvidia DLSS 5's AI yassification filter reportedly escapes containment ahead of release, thanks to modders digging files out of NBA 2K27",
+    "summary": "Nvidia's DLSS 5 neural rendering tech, AKA the AI filter which was widely criticised upon reveal earlier this year for creepily yassifying a bunch of game characters' faces, is reportedly up and running prior to its planned release later this year. The folks to thank or blame for this are modders, who've found the files needed to get the tech's…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/nvidia-dlss-5s-ai-yassification-filter-reportedly-escapes-containment-ahead-of-release-thanks-to-modders-digging-files-out-of-nba-2k27"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/nvidia-ceo--responds-dlss-5-criticism-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-08-28T09:37:43.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a6335013774b",
+    "slug": "pokemon-twitter-account-hacked-hacker-promotes-crypto-memecoin",
+    "headline": "Pokemon Twitter Account Hacked, Hacker Promotes Crypto Memecoin",
+    "summary": "The official Pokemon Twitter account was temporarily taken over by a hacker who promoted their crypto memecoin, causing a stir among fans and cryptocurrency enthusiasts.",
+    "category": "industry",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/pokemon/the-pokemon-twitter-account-was-briefly-taken-over-by-a-hacker-peddling-their-crypto-memecoin/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/XURWgZxh9KUnrrszsLBNTL-1280-80.jpg",
+    "published_at": "2026-08-28T09:34:12.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "694b354023a8",
+    "slug": "rockstar-cautious-on-gta-6-satire",
+    "headline": "Rockstar Cautious on GTA 6 Satire",
+    "summary": "Rockstar Games is being cautious about what to satirize in Grand Theft Auto 6, warning that certain topics may become outdated quickly.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-is-cautious-about-what-to-satirize-in-gta-6-specific-political-issues-or-memes-will-date-fast/"
+      },
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/rockstar-formed-a-new-la-based-team-to-develop-more-realistic-npcs-for-grand-theft-auto-6"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/as9wuFhTyhA4vGp5WqZLyA-1280-80.jpg",
+    "published_at": "2026-08-28T09:32:46.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "6b062ecbd0a6",
+    "slug": "xbox-series-x25-consoles-listed-for-up-to-3000-after-instant-sell-out",
+    "headline": "Xbox Series X25 Consoles Listed For Up To $3,000 After Instant Sell Out",
+    "summary": "Despite a $900 MSRP, the Xbox Series X25 sold out within minutes and is now being listed on resale sites for more than three times its MSRP.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/xbox-series-x25-pre-orders-sold-out-scalpers/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/mixcollage-28-aug-2026-10-13-am-6418.jpg",
+    "published_at": "2026-08-28T09:24:04.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "84158645d0af",
+    "slug": "rockstar-teases-gta-6-satire-approach",
+    "headline": "Rockstar Teases GTA 6 Satire Approach",
+    "summary": "Rockstar developer emphasizes care in referencing current events in upcoming GTA 6 game, avoiding potential for dated content.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/we-just-have-to-be-careful-what-we-pick-gta-6-wont-include-covid-or-trump-references-that-could-become-dated-rockstar-says"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/08/27/mega-3-1787855175829.jpeg",
+    "published_at": "2026-08-28T09:22:02.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "bb5fdfe4059d",
+    "slug": "star-wars-zero-company-understands-that-star-wars-games-should-feel-le",
+    "headline": "Star Wars Zero Company understands that Star Wars games should feel less like the movies and more like the toys",
+    "summary": "I'm still early days on Star Wars Zero Company, but I think I'm in love. And this is kind of expected and also kind of strange. It's kind of expected because this is XCOM: Star Wars at first glance, and jeepers I love XCOM. I love moving my little units around, pondering when to advance and when to hang back,…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/star-wars-zero-company-impressions-toys-movies"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/star-wars-zero-company-5_fR7jaGA.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-08-28T09:06:26.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "826b8dd24371",
+    "slug": "splitgate-studio-announces-disappointing-news-for-players",
+    "headline": "Splitgate Studio Announces Disappointing News for Players",
+    "summary": "Splitgate developer 1047 Games shares a new announcement about its games, and fans of the titles will likely be disappointed to hear it.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/1047-games-ends-development-splitgate-empulse/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/splitgate-match-versus.jpg",
+    "published_at": "2026-08-28T09:00:13.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "812bb7324e83",
+    "slug": "desert-warrior-150-million-flop-gets-second-chance-on-streaming",
+    "headline": "Desert Warrior, $150 Million Flop, Gets Second Chance on Streaming",
+    "summary": "Actor Anthony Mackie's film Desert Warrior, a pricey sword-and-sandals epic, is getting a second chance on streaming after its initial box office failure.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/anthony-mackie-desert-warrior-streaming-hulu/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mcddewa_ec050_h.JPG",
+    "published_at": "2026-08-28T08:00:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "01cfe75f1279",
     "slug": "pokemon-hack-promotes-scam",
     "headline": "Pokemon Hack Promotes Scam",
@@ -484,32 +676,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "694b354023a8",
-    "slug": "rockstar-cautious-on-gta-6-satire",
-    "headline": "Rockstar Cautious on GTA 6 Satire",
-    "summary": "Rockstar Games is being cautious about what to satirize in Grand Theft Auto 6, warning that certain topics may become outdated quickly.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-is-cautious-about-what-to-satirize-in-gta-6-specific-political-issues-or-memes-will-date-fast/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/as9wuFhTyhA4vGp5WqZLyA-1280-80.jpg",
-    "published_at": "2026-08-28T00:05:13.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "0ee5166787a3",
@@ -3659,6 +3825,30 @@
     "game_label": null
   },
   {
+    "id": "bd6bc8d7b030",
+    "slug": "best-characters-and-team-comp-in-star-wars-zero-company",
+    "headline": "Best Characters and Team Comp in Star Wars Zero Company",
+    "summary": "GamesRadar+ explores the top characters and team compositions in Star Wars Zero Company, a game that combines strategy and sci-fi elements.",
+    "category": "esports",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/strategy/star-wars-zero-company-best-characters-team/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/WcWBf9vDunzkEST25qs8xQ-1280-80.jpg",
+    "published_at": "2026-08-27T15:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "star-wars-zero-company",
+    "game_label": "Star Wars Zero Company"
+  },
+  {
     "id": "753ea207e450",
     "slug": "best-hawks-class-in-star-wars-zero-company",
     "headline": "Best Hawks Class in Star Wars Zero Company",
@@ -4603,192 +4793,6 @@
     "image_url": "https://picsum.photos/seed/e0075631c7a1/800/600",
     "published_at": "2026-08-27T12:21:13.000Z",
     "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "98583023d0fc",
-    "slug": "playdate-creator-panic-to-issue-us-government-tariff-refunds-to-custom",
-    "headline": "Playdate Creator Panic To Issue US Government Tariff Refunds To Customers",
-    "summary": "Panic has bucked a trend followed by Nintendo by telling affected customers that they will benefit from the company's tariff refund.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/playdate-tariff-refunds-customers/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/new-project-2026-08-27t124824-843.jpg",
-    "published_at": "2026-08-27T12:10:01.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "016d8a15a443",
-    "slug": "gta-6-wants-to-remind-you-that-looks-matter-in-the-influencer-hustle-o",
-    "headline": "GTA 6 Wants To Remind You That Looks Matter In The Influencer Hustle Of Vice City",
-    "summary": "Ahead of today's GTA 6 Extended Preview on Netflix, developer Rockstar Games has revealed plenty of new details on the highly anticipated open-world game. In a new interview, Rockstar North co-studio head Rob Nelson divulged how the game, similar to GTA: San Andreas, will require you to take good care of the protagonists Jason and Lucia, as the duo will…",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gta-6-wants-to-remind-you-that-looks-matter-in-the-influencer-hustle-of-vice-city/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/GTA_6.jpg?w=300",
-    "published_at": "2026-08-27T12:07:55.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "457eb4dba0df",
-    "slug": "lego-fans-worst-nightmare-new-steam-game-combines-stress-and-satisfyme",
-    "headline": "LEGO Fans' Worst Nightmare: New Steam Game Combines Stress and Satisfyment",
-    "summary": "A new Steam game combines the stress of collecting LEGO bricks with a satisfying payoff, making it a mixed bag for enthusiasts.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "mobile",
-      "switch",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/steam-games-like-lego-never-sort-by-color/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/never-sort-by-color-steam-release-date-lego-like-game-gamerant-1.jpg",
-    "published_at": "2026-08-27T12:01:12.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "lego-fans-biggest-dream-and-worst-nightmare",
-    "game_label": "LEGO Fans' Biggest Dream and Worst Nightmare"
-  },
-  {
-    "id": "cb4b67c052eb",
-    "slug": "drive-in-the-rain-a-japanese-horror-road-trip-simulator-with-realistic",
-    "headline": "Drive In The Rain, a Japanese horror road trip simulator with realistic driving mechanics, gets Steam store page",
-    "summary": "Drive in the Rain, developed by Yayoi Kaihatsu, incorporates driving controls that are \" more complex than in typical games.\"",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/drive-in-the-rain-a-japanese-horror-road-trip-simulator-with-realistic-driving-mechanics-gets-steam-store-page/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/cb4b67c052eb/800/600",
-    "published_at": "2026-08-27T12:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d08a659c3a85",
-    "slug": "review-the-lord-of-the-rings-war-in-the-north-legacy-edition-switch-2",
-    "headline": "Review: The Lord Of The Rings: War In The North - Legacy Edition (Switch 2) - A Middling Return To Middle-Earth",
-    "summary": "Orcs and trolls galore. In today’s world of expiring rights deals and IP constantly changing hands, it’s an unfortunate reality that many licensed games are doomed to forever languish in the gaming world of yesteryear. That’s what makes moments like the return of Scott Pilgrim vs. The World: The Game or the remastered SpongeBob SquarePants: Battle for Bikini Bottom Rehydrated…",
-    "category": "reviews",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/the-lord-of-the-rings-war-in-the-north-legacy-edition"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/3b8b27e2723d5/large.jpg",
-    "published_at": "2026-08-27T12:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "10da4284ae2a",
-    "slug": "heres-13-minutes-of-witcher-3-songs-of-the-past-dlc-gameplay",
-    "headline": "Here's 13 Minutes of Witcher 3: Songs of the Past DLC Gameplay",
-    "summary": "Get a proper look at the PS5 expansion. After just a brief look at new The Witcher 3 DLC Songs of the Past during Gamescom Opening Night Live this week, CD Projekt Red has shared a much longer portion of gameplay from the DLC in one of its Red Streams. The gameplay has been clipped out and uploaded as a…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/08/heres-13-minutes-of-witcher-3-songs-of-the-past-dlc-gameplay"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/dc4da4f8d4708/large.jpg",
-    "published_at": "2026-08-27T12:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d560cb85bd8a",
-    "slug": "the-witcher-3s-phenomenal-dlc-is-now-completely-free-on-xbox-ahead-of",
-    "headline": "The Witcher 3's Phenomenal DLC Is Now Completely Free On Xbox Ahead Of Remaster",
-    "summary": "Can't argue with freebies. As if The Witcher 3: Wild Hunt's current-gen upgrade wasn't already awesome enough, CD Projekt Red has announced a free Witcher 3 Remaster coming next month, with an all-new DLC Songs of the Past scheduled for 2027. But to top it all off, both Hearts of Stone and Blood and Wine DLC expansions are now completely…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/08/the-witcher-3s-phenomenal-dlc-is-now-completely-free-on-xbox-ahead-of-remaster"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/dcb38074c00bd/large.jpg",
-    "published_at": "2026-08-27T12:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f0ee8ed1d83d",
-    "slug": "chaotic-co-op-dumpster-gang-coming-to-xbox-pc-in-december-2026",
-    "headline": "Chaotic Co-Op Dumpster Gang Coming to XBOX PC in December 2026",
-    "summary": "Trash pandas. Garbage goblins. Raccoons. These cute little critters just love to cause a ruckus, don’t they? Stealing food, knocking over trash cans, climbing, crawling, clambering. If you’re anything like us, you’ve probably wondered, “what’s it like to actually BE a raccoon?” What? Too specific a fantasy? Well, listen – this wasn’t even our fantasy […] The post Chaotic Co-Op…",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/08/27/dumpster-gang-chaotic-raccoon-co-op/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/f0ee8ed1d83d/800/600",
-    "published_at": "2026-08-27T12:00:00.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
