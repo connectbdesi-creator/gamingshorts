@@ -3762,5 +3762,65 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-27T21:55:21.336Z"
+  },
+  {
+    "slug": "fountains",
+    "name": "FOUNTAINS",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/9bc/9bc6d4a1a295d8789d62e36a71e8fb82.jpg",
+    "released": "2024-12-19",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Linux"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/48a/48a2f5591944db559d1517a005245fe0.jpg",
+      "https://media.rawg.io/media/screenshots/ade/ade40195f487c5e26c4ac9d250450b8f.jpg",
+      "https://media.rawg.io/media/screenshots/d7b/d7b3477a143fc930c689236f9e33fd0e.jpg",
+      "https://media.rawg.io/media/screenshots/cd8/cd81348db31873a563ced52e1e6cc897.jpg",
+      "https://media.rawg.io/media/screenshots/9a6/9a6d15675b1dbe7d57bf945334f6a9ab.jpg",
+      "https://media.rawg.io/media/screenshots/e9b/e9b6e9a6881c4a72507b975d0259b768.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-28T01:55:38.544Z"
+  },
+  {
+    "slug": "elden-ring-nightreign",
+    "name": "Elden Ring Nightreign",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/a14/a143ef815d323a3000840fc774d834c7.jpg",
+    "released": "2025-05-30",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/203/203c0f6c56dda05c25cd8dfa2e8520f9.jpg",
+      "https://media.rawg.io/media/screenshots/860/86080fd4c83beb4fb0d462e057b1a5c9.jpg",
+      "https://media.rawg.io/media/screenshots/715/71505c403e5afa188df4ead0f73a8ab2.jpg",
+      "https://media.rawg.io/media/screenshots/fec/fec723ae8aa5feb391b9924c38734cb6.jpg",
+      "https://media.rawg.io/media/screenshots/21d/21d3bfb13c3ecf3f47854626ee1956e2.jpg",
+      "https://media.rawg.io/media/screenshots/6ae/6ae63a8569267845e0f9ae211765d1bd.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-28T01:55:39.365Z"
   }
 ]

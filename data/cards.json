@@ -1,5 +1,380 @@
 [
   {
+    "id": "bf76c439250d",
+    "slug": "gta-6-is-doing-more-with-two-protagonists-than-gta-5-did-with-three",
+    "headline": "GTA 6 Is Doing More With Two Protagonists Than GTA 5 Did With Three",
+    "summary": "GTA 6’s two protagonists change the stakes of the switch mechanic they've inherited from GTA 5 through dynamic presence and real in-game stakes.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-jason-lucia-protagonists-gta-5/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/jason-and-lucia-in-gta-6.jpg",
+    "published_at": "2026-08-28T01:32:57.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9bfbe1020a01",
+    "slug": "one-piece-unveils-luffys-new-power",
+    "headline": "One Piece Unveils Luffy's New Power",
+    "summary": "One Piece has revealed a new power for Monkey D. Luffy that surpasses his Haki and Devil Fruit abilities, leaving fans excited for what this means for the series' future",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/one-piece-luffy-new-power-stronger-haki-devil-fruit/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/luffy-s-power-up-stronger-than-haki-and-devil-fruit.jpg",
+    "published_at": "2026-08-28T01:30:12.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2f3a4d934dc9",
+    "slug": "shueisha-games-announces-conquista-tide-of-wills",
+    "headline": "Shueisha Games Announces CONQUISTA: Tide of Wills",
+    "summary": "Shueisha Games has announced CONQUISTA: Tide of Wills, a PC colony simulation game with 4X strategy elements.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/08/shueisha-games-announces-colony-sim-x-4x-strategy-game-conquista-tide-of-wills-for-pc"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/2f3a4d934dc9/800/600",
+    "published_at": "2026-08-28T01:24:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "conquista-tide-of-wills",
+    "game_label": "CONQUISTA: Tide of Wills"
+  },
+  {
+    "id": "c5ce73e553a2",
+    "slug": "gta-6-an-extended-look-will-be-26-minutes-long-and-features-gameplay-c",
+    "headline": " GTA 6: An Extended Look will be 26 minutes long and features gameplay captured on a PS5 ",
+    "summary": "The official GTA 6 gameplay debut hits Netflix in just a few hours",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-an-extended-look-will-be-26-minutes-long-and-features-gameplay-captured-on-a-ps5/"
+      },
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/08/grand-theft-auto-vi-an-extended-look-27-minutes-of-gameplay"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/rkoPCUnriArWrQrGgmnV4n-1280-80.jpg",
+    "published_at": "2026-08-28T01:02:48.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "4053a2cdf77c",
+    "slug": "gta-6s-third-trailer-reveals-new-gameplay-and-vice-city-setting",
+    "headline": "GTA 6's Third Trailer Reveals New Gameplay and Vice City Setting",
+    "summary": "Rockstar Games has released the third trailer for Grand Theft Auto 6, showcasing new gameplay mechanics and a fresh setting in Vice City, which will allow fans to update pre-release maps.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-netflix-extended-look-how-to-watch-youtube-trailer-gameplay/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/polygon-stock-art-gta-6-jason-duval-2.jpg",
+    "published_at": "2026-08-28T01:02:10.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
+    "id": "2b3ddbd381c1",
+    "slug": "gta-6-gameplay-reveal-breakdown",
+    "headline": "GTA 6 Gameplay Reveal Breakdown",
+    "summary": "A summary of the gameplay details revealed during the latest Grand Theft Auto 6 update",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-gameplay-reveal-details-breakdown/"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/the-grand-theft-auto-6-gameplay-just-makes-me-want-a-pc-version-even-more"
+      },
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/action/gta-6-netflix-extended-look-youtube/"
+      },
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/15-cool-detail-we-spotted-in-gta-6s-big-netflix-gameplay-reveal-2000729042"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/CEPafYXbfz9mup9ybDKMt9-1280-80.jpg",
+    "published_at": "2026-08-28T01:01:46.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "0dbdbf22bfed",
+    "slug": "gta-6-officially-confirms-first-returning-character",
+    "headline": "GTA 6 Officially Confirms First Returning Character",
+    "summary": "GTA 6 officially confirms the first character returning from a previous game in the series in its Extended Look.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-returning-characters-valentina/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/gta-6-returning-characters-valentina.jpg",
+    "published_at": "2026-08-28T01:00:40.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2046ce7acde1",
+    "slug": "gta-6-reveal",
+    "headline": "GTA 6 Reveal",
+    "summary": "The author shares their thoughts on the GTA 6 reveal, expressing disappointment with the return of familiar mission types, but praises the recreation of Vice City.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/the-gta-6-reveal-has-me-wowed-by-vice-city-and-underwhelmed-by-rockstars-same-old-missions/"
+      },
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/08/watch-gta-6-extended-look-here-17-things-weve-learned"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/K92uTDbBvrJcSuxRHrKCAb-1280-80.jpg",
+    "published_at": "2026-08-28T01:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
+    "id": "24037a525e70",
+    "slug": "gta-6s-big-gameplay-reveal-contains-a-mission-first-seen-in-the-2022-l",
+    "headline": "GTA 6′s Big Gameplay Reveal Contains A Mission First Seen In The 2022 Leak, So Let’s Compare Them",
+    "summary": "Our new look at that infamous diner robbery shows just how far GTA 6 has come in four years",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/gta-6s-big-gameplay-reveal-contains-a-mission-first-seen-in-the-2022-leak-so-lets-compare-them-2000729084"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/08/2022-gta26-1280x720.jpg",
+    "published_at": "2026-08-28T00:41:48.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e429409ac753",
+    "slug": "soulslike-action-rpg-fountains-to-launch-on-september-17",
+    "headline": "Soulslike Action RPG FOUNTAINS to Launch on September 17",
+    "summary": "A new Soulslike action RPG called FOUNTAINS is set to launch on PS5, Xbox Series, and Switch on September 17, accompanied by DLC called Shattered Shape.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/08/fountains-for-ps5-xbox-series-and-switch-launches-september-17-alongside-dlc-shattered-shape"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/e429409ac753/800/600",
+    "published_at": "2026-08-28T00:33:35.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fountains",
+    "game_label": "FOUNTAINS"
+  },
+  {
+    "id": "ad0ff5ad8d70",
+    "slug": "pokemons-social-media-temporarily-compromised-promotes-cryptocurrency",
+    "headline": "Pokémon's Social Media \"Temporarily Compromised\", Promotes Cryptocurrency",
+    "summary": "The Pokémon Company has now issued a statement.\n\nAhead of the Pokémon World Championships, it seems the official Pokémon account on the social media platform 'X' (formerly known as Twitter) has been hacked.\nRead the full article on nintendolife.com",
+    "category": "esports",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/08/pokemons-social-media-temporarily-compromised-promotes-cryptocurrency"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/8bbb4ac7f03ab/large.jpg",
+    "published_at": "2026-08-28T00:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "694b354023a8",
+    "slug": "rockstar-cautious-on-gta-6-satire",
+    "headline": "Rockstar Cautious on GTA 6 Satire",
+    "summary": "Rockstar Games is being cautious about what to satirize in Grand Theft Auto 6, warning that certain topics may become outdated quickly.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-is-cautious-about-what-to-satirize-in-gta-6-specific-political-issues-or-memes-will-date-fast/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/as9wuFhTyhA4vGp5WqZLyA-1280-80.jpg",
+    "published_at": "2026-08-28T00:05:13.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "0ee5166787a3",
+    "slug": "the-biggest-action-thriller-epic-of-the-year-officially-arrives-in-3-w",
+    "headline": "The Biggest Action Thriller Epic of the Year Officially Arrives in 3 Weeks",
+    "summary": "A new action thriller game is set to release in 3 weeks, promising fresh horrors from its director",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/zach-cregger-resident-evil-preview/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/resident-evil.jpg",
+    "published_at": "2026-08-28T00:00:14.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "elden-ring-nightreign",
+    "game_label": "Elden Ring Nightreign"
+  },
+  {
+    "id": "019fa3b001e1",
+    "slug": "a-month-before-the-witcher-3-remastered-cd-projekt-red-quietly-raises",
+    "headline": " A month before The Witcher 3 Remastered, CD Projekt Red quietly raises the price of the Complete Edition on Steam ",
+    "summary": "This seems targeted",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/the-witcher/a-month-before-the-witcher-3-remastered-cd-projekt-red-quietly-raises-the-price-of-the-complete-edition-on-steam/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ADYSAqQfGSUu3arn4jLYqC-1280-80.jpg",
+    "published_at": "2026-08-27T23:55:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "fab8d6a1c63a",
+    "slug": "crunchyroll-anime-app-for-switch-shuts-down-this-october",
+    "headline": "Crunchyroll Anime App For Switch Shuts Down This October",
+    "summary": "\"Thank you for being part of the Crunchyroll community\". The anime streaming service Crunchyroll has announced its app for the Nintendo Switch will no longer be available as of 30th October 2026. This app originally arrived on the eShop in 2022. In an email, Crunchyroll has thanked users for being part of the community on the Switch. In the same…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/08/crunchyroll-anime-app-for-switch-shuts-down-this-october"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/dbb57f68c3f18/large.jpg",
+    "published_at": "2026-08-27T23:30:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "adec29ff2e93",
     "slug": "gta-6-targeting-30fps-on-ps5-undecided-on-performance-mode",
     "headline": "GTA 6 Targeting 30fps on PS5, Undecided on Performance Mode",
@@ -115,6 +490,10 @@
       {
         "name": "Push Square",
         "url": "https://www.pushsquare.com/features/poll-are-you-sold-on-gta-6"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-world-size-map-rockstar-confirms"
       }
     ],
     "image_url": "https://assetsio.gnwcdn.com/GTA-6-Extended-Look-Sky-Diving.png?width=690&quality=85&format=jpg&auto=webp",
@@ -145,36 +524,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "2b3ddbd381c1",
-    "slug": "gta-6-gameplay-reveal-breakdown",
-    "headline": "GTA 6 Gameplay Reveal Breakdown",
-    "summary": "A summary of the gameplay details revealed during the latest Grand Theft Auto 6 update",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-gameplay-reveal-details-breakdown/"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/the-grand-theft-auto-6-gameplay-just-makes-me-want-a-pc-version-even-more"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/CEPafYXbfz9mup9ybDKMt9-1280-80.jpg",
-    "published_at": "2026-08-27T22:30:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "7f2e41ed1fe1",
@@ -285,6 +634,10 @@
       {
         "name": "Polygon",
         "url": "https://www.polygon.com/gta-6-satire-trump-covid-pandemic-rockstar-games/"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-four-protagonists-considered-by-rockstar"
       }
     ],
     "image_url": "https://assets-prd.ignimgs.com/2026/08/27/gta6-nervous-news-1787849001685.jpg",
@@ -363,6 +716,10 @@
       {
         "name": "GameSpot",
         "url": "https://www.gamespot.com/articles/gta-6-map-is-3x-bigger-than-red-dead-redemption-2s/"
+      },
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-lead-says-gta-6-takes-npc-interactions-much-further-than-red-dead-redemption-2-and-its-system-is-returning-and-evolved/"
       }
     ],
     "image_url": "https://cdn.mos.cms.futurecdn.net/gA2SeaEw9H3guJjLLgPpp6-1280-80.jpg",
@@ -520,6 +877,10 @@
       {
         "name": "Eurogamer",
         "url": "https://www.eurogamer.net/gta-6-reaction-this-is-what-a-billion-dollars-gets-you"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-wanted-system-explained"
       }
     ],
     "image_url": "https://assetsio.gnwcdn.com/grand-theft-auto-6-city-shot-sunset.png?width=690&quality=85&format=jpg&auto=webp",
@@ -610,32 +971,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "2046ce7acde1",
-    "slug": "gta-6-reveal",
-    "headline": "GTA 6 Reveal",
-    "summary": "The author shares their thoughts on the GTA 6 reveal, expressing disappointment with the return of familiar mission types, but praises the recreation of Vice City.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/the-gta-6-reveal-has-me-wowed-by-vice-city-and-underwhelmed-by-rockstars-same-old-missions/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/K92uTDbBvrJcSuxRHrKCAb-1280-80.jpg",
-    "published_at": "2026-08-27T20:54:20.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gta-6",
-    "game_label": "GTA 6"
   },
   {
     "id": "0a296d7b3121",
@@ -827,6 +1162,53 @@
     ],
     "image_url": "https://assetsio.gnwcdn.com/gta-6-jason-lucia-relationship.jpg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-08-27T20:29:42.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "871c81a717fb",
+    "slug": "gta-6-inspired-by-red-dead-redemption-2",
+    "headline": "GTA 6 Inspired by Red Dead Redemption 2",
+    "summary": "Rockstar Games' next title is said to share similarities with Red Dead Redemption 2, offering a vast open world with emergent discoveries.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/like-red-dead-redemption-2-gta-6-is-a-whole-other-world-where-theres-a-whole-lot-of-stuff-that-you-discover-emergently/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/gA2SeaEw9H3guJjLLgPpp6-1280-80.jpg",
+    "published_at": "2026-08-27T20:29:00.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "afd60946f8f7",
+    "slug": "gta-6-players-wont-be-as-overpowered-as-previous-games-you-are-not-the",
+    "headline": " GTA 6 players won't be as \"overpowered\" as previous games: \"You are not the only one capable of violence\" ",
+    "summary": "Things will get dangerous if you break the rules",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-players-wont-be-as-overpowered-as-previous-games-you-are-not-the-only-one-capable-of-violence/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/vACRvbgxcfjs36QDRUgWh7-1280-80.jpg",
+    "published_at": "2026-08-27T20:27:29.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -1077,6 +1459,27 @@
     "comment_count": 0,
     "game": "grand-theft-auto-6",
     "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "69cc170849ff",
+    "slug": "heres-every-song-featured-in-rockstars-gta-6-extended-look",
+    "headline": "Here's Every Song Featured in Rockstar's GTA 6 Extended Look",
+    "summary": "Rockstar Games' first official extended look at Grand Theft Auto 6 featured a lot of licensed music, and we've got the list of every song it featured right here.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/heres-every-song-featured-in-rockstars-gta-6-extended-look"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/08/25/vintage-vice-city-pack-exclusive-looks-01-1787655039708.jpg",
+    "published_at": "2026-08-27T19:38:26.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "221f9dbee33f",
@@ -2664,29 +3067,6 @@
     ],
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/pio-thumb-6.png",
     "published_at": "2026-08-27T15:11:24.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c5ce73e553a2",
-    "slug": "gta-6-an-extended-look-will-be-26-minutes-long-and-features-gameplay-c",
-    "headline": " GTA 6: An Extended Look will be 26 minutes long and features gameplay captured on a PS5 ",
-    "summary": "The official GTA 6 gameplay debut hits Netflix in just a few hours",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-an-extended-look-will-be-26-minutes-long-and-features-gameplay-captured-on-a-ps5/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/rkoPCUnriArWrQrGgmnV4n-1280-80.jpg",
-    "published_at": "2026-08-27T15:11:05.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -4402,340 +4782,6 @@
     "image_url": "https://images.purexbox.com/bbd9b6d16b661/large.jpg",
     "published_at": "2026-08-27T11:00:00.000Z",
     "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "16bc9fd2ae34",
-    "slug": "nvidia-says-it-would-be-making-a-whole-lot-more-money-if-it-werent-for",
-    "headline": " Nvidia says it would be making a whole lot more money if it weren't for the memory crisis it's contributing to ",
-    "summary": "And gaming doesn't even get a mention in its earnings call.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/nvidia-says-it-would-be-making-a-whole-lot-more-money-if-it-werent-for-the-memory-crisis-its-contributing-to/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/dbyMS2G9kvcew8wvqTVruE-1280-80.jpg",
-    "published_at": "2026-08-27T10:48:59.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5c5aef8c7bf5",
-    "slug": "one-piece-creator-keeps-delaying-the-inevitable-and-doesnt-think-the-m",
-    "headline": " One Piece creator keeps delaying the inevitable and doesn't think the manga will end until at least 2030 ",
-    "summary": "Eiichiro Oda provides an update on One Piece's endgame timeline",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/entertainment/anime-shows/one-piece-creator-keeps-delaying-the-inevitable-and-doesnt-think-the-manga-will-end-until-at-least-2030/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/fzNxZJVBQDeK8yY6KSZBSe-1280-80.jpg",
-    "published_at": "2026-08-27T10:47:20.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4286f9733823",
-    "slug": "crimson-desert-will-be-slowing-down-its-free-updates-in-preparation-fo",
-    "headline": " Crimson Desert will be slowing down its free updates in preparation for its paid DLC, and I'm just glad Pearl Abyss is finally pacing itself ",
-    "summary": "Free stuff is great, but it's reasonable to get paid at some point.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/rpg/crimson-desert-will-be-slowing-down-its-free-updates-in-preparation-for-its-paid-dlc-and-im-just-glad-pearl-abyss-is-finally-pacing-itself/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/WdD2RYSNrMsmkfT5eVkMTm-1280-80.jpg",
-    "published_at": "2026-08-27T10:43:08.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d6269e8a6e62",
-    "slug": "gamescom-was-plagued-by-ai-this-year",
-    "headline": "Gamescom Was Plagued By AI This Year",
-    "summary": "23.64% of the games featured during Gamescom ONL this year used AI in some form.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/gamescom-1-in-4-games-used-ai/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/geoff-keighley-on-stage-at-gamescom-onl-holding-a-mic.jpg",
-    "published_at": "2026-08-27T10:34:41.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "27ab28668131",
-    "slug": "dispatch-is-getting-a-super-steelbook-release-on-switch-2",
-    "headline": "Dispatch Is Getting A Super Steelbook Release On Switch 2",
-    "summary": "Cool centre. Prepare yourselves, physical fans, because the superhero workplace comedy Dispatch is getting a rather swanky-looking steelbook release on Switch 2. This is one of the launch titles for publisher PM Studios' new physical games storefront, PANAX, and it's a heck of a way to start. The steelbook itself features sweet Mecha Man and Shroud designs on its front…",
-    "category": "patches",
-    "platform_tags": [
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/08/dispatch-is-getting-a-super-steelbook-release-on-switch-2"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/bcf33043b28cd/large.jpg",
-    "published_at": "2026-08-27T10:30:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5afe1d0016a3",
-    "slug": "xbox-releases-an-extended-18-minute-fable-gameplay-demonstration",
-    "headline": "Xbox releases an extended 18 minute Fable gameplay demonstration",
-    "summary": "Xbox has revealed 18 minutes of Fable gameplay footage ahead of the 2027 release",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/xbox-releases-an-extended-18-minute-fable-gameplay-demonstration/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/5afe1d0016a3/800/600",
-    "published_at": "2026-08-27T10:15:01.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "61524c00abf9",
-    "slug": "xbox-announces-disc-to-digital-feature-that-lets-you-digitise-physical",
-    "headline": "Xbox announces disc-to-digital feature that lets you digitise physical Xbox One and Series X games",
-    "summary": "UPDATE 11.25AM BST: Xbox CEO Asha Sharma shed a little more light on the feature in a BBC interview. The gaming chief said 1,000 titles will be initially supported across Xbox One and Series X. The interview also clarified the point about transfer of the digital license, confirming it does indeed move with the disc, allowing the next owner to…",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/xbox-disc-to-digital-one-series-x-details"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/xbox-disc-to-digital-art-crop-1-copy.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-08-27T10:03:57.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8fda4e9f3682",
-    "slug": "feature-15-new-xbox-games-are-releasing-today-plus-a-day-one-game-pass",
-    "headline": "Feature: 15 New Xbox Games Are Releasing Today, Plus A Day One Game Pass Launch",
-    "summary": "Three of them have incredible review scores! What a busy day for new Xbox games, huh? We'd usually save a roundup like this for the weekly releases, but there's a vast amount of titles launching today. So, we thought we'd whip 'em up for you to have a look at. We've got the highly anticipated Star Wars Zero Company and…",
-    "category": "reviews",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/features/15-new-xbox-games-are-releasing-today-plus-a-day-one-game-pass-launch"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/f5d756b0036fc/large.jpg",
-    "published_at": "2026-08-27T10:02:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "491bcd227de1",
-    "slug": "kogado-studio-announces-short-visual-novel-sugar-lies-for-switch-pc",
-    "headline": "Kogado Studio announces short visual novel Sugar Lies for Switch, PC",
-    "summary": "Kogado Studio has announced Sugar Lies, a short visual novel coming to Switch and PC …",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/08/kogado-studio-announces-short-visual-novel-sugar-lies-for-switch-pc"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/491bcd227de1/800/600",
-    "published_at": "2026-08-27T10:00:20.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "294b78c98b9f",
-    "slug": "gamerant-daily-crossword-august-28-2026",
-    "headline": "GameRant Daily Crossword (August 28, 2026)",
-    "summary": "Uncover post-apocalyptic secrets and test your retro gaming memory with today's GameRant Daily Crossword.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/game/gamerant-daily-crossword-2026-08-28/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/game-rant-games-game-rant-daily-crossword-puzzle-site-banner-graphic.jpg",
-    "published_at": "2026-08-27T10:00:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "73bccb2d2a5e",
-    "slug": "gta-6-extended-look-how-to-watch-what-to-expect-and-more",
-    "headline": "GTA 6 Extended Look: How To Watch, What To Expect, And More",
-    "summary": "The countdown to Grand Theft Auto 6 is winding down, and ahead of its launch in November, developer Rockstar Games has a new look at the game on the way. But unlike other trailers or developer previews, this one won't be dropping on YouTube first, as Netflix has an exclusive on it for several hours. If you're planning to watch--and…",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gta-6-extended-look-how-to-watch-what-to-expect-and-more/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/05/GTA-6-art.jpg?w=300",
-    "published_at": "2026-08-27T10:00:00.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "98d77c02b0bb",
-    "slug": "sentinel-girls-series-tops-500k-copies-sold",
-    "headline": "Sentinel Girls Series Tops 500k Copies Sold",
-    "summary": "Playism celebrates 5th anniversary milestone with over 500,000 copies sold for Marfusha: Sentinel Girls and Snezhinka: Sentinel Girls 2",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/japanese-dystopian-shooter-series-sentinel-girls-sells-over-500k-copies-coinciding-with-the-first-games-5th-anniversary/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/98d77c02b0bb/800/600",
-    "published_at": "2026-08-27T09:53:26.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "sentinel-girls",
-    "game_label": "Sentinel Girls"
-  },
-  {
-    "id": "2f22d85c4e65",
-    "slug": "gta-6-gameplay-details-revealed-in-new-preview-including-seamless-char",
-    "headline": "GTA 6 gameplay details revealed in new preview, including seamless character switching, playing as a couple and more",
-    "summary": "Grand Theft Auto 6 day has kicked off a little early. While everyone waits for the game's Netflix extended look, new information has emerged from something of an unlikely source.\n Read more",
-    "category": "reviews",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/gta-6-character-switching-reactive-world-jason-lucia-romance"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/VINTAGE_VICE_CITY_PACK_02.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-08-27T09:51:21.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "88e2c39d3076",
-    "slug": "stellar-blade-will-be-playable-on-switch-2-at-tokyo-game-show-2026",
-    "headline": "Stellar Blade Will Be Playable On Switch 2 At Tokyo Game Show 2026",
-    "summary": "Good Eve. Ahead of its release later this year, Stellar Blade: Complete Edition will be playable for the first time on Switch 2 at Tokyo Game Show 2026. Taking place from the 17th to 21st September, attendees can go hands-on with the upcoming port which, by the looks of the latest trailer, could be quite the looker on Switch 2.…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/08/stellar-blade-will-be-playable-on-switch-2-at-tokyo-game-show-2026"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/cc0779bdb0c6d/large.jpg",
-    "published_at": "2026-08-27T09:45:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "bb0594497d31",
-    "slug": "rockstar-set-up-a-special-gta-6-team-in-miami-to-meet-with-ex-criminal",
-    "headline": "Rockstar set up a special GTA 6 team in Miami to meet with \"ex-criminals, law enforcement, club promoters, gun dealers and anyone notorious or influential\"",
-    "summary": "Rockstar went to some great lengths for its Grand Theft Auto 6 research, it seems, as the studio has said it sent multiple teams of developers to Miami as well as embedding a team there longer-term for research.\n Read more",
-    "category": "deals",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/gta-6-rockstar-miami-research-team-ex-criminals-gun-dealers"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/ULTIMATE_EDITION_ELECTRIC_FANG_03.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-08-27T09:37:16.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
