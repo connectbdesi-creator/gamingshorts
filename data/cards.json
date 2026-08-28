@@ -1,5 +1,76 @@
 [
   {
+    "id": "09b63aa402e1",
+    "slug": "to-the-moon-creator-explains-why-he-still-makes-games-with-rpg-maker-t",
+    "headline": "To the Moon creator explains why he still makes games with RPG Maker. The “just right” simplicity that lets you focus on the creative sides of development",
+    "summary": "Interview with To the Moon developer Kan Gao about making games in RPG Maker.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/interviews/to-the-moon-creator-explains-why-he-still-makes-games-with-rpg-maker-the-just-right-simplicity-that-lets-you-focus-on-the-creative-sides-of-development/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/09b63aa402e1/800/600",
+    "published_at": "2026-08-28T03:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "951a93c0371d",
+    "slug": "fire-emblem-three-houses-returns-in-nintendo-musics-latest-album-updat",
+    "headline": "Fire Emblem: Three Houses Returns In Nintendo Music's Latest Album Update",
+    "summary": "The Nintendo Music app has added Fire Emblem: Three Houses to its Switch album, in anticipation of the upcoming release of Fortune's Weave",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/08/fire-emblem-three-houses-returns-in-nintendo-musics-latest-album-update"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/25d9b9756a974/large.jpg",
+    "published_at": "2026-08-28T02:45:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fire-emblem-three-houses",
+    "game_label": "Fire Emblem: Three Houses"
+  },
+  {
+    "id": "83b9865c55ef",
+    "slug": "chun-lis-actor-ate-12-eggs-a-day-to-prepare-for-street-fighter-movie",
+    "headline": "Chun-Li's Actor Ate 12 Eggs a Day to Prepare for Street Fighter Movie",
+    "summary": "Actor Callina Liang shares her intense training regimen to prepare for her role as Chun-Li in the new Street Fighter live-action movie.",
+    "category": "releases",
+    "platform_tags": [
+      "mobile",
+      "pc",
+      "playstation",
+      "switch",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/08/chun-lis-actor-ate-12-eggs-a-day-to-prepare-for-the-street-fighter-movie"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/995624c0f5f41/large.jpg",
+    "published_at": "2026-08-28T01:45:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "street-fighter",
+    "game_label": "Street Fighter"
+  },
+  {
     "id": "bf76c439250d",
     "slug": "gta-6-is-doing-more-with-two-protagonists-than-gta-5-did-with-three",
     "headline": "GTA 6 Is Doing More With Two Protagonists Than GTA 5 Did With Three",
@@ -327,6 +398,50 @@
     "comment_count": 0,
     "game": "elden-ring-nightreign",
     "game_label": "Elden Ring Nightreign"
+  },
+  {
+    "id": "fbe33c85697e",
+    "slug": "new-ps5-game-is-basically-pokemon-and-its-coming-later-this-year",
+    "headline": "New PS5 Game is Basically Pokemon and It's Coming Later This Year",
+    "summary": "A brand-new PS5 game has some serious Pokemon vibes, and is officially set to arrive on the platform later this year.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/ps5-games-like-pokemon-lumentale-memories-of-trey/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/new-ps5-game-is-basically-pokemon-and-its-coming-later-this-year-gamerant-feature.jpg",
+    "published_at": "2026-08-28T00:00:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "31052b856a2c",
+    "slug": "i-grew-up-in-miami-and-gta-6s-vice-city-is-almost-too-accurate",
+    "headline": "I Grew Up in Miami, and GTA 6's Vice City Is Almost Too Accurate",
+    "summary": "Grand Theft Auto 6's official gameplay reveal showed off a lot of Vice City, and as an ex-Floridian, I must say it's looking mighty authentic.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-vice-city-miami-accuracy/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/aerial-shot-of-vice-city-in-gta-6.jpg",
+    "published_at": "2026-08-28T00:00:12.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "019fa3b001e1",
@@ -1338,6 +1453,31 @@
     "image_url": "https://assetsio.gnwcdn.com/GTA-6-Extended-Look-Raul.png?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-08-27T20:08:46.000Z",
     "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "822e641ba3be",
+    "slug": "gta-6-wont-let-you-break-up-lucia-and-jason",
+    "headline": "GTA 6 Won't Let You Break Up Lucia and Jason",
+    "summary": "Grand Theft Auto 6's NPCs will remain in a committed relationship no matter the player's actions",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wont-let-you-break-up-lucia-and-jason-no-matter-how-poorly-you-treat-them-they-will-remain-partners-in-crime/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/dbLYbnmpPVs3wvWdDyYNnT-1280-80.jpg",
+    "published_at": "2026-08-27T20:05:27.000Z",
+    "hype_signal": 40,
     "like_count": 0,
     "comment_count": 0,
     "game": "grand-theft-auto-6",
@@ -2493,6 +2633,33 @@
     "game_label": null
   },
   {
+    "id": "a365291cd4b9",
+    "slug": "rockstar-ahead-in-npc-crowd-technology",
+    "headline": "Rockstar Ahead in NPC Crowd Technology",
+    "summary": "A Rockstar Games developer claims the company is 10+ years ahead of others in NPC crowd technology, citing their work on 007: First Light",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-is-at-least-10-years-ahead-of-other-games-with-gta-6s-npc-crowd-technology-says-dev-behind-007-first-lights-incredible-crowds/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/7E43SERC2PDAcs2Nxm9Yxm-1280-80.jpg",
+    "published_at": "2026-08-27T16:17:35.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
     "id": "3d466b1cb11b",
     "slug": "whats-the-best-starting-class-in-star-wars-zero-company",
     "headline": "What's the best starting class in Star Wars Zero Company?",
@@ -2518,6 +2685,27 @@
     "comment_count": 0,
     "game": "star-wars-zero-company",
     "game_label": "Star Wars Zero Company"
+  },
+  {
+    "id": "36c6c2b90ff0",
+    "slug": "new-host-for-expedition-33-announced",
+    "headline": "New Host for Expedition 33 Announced",
+    "summary": "GamesRadar+ reports on the new host of Expedition 33, a reality TV show, and their thoughts on a character from a popular game series.",
+    "category": "esports",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/action/new-tides-of-annihilation-lead-deeply-honored-to-take-over-from-clair-obscur-expedition-33s-jennifer-english-who-was-generous-kind-and-supportive-throughout-this-whole-journey/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/PnwdphQuqHe5CVXjgWRA5Z-1280-80.jpg",
+    "published_at": "2026-08-27T16:13:20.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "001c32c3abc1",
@@ -4599,189 +4787,6 @@
     "image_url": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-08-27T11:16:24.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3b687a248421",
-    "slug": "mr-records-could-be-the-next-indie-sleeper-hit-on-switch-2",
-    "headline": "Mr. Records Could Be The Next Indie Sleeper Hit On Switch 2",
-    "summary": "Upcoming rhythm-based game Mr. Records promises a fun experience with its quirky gameplay and levels set in a record store. Developed by Glee-Cheese and published by Wired Productions, it's a title to watch on the Switch 2.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/08/mr-records-could-be-the-next-indie-sleeper-hit-on-switch-2"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/975c8dd5196b9/large.jpg",
-    "published_at": "2026-08-27T11:15:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "mr-records",
-    "game_label": "Mr. Records"
-  },
-  {
-    "id": "fb36cde3168a",
-    "slug": "nodusfall-isnt-a-gacha-game-mihoyo-confirms-because-unlike-genshin-imp",
-    "headline": " Nodusfall isn't a gacha game, Mihoyo confirms, because unlike Genshin Impact you'll unlock characters \"through continued play\" instead ",
-    "summary": "The Hoyoverse is branching out",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/action-rpg/nodusfall-isnt-a-gacha-game-mihoyo-confirms-because-unlike-genshin-impact-youll-unlock-characters-through-continued-play-instead/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/fT7t7XAghrebxrUkCVuuH6-1280-80.jpg",
-    "published_at": "2026-08-27T11:14:25.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "85ab37f4f305",
-    "slug": "double-fine-made-brutal-legend-free-for-a-fitting-666-minutes-in-tribu",
-    "headline": " Double Fine made Brutal Legend free for a fitting 666 minutes in tribute to Tim Curry, who played the game's antagonist ",
-    "summary": "The studio did the same for Ozzy Osbourne last year",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/double-fine-made-brutal-legend-free-for-a-fitting-666-minutes-in-tribute-to-tim-curry-who-played-the-games-antagonist/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/uV873scPa2EJMXTRkm5CuW-1280-80.jpg",
-    "published_at": "2026-08-27T11:10:23.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "68aca0375920",
-    "slug": "the-things-that-we-based-our-assumptions-on-have-changed-fundamentally",
-    "headline": "\"The things that we based our assumptions on have changed fundamentally\": Arrowhead CEO Shams Jorjani on the games industry's rapid transformation",
-    "summary": "The CEO of Helldivers 2 maker Arrowhead Game Studios, Shams Jorjani, has said that the games industry is in a \"transitional phase at the moment\".\n Read more",
-    "category": "industry",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/the-things-that-we-based-our-assumptions-on-have-changed-fundamentally-arrowhead-ceo-shams-jorjani-on-the-games-industrys-rapid-transformation"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Shams-Jorjani-arrowhead.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-08-27T11:10:08.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6f1448e7667d",
-    "slug": "konami-is-aiming-for-a-new-silent-hill-game-every-year-with-producer-m",
-    "headline": " Konami is aiming for a new Silent Hill game every year with producer Motoi Okamoto trying to quell fears by promising fans that they 'will be able to provide positive kinds of surprises' ",
-    "summary": "A game a year is a tall order.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/horror/konami-is-aiming-for-a-new-silent-hill-game-every-year-with-producer-motoi-okamoto-trying-to-quell-fears-by-promising-fans-that-they-will-be-able-to-provide-positive-kinds-of-surprises/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/26ufMeHTfuivcoySFoD8un-1280-80.jpg",
-    "published_at": "2026-08-27T11:04:09.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e6c37f4ec74b",
-    "slug": "project-motor-racing-adds-new-cars-and-track",
-    "headline": "Project Motor Racing Adds New Cars and Track",
-    "summary": "Project Motor Racing is introducing nine new cars and a new track on September 15, part of the V8 Power Pack update.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/project-motor-racing-adding-nine-new-cars-new-track-next-month"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/27/project-motor-racing-v8-power-pack-1787826078688.jpg",
-    "published_at": "2026-08-27T11:02:47.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "96d44108e0f2",
-    "slug": "gravhounds-revealed-co-op-chaos-with-bio-engineered-dogs-in-space",
-    "headline": "Gravhounds Revealed: Co-op Chaos with Bio-Engineered Dogs in Space",
-    "summary": "This week at gamescom, we finally revealed Gravhounds, the first game from our seven-person independent studio, Octopus Panic – it’s set to launch into Game Preview on XBOX Series X|S and XBOX on PC on November 2, 2026, and will be available day one with XBOX Game Pass. We’re a small team, but between us […] The post Gravhounds Revealed:…",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/08/27/gravhounds-revealed-co-op-chaos-bio-engineered-dogs-in-space/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/96d44108e0f2/800/600",
-    "published_at": "2026-08-27T11:00:00.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e22fbb3c92b8",
-    "slug": "fable-gets-another-30-minutes-of-raw-gameplay-footage-in-new-combat-vi",
-    "headline": "Fable Gets Another 30 Minutes Of Raw Gameplay Footage In New Combat Video",
-    "summary": "No commentary, just good old-fashioned brawling. One of the highlights from Xbox's first Gamescom broadcast was an 18-minute gameplay reveal for the massively anticipated RPG Fable. Playground Games gave us a proper look at their 2027 Xbox Game Pass release, including the city of Bowerstone, its questing mechanics, and a couple sections of combat. Now, we're getting an even deeper…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/08/fable-gets-another-30-minutes-of-raw-gameplay-footage-in-new-combat-video"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/bbd9b6d16b661/large.jpg",
-    "published_at": "2026-08-27T11:00:00.000Z",
-    "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
     "game": null,

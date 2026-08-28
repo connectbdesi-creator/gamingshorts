@@ -3822,5 +3822,60 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-28T01:55:39.365Z"
+  },
+  {
+    "slug": "fire-emblem-three-houses",
+    "name": "Fire Emblem: Three Houses",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/530/53081dbd5003f990fa5312404ac3d71a.jpg",
+    "released": "2019-07-26",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "RPG"
+    ],
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d44/d446887276169dbf2766bcd17a8763fa.jpg",
+      "https://media.rawg.io/media/screenshots/3eb/3eb70f89c4195f16686785e9b8e74679.jpg",
+      "https://media.rawg.io/media/screenshots/8a3/8a3380503836f7d8960752b03bcc011c.jpg",
+      "https://media.rawg.io/media/screenshots/425/4254fec3633be9daa045c06d717fca73.jpg",
+      "https://media.rawg.io/media/screenshots/cf7/cf79138f6f1a0f639f11316fe7bf8591.jpg",
+      "https://media.rawg.io/media/screenshots/6ff/6ff794590f8e69919f6f37e5bd257d49.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-28T03:53:38.537Z"
+  },
+  {
+    "slug": "street-fighter",
+    "name": "Street Fighter (1987)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/c46/c4651576bdaf1f184119f8eecf521d28.jpg",
+    "released": "1987-08-30",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Wii",
+      "Commodore / Amiga",
+      "Atari ST"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/fbe/fbe0568c8aa1beaf417aacd4c3109b90.jpg",
+      "https://media.rawg.io/media/screenshots/c94/c94d957862040a2e59cdc2b8367cf455.jpg",
+      "https://media.rawg.io/media/screenshots/e0c/e0cb4f0b773f22f99f95035fcfcc33e7.jpg",
+      "https://media.rawg.io/media/screenshots/19e/19ebd4276fdef3d4959579001870705d.jpg",
+      "https://media.rawg.io/media/screenshots/5f1/5f17422f2cae624bde4b282fda737536.jpg",
+      "https://media.rawg.io/media/screenshots/912/912e50b0a93f419783a74fe5a6b73778.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-28T03:53:39.122Z"
   }
 ]
