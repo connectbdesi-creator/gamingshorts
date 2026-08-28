@@ -3877,5 +3877,33 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-28T03:53:39.122Z"
+  },
+  {
+    "slug": "fable-4",
+    "name": "Fable",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/705/7052ebf19b7b57ada5eeb21dea59f0e7.jpg",
+    "released": "2027-02-23",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/1cb/1cb8c4bbf2eddbeee787ba0ff1721aca.jpg",
+      "https://media.rawg.io/media/screenshots/750/750a8797af6cb6bc15b51a2be46cc085.jpg",
+      "https://media.rawg.io/media/screenshots/8f4/8f4f5dc506820462698f63c80ddb8752.jpg",
+      "https://media.rawg.io/media/screenshots/504/504b50fbb2d4f4d79b2b26f7d4d693eb.jpg",
+      "https://media.rawg.io/media/screenshots/c3f/c3f7a6bb043a897bc7039b03776db16c.jpg",
+      "https://media.rawg.io/media/screenshots/f91/f91b1a2e762b183bf540adddb631bf46.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-28T05:52:40.224Z"
   }
 ]
