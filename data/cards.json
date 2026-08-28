@@ -1,5 +1,382 @@
 [
   {
+    "id": "4e73b9344a14",
+    "slug": "the-legacy-evercade-cart-making-a-comeback-is-the-piko-interactive-col",
+    "headline": " The legacy Evercade cart making a comeback is the Piko Interactive Collection 1, and it includes a \"fan favorite RPG\" ",
+    "summary": "Blaze has revealed that the Evercade Piko Interactive Collection 1 is making a comeback, but the legacy cartridge will return without Magic Girl.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/hardware/retro/the-legacy-evercade-cart-making-a-comeback-is-the-piko-interactive-collection-1-and-it-includes-a-fan-favorite-rpg/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/z3vqySdq2fHVRUocpt6UDh-1280-80.jpg",
+    "published_at": "2026-08-28T11:31:33.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d385726ad171",
+    "slug": "the-witcher-3-remastered-resolution-and-frame-rate-for-switch-2-reveal",
+    "headline": "The Witcher 3 Remastered Resolution And Frame Rate For Switch 2 Revealed",
+    "summary": "Mouse & gyro controls also confirmed. A new livestream from CD Projekt Red has revealed what players can expect in terms of performance for The Witcher III: Wild Hunt Remastered on Switch 2. Resolution is going to target 1080p in docked mode and 720p in handheld. With frame rate, you're looking at between 30 - 40fps in handheld with VRR…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/08/the-witcher-3-remastered-resolution-and-frame-rate-for-switch-2-revealed"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/1fb34b4c4838f/large.jpg",
+    "published_at": "2026-08-28T11:30:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b6b9ee1622a6",
+    "slug": "gta-6-is-confirmed-to-be-30-frames-per-second-at-launch-no-performance",
+    "headline": "GTA 6 is confirmed to be 30 frames per second at launch, no Performance Mode at launch",
+    "summary": "GTA 6 will be limited to 30 FPS on consoles at launch",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/gta-6-is-confirmed-to-be-30-frames-per-second-at-launch-no-performance-mode-at-launch/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/b6b9ee1622a6/800/600",
+    "published_at": "2026-08-28T11:23:43.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e6b8ac33ffec",
+    "slug": "valves-steam-censorship-on-satirical-game",
+    "headline": " Valve's Steam Censorship on Satirical Game",
+    "summary": "A satirical open-world game has been censored on Steam due to Valve's content guidelines, despite the game's creator removing a 'sex quest' element. The game's themes of adult content and satire are now inaccessible to some Steam users.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/im-desperately-looking-for-anybody-who-knows-anybody-at-valve-open-world-satire-future-no-thanks-is-still-locked-in-steam-horny-jail"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/futurenothanks.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-08-28T11:23:35.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "future-no-thanks",
+    "game_label": "Future? No Thanks!"
+  },
+  {
+    "id": "338a4695b54c",
+    "slug": "saber-interactives-ai-controversy-will-spark-a-game-changer",
+    "headline": "Saber Interactive's AI Controversy Will Spark a Game-Changer",
+    "summary": "Saber Interactive's CEO promises a new game that will revolutionize the way people think about artificial intelligence",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/saber-half-life-2-gen-ai-rideshare-controversy"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/saber-ai-half-life-2-rideshare.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-08-28T11:04:23.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "rideshare-stimulator",
+    "game_label": "Rideshare Stimulator"
+  },
+  {
+    "id": "75043c296cee",
+    "slug": "the-witcher-3-remastered-recommends-double-the-ram",
+    "headline": "The Witcher 3 Remastered Recommends Double The RAM",
+    "summary": "It's about to get a whole lot more demanding if you want a game of Gwent, but don't worry, you can rollback.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/the-witcher-3-pc-recommended-specs/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/collage-of-geralt-yennefer-ciri-triss-and-the-wild-hunt-on-the-cover-of-the-witcher-3-remastered.jpg",
+    "published_at": "2026-08-28T11:03:18.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "847d84d95d89",
+    "slug": "playstation-releases-new-official-comment-on-ps5-exclusives-and-pc-por",
+    "headline": "PlayStation Releases New Official Comment on PS5 Exclusives and PC Ports",
+    "summary": "PlayStation quietly, yet clearly, comments on the future of PC ports for PS5 games with its upcoming selection.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/playstation-ps5-exclusives-pc-language-change/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/marvel-s-wolverine-ain-t-no-hero-trailer.jpg",
+    "published_at": "2026-08-28T11:00:13.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d4fba7438b88",
+    "slug": "psa-its-your-last-chance-to-pick-up-a-switch-2-before-the-price-goes-u",
+    "headline": "PSA: It's Your Last Chance To Pick Up A Switch 2 Before The Price Goes Up",
+    "summary": "Numbers go up.\nNintendo is raising the price of Switch 2 outside Japan on Tuesday 1st September.\nThe price increase took effect soon after the May announcement in Nintendo's home territory, but everywhere else is following suit next week.\nRead the full article on nintendolife.com",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/08/psa-its-your-last-chance-to-pick-up-a-switch-2-before-the-price-goes-up"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/ba83a246eaacf/large.jpg",
+    "published_at": "2026-08-28T11:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "22238ae63698",
+    "slug": "nvidia-dlss-5-ai-filter-leaks",
+    "headline": "Nvidia DLSS 5 AI Filter Leaks",
+    "summary": "Nvidia's DLSS 5 AI filter has leaked, and players are experimenting with it in various games, sparking concerns about its impact on gaming quality and player experience.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/this-is-horrifying-nvidias-controversial-dlss-5-ai-filter-leaks-and-layers-are-inserting-it-into-every-game/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/22238ae63698/800/600",
+    "published_at": "2026-08-28T10:36:13.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "83deae98e38c",
+    "slug": "red-dead-redemption-2-briefly-appears-in-gta-6-extended-look",
+    "headline": "Red Dead Redemption 2 Briefly Appears in GTA 6 Extended Look",
+    "summary": "A brief clip of Red Dead Redemption 2 was unexpectedly shown during Rockstar's GTA 6 Extended Look, prompting fans to speculate about its connection to the upcoming game.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox",
+      "playstation",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/rockstar-snuck-red-dead-redemption-2-into-its-gta-6-extended-look-and-of-course-fans-spotted-it-immediately"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/08/28/grand-theft-auto-vi-an-extended-look-00-07-55-1787912153253.png",
+    "published_at": "2026-08-28T10:33:05.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "red-dead-redemption-2",
+    "game_label": "Red Dead Redemption 2"
+  },
+  {
+    "id": "9183e5ec2e86",
+    "slug": "eas-iron-man-game-trailer-leaked",
+    "headline": "EA's Iron Man Game Trailer Leaked",
+    "summary": "A leaked trailer confirms the Iron Man game, previously announced in 2022, is still in development, putting rumors of its cancellation to rest.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/iron-man-ea-motive-trailer-leak/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/mixcollage-28-aug-2026-11-14-am-7340.jpg",
+    "published_at": "2026-08-28T10:31:44.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "iron-man",
+    "game_label": "Iron Man"
+  },
+  {
+    "id": "8a0715ce40cb",
+    "slug": "zenless-zone-zero-32-livestream-reveals-new-characters-and-content",
+    "headline": "Zenless Zone Zero 3.2 Livestream Reveals New Characters and Content",
+    "summary": "The Zenless Zone Zero 3.2 livestream will feature a new code release alongside the introduction of new characters, a faction, and a potential new specialty.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/zenless-zone-zero-zzz-3-2-livestream-codes-release-time-redemption-redeem/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/zenless-zone-zero-zzz-3-2-livestream-codes-release-time-redemption-redeem-zzz-3-2-livestream-codes.jpg",
+    "published_at": "2026-08-28T10:30:13.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "zenless-zone-zero-32",
+    "game_label": "Zenless Zone Zero 3.2"
+  },
+  {
+    "id": "44d248659e2c",
+    "slug": "ps5-ps4-beat-em-up-scott-pilgrim-ex-grows-with-both-free-and-premium-c",
+    "headline": "PS5, PS4 Beat-'Em-Up Scott Pilgrim EX Grows with Both Free and Premium Content",
+    "summary": "New mode and characters available.\nEarlier this year, we were treated to Scott Pilgrim EX, a brand new side-scrolling beat-'em-up from developer Tribute Games.\nThe game is pretty good, with a retro art style, punchy combat, and a metric tonne of references to the beloved Bryan Lee O'Malley graphic novels.\nRead the full article on pushsquare.com",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/08/ps5-ps4-beat-em-up-scott-pilgrim-ex-grows-with-both-free-and-premium-content"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/8953049b0b244/large.jpg",
+    "published_at": "2026-08-28T10:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8766a59f2efb",
+    "slug": "sega-randomly-announces-virtua-fighter-for-xbox-game-pass-in-september",
+    "headline": "SEGA Randomly Announces Virtua Fighter For Xbox Game Pass In September",
+    "summary": "Talk about being out of the blue! We've just had another major game added to the Xbox Game Pass list for next month! SEGA has announced as part of the Gamescom 2026 festivities that Virtua Fighter 5 R.E.V.O. World Stage will be coming to Game Pass on September 10th, and it'll also be heading to the Xbox PC platform presumably…",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/08/sega-randomly-announces-virtua-fighter-for-xbox-game-pass-in-september"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/08f7e90bb9fd6/large.jpg",
+    "published_at": "2026-08-28T10:30:00.000Z",
+    "hype_signal": 95,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b4a61cc7e1a4",
+    "slug": "xbox-is-reportedly-pitching-multiple-game-adapations-to-hollywood-in-a",
+    "headline": "Xbox Is Reportedly Pitching Multiple Game Adapations To Hollywood In A 'Bulk Studio Deal'",
+    "summary": "The likes of Halo, World of Warcraft and Elder Scrolls said to be involved. It sounds Xbox is very, very interested in getting back into the world of TV and movies in a big way, as a new report suggest they're pitching game adapations to various studios in what's being called a \"bulk studio deal\". This report is coming from…",
+    "category": "deals",
+    "platform_tags": [
+      "xbox",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/08/xbox-is-reportedly-pitching-multiple-game-adapations-to-hollywood-in-a-bulk-studio-deal"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/19f9dba03033a/large.jpg",
+    "published_at": "2026-08-28T10:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5ebb338cbb19",
+    "slug": "gta-6-extended-look-featured-red-dead-2-easter-egg",
+    "headline": "GTA 6 Extended Look Featured Red Dead 2 Easter Egg",
+    "summary": "That in-game ad looked awful familiar, huh?",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/gta-6-extended-look-netflix-red-dead-redemption-2-easter-egg/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/08/arthur-morgan-from-red-dead-redemption-2-standing-in-front-of-jason-from-gta-6-who-is-brandishing-a-pistol.jpg",
+    "published_at": "2026-08-28T09:55:22.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "be30c367c404",
     "slug": "nvidia-dlss-5s-ai-yassification-filter-reportedly-escapes-containment",
     "headline": "Nvidia DLSS 5's AI yassification filter reportedly escapes containment ahead of release, thanks to modders digging files out of NBA 2K27",
@@ -4431,371 +4808,5 @@
     "comment_count": 0,
     "game": "forza-horizon-6",
     "game_label": "Forza Horizon 6"
-  },
-  {
-    "id": "3d6cf387cc17",
-    "slug": "famitsu-sales-81726-82326",
-    "headline": "Famitsu Sales: 8/17/26 – 8/23/26",
-    "summary": "Famitsu has released its estimated physical game software sales data for Japan from August 17 to 23, 2026.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/08/famitsu-sales-8-17-26-8-23-26"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/3d6cf387cc17/800/600",
-    "published_at": "2026-08-27T13:04:52.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "df14c3d6ec4c",
-    "slug": "game-center-cx-adds-ps3-and-wii-games-to-retro-game-show",
-    "headline": "Game Center CX Adds PS3 and Wii Games to Retro Game Show",
-    "summary": "Japanese retro game TV show Game Center CX plans to include PS3 and Wii games in future episodes, following a viewer poll that classified these consoles as retro",
-    "category": "industry",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/japans-major-retro-game-variety-show-to-begin-featuring-ps3-and-wii-games-in-future-episodes-80-of-almost-17000-viewers-voted-to-classify-the-consoles-as-retro/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/df14c3d6ec4c/800/600",
-    "published_at": "2026-08-27T13:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "32bfe6927a64",
-    "slug": "ps5-and-ps4-games-to-grab-in-gamescom-sale",
-    "headline": "PS5 and PS4 Games to Grab in Gamescom Sale",
-    "summary": "A list of highly-rated PS5 and PS4 games on sale at the PS Store until September 9th, 2026.",
-    "category": "deals",
-    "platform_tags": [
-      "playstation",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/features/40plus-ps5-ps4-games-to-buy-in-ps-stores-gamescom-sale"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/82adc4207fbd6/large.jpg",
-    "published_at": "2026-08-27T13:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8ba9e0c700ed",
-    "slug": "xbox-disc-to-digital-faq",
-    "headline": "Xbox Disc to Digital FAQ",
-    "summary": "Xbox explains how to transition discs to digital copies with free benefits",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/features/xbox-disc-to-digital-faq-five-of-the-most-common-questions-were-seeing-so-far"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/4dea5720b041e/large.jpg",
-    "published_at": "2026-08-27T13:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c9edb8f35874",
-    "slug": "i-think-some-of-the-team-were-a-little-shocked-by-the-tabloid-response",
-    "headline": " \"I think some of the team were a little shocked by the tabloid response,\" says original GTA dev: \"We'd made a game that gamers, critics, and the people actually playing all thought was pretty bloody good\" ",
-    "summary": "Grand Theft Auto's original developers reflect on hotwiring an open world gaming revolution",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/i-think-some-of-the-team-were-a-little-shocked-by-the-tabloid-response-says-original-gta-dev-wed-made-a-game-that-gamers-critics-and-the-people-actually-playing-all-thought-was-pretty-bloody-good/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/9JYkHzx7PEapQWPFFaoRHD-1280-80.jpg",
-    "published_at": "2026-08-27T13:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f5171548965d",
-    "slug": "morrowind-rtx-remaster-sparks-disappointment",
-    "headline": "Morrowind RTX Remaster Sparks Disappointment",
-    "summary": "A community-made remaster of the classic game Morrowind is being released, but the community is not excited about it.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/morrowind-rtx-remaster-backlash/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/morrowind-character-standing-at-an-altar-illuminated-by-candlelight-in-the-rtx-remaster.jpg",
-    "published_at": "2026-08-27T12:55:55.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "morrowind",
-    "game_label": "Morrowind"
-  },
-  {
-    "id": "8047d9f011e5",
-    "slug": "the-battle-of-the-mass-effect-likes-continues-as-the-expanse-osiris-re",
-    "headline": "The Battle of the Mass Effect-Likes Continues, as The Expanse: Osiris Reborn Drops New Gameplay",
-    "summary": "Space race.\nRight, now that Exodus has had its time in the limelight at Gamescom, it's The Expanse: Osiris Reborn's turn.\nThe two sci-fi RPGs, both of which are quite clearly inspired by Mass Effect, have been floating around for roughly the same amount of time, leading to plenty of comparisons between the two.\nRead the full article on pushsquare.com",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/08/the-battle-of-the-mass-effect-likes-continues-as-the-expanse-osiris-reborn-drops-new-gameplay"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/c97d9ca001579/large.jpg",
-    "published_at": "2026-08-27T12:45:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f174d1802032",
-    "slug": "critically-acclaimed-the-seance-of-blake-manor-is-coming-to-switch-2",
-    "headline": "Critically-Acclaimed The Séance Of Blake Manor Is Coming To Switch 2",
-    "summary": "The spirits heard us. If you're a fan of detective games, then chances are you've caught a peek at The Séance of Blake Manor. Released in 2025 from developer Spooky Doorway (The Darkside Detective), it was critically-acclaimed for its haunting atmosphere and expertly-crafted mystery. Oh, and it's now coming to Switch 2 – huzzah! Launching on 28th October 2026 for…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/08/critically-acclaimed-the-seance-of-blake-manor-is-coming-to-switch-2"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/b71cd831f0bee/large.jpg",
-    "published_at": "2026-08-27T12:45:00.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a9107907eb25",
-    "slug": "xbox-wont-say-if-project-helix-has-a-disc-drive-but-its-not-giving-up",
-    "headline": "Xbox Won’t Say If Project Helix Has A Disc Drive, But It’s Not Giving Up On Physical Games Yet",
-    "summary": "Sony has already confirmed that it's headed toward an all-digital future soon, but what about Xbox and its next-gen console, Project Helix? In a new interview, Xbox CEO Asha Sharma didn't give any concrete answers about whether Project Helix will have a disc drive, instead focusing on the topic of next-gen hardware affordability. \"This next generation, we have to be…",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/xbox-wont-say-if-project-helix-has-a-disc-drive-but-its-not-giving-up-on-physical-games-yet/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Xbox-25_5b3137.jpg?w=300",
-    "published_at": "2026-08-27T12:42:25.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "bf3aa99d675c",
-    "slug": "after-rave-reviews-zero-company-dev-says-it-would-love-to-make-more-st",
-    "headline": "After rave reviews, Zero Company dev says it would love to make more Star Wars games",
-    "summary": "Zero Company director reacts to reviews and discusses what's next",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/after-rave-reviews-zero-company-dev-says-it-would-love-to-make-more-star-wars-games/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/bf3aa99d675c/800/600",
-    "published_at": "2026-08-27T12:36:35.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e1b5acb4778a",
-    "slug": "turn-based-rpgs-with-the-most-perfect-character-customisation",
-    "headline": "Turn-Based RPGs With The Most Perfect Character Customisation",
-    "summary": "Make wildly unique heroes with the best character creators you'll find in turn-based RPGs, including games like Pathfinder and Pillars of Eternity.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/turn-based-rpg-games-perfect-best-character-customisation/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/turn-based-rpgs-with-the-most-perfect-charater.jpg",
-    "published_at": "2026-08-27T12:30:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7df908d7aa62",
-    "slug": "konami-wants-annual-silent-hill-games-and-is-working-on-many-unannounc",
-    "headline": "Konami wants annual Silent Hill games and is working on “many” unannounced projects",
-    "summary": "Silent Hill may become an annual franchise, according to franchise producer Motoi Okamoto",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/konami-wants-annual-silent-hill-games-and-is-working-on-many-unannounced-projects/"
-      },
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/08/konami-wants-to-annualise-silent-hill-has-many-unannounced-games"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/7df908d7aa62/800/600",
-    "published_at": "2026-08-27T12:30:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9c3a244a9faa",
-    "slug": "exodus-will-likely-win-the-mass-effect-spiritual-successor-war-thanks",
-    "headline": "Exodus will likely win the Mass Effect spiritual successor war, thanks partly to its Cool Octopus, but I think it has a boring hero problem",
-    "summary": "With The Expanse: Osiris Reborn proving lacklustre in the hands, I'd say Archetype's time-dilating space RPG Exodus is currently closest to the much-coveted status of unofficial Mass Effect 5. The developers have dropped a release date - 7th April 2027 – alongside a new trailer which digs into the backstory of a super-intelligent octopus sniper, Salt, who fights in a…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/exodus-will-likely-win-the-mass-effect-spiritual-successor-war-thanks-partly-to-its-cool-octopus-but-i-think-it-has-a-boring-hero-problem"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/exodus-jun.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-08-27T12:29:27.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e436b988bdad",
-    "slug": "fans-told-to-wait-for-kingdom-hearts-25th-anniversary-trailer",
-    "headline": "Fans Told to Wait for Kingdom Hearts 25th Anniversary Trailer",
-    "summary": "Fans are being told to wait for more information on Kingdom Hearts 4 as a new trailer approaches its 25th anniversary, suggesting a possible gap in content release.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/fans-asking-for-more-kingdom-hearts-4-information-will-have-to-wait-after-a-bit-of-a-gap/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/e436b988bdad/800/600",
-    "published_at": "2026-08-27T12:22:40.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "kingdom-hearts-4",
-    "game_label": "Kingdom Hearts 4"
-  },
-  {
-    "id": "5f481f691ac6",
-    "slug": "newzoo-2026-console-revenue-would-be-flat-year-on-year-without-grand-t",
-    "headline": "Newzoo: 2026 console revenue would be flat year-on-year without Grand Theft Auto 6",
-    "summary": "Without the launch of Grand Theft Auto 6 this year, console revenue would be flat compared to 2025.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/newzoo-2026-console-revenue-would-be-flat-year-on-year-without-grand-theft-auto-6"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/gta-6-lucia-jason-2.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-08-27T12:22:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e0075631c7a1",
-    "slug": "teenage-mutant-ninja-turtles-arcade-wrath-of-the-mutants-ninja-edition",
-    "headline": "Teenage Mutant Ninja Turtles Arcade: Wrath of the Mutants – Ninja Edition coming to Switch 2 on September 4",
-    "summary": "Publisher Trailmark Games and developers Raw Thrills and Cradle Games have announced arcade beat ’em …",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/08/teenage-mutant-ninja-turtles-arcade-wrath-of-the-mutants-ninja-edition-coming-to-switch-2-on-september-4"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/e0075631c7a1/800/600",
-    "published_at": "2026-08-27T12:21:13.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
