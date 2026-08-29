@@ -4358,5 +4358,137 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-29T11:52:20.955Z"
+  },
+  {
+    "slug": "pacific-drive",
+    "name": "Pacific Drive",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/43e/43e69395a05af3b4d44ef3a7d50925b2.jpg",
+    "released": "2024-02-21",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Racing",
+      "Adventure",
+      "Action",
+      "Simulation",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c7f/c7f2ac601ba7221e2ef0a4e4534fe1f6.jpg",
+      "https://media.rawg.io/media/screenshots/a59/a59d8471b75467d845eb7daa39983b9f.jpg",
+      "https://media.rawg.io/media/screenshots/04d/04d222a965f053a8e8668e58b2d6b60c.jpg",
+      "https://media.rawg.io/media/screenshots/33f/33f4780718eba761d1d4b5b16b476af0.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-29T13:52:59.260Z"
+  },
+  {
+    "slug": "alien-isolation-2",
+    "name": "Alien: Isolation 2",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/002/002bbf2bd221182361a9440741a827ba.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/002/002bbf2bd221182361a9440741a827ba.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-29T13:53:01.292Z"
+  },
+  {
+    "slug": "final-fantasy",
+    "name": "Final Fantasy (1987)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/656/6566c32aebb7b23af0573091132c2f2c.jpg",
+    "released": "1987-12-17",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "iOS",
+      "Nintendo 3DS",
+      "PlayStation",
+      "Wii U",
+      "Wii",
+      "Game Boy Advance",
+      "NES"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d03/d0367e35a7c20dcb989afe9dbd18d26b.jpg",
+      "https://media.rawg.io/media/screenshots/53b/53b718d8d0404ae71f0929b6b5ba9471.jpg",
+      "https://media.rawg.io/media/screenshots/271/27101f9dcd727be889c29c7d6096a7da.jpg",
+      "https://media.rawg.io/media/screenshots/9c3/9c32e3177cf0255fb1f827cd7ca98f80.jpg",
+      "https://media.rawg.io/media/screenshots/8e7/8e7aa3fc432dbb2f5dc19169e4535273.jpg",
+      "https://media.rawg.io/media/screenshots/80d/80da3b1b7fbe34e74b1e0b9afa86a88c.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-29T13:53:02.010Z"
+  },
+  {
+    "slug": "squadron-42",
+    "name": "Squadron 42",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/01d/01d656ee36e299f82f8ee088b7c0788c.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/146/146591246b24a90585f101969f2fc35c.jpg",
+      "https://media.rawg.io/media/screenshots/6c3/6c35636d26946e4a427eeb579bbb6634.jpg",
+      "https://media.rawg.io/media/screenshots/7df/7df07d887b0b83373415650dc96952b3.jpg",
+      "https://media.rawg.io/media/screenshots/0d2/0d24797060a01518162e88979634652a.jpg",
+      "https://media.rawg.io/media/screenshots/978/978bc4a870fdc0d9c1d4e553a429efbd_tpwSd3n.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-29T13:53:02.682Z"
+  },
+  {
+    "slug": "dark-souls",
+    "name": "Dark Souls",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/582/582b5518a52f5086d15dde128264b94d.jpg",
+    "released": "2011-09-22",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/1c7/1c78c72e5ade3df06474b186befdfa8e.jpg",
+      "https://media.rawg.io/media/screenshots/0e2/0e2bc7cd0a20473a8c84cc707bc814d9.jpg",
+      "https://media.rawg.io/media/screenshots/415/415da63a7a3c181d06e311a574b39c67.jpg",
+      "https://media.rawg.io/media/screenshots/679/67918bad4239ae8aa75deb8de757cc57.jpg",
+      "https://media.rawg.io/media/screenshots/efc/efc2c8db00c6b019d9d2ebcaddc1369e.jpg",
+      "https://media.rawg.io/media/screenshots/34b/34b735119dae8edcfa1eb03f3af738a9.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-29T13:53:03.314Z"
   }
 ]

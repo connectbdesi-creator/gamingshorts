@@ -1,5 +1,648 @@
 [
   {
+    "id": "04ed94a33bdd",
+    "slug": "gamescom-address-theft-at-event-blames-exhibitors-for-lack-of-security",
+    "headline": "Gamescom Address Theft at Event, Blames Exhibitors for Lack of Security",
+    "summary": "Gamescom says stolen laptops were a problem, but exhibitors can pay extra for security, according to the event's official statement.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/gamescom-says-stolen-laptops-make-us-very-sad-but-says-exhibitors-have-to-protect-against-theft-this-is-noted-in-the-terms-and-conditions-2000729563"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/08/Gamescom-meeting-area-official-image-from-Gamescom-website.jpg",
+    "published_at": "2026-08-29T13:39:18.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6157ef43703b",
+    "slug": "i-played-just-one-hour-of-total-war-warhammer-40000-and-it-was-the-hig",
+    "headline": "I Played Just One Hour of Total War: Warhammer 40,000 and It Was the Highlight of My Year",
+    "summary": "A writer spent just an hour playing Total War: Warhammer 40,000 and found it to be an unforgettable experience, citing its immersive grimdark setting and engaging gameplay as the highlight of their year.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/strategy/i-played-just-one-hour-of-total-war-warhammer-40-000-and-it-was-the-highlight-of-my-year/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Lz6YgN9T4pkvCHH4RKZzzN-1280-80.png",
+    "published_at": "2026-08-29T13:34:03.000Z",
+    "hype_signal": 90,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "total-war-warhammer-40000",
+    "game_label": "Total War: Warhammer 40,000"
+  },
+  {
+    "id": "7eacda61b5f0",
+    "slug": "black-clover-7-strongest-wind-magic-users-ranked",
+    "headline": "Black Clover: 7 Strongest Wind Magic Users, Ranked",
+    "summary": "Whether summoning massive whirlwinds or deadly wind blades, the strongest Wind Magic users in Black Clover make destruction look effortless.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/strongest-black-clover-wind-magic-users/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/black-clover-strongest-wind-magic-users.jpg",
+    "published_at": "2026-08-29T13:30:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "63168f53b0d3",
+    "slug": "xbox-game-pass-september-2026-guide",
+    "headline": "Xbox Game Pass September 2026 Guide",
+    "summary": "A comprehensive guide to new games coming to Xbox Game Pass in September 2026, helping users track the latest additions.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/guides/xbox-game-pass-all-games-coming-soon-in-september-2026"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/0a46cade83df6/large.jpg",
+    "published_at": "2026-08-29T13:30:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6a14a060fbcf",
+    "slug": "kingdom-hearts-coming-to-fortnite-next-update",
+    "headline": "Kingdom Hearts Coming To Fortnite Next Update",
+    "summary": "Fortnite might be getting a new battle pass featuring the popular Kingdom Hearts franchise, possibly marking Sora's long-awaited debut in the game.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/kingdom-hearts-fortnite-update-next-week-rumour-datamine/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/kingdomhearts3wildcard.jpg",
+    "published_at": "2026-08-29T13:20:14.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "kingdom-hearts",
+    "game_label": "Kingdom Hearts"
+  },
+  {
+    "id": "989a12783171",
+    "slug": "igns-top-reviewed-nintendo-switch-2-games",
+    "headline": "IGN's Top-Reviewed Nintendo Switch 2 Games",
+    "summary": "Not all Nintendo games are created equal. Here are the 10 best Nintendo games we've played in the Switch 2 generation.",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/best-reviewed-nintendo-switch-2-games"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/01/23/switch2games-1769208267817.jpg",
+    "published_at": "2026-08-29T13:15:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ebba867052a0",
+    "slug": "pacific-drive-is-one-of-the-best-hidden-gems-on-xbox-game-pass-and-pla",
+    "headline": "Pacific Drive is one of the best hidden gems on Xbox Game Pass and PlayStation Plus",
+    "summary": "Pacific Drive is a hidden gem survival roguelike game that excels on Xbox Game Pass and PlayStation Plus, offering an immersive experience for players.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/pacific-drive-what-to-play-xbox-game-pass-playstation-plus/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24020280/PD_MarketingScreen_01.png",
+    "published_at": "2026-08-29T13:01:13.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pacific-drive",
+    "game_label": "Pacific Drive"
+  },
+  {
+    "id": "6c84f9d9a2dd",
+    "slug": "new-life-sim-game-on-steam-is-basically-the-sims-4-in-new-york",
+    "headline": "New Life Sim Game on Steam Is Basically The Sims 4 in New York",
+    "summary": "A new simulation game on Steam offers a life simulation experience in New York City, with players starting as an unemployed, homeless individual.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/steam-life-sim-games-like-sims-4-big-ambitions/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/steam-game-like-sims-4-big-ambitions-gamerant.jpg",
+    "published_at": "2026-08-29T13:00:13.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "new-life-sim-game",
+    "game_label": "New Life Sim Game"
+  },
+  {
+    "id": "7d1f701aef36",
+    "slug": "review-toaplan-arcade-garage-flying-fire-shark-switch-m2-delivers-two",
+    "headline": "Review: Toaplan Arcade Garage: Flying Fire Shark (Switch) - M2 Delivers Two Seminal Sharky Shmups",
+    "summary": "Send in the Toaplanes. To mark the release of Toaplan Arcade Garage: Flying Fire Shark on Western eShops on 29th August 2026, we're republishing our original import review from May 2022. Please note that the text below refers to the Japanese release and there may be differences between the versions and DLC available on your local eShop. Read the full…",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/reviews/nintendo-switch/toaplan-arcade-garage-hishou-same-same-same"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/0a47ad8a3b33f/large.jpg",
+    "published_at": "2026-08-29T13:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a526cc1416d7",
+    "slug": "no-well-priced-pcs-left-in-the-market",
+    "headline": "No Well-Priced PCs Left in the Market",
+    "summary": "PC builder shares their experience of searching for gaming PC deals, stating that all options are now overpriced",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/gaming-pcs/ive-checked-gaming-pc-deals-every-week-for-two-years-and-im-not-exaggerating-when-i-say-there-isnt-a-single-well-priced-pc-left/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/uBwrSzDzkkFnj3pRXVhjPk-1280-80.jpg",
+    "published_at": "2026-08-29T13:00:00.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b931d3119c58",
+    "slug": "steam-player-numbers-misunderstood",
+    "headline": "Steam Player Numbers Misunderstood",
+    "summary": "Palworld lead downplays criticism of SteamDB, says their own community will eventually win over negative opinions",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/survival/people-dont-understand-steam-player-numbers-palworld-lead-says-poor-marathon-and-stuff-are-getting-dragged-through-the-mud-im-sure-our-days-coming/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/4XPofY5ng55BeXD5pEF6TN-1280-80.png",
+    "published_at": "2026-08-29T13:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ae87c8342e8e",
+    "slug": "gamescom-officially-responds-to-indie-devs-being-robbed",
+    "headline": "Gamescom Officially Responds To Indie Devs Being Robbed",
+    "summary": "Gamescom has taken steps to ensure security at its events following reports of theft from indie game developers. The company is now requiring developers to provide their own security measures. The move comes amid growing concerns about safety and theft at industry events.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/gamescom-officially-responds-to-stolen-hardware-reports/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/entrance-to-gamescom-with-crowds-of-people-to-the-left-and-right-in-front-of-the-giant-welcome-sign-above-the-doors.jpg",
+    "published_at": "2026-08-29T12:58:47.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "1cc2527c1c1d",
+    "slug": "pokemon-tcg-pocket-adds-dual-type-cards-in-october",
+    "headline": "Pokémon TCG Pocket Adds Dual-Type Cards in October",
+    "summary": "The Pokémon Company has announced that Pokémon TCG Pocket will introduce Dual-type cards starting with Mega Mewtwo X ex in October.",
+    "category": "deals",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/08/pokemon-tcg-pocket-adds-dual-type-cards-october-2026"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/ebf2a10b58785/large.jpg",
+    "published_at": "2026-08-29T12:45:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pokemon-tcg-pocket",
+    "game_label": "Pokémon TCG Pocket"
+  },
+  {
+    "id": "de1b5a743888",
+    "slug": "hands-on-alien-isolation-2-was-my-favourite-ps5-game-at-gamescom",
+    "headline": "Hands On: Alien Isolation 2 Was My Favourite PS5 Game at Gamescom",
+    "summary": "Push Square's writer had a strong impression of Alien Isolation 2 at Gamescom 2026, praising the game's potential and solidifying their hype for the PS5 release in 2027.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/features/hands-on-alien-isolation-2-was-my-favourite-ps5-game-at-gamescom"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/d2bc232c3e4ba/large.jpg",
+    "published_at": "2026-08-29T12:30:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "alien-isolation-2",
+    "game_label": "Alien Isolation 2"
+  },
+  {
+    "id": "11ef25c13e17",
+    "slug": "xbox-is-preparing-a-family-of-devices-for-next-gen-project-helix-accor",
+    "headline": " Xbox is preparing a \"family of devices\" for next-gen Project Helix, according to CEO Asha Sharma ",
+    "summary": "\"All of the industry needs to start to innovate on affordability and efficiency\"",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/platforms/xbox/xbox-is-preparing-a-family-of-devices-for-next-gen-project-helix-according-to-ceo-asha-sharma/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/n9pxHcY6pY4WZeeR3AeLb9-1280-80.jpg",
+    "published_at": "2026-08-29T12:28:57.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d02a822ca46f",
+    "slug": "the-weeknds-music-gets-a-final-fantasy-makeover-by-legendary-artist-yo",
+    "headline": "The Weeknd's Music Gets A Final Fantasy Makeover By Legendary Artist Yoshitaka Amano",
+    "summary": "Artist Yoshitaka Amano is collaborating with The Weeknd on a music project for Final Fantasy, highlighting the potential for unexpected artistic partnerships.",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/the-weeknds-music-gets-a-final-fantasy-makeover-by-yoshitaka-amano-2000728638"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/08/Screenshot-2026-08-27-at-14.55.41-1280x795.jpg",
+    "published_at": "2026-08-29T12:27:59.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy",
+    "game_label": "Final Fantasy"
+  },
+  {
+    "id": "cde659bc0d52",
+    "slug": "pc-users-have-until-september-9-to-claim-free-2025-3d-platformer",
+    "headline": "PC Users Have Until September 9 to Claim Free 2025 3D Platformer",
+    "summary": "A free 3D platformer from 2025 is available for PC until September 9, but fans must act quickly to claim it",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/free-games-today-norush-tower-edition-egs/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/08/free-game-norush-tower-edition-epic-games-store-gamerant.jpg",
+    "published_at": "2026-08-29T12:26:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2307ca07c45e",
+    "slug": "the-witcher-3-songs-of-the-past",
+    "headline": "The Witcher 3: Songs of the Past",
+    "summary": "Xbox Wire shares an exclusive look at The Witcher 3's upcoming expansion, Songs of the Past, hinting at a unique way to revisit the beloved game world through a live nostalgia experience.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/08/29/the-witcher-3-songs-of-the-past-preview/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/2307ca07c45e/800/600",
+    "published_at": "2026-08-29T12:19:42.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
+    "id": "5bb5b32321b1",
+    "slug": "squadron-42-delayed-to-2027-amid-gta-6-concerns",
+    "headline": "Squadron 42 Delayed to 2027 Amid GTA 6 Concerns",
+    "summary": "Cloud Imperium Games has pushed back the release of its Star Citizen spin-off Squadron 42 to Q2 2027, citing concerns it would get lost among other major titles.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/squadron-42-delayed-2027-gta-6"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/crytek-wants-to-dismiss-its-own-lawsuit-against-the-star-citizen-developer-until-squadron-42-comes-out-1578155315461.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-08-29T12:09:49.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "squadron-42",
+    "game_label": "Squadron 42"
+  },
+  {
+    "id": "73095b03bda1",
+    "slug": "star-wars-zero-company-uses-anakin-skywalker-for-more-than-just-a-came",
+    "headline": "Star Wars Zero Company Uses Anakin Skywalker for More Than Just a Cameo",
+    "summary": "Polygon discusses Star Wars Zero Company's engaging tactical gameplay and a memorable Anakin Skywalker appearance that shifts the game's tone.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/star-wars-zero-company-anakin-skywalker-mission/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/anakin-star-wars-zero-company.png",
+    "published_at": "2026-08-29T12:00:16.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "star-wars-zero-company",
+    "game_label": "Star Wars Zero Company"
+  },
+  {
+    "id": "a1b6c4e80e1c",
+    "slug": "metro-2039-developers-want-to-clear-up-one-big-misunderstanding-about",
+    "headline": "Metro 2039 Developers Want to Clear Up One Big Misunderstanding About the Series",
+    "summary": "In an interview with GameRant, Metro 2039's developers explain why patience is key to understanding the series.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/metro-2039-biggest-misunderstanding-4a-games-interview/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/metro-2039-armorer-giving-a-weapon-to-the-player.jpg",
+    "published_at": "2026-08-29T12:00:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a8f70b938933",
+    "slug": "new-official-dark-souls-release-confirmed-for-september-29",
+    "headline": "New Official Dark Souls Release Confirmed for September 29",
+    "summary": "A new Dark Souls game has been confirmed for release on September 29, sending excitement among fans of the series.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/dark-souls-mother-of-mourning-volume-1-release-date/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/dark-souls-mother-of-mourning-volume-1-release-date.jpg",
+    "published_at": "2026-08-29T12:00:15.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dark-souls",
+    "game_label": "Dark Souls"
+  },
+  {
+    "id": "bd28e4efc65d",
+    "slug": "feature-these-40-games-are-coming-to-xbox-next-week-august-31-septembe",
+    "headline": "Feature: These 40+ Games Are Coming To Xbox Next Week (August 31 - September 5)",
+    "summary": "Including at least five Game Pass titles! Welcome to your Xbox games roundup for August 31 - September 5! We've got some huge releases coming our way over the next few days including The Blood of Dawnwalker and Onimusha: Way of the Sword, while Xbox Game Pass is treating us to at least five new additions with potentially more to…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/features/these-40plus-games-are-coming-to-xbox-next-week-august-31-september-5"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/e864c4b792d2d/large.jpg",
+    "published_at": "2026-08-29T12:00:00.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "fcdd597a767c",
+    "slug": "the-5-top-games-you-need-to-play-in-september-2026",
+    "headline": " The 5 top games you need to play in September 2026 ",
+    "summary": "Looking for a new game to play? Well, these are the best ones releasing in September",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/games-releasing-september-2026/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/FUpw7BcPuvFtAicjdwnMnD-1280-80.jpg",
+    "published_at": "2026-08-29T12:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "946015d4de8f",
+    "slug": "furious-should-be-the-next-show-on-your-watchlist",
+    "headline": "Furious Should Be the Next Show on Your Watchlist",
+    "summary": "Hulu has been quietly releasing a highly-rated TV thriller that you still have time to catch up on.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/thriller-shows/hulu-has-been-quietly-releasing-one-of-the-years-best-tv-thrillers-and-you-still-have-time-to-catch-up/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/b68voHaTMsVo8ZEgnXnVqS-1280-80.jpg",
+    "published_at": "2026-08-29T12:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f87c292b0db1",
+    "slug": "mega-man-devs-talk-proto-mans-return-and-lessons-from-mega-man-11",
+    "headline": "Mega Man Devs Talk Proto Man's Return and Lessons from Mega Man 11",
+    "summary": "Capcom developers discuss the next mainline Mega Man game, including Proto Man's return and the lessons learned from developing Mega Man 11.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/features/interviews/interview-mega-man-dual-override-devs-discuss-proto-mans-return-and-lessons-from-mega-man-11/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/f87c292b0db1/800/600",
+    "published_at": "2026-08-29T11:49:51.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "mega-man-dual-override",
+    "game_label": "Mega Man Dual Override"
+  },
+  {
+    "id": "640f2ad6cead",
+    "slug": "eas-iron-man-game-leaks-with-footage-online",
+    "headline": "EA's Iron Man Game Leaks with Footage Online",
+    "summary": "EA's Iron Man game has leaked with footage online, and the company is seemingly taking the situation lightly, stating that it's 'not a big deal'.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/action/well-that-didnt-go-as-planned-says-ea-as-it-footage-of-its-iron-man-game-leaks-online/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/uTQEwZRKhVS3N9qwnKXMTR-1280-80.jpg",
+    "published_at": "2026-08-29T11:45:59.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "iron-man",
+    "game_label": "Iron Man"
+  },
+  {
     "id": "9f7ce502cb7d",
     "slug": "gamescom-devs-report-equipment-stolen",
     "headline": "Gamescom Devs Report Equipment Stolen",
@@ -4031,635 +4674,5 @@
     "comment_count": 0,
     "game": "future-no-thanks",
     "game_label": "Future? No Thanks!"
-  },
-  {
-    "id": "338a4695b54c",
-    "slug": "saber-interactives-ai-controversy-will-spark-a-game-changer",
-    "headline": "Saber Interactive's AI Controversy Will Spark a Game-Changer",
-    "summary": "Saber Interactive's CEO promises a new game that will revolutionize the way people think about artificial intelligence",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/saber-half-life-2-gen-ai-rideshare-controversy"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/saber-ai-half-life-2-rideshare.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-08-28T11:04:23.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "rideshare-stimulator",
-    "game_label": "Rideshare Stimulator"
-  },
-  {
-    "id": "75043c296cee",
-    "slug": "the-witcher-3-remastered-recommends-double-the-ram",
-    "headline": "The Witcher 3 Remastered Recommends Double The RAM",
-    "summary": "It's about to get a whole lot more demanding if you want a game of Gwent, but don't worry, you can rollback.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/the-witcher-3-pc-recommended-specs/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/collage-of-geralt-yennefer-ciri-triss-and-the-wild-hunt-on-the-cover-of-the-witcher-3-remastered.jpg",
-    "published_at": "2026-08-28T11:03:18.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "847d84d95d89",
-    "slug": "playstation-releases-new-official-comment-on-ps5-exclusives-and-pc-por",
-    "headline": "PlayStation Releases New Official Comment on PS5 Exclusives and PC Ports",
-    "summary": "PlayStation quietly, yet clearly, comments on the future of PC ports for PS5 games with its upcoming selection.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/playstation-ps5-exclusives-pc-language-change/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/marvel-s-wolverine-ain-t-no-hero-trailer.jpg",
-    "published_at": "2026-08-28T11:00:13.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d4fba7438b88",
-    "slug": "psa-its-your-last-chance-to-pick-up-a-switch-2-before-the-price-goes-u",
-    "headline": "PSA: It's Your Last Chance To Pick Up A Switch 2 Before The Price Goes Up",
-    "summary": "Numbers go up.\nNintendo is raising the price of Switch 2 outside Japan on Tuesday 1st September.\nThe price increase took effect soon after the May announcement in Nintendo's home territory, but everywhere else is following suit next week.\nRead the full article on nintendolife.com",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/08/psa-its-your-last-chance-to-pick-up-a-switch-2-before-the-price-goes-up"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/ba83a246eaacf/large.jpg",
-    "published_at": "2026-08-28T11:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c1ece279d399",
-    "slug": "fable-director-happy-to-go-toe-to-toe-with-heavy-hitters-like-persona",
-    "headline": " Fable director \"happy to go toe-to-toe\" with heavy hitters like Persona and God of War, but GTA 6 is a beast he's \"happy to avoid entirely\" ",
-    "summary": "Playground Games is confident in its RPG reboot",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/rpg/fable-director-happy-to-go-toe-to-toe-with-heavy-hitters-like-persona-and-god-of-war-but-gta-6-is-a-beast-hes-happy-to-avoid-entirely/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/epp9t79WgoCYvvq7tztUPB-1280-80.jpg",
-    "published_at": "2026-08-28T10:57:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "952560e51343",
-    "slug": "gta-6-will-run-at-30fps-across-ps5-and-xbox-series-x-and-rockstar-is-r",
-    "headline": " GTA 6 will run at 30fps across PS5 and Xbox Series X, and Rockstar is reportedly undecided about adding a performance mode to better that ",
-    "summary": "Rockstar generally isn't fussed about these sorts of things",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-will-run-at-30fps-across-ps5-and-xbox-series-x-and-rockstar-is-reportedly-undecided-about-adding-a-performance-mode-to-better-that/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/jQWpAjCrVBgDbmFAzj3AQJ-1280-80.jpg",
-    "published_at": "2026-08-28T10:48:30.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "22238ae63698",
-    "slug": "nvidia-dlss-5-ai-filter-leaks",
-    "headline": "Nvidia DLSS 5 AI Filter Leaks",
-    "summary": "Nvidia's DLSS 5 AI filter has leaked, and players are experimenting with it in various games, sparking concerns about its impact on gaming quality and player experience.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/this-is-horrifying-nvidias-controversial-dlss-5-ai-filter-leaks-and-layers-are-inserting-it-into-every-game/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/22238ae63698/800/600",
-    "published_at": "2026-08-28T10:36:13.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "83deae98e38c",
-    "slug": "red-dead-redemption-2-briefly-appears-in-gta-6-extended-look",
-    "headline": "Red Dead Redemption 2 Briefly Appears in GTA 6 Extended Look",
-    "summary": "A brief clip of Red Dead Redemption 2 was unexpectedly shown during Rockstar's GTA 6 Extended Look, prompting fans to speculate about its connection to the upcoming game.",
-    "category": "industry",
-    "platform_tags": [
-      "xbox",
-      "playstation",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/rockstar-snuck-red-dead-redemption-2-into-its-gta-6-extended-look-and-of-course-fans-spotted-it-immediately"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/28/grand-theft-auto-vi-an-extended-look-00-07-55-1787912153253.png",
-    "published_at": "2026-08-28T10:33:05.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "red-dead-redemption-2",
-    "game_label": "Red Dead Redemption 2"
-  },
-  {
-    "id": "8a0715ce40cb",
-    "slug": "zenless-zone-zero-32-livestream-reveals-new-characters-and-content",
-    "headline": "Zenless Zone Zero 3.2 Livestream Reveals New Characters and Content",
-    "summary": "The Zenless Zone Zero 3.2 livestream will feature a new code release alongside the introduction of new characters, a faction, and a potential new specialty.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/zenless-zone-zero-zzz-3-2-livestream-codes-release-time-redemption-redeem/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/zenless-zone-zero-zzz-3-2-livestream-codes-release-time-redemption-redeem-zzz-3-2-livestream-codes.jpg",
-    "published_at": "2026-08-28T10:30:13.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "zenless-zone-zero-32",
-    "game_label": "Zenless Zone Zero 3.2"
-  },
-  {
-    "id": "44d248659e2c",
-    "slug": "ps5-ps4-beat-em-up-scott-pilgrim-ex-grows-with-both-free-and-premium-c",
-    "headline": "PS5, PS4 Beat-'Em-Up Scott Pilgrim EX Grows with Both Free and Premium Content",
-    "summary": "New mode and characters available.\nEarlier this year, we were treated to Scott Pilgrim EX, a brand new side-scrolling beat-'em-up from developer Tribute Games.\nThe game is pretty good, with a retro art style, punchy combat, and a metric tonne of references to the beloved Bryan Lee O'Malley graphic novels.\nRead the full article on pushsquare.com",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/08/ps5-ps4-beat-em-up-scott-pilgrim-ex-grows-with-both-free-and-premium-content"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/8953049b0b244/large.jpg",
-    "published_at": "2026-08-28T10:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8766a59f2efb",
-    "slug": "sega-randomly-announces-virtua-fighter-for-xbox-game-pass-in-september",
-    "headline": "SEGA Randomly Announces Virtua Fighter For Xbox Game Pass In September",
-    "summary": "Talk about being out of the blue! We've just had another major game added to the Xbox Game Pass list for next month! SEGA has announced as part of the Gamescom 2026 festivities that Virtua Fighter 5 R.E.V.O. World Stage will be coming to Game Pass on September 10th, and it'll also be heading to the Xbox PC platform presumably…",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/08/sega-randomly-announces-virtua-fighter-for-xbox-game-pass-in-september"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/08f7e90bb9fd6/large.jpg",
-    "published_at": "2026-08-28T10:30:00.000Z",
-    "hype_signal": 95,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b4a61cc7e1a4",
-    "slug": "xbox-is-reportedly-pitching-multiple-game-adapations-to-hollywood-in-a",
-    "headline": "Xbox Is Reportedly Pitching Multiple Game Adapations To Hollywood In A 'Bulk Studio Deal'",
-    "summary": "The likes of Halo, World of Warcraft and Elder Scrolls said to be involved. It sounds Xbox is very, very interested in getting back into the world of TV and movies in a big way, as a new report suggest they're pitching game adapations to various studios in what's being called a \"bulk studio deal\". This report is coming from…",
-    "category": "deals",
-    "platform_tags": [
-      "xbox",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/08/xbox-is-reportedly-pitching-multiple-game-adapations-to-hollywood-in-a-bulk-studio-deal"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/19f9dba03033a/large.jpg",
-    "published_at": "2026-08-28T10:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5ebb338cbb19",
-    "slug": "gta-6-extended-look-featured-red-dead-2-easter-egg",
-    "headline": "GTA 6 Extended Look Featured Red Dead 2 Easter Egg",
-    "summary": "That in-game ad looked awful familiar, huh?",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/gta-6-extended-look-netflix-red-dead-redemption-2-easter-egg/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/08/arthur-morgan-from-red-dead-redemption-2-standing-in-front-of-jason-from-gta-6-who-is-brandishing-a-pistol.jpg",
-    "published_at": "2026-08-28T09:55:22.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "be30c367c404",
-    "slug": "nvidia-dlss-5s-ai-yassification-filter-reportedly-escapes-containment",
-    "headline": "Nvidia DLSS 5's AI yassification filter reportedly escapes containment ahead of release, thanks to modders digging files out of NBA 2K27",
-    "summary": "Nvidia's DLSS 5 neural rendering tech, AKA the AI filter which was widely criticised upon reveal earlier this year for creepily yassifying a bunch of game characters' faces, is reportedly up and running prior to its planned release later this year. The folks to thank or blame for this are modders, who've found the files needed to get the tech's…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/nvidia-dlss-5s-ai-yassification-filter-reportedly-escapes-containment-ahead-of-release-thanks-to-modders-digging-files-out-of-nba-2k27"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/nvidia-ceo--responds-dlss-5-criticism-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-08-28T09:37:43.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a6335013774b",
-    "slug": "pokemon-twitter-account-hacked-hacker-promotes-crypto-memecoin",
-    "headline": "Pokemon Twitter Account Hacked, Hacker Promotes Crypto Memecoin",
-    "summary": "The official Pokemon Twitter account was temporarily taken over by a hacker who promoted their crypto memecoin, causing a stir among fans and cryptocurrency enthusiasts.",
-    "category": "industry",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/pokemon/the-pokemon-twitter-account-was-briefly-taken-over-by-a-hacker-peddling-their-crypto-memecoin/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/XURWgZxh9KUnrrszsLBNTL-1280-80.jpg",
-    "published_at": "2026-08-28T09:34:12.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6b062ecbd0a6",
-    "slug": "xbox-series-x25-consoles-listed-for-up-to-3000-after-instant-sell-out",
-    "headline": "Xbox Series X25 Consoles Listed For Up To $3,000 After Instant Sell Out",
-    "summary": "Despite a $900 MSRP, the Xbox Series X25 sold out within minutes and is now being listed on resale sites for more than three times its MSRP.",
-    "category": "deals",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/xbox-series-x25-pre-orders-sold-out-scalpers/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/mixcollage-28-aug-2026-10-13-am-6418.jpg",
-    "published_at": "2026-08-28T09:24:04.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "84158645d0af",
-    "slug": "rockstar-teases-gta-6-satire-approach",
-    "headline": "Rockstar Teases GTA 6 Satire Approach",
-    "summary": "Rockstar developer emphasizes care in referencing current events in upcoming GTA 6 game, avoiding potential for dated content.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/we-just-have-to-be-careful-what-we-pick-gta-6-wont-include-covid-or-trump-references-that-could-become-dated-rockstar-says"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/27/mega-3-1787855175829.jpeg",
-    "published_at": "2026-08-28T09:22:02.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "bb5fdfe4059d",
-    "slug": "star-wars-zero-company-understands-that-star-wars-games-should-feel-le",
-    "headline": "Star Wars Zero Company understands that Star Wars games should feel less like the movies and more like the toys",
-    "summary": "I'm still early days on Star Wars Zero Company, but I think I'm in love. And this is kind of expected and also kind of strange. It's kind of expected because this is XCOM: Star Wars at first glance, and jeepers I love XCOM. I love moving my little units around, pondering when to advance and when to hang back,…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/star-wars-zero-company-impressions-toys-movies"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/star-wars-zero-company-5_fR7jaGA.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-08-28T09:06:26.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "826b8dd24371",
-    "slug": "splitgate-studio-announces-disappointing-news-for-players",
-    "headline": "Splitgate Studio Announces Disappointing News for Players",
-    "summary": "Splitgate developer 1047 Games shares a new announcement about its games, and fans of the titles will likely be disappointed to hear it.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/1047-games-ends-development-splitgate-empulse/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/splitgate-match-versus.jpg",
-    "published_at": "2026-08-28T09:00:13.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "812bb7324e83",
-    "slug": "desert-warrior-150-million-flop-gets-second-chance-on-streaming",
-    "headline": "Desert Warrior, $150 Million Flop, Gets Second Chance on Streaming",
-    "summary": "Actor Anthony Mackie's film Desert Warrior, a pricey sword-and-sandals epic, is getting a second chance on streaming after its initial box office failure.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/anthony-mackie-desert-warrior-streaming-hulu/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mcddewa_ec050_h.JPG",
-    "published_at": "2026-08-28T08:00:15.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "01cfe75f1279",
-    "slug": "pokemon-hack-promotes-scam",
-    "headline": "Pokemon Hack Promotes Scam",
-    "summary": "A Pokémon account was hacked, promoting a fake giveaway to the account's 8 million followers.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/pokemon-twitter-hack-memecoin-scam/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/08/pokemon-ash-twitter-background.jpg",
-    "published_at": "2026-08-28T07:29:57.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "bd28c18e53e8",
-    "slug": "xbox-is-trying-to-sell-tv-and-movie-rights-for-almost-all-its-ips-to-o",
-    "headline": "Xbox Is Trying To Sell TV And Movie Rights For Almost All Its IPs To One Studio",
-    "summary": "Xbox is reportedly pitching a package to major studios that would give the buyer TV and movie rights to over a dozen of its biggest games.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/xbox-selling-tv-movie-package-halo-elder-scrolls/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/xmnzzkdlftx3wf9knhvpwe.jpg",
-    "published_at": "2026-08-28T07:29:42.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "49df02843341",
-    "slug": "atelier-ryza-ai-chat-rpg-devs-issue-warning-against-players-exploiting",
-    "headline": "Atelier Ryza AI Chat RPG devs issue warning against players “exploiting loopholes to make the chatbot give explicit responses” and “reverse engineering assets”",
-    "summary": "Spiral AI recently issued a statement responding to the asset extraction and \"prompt injection\" issue within the game.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/atelier-ryza-ai-chat-rpg-devs-issue-warning-against-players-exploiting-loopholes-to-make-the-chatbot-give-explicit-responses-and-reverse-engineering-assets/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/49df02843341/800/600",
-    "published_at": "2026-08-28T07:21:09.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6927430e533d",
-    "slug": "jujutsu-kaisen-season-4-update-coming-via-juju-fest-2026",
-    "headline": "Jujutsu Kaisen Season 4 Update Coming via Juju Fest 2026",
-    "summary": "Jujutsu Kaisen Season 4 will receive an update as part of the upcoming event Juju Fest 2026.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/jujutsu-kaisen-season-4-update-august-29/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/jujutsu-kaisen-season-4-new-update-august-29.jpeg",
-    "published_at": "2026-08-28T06:30:13.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "jujutsu-kaisen-season-4",
-    "game_label": "Jujutsu Kaisen Season 4"
-  },
-  {
-    "id": "431512a65d41",
-    "slug": "how-the-gta-6-map-size-stacks-up-to-other-rockstar-games-like-rdr2-and",
-    "headline": "How the GTA 6 Map Size Stacks Up to Other Rockstar Games Like RDR2 and GTA 5",
-    "summary": "Grand Theft Auto 6's map is significantly larger than Rockstar's previous games; here's how it compares to the studio's other titles.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/how-the-gta-6-map-size-stacks-up-to-other-rockstar-games-like-rdr2-and-gta-5"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/28/mega-13-1787895250638.jpg",
-    "published_at": "2026-08-28T05:35:45.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "fd688c32e200",
-    "slug": "icymi-sandisk-is-now-selling-a-1tb-microsd-express-card-for-switch-2",
-    "headline": "ICYMI: SanDisk Is Now Selling A 1TB MicroSD Express Card For Switch 2",
-    "summary": "Make some space.\n\nSwitch 2 storage can be expanded with microSD express cards, and if you're looking for some extra space on your new system, you might want to check out SanDisk's latest product.\nRead the full article on nintendolife.com",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/08/icymi-sandisk-is-now-selling-a-1tb-microsd-express-card-for-switch-2"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/948833bac4bf4/large.jpg",
-    "published_at": "2026-08-28T04:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "acf71da20348",
-    "slug": "pre-order-grand-theft-auto-vi-now-coming-to-xbox-series-xs-november-19",
-    "headline": "Pre-Order Grand Theft Auto VI Now. Coming to XBOX Series X|S November 19, 2026",
-    "summary": "The post Pre-Order Grand Theft Auto VI Now. Coming to XBOX Series X|S November 19, 2026 appeared first on XBOX Wire.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://www.xbox.com/en-US/games/store/grand-theft-auto-vi/9NNZSNHLR63L#new_tab"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/acf71da20348/800/600",
-    "published_at": "2026-08-28T04:06:35.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
