@@ -4541,5 +4541,56 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-29T17:52:40.002Z"
+  },
+  {
+    "slug": "call-of-duty",
+    "name": "Call of Duty",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/9c5/9c5bc0b6e67102bc96dcf1ba41509e42.jpg",
+    "released": "2003-10-29",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/bb2/bb22e2c253bcb4cb31ea6834ece79aa7.jpg",
+      "https://media.rawg.io/media/screenshots/bfe/bfef39a55046f3828ca60d6426bf059e.jpg",
+      "https://media.rawg.io/media/screenshots/9fb/9fb93dcc30a33a543f2ad7008efe25ff.jpg",
+      "https://media.rawg.io/media/screenshots/088/088012ac3c8cedec5ac1e8723f3343fb.jpg",
+      "https://media.rawg.io/media/screenshots/849/8498ea611fba1a4d59cce89d3c45d4d0.jpg",
+      "https://media.rawg.io/media/screenshots/c2c/c2cef2dff08562b29c40a40b6a9ed38d.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-29T19:51:54.257Z"
+  },
+  {
+    "slug": "james-pond",
+    "name": "James Pond",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/ca4/ca42cd096667b993a73acc5900e3a1c0.jpg",
+    "released": "1990-01-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "Commodore / Amiga",
+      "Atari ST",
+      "Genesis"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c45/c4547df7036718d16cee7acd34d031b6.jpg",
+      "https://media.rawg.io/media/screenshots/489/4895a695bf64512dcb506e9039ebe152.jpg",
+      "https://media.rawg.io/media/screenshots/32e/32e02a1c6d9a480f873929b04ab66e3b.jpg",
+      "https://media.rawg.io/media/screenshots/ca4/ca42cd096667b993a73acc5900e3a1c0.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-29T19:51:55.226Z"
   }
 ]
