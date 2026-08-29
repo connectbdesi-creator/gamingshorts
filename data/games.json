@@ -4592,5 +4592,27 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-29T19:51:55.226Z"
+  },
+  {
+    "slug": "game-boy",
+    "name": "Game Boy",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/594/594588a0680e5358802a76e8486245f6.jpg",
+    "released": "2016-10-09",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Platformer"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c16/c16ab39572ad278b867be9ba19f02dd6.jpg",
+      "https://media.rawg.io/media/screenshots/f68/f68213f785224c2f0f6e163c103cca09.jpg",
+      "https://media.rawg.io/media/screenshots/594/594588a0680e5358802a76e8486245f6.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-29T21:51:36.491Z"
   }
 ]
