@@ -4906,5 +4906,58 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-30T19:52:02.719Z"
+  },
+  {
+    "slug": "haunted-chocolatier",
+    "name": "ConcernedApe's Haunted Chocolatier",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/076/076bdf46c469ede7c9da522d6fa9f73e.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/7e8/7e80d4b7c411e090d5dd1ae39390644a.jpg",
+      "https://media.rawg.io/media/screenshots/b84/b840413e77d2cfcac777d78a670addaf.jpg",
+      "https://media.rawg.io/media/screenshots/6a3/6a32978a37785ff3874d7856b6c22eac.jpg",
+      "https://media.rawg.io/media/screenshots/d1a/d1acba99a900263bc2317fbabe3ca6f9.jpg",
+      "https://media.rawg.io/media/screenshots/577/577b446be5a11d30be0c94244e7963d2.jpg",
+      "https://media.rawg.io/media/screenshots/01a/01ab654b5c204193319bafc5dd7f4e18.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-30T21:51:04.569Z"
+  },
+  {
+    "slug": "star-wars-galaxies",
+    "name": "Star Wars Galaxies: Jump to Lightspeed",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/8e6/8e6a15ae2cb42db23065ae8d9bb2a815.jpg",
+    "released": "2004-10-26",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Massively Multiplayer",
+      "RPG",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/0de/0def38c4baec2b2aff48b4485d6adbec.jpg",
+      "https://media.rawg.io/media/screenshots/644/64490bb80949571d103d9de13b44e38f.jpg",
+      "https://media.rawg.io/media/screenshots/212/212cf083be6bf486f05b548c1630824d.jpg",
+      "https://media.rawg.io/media/screenshots/c66/c669ae81ea8df61657fb8fcb2e7ade48.jpg",
+      "https://media.rawg.io/media/screenshots/226/226a2c33b9a3516c5f2b3687c8846fd6.jpg",
+      "https://media.rawg.io/media/screenshots/4e5/4e5669c16b47f6a14443fd6f23e03572.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-30T21:51:05.042Z"
   }
 ]
