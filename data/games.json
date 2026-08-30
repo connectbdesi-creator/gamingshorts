@@ -4795,5 +4795,58 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-30T13:52:20.097Z"
+  },
+  {
+    "slug": "arcade-archives",
+    "name": "Arcade Archives Mr.GOEMON",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/49d/49d051d981b4638b5b575bf6c318dec7.jpg",
+    "released": "2015-09-22",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "PlayStation 4",
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/fa3/fa32168deb9c98f9be9e059665d3b690.jpg",
+      "https://media.rawg.io/media/screenshots/8f3/8f3b607584e1ffd159fdb19953f2d6be.jpg",
+      "https://media.rawg.io/media/screenshots/d86/d86a78a4a058fd09b766c931031171ef.jpg",
+      "https://media.rawg.io/media/screenshots/2a5/2a506cad4af3478db2bd6455be050aea.jpg",
+      "https://media.rawg.io/media/screenshots/843/8434a24aaf7e9c58bdf2aab6032345db.jpg",
+      "https://media.rawg.io/media/screenshots/31b/31bbe7e86f3b68cee14d213d4ceae01e.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-30T15:51:41.862Z"
+  },
+  {
+    "slug": "half-life-2-episode-3",
+    "name": "Half-Life 2: Episode One",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/7a2/7a2500ee8b2c0e1ff268bb4479463dea.jpg",
+    "released": "2006-06-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Android",
+      "macOS",
+      "Linux",
+      "Xbox 360"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/cf5/cf50b7b3673456c8a8c3a4667e9b46c2.jpg",
+      "https://media.rawg.io/media/screenshots/8e4/8e44bdded28ebe1a2e7ac876110cfdc6.jpg",
+      "https://media.rawg.io/media/screenshots/5ed/5edb413d48035b3ab97a5ea5123f7b88.jpg",
+      "https://media.rawg.io/media/screenshots/421/4214168942f1ddb5475b2c270b0419d1.jpg",
+      "https://media.rawg.io/media/screenshots/653/6536627d155c339a2fd9a824fad78c84.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-30T15:51:42.638Z"
   }
 ]
