@@ -5016,5 +5016,33 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-31T05:51:04.062Z"
+  },
+  {
+    "slug": "pokemon-tcg",
+    "name": "Pokémon TCG Online",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/a38/a3850500a7d43c8cad06eafe9ea05e0f.jpeg",
+    "released": "2014-09-30",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Card",
+      "Family"
+    ],
+    "platforms": [
+      "PC",
+      "iOS",
+      "Android"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d07/d07330a3acf625278e0a306b87a4453d.jpg",
+      "https://media.rawg.io/media/screenshots/197/197477dd2b3447bd1735890825ec308c_W0ty6W5.jpg",
+      "https://media.rawg.io/media/screenshots/d0e/d0e5774763aadebb7fd904e1faf40743_xEMYvcV.jpg",
+      "https://media.rawg.io/media/screenshots/445/445e35e84b9e2354d9f022189031f2c7_Xh6izle.jpg",
+      "https://media.rawg.io/media/screenshots/79d/79d96465bcd0a66bf13a15804c22ed90.jpg",
+      "https://media.rawg.io/media/screenshots/81c/81c1553a799ce347992cb754d86f39dc.jpeg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-31T09:52:11.854Z"
   }
 ]
