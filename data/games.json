@@ -4959,5 +4959,35 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-30T21:51:05.042Z"
+  },
+  {
+    "slug": "pokemon-unite",
+    "name": "Pokémon Unite",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/b4b/b4b13242c7dedfa1b16bb15929dfac50.jpg",
+    "released": "2021-07-21",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "Massively Multiplayer",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "Nintendo Switch",
+      "iOS",
+      "Android"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f1a/f1a882e4af50f9259c9155a636f63cea.jpeg",
+      "https://media.rawg.io/media/screenshots/7d0/7d033fa748c662249d97f3b9740227e4.jpg",
+      "https://media.rawg.io/media/screenshots/c9a/c9af1696a41be570f5cb5c92b665ff94.jpg",
+      "https://media.rawg.io/media/screenshots/71b/71bd3de61cc9bcc978a54a1466812254.jpg",
+      "https://media.rawg.io/media/screenshots/981/981aa586bf49a616f42b7305eb2001b5.jpeg",
+      "https://media.rawg.io/media/screenshots/b4b/b4b13242c7dedfa1b16bb15929dfac50.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-31T01:51:12.678Z"
   }
 ]

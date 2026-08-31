@@ -1,5 +1,100 @@
 [
   {
+    "id": "35a899e24d18",
+    "slug": "paramount-game-studios-explores-adaptations-of-yellowstone-and-sherida",
+    "headline": "Paramount Game Studios Explores Adaptations of Yellowstone and Sheridanverse Titles",
+    "summary": "Paramount Game Studios is considering adaptations of Yellowstone and other Sheridanverse titles, according to Shawn Kittelsen. This suggests a potential expansion into live-service games or other genres.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/yellowstone-lionness-sheridanverse-video-games-paramount/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/marshals.jpg",
+    "published_at": "2026-08-31T01:35:14.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "35ab99b4a57b",
+    "slug": "13-more-january-2027-lego-sets-with-cute-names-detailed-in-new-leak",
+    "headline": "13 More January 2027 LEGO Sets With Cute Names Detailed in New Leak",
+    "summary": "A new leak reveals 13 upcoming LEGO sets set to launch in January 2027, part of a long-running theme celebrating its 15th anniversary",
+    "category": "deals",
+    "platform_tags": [
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/lego-january-2027-sets-friends-anniversary-collection-leak-list/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/08/lego-2027-logo-over-blurred-friends-set-composite.jpg",
+    "published_at": "2026-08-31T01:18:21.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "21c47565bf72",
+    "slug": "metro-2039-confirms-popular-feature-for-launch",
+    "headline": "Metro 2039 Confirms Popular Feature for Launch",
+    "summary": "4A Games confirms that a fan-favorite feature is returning in Metro 2039 from day one, but with a different approach than previous titles.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/metro-2039-karma-system/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/metro-2039-helmet-held-in-hands-gameplay-trailer-screenshot.jpg",
+    "published_at": "2026-08-31T01:00:13.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "95254c03e915",
+    "slug": "sonys-state-of-play-livestream-in-2026",
+    "headline": "Sony's State of Play Livestream in 2026",
+    "summary": "A September State of Play livestream is expected, according to a reliable leaker, maintaining the annual tradition for PlayStation.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/08/likely-and-soon-next-state-of-play-is-expected-in-the-coming-weeks"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/b1d44ccc2e809/large.jpg",
+    "published_at": "2026-08-31T00:15:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "fc73f55d2571",
     "slug": "unofficial-zelda-like-level-creator-temple-maker-64-launches-on-steam",
     "headline": "Unofficial Zelda-like Level Creator 'Temple Maker 64' Launches on Steam",
@@ -63,6 +158,30 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "455b29749ed1",
+    "slug": "pokemon-unite-adds-eevee-evolution-lineup",
+    "headline": "Pokémon Unite Adds Eevee Evolution Lineup",
+    "summary": "Pokémon Unite has announced four new playable Pokémon as part of its evolution lineup, including Morpeko, Toxtricity, Jolteon, and Flareon, set to arrive in September and October.",
+    "category": "releases",
+    "platform_tags": [
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/08/pokemon-unite-announces-four-more-playable-pokemon"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/85559626f75e3/large.jpg",
+    "published_at": "2026-08-30T22:55:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pokemon-unite",
+    "game_label": "Pokémon Unite"
   },
   {
     "id": "40e1fedb72d0",
@@ -4556,117 +4675,6 @@
     "image_url": "https://assetsio.gnwcdn.com/aragorn-at-the-table-war-in-the-north-lotr.jpg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-08-29T07:00:00.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "48b267a7aa23",
-    "slug": "hit-survival-game-rust-releases-major-overhaul-to-2026-roadmap",
-    "headline": "Hit Survival Game Rust Releases Major Overhaul to 2026 Roadmap",
-    "summary": "Facepunch has stealth-updated the Rust roadmap, delaying anticipated features and seemingly canceling others, like the controversial Battle Pass.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/rust-roadmap-changes-2026/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/rust-valve.jpg",
-    "published_at": "2026-08-29T05:00:14.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3bdad07975b0",
-    "slug": "poke-company-gives-away-exclusive-pokopia-cloud-island-code",
-    "headline": "Poké Company Gives Away Exclusive Pokopia Cloud Island Code",
-    "summary": "The Pokémon Company is offering a unique in-game code for the Pokémon Pokopia Cloud Island, inspired by the franchise's largest event of the year.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "mobile",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/pokemon-pokopia-codes-cloud-island-world-championship/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/08/brand-new-pokemon-pokopia-code-takes-you-to-special-cloud-island-gamerant-feature.jpg",
-    "published_at": "2026-08-29T03:31:12.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "pokopia-cloud-island",
-    "game_label": "Pokopia Cloud Island"
-  },
-  {
-    "id": "5a8b6d5ecb94",
-    "slug": "the-witcher-3-is-starting-to-look-like-a-single-player-live-service-rp",
-    "headline": "The Witcher 3 Is Starting to Look Like a Single-Player Live-Service RPG",
-    "summary": "For many, The Witcher 3 is the quintessential single-player role-playing game, but it actually has something in common with multiplayer live-services.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/witcher-3-single-player-live-service-rpg/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/08/witcher-3-subscribe-game-rant.jpg",
-    "published_at": "2026-08-29T01:00:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "30b791612e3b",
-    "slug": "turn-based-rpgs-with-the-most-unique-leveling-systems",
-    "headline": "Turn-Based RPGs With The Most Unique Leveling Systems",
-    "summary": "These innovative turn-based RPGs twist leveling systems into something totally unique, with progression mechanics that reward creativity.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/turn-based-rpg-games-most-unique-leveling-systems/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/turn-based-rpgs-with-the-most-unique-leveling-systems.jpg",
-    "published_at": "2026-08-29T00:30:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "443462e62735",
-    "slug": "will-the-elder-scrolls-6-be-xbox-exclusive-ceo-asha-sharma-wont-say-bu",
-    "headline": " Will The Elder Scrolls 6 be Xbox exclusive? CEO Asha Sharma won't say, but \"every platform needs some form of exclusive experiences\" ",
-    "summary": "\"It's a beautiful game\"",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/rpg/will-the-elder-scrolls-6-be-xbox-exclusive-ceo-asha-sharma-wont-say-but-every-platform-needs-some-form-of-exclusive-experiences/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/BUm2ZnvQ2scEsFuDdbuUzk-1280-80.jpg",
-    "published_at": "2026-08-28T23:55:05.000Z",
-    "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
