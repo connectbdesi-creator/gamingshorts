@@ -5126,5 +5126,149 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-31T11:51:53.992Z"
+  },
+  {
+    "slug": "nex-machina",
+    "name": "Nex Machina",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/ec6/ec615a8bee92ca26c14950712f19753b.jpg",
+    "released": "2017-06-19",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 4"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/4f1/4f10636bcf98499f5d06a6e645bcd657.jpg",
+      "https://media.rawg.io/media/screenshots/a04/a04b6dcf65c947159f3659fc242101e7.jpg",
+      "https://media.rawg.io/media/screenshots/079/0791bc39b738f5d1e3b7da286770aaf9.jpg",
+      "https://media.rawg.io/media/screenshots/4fd/4fd35d956a342e5a7a28d2eb2bd2a1a7.jpg",
+      "https://media.rawg.io/media/screenshots/e9f/e9fa9af4665206455af3ac36442f7d5f.jpg",
+      "https://media.rawg.io/media/screenshots/404/404a33cc738d57281d952249cf21479e.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-31T13:53:35.878Z"
+  },
+  {
+    "slug": "south-park-the-stick-of-truth",
+    "name": "South Park: The Stick of Truth",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/8ca/8ca40b562a755d6a0e30d48e6c74b178.jpg",
+    "released": "2014-03-04",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/b38/b389d7861b0def2304970aba71a9d715.jpg",
+      "https://media.rawg.io/media/screenshots/c64/c64770dd0e4f0926f78632ddac02e1a1.jpg",
+      "https://media.rawg.io/media/screenshots/d23/d23f94ad8fb95cf5b93eeb1c72796c91.jpg",
+      "https://media.rawg.io/media/screenshots/107/1074023249f546bc423b36535d27f5cc.jpg",
+      "https://media.rawg.io/media/screenshots/8b7/8b7d0a7468acdecad760f21726db7869.jpg",
+      "https://media.rawg.io/media/screenshots/fe2/fe2e6f145a47e6b410de994b0f29b793.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-31T13:53:36.591Z"
+  },
+  {
+    "slug": "the-battle-of-olympus",
+    "name": "The Battle of Olympus",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/eba/eba5cbe89c0aa7cdcac688f6024c7274.jpg",
+    "released": "1988-03-23",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "Game Boy",
+      "NES"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/198/1987cb11d71aeca5db05d07da07f41ad.jpg",
+      "https://media.rawg.io/media/screenshots/d6d/d6d2630f63833091f8ce27942f912929.jpg",
+      "https://media.rawg.io/media/screenshots/839/8398ab224bae759a20577dc48a9f0835.jpg",
+      "https://media.rawg.io/media/screenshots/913/9136842f0d513065ba932418b01605fe.jpg",
+      "https://media.rawg.io/media/screenshots/9de/9de1e0b36842a706ad9877ceb4d6e48a.jpg",
+      "https://media.rawg.io/media/screenshots/23f/23fb399155c932750879ac85610ef01f.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-31T13:53:37.431Z"
+  },
+  {
+    "slug": "stellar-blade",
+    "name": "Stellar Blade",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/fbd/fbdef5455da4c4033bed896e1540f6a1.jpg",
+    "released": "2024-04-26",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/0c9/0c98c2913de0c48b57a49aacff794096.jpg",
+      "https://media.rawg.io/media/screenshots/c5e/c5e5c6f19c0642b20e113b49a994e442.jpg",
+      "https://media.rawg.io/media/screenshots/b22/b22c889fa194ddf811c528eb215bfcb5.jpg",
+      "https://media.rawg.io/media/screenshots/4f0/4f068fe7cd517a475f78bd2712b7e9c1.jpg",
+      "https://media.rawg.io/media/screenshots/f80/f8000e4f6b17a15a79a3c6eda3b7f535.jpg",
+      "https://media.rawg.io/media/screenshots/543/543f315f253a026a974c98e995ef3874.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-31T13:53:38.337Z"
+  },
+  {
+    "slug": "sniper-elite-resistance",
+    "name": "Sniper Elite: Resistance",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/25b/25b44a211b4eb55b2ed207a65195974f.jpg",
+    "released": "2025-01-30",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d6b/d6b7f05bc56383701a553a0e6835c903.jpg",
+      "https://media.rawg.io/media/screenshots/d12/d12eb094c4c229879ad0628dccd52ea9.jpg",
+      "https://media.rawg.io/media/screenshots/b89/b89af7f88e4f8bd159d4bf0dacc5ab8f.jpg",
+      "https://media.rawg.io/media/screenshots/6dc/6dcb49256aeb440a6cf68e7472922306.jpg",
+      "https://media.rawg.io/media/screenshots/190/1904f77f36df3a94974dae8249e210bc.jpg",
+      "https://media.rawg.io/media/screenshots/f77/f77dd7b8f528aa2e093319950e7e5744.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-31T13:53:47.816Z"
   }
 ]
