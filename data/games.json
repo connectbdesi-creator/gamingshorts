@@ -5044,5 +5044,87 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-31T09:52:11.854Z"
+  },
+  {
+    "slug": "resonance-plague-tale-legacy",
+    "name": "Resonance: A Plague Tale Legacy",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/c55/c55cc53bdf3cc4ee6f0a39f3c8b1dca7.jpg",
+    "released": "2026-08-27",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/419/419f397ba985087fce71ea41138690ba.jpg",
+      "https://media.rawg.io/media/screenshots/31c/31c5bbd89e97b093203d53417b27fe04.jpg",
+      "https://media.rawg.io/media/screenshots/b9d/b9db23a3443d56166f495c209a9f15ab.jpg",
+      "https://media.rawg.io/media/screenshots/bda/bdac8e4a76552b44949a922314aa885f.jpg",
+      "https://media.rawg.io/media/screenshots/ee5/ee558619e1f5f179a68333cdd52c04e3.jpg",
+      "https://media.rawg.io/media/screenshots/5c3/5c3db4df4bbff72b83626a7328bdaf20.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-31T11:51:53.024Z"
+  },
+  {
+    "slug": "mayday",
+    "name": "Mayday",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/7ab/7ab10b34eb71a6a6b0040b65319d84be.jpg",
+    "released": "1999-01-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "Indie",
+      "Action"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/679/679f86b4b77305c9d35b2ff11b33f49d.jpg",
+      "https://media.rawg.io/media/screenshots/68b/68b6f6fc8b6af46a858556e5b41e2bd7.jpg",
+      "https://media.rawg.io/media/screenshots/173/1739d12f00166616c3b1f03ccb6d73dc.jpg",
+      "https://media.rawg.io/media/screenshots/9a0/9a07983bf3e9deacf2b70c1c6d370dfc.jpg",
+      "https://media.rawg.io/media/screenshots/371/371d84ab779bb3e649bc06d5914d1eac.jpg",
+      "https://media.rawg.io/media/screenshots/11a/11a8e4beb3992b6bd5d9dcdd2067967e.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-31T11:51:53.493Z"
+  },
+  {
+    "slug": "007-first-light",
+    "name": "007 First Light",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/86f/86f2dc1b9671f25a13ff92e069b51786.jpg",
+    "released": "2026-05-27",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X",
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/09a/09a91ae875c2d3cc9b0d7aa73ea816bd.jpg",
+      "https://media.rawg.io/media/screenshots/234/234ec23a3478d26f066a65cf9910ec1f.jpg",
+      "https://media.rawg.io/media/screenshots/21f/21f4b318f2611d8d23dc3cbb1c3be746.jpg",
+      "https://media.rawg.io/media/screenshots/897/897d1301c75982af1489b193c8b08a1d.jpg",
+      "https://media.rawg.io/media/screenshots/490/490ccae2dcd56af896bda49422bdf5c0.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-31T11:51:53.992Z"
   }
 ]
