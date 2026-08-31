@@ -1,5 +1,55 @@
 [
   {
+    "id": "1c44e696ee33",
+    "slug": "pokemon-go-is-bringing-back-armored-mewtwo",
+    "headline": "Pokemon GO Is Bringing Back Armored Mewtwo",
+    "summary": "Pokémon GO is re-releasing Armored Mewtwo after its initial run, giving players another chance to catch the powerful Pokémon.",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/pokemon-go-armored-mewtwo-returns-september/"
+      },
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/pokemon-go-will-soon-see-the-return-of-a-pokemon-not-seen-in-six-years/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/pokemon-go-armored-mewtwo.jpg",
+    "published_at": "2026-08-31T07:41:40.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pokemon-go",
+    "game_label": "Pokemon GO"
+  },
+  {
+    "id": "d70789ce749d",
+    "slug": "this-week-in-pc-games-bank-holiday-mawnday-edition",
+    "headline": "This week in PC games: Bank Holiday Mawnday Edition",
+    "summary": "Fleeing the intolerable glare of another weekday morning, you take the spiral stair that runs around the elven bulk of the Treehouse, and after hours of climbing, reach the Primrose Door. The light within the Tree is soft as syrup, spilling across a realm of marble, gold, and glass. Here the Sages of Rock Paper Shotgun belabour the decades debating…",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-bank-holiday-mawnday-edition"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/maw1.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-08-31T07:30:45.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "94a226d3b771",
     "slug": "this-weeks-japanese-game-releases-the-blood-of-dawnwalker-onimusha-way",
     "headline": "This Week’s Japanese Game Releases: The Blood of Dawnwalker, Onimusha: Way of the Sword, Orbitals, more",
@@ -47,29 +97,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "1c44e696ee33",
-    "slug": "pokemon-go-is-bringing-back-armored-mewtwo",
-    "headline": "Pokemon GO Is Bringing Back Armored Mewtwo",
-    "summary": "Pokémon GO is re-releasing Armored Mewtwo after its initial run, giving players another chance to catch the powerful Pokémon.",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/pokemon-go-armored-mewtwo-returns-september/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/pokemon-go-armored-mewtwo.jpg",
-    "published_at": "2026-08-31T04:04:18.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "pokemon-go",
-    "game_label": "Pokemon GO"
   },
   {
     "id": "0e1387697a2e",
@@ -4658,26 +4685,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "6f01066d9f55",
-    "slug": "strongest-devil-fruit-users-in-each-yonko-crew-in-one-piece",
-    "headline": "Strongest Devil Fruit Users in Each Yonko Crew in One Piece",
-    "summary": "Game Rant discusses the most powerful characters in the One Piece series, focusing on the Devil Fruit users within the Yonko crews.",
-    "category": "esports",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/one-piece-strongest-devil-fruit-users-yonko-crew/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/strongest-yonko-devil-fruits.jpg",
-    "published_at": "2026-08-29T10:30:13.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "one-piece",
-    "game_label": "One Piece"
   }
 ]
