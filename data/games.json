@@ -5413,5 +5413,61 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-31T19:21:26.856Z"
+  },
+  {
+    "slug": "world-of-warcraft",
+    "name": "World of Warcraft",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/0d9/0d930ea604ee240c5af30c58f73ddf48.jpg",
+    "released": "2004-11-23",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/029/029e45f7f9bad05e9de4be0a669b3573.jpg",
+      "https://media.rawg.io/media/screenshots/3d6/3d6da2d5a9fadfbd6bec2d5651e7a216.jpg",
+      "https://media.rawg.io/media/screenshots/dc4/dc40ff05665dd2b45ff5e984928d34c6.jpg",
+      "https://media.rawg.io/media/screenshots/bb5/bb5ca2ea774eeac9ed51cfc240b9a98e.jpg",
+      "https://media.rawg.io/media/screenshots/7bc/7bc6e5c05fec12074e4c193ddec60897.jpg",
+      "https://media.rawg.io/media/screenshots/19d/19d59acae1d8021e170340013d0040ee.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-31T21:57:52.259Z"
+  },
+  {
+    "slug": "dayz",
+    "name": "DayZ",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/7d7/7d7c89793578f721df56022c6cf53bb0.jpg",
+    "released": "2013-12-16",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Massively Multiplayer",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/116/1169ca4e66ea24550276301109a22bfb.jpg",
+      "https://media.rawg.io/media/screenshots/a39/a39e07c8f0e5a0b52e2392cbbfddb319.jpg",
+      "https://media.rawg.io/media/screenshots/388/38868905cab55e6df7bdbb362ec79851.jpg",
+      "https://media.rawg.io/media/screenshots/04b/04b2e72a1b1ce5d659d6746a7a58c874.jpg",
+      "https://media.rawg.io/media/screenshots/2ed/2edef71111daf89d1eb95c3f967046b7.jpg",
+      "https://media.rawg.io/media/screenshots/466/4668411fbd2c855fdfd67ae152ba6a32.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-08-31T21:57:52.981Z"
   }
 ]
