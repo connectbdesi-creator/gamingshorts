@@ -5678,5 +5678,169 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-01T12:08:25.021Z"
+  },
+  {
+    "slug": "counter-strike",
+    "name": "Counter-Strike",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/9c4/9c47f320eb73c9a02d462e12f6206b26.jpg",
+    "released": "2000-11-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Linux",
+      "Xbox"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/208/2087d6a9a20434bf4a28313b6ce09917.jpg",
+      "https://media.rawg.io/media/screenshots/58a/58a8a824744a5fe1c84e53ca9135f7ce.jpg",
+      "https://media.rawg.io/media/screenshots/8a8/8a8b23c4b62065c093f288e70ee9d9f2.jpg",
+      "https://media.rawg.io/media/screenshots/b3c/b3c5cf63e4558bb98b85eba830b90215.jpg",
+      "https://media.rawg.io/media/screenshots/a88/a8877e5cae44ef1ac8b36eeefce2ca34.jpg",
+      "https://media.rawg.io/media/screenshots/565/56570a92d4c85576f9ff1382c75c5ac4.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-01T14:10:33.531Z"
+  },
+  {
+    "slug": "resident-evil-2",
+    "name": "Resident Evil 2",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/053/053fc543bf488349610f1ae2d0c1b51b.jpg",
+    "released": "2019-01-25",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/9e6/9e6e83b37dfd176eab77a829c5c7a109.jpg",
+      "https://media.rawg.io/media/screenshots/ca6/ca6629a8a4565b8ae7816ffcb4d38657.jpg",
+      "https://media.rawg.io/media/screenshots/df4/df450d260b14fb77ac238d77fe98746d.jpg",
+      "https://media.rawg.io/media/screenshots/fac/facb42731a6cc48e8fdfaef995f3ed71.jpg",
+      "https://media.rawg.io/media/screenshots/4bf/4bf2b3c6822715ec3b01882e0cf97572.jpg",
+      "https://media.rawg.io/media/screenshots/bdb/bdbf60136aad78a718679d2f1ac317f9.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-01T14:10:34.268Z"
+  },
+  {
+    "slug": "i-am-your-beast",
+    "name": "I Am Your Beast",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/077/07790746d9caa0542203febd069ac764.jpg",
+    "released": "2024-09-10",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/722/7227bad1c2febf42f525efd951b46ed8.jpg",
+      "https://media.rawg.io/media/screenshots/7e5/7e51730ff7375c04c0db9eedb4d9508d.jpg",
+      "https://media.rawg.io/media/screenshots/39c/39cca99046bc0103e1d12d5bcf846858.jpg",
+      "https://media.rawg.io/media/screenshots/cd8/cd84c89817e707d894a68d119cd51520.jpg",
+      "https://media.rawg.io/media/screenshots/4e6/4e64a81a960594268dd123360c192161.jpg",
+      "https://media.rawg.io/media/screenshots/b03/b03555bfa558788b6d6d2c3c171bbbd4.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-01T14:10:35.053Z"
+  },
+  {
+    "slug": "persona-5",
+    "name": "Persona 5",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/3ea/3ea0e57ede873970c0f1130e30d88749.jpg",
+    "released": "2016-09-15",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d8a/d8a5609a55476906afa237d9890521ea.jpg",
+      "https://media.rawg.io/media/screenshots/693/693dc8a4fe928593d2830d4357893683.jpg",
+      "https://media.rawg.io/media/screenshots/6dc/6dc55ac06152af2b7101478f11b2ed3c.jpg",
+      "https://media.rawg.io/media/screenshots/707/7075e86af0f6a2953452073427f55f6a.jpg",
+      "https://media.rawg.io/media/screenshots/aa0/aa005bcc19a0c65b3c10466e4383ae12.jpg",
+      "https://media.rawg.io/media/screenshots/bb2/bb284b778955d9383cb9098dbc487971.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-01T14:10:36.335Z"
+  },
+  {
+    "slug": "merge-mansion",
+    "name": "Merge Mansion - Mystery Game",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/715/7155974c4fd0868600ebf9ecf9945208_WT40mol.jpg",
+    "released": "2020-09-16",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Puzzle"
+    ],
+    "platforms": [
+      "iOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/2ec/2ec1e58fae32dd29dcbde7ec34403276_yT04LIX.jpg",
+      "https://media.rawg.io/media/screenshots/f70/f7031542a511a6b95323b9f5c1948902_u3he4ix.jpg",
+      "https://media.rawg.io/media/screenshots/a2d/a2d8217baded06f8a2589b7d9842574e.jpg",
+      "https://media.rawg.io/media/screenshots/715/7155974c4fd0868600ebf9ecf9945208_WT40mol.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-01T14:10:38.514Z"
+  },
+  {
+    "slug": "zynga-poker",
+    "name": "Zynga Poker – Texas Holdem",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/899/899546339c34e2350f83fcc32f34a052.jpg",
+    "released": "2025-06-25",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Casual",
+      "Strategy",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC",
+      "Android"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d08/d0830eefce9e83857aded505cb37f684.jpg",
+      "https://media.rawg.io/media/screenshots/4eb/4ebab1b61c1450e3181926020dee5566.jpg",
+      "https://media.rawg.io/media/screenshots/55e/55e7e638bd94ff5a0f0c0241ecd6bde9.jpg",
+      "https://media.rawg.io/media/screenshots/ce3/ce33ab712940e2ce6ed897098e8335ae.jpg",
+      "https://media.rawg.io/media/screenshots/6ab/6ab5e07131ca7639bf5ec6bd010212c2.jpg",
+      "https://media.rawg.io/media/screenshots/74a/74a133ae0483c46b480e2823b733a487.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-01T14:10:40.474Z"
   }
 ]
