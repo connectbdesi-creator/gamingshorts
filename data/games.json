@@ -6023,5 +6023,63 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-01T17:08:34.867Z"
+  },
+  {
+    "slug": "zenonia",
+    "name": "ZENONIA",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/4d2/4d2f384a89e65d6da61131c02a9b0bc4.jpg",
+    "released": "2010-09-27",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "Android",
+      "Nintendo DS",
+      "PlayStation 3",
+      "PS Vita",
+      "PSP"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/1a2/1a2f5e66e09b3fbd461b38a72091ac01.jpg",
+      "https://media.rawg.io/media/screenshots/131/1314a8520e9dad3ee353b9b12619608e.jpg",
+      "https://media.rawg.io/media/screenshots/c27/c275533c19f29d81fb604c57b076e032.jpg",
+      "https://media.rawg.io/media/screenshots/fc0/fc0f2f339d57447ee457ddc09a8a6044.jpg",
+      "https://media.rawg.io/media/screenshots/505/5050bb87db4ec3e8f8bb75ffd3e87044.jpg",
+      "https://media.rawg.io/media/screenshots/29c/29ce54f5537b89489b230b277c19f839.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-01T22:08:17.024Z"
+  },
+  {
+    "slug": "lego-harry-potter-collection",
+    "name": "LEGO Harry Potter Collection",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/e51/e51f9a3d6694ceb8bbae0124593f7bd8.jpg",
+    "released": "2016-10-18",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Casual",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/e0b/e0bb7ed89010f298e63937daaa3b4f3a.jpg",
+      "https://media.rawg.io/media/screenshots/66f/66f939d0f8224a4ba46aff1e8fa13dd9.jpg",
+      "https://media.rawg.io/media/screenshots/d32/d32eef026c0e389053d272a15e099285.jpg",
+      "https://media.rawg.io/media/screenshots/e51/e51f9a3d6694ceb8bbae0124593f7bd8.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-01T22:08:27.775Z"
   }
 ]
