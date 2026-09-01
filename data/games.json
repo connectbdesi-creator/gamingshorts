@@ -5500,5 +5500,59 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-01T00:08:05.004Z"
+  },
+  {
+    "slug": "pikmin-3-deluxe",
+    "name": "Pikmin 3 Deluxe",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/ae5/ae50f7d86cc1ab132b467154bf45b8e8.jpg",
+    "released": "2020-10-30",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/2ca/2ca4db6ec51c960395071e56bcd72a05.jpg",
+      "https://media.rawg.io/media/screenshots/e2b/e2b38f174799f2e15cb0e5fbf630c0da.jpg",
+      "https://media.rawg.io/media/screenshots/8db/8db005c6e23cfd0cd7b7ee6bb6e3d30c.jpg",
+      "https://media.rawg.io/media/screenshots/315/31578c59219fff82cfd0610c86da3bbf.jpg",
+      "https://media.rawg.io/media/screenshots/978/9789bf8f45456f137253c6c4d4f32742.jpg",
+      "https://media.rawg.io/media/screenshots/a1c/a1cd4bcc12caa9767b21e90f2bab5e24.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-01T02:06:55.182Z"
+  },
+  {
+    "slug": "pokemon-go",
+    "name": "Pokémon GO",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/97a/97ab26a9d092783e68190dc686916b0b.jpg",
+    "released": "2016-07-07",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "RPG"
+    ],
+    "platforms": [
+      "iOS",
+      "Android"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d26/d261de8ec5c018974e86f7b52f09007e.jpg",
+      "https://media.rawg.io/media/screenshots/be4/be490879c600ab61ffea9067f2361f5a.jpg",
+      "https://media.rawg.io/media/screenshots/702/702a01ece7424c61b9ce18f9158f5934.jpg",
+      "https://media.rawg.io/media/screenshots/1d2/1d2cfce6ddf676016b407d8522950636.jpg",
+      "https://media.rawg.io/media/screenshots/933/9332f75a17e64ef503d3e05d8365c85b.jpg",
+      "https://media.rawg.io/media/screenshots/534/5341756590c0f1700494cf367528300b.jpeg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-01T02:06:56.625Z"
   }
 ]
