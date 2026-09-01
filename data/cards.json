@@ -1,5 +1,127 @@
 [
   {
+    "id": "32d30489a401",
+    "slug": "new-ps-plus-games-have-free-dlc-to-claim",
+    "headline": "New PS Plus Games Have Free DLC to Claim",
+    "summary": "In addition to the monthly free game offerings for September 2026, PlayStation Plus subscribers can claim some DLC packs for free.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/ps-plus-free-dlc/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/ps-plus-septmeber-2026-free-dlc.jpg",
+    "published_at": "2026-09-01T20:00:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "df2d48381012",
+    "slug": "jojo-steel-ball-run-gets-new-episodes",
+    "headline": "Jojo Steel Ball Run Gets New Episodes",
+    "summary": "Netflix to release new episodes of JoJo's Bizarre Adventure Steel Ball Run in September",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/jojos-bizarre-adventure-steel-ball-run-is/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/screenshot-2026-09-01-143821.jpg",
+    "published_at": "2026-09-01T19:59:16.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "jojo-steel-ball-run",
+    "game_label": "Jojo Steel Ball Run"
+  },
+  {
+    "id": "2ab48b840660",
+    "slug": "call-of-duty-modern-warfare-4-runs-on-switch-2",
+    "headline": "Call Of Duty: Modern Warfare 4 Runs On Switch 2",
+    "summary": "Call of Duty: Modern Warfare 4 has been confirmed to run on the Nintendo Switch 2, although its performance may be compromised to achieve 60FPS",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/call-of-duty-modern-warfare-4-runs-on-switch-2-and-thats-the-nicest-thing-i-can-say-about-it-2000730276"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/switch2-mw4-1280x720.jpg",
+    "published_at": "2026-09-01T19:45:46.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "call-of-duty-modern-warfare-4",
+    "game_label": "Call Of Duty: Modern Warfare 4"
+  },
+  {
+    "id": "0073d8d15606",
+    "slug": "rockstar-games-reveals-official-gta-online-roleplaying-server",
+    "headline": "Rockstar Games Reveals Official GTA Online Roleplaying Server",
+    "summary": "Rockstar has announced its official roleplaying server for GTA Online, nopixel V, ahead of GTA 6's launch.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/rockstar-games-reveals-its-official-gta-online-roleplaying-server-nopixel-v"
+      },
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/rockstar-games-official-gta-online-rp-server-closed-beta"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/01/900cc909c212ce27b458749b9d0988855e48ae6e-1788280679207.jpg",
+    "published_at": "2026-09-01T19:44:40.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-online",
+    "game_label": "GTA Online"
+  },
+  {
+    "id": "11a01edd6960",
+    "slug": "the-witcher-3-dlc-warlock-and-open-world-anime-rpg-ananta-stole-the-sh",
+    "headline": "The Witcher 3 DLC, Warlock, and open-world anime RPG Ananta stole the show at Gamescom 2026",
+    "summary": "Several highly anticipated game titles generated the most Steam wishlists at Gamescom 2026, including The Witcher 3 DLC, Warlock, and anime RPG Ananta.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-dlc-warlock-and-open-world-anime-rpg-ananta-gained-the-most-steam-wishlists-of-everything-we-saw-at-gamescom-2026/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/EK8q9qe7pAxZsJTZdi5WQB-1280-80.png",
+    "published_at": "2026-09-01T19:33:25.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
     "id": "f20e4d095a77",
     "slug": "bit-reactor-staff-furloughed-ahead-of-star-wars-zero-company-launch",
     "headline": "Bit Reactor Staff Furloughed Ahead of Star Wars: Zero Company Launch",
@@ -120,6 +242,31 @@
     "game_label": null
   },
   {
+    "id": "ca90d8b59798",
+    "slug": "hideki-kamiya-says-capcom-has-no-awareness-of-how-scary-resident-evil",
+    "headline": "Hideki Kamiya Says Capcom Has \"No Awareness\" Of How Scary Resident Evil Is",
+    "summary": "\"I’ve never been a fan of horror\". Despite directing one of the greatest survival horror games of all time with Resident Evil 2, game creator Hideki Kamiya has always been open about his aversion to scary stuff. Now, in speaking with VGC, Kamiya has called out Capcom directly for supposedly having \"no awareness\" of how scary its flagship survival horror…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/hideki-kamiya-says-capcom-has-no-awareness-of-how-scary-resident-evil-is"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/resident-evil-2-director-hideki-kamiya-says-capcom-has-grown-numb-to-how-scary-new-re-games-are"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/474b82ee8148a/large.jpg",
+    "published_at": "2026-09-01T19:01:11.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "857f9c543633",
     "slug": "world-of-warcraft-brings-back-free-rarest-item",
     "headline": "World of Warcraft Brings Back Free, Rarest Item",
@@ -188,6 +335,30 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "440fb2beb02a",
+    "slug": "orbitals-review",
+    "headline": "Orbitals Review",
+    "summary": "IGN reviews Orbitals, a co-op adventure game that captures the spirit of 90s anime",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/orbitals-review"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/01/orbitals-review-blogroll-1788286952331.jpg",
+    "published_at": "2026-09-01T18:52:16.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "orbitals",
+    "game_label": "Orbitals"
   },
   {
     "id": "d16baf7a436d",
@@ -681,31 +852,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "0073d8d15606",
-    "slug": "rockstar-games-reveals-official-gta-online-roleplaying-server",
-    "headline": "Rockstar Games Reveals Official GTA Online Roleplaying Server",
-    "summary": "Rockstar has announced its official roleplaying server for GTA Online, nopixel V, ahead of GTA 6's launch.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/rockstar-games-reveals-its-official-gta-online-roleplaying-server-nopixel-v"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/01/900cc909c212ce27b458749b9d0988855e48ae6e-1788280679207.jpg",
-    "published_at": "2026-09-01T17:37:24.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gta-online",
-    "game_label": "GTA Online"
   },
   {
     "id": "43d2be3b4948",
@@ -1877,27 +2023,6 @@
     "image_url": "https://kotaku.com/app/uploads/2026/09/Lucia_Caminos_07.0.c7un8ro7_p2-1280x720.jpg",
     "published_at": "2026-09-01T15:45:51.000Z",
     "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ca90d8b59798",
-    "slug": "hideki-kamiya-says-capcom-has-no-awareness-of-how-scary-resident-evil",
-    "headline": "Hideki Kamiya Says Capcom Has \"No Awareness\" Of How Scary Resident Evil Is",
-    "summary": "\"I’ve never been a fan of horror\". Despite directing one of the greatest survival horror games of all time with Resident Evil 2, game creator Hideki Kamiya has always been open about his aversion to scary stuff. Now, in speaking with VGC, Kamiya has called out Capcom directly for supposedly having \"no awareness\" of how scary its flagship survival horror…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/hideki-kamiya-says-capcom-has-no-awareness-of-how-scary-resident-evil-is"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/474b82ee8148a/large.jpg",
-    "published_at": "2026-09-01T15:45:00.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4546,126 +4671,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "26a12d9aa7c8",
-    "slug": "square-enix-expands-final-fantasy-7-revelation",
-    "headline": "Square Enix Expands Final Fantasy 7 Revelation",
-    "summary": "Naoki Hamaguchi discusses the addition of spin-off characters and compilation references in Final Fantasy 7 Revelation, emphasizing the developers' effort to create a meaningful trilogy finale.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-includes-more-spin-off-characters-naoki-hamaguchi-says-and-devs-thought-really-hard-about-including-more-compilation-references-for-the-trilogys-finale/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/5QAsvXjbSrF6NCkKwqStLH-1280-80.jpg",
-    "published_at": "2026-09-01T11:08:06.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "final-fantasy-7-revelation",
-    "game_label": "Final Fantasy 7 Revelation"
-  },
-  {
-    "id": "8edcfcffffec",
-    "slug": "free-dice-dreams-rolls-updated-regularly",
-    "headline": "Free Dice Dreams Rolls (Updated Regularly)",
-    "summary": "Dice Dreams players can enhance their gaming experience and get free rolls with the help of these links.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/dice-dreams-free-rolls-links/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/08/dice-dreams-free-roll-codes1.jpg",
-    "published_at": "2026-09-01T11:07:52.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "255298f61fea",
-    "slug": "xbox-disc-to-digital-works-on-delisted-games",
-    "headline": "Xbox Disc-To-Digital Works On Delisted Games",
-    "summary": "Xbox Insiders have discovered new disc-to-digital feature lets them obtain digital licenses for delisted games.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/xbox-disc-to-digital-delisted-games/"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/xbox-disc-to-digital-program-delisted-game-support/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/new-project-2026-09-01t104202-705.jpg",
-    "published_at": "2026-09-01T11:01:32.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "08765e4c4df5",
-    "slug": "stellar-blade-devs-discuss-blood-rain-switch-2-port-possibilities",
-    "headline": "Stellar Blade Devs Discuss Blood Rain Switch 2 Port Possibilities",
-    "summary": "While it's far from confirmation, Stellar Blade's developers have given TheGamer some hope that a Switch 2 port of Blood Rain could become a reality.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/stellar-blade-devs-admit-switch-2-port-will-definitely-help-for-the-sequel/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/06/screenshot-3763.png",
-    "published_at": "2026-09-01T11:01:24.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a29dfc52cdf1",
-    "slug": "condominium-no-exit-demo-released",
-    "headline": "CONDOMINIUM: NO EXIT Demo Released",
-    "summary": "The psychological horror game CONDOMINIUM: NO EXIT now has a playable demo available on Steam and itch.io, allowing players to experience its eerie world and confront its themes.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/in-psychological-horror-game-condominium-no-exit-you-must-escape-a-grotesque-liminal-world-while-confronting-buried-trauma/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a29dfc52cdf1/800/600",
-    "published_at": "2026-09-01T11:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "condominium-no-exit",
-    "game_label": "CONDOMINIUM: NO EXIT"
   }
 ]
