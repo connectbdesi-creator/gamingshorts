@@ -1,5 +1,26 @@
 [
   {
+    "id": "1567a36a0de4",
+    "slug": "gta-6-fans-spot-hidden-clair-obscur-easter-egg",
+    "headline": "GTA 6 Fans Spot Hidden Clair Obscur Easter Egg",
+    "summary": "Eagle-eyed GTA 6 fans spot a Clair Obscur: Expedition 33 Easter egg in the latest gameplay footage.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-clair-obscur-expedition-33-easter-egg/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/gta-6-clair-obscur-expedition-33-easter-egg.jpg",
+    "published_at": "2026-09-01T15:01:46.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "bf81ef26a8ee",
     "slug": "xbox-game-pass-adds-first-title-for-september-2026",
     "headline": "Xbox Game Pass Adds First Title for September 2026",
@@ -12,15 +33,212 @@
       {
         "name": "Game Rant",
         "url": "https://gamerant.com/xbox-game-pass-september-2026-games-releases-shelldiver/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/video/10-best-games-on-xbox-game-pass-september-2026/"
       }
     ],
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/xbox-game-pass-logo-emblem-sign-shelldiver-underwater-composite.jpg",
-    "published_at": "2026-09-01T14:30:35.000Z",
+    "published_at": "2026-09-01T15:01:46.000Z",
     "hype_signal": 30,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "a5ea81d8ec3f",
+    "slug": "silent-hill-townfall-gamescom-2026-interview",
+    "headline": "Silent Hill: Townfall Gamescom 2026 Interview",
+    "summary": "TheGamer sat down with Konami and Screen Burn to discuss upcoming Silent Hill: Townfall, with details on gameplay and story.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/silent-hill-townfall-gamescom-2026-interview/"
+      },
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/silent-hill-townfall-gamescom-hands-on-preview/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/1920x1080-2026-08-31t113455-167.png",
+    "published_at": "2026-09-01T15:01:42.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "silent-hill-townfall",
+    "game_label": "Silent Hill: Townfall"
+  },
+  {
+    "id": "aa9a544e5d31",
+    "slug": "magic-the-gatherings-10-funniest-meme-cards-of-all-time",
+    "headline": "Magic: The Gathering's 10 Funniest Meme Cards of All Time",
+    "summary": "Polygon ranks the most humorous meme cards in Magic: The Gathering, which turned internet jokes into playable game elements.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/mtg-magic-the-gathering-10-best-meme-cards-ranked/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/498113766_18500138023025980_2556846845037336602_n.jpg",
+    "published_at": "2026-09-01T15:00:14.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "magic-the-gathering",
+    "game_label": "Magic: The Gathering"
+  },
+  {
+    "id": "6d5f9fb72407",
+    "slug": "turok-origins",
+    "headline": "Turok: Origins",
+    "summary": "Turok: Origins promises a classic, arcade-style shooter experience with a focus on fun and simplicity, featuring dinosaurs, aliens, and other sci-fi elements.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/09/01/turok-origins-gamescom-2026-preview-xbox/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/6d5f9fb72407/800/600",
+    "published_at": "2026-09-01T15:00:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "turok-origins",
+    "game_label": "Turok: Origins"
+  },
+  {
+    "id": "c903593048f1",
+    "slug": "suikoden-star-leap-devs-praised-for-god-tier-update",
+    "headline": "Suikoden Star Leap Devs Praised for 'God-Tier Update'",
+    "summary": "Suikoden Star Leap players in Japan are thrilled with the game's recent massive update, which addresses nearly all of their concerns, just one month after launch.",
+    "category": "patches",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/suikoden-star-leap-devs-praised-by-players-in-japan-for-god-tier-update-only-one-month-after-launch/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/c903593048f1/800/600",
+    "published_at": "2026-09-01T15:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "suikoden-star-leap",
+    "game_label": "Suikoden Star Leap"
+  },
+  {
+    "id": "74075138ebfb",
+    "slug": "rockstar-reimagines-gta-6-mechanics",
+    "headline": "Rockstar Reimagines GTA 6 Mechanics",
+    "summary": "Rockstar Games refines familiar mechanics to update the GTA series, blending recognizable gameplay with new ideas.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-isnt-flashy-for-the-sake-of-it-im-impressed-at-how-additive-every-new-detail-feels-to-gameplay/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/3N4MyTKS7pQQDuVc3tDDoh-1280-80.jpg",
+    "published_at": "2026-09-01T15:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "0fd411a74ebb",
+    "slug": "ceo-of-saudi-arabias-savvy-games-group-brian-ward-steps-down-after-ove",
+    "headline": "CEO of Saudi Arabia's Savvy Games Group Brian Ward steps down after overseeing billions in mobile gaming acquisitions",
+    "summary": "Brian Ward, the CEO of the Saudi-Arabian-state-owned Savvy Games Group, has left his role. During his tenure, he oversaw $38bn of investment into various gaming companies, including Pokemon Go developer Niantic, and Monopoly Go's Scopely.\n Read more",
+    "category": "industry",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/savvy-games-group-ceo-brian-ward-steps-down"
+      },
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/brian-ward-steps-down-as-savvy-games-group-ceo"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Pokemon-Go-XP-World-Championship-Header.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-01T14:38:11.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "912422755027",
+    "slug": "what-time-does-the-blood-of-dawnwalker-release-in-your-time-zone",
+    "headline": "What time does The Blood of Dawnwalker release in your time zone?",
+    "summary": "The Blood of Dawnwalker will be released on Sept. 2 or Sept. 3 depending on your time zone. Here's what time you can play on PC and consoles.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/blood-of-dawnwalker-release-time-when-edt-pdt-preorder/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/vrakhiri_tbd.jpg",
+    "published_at": "2026-09-01T14:36:59.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "256a1b83ae33",
+    "slug": "paradoxs-afterworld-grand-strategy-game-finally-clicks",
+    "headline": "Paradox's Afterworld Grand Strategy Game Finally Clicks",
+    "summary": "Eurogamer review: the latest Paradox game, Afterworld, is the first grand strategy title the writer has ever understood, thanks to its engaging gameplay and user-friendly interface.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/paradox-afterworld-hands-on-preview-grand-strategy"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/afterworld-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-01T14:36:10.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "afterworld",
+    "game_label": "Afterworld"
   },
   {
     "id": "daf2cacdb760",
@@ -62,6 +280,50 @@
     ],
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/cozy-campfire-club-gameplay-screenshot.jpg",
     "published_at": "2026-09-01T14:30:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c1dd18190218",
+    "slug": "cd-projekt-red-ceo-says-charging-current-witcher-iii-remastered-owners",
+    "headline": "CD Projekt Red CEO Says Charging Current Witcher III Remastered Owners Was Never a Question",
+    "summary": "CD Projekt Red CEO Michał Nowakowski confirms that charging current owners for The Witcher III: Wild Hunt - Remastered on Switch 2 was not a consideration",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/charging-current-owners-for-the-witcher-iii-remastered-never-a-question-we-asked-ourselves-says-cdpr"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/d74e45c78d8b3/large.jpg",
+    "published_at": "2026-09-01T14:30:00.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-iii-wild-hunt-remastered",
+    "game_label": "The Witcher III: Wild Hunt - Remastered"
+  },
+  {
+    "id": "1015cd12ebe9",
+    "slug": "heres-a-new-look-at-turok-origins-gameplay-and-some-early-hands-on-imp",
+    "headline": "Here's A New Look At Turok: Origins Gameplay, And Some Early Hands-On Impressions",
+    "summary": "Putting the OK in Turok. Back in the day, I loved squaring up against pixelated dinos in Turok on the N64. Now, here we are in 2026 with brand new Turok: Origins gameplay footage, and some early impressions from a couple of outlets who played it. The footage comes courtesy of Champs Network on YouTube, who posted b-roll provided by…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/heres-a-new-look-at-turok-origins-gameplay-and-some-early-hands-on-impressions"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/9c3ce37713059/large.jpg",
+    "published_at": "2026-09-01T14:30:00.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -141,6 +403,32 @@
     "comment_count": 0,
     "game": "star-wars-zero-company",
     "game_label": "Star Wars: Zero Company"
+  },
+  {
+    "id": "dd4754ebe474",
+    "slug": "ace-combat-8-wings-of-theve-online-101-trailer-released",
+    "headline": "Ace Combat 8: Wings of Theve Online 101 Trailer Released",
+    "summary": "Bandai Namco has released a new trailer for Ace Combat 8: Wings of Theve's online features, providing a glimpse into the game's multiplayer capabilities.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/ace-combat-8-wings-of-theve-online-101-trailer"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/dd4754ebe474/800/600",
+    "published_at": "2026-09-01T14:21:11.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ace-combat-8-wings-of-theve",
+    "game_label": "Ace Combat 8: Wings of Theve"
   },
   {
     "id": "887c4dbbca2c",
@@ -238,27 +526,51 @@
     "game_label": null
   },
   {
-    "id": "0fd411a74ebb",
-    "slug": "ceo-of-saudi-arabias-savvy-games-group-brian-ward-steps-down-after-ove",
-    "headline": "CEO of Saudi Arabia's Savvy Games Group Brian Ward steps down after overseeing billions in mobile gaming acquisitions",
-    "summary": "Brian Ward, the CEO of the Saudi-Arabian-state-owned Savvy Games Group, has left his role. During his tenure, he oversaw $38bn of investment into various gaming companies, including Pokemon Go developer Niantic, and Monopoly Go's Scopely.\n Read more",
+    "id": "87a0659bac81",
+    "slug": "ninja-gaidens-legacy-how-it-shaped-the-xbox-console-for-japanese-devel",
+    "headline": "Ninja Gaiden's Legacy: How It Shaped the Xbox Console for Japanese Developers",
+    "summary": "A retrospective on the impact of Ninja Gaiden on the Xbox console, highlighting its aging appeal and significance in the gaming industry.",
     "category": "industry",
     "platform_tags": [
-      "mobile"
+      "xbox"
     ],
     "sources": [
       {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/savvy-games-group-ceo-brian-ward-steps-down"
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/ninja-gaiden-legitimized-the-american-xbox-console-for-japanese-developers"
       }
     ],
-    "image_url": "https://assetsio.gnwcdn.com/Pokemon-Go-XP-World-Championship-Header.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-01T14:04:45.000Z",
+    "image_url": "https://assets-prd.ignimgs.com/2026/08/26/image-1-1787788096006.png",
+    "published_at": "2026-09-01T14:09:00.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
-    "game": null,
-    "game_label": null
+    "game": "ninja-gaiden",
+    "game_label": "Ninja Gaiden"
+  },
+  {
+    "id": "b9d0ad427392",
+    "slug": "warrior-cats-clans-of-the-forest-launches-on-october-23",
+    "headline": "Warrior Cats: Clans of the Forest Launches on October 23",
+    "summary": "Warrior Cats: Clans of the Forest, a turn-based RPG, will launch on PlayStation 5, Xbox Series, and other platforms on October 23",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/warrior-cats-clans-of-the-forest-launches-october-23"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/b9d0ad427392/800/600",
+    "published_at": "2026-09-01T14:08:07.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "warrior-cats-clans-of-the-forest",
+    "game_label": "Warrior Cats: Clans of the Forest"
   },
   {
     "id": "9e4ca298b190",
@@ -353,6 +665,27 @@
     "image_url": "https://picsum.photos/seed/02666e1379ba/800/600",
     "published_at": "2026-09-01T14:00:48.000Z",
     "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "56666628524c",
+    "slug": "the-hundred-line-last-defense-academys-srpg-gameplay-was-designed-as-t",
+    "headline": "The Hundred Line: Last Defense Academy’s SRPG gameplay was designed as the “exact opposite of Fire Emblem.” The adrenaline rush of throwing away characters’ lives",
+    "summary": "Interview with The Hundred Line: Last Defense Academu battle director Akihiro Togawa on the game's strategy RPG design.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/interviews/the-hundred-line-last-defense-academys-srpg-gameplay-was-designed-as-the-exact-opposite-of-fire-emblem-the-adrenaline-rush-of-throwing-away-characters-lives/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/56666628524c/800/600",
+    "published_at": "2026-09-01T14:00:00.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -859,27 +1192,6 @@
     "game_label": "Persona 5"
   },
   {
-    "id": "a5ea81d8ec3f",
-    "slug": "silent-hill-townfall-gamescom-2026-interview",
-    "headline": "Silent Hill: Townfall Gamescom 2026 Interview",
-    "summary": "TheGamer sat down with Konami and Screen Burn to discuss upcoming Silent Hill: Townfall, with details on gameplay and story.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/silent-hill-townfall-gamescom-2026-interview/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/1920x1080-2026-08-31t113455-167.png",
-    "published_at": "2026-09-01T13:01:14.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "silent-hill-townfall",
-    "game_label": "Silent Hill: Townfall"
-  },
-  {
     "id": "8e8c8e917bc9",
     "slug": "id-software-developer-speaks-out-against-crunch-time",
     "headline": "id Software Developer Speaks Out Against Crunch Time",
@@ -902,6 +1214,78 @@
     "comment_count": 0,
     "game": "doom-the-dark-ages-revelations",
     "game_label": "Doom: The Dark Ages - Revelations"
+  },
+  {
+    "id": "6acf10e7f453",
+    "slug": "strange-scaffold-brings-i-am-your-beast-to-nintendo-switch",
+    "headline": "Strange Scaffold Brings I Am Your Beast to Nintendo Switch",
+    "summary": "I Am Your Beast, a cooperative first-person shooter, is coming to Nintendo Switch on October 20, marking its debut on the platform.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/strange-scaffold-takes-i-am-your-beast-to-nintendo-on-october-20/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/6acf10e7f453/800/600",
+    "published_at": "2026-09-01T13:00:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "i-am-your-beast",
+    "game_label": "I Am Your Beast"
+  },
+  {
+    "id": "9465128b1aba",
+    "slug": "breaking-down-the-srpg-genres-potential",
+    "headline": "Breaking Down the SRPG Genre's Potential",
+    "summary": "Automaton interviews Akihiro Togawa of The Hundred Line about the challenges of appealing to hardcore gamers and the genre's future prospects",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/interviews/what-will-it-take-for-srpgs-to-leave-the-hardcore-gamer-niche-we-talk-to-the-hundred-line-and-persona-5-tactica-developer-about-the-genres-potential/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/9465128b1aba/800/600",
+    "published_at": "2026-09-01T13:00:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "persona-5-tactica",
+    "game_label": "Persona 5 Tactica"
+  },
+  {
+    "id": "c08320dd40a4",
+    "slug": "nvidias-dlss-5-looks-compelling-in-nba-2k-with-performance-improvement",
+    "headline": "Nvidia’s DLSS 5 looks compelling in NBA 2K with performance improvements since March — but will gamers accept it?",
+    "summary": "Nvidia showed off its latest progress with the DLSS 5 tech for enhancing 3D images in games, and it showed off photorealistic content in...\nThe post Nvidia’s DLSS 5 looks compelling in NBA 2K with performance improvements since March — but will gamers accept it? appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/nvidias-dlss-5-off-on-images-look-compelling-with-ai-tweaks-but-will-gamers-accept-it/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/c08320dd40a4/800/600",
+    "published_at": "2026-09-01T13:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "3b9e5b46105c",
@@ -1773,6 +2157,56 @@
     "game_label": "Onimusha: Way Of The Sword, The Blood Of Dawnwalker, and Orbitals"
   },
   {
+    "id": "a32848fee7cc",
+    "slug": "sony-ceo-prioritizes-ps-plus-revenue-over-ps5-sales",
+    "headline": "Sony CEO Prioritizes PS Plus Revenue Over PS5 Sales",
+    "summary": "Sony's CEO is shifting focus towards generating recurring revenue from the 125 million active PS Plus subscribers, rather than solely relying on PS5 sales, as the console approaches its 6-year anniversary",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/platforms/playstation/sony-ceo-says-selling-more-ps5s-isnt-as-important-as-monetizing-the-125-million-monthly-ps-plus-users-now-the-console-is-6-years-old/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/yqQiW7BWJLcsRMqP9vKdJM-1280-80.jpg",
+    "published_at": "2026-09-01T11:17:31.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e8004f6e2e9e",
+    "slug": "missing-zombie-jump-scare-in-28-days-later-4k-release",
+    "headline": "Missing Zombie Jump Scare in 28 Days Later 4K Release",
+    "summary": "A 28 Days Later fan discovered a red zombie jump scare was removed from the game's 4K release",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/horror-movies/horror-fan-spots-that-one-of-the-most-terrifying-shots-in-28-days-later-is-missing-from-the-4k-release/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/zRFJ4FpCQHvHBQdzfT6D9A-1280-80.jpg",
+    "published_at": "2026-09-01T11:14:55.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "28-days-later",
+    "game_label": "28 Days Later"
+  },
+  {
     "id": "8d1b3c61b826",
     "slug": "final-fantasy-7-revelation-god-of-war-laufey-and-intergalactic-the-her",
     "headline": "Final Fantasy 7 Revelation, God of War Laufey, and Intergalactic: The Heretic Prophet: What to Expect From PlayStation’s State of Play September 2026",
@@ -1794,6 +2228,32 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "26a12d9aa7c8",
+    "slug": "square-enix-expands-final-fantasy-7-revelation",
+    "headline": "Square Enix Expands Final Fantasy 7 Revelation",
+    "summary": "Naoki Hamaguchi discusses the addition of spin-off characters and compilation references in Final Fantasy 7 Revelation, emphasizing the developers' effort to create a meaningful trilogy finale.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-includes-more-spin-off-characters-naoki-hamaguchi-says-and-devs-thought-really-hard-about-including-more-compilation-references-for-the-trilogys-finale/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/5QAsvXjbSrF6NCkKwqStLH-1280-80.jpg",
+    "published_at": "2026-09-01T11:08:06.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-7-revelation",
+    "game_label": "Final Fantasy 7 Revelation"
   },
   {
     "id": "8edcfcffffec",
@@ -1865,6 +2325,30 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "a29dfc52cdf1",
+    "slug": "condominium-no-exit-demo-released",
+    "headline": "CONDOMINIUM: NO EXIT Demo Released",
+    "summary": "The psychological horror game CONDOMINIUM: NO EXIT now has a playable demo available on Steam and itch.io, allowing players to experience its eerie world and confront its themes.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/in-psychological-horror-game-condominium-no-exit-you-must-escape-a-grotesque-liminal-world-while-confronting-buried-trauma/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/a29dfc52cdf1/800/600",
+    "published_at": "2026-09-01T11:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "condominium-no-exit",
+    "game_label": "CONDOMINIUM: NO EXIT"
   },
   {
     "id": "703a412140fc",
@@ -4229,458 +4713,6 @@
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/13446463/971862172.jpg.jpg",
     "published_at": "2026-08-31T19:00:08.000Z",
     "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "97cb72b6e06c",
-    "slug": "the-week-in-games-25d-tactics-and-retro-dungeon-crawling",
-    "headline": "The Week In Games: 2.5D Tactics And Retro Dungeon-Crawling",
-    "summary": "Kotaku highlights two indie games worth playing between bigger blockbusters, including 2.5D Tactics and a retro dungeon crawler.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/the-week-in-games-2-5d-tactics-and-retro-dungeon-crawling-2000729988"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/08/this-week-in-games-1280x732.jpg",
-    "published_at": "2026-08-31T19:00:06.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "25d-tactics",
-    "game_label": "2.5D Tactics"
-  },
-  {
-    "id": "675e1fee6817",
-    "slug": "ps5-games-will-be-delisted-in-september-and-october-2026",
-    "headline": "PS5 Games Will Be Delisted in September and October 2026",
-    "summary": "Over 10 PS5 and PS4 games will be removed from online stores in September and October 2026, according to a bi-annual list, prompting gamers to download their favorite titles before they disappear.",
-    "category": "industry",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/08/these-11plus-ps5-games-will-be-delisted-or-disabled-in-september-and-october-2026"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/1637dbc1664df/large.jpg",
-    "published_at": "2026-08-31T19:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a76eba48bb21",
-    "slug": "mercy-kill-leni-or-leave-her-in-resonance-plague-tale-legacy",
-    "headline": "Mercy Kill Leni or Leave Her in Resonance: Plague Tale Legacy",
-    "summary": "Resonance: A Plague Tale Legacy game offers players a choice on what to do with character Leni, raising questions about player decision-making and game narrative",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/resonance-plague-tale-legacy-mercy-kill-leni-or-spare-her/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/mercy-kill-leni-or-spare-her-resonance-a-plague-tale.jpg",
-    "published_at": "2026-08-31T18:50:34.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "resonance-a-plague-tale-legacy",
-    "game_label": "Resonance: A Plague Tale Legacy"
-  },
-  {
-    "id": "c7f661bdcfb3",
-    "slug": "nintendo-direct-in-september-looks-likely",
-    "headline": "Nintendo Direct in September Looks Likely",
-    "summary": "Fans are optimistic about a September 10 Nintendo Direct due to a leak of gameplay from Ubisoft's Just Dance: Decades of Hits, which may indicate a release date for the upcoming Nintendo event.",
-    "category": "industry",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/a-september-10-nintendo-direct-is-looking-likely-thanks-to-just-dance/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Sept-10-Nintendo-Direct-Zelda-OoT.jpg?w=300",
-    "published_at": "2026-08-31T18:50:01.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "just-dance-decades-of-hits",
-    "game_label": "Just Dance: Decades of Hits"
-  },
-  {
-    "id": "13c488b0a8df",
-    "slug": "xbox-ceo-says-making-halo-popular-again-is-a-priority-but-franchise-co",
-    "headline": "Xbox CEO Says Making Halo Popular Again Is A Priority, But Franchise Co-Creator Questions If It’s Possible",
-    "summary": "The Halo franchise remains synonymous with the Xbox brand, but many might agree that it has seen better days. Xbox's new CEO, Asha Sharma, has now commented on Halo's future, saying in an interview that Halo remains a \"very key franchise\" for Xbox and that Microsoft is taking a long-term view about reviving it. \"The thing that I am learning…",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/xbox-ceo-says-making-halo-popular-again-is-a-priority-but-franchise-co-creator-questions-if-its-possible/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Halo.jpg?w=300",
-    "published_at": "2026-08-31T18:46:07.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "aa2749dbc5f9",
-    "slug": "godzilla-destroy-all-monsters-melee-remastered-dev-says-gta-6-was-neve",
-    "headline": "Godzilla: Destroy All Monsters Melee Remastered Dev Says GTA 6 Was 'Never Part of Our Thinking' When Choosing a Release Date",
-    "summary": "Godzilla: Destroy All Monsters Melee Remastered will take on GTA 6 when both games launch this November, but the team behind the arena fighter said Rockstar's latest was \"never part of our thinking\" when choosing a release date.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/godzilla-destroy-all-monsters-melee-remastered-dev-says-gta-6-was-never-part-of-our-thinking-when-choosing-a-release-date"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/26/godzilla-destroy-all-monsters-melee-remastered-art-1787759856090.png",
-    "published_at": "2026-08-31T18:45:35.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b41db4f2a575",
-    "slug": "gta-6-just-gave-ps5-owners-one-less-reason-to-upgrade-to-ps5-pro",
-    "headline": "GTA 6 Just Gave PS5 Owners One Less Reason to Upgrade to PS5 Pro",
-    "summary": "GTA 6's rock solid PS5 footage and Rockstar's seemingly universal 30fps target could totally blunt the PS5 Pro's upgrade pitch among fans.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-ps5-pro-upgrade-30-fps/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/gta-6-ps5-image.jpg",
-    "published_at": "2026-08-31T18:45:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d0550a800b48",
-    "slug": "classic-nes-games-that-are-painful-to-play-today",
-    "headline": "Classic NES Games That Are Painful To Play Today",
-    "summary": "The Nintendo Entertainment System has plenty of masterpieces that will always be fun, but a few of its greatest classics haven't aged perfectly.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/classic-nes-games-aged-badly-hard-to-play/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/classic-nes-games-aged-badly-legend-of-zelda-link-holding-console.jpg",
-    "published_at": "2026-08-31T18:38:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b7f1b48b82f8",
-    "slug": "cant-wait-to-show-you-intergalactic-ps5-wraps-mocap-days-before-state",
-    "headline": "'Can't Wait to Show You': Intergalactic PS5 Wraps MoCap Days Before State of Play",
-    "summary": "\"See you, space cowboy\".\nNaughty Dog has completed Intergalactic: The Heretic Prophet’s “very ambitious” motion capture shoot, meaning the game has crossed another major milestone.\nWhile this certainly doesn’t mean development is complete, it does indicate that all of the cut-scene performances have now wrapped.\nRead the full article on pushsquare.com",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/08/cant-wait-to-show-you-intergalactic-ps5-wraps-mocap-days-before-state-of-play"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/607bf0b77c5d3/large.jpg",
-    "published_at": "2026-08-31T18:30:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5c9a99691ced",
-    "slug": "playstation-studios-gets-another-big-shakeup-as-studio-head-leaves",
-    "headline": "Playstation Studios Gets Another Big Shakeup as Studio Head Leaves",
-    "summary": "Housemarque's co-founder and managing director, Ilari Kuittinen, is leaving the company shortly after 'Saros' reportedly got off to a \"slow\" start.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/housemarque-saros-sales-studio-head-leaves-company/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/saros-isnt-a-roguelike-header.jpg",
-    "published_at": "2026-08-31T18:28:35.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "34531845b3e5",
-    "slug": "orbitals-switch-2-preorder-discount",
-    "headline": "Orbitals Switch 2 Preorder Discount",
-    "summary": "Walmart is offering a $10 discount on physical copies of the upcoming Switch 2 game Orbitals ahead of its launch.",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/grab-a-physical-copy-of-orbitals-for-switch-2-for-10-off-ahead-of-launch"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/31/untitled-design-1-1788199526469.png",
-    "published_at": "2026-08-31T18:26:30.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "orbitals",
-    "game_label": "Orbitals"
-  },
-  {
-    "id": "3bf3294a9038",
-    "slug": "gta-6-fans-are-bracing-for-one-massive-download",
-    "headline": "GTA 6 Fans Are Bracing For One Massive Download",
-    "summary": "We're only a few months away from the November launch of Grand Theft Auto 6, and following the recent preview of the game on Netflix, fans have even more questions about Rockstar's highly anticipated game--namely, just how big is the download going to be? We already know that you can preload the game a week before launch, but is that…",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gta-6-fans-are-bracing-for-one-massive-download/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2025/05/Jason_and_Lucia_01.jpg?w=300",
-    "published_at": "2026-08-31T18:24:57.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4b7915ae3f89",
-    "slug": "some-of-wows-hardest-dungeons-and-raids-have-gotten-just-a-bit-easiert",
-    "headline": " Some of WoW's hardest dungeons and raids have gotten just a bit easier—that's on purpose, developers say ",
-    "summary": "\"People are a little bit more willing now to say, 'Well I'd like to try out tanking. I'd like to try out healing.'\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/some-of-wows-hardest-dungeons-and-raids-have-gotten-just-a-bit-easier-thats-on-purpose-developers-say/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/9uXmFFjjADMSZFXPWRJVTn-1280-80.jpg",
-    "published_at": "2026-08-31T18:19:34.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "fd8295e8f396",
-    "slug": "pokemon-go-mega-ascension-event-schedule-bonuses",
-    "headline": "Pokemon Go Mega Ascension Event Schedule & Bonuses",
-    "summary": "Pokémon Go is hosting a Mega Ascension event with a set schedule and bonuses for players. The event is expected to bring exclusive rewards and challenges to players who participate.",
-    "category": "deals",
-    "platform_tags": [
-      "mobile",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/pokemon-go-mega-ascension-event-raid-schedule-bonuses/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/raid-schedule-guide-for-pogo-mega-ascension.jpg",
-    "published_at": "2026-08-31T18:18:38.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "pokemon-go",
-    "game_label": "Pokemon Go"
-  },
-  {
-    "id": "f15d0643f671",
-    "slug": "pokemon-winds-and-waves-just-got-a-discouraging-update",
-    "headline": "Pokemon Winds and Waves Just Got a Discouraging Update",
-    "summary": "Pokemon Winds and Waves fans may be disappointed with a recent, discouraging update and what it means for the upcoming games.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/no-pokemon-winds-waves-wiwa-news-worlds-2027/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/02/pokemon-winds-and-waves-outfit-version-screenshot-7.jpg",
-    "published_at": "2026-08-31T18:01:18.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b9668e3d12fd",
-    "slug": "warlock-dungeons-dragons-gameplay-reveal-gives-extended-look-at-combat",
-    "headline": "Warlock: Dungeons & Dragons Gameplay Reveal Gives Extended Look at Combat, Exploration, and Traversal",
-    "summary": "Warlock: Dungeons & Dragons Gameplay Reveal Gives Extended Look at Combat, Exploration, and Traversal",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/warlock-dungeons-dragons-gameplay-reveal-gives-extended-look-at-combat-exploration-and-traversal"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/25/kaatri-face-keyart-logotype-1787689431665.png",
-    "published_at": "2026-08-31T18:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9f78d0f29d80",
-    "slug": "serious-sam-shatterverse-a-brand-new-take-on-a-classic",
-    "headline": "Serious Sam: Shatterverse – A Brand New Take on a Classic",
-    "summary": "When Behaviour Interactive heard that Devolver was looking for a developer to make a new Serious Sam, we couldn’t have been more excited and we jumped at the opportunity. Many of us on the team had fond memories of playing Serious Sam: The First Encounter when it was released in the early 2000s and remembered […] The post Serious Sam:…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/08/31/serious-sam-shatterverse/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/9f78d0f29d80/800/600",
-    "published_at": "2026-08-31T18:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9b94c0411c9e",
-    "slug": "mini-review-metal-gear-solid-peace-walker-master-collection-version-sw",
-    "headline": "Mini Review: Metal Gear Solid: Peace Walker - Master Collection Version (Switch 2) - The Unsung Hero Of The Series",
-    "summary": "A fulton of fun. Note. We're still working on our review of the overall MGS Master Collection Vol. 2 package - keep an eye out for our verdict soon. Metal Gear Solid: Peace Walker represented a pretty significant shift in the stealth action series. Despite being released on the humble PSP back in 2010, it was comfortably the largest entry…",
-    "category": "reviews",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/metal-gear-solid-peace-walker-master-collection-version"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/8bd7dbd0a28ec/large.jpg",
-    "published_at": "2026-08-31T18:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d7290301d924",
-    "slug": "guide-when-is-playstations-state-of-play-for-september-2026",
-    "headline": "Guide: When Is PlayStation's State of Play for September 2026?",
-    "summary": "Dates, times, and what to expect. Sony has announced a double-bill of State of Play presentations, giving PS5 players updates on a wide range of games before focusing in on Japanese titles. It's all happening very soon, so let's go over the details in this guide. We'll tell you when is PlayStation's State of Play for September 2026 and everything…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/guides/when-is-playstations-state-of-play-for-september-2026"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/b5530ea1ca007/large.jpg",
-    "published_at": "2026-08-31T18:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7f6ab53cbc12",
-    "slug": "reed-great-katana-location-in-elden-ring-tarnished-pack",
-    "headline": "Reed Great Katana Location in Elden Ring Tarnished Pack",
-    "summary": "Learn the Great Reed Katana location in Elden Ring's Tarnished Pack DLC and find out how to reach it.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/elden-ring-reed-great-katana-location/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/elden-ring-reed-great-katana.jpg",
-    "published_at": "2026-08-31T17:54:50.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,

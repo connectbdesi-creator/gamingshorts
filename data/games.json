@@ -5870,5 +5870,86 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-01T14:41:42.169Z"
+  },
+  {
+    "slug": "ace-combat-8-wings-of-theve",
+    "name": "Ace Combat 8: Wings of Theve",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/f9e/f9ef6161a0fc80e9f588077e3c3206b0.jpg",
+    "released": "2026-10-02",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f9e/f9ef6161a0fc80e9f588077e3c3206b0.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-01T15:09:26.547Z"
+  },
+  {
+    "slug": "ninja-gaiden",
+    "name": "Ninja Gaiden",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/e83/e838d4778e43eecfd4a30804e7396809.jpg",
+    "released": "1988-12-09",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Platformer",
+      "Action"
+    ],
+    "platforms": [
+      "NES"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/662/6625f76112cf978a77f09c2598b2595f.jpg",
+      "https://media.rawg.io/media/screenshots/79c/79ce760b296ae4f10938bfa6ddac8a0f.jpg",
+      "https://media.rawg.io/media/screenshots/d43/d4370cf85f61fa1d519197ce00c34136.jpg",
+      "https://media.rawg.io/media/screenshots/8a3/8a3d49da85c92183f73cd9952c643825.jpg",
+      "https://media.rawg.io/media/screenshots/8ec/8ecc9a48dd72d96aa0d2b02f4cc9102f.jpg",
+      "https://media.rawg.io/media/screenshots/a22/a224918403982285bf62d37380676050.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-01T15:09:28.758Z"
+  },
+  {
+    "slug": "persona-5-tactica",
+    "name": "Persona 5 Tactica",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/e33/e33f0377ac6770a6a481b9b7725aacc3.jpg",
+    "released": "2023-11-16",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/1a7/1a7822d5a8565753b1664e02d9964212.jpg",
+      "https://media.rawg.io/media/screenshots/985/985641b85e35384e850626fdb7fbbd80.jpg",
+      "https://media.rawg.io/media/screenshots/846/846b96798b26dd512e33c0bf2ff83fcb_yMdaN4b.jpg",
+      "https://media.rawg.io/media/screenshots/fa9/fa96b29c6569735119faa80d85addb16.jpg",
+      "https://media.rawg.io/media/screenshots/a1f/a1fb9c4c610fae57ca6e4ac54e0c7543.jpg",
+      "https://media.rawg.io/media/screenshots/878/878b62e18a57af97a6c7d0afcd829d73.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-01T15:09:31.508Z"
   }
 ]
