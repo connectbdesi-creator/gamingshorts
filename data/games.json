@@ -5842,5 +5842,33 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-01T14:10:40.474Z"
+  },
+  {
+    "slug": "everspace-2",
+    "name": "Everspace 2",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/8a2/8a211877151a55a09e87061118012281.jpg",
+    "released": "2023-04-06",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Action",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/e84/e849de717d6368d0bf1ea5861442f907.jpg",
+      "https://media.rawg.io/media/screenshots/5a7/5a7f3ec4e7385da5b25662982d561072.jpg",
+      "https://media.rawg.io/media/screenshots/baa/baa4166598fc37f7c3f4c379d61d6f70.jpg",
+      "https://media.rawg.io/media/screenshots/4e0/4e0db06aedd2ab03d8cc414139eefaba.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-01T14:41:42.169Z"
   }
 ]
