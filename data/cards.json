@@ -1,5 +1,586 @@
 [
   {
+    "id": "a7bb73ca159b",
+    "slug": "onslaught-review-a-brutal-action-thriller",
+    "headline": "Onslaught Review: A Brutal Action Thriller",
+    "summary": "Onslaught, a grindhouse slasher film directed by Adam Wingard, combines the action of Terminator with the style of Kill Bill. The movie is both a thrilling ride and a thought-provoking commentary on the darker aspects of human nature.",
+    "category": "reviews",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/onslaught-review-2026/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/https___cdn-sanity-io_images_xq1bjtf4_production_88a7cd590e9ff3fdb8b719432d346f6f26ab17a8-5669x3779.jpg",
+    "published_at": "2026-09-01T12:00:14.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0c95bf3cdb12",
+    "slug": "star-wars-fans-say-if-you-love-the-clone-wars-and-bad-batch-you-should",
+    "headline": " Star Wars fans say if you love The Clone Wars and Bad Batch, you should play Zero Company ",
+    "summary": "Star Wars fans are loving new game Zero Company",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/star-wars-tv-shows/star-wars-fans-say-if-you-love-the-clone-wars-and-bad-batch-you-should-play-zero-company/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/aiRhe8q2Qu9So2FfFAXGjS-1280-80.jpg",
+    "published_at": "2026-09-01T11:58:44.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5fd34effd6a4",
+    "slug": "fans-are-using-xboxs-disc-to-digital-feature-to-save-long-delisted-tit",
+    "headline": " Fans are using Xbox's disc-to-digital feature to save long-delisted titles like the Deadpool game, Rock Band 4, and Transformers: Devastation ",
+    "summary": "Thankfully, delisting doesn't mean it's gone forever in some cases",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/platforms/xbox/fans-are-using-xboxs-disc-to-digital-feature-to-save-long-delisted-titles-like-the-deadpool-game-rock-band-4-and-transformers-devastation/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/7yCAvfcg3jPCm9sgqHLyPK-1280-80.jpg",
+    "published_at": "2026-09-01T11:54:57.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "bfd0b31390cd",
+    "slug": "the-witcher-3-remastered-is-just-an-update-on-ps5-not-a-new-edition-wi",
+    "headline": "The Witcher 3 Remastered Is Just an Update on PS5, Not a New Edition with New Trophies",
+    "summary": "Path of least resistance. There's been some confusion around The Witcher 3: Wild Hunt Remastered and how it's actually going to work. I had assumed that the remaster — which was announced at Gamescom last week — would exist as its own separate release, replacing The Witcher 3: Wild Hunt - Complete Edition (the native PS5 version that launched in…",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-is-just-an-update-on-ps5-not-a-new-edition-with-new-trophies"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/77e356dde77d6/large.jpg",
+    "published_at": "2026-09-01T11:45:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b4b2b5751c7d",
+    "slug": "star-wars-zero-company-devs-left-without-pay-report-claims-with-most-s",
+    "headline": "Star Wars: Zero Company devs left without pay, report claims, with \"most\" staff furloughed prior to launch",
+    "summary": "Prior to releasing Star Wars Zero Company last week, developers Bit Reactor reportedly furloughed \"most\" of the team who made it, seemingly leaving said staff in limbo. \nRead more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/star-wars-zero-company-devs-left-without-pay-report-claims-with-most-staff-furloughed-prior-to-launch"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/star-wars-zero-company-devs-furloughed-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-01T11:44:31.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d34735eadb79",
+    "slug": "sony-says-reasonable-consumers-know-they-dont-own-the-digital-games-th",
+    "headline": "Sony says ‘reasonable consumers’ know they don’t own the digital games they buy",
+    "summary": "It's \"not plausible\" to suggest people believe they're \"obtaining ownership\", it says",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/sony-says-reasonable-consumers-know-they-dont-own-the-digital-games-they-buy/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/d34735eadb79/800/600",
+    "published_at": "2026-09-01T11:41:06.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "92d05c89ac5d",
+    "slug": "microsoft-will-give-you-5-to-buy-call-of-duty-modern-warfare-4-on-xbox",
+    "headline": "Microsoft will give you $5 to buy Call of Duty: Modern Warfare 4 on Xbox (or Xbox on PC)",
+    "summary": "Microsoft has kicked off a promotion seemingly out of nowhere to push people to pre-order Call of Duty: Modern Warfare 4 on its platforms, rather than those of its competitors.\n Read more",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-pre-order-xbox-5-usd-credit"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-campaign-crop-2.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-01T11:36:42.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "79063ab798d8",
+    "slug": "murals-a-roguelike-that-aims-to-make-difficulty-more-welcoming",
+    "headline": "Murals: A Roguelike That Aims to Make Difficulty More Welcoming",
+    "summary": "Murals, a new roguelike game, blends dark fairy tales with fast-paced action, deviating from traditional Hades-style gameplay. Developer Dlala Studios seeks to create a more approachable experience.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/this-new-roguelike-wants-to-make-its-difficulty-more-welcoming/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Murals.jpg?w=300",
+    "published_at": "2026-09-01T11:34:22.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "murals",
+    "game_label": "Murals"
+  },
+  {
+    "id": "85553f4e7270",
+    "slug": "cd-projekt-promises-the-witcher-4-for-playstation-will-release-in-a-bo",
+    "headline": "CD Projekt Promises The Witcher 4 For PlayStation Will Release In A Box, Even If It Can’t Contain A Disc",
+    "summary": "The Polish studio is determined that gaming will remain touchy-feely",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/the-witcher-4-cd-projekt-playstation-5-sony-disc-specia-edition-feelies-2000730188"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/witcher4eyes-1280x720.jpg",
+    "published_at": "2026-09-01T11:34:19.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f542fdae60a3",
+    "slug": "spider-man-brand-new-day-blu-ray-pre-orders-now-live",
+    "headline": "Spider-Man: Brand New Day Blu-ray Pre-Orders Now Live",
+    "summary": "Pre-orders for the Spider-Man: Brand New Day Blu-ray have started, but details about the release remain scarce.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/spider-man-brand-new-day-blu-ray-pre-orders-are-live-but-details-are-still-scant/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/tHqGGKtrWjc3SgD877XSWW-1280-80.jpg",
+    "published_at": "2026-09-01T11:32:27.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "spider-man-brand-new-day",
+    "game_label": "Spider-Man: Brand New Day"
+  },
+  {
+    "id": "d3505a80ccf1",
+    "slug": "studio-behind-the-best-reviewed-star-wars-game-in-22-years-furloughed",
+    "headline": "Studio Behind The Best-Reviewed Star Wars Game In 22 Years Furloughed Up To 80 Percent Of Its Staff",
+    "summary": "The cofounders of Bit Reactor are embroiled in an ugly lawsuit",
+    "category": "reviews",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/studio-behind-the-best-reviewed-star-wars-game-in-22-years-furloughed-up-to-80-percent-of-its-staff-2000730078"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/star-wars-zero-company-bit-reactor-furlough/"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/08/ss_68d5acedd1b34badb379215eaf2bd0af3f43c3b1.1920x1080-1280x720.jpg",
+    "published_at": "2026-09-01T11:24:55.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "95c9fbffb5c4",
+    "slug": "onimusha-way-of-the-sword-the-blood-of-dawnwalker-and-orbitals-review",
+    "headline": "Onimusha: Way Of The Sword, The Blood Of Dawnwalker, and Orbitals Review Roundup",
+    "summary": "Reviews for three September games have been published, providing insight into the titles' performance and reception",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/onimusha-way-of-the-sword-blood-dawnwalker-orbitals-reviews/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/new-project-2026-09-01t120227-305.jpg",
+    "published_at": "2026-09-01T11:18:25.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "onimusha-way-of-the-sword-the-blood-of-dawnwalker-and-orbitals",
+    "game_label": "Onimusha: Way Of The Sword, The Blood Of Dawnwalker, and Orbitals"
+  },
+  {
+    "id": "8d1b3c61b826",
+    "slug": "final-fantasy-7-revelation-god-of-war-laufey-and-intergalactic-the-her",
+    "headline": "Final Fantasy 7 Revelation, God of War Laufey, and Intergalactic: The Heretic Prophet: What to Expect From PlayStation’s State of Play September 2026",
+    "summary": "Final Fantasy 7 Revelation, God of War Laufey, and Intergalactic: The Heretic Prophet: \n\nHere's what to expect from Thursday's PlayStation State of Play streams.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/playstation-state-of-play-september-2026-what-to-expect"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/01/state-of-play-sep-blog-1788260061700.jpg",
+    "published_at": "2026-09-01T11:10:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8edcfcffffec",
+    "slug": "free-dice-dreams-rolls-updated-regularly",
+    "headline": "Free Dice Dreams Rolls (Updated Regularly)",
+    "summary": "Dice Dreams players can enhance their gaming experience and get free rolls with the help of these links.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/dice-dreams-free-rolls-links/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/08/dice-dreams-free-roll-codes1.jpg",
+    "published_at": "2026-09-01T11:07:52.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "255298f61fea",
+    "slug": "xbox-disc-to-digital-works-on-delisted-games",
+    "headline": "Xbox Disc-To-Digital Works On Delisted Games",
+    "summary": "Xbox Insiders have discovered new disc-to-digital feature lets them obtain digital licenses for delisted games.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/xbox-disc-to-digital-delisted-games/"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/xbox-disc-to-digital-program-delisted-game-support/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/new-project-2026-09-01t104202-705.jpg",
+    "published_at": "2026-09-01T11:01:32.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "08765e4c4df5",
+    "slug": "stellar-blade-devs-discuss-blood-rain-switch-2-port-possibilities",
+    "headline": "Stellar Blade Devs Discuss Blood Rain Switch 2 Port Possibilities",
+    "summary": "While it's far from confirmation, Stellar Blade's developers have given TheGamer some hope that a Switch 2 port of Blood Rain could become a reality.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/stellar-blade-devs-admit-switch-2-port-will-definitely-help-for-the-sequel/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/06/screenshot-3763.png",
+    "published_at": "2026-09-01T11:01:24.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "703a412140fc",
+    "slug": "bit-reactor-furloughs-staff-amid-star-wars-zero-company-launch",
+    "headline": "Bit Reactor Furloughs Staff Amid Star Wars Zero Company Launch",
+    "summary": "Bit Reactor studio behind Star Wars: Zero Company, has quietly furloughed most of its staff just before the game's launch.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/the-studio-behind-hit-new-star-wars-game-zero-company-quietly-furloughed-most-staff-just-before-launch"
+      },
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/despite-star-wars-zero-companys-strong-launch-the-dev-hasnt-been-doing-great"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/08/25/dexb0otbt4smkiweazwpj-6ku-vp1n8bkfwscmpvyay-1787691724080.jpeg",
+    "published_at": "2026-09-01T11:00:00.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "star-wars-zero-company",
+    "game_label": "Star Wars: Zero Company"
+  },
+  {
+    "id": "f66bf5e5e154",
+    "slug": "dwarf-fortress-creator-slams-industry-over-ai-and-layoffs",
+    "headline": "Dwarf Fortress Creator Slams Industry Over AI and Layoffs",
+    "summary": "Tyranny of AI and layoff-happy CEOs is 'making game developers psychotic', says Dwarf Fortress creator",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/KvWJPNxLA8PMtikw8FwPuc-1280-80.png",
+    "published_at": "2026-09-01T10:55:32.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "adb4f1af5d13",
+    "slug": "cd-projekt-red-powerless-regarding-ps5-disc-edition-of-the-witcher-4-b",
+    "headline": "CD Projekt Red powerless regarding PS5 disc edition of The Witcher 4, but promises a game box with \"feelies\" whatever happens",
+    "summary": "CD Projekt Red, as influential as it is, has said it cannot do anything to guarantee a PlayStation 5 disc-based edition of The Witcher 4 when the game is released in 2028. It is, joint joint-CEO Michał Nowakowski said, at the mercy of Sony's manufacturing factories.\n Read more",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/witcher-4-physical-edition-disc-ps5"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/witcher-4-ciri-disc-playstation.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-01T10:42:51.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "eb1244ac635f",
+    "slug": "fable-system-requirements-seem-reasonable-but-with-a-30-fps-target-and",
+    "headline": " Fable system requirements seem reasonable but with a 30 fps target and no mention of upscaling it's hard to say for sure ",
+    "summary": "And you may want to make some on your SSD too.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/fable-system-requirements-seem-reasonable-but-with-a-30-fps-target-and-no-mention-of-upscaling-its-hard-to-say-for-sure/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/3zj58MzU2JzHH4wrPqkN7W-1280-80.png",
+    "published_at": "2026-09-01T10:40:56.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "677c530b69aa",
+    "slug": "nekome-nazi-hunter-is-about-gleefully-butchering-fascists-in-germany-a",
+    "headline": " Nekome: Nazi Hunter is about gleefully butchering fascists in Germany and America, but its devs swear it's not political ",
+    "summary": "Nekome is an interesting, politically bold game, even if its studio tried to convince me it isn't.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/action/nekome-nazi-hunter-is-about-gleefully-butchering-fascists-in-germany-and-america-but-its-devs-swear-its-not-political/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/8F5erQdL69Gr23nfpAAPfd-1280-80.jpg",
+    "published_at": "2026-09-01T10:39:47.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "cb875ba267e0",
+    "slug": "gamescom-2026-attendance-rose-6-to-368000-visitors",
+    "headline": "Gamescom 2026 attendance rose 6% to 368,000 visitors",
+    "summary": "Gamescom 2026 attracted 368,000 visitors from 131 countries, a 6% increase over the previous year.\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/gamescom-2026-attendance-rose-6-to-368000-visitors"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/gamescom-2026-booths-3.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-01T10:32:51.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "90093130b775",
+    "slug": "after-being-ditched-by-xbox-double-fine-says-itll-make-brutal-legend-2",
+    "headline": "After Being Ditched by Xbox, Double Fine Says It'll Make Brütal Legend 2 If Its Amnesia Fortnight 2026 Kickstarter Raises an Impossible-Sounding $100 Million",
+    "summary": "Psychonauts and Costume Quest maker Double Fine has launched its new game development Kickstarter project after cutting ties with Xbox, and says it'll make Brütal Legend 2 if it raises an impossible-sounding $100 million.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/after-being-ditched-by-xbox-double-fine-says-itll-make-brtal-legend-2-if-its-amnesia-fortnight-2026-kickstarter-raises-an-impossible-sounding-100-million"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/01/brutal-legend-xbox-1788257628884.jpeg",
+    "published_at": "2026-09-01T10:19:59.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0b67299d5762",
+    "slug": "once-youre-done-watching-sonys-ps5-state-of-play-konami-has-a-presenta",
+    "headline": "Once You're Done Watching Sony's PS5 State of Play, Konami Has a Presentation of Its Own",
+    "summary": "Konami Press Start. If you were sitting there thinking, \"Two State of Play presentations just isn't enough gaming news for one day,\" I have some great news: Konami doesn't think so either. The Japanese publisher has announced its own broadcast, Konami Press Start, and it airs the very same day as Sony's State of Play double bill. Read the full…",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/once-youre-done-watching-sonys-ps5-state-of-play-konami-has-a-presentation-of-its-own"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/5e8d7b50f0e47/large.jpg",
+    "published_at": "2026-09-01T10:15:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d09c719979a0",
+    "slug": "round-up-the-reviews-for-orbitals-on-switch-2-are-in",
+    "headline": "Round Up: The Reviews For Orbitals On Switch 2 Are In",
+    "summary": "A new co-op king? The review embargo for Orbitals has lifted, so we're starting to see a bunch of verdicts making their way online ahead of its Switch 2 launch on 3rd September 2026. Now, we thought it was a cracking co-op experience, and so we awarded Orbitals a score of 9/10. Here's a snippet of what reviewer Nathan Ellingsworth…",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/round-up-the-reviews-for-orbitals-on-switch-2-are-in"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/f4d00d08d130d/large.jpg",
+    "published_at": "2026-09-01T10:15:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "f5bed17eef6a",
     "slug": "pokemon-go-reveals-two-gen-9-pokemon-for-september-event",
     "headline": "Pokemon GO Reveals Two Gen 9 Pokemon for September Event",
@@ -126,23 +707,23 @@
     "game_label": "The Witcher 3: Songs of the Past"
   },
   {
-    "id": "255298f61fea",
-    "slug": "xbox-disc-to-digital-works-on-delisted-games",
-    "headline": "Xbox Disc-To-Digital Works On Delisted Games",
-    "summary": "Xbox Insiders have discovered new disc-to-digital feature lets them obtain digital licenses for delisted games.",
+    "id": "6ad289fca697",
+    "slug": "five-new-xbox-games-are-out-today-including-septembers-first-game-pass",
+    "headline": "Five New Xbox Games Are Out Today, Including September's First Game Pass Release",
+    "summary": "Wake up, September's here! It's the first day of September, which means we've entered a fresh month of new titles and Xbox Game Pass releases! Of the five games launching today, we've got our eye on Crimson Moon, a superhuman hack n' slasher playable solo or in co-op with your mates. We particularly enjoy the crunchy-gory aesthetic, so it's one…",
     "category": "releases",
     "platform_tags": [
       "xbox"
     ],
     "sources": [
       {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/xbox-disc-to-digital-delisted-games/"
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/five-new-xbox-games-are-out-today-including-septembers-first-game-pass-release"
       }
     ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/new-project-2026-09-01t104202-705.jpg",
-    "published_at": "2026-09-01T09:56:36.000Z",
-    "hype_signal": 20,
+    "image_url": "https://images.purexbox.com/b39aafb678024/large.jpg",
+    "published_at": "2026-09-01T10:00:00.000Z",
+    "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -195,33 +776,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "703a412140fc",
-    "slug": "bit-reactor-furloughs-staff-amid-star-wars-zero-company-launch",
-    "headline": "Bit Reactor Furloughs Staff Amid Star Wars Zero Company Launch",
-    "summary": "Bit Reactor studio behind Star Wars: Zero Company, has quietly furloughed most of its staff just before the game's launch.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/the-studio-behind-hit-new-star-wars-game-zero-company-quietly-furloughed-most-staff-just-before-launch"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/25/dexb0otbt4smkiweazwpj-6ku-vp1n8bkfwscmpvyay-1787691724080.jpeg",
-    "published_at": "2026-09-01T09:34:56.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "star-wars-zero-company",
-    "game_label": "Star Wars: Zero Company"
   },
   {
     "id": "9dd29cb20190",
@@ -816,27 +1370,6 @@
     "image_url": "https://picsum.photos/seed/7bf2ea83009e/800/600",
     "published_at": "2026-09-01T04:16:21.000Z",
     "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d3505a80ccf1",
-    "slug": "studio-behind-the-best-reviewed-star-wars-game-in-22-years-furloughed",
-    "headline": "Studio Behind The Best-Reviewed Star Wars Game In 22 Years Furloughed Up To 80 Percent Of Its Staff",
-    "summary": "The cofounders of Bit Reactor are embroiled in an ugly lawsuit",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/studio-behind-the-best-reviewed-star-wars-game-in-22-years-furloughed-up-to-80-percent-of-its-staff-2000730078"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/08/ss_68d5acedd1b34badb379215eaf2bd0af3f43c3b1.1920x1080-1280x720.jpg",
-    "published_at": "2026-09-01T04:09:03.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4084,534 +4617,6 @@
     ],
     "image_url": "https://assetsio.gnwcdn.com/ss_7cdcadb9a1cd1fb753d380762a3ff6485b74e1ce.1920x1080.jpg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-08-31T14:11:33.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ed016dfa158e",
-    "slug": "aggressively-selling-ps5s-isnt-needed-as-sony-focuses-on-making-more-f",
-    "headline": "“Aggressively” Selling PS5s Isn’t Needed, As Sony Focuses On Making More From Existing Owners",
-    "summary": "This November will mark the sixth anniversary of the PlayStation 5 console's launch, but in the years since its arrival, the gaming market has changed dramatically. The trend of consoles becoming cheaper over time has vanished this generation, as the PS5 now costs more today than it did in 2020, and the expectation is that Sony's hardware sales could slow…",
-    "category": "deals",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/aggressively-selling-ps5s-isnt-needed-as-sony-focuses-on-making-more-from-existing-owners/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/PS5-consoles.jpg?w=300",
-    "published_at": "2026-08-31T14:07:41.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5d31c599a740",
-    "slug": "fable-reboots-main-story-is-about-20-hours-long-dev-says",
-    "headline": "Fable Reboot’s Main Story Is About 20 Hours Long, Dev Says",
-    "summary": "The upcoming Fable reboot from developer Playground Games will have a main story that should take about 15-20 hours to complete, the developers have stated. However, as with any game, your mileage may vary, and Playground believes the new Fable game can be played forever if players want to. Associate game director Will Kennedy told Polygon, \"We have around 15-20…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/fable-reboots-main-story-is-about-20-hours-long-dev-says/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/fablereboot.jpg?w=300",
-    "published_at": "2026-08-31T14:02:46.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d750407af7ba",
-    "slug": "fable-features-5-difficulty-levels",
-    "headline": "Fable Features 5 Difficulty Levels",
-    "summary": "The upcoming release of Fable from Playground Games gives fans their first look at its difficulty levels and options.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/fable-2026-difficulty/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/fable-jack-of-blades-return-dangerous.jpg",
-    "published_at": "2026-08-31T14:00:12.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8f6a22ae6d5a",
-    "slug": "stranger-than-heavens-explorable-cities-offer-the-highest-density-in-r",
-    "headline": "Stranger Than Heaven’s explorable cities offer the highest density in RGG Studio’s history, devs say",
-    "summary": "Players can expect far more enterable buildings than in Like a Dragon games.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/stranger-than-heavens-explorable-cities-offer-the-highest-density-in-rgg-studios-history-devs-say/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/8f6a22ae6d5a/800/600",
-    "published_at": "2026-08-31T14:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "89939fa67601",
-    "slug": "review-moonlighter-2-the-endless-vault-switch-2-shopkeeping-dungeon-cr",
-    "headline": "Review: Moonlighter 2: The Endless Vault (Switch 2) - Shopkeeping Dungeon Crawler Returns With Big Changes, But The Same Addictive Loop",
-    "summary": "Just one more shift. 2018's Moonlighter was one of the life-sim hybrids released in the wake of notorious time thief, Stardew Valley. The core loop of a day/night cycle and an ever-expanding list of activities to tick off is an age-old formula for getting oneself buried in an experience. Digital Sun added a compelling hook by having Will, a would-be…",
-    "category": "reviews",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/moonlighter-2-the-endless-vault"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/d824ba4118e9e/large.jpg",
-    "published_at": "2026-08-31T14:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0db0279498da",
-    "slug": "playstation-state-of-play-officially-returns-this-week",
-    "headline": "PlayStation State of Play Officially Returns This Week",
-    "summary": "Sony will stream a new PlayStation State of Play livestream on Thursday, Sept. 3, with a look at what's new for PS5 in the lead up to Tokyo Game Show.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/playstation-state-of-play-returns-this-week/"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/sony-confirms-2-playstation-state-of-play-presentations-for-this-week"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24674044/playstation_showcase_may_2023_logo.jpg",
-    "published_at": "2026-08-31T13:38:52.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f3cd997386e3",
-    "slug": "gta-6-looks-like-gta-5-youre-out-of-your-mind-gta-actor-says",
-    "headline": "GTA 6 Looks Like GTA 5? You're Out of Your Mind, GTA Actor Says",
-    "summary": "Ned Luke, the actor from GTA 5, disagrees with those who think GTA 6 resembles GTA 5, calling the criticism 'baloney'",
-    "category": "industry",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gta-6-looks-like-gta-5-youre-out-of-your-mind-gta-actor-says/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Jason_and_Lucia_03.jpg?w=300",
-    "published_at": "2026-08-31T13:34:09.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-5",
-    "game_label": "Grand Theft Auto 5"
-  },
-  {
-    "id": "e5c85c9c4498",
-    "slug": "housemarque-co-founder-ilari-kuittinen-steps-down-after-31-years",
-    "headline": "Housemarque Co-Founder Ilari Kuittinen Steps Down After 31 Years",
-    "summary": "Housemarque, the developer behind games like Twin Stick Heroes and Nex Machina, has announced that co-founder and managing director Ilari Kuittinen is leaving the studio after 31 years",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/08/housemarque-co-founder-ilari-kuittinen-steps-down-after-31-years"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/e5c85c9c4498/800/600",
-    "published_at": "2026-08-31T13:33:28.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "nex-machina",
-    "game_label": "Nex Machina"
-  },
-  {
-    "id": "e989c991c51f",
-    "slug": "south-park-the-stick-of-truth-is-the-funniest-game-ive-ever-played",
-    "headline": "South Park: The Stick of Truth Is the Funniest Game I’ve Ever Played",
-    "summary": "IGN praises South Park: The Stick of Truth as a hilarious and engaging RPG that has aged well despite its 2014 release",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/south-park-the-stick-of-truth-is-the-funniest-game-ive-ever-played"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/26/image-1787783843056.png",
-    "published_at": "2026-08-31T13:32:00.000Z",
-    "hype_signal": 90,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "south-park-the-stick-of-truth",
-    "game_label": "South Park: The Stick of Truth"
-  },
-  {
-    "id": "0ff8298baea9",
-    "slug": "the-battle-of-olympus-returns-as-38-year-old-nes-platformer-gets-steam",
-    "headline": "The Battle of Olympus Returns as 38-Year-Old NES Platformer Gets Steam Remake",
-    "summary": "A classic NES platformer is getting a remake on Steam, developed by its original creators, who are releasing it as their final major game project",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/action/a-38-year-old-nes-platformer-is-getting-a-steam-remake-by-its-original-husband-and-wife-team-as-the-pairs-final-major-game-product/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/vyVXk3chAtrYHSHZCxurkQ-1280-80.jpg",
-    "published_at": "2026-08-31T13:30:38.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-battle-of-olympus",
-    "game_label": "The Battle of Olympus"
-  },
-  {
-    "id": "b51d948ed3a4",
-    "slug": "near-perfect-strategy-rpgs-you-forgot-exist",
-    "headline": "Near-Perfect Strategy RPGs You Forgot Exist",
-    "summary": "Unearth these hidden strategy RPG classics, featuring intense turn-based tactics, rich progression and gut-wrenching choices for serious strategy fans",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/near-perfect-strategy-rpg-games-underrated-you-forgot-exist/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/near-perfect-strategy-rpgs-you-forgot-exist.jpg",
-    "published_at": "2026-08-31T13:30:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f471329b2200",
-    "slug": "burger-king-is-getting-a-dragon-ball-crossover",
-    "headline": "Burger King Is Getting A 'Dragon Ball' Crossover",
-    "summary": "Burger King is teaming up with Dragon Ball to offer a limited-time menu, featuring a 'Dragon Ball' sauce, toys, and a special boba drink. The collaboration is part of a marketing push for Dragon Ball's new movie release.",
-    "category": "deals",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/dragon-ball-burger-king-crossover/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/dragon-ball-super-goku-red-hair.png",
-    "published_at": "2026-08-31T13:26:13.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2c875e1cec78",
-    "slug": "helldivers-2s-first-great-competitor-is-officially-coming-from-the-dea",
-    "headline": "Helldivers 2's First Great Competitor Is Officially Coming From the Dead by Daylight Devs",
-    "summary": "Behaviour Interactive's upcoming game Exterminauts shares similarities with Helldivers 2, according to a demo at Gamescom",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/exterminauts-preview-gamescom-2026/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/exterminauts-preview-gamescom-1.jpg",
-    "published_at": "2026-08-31T13:22:29.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "exterminauts",
-    "game_label": "Exterminauts"
-  },
-  {
-    "id": "85b490912396",
-    "slug": "how-arc-raiders-devs-managed-rollercoaster-of-hyper-growth-player-decl",
-    "headline": "How ARC Raiders devs managed rollercoaster of hyper growth, player declines — and then slow cooked a major update | Aleksander Grøndal interview",
-    "summary": "ARC Raiders has been a rare success in new gaming intellectual properties. Wedged in between the launches of Battlefield 6 last fall and Call...\nThe post How ARC Raiders devs managed rollercoaster of hyper growth, player declines — and then slow cooked a major update | Aleksander Grøndal interview appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/how-arc-raiders-devs-dealt-with-the-rollercoaster-of-hyper-growth-player-abandonment-and-then-slow-cooked-a-major-update-aleksander-grondal-interview/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/85b490912396/800/600",
-    "published_at": "2026-08-31T13:15:00.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "393a2f44ffa2",
-    "slug": "sony-unveils-dual-state-of-play-event-for-playstation-fans",
-    "headline": "Sony Unveils Dual State of Play Event for PlayStation Fans",
-    "summary": "Sony has announced two upcoming State of Play events for its PlayStation brand, giving fans a glimpse into the company's latest plans.",
-    "category": "industry",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/sony-playstation-state-of-play-when-september-2026/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/playstation-state-of-play-sept-2026.jpg",
-    "published_at": "2026-08-31T13:14:45.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4c32e8da6031",
-    "slug": "star-wars-zero-company-cut-content-restored-by-fans",
-    "headline": "Star Wars: Zero Company Cut Content Restored By Fans",
-    "summary": "A week after its release, a Star Wars: Zero Company fan has restored some of the game's cut missions, highlighting the power of community engagement.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/star-wars-zero-company-cut-content-restored/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/08/trick-in-star-wars-zero-company-looking-at-the-holotable-holding-his-arms-out.jpg",
-    "published_at": "2026-08-31T13:03:26.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "star-wars-zero-company",
-    "game_label": "Star Wars: Zero Company"
-  },
-  {
-    "id": "c0c64ec2a46a",
-    "slug": "feature-five-new-xbox-games-are-releasing-today-plus-augusts-final-gam",
-    "headline": "Feature: Five New Xbox Games Are Releasing Today, Plus August's Final Game Pass Addition",
-    "summary": "Something cosy, something serious. It's the final day of the August, which means today's games are the last of the month, so we thought we'd whip 'em up for you to have a look at. Xbox Game Pass has had a rather wobbly August, offering comparatively little for Ultimate subscribers compared to previous months, and it seems Microsoft wants to…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/features/five-new-xbox-games-are-releasing-today-plus-augusts-final-game-pass-addition"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/029a5fc9a1393/large.jpg",
-    "published_at": "2026-08-31T13:03:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "200b052dea67",
-    "slug": "stellar-blade-switch-2-hands-on-preview",
-    "headline": "Stellar Blade Switch 2 Hands-On Preview",
-    "summary": "TheGamer previewed the upcoming Switch 2 port of Stellar Blade at Gamescom, finding it mostly impressive",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/stellar-blade-switch-2-hands-on-preview/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/sb_ns2_gamescom_gameplay_screenshots_05.png",
-    "published_at": "2026-08-31T13:00:15.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "stellar-blade",
-    "game_label": "Stellar Blade"
-  },
-  {
-    "id": "69e34caaaa7f",
-    "slug": "why-daenerys-targaryen-was-recast-in-game-of-thrones",
-    "headline": "Why Daenerys Targaryen Was Recast in Game of Thrones",
-    "summary": "Emilia Clarke may have made Daenerys Targaryen an iconic character, but she was not HBO's first choice to play Dany in Game of Thrones.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/why-daenerys-recast-game-of-thrones-explained/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/12/daenerys-in-qarth.jpg",
-    "published_at": "2026-08-31T13:00:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "540e3cd9ecd8",
-    "slug": "dragons-dogma-2-dlc-devs-faced-diametrically-opposed-feedback-from-pla",
-    "headline": "Dragon's Dogma 2 DLC devs faced 'diametrically opposed' feedback from players in West and Japan",
-    "summary": "The developers of Dragon's Dogma 2's DLC received vastly different feedback from players in the West and Japan regarding mechanics that introduce friction.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/dragons-dogma-2-dlc-devs-faced-diametrically-opposed-feedback-from-players-in-the-west-and-japan/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/540e3cd9ecd8/800/600",
-    "published_at": "2026-08-31T13:00:00.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "dragons-dogma-2",
-    "game_label": "Dragon's Dogma 2"
-  },
-  {
-    "id": "40e1dbe25c8a",
-    "slug": "stellar-blade-complete-edition-coming-to-nintendo-switch-2-in-2026",
-    "headline": "Stellar Blade: Complete Edition Coming to Nintendo Switch 2 in 2026",
-    "summary": "A gameplay preview and developer interview for the action-adventure game Stellar Blade: Complete Edition are shared ahead of its Nintendo Switch 2 release",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/what-it-took-to-bring-stellar-blade-complete-edition-to-nintendo-switch-2-over-five-minutes-of-gameplay-gamescom-2026"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/31/stekka-1788154377457.png",
-    "published_at": "2026-08-31T13:00:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "stellar-blade-complete-edition",
-    "game_label": "Stellar Blade: Complete Edition"
-  },
-  {
-    "id": "ca941c1a803d",
-    "slug": "stellar-blade-and-lies-of-p-really-made-developers-in-korea-take-up-th",
-    "headline": " Stellar Blade and Lies of P \"really made developers in Korea take up the challenge for console games,\" says Shift Up technical director ",
-    "summary": "\"And we have Crimson Desert now as well\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/action-rpg/stellar-blade-and-lies-of-p-really-made-developers-in-korea-take-up-the-challenge-for-console-games-says-shift-up-technical-director/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/XGGDPgjYDGrQ3M35nqULJk-1280-80.jpg",
-    "published_at": "2026-08-31T13:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "81f510187b63",
-    "slug": "persona-4-revival-doesnt-add-gay-romance-despite-fan-demand",
-    "headline": "Persona 4 Revival Doesn't Add Gay Romance, Despite Fan Demand",
-    "summary": "Yo-Yosuke. Some fans of Persona 4 have been pushing a Yosuke romance route for decades, but Atlus' series continues to shy away from including gay relationships. For many, upcoming remake Persona 4 Revival presented the perfect opportunity: the Japanese developer could acknowledge the demand for gay romance by finally allowing players to confess their feelings to Yosuke. Read the full…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/08/persona-4-revival-doesnt-add-gay-romance-despite-fan-demand"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/953e85efa083a/large.jpg",
-    "published_at": "2026-08-31T13:00:00.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
