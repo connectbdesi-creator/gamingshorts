@@ -5951,5 +5951,51 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-01T15:09:31.508Z"
+  },
+  {
+    "slug": "xbox-game-pass",
+    "name": "Xbox Game Pass",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/caa/caaf57d8f29f88b32fa01833a85d2cd5.jpg",
+    "released": "2018-11-09",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "iOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d35/d35f0dbe5874a3aa83b4805466e5a93d.jpg",
+      "https://media.rawg.io/media/screenshots/3d9/3d9b28b0043dc0c9ede6ef55d16f27da.jpg",
+      "https://media.rawg.io/media/screenshots/c3f/c3fe15d616b213ebfc7508976b1d0d56.jpg",
+      "https://media.rawg.io/media/screenshots/caa/caaf57d8f29f88b32fa01833a85d2cd5.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-01T16:37:31.330Z"
+  },
+  {
+    "slug": "halloween-the-game",
+    "name": "Hallow.in - Halloween Game",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/94d/94d87ac2e1b87b6122252019161890ae_DFKxKZ0.jpg",
+    "released": "2016-11-15",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Arcade",
+      "Action"
+    ],
+    "platforms": [
+      "iOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/0ab/0abf90304a1ad7e105cd1186968a19e7_EsEQXJI.jpg",
+      "https://media.rawg.io/media/screenshots/5fd/5fde2372cae7a8bb349a8008b123573e.jpg",
+      "https://media.rawg.io/media/screenshots/b63/b63ffe9f312bd76612833038fbb5716f.jpg",
+      "https://media.rawg.io/media/screenshots/9a7/9a76b85db5383f977e48cacd812e1296_YXlTueu.jpg",
+      "https://media.rawg.io/media/screenshots/94d/94d87ac2e1b87b6122252019161890ae_DFKxKZ0.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-01T16:37:31.929Z"
   }
 ]
