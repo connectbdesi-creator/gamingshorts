@@ -5578,5 +5578,87 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-01T06:07:37.559Z"
+  },
+  {
+    "slug": "skyblivion",
+    "name": "The Elder Scrolls Renewal: Skyblivion (TES Renewal)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/d92/d926a8626a68fa0bca41b5b5294e3a59.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/6b5/6b571bb5fc822246b8b41f343d10e6b5.jpg",
+      "https://media.rawg.io/media/screenshots/80d/80df6fc1b9d8a5fd529b2812d279d829.jpg",
+      "https://media.rawg.io/media/screenshots/c5b/c5becf6ed3fcbdce33aabbe7e0704bd7.jpg",
+      "https://media.rawg.io/media/screenshots/c9a/c9a2c995f211cccd4315907cedf344aa.jpg",
+      "https://media.rawg.io/media/screenshots/78a/78a81acafdd87879f2942c4e98114b49.jpg",
+      "https://media.rawg.io/media/screenshots/ffb/ffb43ce04ce453647e5dbaf8f02b63c6.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-01T10:08:30.994Z"
+  },
+  {
+    "slug": "refantazio",
+    "name": "Metaphor: ReFantazio",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/2cd/2cd2467a32aaaed0bdeb192c2831cfe0.jpg",
+    "released": "2024-10-11",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/00d/00db77cb5bf94819884fd016792e36f8.jpeg",
+      "https://media.rawg.io/media/screenshots/a7f/a7f3f8405fe9e1bdf4920f59488c507d.jpeg",
+      "https://media.rawg.io/media/screenshots/260/260e8f1450b3cf503862f85ed9aa11bb.jpeg",
+      "https://media.rawg.io/media/screenshots/c92/c92fc265f264e46df233974627e337ba.jpeg",
+      "https://media.rawg.io/media/screenshots/ae5/ae54ee834be6f6dc96b87346469d5601.jpeg",
+      "https://media.rawg.io/media/screenshots/276/27639b5c30869c02b798b9610f25dcfd.jpeg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-01T10:08:31.633Z"
+  },
+  {
+    "slug": "wonder-woman",
+    "name": "Wonder Woman",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/a8b/a8b0bfe9013bec7bafcf6b124d63eefb.jpg",
+    "released": "2021-12-05",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/591/59183fece8914c4156bc25b771d2ed7e.jpg",
+      "https://media.rawg.io/media/screenshots/8f0/8f0e2b1eac8fbf38b639a4fad781a8c3.jpg",
+      "https://media.rawg.io/media/screenshots/e87/e8741a21f579fccd5fbf72846d1e0d5f.jpg",
+      "https://media.rawg.io/media/screenshots/7de/7debbfdd6e316d8c3825ebccf24daf71.jpg",
+      "https://media.rawg.io/media/screenshots/a8b/a8b0bfe9013bec7bafcf6b124d63eefb.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-01T10:08:32.456Z"
   }
 ]
