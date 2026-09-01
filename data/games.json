@@ -5469,5 +5469,36 @@
     ],
     "stores": [],
     "fetched_at": "2026-08-31T21:57:52.981Z"
+  },
+  {
+    "slug": "overwatch",
+    "name": "Overwatch",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/4ea/4ea507ceebeabb43edbc09468f5aaac6.jpg",
+    "released": "2016-05-24",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Casual",
+      "Shooter",
+      "Massively Multiplayer",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/879/8794242f393b3258e97b690a4138d056.jpg",
+      "https://media.rawg.io/media/screenshots/9b0/9b060d7b7d606cc3717face57c9f0910.jpg",
+      "https://media.rawg.io/media/screenshots/e41/e4141f6ea03587e73f69bbe6cd2c208b.jpg",
+      "https://media.rawg.io/media/screenshots/e8d/e8d281e3bf2c0a91a4576c8ed563983b.jpg",
+      "https://media.rawg.io/media/screenshots/d81/d81886c7a27ef73a495492eeaf71a742.jpg",
+      "https://media.rawg.io/media/screenshots/630/630c8a1234a453167bd7dc18db5e0d80.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-01T00:08:05.004Z"
   }
 ]
