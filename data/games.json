@@ -6106,5 +6106,30 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-02T02:07:47.964Z"
+  },
+  {
+    "slug": "ridge-racer",
+    "name": "Ridge Racer (1995)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/b3d/b3d7f11d44dcdcf08f0be0ded8a51cfb.jpg",
+    "released": "1995-09-09",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PlayStation"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/07d/07d40eb5cb8182495174311b91032848.jpg",
+      "https://media.rawg.io/media/screenshots/592/59244fe63de67f87bc943c36eb7c500a.jpg",
+      "https://media.rawg.io/media/screenshots/2e7/2e75c4fb25043b49e5b2682c5a0022e9.jpg",
+      "https://media.rawg.io/media/screenshots/4c9/4c9c1faa69cb16f4addda17507dc5179.jpg",
+      "https://media.rawg.io/media/screenshots/c3e/c3e2b174e3ada3ab06eeea73800ffcfa.jpg",
+      "https://media.rawg.io/media/screenshots/86e/86e6c843bbe4cbb40ed48170a2df6a69.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-02T04:06:54.436Z"
   }
 ]
