@@ -6161,5 +6161,64 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-02T06:07:33.183Z"
+  },
+  {
+    "slug": "hogwarts-legacy",
+    "name": "Hogwarts Legacy",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/044/044b2ee023930ca138deda151f40c18c.jpg",
+    "released": "2023-02-10",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/723/7230cc1be966c19d2470a19d277b31e9.jpg",
+      "https://media.rawg.io/media/screenshots/8d4/8d43231c67e82914891ac81c4a413d12.jpg",
+      "https://media.rawg.io/media/screenshots/9c4/9c48270e9f6b1cdc6e2fa92c0f7a1da8.jpg",
+      "https://media.rawg.io/media/screenshots/057/057e7fffd4798fdb336e6aaca40204ba.jpg",
+      "https://media.rawg.io/media/screenshots/f35/f35c6bcc541808298288ba49e50c37d5.jpg",
+      "https://media.rawg.io/media/screenshots/fc6/fc6f976e1dd7225e4818b9f553ed23c0.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-02T10:08:22.874Z"
+  },
+  {
+    "slug": "dungeons-dragons",
+    "name": "Dungeons & Dragons: Daggerdale",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/d10/d10c6f31e9649000be74972a04ef29ad.jpg",
+    "released": "2011-05-24",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c7f/c7f480eb09d2bd3245421efbcbf93c13.jpg",
+      "https://media.rawg.io/media/screenshots/64d/64dd252ff6fc2ed2e6a675ca7cfc3598.jpg",
+      "https://media.rawg.io/media/screenshots/84c/84cbe758d76c0fe118507884673bc506.jpg",
+      "https://media.rawg.io/media/screenshots/173/173ea9660f96b8bd099da07f2cd21af5.jpg",
+      "https://media.rawg.io/media/screenshots/b5c/b5c460920157d2143adab576bb9220f0.jpg",
+      "https://media.rawg.io/media/screenshots/df1/df187995485b1ec9f69e2a7d9fb80866.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-02T10:08:23.548Z"
   }
 ]
