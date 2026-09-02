@@ -6329,5 +6329,79 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-02T12:08:38.025Z"
+  },
+  {
+    "slug": "tomb-raider-legacy-of-atlantis",
+    "name": "Tomb Raider: Legacy of Atlantis",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/800/80071c998f39d56db9e18d27fd558b97.jpg",
+    "released": "2027-02-12",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/800/80071c998f39d56db9e18d27fd558b97.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-02T14:09:42.450Z"
+  },
+  {
+    "slug": "sleeping-dogs",
+    "name": "Sleeping Dogs",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/3d9/3d9bac98d79bcd2d445f829e8d6be902.jpg",
+    "released": "2012-08-14",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c1b/c1bed5e437aee38b17f1776eda423ac9.jpg",
+      "https://media.rawg.io/media/screenshots/bf9/bf990dd74de290ddabecb55fdf55051e.jpg",
+      "https://media.rawg.io/media/screenshots/9eb/9eb1aeebb31b148c0a300596bea9386d.jpg",
+      "https://media.rawg.io/media/screenshots/0bf/0bfd9229344aabf448d44f3504879b00.jpg",
+      "https://media.rawg.io/media/screenshots/fd4/fd41d3927f501690be2ddcd155b054a3.jpg",
+      "https://media.rawg.io/media/screenshots/05f/05f497a27b26113b13cd698ddc9d9c2b.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-02T14:09:43.286Z"
+  },
+  {
+    "slug": "denari",
+    "name": "Denari Combat Demo",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/a7b/a7b7b74caed9cf0c21c6a713d4943cac.jpg",
+    "released": "2019-10-25",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/021/02113f6ac76c7a71615eae61c9100f53.jpg",
+      "https://media.rawg.io/media/screenshots/e8b/e8b878062833bf540019869fe72999b8.jpg",
+      "https://media.rawg.io/media/screenshots/805/805f2ca21fd3f85b3debc7c8a34e0395.jpg",
+      "https://media.rawg.io/media/screenshots/ccb/ccb921bf5d914655ff72c1aeded5ce71.jpg",
+      "https://media.rawg.io/media/screenshots/a7b/a7b7b74caed9cf0c21c6a713d4943cac.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-02T14:09:44.738Z"
   }
 ]
