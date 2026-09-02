@@ -1,5 +1,398 @@
 [
   {
+    "id": "b285e6f7ecf4",
+    "slug": "a-witcher-3-dev-reflects-on-its-most-memorable-quest",
+    "headline": "A Witcher 3 Dev Reflects On Its Most Memorable Quest",
+    "summary": "The designer of a memorable quest in The Witcher 3: Wild Hunt shares their thoughts on what went right and wrong 11 years after its creation.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/a-witcher-3-dev-reflects-on-its-most-memorable-quest-the-bloody-baron-quest-i-made-so-many-mistakes-2000730612"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/witcher-3-1280x720.jpg",
+    "published_at": "2026-09-02T21:45:01.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
+    "id": "cdcaf9675a0a",
+    "slug": "gta-online-players-trying-to-move-to-gta-6-online-to-be-a-mess-for-roc",
+    "headline": "GTA Online Players Trying to Move to GTA 6 Online to Be 'a Mess' for Rockstar",
+    "summary": "Valve veteran believes Rockstar will struggle to manage player migration from GTA Online to GTA 6 Online, leading to potential issues for the company.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/getting-gta-online-players-to-move-on-to-gta-6-online-is-going-to-be-a-mess-for-rockstar-valve-veteran-says/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/QLpazr6y5eHDC7b3SDFkkh-1280-80.jpg",
+    "published_at": "2026-09-02T21:37:47.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto",
+    "game_label": "Grand Theft Auto"
+  },
+  {
+    "id": "ff20850942d2",
+    "slug": "game-of-thrones-the-blood-of-the-dragon-officially-announced",
+    "headline": "Game of Thrones: The Blood of the Dragon Officially Announced",
+    "summary": "A new Game of Thrones game is in development, expanding on the universe started by the hit series",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/game-of-thrones-got-blood-dragon-september-2026/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/game-of-thrones-blood-of-the-dragon.jpg",
+    "published_at": "2026-09-02T21:30:12.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f5bbbdc4138a",
+    "slug": "resident-evil-2-director-says-capcom-is-making-current-resident-evil-g",
+    "headline": "Resident Evil 2 Director Says Capcom Is Making Current Resident Evil Games Too Damn Scary",
+    "summary": "Mood, MOOD!",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/resident-evil-too-scary-resident-evil-2-hideki-kamiya-2000730624"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2024/05/75ce5c0109c9b51e3fb6b72e1a94160d.jpg",
+    "published_at": "2026-09-02T21:15:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "4b53ff7fa300",
+    "slug": "devil-may-cry-co-creator-understands-why-physical-games-are-dying-but",
+    "headline": " Devil May Cry co-creator understands why physical games are dying, but wants IP holders to prioritize game preservation ",
+    "summary": "Hideki Kamiya is concerned",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/devil-may-cry-co-creator-understands-why-physical-games-are-dying-but-wants-ip-holders-to-prioritize-game-preservation/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Pq2X98B5cMFbfX9NPmaQch-1280-80.jpg",
+    "published_at": "2026-09-02T21:07:24.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "093a18bb953e",
+    "slug": "stalker-2-devs-on-20-update-engine-overhaul",
+    "headline": "Stalker 2 devs on 2.0 update engine overhaul",
+    "summary": "Stalker 2 developers reveal that their 2.0 update's engine overhaul was a difficult but worthwhile process, ensuring the game's stability and performance.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/fps/can-i-cry-stalker-2-devs-say-its-2-0-updates-engine-overhaul-was-a-nightmare-but-worth-the-effort/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Q9ofEiLhA2V6ngwa4aXG3o-1280-80.jpg",
+    "published_at": "2026-09-02T21:03:29.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "stalker-2",
+    "game_label": "Stalker 2"
+  },
+  {
+    "id": "5d39849a6f71",
+    "slug": "brand-new-simulation-game-on-steam-pulls-uno-reverse-card-on-cairn",
+    "headline": "Brand-New Simulation Game on Steam Pulls Uno Reverse Card on Cairn",
+    "summary": "A new game on Steam looks like the exact opposite of the award-winning mountain-climbing game Cairn, but in a very interesting way.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/steam-games-like-cairn-cave-expedition/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/steam-game-like-cairn-cave-expedition-gamerant.jpg",
+    "published_at": "2026-09-02T21:01:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "56acf00fcb5a",
+    "slug": "new-pubg-game-is-about-hijinks-and-a-beer-with-the-boys",
+    "headline": "New PUBG Game Is About ‘Hijinks’ and ‘A Beer With the Boys’",
+    "summary": "An interview with creative director Dave Curd about PUBG Dednet, a new FPS roguelite set in the battle royale universe.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/pubg-dednet-interview-dave-curd-gamescom-2026/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/dednet_screenshot__partners.jpg",
+    "published_at": "2026-09-02T21:00:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f5e812487a22",
+    "slug": "fans-line-up-for-last-wardogs-beta",
+    "headline": "Fans Line Up for Last Wardogs Beta",
+    "summary": "Wardogs is hosting a final closed beta before launch, prompting developer response",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/fps/30-000-people-line-up-24-hours-early-to-play-the-final-wardogs-closed-beta-developer-responds-you-people-are-crazy/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/8bXdtpmYfKdkTKxbKBQCiX-1280-80.jpg",
+    "published_at": "2026-09-02T20:45:41.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "wardogs",
+    "game_label": "Wardogs"
+  },
+  {
+    "id": "57baa25455ae",
+    "slug": "the-witcher-4-fixing-cyberpunk-2077s-mistakes",
+    "headline": "The Witcher 4 Fixing Cyberpunk 2077's Mistakes",
+    "summary": "The Witcher 4 is expected to learn from Cyberpunk 2077's mistakes, potentially leading to a more polished release, according to sources.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/witcher-4-cyberpunk-2077-xbox-ps5-optimization/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/bazaart_00313758-36f9-4cfb-bbaa-75ccfff6925a.jpeg",
+    "published_at": "2026-09-02T20:45:12.000Z",
+    "hype_signal": 75,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-4",
+    "game_label": "The Witcher 4"
+  },
+  {
+    "id": "ab0bfa78350d",
+    "slug": "rainbow-six-tactics-preview",
+    "headline": "Rainbow Six Tactics Preview",
+    "summary": "During Gamescom 2026, GameRant got to see a behind-closed-doors demo of Rainbow Six Tactics, a single-player spinoff that has some surprising depth.",
+    "category": "reviews",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/rainbow-six-tactics-preview/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/assets_2026_08_1787588744_tcrst_keyart_annoucementgamescom_16x9_1080p_250826_815pm_cest.jpg",
+    "published_at": "2026-09-02T20:43:57.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "430f5df03939",
+    "slug": "judge-dredd-meets-studio-ghibli-in-the-most-exciting-cyberpunk-game-in",
+    "headline": "Judge Dredd Meets Studio Ghibli in the Most Exciting Cyberpunk Game in Years",
+    "summary": "No Law, a 2027 immersive sim from the makers of The Ascent, is completely reimagining the cyberpunk genre, according to a recent preview.",
+    "category": "reviews",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/no-law-preview-gamescom-2026/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/no_law_screenshot_19.png",
+    "published_at": "2026-09-02T20:34:20.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "91201d9b4be7",
+    "slug": "cd-projekt-red-wants-to-hire-50-more-devs-for-its-secret-project-hadar",
+    "headline": " CD Projekt Red wants to hire 50 more devs for its secret Project Hadar \"by the end of this year\" as it starts gameplay prototyping ",
+    "summary": "Otherwise, Hadar is firmly in the concept stage",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/open-world/cd-projekt-red-wants-to-hire-50-more-devs-for-its-secret-project-hadar-by-the-end-of-this-year-as-it-starts-gameplay-prototyping/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/W44EyrZgzMNjCyW5tubgJj-1280-80.jpg",
+    "published_at": "2026-09-02T20:30:51.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2acaf0b9b49b",
+    "slug": "how-to-bring-a-legacy-brand-into-the-future-boss-mode-with-maya-rogers",
+    "headline": "How to bring a legacy brand into the future | BOSS Mode with Maya Rogers",
+    "summary": "As games industry CEOs go, Maya Rogers‘ story is unique. Not only did she grow up with the intellectual property that she now stewards,...\nThe post How to bring a legacy brand into the future | BOSS Mode with Maya Rogers appeared first on GamesBeat.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/how-to-bring-a-legacy-brand-into-the-future-boss-mode-with-maya-rogers/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/2acaf0b9b49b/800/600",
+    "published_at": "2026-09-02T20:22:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "49270f5b9781",
+    "slug": "double-fines-famous-game-jam-returns-with-26-new-ideas-and-a-promise-t",
+    "headline": " Double Fine's famous game jam returns with 26 new ideas and a promise to make Brutal Legend 2, if its Kickstarter stretch goal is met ",
+    "summary": "The Amnesia Fortnight Kickstarter blew past its goal in just two days, but getting a new Brutal Legend is going to be a whole different pile of money",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/double-fines-famous-game-jam-returns-with-26-new-ideas-and-a-promise-to-make-brutal-legend-2-if-its-kickstarter-stretch-goal-is-met/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/9W8a6bdjQxRNHrURwQD6S9-1280-80.jpg",
+    "published_at": "2026-09-02T20:18:29.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "60137f50fac2",
+    "slug": "strategy-and-gameplay-tips-for-warshift-2-machines-of-madness-out-now",
+    "headline": "Strategy and Gameplay Tips for Warshift 2 Machines of Madness, Out Now",
+    "summary": "This is Alexey Menshikov, CEO of Fortell Games, the publisher and we are thrilled to bring game to the XBOX family of devices. We designed the game to support XBOX Play Anywhere, sharing progress and Achievements between consoles, PC or ROG XBOX Ally family devices, and targeting 4k60 FPS on the XBOX Series X, offering […] The post Strategy and…",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/09/02/strategy-and-gameplay-tips-for-warshift-2-machines-of-madness-out-now/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/60137f50fac2/800/600",
+    "published_at": "2026-09-02T20:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d3bcb6b3d21f",
+    "slug": "aggro-crab-joins-indie-game-publishing-scene",
+    "headline": "Aggro Crab Joins Indie Game Publishing Scene",
+    "summary": "Indie game publisher Aggro Crab has been founded by successful game developers, aiming to publish new indie titles",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/aggro-crab-peak-new-indie-publisher-outersloth-bigmode-2000730611"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/PEAK_KeyArt_No_Logo-1280x720.jpg",
+    "published_at": "2026-09-02T19:45:34.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "aggro-crab",
+    "game_label": "Aggro Crab"
+  },
+  {
     "id": "f2f7de5c68a8",
     "slug": "prime-videos-fallout-officially-returns-with-new-game-tie-in-this-week",
     "headline": "Prime Video's Fallout Officially Returns with New Game Tie-in This Week",
@@ -333,6 +726,30 @@
     "comment_count": 0,
     "game": "gta-6",
     "game_label": "GTA 6"
+  },
+  {
+    "id": "6de4d076ba3d",
+    "slug": "blacknut-enters-middle-east-and-north-africa-with-media-ranch-partners",
+    "headline": "Blacknut Enters Middle East and North Africa with Media Ranch Partnership",
+    "summary": "Cloud gaming service Blacknut partners with Media Ranch to expand into the Middle East and North Africa, focusing on carrier-based gaming.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/blacknut-expands-into-middle-east-and-north-africa-with-media-ranch-partnership/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/6de4d076ba3d/800/600",
+    "published_at": "2026-09-02T18:30:28.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "874319e40891",
@@ -4172,421 +4589,6 @@
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/xbox-game-pass-officially-reveals-all-the-new-games-coming-soon-gamerant-feature.jpg",
     "published_at": "2026-09-02T09:00:13.000Z",
     "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0d6c201dbed8",
-    "slug": "ontos-this-horrifying-tantalizing-thriller-feels-like-an-immersive-sim",
-    "headline": "ONTOS: This Horrifying, Tantalizing Thriller Feels Like an Immersive Sim for Puzzle Gaming",
-    "summary": "ONTOS is the kind of game you don’t stop thinking about, even after you’ve turned it off. And not just because it offers you the horrifying reality of the question: “What if a man’s consciousness was stored in a server rack made of rats?” I’ve played its first demo – shown to press and creators […] The post ONTOS: This…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/09/02/ontos-preview-details-demo/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/0d6c201dbed8/800/600",
-    "published_at": "2026-09-02T09:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d9455ae6ac8b",
-    "slug": "no-rest-for-the-wicked-delayed-to-2027-promises-new-beta-and-founders",
-    "headline": "No Rest for the Wicked delayed to 2027, promises new beta and founders packs for early buyers to tide people over",
-    "summary": "No Rest for the Wicked - the upcoming Action RPG from Ori developer Moon Studios - has been delayed into next year. Originally intended to release into version 1.0 in October, it will instead launch in March of 2027.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/no-rest-for-the-wicked-delayed-march-2027"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/No-Rest-for-the-Wicked---The-Breach-_-Official-Trailer-1-10-screenshot.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-02T08:55:25.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "581e2a49e9a8",
-    "slug": "disneyland-halloween-time-2026-review-food-merch-and-more",
-    "headline": "Disneyland Halloween Time 2026 Review: Food, Merch, and More",
-    "summary": "GameRant returns to Disneyland and California Adventure for the parks' Fall season, checking out the new Halloween merch and food.",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/disneyland-halloween-2026-review/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/disneyland-halloween-time-sign.jpg",
-    "published_at": "2026-09-02T08:51:57.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "aa9d8e98733c",
-    "slug": "gta-6-ditches-run-button-switching-to-a-new-control-scheme",
-    "headline": "GTA 6 Ditches Run Button, Switching to a New Control Scheme",
-    "summary": "Grand Theft Auto games are changing their run button mechanic, no longer requiring players to tap a face button to sprint. The change is a departure from nearly 25 years of tradition.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/gta-6-run-button-changes-tap-rockstar"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/gta-6-scooter-screen-crop-1.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-02T08:48:30.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "b9390c9e32b8",
-    "slug": "supercell-to-acquire-metacore-by-end-of-september-2026",
-    "headline": "Supercell to Acquire Metacore by End of September 2026",
-    "summary": "Mobile game developer Supercell is set to acquire Metacore, with the deal expected to finalize by the end of September 2026.",
-    "category": "deals",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/supercells-acquisition-of-metacore-expected-to-close-at-the-end-of-september-2026"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/merge-mansion_L1LTAEn.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-02T08:37:20.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8ef42defbc50",
-    "slug": "dd-could-go-back-to-the-underdark-soon-with-a-new-campaign",
-    "headline": "D&D Could Go Back to the Underdark Soon With a New Campaign",
-    "summary": "A new Dungeons & Dragons campaign may be coming, potentially featuring new subclasses and a return of a beloved author.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/dnd-underdark-new-campaign-dungeons-dragons/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/battle-in-the-underdark.jpg",
-    "published_at": "2026-09-02T08:30:14.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "dungeons-dragons",
-    "game_label": "Dungeons & Dragons"
-  },
-  {
-    "id": "f1b90912052c",
-    "slug": "mario-kart-8-deluxe-gets-major-update-for-switch-2",
-    "headline": "Mario Kart 8 Deluxe Gets Major Update for Switch 2",
-    "summary": "Nintendo has released a major update for Mario Kart 8 Deluxe, bringing it in line with the Switch 2's capabilities.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/mario-kart-8-deluxe-just-got-updated-for-the-switch-2/"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/mario-kart-8-deluxe-gets-a-free-switch-2-update-adding-an-eight-player-split-screen-mode/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/mario-kart-8-deluxe-nintendo-switch-presentation-2017-trailer-0-44-screenshot.png",
-    "published_at": "2026-09-02T08:24:34.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "mario-kart-8-deluxe",
-    "game_label": "Mario Kart 8 Deluxe"
-  },
-  {
-    "id": "17789a3d4c55",
-    "slug": "arcade-archives-2-arkanoid-revenge-of-doh-launches-september-3",
-    "headline": "Arcade Archives 2 Arkanoid: Revenge of Doh Launches September 3",
-    "summary": "Gematsu reports that Arcade Archives 2 Arkanoid: Revenge of Doh will launch on PlayStation 5, Xbox Series, and other platforms on September 3. No additional details are provided.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/arcade-archives-arkanoid-revenge-of-doh-launches-september-3"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/17789a3d4c55/800/600",
-    "published_at": "2026-09-02T08:17:46.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "arcade-archives-2-arkanoid-revenge-of-doh",
-    "game_label": "Arcade Archives 2 Arkanoid: Revenge of Doh"
-  },
-  {
-    "id": "e45f6e367d5c",
-    "slug": "the-adult-game-crackdown-is-ridiculous-for-our-art-form-say-hellraiser",
-    "headline": "The adult game crackdown is \"ridiculous for our art form\", say Hellraiser devs, but they think they'll survive thanks to that Clive Barker association",
-    "summary": "Last year, Australian anti-porn group Collective Shout pressured payment processors, such as Mastercard, Paypal, Visa, and Paysafe Limited to withdraw their services from Steam and Itch.io if the stores didn't remove adult games from their shelves. The campaign was successful and many games were impacted. The campaign's had a chilling effect, leaving developers making games including any sexual co",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/the-adult-game-crackdown-is-ridiculous-for-our-art-form-say-hellraiser-devs-but-they-think-theyll-survive-thanks-to-that-clive-barker-association"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/clive-barker's-hellraiser-the-revival-pinhead-close-up.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-02T08:15:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d0d656189dbc",
-    "slug": "muv-luv-girls-garden-mellow-days-gets-steam-demo-focus-on-your-work-to",
-    "headline": "MUV-LUV GIRLS GARDEN Mellow Days gets Steam demo. Focus on your work to unlock story episodes with Meru Momozono",
-    "summary": "MUV-LUV GIRLS GARDEN Mellow Days is a focus companion x story game coming to Steam.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/muv-luv-girls-garden-mellow-days-gets-steam-demo-focus-on-your-work-to-unlock-story-episodes-with-meru-momozono/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/d0d656189dbc/800/600",
-    "published_at": "2026-09-02T08:01:36.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "19d131501e44",
-    "slug": "eight-player-splitscreen-added-to-mario-kart-8-deluxe",
-    "headline": "Eight-Player Splitscreen Added to Mario Kart 8 Deluxe",
-    "summary": "Nintendo has conjured up an eight-player splitscreen mode for Mario Kart 8 Deluxe, available now in a free update on Switch 2.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/eight-player-splitscreen-added-to-mario-kart-8-deluxe"
-      }
-    ],
-    "image_url": "https://assets1.ignimgs.com/2021/02/01/mario-kart-8-deluxe-mario-bowser-and-peach-1072-1612203179062.jpg",
-    "published_at": "2026-09-02T07:33:30.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5c29d2f84354",
-    "slug": "io-interactive-ceo-hakan-abrak-to-discuss-development-of-007-first-lig",
-    "headline": "IO Interactive CEO Hakan Abrak to discuss development of 007 First Light at Game Republic New Horizons 2026",
-    "summary": "IO Interactive CEO Hakan Abrak will host a 007 First Light session at Game Republic New Horizons.\n Read more",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/io-interactive-ceo-hakan-abrak-to-discuss-development-of-007-first-light-at-game-republic-new-horizons-2026"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/james-bond-screenshot-(1).jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-02T07:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "34533f6b4a46",
-    "slug": "alienware-aims-at-more-price-points-people-can-actually-reach-announce",
-    "headline": " Alienware aims at 'more price points people can actually reach,' announces a tandem OLED gaming monitor at a much lower price than our current top pick ",
-    "summary": "*Squinting* The future looks bright.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/gaming-monitors/alienware-aims-at-more-price-points-people-can-actually-reach-announces-a-tandem-oled-gaming-monitor-at-a-much-lower-price-than-our-current-top-pick/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Mu8yvZMCZYnEgvmW9sGtr-1280-80.jpg",
-    "published_at": "2026-09-02T07:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e4747bc24118",
-    "slug": "how-to-unlock-wonderland-codes-in-the-game",
-    "headline": "How to Unlock Wonderland Codes in the Game",
-    "summary": "A guide to finding and redeeming Wonderland codes in a game",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/wonderland-codes-discord-server-roblox/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/wonderland-codes.jpg",
-    "published_at": "2026-09-02T05:10:12.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "wonderland",
-    "game_label": "Wonderland"
-  },
-  {
-    "id": "360a0527f28b",
-    "slug": "fire-emblem-dev-intelligent-systems-adds-fortunes-weave-to-its-complet",
-    "headline": "Fire Emblem Dev Intelligent Systems Adds Fortune's Weave To Its Completed Works",
-    "summary": "It's also opened a new social account.\n\nWe're just weeks out from the release of Fire Emblem: Fortune's Weave, and the game's developer Intelligent Systems is officially gearing up for the big release.\nRead the full article on nintendolife.com",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-dev-intelligent-systems-adds-fortunes-weave-to-its-completed-works"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/9c960c4dede18/large.jpg",
-    "published_at": "2026-09-02T04:55:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "851637098574",
-    "slug": "onimusha-way-of-the-sword-release-times-revealed",
-    "headline": "Onimusha Way of the Sword Release Times Revealed",
-    "summary": "Onimusha: Way of the Sword is set to release in different time zones, with pre-ordering and buying various editions offering exclusive content.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/onimusha-way-of-the-sword-release-time-when-edt-pdt/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/onimusha.jpg",
-    "published_at": "2026-09-02T04:01:16.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "onimusha-way-of-the-sword",
-    "game_label": "Onimusha: Way of the Sword"
-  },
-  {
-    "id": "8e5662e70cdd",
-    "slug": "ridge-racer-coming-to-switch-and-pc-as-g-mode-archives",
-    "headline": "Ridge Racer Coming to Switch and PC as G-MODE Archives+",
-    "summary": "G-MODE is releasing a feature phone version of Ridge Racer for Switch and PC, titled G-MODE Archives+",
-    "category": "deals",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/g-mode-archives-ridge-racer-announced-for-switch-pc"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/8e5662e70cdd/800/600",
-    "published_at": "2026-09-02T03:38:17.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "ridge-racer",
-    "game_label": "Ridge Racer"
-  },
-  {
-    "id": "77090f4edab3",
-    "slug": "playism-game-show-tgs-2026-preview-set-for-september-10",
-    "headline": "PLAYISM Game Show: TGS 2026 Preview set for September 10",
-    "summary": "PLAYISM will host the “PLAYISM Game Show: Tokyo Game Show 2026 Preview” live stream on …",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/playism-game-show-tgs-2026-preview-set-for-september-10"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/77090f4edab3/800/600",
-    "published_at": "2026-09-02T03:20:21.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
