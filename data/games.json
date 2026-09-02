@@ -6472,5 +6472,106 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-02T14:37:48.721Z"
+  },
+  {
+    "slug": "legend-of-zelda",
+    "name": "Legend of Zelda",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/da5/da5b5d0b1551a79e303dbb769c9867b1.jpg",
+    "released": "2019-08-16",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/b7c/b7c1b998b243ba9490cc28709ba07403.jpg",
+      "https://media.rawg.io/media/screenshots/876/87681044e9d968a244a736ca1f90d3e2.jpg",
+      "https://media.rawg.io/media/screenshots/ac2/ac2d21c2d18147bffb4e5b8d33daae1d.jpg",
+      "https://media.rawg.io/media/screenshots/da5/da5b5d0b1551a79e303dbb769c9867b1.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-02T15:37:41.092Z"
+  },
+  {
+    "slug": "the-legend-of-zelda-breath-of-the-wild",
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/cc1/cc196a5ad763955d6532cdba236f730c.jpg",
+    "released": "2017-03-03",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "Nintendo Switch",
+      "Wii U"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/3c4/3c4a8f6b1994def75e73e1cb64624e7f.jpg",
+      "https://media.rawg.io/media/screenshots/8f5/8f5d4264b12090bb7aa5626fcfb5be18.jpg",
+      "https://media.rawg.io/media/screenshots/b77/b771adc0585c655f8a747d3160e5325a.jpg",
+      "https://media.rawg.io/media/screenshots/ef7/ef7d89471e5c0dc5553c249b2c34d9cd.jpg",
+      "https://media.rawg.io/media/screenshots/1e5/1e58e8a064da6906f09dba1edb3fdea6.jpg",
+      "https://media.rawg.io/media/screenshots/bef/bef44f5547b97d44c5e14f8773f9876c.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-02T15:37:42.606Z"
+  },
+  {
+    "slug": "super-smash-bros-ultimate",
+    "name": "Super Smash Bros. Ultimate",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/9f3/9f3c513b301d8d7250a64dd7e73c62df.jpg",
+    "released": "2018-12-07",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/1c9/1c9ae7a68285ad0d4aa046b22bcdc4bf.jpg",
+      "https://media.rawg.io/media/screenshots/f67/f670247976d1b8121a5149bdfd8dbc21.jpg",
+      "https://media.rawg.io/media/screenshots/e3e/e3eaf49fe84fdc175e07d86d13e5bec5.jpg",
+      "https://media.rawg.io/media/screenshots/59d/59df418ec1f82e1410a19f33db40ddce.jpg",
+      "https://media.rawg.io/media/screenshots/2e7/2e761888447bae01026e2b882dd4fdab.jpg",
+      "https://media.rawg.io/media/screenshots/5ee/5ee9e40bc55def84bfccab09b324f220.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-02T15:37:43.279Z"
+  },
+  {
+    "slug": "mario-kart-8",
+    "name": "Mario Kart 8",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/7df/7dfbdcb58a03fcddc68479454fc1f7de.jpg",
+    "released": "2014-05-29",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "Wii U"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/7b6/7b6d1dc67bccdf6828a570be6b9661f2.jpg",
+      "https://media.rawg.io/media/screenshots/d91/d918009b2e187b0b7a654ea2310c55c8.jpg",
+      "https://media.rawg.io/media/screenshots/0e2/0e21c638bba8f500453dc8c18d995661.jpg",
+      "https://media.rawg.io/media/screenshots/b77/b775bd6bf027bdce8da94150c3fe0fa8.jpg",
+      "https://media.rawg.io/media/screenshots/203/203acf4554df263d19e11ff1be616893.jpg",
+      "https://media.rawg.io/media/screenshots/b57/b574c011f7126ddbdaecdc6772766b65.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-02T15:37:45.588Z"
   }
 ]

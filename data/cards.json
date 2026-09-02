@@ -1,5 +1,305 @@
 [
   {
+    "id": "50751314fad7",
+    "slug": "a-cow-is-playing-one-of-the-most-complex-games-ever-on-twitch-right-no",
+    "headline": "A Cow Is Playing One Of The Most Complex Games Ever On Twitch Right Now",
+    "summary": "If a cow can play EVE Online, what’s stopping you?",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/eve-online-cow-plays-twitch-stream-fenris-creations-2000730532"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/cow-1280x720.jpeg",
+    "published_at": "2026-09-02T15:30:24.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "dacd094096cf",
+    "slug": "new-open-world-wilds-era-legend-of-zelda-game-leaked",
+    "headline": "New Open-World Wilds Era Legend of Zelda Game Leaked",
+    "summary": "A new Legend of Zelda game, potentially set in the Wilds Era, has been leaked online, sparking excitement among gamers.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/new-legend-zelda-open-world-game-when-rumors-leaks/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/05/zelda-breath-of-the-wild-link.jpg",
+    "published_at": "2026-09-02T15:30:13.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "legend-of-zelda",
+    "game_label": "Legend of Zelda"
+  },
+  {
+    "id": "b17879ddf437",
+    "slug": "one-piece-replacing-luffy-with-gol-d-roger-in-next-project",
+    "headline": "One Piece Replacing Luffy with Gol D. Roger in Next Project",
+    "summary": "One Piece is shifting its focus from Monkey D. Luffy to Gol D. Roger in its upcoming project",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/one-piece-goodbye-luffy-next-project/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/one-piece-says-goodbye-to-luffy.jpg",
+    "published_at": "2026-09-02T15:30:13.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "867bd58e720c",
+    "slug": "rockstar-unveils-gta-5-roleplaying-evolution",
+    "headline": "Rockstar Unveils GTA 5 Roleplaying Evolution",
+    "summary": "Rockstar is focusing on modded GTA 5 roleplaying, while keeping mum on a PC release date for GTA 6.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/rockstar-unveil-the-next-evolution-of-modded-gta-5-roleplaying-while-staying-totally-mum-on-when-pc-pretenders-might-be-able-to-migrate-to-their-next-game"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/gta-5-nopixel-v-roleplay-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-02T15:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-5",
+    "game_label": "Grand Theft Auto 5"
+  },
+  {
+    "id": "156a1058e869",
+    "slug": "another-eden-begins-demo-now-available",
+    "headline": "Another Eden Begins demo now available",
+    "summary": "A demo for time-traveling, turn-based RPG Another Eden Begins is now available for Switch 2, …",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/another-eden-begins-demo-now-available"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/156a1058e869/800/600",
+    "published_at": "2026-09-02T15:25:27.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "656b5ad33c76",
+    "slug": "total-war-warhammer-40000s-space-marines",
+    "headline": "Total War: Warhammer 40,000's Space Marines",
+    "summary": "Total War: Warhammer 40,000 will have to balance the Imperium's expectations with the Space Marines' own moral compass",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/strategy/total-war-warhammer-40-000s-space-marines-will-have-to-keep-the-imperium-happy-and-avoid-looking-too-heretical/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Lz6YgN9T4pkvCHH4RKZzzN-1280-80.png",
+    "published_at": "2026-09-02T15:23:55.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "total-war-warhammer-40000",
+    "game_label": "Total War: Warhammer 40,000"
+  },
+  {
+    "id": "2747841dab8a",
+    "slug": "mortal-shell-2-all-beacon-locations",
+    "headline": "Mortal Shell 2 All Beacon Locations",
+    "summary": "Here are the locations of every single beacon in Mortal Shell 2 and how to reach them in the game world.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/mortal-shell-2-all-beacon-locations/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/mortal-shell-2-all-beacon-locations.jpg",
+    "published_at": "2026-09-02T15:16:08.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8e2840648134",
+    "slug": "the-expanse-osiris-reborn-turns-the-best-mass-effect-mission-into-an-e",
+    "headline": " The Expanse: Osiris Reborn turns the best Mass Effect mission into an entire game ",
+    "summary": "And makes it better.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rpg/the-expanse-osiris-reborn-turns-the-best-mass-effect-mission-into-an-entire-game/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/diGd9BssR3XVfvuQDEz3sB-1280-80.jpg",
+    "published_at": "2026-09-02T15:13:09.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8b73e9bfd2b7",
+    "slug": "hideki-kamiya-says-game-preservation-matters-more-to-him-than-whether",
+    "headline": "Hideki Kamiya says game preservation matters more to him than whether games are physical or digital",
+    "summary": "The Clovers co-founder buys games digitally, but wants companies to ensure older titles remain playable",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/hideki-kamiya-says-game-preservation-matters-more-to-him-than-whether-games-are-physical-or-digital/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/8b73e9bfd2b7/800/600",
+    "published_at": "2026-09-02T15:11:29.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9182a86168df",
+    "slug": "steamdb-changes-hands-to-nexus-mods-which-means-it-needs-to-make-money",
+    "headline": " SteamDB changes hands to Nexus Mods, which means it 'needs to make money' now—but there won't be ads or paywalls ",
+    "summary": "\"Nothing you know and use today is getting taken away and sold back to you.\"",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/steamdb-changes-hands-to-nexus-mods-which-means-it-needs-to-make-money-now-but-there-wont-be-ads-or-paywalls/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/QbuhrmKmNpz4KMvUshRtLi-1280-80.png",
+    "published_at": "2026-09-02T15:10:50.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6dad0c55f8ed",
+    "slug": "dragons-dogma-2-dark-arisen-preview-capcoms-expansion-hasnt-won-me-bac",
+    "headline": "Dragon’s Dogma 2: Dark Arisen Preview — Capcom’s Expansion Hasn’t Won Me Back Yet",
+    "summary": "Capcom’s Dark Arisen expansion for Dragon’s Dogma 2 adds new content, but lacks convincing for lapsed players to return",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/dragons-dogma-2-dark-arisen-preview-early-impressions-gamescom/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/dragons-dogma-2-dark-arisen-expansion-guide1.jpg",
+    "published_at": "2026-09-02T15:08:38.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dragons-dogma-2",
+    "game_label": "Dragon's Dogma 2"
+  },
+  {
+    "id": "336d8b9426d5",
+    "slug": "pc-gamer-to-host-pc-gaming-show-tokyo-direct-2026",
+    "headline": "PC Gamer to Host PC Gaming Show Tokyo Direct 2026",
+    "summary": "PC Gamer will host PC Gaming Show Tokyo Direct 2026 in September, marking a significant event in the PC gaming world.",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/pc-gaming-show-tokyo-direct-set-for-september-20"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/336d8b9426d5/800/600",
+    "published_at": "2026-09-02T15:00:39.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "842f5f395f6f",
+    "slug": "pc-gaming-show-tokyo-direct-reveals-over-35-games-and-world-premieres",
+    "headline": "PC Gaming Show Tokyo Direct Reveals Over 35 Games and World Premieres",
+    "summary": "The PC Gaming Show is hosting a live event in Tokyo, featuring a showcase of new games and world premieres, with award-winning presenter Frankie Ward at the helm.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/events-conferences/award-winning-presenter-frankie-ward-is-hosting-the-pc-gaming-show-tokyo-direct-showing-off-over-35-games-and-a-bunch-of-world-premieres/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/9R54FvWBJbWGzAV5x5xhof-1280-80.png",
+    "published_at": "2026-09-02T15:00:25.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "d33b8b59dfc3",
     "slug": "new-official-nintendo-wii-game-confirmed-for-september-12",
     "headline": "New Official Nintendo Wii Game Confirmed for September 12",
@@ -17,6 +317,75 @@
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/metal-canary-wii-gamerant-feature.jpg",
     "published_at": "2026-09-02T15:00:12.000Z",
     "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "455f8b1ee4bc",
+    "slug": "genshin-impact-devs-new-action-game-nodusfall-feels-like-elden-ring-ni",
+    "headline": " Genshin Impact devs' new action game Nodusfall feels like Elden Ring Nightreign at home, but don't write it off yet ",
+    "summary": "Going hands-on with Nodusfall at Gamescom 2026",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/action/genshin-impact-devs-new-action-game-nodusfall-feels-like-elden-ring-nightreign-at-home-but-dont-write-it-off-yet/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/zpXSwTNDkh43BSnvBQnZ5n-1280-80.jpg",
+    "published_at": "2026-09-02T15:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "258efb37fcdc",
+    "slug": "the-perils-of-perfectionism-in-gaming",
+    "headline": "The Perils of Perfectionism in Gaming",
+    "summary": "A personal reflection on the author's gaming experiences, exploring the theme of perfectionism in game development, using The Legend of Zelda: Breath of the Wild as a case study.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/features/playing-until-we-get-it-right-how-perfectionism-appears-in-gaming"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/1fe6398f513dd/large.jpg",
+    "published_at": "2026-09-02T15:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-legend-of-zelda-breath-of-the-wild",
+    "game_label": "The Legend of Zelda: Breath of the Wild"
+  },
+  {
+    "id": "f5ec72dd8317",
+    "slug": "preview-silent-hill-townfall-is-a-ps5-horror-time-capsule-i-cant-wait",
+    "headline": "Preview: Silent Hill: Townfall Is a PS5 Horror Time Capsule I Can't Wait to Play More Of",
+    "summary": "The Devil is in the details. Silent Hill: Townfall is one of my most anticipated games of 2026. I came upon the series for the first time having loved the Silent Hill 2 remake and really enjoying what I played of Silent Hill F. However, Townfall was of particular interest to me because of its setting. Heading off to the…",
+    "category": "reviews",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/previews/silent-hill-townfall-is-a-ps5-horror-time-capsule-i-cant-wait-to-play-more-of"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/0b7f9ef8357a2/large.jpg",
+    "published_at": "2026-09-02T15:00:00.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -86,6 +455,29 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "2381db761147",
+    "slug": "super-smash-bros-ultimate-gets-unexpected-update",
+    "headline": "Super Smash Bros. Ultimate Gets Unexpected Update",
+    "summary": "Nintendo has released a new patch for Super Smash Bros. Ultimate, but it doesn't include any features for the upcoming Switch 2 model.",
+    "category": "patches",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/super-smash-bros-ultimate-gets-an-update-but-not-the-one-you-want/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Switch_SuperSmashBrosUltimate_Sora_reveal_screenshot_03.jpg?w=300",
+    "published_at": "2026-09-02T14:42:54.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "super-smash-bros-ultimate",
+    "game_label": "Super Smash Bros. Ultimate"
   },
   {
     "id": "76f6b6bbb8b7",
@@ -215,6 +607,10 @@
       {
         "name": "Pure Xbox",
         "url": "https://www.purexbox.com/features/seven-big-showcases-xbox-fans-should-look-out-for-in-september"
+      },
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/features/eight-big-showcases-xbox-fans-should-look-out-for-in-september"
       }
     ],
     "image_url": "https://images.purexbox.com/40f7814354270/large.jpg",
@@ -682,6 +1078,29 @@
     "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/In-Bruges_1e69c5.jpg?w=300",
     "published_at": "2026-09-02T13:14:10.000Z",
     "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ddbbff7e152e",
+    "slug": "xbox-live-server-issues-return-engineering-teases-solution",
+    "headline": "Xbox Live Server Issues Return, Engineering Teases Solution",
+    "summary": "Xbox Live servers experienced a multi-hour outage, causing widespread issues for users. The issue has since been acknowledged, and engineering is working to resolve it.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/xbox-live-returns-to-normal-following-multi-hour-server-outage"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/6555a130f994f/large.jpg",
+    "published_at": "2026-09-02T13:09:00.000Z",
+    "hype_signal": 30,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -1789,6 +2208,29 @@
     "game_label": null
   },
   {
+    "id": "3cbe0719cee6",
+    "slug": "dragons-dogma-2-update-boosts-performance-lowers-pc-system-requirement",
+    "headline": "Dragon's Dogma 2 Update Boosts Performance, Lowers PC System Requirements",
+    "summary": "A recent update for Dragon's Dogma 2 has improved the game's performance, allowing for smoother gameplay at high settings, and has also reduced the required PC system specifications.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/rpg/dragons-dogma-2-update-finally-gives-the-rpg-the-performance-boost-it-desperately-needed-and-its-so-good-that-its-even-lowered-the-pc-system-requirements/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/GTh6C6q98AbuCzFdf8PUQB-1280-80.jpg",
+    "published_at": "2026-09-02T10:48:08.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dragons-dogma-2",
+    "game_label": "Dragon's Dogma 2"
+  },
+  {
     "id": "3ec32d56ee36",
     "slug": "moon-studios-delays-no-rest-for-the-wicked-to-march-2027-were-holding",
     "headline": "Moon Studios delays No Rest for the Wicked to March 2027 – \"We're holding our games to a standard we won't compromise on\"",
@@ -1879,6 +2321,50 @@
     "image_url": "https://picsum.photos/seed/a253b4abc3f5/800/600",
     "published_at": "2026-09-02T10:28:50.000Z",
     "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "4dc921bf5f72",
+    "slug": "mario-kart-8-update-bolsters-nintendos-favorite-racing-franchise",
+    "headline": "Mario Kart 8 Update Bolsters Nintendo's Favorite Racing Franchise",
+    "summary": "A significant update for Mario Kart 8 on the Nintendo Switch has brought improved visuals and new features, solidifying its position as Nintendo's top racing game.",
+    "category": "patches",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/super-mario/mario-kart-8-gets-major-switch-2-update-leaving-mario-kart-world-in-the-dust-and-further-solidifying-the-12-year-old-racing-game-as-nintendos-favorite-child/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/YFGoh7Fhm3Ykhmto2EJXAg-1280-80.jpg",
+    "published_at": "2026-09-02T10:27:57.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "mario-kart-8",
+    "game_label": "Mario Kart 8"
+  },
+  {
+    "id": "819ad693825e",
+    "slug": "the-best-gaming-tech-weve-reviewed-in-august-2026",
+    "headline": " The best gaming tech we've reviewed in August 2026 ",
+    "summary": "We're rounding up all the top gaming tech we've reviewed this month.",
+    "category": "reviews",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/hardware/the-best-gaming-tech-weve-reviewed-in-august-2026/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/4ZHMfGKgZMFzKgAL8py2Li-1280-80.jpg",
+    "published_at": "2026-09-02T10:23:35.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -2663,6 +3149,27 @@
     ],
     "image_url": "https://picsum.photos/seed/77090f4edab3/800/600",
     "published_at": "2026-09-02T03:20:21.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c686669ecb36",
+    "slug": "aniplex-owner-sony-music-entertainment-becomes-largest-shareholder-of",
+    "headline": "Aniplex owner Sony Music Entertainment becomes largest shareholder of GungHo with 23% stake",
+    "summary": "Sony Music Entertainment owns Aniplex, a publisher known for Witch on the Holy Knight, Melty Blood: Type Lumina and Fate/Grand Order.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/aniplex-owner-sony-music-entertainment-becomes-largest-shareholder-of-gungho-with-23-stake/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/c686669ecb36/800/600",
+    "published_at": "2026-09-02T03:17:08.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -4123,523 +4630,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "788d644f4b4f",
-    "slug": "how-one-of-2025s-best-games-became-the-antifire-emblem",
-    "headline": "How One Of 2025’s Best Games Became The Anti–Fire Emblem",
-    "summary": "The Hundred Line: Last Defense Academy’s battles make you less concerned for your characters’ lives than other strategy RPGs",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/hundred-line-last-defense-academy-fire-emblem-permadeath-2000730281"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2025/04/46516965fadfe423111db17f56ff74e5.jpg",
-    "published_at": "2026-09-01T18:30:41.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "36aed384cd28",
-    "slug": "the-11-best-games-we-played-at-gamescom-2026",
-    "headline": "The 11 Best Games We Played at Gamescom 2026",
-    "summary": "Here are the best games we played at Gamescom 2026, from AAA titans to indie gems.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/best-games-gamescom-2026/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/gamescom_26_093_014.jpg",
-    "published_at": "2026-09-01T18:30:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5cf645255390",
-    "slug": "september-4-is-going-to-be-a-super-busy-day-for-ps5-gamers",
-    "headline": "September 4 is Going to Be a Super Busy Day for PS5 Gamers",
-    "summary": "Thanks to some major new releases, PlayStation 5 gamers have a particularly busy day to look forward to later this week.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/ps5-new-games-coming-out-this-week/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/ps5-games-coming-out-soon.jpg",
-    "published_at": "2026-09-01T18:30:12.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "76344c684c9c",
-    "slug": "roundup-the-first-reviews-have-dropped-for-moonlighter-2-ahead-of-xbox",
-    "headline": "Roundup: The First Reviews Have Dropped For Moonlighter 2 Ahead Of Xbox Game Pass Launch",
-    "summary": "Grab a bag of swag. We've got another roundup of reviews for you! This time, we're getting stuck into Moonlighter 2: The Endless Vault, which is leaving Early Access ahead of its version 1.0 release onto Xbox Game Pass this week. Personally, I was a big fan of the original Moonlighter. The whole dungeon-to-shop gameplay loop was super satisfying, and…",
-    "category": "reviews",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/roundup-the-first-reviews-have-dropped-for-moonlighter-2-ahead-of-xbox-game-pass-launch"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/cc66501496a25/large.jpg",
-    "published_at": "2026-09-01T18:30:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1f5941d76ded",
-    "slug": "near-perfect-roguelike-games-with-creative-progression",
-    "headline": "Near-Perfect Roguelike Games With Creative Progression",
-    "summary": "Roguelike games need to absolutely nail their progression systems if they want to keep players coming back for more. These games do that.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/roguelike-games-with-creative-progression/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/the-witcher-3-remastered-1.jpg",
-    "published_at": "2026-09-01T18:21:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a7152c91b5e5",
-    "slug": "no-rest-for-the-wicked-which-was-slated-to-hit-10-a-month-before-grand",
-    "headline": " No Rest for the Wicked, which was slated to hit 1.0 a month before Grand Theft Auto 6, is delayed into 2027 ",
-    "summary": "Moon Studios said the extra time will \"help us improve performance, tighten the class system, and polish the whole game,\" and made no mention at all of GTA 6.",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/action/no-rest-for-the-wicked-which-was-slated-to-hit-1-0-a-month-before-grand-theft-auto-6-is-delayed-into-2027/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/y6ubp5PUsT4DnUCygthpnA-1280-80.jpg",
-    "published_at": "2026-09-01T18:19:56.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "871432919021",
-    "slug": "no-rest-for-the-wicked-is-leaving-early-access-in-2027",
-    "headline": "No Rest For The Wicked Is Leaving Early Access In 2027",
-    "summary": "As if 2026's gaming delays weren't bad enough, another acclaimed RPG is getting shifted into the new year.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/no-rest-for-the-wicked-release-delay/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/no-rest-for-the-wicked-protagonist-zoomed-in.jpg",
-    "published_at": "2026-09-01T18:18:04.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "545cb0e2b659",
-    "slug": "give-double-fine-100-million-and-itll-make-brutal-legend-2",
-    "headline": "Give Double Fine $100 Million and It'll Make Brutal Legend 2",
-    "summary": "\"Yes, really.\". Double Fine is ready to make a sequel to Brutal Legend — you just have to help raise $100 million to make it a reality. As part of its new Kickstarter campaign, Amnesia Fortnight 2026, the newly independent developer is letting its online community choose what game it creates next. Anyone who pledges money towards the campaign will…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/give-double-fine-usd100-million-and-itll-make-brutal-legend-2"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/8f72f16b3f718/large.jpg",
-    "published_at": "2026-09-01T18:15:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "80fa2651e46d",
-    "slug": "tim-currys-9-most-iconic-video-game-roles",
-    "headline": "Tim Curry’s 9 Most Iconic Video Game Roles",
-    "summary": "Tim Curry brought full commitment to every video game role he played, from a 1990s horror adventure to Dragon Age: Origins.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gaming/tim-curry-video-game-roles/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/12447072-command-conquer-red-alert-3-windows-tim-curry-as-premier-cherden-1.jpg",
-    "published_at": "2026-09-01T18:00:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "660e0b906d5c",
-    "slug": "ff7-revelation-director-teases-more-compilation-characters",
-    "headline": "FF7 Revelation Director Teases More Compilation Characters",
-    "summary": "Naoki Hamaguchi hints at additional FF7 Compilation characters appearing in the upcoming game Final Fantasy 7 Revelation",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/ff7-revelation-characters/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/final-fantasy-7-revelation-director-teases-more-spin-off-characters.jpg",
-    "published_at": "2026-09-01T18:00:12.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "final-fantasy-7-revelation",
-    "game_label": "Final Fantasy 7 Revelation"
-  },
-  {
-    "id": "ffe4bc05cfe2",
-    "slug": "xbox-game-pass-expansion-and-departures-announced-for-september",
-    "headline": "Xbox Game Pass Expansion and Departures Announced for September",
-    "summary": "Xbox Game Pass is set to gain seven new games in September, including a day-one release, while losing 11 titles including Cyberpunk 2077.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/xbox-game-pass-in-september-expands-with-seven-new-games/"
-      },
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/11-games-are-leaving-xbox-game-pass-in-early-september-2026"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/xbox-game-pass-september-2026-wave-1-lineup-announced"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/original/1575/15759911/3759754-call-of-duty--black-ops-cold-war-review-promothumb.jpg?w=300",
-    "published_at": "2026-09-01T17:47:33.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "xbox-game-pass",
-    "game_label": "Xbox Game Pass"
-  },
-  {
-    "id": "35113867044f",
-    "slug": "hasbro-ceo-takes-control-of-magic-the-gathering-and-dd",
-    "headline": "Hasbro CEO Takes Control of Magic: The Gathering and D&D",
-    "summary": "Hasbro CEO Chris Cocks has assumed direct control of Magic: The Gathering and Dungeons & Dragons following John Hight's departure.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/mtg-dnd-wizards-of-the-coast-president-hasbro-ceo-leadership-changes/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jodah-the-unifier-art-final-fantasy-through-the-ages-17-c02bef17-a293-4f77-8043-104864de4eaa-art-1.png",
-    "published_at": "2026-09-01T17:45:14.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "magic-the-gathering-and-dungeons-dragons",
-    "game_label": "Magic: The Gathering and Dungeons & Dragons"
-  },
-  {
-    "id": "60ee87211fc7",
-    "slug": "cd-projekt-red-very-happy-with-cyberpunk-2077-sales-on-switch-2",
-    "headline": "CD Projekt Red \"Very Happy\" With Cyberpunk 2077 Sales On Switch 2",
-    "summary": "\"the most important bit is that the players are happy\". It's safe to say that, besides from Mario Kart World, CD Projekt Red's Cyberpunk 2077: Ultimate Edition was the game of the Switch 2's launch in 2025. That probably sounds strange considering it's a port of a title that infamously had a disastrous start on other platforms, but by the…",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/cd-projekt-red-very-happy-with-cyberpunk-2077-sales-on-switch-2"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/dd6bf2c24d74a/large.jpg",
-    "published_at": "2026-09-01T17:45:00.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3b233a320e65",
-    "slug": "wolverine-control-resonant-and-4-more-big-september-games-weve-already",
-    "headline": "Wolverine, Control Resonant, and 4 More Big September Games We've Already Played and Can Tell You About",
-    "summary": "September is here, which means the Fall is here, which means some of the biggest games of the year drop this month. We've already played some of the biggest ones, so check out our previews of Marvel's Wolverine, Control Resonant, and more on this page.",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/wolverine-control-resonant-and-4-more-big-september-games-weve-already-played-and-can-tell-you-about"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/01/wolvie-1788284606072.png",
-    "published_at": "2026-09-01T17:44:51.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d34735eadb79",
-    "slug": "sony-says-reasonable-consumers-know-they-dont-own-the-digital-games-th",
-    "headline": "Sony says ‘reasonable consumers’ know they don’t own the digital games they buy",
-    "summary": "It's \"not plausible\" to suggest people believe they're \"obtaining ownership\", it says",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/sony-says-reasonable-consumers-know-they-dont-own-the-digital-games-they-buy/"
-      },
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/reasonable-consumers-know-they-dont-own-digital-games-says-sony"
-      },
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/playstation-reasonable-consumers-know-dont-own-digital-games"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/d34735eadb79/800/600",
-    "published_at": "2026-09-01T17:39:58.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "60f9b8b2ee4e",
-    "slug": "steam-users-can-claim-a-910-survival-strategy-game-for-free-plus-7-mor",
-    "headline": "Steam Users Can Claim a 9/10 Survival Strategy Game for Free, Plus 7 More Free Games",
-    "summary": "Steam users have a limited window to grab a 9/10 survival strategy game for free, as well as seven more free games.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/free-steam-games-humble-choice-frostpunk-2-october-6-2026/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/free-steam-games-humble-choice-frostpunk-2-september-2026.jpg",
-    "published_at": "2026-09-01T17:38:58.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "43d2be3b4948",
-    "slug": "star-trek-shadow-frontier-to-explore-horror-side-of-trek",
-    "headline": "Star Trek: Shadow Frontier to Explore Horror Side of Trek",
-    "summary": "A new Star Trek game is shifting its genre to horror, drawing inspiration from Alien, Resident Evil, and Dead Space",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/star-trek-2027-horror-shadow-frontier-game/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ss_27b6ed99b81f36844eeb53689cad8ab52149022f-1920x1080.jpg",
-    "published_at": "2026-09-01T17:36:56.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "star-trek-shadow-frontier",
-    "game_label": "Star Trek: Shadow Frontier"
-  },
-  {
-    "id": "2ebb8beb265c",
-    "slug": "naughty-dog-shares-update-on-intergalactic-the-heretic-prophet",
-    "headline": "Naughty Dog Shares Update on Intergalactic: The Heretic Prophet",
-    "summary": "Game developer Naughty Dog has provided an update on the development of their upcoming single-player title, Intergalactic: The Heretic Prophet.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/intergalactic-the-heretic-prophet-naughty-dog-development-update/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/intergalactic-the-heretic-prophet-just-got-an-encouraging-update.jpg",
-    "published_at": "2026-09-01T17:35:17.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "intergalactic-the-heretic-prophet",
-    "game_label": "Intergalactic: The Heretic Prophet"
-  },
-  {
-    "id": "302574268e98",
-    "slug": "daemons-of-the-shadow-realm-episode-22-release-date",
-    "headline": "Daemons of the Shadow Realm Episode 22 Release Date",
-    "summary": "The latest episode of Daemons of the Shadow Realm has a clearer future ahead for Yuru, but the path forward remains uncertain.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/daemons-of-the-shadow-realm-episode-22-release-date/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/daemons-of-the-shadow-realm-episode-22-release-date-gamerant-feature.jpg",
-    "published_at": "2026-09-01T17:31:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "daemons-of-the-shadow-realm",
-    "game_label": "Daemons of the Shadow Realm"
-  },
-  {
-    "id": "9953ee97ea31",
-    "slug": "ace-combat-8s-multiplayer-seeks-to-reach-new-heights",
-    "headline": "Ace Combat 8's Multiplayer Seeks to Reach New Heights",
-    "summary": "Ace Combat 8's multiplayer mode promises a high player count and a mix of co-op and competitive gameplay, with a focus on customization and online lobbies.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/ace-combat-8s-multiplayer-is-aiming-to-climb-higher-than-ever-ign-preview"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/01/ac8-1788293618072.jpg",
-    "published_at": "2026-09-01T17:24:20.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "ace-combat-8-wings-of-theve",
-    "game_label": "Ace Combat 8: Wings of Theve"
-  },
-  {
-    "id": "933822ded93d",
-    "slug": "you-can-sleep-inside-a-giant-pokeball-in-japan",
-    "headline": "You Can Sleep Inside a Giant Pokéball in Japan",
-    "summary": "A new immersive experience in Japan will allow visitors to sleep inside a giant Pokéball, providing a unique perspective on the Pokémon phenomenon.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/ever-wanted-to-sleep-inside-a-giant-pokeball-in-japan-youll-soon-have-a-chance"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/01/pokmon-sleep-not-a-hotel-00-00-29-1788282847389.png",
-    "published_at": "2026-09-01T17:20:53.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0471f4068903",
-    "slug": "call-of-duty-modern-warfare-4-beta-extended-until-10pm-pt-tonight",
-    "headline": "Call of Duty: Modern Warfare 4 Beta Extended Until 10pm PT Tonight",
-    "summary": "Activision is extending the Call of Duty: Modern Warfare 4 open beta by 12 hours, adding double XP to help players grind for rewards. The beta will now end at 10pm PT on September 2.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-beta-extended"
-      },
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-extended-adds-double-xp-to-help-you-grind-for-rewards/"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/01/cod-1788280658444.jpg",
-    "published_at": "2026-09-01T17:18:43.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "call-of-duty-modern-warfare-4",
-    "game_label": "Call of Duty: Modern Warfare 4"
   }
 ]
