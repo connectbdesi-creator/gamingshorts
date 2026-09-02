@@ -6573,5 +6573,32 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-02T15:37:45.588Z"
+  },
+  {
+    "slug": "starcraft",
+    "name": "StarCraft",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/68a/68a77a21ec04083f3e6af62cdbed9c0a.jpg",
+    "released": "1998-03-31",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Nintendo 64"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/69d/69da0048e67a1948466083bcf00a4db0.jpg",
+      "https://media.rawg.io/media/screenshots/2e2/2e2e4f165aee54e6df1ba8ac4f386f5e_iO2iUxH.jpg",
+      "https://media.rawg.io/media/screenshots/4d9/4d9e8f1b2449b48c7aae1e3adf4e0596_ouglYp3.jpg",
+      "https://media.rawg.io/media/screenshots/463/4632674d818ab38188aee97ef732070c.jpg",
+      "https://media.rawg.io/media/screenshots/20b/20baa5e375866fa58dda2cb17d6f2355.jpg",
+      "https://media.rawg.io/media/screenshots/c67/c67944eff3977e3cda7cd249de2bae51_2kF0Hji.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-02T16:07:21.521Z"
   }
 ]
