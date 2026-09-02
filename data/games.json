@@ -6131,5 +6131,35 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-02T04:06:54.436Z"
+  },
+  {
+    "slug": "wonderland",
+    "name": "Wonderland",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/3e9/3e92f5289f5394366652f85bec462f3a.jpg",
+    "released": "1989-01-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Casual",
+      "Strategy",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Commodore / Amiga",
+      "Atari ST"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/ae7/ae725ad64a010924229ae90ee7de1d1b_A1yI88w.jpg",
+      "https://media.rawg.io/media/screenshots/61e/61ed71310d6fa7da6067e4d5cc9ff0c4_ApvER0I.jpg",
+      "https://media.rawg.io/media/screenshots/e81/e81e28e7689b9cb7a17445e978008487.jpg",
+      "https://media.rawg.io/media/screenshots/95c/95c5e50b45bee569bec29beaa8181bee.jpg",
+      "https://media.rawg.io/media/screenshots/1ef/1ef109189baad9b3c4816bf5a9d71116.jpg",
+      "https://media.rawg.io/media/screenshots/a5e/a5ed5e8ad52e02e63b673630810120d6.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-02T06:07:33.183Z"
   }
 ]
