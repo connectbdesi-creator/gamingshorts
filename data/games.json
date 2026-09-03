@@ -6727,5 +6727,108 @@
     "screenshots": [],
     "stores": [],
     "fetched_at": "2026-09-03T11:53:47.014Z"
+  },
+  {
+    "slug": "until-dawn-2",
+    "name": "Until Dawn 2",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/984/9844663f1c966cecc686b9cd2b4df10d.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PlayStation 5"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/984/9844663f1c966cecc686b9cd2b4df10d.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-03T13:55:54.753Z"
+  },
+  {
+    "slug": "destiny",
+    "name": "Destiny",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/062/062420d85c7143f72ad3557f32c41ead.jpg",
+    "released": "2014-09-09",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "platforms": [
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/3bd/3bd0da3289697d4bedafc8811ae1c9b7.jpg",
+      "https://media.rawg.io/media/screenshots/d44/d44eb92dd9587aa7842c03a64cf4b4f5.jpg",
+      "https://media.rawg.io/media/screenshots/e95/e95aa596f101a6c7b515f8482a653726.jpg",
+      "https://media.rawg.io/media/screenshots/23a/23a9b44535956615c02fd95bac47d3b3.jpg",
+      "https://media.rawg.io/media/screenshots/3e7/3e74fa3075f96630dc08405f2b5cfb19.jpg",
+      "https://media.rawg.io/media/screenshots/2cd/2cd66308b19d10e5f8c6f24b31551392.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-03T13:55:56.587Z"
+  },
+  {
+    "slug": "ghost-of-yotei",
+    "name": "Ghost of Yōtei: Echoes of Sekigahara",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/c36/c369c40764cab0de8491d414289cbf6c.jpg",
+    "released": "2026-10-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PlayStation 5"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/7b5/7b5da26fb07f70c5b237bbf80ae800d9.jpg",
+      "https://media.rawg.io/media/screenshots/4fa/4fa7a118cce11dbf911b2befd0333001.jpg",
+      "https://media.rawg.io/media/screenshots/4d0/4d0e5b998d6a7ebe1ed057ee00aad296.jpg",
+      "https://media.rawg.io/media/screenshots/c36/c369c40764cab0de8491d414289cbf6c.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-03T13:55:57.200Z"
+  },
+  {
+    "slug": "onimusha",
+    "name": "Onimusha: Warlords",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/377/37729d1d479e919fd01d32cf1150c2b3.jpg",
+    "released": "2001-01-25",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "Xbox",
+      "PlayStation 2"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/7d0/7d0697dde6dae02716952be563b0ca5b.jpg",
+      "https://media.rawg.io/media/screenshots/193/193bf52b74edd1b4ce4f73b5ad266b0b.jpg",
+      "https://media.rawg.io/media/screenshots/dc5/dc592d4d1bf0beb53ac3293886466946.jpg",
+      "https://media.rawg.io/media/screenshots/5e6/5e63fedcec09a8fa81db6d4ab6f17b2e.jpg",
+      "https://media.rawg.io/media/screenshots/d0f/d0fa44a34ca372e23ae5d2ff6955cb55.jpg",
+      "https://media.rawg.io/media/screenshots/6cd/6cdf1d2d0c67e70045d2e4a57b4a737c.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-03T13:55:58.516Z"
   }
 ]
