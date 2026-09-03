@@ -1,5 +1,115 @@
 [
   {
+    "id": "1777632296fc",
+    "slug": "attack-on-titan-fans-can-now-celebrate-on-september-9",
+    "headline": "Attack on Titan Fans Can Now Celebrate on September 9",
+    "summary": "Attack on Titan fans can now mark September 9 as their official day to celebrate the series, marking a significant milestone for the franchise.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/attack-on-titan-day-september-9/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/september-9-officially-recognized-as-attack-on-titan-day-gamerant-feature.jpg",
+    "published_at": "2026-09-03T17:34:20.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "attack-on-titan",
+    "game_label": "Attack on Titan"
+  },
+  {
+    "id": "89f4779832eb",
+    "slug": "hands-on-with-fables-combat-lightning-bolts-fireballs-and-dismembermen",
+    "headline": "Hands-On With Fable’s Combat: Lightning Bolts, Fireballs, And Dismemberment",
+    "summary": "Kotaku tests Fable's combat system, finding it to be intense and visceral, with features like dismemberment and a variety of magical attacks.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/hands-on-with-fables-combat-lightning-bolts-fireballs-and-dismemberment-2000730994"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/fables-1280x720.jpg",
+    "published_at": "2026-09-03T17:30:14.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fable",
+    "game_label": "Fable"
+  },
+  {
+    "id": "9d8323029269",
+    "slug": "fable-is-breaking-a-massive-unwritten-rule-of-open-world-rpgs",
+    "headline": "Fable Is Breaking a Massive Unwritten Rule of Open-World RPGs",
+    "summary": "Fable is going against one of the biggest expectations surrounding modern open-world RPGs, and the decision could work heavily in its favor.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/fable-story-length-open-world-rpg-40-hours/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/fable-protagonist-in-a-chicken-suit.jpg",
+    "published_at": "2026-09-03T17:30:12.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d40f048d5e18",
+    "slug": "how-to-complete-the-zombies-last-call-event-pass-fast-in-cod-black-ops",
+    "headline": "How to Complete the Zombies Last Call Event Pass Fast in COD Black Ops 7 ",
+    "summary": "Black Ops 7 brings its first big event following the end of the Modern Warfare 4 Beta. Here is how to complete the Zombies Last Call Event fast.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/call-of-duty-cod-black-ops-7-bo7-zombies-last-call-event-pass-rewards-how-to-complete-fast-xp-guide/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/zombies-last-call-event-black-ops-7.jpg",
+    "published_at": "2026-09-03T17:27:11.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "df5badb79400",
+    "slug": "hidetaka-miyazaki-reveals-hes-mysterious-to-fans",
+    "headline": "Hidetaka Miyazaki Reveals He's Mysterious to Fans",
+    "summary": "Hidetaka Miyazaki, the director of popular games like Dark Souls and Sekiro, has expressed his confusion over why fans think he has a fascination with feet, despite the frequent appearance of barefoot characters in his games.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/action-rpg/hidetaka-miyazaki-says-he-has-no-idea-why-people-think-i-have-a-bit-of-a-thing-for-feet-apparently-forgetting-all-the-barefoot-women-in-fromsoftware-games/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/oa6gBLgxZ462xcRfujuyXb-1280-80.jpg",
+    "published_at": "2026-09-03T17:16:35.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "d5e6c6836b68",
     "slug": "call-of-duty-3-other-fps-games-officially-shutting-down",
     "headline": "Call of Duty & 3 Other FPS Games Officially Shutting Down",
@@ -129,6 +239,29 @@
     "game_label": null
   },
   {
+    "id": "a0e2742a1d5a",
+    "slug": "microsoft-introduces-time-limits-and-usage-based-pricing-for-xbox-clou",
+    "headline": "Microsoft introduces time limits and usage-based pricing for Xbox cloud gaming service",
+    "summary": "In a sign that cloud gaming isn’t immune from rising data center costs, Microsoft announced today that it is introducing time limits for Xbox...\nThe post Microsoft introduces time limits and usage-based pricing for Xbox cloud gaming service appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/microsoft-introduces-time-limits-for-xbox-cloud-gaming-service/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/a0e2742a1d5a/800/600",
+    "published_at": "2026-09-03T17:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "3513038be9d0",
     "slug": "japanese-charts-elden-ring-puts-up-a-good-fight-but-its-felled-by-the",
     "headline": "Japanese Charts: Elden Ring Puts Up A Good Fight, But It's Felled By The Reigning Champ",
@@ -146,6 +279,27 @@
     "image_url": "https://images.nintendolife.com/af6a2053318f7/large.jpg",
     "published_at": "2026-09-03T17:00:00.000Z",
     "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "79a67ed64af3",
+    "slug": "a-long-dormant-blizzard-franchise-could-be-coming-to-dungeons-and-drag",
+    "headline": "A Long-Dormant Blizzard Franchise Could Be Coming To Dungeons And Dragons",
+    "summary": "Dungeons & Dragons is no stranger to crossovers with other IP, and a collaboration with Blizzard's World of Warcraft also already on the way. However, that may not be the only Blizzard crossover we get in D&D, as both Wizards of the Coast and Blizzard teased recently. Speaking to GameSpot's Jessica Cogswell during Gen Con 2026, head of Dungeons &…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/a-long-dormant-blizzard-franchise-could-be-coming-to-dungeons-and-dragons/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Blizzard-Xbox-Top-Studio.webp?w=300",
+    "published_at": "2026-09-03T16:59:29.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -175,6 +329,27 @@
     "game_label": null
   },
   {
+    "id": "72b45d237022",
+    "slug": "dds-world-of-warcraft-crossover-may-not-be-a-one-way-street",
+    "headline": "D&D’s World Of Warcraft Crossover May Not Be A One-Way Street",
+    "summary": "Dungeons & Dragons fans will soon be exploring the dangerous lands of Azeroth, as World of Warcraft is coming to the tabletop game. Wizards of the Coast (WotC) and Blizzard have gone all-out with this crossover, as not only does it feature multiple World of Warcraft classes and six additional subclasses, but also various specializations, spells, items, and enemies. That…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/dds-world-of-warcraft-crossover-may-not-be-a-one-way-street/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/DD-Wow.jpg?w=300",
+    "published_at": "2026-09-03T16:53:53.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "d97c72a429b1",
     "slug": "crimson-desert-is-getting-its-first-story-dlc-next-month-featuring-shi",
     "headline": "Crimson Desert is getting its first story DLC next month, featuring ship exploration",
@@ -190,6 +365,29 @@
     "image_url": "https://picsum.photos/seed/d97c72a429b1/800/600",
     "published_at": "2026-09-03T16:39:27.000Z",
     "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7ab189f94dcd",
+    "slug": "gamesbeat-launches-the-mobile-mogul-awards-celebrating-the-leaders-sha",
+    "headline": "GamesBeat launches the Mobile Mogul Awards celebrating the leaders shaping mobile gaming, entertainment and technology",
+    "summary": "GamesBeat is growing its coverage of the interactive economy—and mobile is at the center of the expansion with the Mobile Mogul Awards.\nThe post GamesBeat launches the Mobile Mogul Awards celebrating the leaders shaping mobile gaming, entertainment and technology appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/gamesbeat-launches-the-mobile-mogul-awards/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/7ab189f94dcd/800/600",
+    "published_at": "2026-09-03T16:34:15.000Z",
+    "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -483,6 +681,10 @@
       {
         "name": "Nintendo Life",
         "url": "https://www.nintendolife.com/news/2026/09/final-fantasy-resonance-demo-arrives-on-switch-1-and-2-today"
+      },
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/final-fantasy-resonance-demo-now-available"
       }
     ],
     "image_url": "https://images.pushsquare.com/93db5e978e214/large.jpg",
@@ -792,6 +994,29 @@
     "comment_count": 0,
     "game": "stalker-2",
     "game_label": "Stalker 2"
+  },
+  {
+    "id": "a166fc7b4c36",
+    "slug": "kraftons-5minlab-unveils-co-op-anomaly-hunting-game-wpca-world-phasebo",
+    "headline": "Krafton's 5minlab Unveils Co-Op Anomaly Hunting Game WPCA: World Phasebound Control Authority",
+    "summary": "A new co-op anomaly hunting game was revealed during the State of Play Japan event, developed by 5minlab, a subsidiary of Seoul-based Krafton.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/seoul-based-studio-announces-a-new-co-op-anomaly-hunting-game-for-ps5"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/fbbe0b93efd14/large.jpg",
+    "published_at": "2026-09-03T15:45:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "wpca-world-phasebound-control-authority",
+    "game_label": "WPCA: World Phasebound Control Authority"
   },
   {
     "id": "e441aa5ecbb5",
@@ -3836,6 +4061,32 @@
     "game_label": null
   },
   {
+    "id": "04160d484bde",
+    "slug": "annapurna-interactive-and-graceful-decay-announce-puzzle-adventure-gam",
+    "headline": "Annapurna Interactive and Graceful Decay announce puzzle adventure game Uncanyon for PS5, Xbox Series, Switch 2, and PC",
+    "summary": "Publisher Annapurna Interactive and developer Graceful Decay have announced Uncanyon, a puzzle-first adventure game set …",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/annapurna-interactive-and-graceful-decay-announce-puzzle-adventure-game-uncanyon-for-ps5-xbox-series-switch-2-and-pc"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/04160d484bde/800/600",
+    "published_at": "2026-09-03T13:26:05.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "d8e20a2689b0",
     "slug": "final-fantasy-resonance-ps5-demo-available-today-sephiroth-revealed",
     "headline": "Final Fantasy Resonance PS5 demo available today, Sephiroth revealed",
@@ -4371,247 +4622,6 @@
     ],
     "image_url": "https://picsum.photos/seed/a0c0b1322f7a/800/600",
     "published_at": "2026-09-03T13:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "398c25025f58",
-    "slug": "guild-wars-3-gets-a-preview-as-a-meaningful-mmo-experience",
-    "headline": "Guild Wars 3 gets a preview as a ‘meaningful MMO’ experience",
-    "summary": "NCsoft’s ArenaNet showed off Guild Wars 3, a big new action-adventure massively multiplayer online (MMO) game coming to the PC and PlayStation 5. The...\nThe post Guild Wars 3 gets a preview as a ‘meaningful MMO’ experience appeared first on GamesBeat.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/guild-wars-3-gets-a-preview-as-a-meaningful-mmo-experience/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/398c25025f58/800/600",
-    "published_at": "2026-09-03T13:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ef92de31fedb",
-    "slug": "trove-launches-collection-dividends-feature-to-turn-users-digital-coll",
-    "headline": "Trove launches Collection Dividends feature to turn users’ digital collectibles into income | exclusive",
-    "summary": "Trove wants its users to get paid for owning digital collectibles.  The New-York-based company launched its digital platform for buying, opening, and trading authenticated...\nThe post Trove launches Collection Dividends feature to turn users’ digital collectibles into income | exclusive appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/trove-launches-collection-dividends-feature-to-turn-users-digital-collectibles-into-income-exclusive/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/ef92de31fedb/800/600",
-    "published_at": "2026-09-03T13:00:00.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8a9ba07e3670",
-    "slug": "nba-2k27-with-nvidia-dlss-5-leads-26-new-games-coming-to-geforce-now",
-    "headline": "NBA 2K27 with NVIDIA DLSS 5 leads 26 new games coming to GeForce Now",
-    "summary": "September will bring more games streaming to GeForce Now, with NBA 2K27 leading the charge and using NVIDIA DLSS 5 3D-Guided Neural Rendering.\nThe post NBA 2K27 with NVIDIA DLSS 5 leads 26 new games coming to GeForce Now appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/nba-2k27-with-nvidia-dlss-5-leads-26-new-games-coming-to-geforce-now/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/8a9ba07e3670/800/600",
-    "published_at": "2026-09-03T13:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "fec4a23f7567",
-    "slug": "state-space-labs-launches-aimlabs-20-with-multiplayer-modes-and-overha",
-    "headline": "State Space Labs launches Aimlabs 2.0 with multiplayer modes and overhauled user experience | exclusive",
-    "summary": "The most popular aim training platform just surprised its user base with its first-ever sequel. Since 2018, Aimlabs has been the most prominent aim...\nThe post State Space Labs launches Aimlabs 2.0 with multiplayer modes and overhauled user experience | exclusive appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/state-space-labs-launches-aimlabs-2-0-with-multiplayer-modes-and-overhauled-user-experience-exclusive/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/fec4a23f7567/800/600",
-    "published_at": "2026-09-03T13:00:00.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a52017b4bb16",
-    "slug": "bytebrew-brings-live-operations-into-app-developers-aiworkflows-closin",
-    "headline": "ByteBrew brings live operations into app developers’ AIWorkflows, closing the Agentic Loop from insight to action",
-    "summary": "The mobile platform ByteBrew, has announced that Operate, its live operations stack, now runs natively inside Shift AI. \nThe post ByteBrew brings live operations into app developers’ AIWorkflows, closing the Agentic Loop from insight to action appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/bytebrew-brings-live-operations-into-app-developers-aiworkflows/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a52017b4bb16/800/600",
-    "published_at": "2026-09-03T13:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3cbd3f0c4a78",
-    "slug": "wolf-haus-games-unveils-edgy-and-satirical-open-world-cult-survival-ga",
-    "headline": "Wolf Haus Games unveils edgy and satirical open world cult survival game Join Us",
-    "summary": "Wolf Haus Games has unveiled the open world cult survival game Join Us. The Unreal Engine game is coming in March 2027 for the...\nThe post Wolf Haus Games unveils edgy and satirical open world cult survival game Join Us appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/wolf-haus-games-unveils-edgy-and-satirical-open-world-cult-survival-game-join-us/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/3cbd3f0c4a78/800/600",
-    "published_at": "2026-09-03T13:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cc41a00fbab1",
-    "slug": "25-best-games-from-xboxs-deep-discounts-sale",
-    "headline": "25+ Best Games from Xbox's Deep Discounts Sale",
-    "summary": "Xbox's deep discounts are offering majorly reduced titles, including banger games, making gaming feel affordable in 2026. A curated list of the best deals has been compiled.",
-    "category": "deals",
-    "platform_tags": [
-      "xbox",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/features/25plus-of-the-best-games-from-xboxs-deep-discounts-sale"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/489e62eddeca5/large.jpg",
-    "published_at": "2026-09-03T13:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b0492d4ab430",
-    "slug": "mmos-have-stagnated-guild-wars-3-studio-head-says",
-    "headline": "MMOs Have “Stagnated,” Guild Wars 3 Studio Head Says",
-    "summary": "Guild Wars 3 developer ArenaNet wants to try \"wild, crazy ideas\" in a genre that, according to its studio head, has \"stagnated\" in recent years. During a hands-off demo where early Guild Wars 3 gameplay was shown to members of the press, I asked ArenaNet studio head Colin Johanson about the state of the MMO genre in 2026 and what…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/mmos-have-stagnated-guild-wars-3-studio-head-says/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Guild-Wars-3-MMOs-Have-Stagnated.jpg?w=300",
-    "published_at": "2026-09-03T13:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2668a224a6ec",
-    "slug": "guild-wars-3s-approach-to-combat-and-movement-is-like-nothing-ive-ever",
-    "headline": " Guild Wars 3's approach to combat and movement is like nothing I've ever seen in an MMO before: 'One of our big goals when we make a new game in the Guild Wars franchise is to set out and try new things' ",
-    "summary": "Wall running, mantling, aerial attacks, multiplayer combos—it's a lot of new stuff.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/mmo/guild-wars-3s-approach-to-combat-and-movement-is-like-nothing-ive-ever-seen-in-an-mmo-before-one-of-our-big-goals-when-we-make-a-new-game-in-the-guild-wars-franchise-is-to-set-out-and-try-new-things/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/F9ogZeiMZujbT7z7PcCub3-1280-80.jpg",
-    "published_at": "2026-09-03T13:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3f2d9f79573e",
-    "slug": "join-us-continues-indoctrinating-us-with-a-good-time",
-    "headline": "JOIN US Continues Indoctrinating Us with a Good Time",
-    "summary": "Have you heard the good and noble word of our Leader? I’d be happy to tell you all about him if you happen to have a few minutes. Or hours. Days? The rest of your life? Honestly, it’ll be fun. Why don’t you put on these robes and JOIN US in our little sandbox of […] The post JOIN US…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/09/03/join-us-continues-indoctrinating-us-with-a-good-time/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/3f2d9f79573e/800/600",
-    "published_at": "2026-09-03T13:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "91f8dfcdbd63",
-    "slug": "alien-isolation-2s-gamescom-demo-kept-its-cards-close-to-its-chest-but",
-    "headline": " Alien: Isolation 2's Gamescom demo kept its cards close to its chest, but I'm definitely ready to be terrified again ",
-    "summary": "Just, you know, give me a minute to collect myself.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/horror/alien-isolation-2s-gamescom-demo-kept-its-cards-close-to-its-chest-but-im-definitely-ready-to-be-terrified-again/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/K6r67WNBhdQQnYHgGtgjHh-1280-80.jpg",
-    "published_at": "2026-09-03T12:55:13.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
