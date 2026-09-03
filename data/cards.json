@@ -1,5 +1,680 @@
 [
   {
+    "id": "ded36774a59e",
+    "slug": "final-fantasy-resonance-has-killer-combat-but-goes-overboard-on-the-fa",
+    "headline": "Final Fantasy Resonance Has Killer Combat But Goes Overboard on the Fan Service | Preview",
+    "summary": "Square Enix’s revamped console version of Final Fantasy Brave Exvius has thrilling combat, but can the cast outshine all those memorable cameos?",
+    "category": "reviews",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/final-fantasy-resonance-preview/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/en13-02.jpg",
+    "published_at": "2026-09-03T14:15:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "70b21b5bb5b2",
+    "slug": "final-fantasy-resonance-hands-on-preview",
+    "headline": "Final Fantasy Resonance Hands-On Preview",
+    "summary": "Game Rant previews Final Fantasy Resonance at Gamescom, describing it as a nostalgia-fueled RPG based on Final Fantasy Brave Exvius.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/video/final-fantasy-resonance-hands-on-video-preview/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/final-fantasy-ressonance-we-played-gamerant-web-a.jpg",
+    "published_at": "2026-09-03T14:15:12.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-resonance",
+    "game_label": "Final Fantasy Resonance"
+  },
+  {
+    "id": "4e9a7eaa78f5",
+    "slug": "ps-plus-confirms-4-games-coming-soon-including-4-player-co-op-game",
+    "headline": "PS Plus Confirms 4 Games Coming Soon, Including 4-Player Co-Op Game",
+    "summary": "Sony has announced four new games coming to PlayStation Plus, including a day-one co-op game, providing subscribers with more options for gameplay",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/ps-plus-games-coming-soon-mycopunk/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/ps-plus-new-games-coming-soon.jpg",
+    "published_at": "2026-09-03T14:14:33.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ps-plus",
+    "game_label": "PS Plus"
+  },
+  {
+    "id": "7857c051e3a8",
+    "slug": "final-fantasy-7-revelation-release-date-announced",
+    "headline": "Final Fantasy 7 Revelation Release Date Announced",
+    "summary": "Square Enix has confirmed the release date for Final Fantasy 7 Revelation, marking the conclusion of the trilogy, set to arrive in April.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/final-fantasy-7-revelation-september-state-of-play-release-date-announced/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/nintendoswitch2_final_fantasy_vii_rebirth_screenshot-4.jpeg",
+    "published_at": "2026-09-03T14:11:45.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-7-revelation",
+    "game_label": "Final Fantasy 7 Revelation"
+  },
+  {
+    "id": "cfc47e6a4b73",
+    "slug": "until-dawn-2-gets-ps5-release-date",
+    "headline": "Until Dawn 2 Gets PS5 Release Date",
+    "summary": "Until Dawn 2 has been officially announced for a PS5 release on January 28th next year, following a recent State of Play showcase. The game will be available to play in the dark winter season.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/until-dawn-2-release-date-pre-order-details"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/until-dawn-2-header_RhJFfHQ.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-03T14:10:39.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "until-dawn-2",
+    "game_label": "Until Dawn 2"
+  },
+  {
+    "id": "72c823c8b7a0",
+    "slug": "sony-state-of-play-september-2026-every-big-reveal-and-trailer",
+    "headline": "Sony State of Play September 2026: Every Big Reveal and Trailer",
+    "summary": "The September 2026 State of Play was packed with announcements, including a FF7 Revelation release date, GTA 6 PlayStation hardware, and more",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/sony-state-of-play-news-trailers-announcements-september-2026/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/final-fantasy-7-revelation-tifa-mage.png",
+    "published_at": "2026-09-03T14:09:07.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "177a67a48501",
+    "slug": "crimson-deserts-first-dlc-is-called-charting-the-unknown-and-its-out-n",
+    "headline": "Crimson Desert's first DLC is called Charting the Unknown, and it's out next month",
+    "summary": "It didn't take long for Crimson Desert to get new stuff. During today's State of Play, developer Pearl Abyss unveiled Charting the Unknown. This is the game's first post-launch DLC, and it's set to arrive 15th October.\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/crimson-desert-charting-the-unknown-dlc-date"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Crimson-Desert---Charting-the-Unknown-DLC-Reveal-Trailer-_-PS5-Games-0-15-screenshot.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-03T14:08:54.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e1ce026c8cd9",
+    "slug": "sony-shows-off-lego-playstation-with-hidden-secrets-i-think-fans-are-g",
+    "headline": "Sony shows off Lego PlayStation with hidden secrets I think fans are gonna love",
+    "summary": "Sony has showcased a Lego PlayStation with hidden secrets, sparking excitement among fans.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/toys-collectibles/sony-shows-off-lego-playstation-with-hidden-secrets-i-think-fans-are-gonna-love/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/9dSAhawRyxVpm4boeZTwa8-1280-80.jpg",
+    "published_at": "2026-09-03T14:08:13.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ea740a14de43",
+    "slug": "sonys-state-of-play-livestream-sparks-outrage-over-discless-ps-console",
+    "headline": "Sony's State of Play Livestream Sparks Outrage Over Discless PS Console",
+    "summary": "A recent State of Play livestream for PlayStation sparked controversy among fans due to the lack of discless PS consoles and poor PR handling, with many criticizing Sony's response to the issue.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/sony-state-of-play-no-disc-no-buy-destiny-3"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/state-of-play-no-disc-no-buy.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-03T14:05:12.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "71ff2acb48f2",
+    "slug": "fateextra-record-launches-jan-28-2027-on-ps5-ps4",
+    "headline": "Fate/Extra Record launches Jan 28 2027 on PS5 & PS4",
+    "summary": "During today’s State of Play, we announced that Fate/Extra Record, developed by Type-Moon, will be releasing worldwide on PlayStation 4 and PlayStation 5 on January 28, 2027! We know everyone’s been patiently waiting to learn more about this return to the Fate universe, so we’ve shared a thrilling new trailer jam-packed with the latest footage […]",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/09/03/fate-extra-record-launches-jan-28-2027-on-ps5-ps4/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/71ff2acb48f2/800/600",
+    "published_at": "2026-09-03T14:04:38.000Z",
+    "hype_signal": 95,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f7855818a4e2",
+    "slug": "playstation-state-of-play",
+    "headline": "PlayStation State of Play",
+    "summary": "Sony is hosting two State of Play showcases today, one for PS5 games and another for Japanese titles, marking a new format for the series.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/state-of-play-september-2026-live-blog"
+      },
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/playstation-state-of-play-final-fantasy-until-dawn-2000730839"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Wolverine_State-of-Play.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-03T14:00:49.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "af26eb44d70e",
+    "slug": "aim-fling-reel-repeat-a-chilling-ps1-style-mystery-game",
+    "headline": "Aim, Fling, Reel, Repeat: A Chilling PS1-Style Mystery Game",
+    "summary": "Ben Starr's performance as a mermaid was just one aspect of the delightful PS1-style mystery game that had the author feeling more relaxed than frustrated",
+    "category": "reviews",
+    "platform_tags": [
+      "playstation",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/adventure/i-sucked-at-about-fishing-but-the-ps1-style-mystery-game-had-me-feeling-more-chill-than-frustrated/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/H5GSLRH99rT22zUjxBZJ6U-1280-80.jpg",
+    "published_at": "2026-09-03T14:00:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "about-fishing",
+    "game_label": "About Fishing"
+  },
+  {
+    "id": "9083feea0868",
+    "slug": "the-blood-of-dawnwalker-launch-trailer-unveils-new-action-rpg",
+    "headline": "The Blood of Dawnwalker Launch Trailer Unveils New Action RPG",
+    "summary": "Rebel Wolves' new action RPG, The Blood of Dawnwalker, has been released with a launch trailer showcasing its story, world, and gameplay mechanics.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/09/03/the-blood-of-dawnwalker-available-today/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/9083feea0868/800/600",
+    "published_at": "2026-09-03T14:00:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-blood-of-dawnwalker",
+    "game_label": "The Blood of Dawnwalker"
+  },
+  {
+    "id": "ccf4429381d1",
+    "slug": "gta-6-is-getting-two-custom-ps5-dualsense-controllers",
+    "headline": "GTA 6 is getting two custom PS5 DualSense controllers",
+    "summary": "Both GTA 6 PS5 controllers will be available via PlayStation Direct",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/gta-6-is-getting-two-custom-ps5-dualsense-controllers/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/ccf4429381d1/800/600",
+    "published_at": "2026-09-03T13:57:59.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9ed757d2a585",
+    "slug": "playstation-5-dualsense-hardware-will-feature-gta-6",
+    "headline": "PlayStation 5 DualSense Hardware Will Feature GTA 6",
+    "summary": "Rockstar's upcoming GTA 6 game will be released alongside a new PlayStation 5 hardware model featuring the DualSense controller, giving fans a taste of Vice City",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-ps5-controller-hardware-preorder-how-to-buy-price-release-date/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/grand-theft-auto-vi-limited-edition-dualsense-controllers-ps5.jpeg",
+    "published_at": "2026-09-03T13:57:42.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
+    "id": "cb99e890a475",
+    "slug": "final-fantasy-vii-revelation-launches-on-ps5",
+    "headline": "Final Fantasy VII Revelation Launches on PS5",
+    "summary": "Square Enix has confirmed the release date for Final Fantasy VII Revelation on PS5, marking the final entry in the Final Fantasy VII Remake Series",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/09/03/final-fantasy-vii-revelation-launches-on-ps5-april-8-2027/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/cb99e890a475/800/600",
+    "published_at": "2026-09-03T13:57:19.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-vii-revelation",
+    "game_label": "Final Fantasy VII Revelation"
+  },
+  {
+    "id": "92ce78e4c357",
+    "slug": "final-fantasy-7-revelation-gets-release-date-and-shows-off-extended-op",
+    "headline": "Final Fantasy 7 Revelation Gets Release Date And Shows Off Extended Open-World RPG Gameplay",
+    "summary": "The game's scope is bigger than ever",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/final-fantasy-7-revelation-gets-release-date-and-shows-off-extended-open-world-rpg-gameplay-2000730880"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/VS-YouTube-955FinalFantasyVIIRevelation-ReleaseDateRevealTrailerPS5Games-YouTube-011-1280x720.jpg",
+    "published_at": "2026-09-03T13:55:34.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ec7682a5cf32",
+    "slug": "blood-of-dawnwalker-developers-offer-workarounds-for-pc-issues",
+    "headline": "Blood of Dawnwalker Developers Offer Workarounds for PC Issues",
+    "summary": "CD Projekt alumni's RPG has a smoother console experience, but PC players still face issues that have been addressed by the developers.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/the-blood-of-dawnwalker-rpg-pc-crash-issues-fixes-rebel-wolves-2000730833"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/dawnwalker-1280x720.jpg",
+    "published_at": "2026-09-03T13:55:03.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "blood-of-dawnwalker",
+    "game_label": "Blood of Dawnwalker"
+  },
+  {
+    "id": "aca39dba3872",
+    "slug": "metro-2039-gets-a-new-trailer",
+    "headline": "Metro 2039 Gets a New Trailer",
+    "summary": "Metro 2039 has a confirmed release date of February 4, 2027, and a new trailer showcasing the game's visuals and gunplay.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/metro-2039-gets-a-new-trailer-but-targets-a-very-busy-february-xbox-release"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/66067d3162fbb/large.jpg",
+    "published_at": "2026-09-03T13:55:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "metro-2039",
+    "game_label": "Metro 2039"
+  },
+  {
+    "id": "da38ff2d71f0",
+    "slug": "final-fantasy-7-revelation-ends-the-trilogy-in-april-loads-of-new-ps5",
+    "headline": "Final Fantasy 7 Revelation Ends the Trilogy in April, Loads of New PS5 Gameplay Revealed",
+    "summary": "What a Revelation. Final Fantasy 7 Revelation will bring an end to Square Enix's remake trilogy on the 8th April, 2027. The release date was confirmed during the latest State of Play. This third game has obviously been a long time coming, considering the original Final Fantasy 7 Remake first launched for PS4 all the way back in 2020. Read…",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-ends-the-trilogy-in-april-loads-of-new-ps5-gameplay-revealed"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/f79e2caf67274/large.jpg",
+    "published_at": "2026-09-03T13:55:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0af62dd487ed",
+    "slug": "final-fantasy-7-revelation-release-date-finally-set-for-april-new-trai",
+    "headline": " Final Fantasy 7 Revelation release date finally set for April, new trailer shows off open-world gameplay, Wutai region, and Queen's Blood ",
+    "summary": "Almost exactly seven years from the release of Remake",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-release-date-finally-set-for-april-new-trailer-shows-off-open-world-gameplay-in-the-wutai-region/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/tU4EgeY52dDTakkBLhYk4-1280-80.jpg",
+    "published_at": "2026-09-03T13:54:34.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b8fb7223df15",
+    "slug": "final-fantasy-7-revelation-release-date-confirmed-for-early-2024",
+    "headline": "Final Fantasy 7 Revelation Release Date Confirmed for Early 2024",
+    "summary": "Square Enix has confirmed that Final Fantasy 7 Revelation will be released early next year, without specifying an exact date",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/square-enix-confirms-final-fantasy-7-revelation-release-date/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/b8fb7223df15/800/600",
+    "published_at": "2026-09-03T13:51:12.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-7-revelation",
+    "game_label": "Final Fantasy 7 Revelation"
+  },
+  {
+    "id": "4db339f7d13b",
+    "slug": "saros-free-zenith-update-adds-boss-rush-new-game-plus",
+    "headline": "Saros' Free Zenith Update Adds Boss Rush, New Game Plus",
+    "summary": "Housemarque is releasing a free update for its shooter game Saros, titled Zenith, with new content and features designed for replayability. The update is set to arrive later in 2026.",
+    "category": "patches",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/saros-free-zenith-update-adds-boss-rush-new-game-plus-more-later-this-year"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/468c5e98f5165/large.jpg",
+    "published_at": "2026-09-03T13:50:00.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "saros",
+    "game_label": "Saros"
+  },
+  {
+    "id": "882b1b03025c",
+    "slug": "crimson-desert-dlcs-first-trailer-takes-the-rpg-to-unexpected-new-plac",
+    "headline": "'Crimson Desert' DLC’s First Trailer Takes the RPG to Unexpected New Places",
+    "summary": "The first trailer for the 'Crimson Desert: Charting the Unknown' DLC includes pirates, robots, and steampunk scuba diving.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/crimson-desert-dlc-charting-the-unknown-trailer-release-date/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/crimson-desert-dlc.jpg",
+    "published_at": "2026-09-03T13:47:33.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "93274789a5b8",
+    "slug": "gta-6-getting-two-custom-ps5-controllers-that-look-cool",
+    "headline": "GTA 6 Getting Two Custom PS5 Controllers That Look Cool",
+    "summary": "Grand Theft Auto 6 was briefly showcased at Sony's State of Play event with a teaser for custom PS5 controllers.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/gta-6-getting-two-custom-ps5-controllers-that-look-cool-2000730879"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/wario64-1-e1788443145465-1280x595.jpg",
+    "published_at": "2026-09-03T13:47:09.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
+    "id": "546b30fd0dde",
+    "slug": "final-fantasy-vii-revelation-release-date-for-switch-2-revealed",
+    "headline": "Final Fantasy VII Revelation Release Date For Switch 2 Revealed",
+    "summary": "The end is nigh.\nSquare Enix has announced the release date for Final Fantasy VII Revelation. You ready..?\nIt's 8th April 2027.\nRead the full article on nintendolife.com",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/final-fantasy-vii-revelation-release-date-for-switch-2-revealed"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/832b8ff329322/large.jpg",
+    "published_at": "2026-09-03T13:47:00.000Z",
+    "hype_signal": 95,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "21f101beac65",
+    "slug": "final-fantasy-7-revelation-launches-april-8",
+    "headline": "Final Fantasy 7 Revelation Launches April 8",
+    "summary": "Final Fantasy 7 Revelation has once again headlined a gaming showcase, this time with a new trailer and launch date.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/final-fantasy-7-revelation-state-of-play-deep-dive/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/finalfantasy7revelationcloudtifabarretteam.jpg",
+    "published_at": "2026-09-03T13:46:49.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b71932d17726",
+    "slug": "final-fantasy-vii-revelation-release-date-announced",
+    "headline": "Final Fantasy VII Revelation Release Date Announced",
+    "summary": "Square Enix has confirmed Final Fantasy VII Revelation's release date for April 8, 2027, as part of Sony's State of Play event.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/final-fantasy-vii-revelation-arrives-in-april/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/ff7.jpg?w=300",
+    "published_at": "2026-09-03T13:46:05.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-vii-revelation",
+    "game_label": "Final Fantasy VII Revelation"
+  },
+  {
+    "id": "9bfdc2e6cfe5",
+    "slug": "more-playstation-plus-games-revealed-including-a-day-one-release",
+    "headline": "More PlayStation Plus Games Revealed, Including A Day-One Release",
+    "summary": "As part of the September 3 State of Play event, Sony announced more games for the PlayStation Plus catalog.\nDevolver's customizable looter-shooter Mycopunk is launching directly into the PlayStation Plus Premium and Extra tiers in October 2026, the company said. \n\nhttps://twitter.com/devolverdigital/status/2095505751632453905\n\n\n\n\nAdditionally, more PlayStation \"classics\" are coming over the next f",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/more-playstation-plus-games-revealed-including-a-day-one-release/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-03-at-9.38.01-AM.png?w=300",
+    "published_at": "2026-09-03T13:45:57.000Z",
+    "hype_signal": 100,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "9aa4ce348091",
     "slug": "ps-pluss-next-classics-games-include-ratchet-clank-and-more",
     "headline": "PS Plus’s next Classics games include Ratchet & Clank and more",
@@ -57,6 +732,10 @@
       {
         "name": "TheGamer",
         "url": "https://www.thegamer.com/playstation-state-of-play-september-until-dawn-2-trailer/"
+      },
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/until-dawn-2-launches-january-28-2027"
       }
     ],
     "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/untildawn2neil.jpg",
@@ -66,6 +745,56 @@
     "comment_count": 0,
     "game": "until-dawn-2",
     "game_label": "Until Dawn 2"
+  },
+  {
+    "id": "d9e4aaddd0f9",
+    "slug": "final-fantasy-resonance-demo-arrives-ahead-of-october-release-date",
+    "headline": "Final Fantasy Resonance Demo Arrives Ahead of October Release Date",
+    "summary": "Square Enix has released a surprise demo for Final Fantasy Resonance, a highly anticipated JRPG, ahead of its scheduled October release.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-resonance-the-square-enix-jrpg-ive-wanted-for-nearly-a-decade-gets-a-surprise-demo-today/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/WsHUuHyHWTpQxoDnks8p8S-1280-80.jpg",
+    "published_at": "2026-09-03T13:41:52.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-resonance",
+    "game_label": "Final Fantasy Resonance"
+  },
+  {
+    "id": "b1235924b96e",
+    "slug": "gta-6-limited-edition-ps5-controllers-revealed",
+    "headline": "GTA 6 Limited Edition PS5 Controllers Revealed",
+    "summary": "Sony and Rockstar Games have announced two limited-edition PS5 controllers for GTA 6, both with colorful designs featuring the game's logo. Pre-orders start September 10, 2026, for release on November 19, 2026.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/gta-6-limited-edition-ps5-controllers-revealed-out-19th-november"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/73a3beb4fcda0/large.jpg",
+    "published_at": "2026-09-03T13:40:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
   },
   {
     "id": "ff4006e31472",
@@ -90,6 +819,29 @@
     "comment_count": 0,
     "game": "ghost-of-yotei-complete-edition",
     "game_label": "Ghost of Yotei: Complete Edition"
+  },
+  {
+    "id": "3e2879c57293",
+    "slug": "marvels-wolverine-offers-up-one-last-trailer-before-launch-on-ps5",
+    "headline": "Marvel's Wolverine Offers Up One Last Trailer Before Launch on PS5",
+    "summary": "Cutting deep.\nSony and Insomniac Games have debuted the launch trailer for Marvel's Wolverine, the latest PS5 exclusive that's coming in less than two weeks.\nWatch it below:\nRead the full article on pushsquare.com",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/marvels-wolverine-offers-up-one-last-trailer-before-launch-on-ps5"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/0731ced179e4d/large.jpg",
+    "published_at": "2026-09-03T13:35:00.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "3c1547e0999c",
@@ -203,6 +955,29 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "5e72c4efd21c",
+    "slug": "rev-noir-launches-for-ps5-in-2027",
+    "headline": "Rev. NOiR Launches for PS5 in 2027",
+    "summary": "RPG Rev. NOiR is set to launch on the PlayStation 5 in 2027, with publisher Konami and developer ILCA handling the game's development and distribution.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/rev-noir-launches-in-2027"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/5e72c4efd21c/800/600",
+    "published_at": "2026-09-03T13:30:23.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "rev-noir",
+    "game_label": "Rev. NOiR"
   },
   {
     "id": "39daf37ff2bf",
@@ -365,6 +1140,54 @@
     "game_label": "original PlayStation console"
   },
   {
+    "id": "644402df8e93",
+    "slug": "gundam-rogue-orbit-launches-march-5-2027",
+    "headline": "Gundam Rogue Orbit launches March 5, 2027",
+    "summary": "“High-mobility action game” Gundam Rogue Orbit will launch for PlayStation 5, Xbox Series, and PC …",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/gundam-rogue-orbit-launches-march-5-2027"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/644402df8e93/800/600",
+    "published_at": "2026-09-03T13:23:10.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8f7fc407c8af",
+    "slug": "lego-playstation-collaboration",
+    "headline": "LEGO PlayStation Collaboration",
+    "summary": "PlayStation and LEGO announce a new collaboration celebrating 30 years of play, allowing fans to combine their love of gaming and LEGO, with a first look shared during the State of Play event.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/09/03/building-on-30-years-of-play-first-look-at-the-lego-playstation/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/8f7fc407c8af/800/600",
+    "published_at": "2026-09-03T13:22:18.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "lego-playstation",
+    "game_label": "LEGO PlayStation"
+  },
+  {
     "id": "fc2ba9ee7dfe",
     "slug": "crimson-desert-dlc-coming-october-15",
     "headline": "Crimson Desert DLC Coming October 15",
@@ -425,6 +1248,10 @@
       {
         "name": "Eurogamer",
         "url": "https://www.eurogamer.net/everything-announced-at-sonys-state-of-play-september-2026"
+      },
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/playstation-september-3-2026-state-of-play-everything-announced/"
       }
     ],
     "image_url": "https://assetsio.gnwcdn.com/Logan-with-his-claws-out-in-Marvel's-Wolverine.jpg?width=690&quality=85&format=jpg&auto=webp",
@@ -501,6 +1328,32 @@
     "comment_count": 0,
     "game": "ghost-of-yotei",
     "game_label": "Ghost of Yōtei"
+  },
+  {
+    "id": "7dac883f0b1d",
+    "slug": "maneater-2-announced",
+    "headline": "Maneater 2 Announced",
+    "summary": "Tripwire Interactive and Demiruge Studios have announced the sequel to Maneater, titled ShaRkPG, for PS5, Xbox Series, Switch, and PC.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/maneater-2-announced-for-ps5-xbox-series-switch-2-and-pc"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/7dac883f0b1d/800/600",
+    "published_at": "2026-09-03T13:16:23.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "maneater-2",
+    "game_label": "Maneater 2"
   },
   {
     "id": "7e30ed48de34",
@@ -684,6 +1537,27 @@
     "game_label": null
   },
   {
+    "id": "8d7347fa1b0a",
+    "slug": "famitsu-sales-82426-83026",
+    "headline": "Famitsu Sales: 8/24/26 – 8/30/26",
+    "summary": "Famitsu has published its estimated physical game software data for Japan for the week of …",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/famitsu-sales-8-24-26-8-30-26"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/8d7347fa1b0a/800/600",
+    "published_at": "2026-09-03T13:05:48.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "87d3c4571ca4",
     "slug": "guild-wars-3s-devs-think-theyve-found-an-answer-to-one-of-mmos-biggest",
     "headline": "Guild Wars 3's devs think they've found an answer to one of MMOs' biggest problems, but can ArenaNet pull it off?",
@@ -698,6 +1572,27 @@
     ],
     "image_url": "https://assetsio.gnwcdn.com/GW3---Gamescom_KeyArt.jpg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-09-03T13:05:32.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "62e0d3b6e265",
+    "slug": "halloween-the-game-understands-what-makes-michael-myers-so-unsettling",
+    "headline": "Halloween: The Game Understands What Makes Michael Myers So Unsettling",
+    "summary": "Michael Myers is back to lurking around corners in Halloween: The Game, a gorgeous, creepy, occasionally glitchy trip to Haddonfield.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/halloween-the-game-review-michael-myers-haddonfield/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/michael-holding-aknife-in-halloween-the-game.jpg",
+    "published_at": "2026-09-03T13:00:14.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -836,29 +1731,6 @@
     "game_label": null
   },
   {
-    "id": "f7855818a4e2",
-    "slug": "playstation-state-of-play",
-    "headline": "PlayStation State of Play",
-    "summary": "Sony is hosting two State of Play showcases today, one for PS5 games and another for Japanese titles, marking a new format for the series.",
-    "category": "industry",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/state-of-play-september-2026-live-blog"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Wolverine_State-of-Play.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-03T12:47:06.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
     "id": "5076fb394dc9",
     "slug": "planet-coaster-and-jurassic-world-devs-frontier-have-teamed-up-with-di",
     "headline": "Planet Coaster and Jurassic World devs Frontier have teamed up with Disney to make what is probably a Disneyland tycoon game",
@@ -897,6 +1769,27 @@
     "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/State-of-Play.jpg?w=300",
     "published_at": "2026-09-03T12:45:00.000Z",
     "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8d978c51a3e3",
+    "slug": "dragons-dogma-2-dark-arisen-devs-say-western-and-japanese-players-want",
+    "headline": "Dragon's Dogma 2: Dark Arisen devs say Western and Japanese players want different things from the game",
+    "summary": "It seems catering to Dragon's Dogma 2 players is a tougher balancing act than we may realise. Capcom developers currently working on the game's upcoming Dark Arisen expansion have revealed rare insight into the varying preferences of the game's players, and it surprisingly has to do with where they're based.\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/dragons-dogma-2-dark-arisen-western-japanese-players-opposed"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/dragons-dogma-2-dark-arisen-shot-crop-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-03T12:43:23.000Z",
+    "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -1128,6 +2021,29 @@
     "image_url": "https://images.purexbox.com/2435951cccede/large.jpg",
     "published_at": "2026-09-03T12:00:00.000Z",
     "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2974cbb5bec5",
+    "slug": "three-studios-have-pitched-new-banjo-kazooie-games-to-microsoft-says-c",
+    "headline": "Three studios have pitched new Banjo-Kazooie games to Microsoft, says composer",
+    "summary": "Grant Kirkhope is feeling more optimistic about the future of Banjo-Kazooie",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/three-studios-have-pitched-new-banjo-kazooie-games-to-microsoft-says-composer/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/2974cbb5bec5/800/600",
+    "published_at": "2026-09-03T11:51:12.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -3690,881 +4606,6 @@
     ],
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/classic-ps2-games-still-perfect-masterpieces-devil-may-cry-3-dante-on-phone-with-console-blur.jpg",
     "published_at": "2026-09-02T18:26:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f76233c97a3b",
-    "slug": "psa-some-versions-of-the-same-game-arent-compatible-with-xbox-disc-to",
-    "headline": "PSA: Some Versions Of The Same Game Aren't Compatible With Xbox Disc To Digital",
-    "summary": "Battlefield 4 confirmed to be affected by this. As we continue to learn more and more about the Xbox Disc to Digital feature due to its rollout for Xbox Insiders, it's been discovered that some games only work if you use certain physical variants, with one example being Battlefield 4. The folks behind the XCT.live social media account mentioned this…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/psa-some-versions-of-the-same-game-arent-compatible-with-xbox-disc-to-digital"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/9bf01d8752de2/large.jpg",
-    "published_at": "2026-09-02T18:15:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "bd4df864d019",
-    "slug": "ontos-devs-on-the-centered-around-a-server-of-ratspsychological-gamepl",
-    "headline": "Ontos devs on the centered around a server of ratspsychological gameplay",
-    "summary": "After working on Ontos for over a decade, it is incredibly exciting to take a deep dive into the gameplay. Ontos is a spiritual successor to Soma, posing deep philosophical questions to players. Because of this, it is also always hard to figure out how to make it understandable in a short video. The focus […]",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PlayStation Blog",
-        "url": "https://blog.playstation.com/2026/09/02/ontos-devs-on-the-centered-around-a-server-of-ratspsychological-gameplay/"
-      }
-    ],
-    "image_url": "https://blog.playstation.com/uploads/2026/09/70397b36ef0f9b95182a24ae566e09cada8edfd5.mp4",
-    "published_at": "2026-09-02T18:03:30.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2fd4c5da2057",
-    "slug": "iconic-banjo-kazooie-composer-is-more-hopeful-about-a-sequel-these-day",
-    "headline": "Iconic Banjo-Kazooie composer is more hopeful about a sequel these days, but knows \"like three companies\" have already been turned down",
-    "summary": "Grant Kirkhope - the iconic video game composer behind the Donkey Kong Rap and the Banjo-Kazooie games - thinks a potential Banjo-Threeie is slightly more likely now.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/banjo-kazooie-composer-hopeful-sequel-three-companies-turned-down"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Super-Smash-Bros.-Ultimate-%E2%80%93-Mr.-Sakurai-Presents-_Banjo-%26-Kazooie_-3-39-screenshot-(1).png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-02T18:01:15.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5d7662e1e8de",
-    "slug": "1001-threads-of-mizan-was-one-of-gamescom-2026s-best-action-games",
-    "headline": "1001: Threads of Mizan Was One of Gamescom 2026’s Best Action Games",
-    "summary": "We played 1001: Threads of Mizan and spoke to the game director at Gamescom 2026 to understand more about what this action-adventure actually is.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/1001-threads-of-mizan-was-one-of-gamescom-2026s-best-action-games/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/announce_screenshots_17.jpg",
-    "published_at": "2026-09-02T18:00:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b350ef1691f7",
-    "slug": "lego-christmas-sets-officially-revealed",
-    "headline": "LEGO Christmas Sets Officially Revealed",
-    "summary": "LEGO has announced new Christmas-themed sets with various price points, featuring iconic characters, set to launch in October.",
-    "category": "deals",
-    "platform_tags": [
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/lego-christmas-sets-2026-buddy-the-elf/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/brand-new-lego-christmas-sets-officially-revealed-gamerant-feature.jpg",
-    "published_at": "2026-09-02T18:00:13.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1e186768e61f",
-    "slug": "dragons-dogma-2-frame-rates-massively-improved-with-patch-32-on-ps5-ps",
-    "headline": "Dragon's Dogma 2 Frame Rates Massively Improved with Patch 3.2 on PS5, PS5 Pro",
-    "summary": "Top Dogma.\nPatch 3.2 for Dragon's Dogma 2 released overnight, and it's made huge changes to the open world RPG.\nThe update reworks fundamental bits and pieces of the game, while also improving the user experience in some pretty significant ways. You could argue that it verges on being a kind of re-release.\nRead the full article on pushsquare.com",
-    "category": "patches",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-frame-rates-massively-improved-with-patch-3-2-on-ps5-ps5-pro"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/9e552972bfb94/large.jpg",
-    "published_at": "2026-09-02T18:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ba2e6c55ad3c",
-    "slug": "rumour-retail-listing-suggests-assassins-creed-black-flag-resynced-may",
-    "headline": "Rumour: Retail Listing Suggests Assassin's Creed Black Flag Resynced May Be Coming To Switch 2",
-    "summary": "Can open, worms everywhere. Rumours of an upcoming Nintendo Direct are starting to pick up speed, and a new retail listing suggests that a pretty significant Ubisoft game could be heading to Switch 2 very soon. According to a listing from French retailer E.Leclerc, the Switch 2 will be getting an Assassin's Creed Black Flag Resynced themed 'Advanced Pro Wireless…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/rumour-retail-listing-suggests-assassins-creed-black-flag-resynced-may-be-coming-to-switch-2"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/bfa010203ed26/large.jpg",
-    "published_at": "2026-09-02T18:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a8169c8cc693",
-    "slug": "we-were-here-tomorrow-trailer-reveals-new-puzzles-and-environments",
-    "headline": "We Were Here Tomorrow Trailer Reveals New Puzzles and Environments",
-    "summary": "A new trailer for We Were Here Tomorrow showcases the game's asymmetric puzzles and mysterious environments, set to launch on Xbox Series X|S in October",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/09/02/discover-the-secrets-waiting-inside-norcek-industries-in-we-were-here-tomorrow/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a8169c8cc693/800/600",
-    "published_at": "2026-09-02T18:00:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "we-were-here-tomorrow",
-    "game_label": "We Were Here Tomorrow"
-  },
-  {
-    "id": "0cc1531478e6",
-    "slug": "disney-was-working-on-its-own-smash-bros-like-fighting-game-confirms-e",
-    "headline": "Disney Was Working on Its Own Smash Bros.-Like Fighting Game, Confirms Ex-Concept Artist",
-    "summary": "Former Disney Interactive concept artist Ken Christiansen confirmed that Kingdom Hearts inspired a Smash Bros.-like crossover fighting game that never got off the ground.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/disney-was-working-on-its-own-smash-bros-like-fighting-game-confirms-ex-concept-artist"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/02/disney-concept-artist-confirms-canceled-smash-bros-crossover-game-1788371437639.jpg",
-    "published_at": "2026-09-02T17:56:32.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8063e989168e",
-    "slug": "resident-evil-director-says-theres-no-chance-hed-survive-his-own-movie",
-    "headline": "Resident Evil Director Says There’s “No Chance” He’d Survive His Own Movie",
-    "summary": "Resident Evil games over the years have slowly added more fantastical elements to their tale of bioweapons running amok, but for the new live-action movie, director Zach Cregger is dialing back those ideas to a more \"grounded\" level. Even so, he doesn't think he'd fare very well if he were dropped in that world. \"I feel like some of the…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/resident-evil-director-says-theres-no-chance-hed-survive-his-own-movie/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Resi-Evil-Movie-1.jpg?w=300",
-    "published_at": "2026-09-02T17:50:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4d2c8c9531fb",
-    "slug": "no-rest-for-the-wicked-director-calls-video-game-critics-who-have-diff",
-    "headline": "No Rest For The Wicked Director Calls Video Game Critics Who Have Different Opinions ‘Untrustworthy’",
-    "summary": "Pay attention, because his new site is 'the one source of truth for gamers'",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/no-rest-for-the-wicked-thomas-mahler-ori-video-games-critic-2000730551"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/no-rest-1280x720.jpg",
-    "published_at": "2026-09-02T17:30:45.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f213aede6114",
-    "slug": "this-horror-game-is-having-a-dino-crisis-of-a-different-sort",
-    "headline": "This Horror Game Is Having A Dino Crisis Of A Different Sort",
-    "summary": "Athanasia, the indie horror game that traps you in a mysterious facility full of dinosaurs, is launching in the ideal horror-game window: just before Halloween. GameSpot can exclusively reveal Athanasia's release date; it comes to PC on October 19 via Steam Early Access. In Athanasia, players find themselves trapped in a South American research facility swarmed by dinosaurs that have…",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/this-horror-game-is-having-a-dino-crisis-of-a-different-sort/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/AthLogo-2.jpeg?w=300",
-    "published_at": "2026-09-02T17:30:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d4e25ffe5fcb",
-    "slug": "the-witcher-remake-put-on-ice-as-dev-focuses-on-new-expansion-and-the",
-    "headline": "The Witcher Remake Put on Ice as Dev Focuses on New Expansion and The Witcher 4",
-    "summary": "Songs of the Past. Fool's Theory, the development studio that was originally contracted to remake the first Witcher game, has changed trajectory over recent years. While the majority of CD Projekt Red is currently working on The Witcher 4, Fool's Theory has been pouring its efforts into Songs of the Past — the surprise DLC for The Witcher 3, which…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/the-witcher-remake-put-on-ice-as-dev-focuses-on-new-expansion-and-the-witcher-4"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/8be9fbd9c17b3/large.jpg",
-    "published_at": "2026-09-02T17:30:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "90bfe5920b22",
-    "slug": "super-smash-bros-ultimate-just-got-a-brand-new-update-for-september-20",
-    "headline": "Super Smash Bros. Ultimate Just Got a Brand-New Update for September 2026",
-    "summary": "Nintendo recently released an update for Super Smash Bros. Ultimate, marking the first new patch in over a year for the Switch title.",
-    "category": "patches",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/super-smash-bros-ultimate-update-13-0-5-patch-notes-ssbu/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/super-smash-bros-ultimate-just-got-a-brand-new-update-for-september-2026-gamerant-feature.jpg",
-    "published_at": "2026-09-02T17:25:50.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "389cd17517e8",
-    "slug": "how-the-resident-evil-movie-borrows-from-re4-and-re7",
-    "headline": "How The Resident Evil Movie Borrows From RE4 And RE7",
-    "summary": "Ahead of the release of Resident Evil later this month, director Zach Cregger sat down for an Ask Me Anything session on Reddit he answered questions about the movie. While trailers for Resident Evil have teased a few Easter eggs that players of the game will recognize, Cregger also spoke about another game-inspired influence on his horror movie: Resident Evil's…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/how-the-resident-evil-movie-borrows-from-re4-and-re7/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/RE-Movie-1.jpg?w=300",
-    "published_at": "2026-09-02T17:11:51.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f11c93251fe7",
-    "slug": "mario-kart-8-deluxe-gets-a-surprise-switch-2-update-bringing-eight-pla",
-    "headline": "Mario Kart 8 Deluxe gets a surprise Switch 2 update, bringing eight-player split-screen to the evergreen racing game",
-    "summary": "Nintendo heard us. Our Mario Kart 8 Deluxe parties weren't simultaneously ruining enough friendships, so the evergreen racer can now be played in split-screen with up to eight players thanks to a surprise Switch 2 update.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/mario-kart-8-switch-2-update-eight-player-split-screen-nintendo"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Mario-Kart-8-Yoshi.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-02T17:11:48.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "57d9feae493f",
-    "slug": "controversial-gta-6-change-has-fans-flipping-out",
-    "headline": "Controversial GTA 6 Change Has Fans Flipping Out",
-    "summary": "Grand Theft Auto 6's standard control scheme is causing an uproar for Rockstar Games fans after one YouTuber's preview",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-preview-sprint-change-l3-hold-tap-how-does-it-work/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_04.jpg",
-    "published_at": "2026-09-02T17:11:06.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "113704a6221d",
-    "slug": "blizzcon-2026-preview-were-so-back-official-xbox-podcast",
-    "headline": "BlizzCon 2026 Preview: We’re So Back! | Official XBOX Podcast",
-    "summary": "On this episode of the Official XBOX Podcast, we’re back on the Blizzard campus to talk all things BlizzCon 2026! We’re finding out what folks can expect whether they’re in-person at the Anaheim Convention Center or watching online from the comforts of their own homes when BlizzCon returns on September 12th and 13th. TRANSCRIPT The post BlizzCon 2026 Preview: We’re…",
-    "category": "reviews",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/09/02/blizzcon-2026-preview-were-so-back-official-xbox-podcast/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/113704a6221d/800/600",
-    "published_at": "2026-09-02T17:05:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cf7cedc30ace",
-    "slug": "halloween-the-game-global-release-times-early-access",
-    "headline": "Halloween: The Game Global Release Times & Early Access",
-    "summary": "Halloween: The Game is officially releasing on September 8, 2026 worldwide. Here are the official launch times for Halloween and how to play early.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/halloween-the-game-release-date-time-how-to-play-early/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/halloween-the-game-release-date-time-how-to-play-early.jpg",
-    "published_at": "2026-09-02T17:00:12.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2474b88cf7c7",
-    "slug": "afterworld-will-be-strategy-royalty-paradoxs-most-approachable-game-an",
-    "headline": " Afterworld will be strategy royalty Paradox's \"most approachable\" game, and after raising cannibal fish-mutants to conquer America I'm hooked ",
-    "summary": "Expect an \"infinite soup\" of dynamic societies and more, as we play Afterworld and interview game director Dan Lind",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/strategy/afterworld-will-be-strategy-royalty-paradoxs-most-approachable-game-and-after-raising-cannibal-fish-mutants-to-conquer-america-im-hooked/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/eYodKPDUMbTfF4HKmMfpwT-1280-80.jpg",
-    "published_at": "2026-09-02T16:40:02.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "827c67141348",
-    "slug": "8bitdo-and-steelseries-have-combined-forces-to-create-a-whimsical-cozy",
-    "headline": " 8BitDo and SteelSeries have combined forces to create a whimsical Cozy Collection of Xbox accessories ",
-    "summary": "Xbox has unearthed the Designed for XBOX Cozy Collection, a range of forest-themed versions of some of 8BitDo and SteelSeries' most iconic accessories.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/accessories/8bitdo-and-steelseries-have-combined-forces-to-create-a-whimsical-cozy-collection-of-xbox-accessories/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/N83p3dV3DMQzctrmeeD67k-1280-80.jpg",
-    "published_at": "2026-09-02T16:38:38.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "fb9afc0d2cb0",
-    "slug": "geralts-real-soulmate-revealed-in-the-witcher-3",
-    "headline": "Geralt's Real Soulmate Revealed in The Witcher 3",
-    "summary": "PC Gamer interviews Doug Cockle, who shares his thoughts on Geralt and Dandelion's relationship in The Witcher 3, stating it's a platonic connection.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/the-witcher/doug-cockle-believes-dandelion-is-geralts-real-soulmate-in-the-witcher-3-but-in-a-very-platonic-way/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/7C6ZzNzikHMrWpEUHQ5hAM-1280-80.jpg",
-    "published_at": "2026-09-02T16:32:19.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-witcher-3-wild-hunt",
-    "game_label": "The Witcher 3: Wild Hunt"
-  },
-  {
-    "id": "c8b421d9d19e",
-    "slug": "you-cant-pet-the-talking-rat-wall-in-ontos-the-new-space-horror-game-f",
-    "headline": "You can't pet the talking rat wall in Ontos, the new space horror game from Soma's creators, but surely it can run Doom",
-    "summary": "When Amnesia: The Dark Descent and Soma developers Frictional announced Ontos, their philosophical horror game set in a mad science hotel on the moon, the internet's jimmies were rustled by the presence of an AI server made out of rats. I have several questions for Frictional regarding that talking rat wall, based on my peerless track record of arts and…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/you-cant-pet-the-talking-rat-wall-in-ontos-the-new-space-horror-game-from-somas-creators-but-surely-it-can-run-doom"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/ontos_WyMna8v.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-02T16:30:30.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7884608cdf53",
-    "slug": "5-playstation-games-are-permanently-shutting-down-in-september",
-    "headline": "5 PlayStation Games Are Permanently Shutting Down in September",
-    "summary": "PlayStation gamers will lose access to the online services for five games in September 2026 as they shut down permanently.",
-    "category": "industry",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/playstation-games-shutting-down-september-2026/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/playstation-games-shutting-down-september-2026.jpg",
-    "published_at": "2026-09-02T16:30:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b92d29dba7a8",
-    "slug": "uk-charts-elden-ring-starts-strong-but-its-metal-gear-that-takes-the-c",
-    "headline": "UK Charts: Elden Ring Starts Strong, But It's Metal Gear That Takes The Crown",
-    "summary": "This is good, isn't it? Well folks, it was a bit delayed this week, but we finally have the latest data for the UK boxed charts. It's quite an interesting one too, as we have a few new faces joining the ranks. First up, Elden Ring: Tarnished Edition makes its debut at number five; a perfectly fine start for what…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/uk-charts-elden-ring-starts-strong-but-its-metal-gear-that-takes-the-crown"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/478bed34427f4/large.jpg",
-    "published_at": "2026-09-02T16:30:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "89ef4c66a180",
-    "slug": "two-classic-90s-adventure-games-are-getting-special-big-box-releases-f",
-    "headline": "Two Classic '90s Adventure Games Are Getting Special 'Big Box' Releases For Xbox Consoles",
-    "summary": "A unique offering from Limited Run. While physical Xbox releases might not be as plentiful as they used to be, we're still getting loads of them on a monthly basis, and the folks over at Limited Run are also trickling out special Xbox versions for all sorts of great games. We're particularly intrigued by their latest announcement today, which is…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/two-classic-90s-adventure-games-are-getting-special-big-box-releases-for-xbox-consoles"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/1fad5aaae0070/large.jpg",
-    "published_at": "2026-09-02T16:30:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3ec3fa4317a2",
-    "slug": "ace-combat-8-reveals-live-service-online-multiplayer-modes-that-includ",
-    "headline": "Ace Combat 8 reveals live service online multiplayer modes that include PvE, PvP, PvPvE battles, and a hangout space",
-    "summary": "Bandai Namco has revealed the live-service-like Ace Combat Online, a separate, companion selection of online modes coming with Ace Combat 8.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/ace-combat-8-online-modes-social-space-revealed"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/ace-combat-8_S9S0TTA.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-02T16:28:44.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8633b5fa5814",
-    "slug": "mario-kart-8-deluxe-40-update-is-a-game-changer",
-    "headline": "Mario Kart 8 Deluxe 4.0 Update is a Game-Changer",
-    "summary": "Mario Kart 8 Deluxe just got a massive update for Switch 2 that is a complete game-changer and breaks a new record for the series.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/mario-kart-8-deluxe-update-4-switch-2-patch-notes/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/mario-kart-8-deluxe-4-0-update-is-a-game-changer-gamerant-feature.jpg",
-    "published_at": "2026-09-02T16:23:40.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f4cfa3566a1c",
-    "slug": "strongest-evil-gods-in-games-ranked-by-raw-power",
-    "headline": "Strongest Evil Gods In Games, Ranked By Raw Power",
-    "summary": "Video games have plenty of all-mighty deities, but these gods are not only overpowered but also incredibly evil.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/games-strongest-evil-gods-ranked-overpowered-characters/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/strongest-evil-gods-games-sargeras-heartstone-wow.jpg",
-    "published_at": "2026-09-02T16:19:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "afa6fd569879",
-    "slug": "banjo-kazooie-composer-says-like-3-companies-have-pitched-a-new-entry",
-    "headline": " Banjo-Kazooie composer says \"like 3 companies\" have pitched a new entry in the series, but \"Rare just typically say no to everything\" ",
-    "summary": "\"I used to always say there's zero chance of another Banjo-Kazooie game and right now I feel there's a slight chance,\" says Grant Kirkhope",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/platformer/banjo-kazooie-composer-says-like-3-companies-have-pitched-a-new-entry-in-the-series-but-rare-just-typically-say-no-to-everything/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/HhrgAG8oWdCjV9aUqhxnUW-1280-80.jpg",
-    "published_at": "2026-09-02T16:17:26.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1e04ea8aa786",
-    "slug": "my-family-loves-board-games-and-kaiju-so-king-of-tokyo-godzilla-was-a",
-    "headline": " My family loves board games and kaiju, so King of Tokyo: Godzilla was a day one purchase for me ",
-    "summary": "If this new version of the classic board game worth going wild for, or is King of Tokyo: Godzilla just more of the same? Our expert reviewer goes hands on to find out",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/board-games/king-of-tokyo-godzilla-review/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/wp9nctU6ECQwVqGCykwT6H-1280-80.jpg",
-    "published_at": "2026-09-02T16:16:57.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a9e43c0d249f",
-    "slug": "the-humble-choice-september-2026-lineup-is-live-with-frostpunk-2-sonic",
-    "headline": "The Humble Choice September 2026 Lineup Is Live With Frostpunk 2, Sonic X Shadow Generations, and 6 More Games",
-    "summary": "The Humble Choice September 2026 lineup is officially live. Members can snag 8 games - including Frostpunk 2, Sonic X Shadow Generations, and 6 more - for just $15 for the month.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/humble-choice-september-2026"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2024/10/18/sonic-x-shadow-generations-blogroll-1729295545078.jpg",
-    "published_at": "2026-09-02T16:09:11.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0e97b47c2554",
-    "slug": "fable-game-director-reveals-character-customization-feature",
-    "headline": "Fable Game Director Reveals Character Customization Feature",
-    "summary": "Fable game director Ralph Fulton confirmed the game's character customization feature at gamescom 2026",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/its-not-a-revolutionary-thing-for-an-rpg-to-have-fable-explains-the-very-obvious-reason-as-to-why-its-hero-design-has-changed"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/02/fable-character-blog-1788365010109.jpg",
-    "published_at": "2026-09-02T16:05:25.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "fable",
-    "game_label": "Fable"
-  },
-  {
-    "id": "b47e27729ed3",
-    "slug": "square-enix-denies-going-private-after-report-sends-stock-surging",
-    "headline": "Square Enix denies going private after report sends stock surging",
-    "summary": "Square Enix has issued a statement denying it is exploring taking the company private after a report in Japanese business magazine Sentaku claimed the publisher had drawn interest from foreign investment funds.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/square-enix-denies-going-private-after-report-sends-stock-surging"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Final-Fantasy-Rebirth-7.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-02T16:02:35.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "37744ebaecd5",
-    "slug": "harvey-smith-explains-what-most-games-are-missing-and-why-hes-still-ma",
-    "headline": "Harvey Smith Explains What Most Games Are Missing And Why He’s Still Making Them",
-    "summary": "Harvey Smith, co-creator of Black Pony Immersive, discusses the importance of creating hopeful games despite challenging times.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/harvey-smith-interview-black-pony-immersive-sim-dishonored-prey-2000730489"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/smith1-1280x720.jpg",
-    "published_at": "2026-09-02T16:00:47.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e38e4008249e",
-    "slug": "new-steam-game-looks-like-an-unexpected-sequel-to-inside",
-    "headline": "New Steam Game Looks Like an Unexpected Sequel to Inside",
-    "summary": "Years after Inside’s release, a new Steam game shows what would have happened if the Huddle had kept rolling.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/new-steam-games-september-2026-inside-sequel-rolla/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/inside-game-huddle.jpg",
-    "published_at": "2026-09-02T16:00:12.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "49c6cbc7139a",
-    "slug": "how-to-watch-the-playstation-state-of-play-for-september-2026-and-what",
-    "headline": " How to watch the PlayStation State of Play for September 2026 and what to expect including Final Fantasy 7 Revelation ",
-    "summary": "Don't forget the State of Play Japan show, either",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/events-conferences/how-to-watch-the-playstation-state-of-play-for-september-2026-and-what-to-expect-including-final-fantasy-7-revelation/"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/how-to-watch-playstation-september-2026-state-of-play"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/wYk3hk7uzmHDpfeAcg5HEc-1280-80.jpg",
-    "published_at": "2026-09-02T16:00:07.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "947d673f4a6e",
-    "slug": "indie-selects-for-september-2026-genre-mashups-fresh-takes",
-    "headline": "Indie Selects for September 2026: Genre Mashups & Fresh Takes",
-    "summary": "Every Wednesday, dive into the Indie Select Hub — your gateway to a fresh, curated indie collection plus four themed spotlights that rotate weekly! You can always find this collection hub in the XBOX Store and on XBOX.com/IndieSelects. The grill’s cooling down, school is starting up, and the weather is changing. You know what that […] The post Indie Selects…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/09/02/indie-selects-september/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/947d673f4a6e/800/600",
-    "published_at": "2026-09-02T16:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d15fa931f653",
-    "slug": "worlds-biggest-modding-site-buys-the-no-1-steam-resource-and-fans-are",
-    "headline": "World's biggest modding site buys the No. 1 Steam resource — and fans are worried",
-    "summary": "Nexus Mods just bought SteamDB, and fans are worried that it may make the platform much worse",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/steamdb-nexus-mods-purchased-sale/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/polygon-steam-stock-art-bloom-v2.jpg",
-    "published_at": "2026-09-02T15:59:23.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,

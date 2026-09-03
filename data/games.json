@@ -6830,5 +6830,125 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-03T13:55:58.516Z"
+  },
+  {
+    "slug": "final-fantasy-resonance",
+    "name": "Final Fantasy Resonance",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/e79/e79f71ca3e876b54f4ca02c0a5d03aa2.jpg",
+    "released": "2026-10-22",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X",
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/0af/0af9b43d63490859db8a6ca012b03b53.jpg",
+      "https://media.rawg.io/media/screenshots/e79/e79f71ca3e876b54f4ca02c0a5d03aa2.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-03T14:24:57.853Z"
+  },
+  {
+    "slug": "ps-plus",
+    "name": "TERA: PS Plus Pack",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/ccd/ccd91ebc7f96e3621d8c86c52aae4ce4.jpg",
+    "released": "2018-05-15",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "PlayStation 4"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/b88/b886f4791b651c56bea7b4cb1559dd6e.jpg",
+      "https://media.rawg.io/media/screenshots/ccd/ccd91ebc7f96e3621d8c86c52aae4ce4.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-03T14:24:58.592Z"
+  },
+  {
+    "slug": "saros",
+    "name": "Saros",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/be8/be86ee5cf3a427c784efec1661f9b194.jpg",
+    "released": "2026-04-30",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PlayStation 5"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f86/f86e48c78344c76d63022a443fdfe5cd.jpg",
+      "https://media.rawg.io/media/screenshots/834/8340e77dd05321c6b03750894bb413bc.jpg",
+      "https://media.rawg.io/media/screenshots/5f4/5f47bb5242600707d0ae4d8f16621ab7.jpg",
+      "https://media.rawg.io/media/screenshots/a91/a91239e253cceda2589620a136767e1f.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-03T14:25:00.494Z"
+  },
+  {
+    "slug": "rev-noir",
+    "name": "Rev. Noir",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/436/4360a3bf87b28931fc34554e0124f079.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/436/4360a3bf87b28931fc34554e0124f079.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-03T14:25:09.148Z"
+  },
+  {
+    "slug": "maneater-2",
+    "name": "Maneater",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/895/8951013b8ace2d652727df2f9023cbb8.jpg",
+    "released": "2020-05-22",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/414/414969b17f73b6450630c2f9caac77ef.jpg",
+      "https://media.rawg.io/media/screenshots/eda/eda5e4ce43cd26071d1c20c11746cc86.jpg",
+      "https://media.rawg.io/media/screenshots/a27/a27904227bcb9db20d17ba4dca7ab852.jpg",
+      "https://media.rawg.io/media/screenshots/578/578923f3a047d43a6a4b99b1d54291d7.jpg",
+      "https://media.rawg.io/media/screenshots/5f9/5f92f5ccc5a00d7d1f816c5e7a68731b.jpg",
+      "https://media.rawg.io/media/screenshots/fcc/fccc6f57778f6073eb2ae2d888a455ed.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-03T14:25:13.332Z"
   }
 ]
