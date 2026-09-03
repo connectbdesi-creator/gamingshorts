@@ -6950,5 +6950,80 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-03T14:25:13.332Z"
+  },
+  {
+    "slug": "borderlands-4",
+    "name": "Borderlands 4",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/9cc/9ccb59a7c634091bc8a9b7978d4dc322.jpg",
+    "released": "2025-09-12",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/4fd/4fd722f6d31564c28b86b39c4fb341c9.jpg",
+      "https://media.rawg.io/media/screenshots/1a4/1a487bfc4e5b2b5245807cbe82672bd2.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-03T16:52:07.238Z"
+  },
+  {
+    "slug": "guild-wars-3",
+    "name": "Guild Wars",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/073/07391020953f7494efdab98471f9818f.jpg",
+    "released": "2005-04-28",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d0e/d0ecb8a51d112ea455cb63777782253d.jpg",
+      "https://media.rawg.io/media/screenshots/0d4/0d416408c7804df6a92dfaa55aeef44d.jpg",
+      "https://media.rawg.io/media/screenshots/48f/48f6c76d40c7c70afc34d9a66f5a8d08.jpg",
+      "https://media.rawg.io/media/screenshots/309/3096f48dcd6d82b67e4120ff222b77dd.jpg",
+      "https://media.rawg.io/media/screenshots/ba3/ba369b1d97f9d46615be3bd1b2e75bbc.jpg",
+      "https://media.rawg.io/media/screenshots/b1e/b1e6b76f8fcd8dd39330033c3f282fd2.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-03T16:52:08.139Z"
+  },
+  {
+    "slug": "daba-land-of-water-scar",
+    "name": "Daba: Land of Water Scar",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/dd4/dd48c3927a02fcae0ca1a6aa82593df3.jpg",
+    "released": "2027-05-31",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/420/420bad7e6324682c008915cf47ecf2b7.jpg",
+      "https://media.rawg.io/media/screenshots/407/40707be67ac9efb011679bce57042c45.jpg",
+      "https://media.rawg.io/media/screenshots/dd4/dd48c3927a02fcae0ca1a6aa82593df3.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-03T16:52:14.207Z"
   }
 ]
