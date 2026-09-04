@@ -1,5 +1,91 @@
 [
   {
+    "id": "d7e26724aaf7",
+    "slug": "scalebound-might-be-getting-a-return-thanks-to-hideki-kamiya",
+    "headline": "Scalebound Might Be Getting A Return Thanks To Hideki Kamiya",
+    "summary": "Hideki Kamiya, director of Resident Evil 2 and Devil May Cry, wants to revisit the cancelled Xbox game Scalebound, nearly a decade after its cancellation.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/hideki-kamiya-scalebound-revival/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2019/02/Scalebound-Switch.jpg",
+    "published_at": "2026-09-04T20:39:56.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "scalebound",
+    "game_label": "Scalebound"
+  },
+  {
+    "id": "a9bfe15c1c72",
+    "slug": "9-game-and-movie-trailers-worth-watching-this-week",
+    "headline": "9 Game and Movie Trailers Worth Watching This Week",
+    "summary": "Street Fighter, Stranger Than Heaven, buzzy festival movies, horror schlock, a super-stylish indie, and more.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/9-game-and-movie-trailers-this-week-august-29-september-4"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/04/noah-sf-1788553514117.png",
+    "published_at": "2026-09-04T20:25:26.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5b6725a05672",
+    "slug": "the-1001-threads-of-mizan-director-avoids-answering-a-simple-question",
+    "headline": "The 1001 Threads Of Mizan Director Avoids Answering A Simple Question At Gamescom",
+    "summary": "'This is a really decentralized company. We [are] completely decentralized'",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/the-1001-threads-of-mizan-director-avoids-answering-a-simple-question-at-gamescom-2000731406"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/1001_Wallpapers_Group_4K-e1788548752670-1280x754.jpg",
+    "published_at": "2026-09-04T20:20:33.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "bd09f3e74115",
+    "slug": "tetris-maker-officially-responds-to-white-houses-hateful-tetris-clone",
+    "headline": "Tetris Maker Officially Responds to White House's Hateful Tetris Clone",
+    "summary": "The company behind the iconic puzzle game is taking a stand against the Trump admin's controversial arcade games",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/tetris-white-house-arcade-game-copyright-infringement-trump/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/tetris.jpg",
+    "published_at": "2026-09-04T20:19:48.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "9cbf7fcde19b",
     "slug": "t1-fakers-rare-card-sold-for-50k-on-ebay",
     "headline": "T1 Faker's Rare Card Sold for $50K on eBay",
@@ -92,6 +178,27 @@
     "comment_count": 0,
     "game": "gundam",
     "game_label": "Gundam"
+  },
+  {
+    "id": "7efd30ea5c29",
+    "slug": "rockstar-censors-gta-6-extended-look-trailer-for-china",
+    "headline": "Rockstar Censors GTA 6 Extended Look Trailer for China",
+    "summary": "Rockstar Games has published a heavily censored version of the Grand Theft Auto 6 extended look reveal for China.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/rockstar-censors-gta-6-extended-look-trailer-for-china"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/08/27/gta-6-gameplay-blog-1787861652027.jpg",
+    "published_at": "2026-09-04T19:48:54.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "1400e073f8c8",
@@ -4473,118 +4580,5 @@
     "comment_count": 0,
     "game": "the-blood-of-dawnwalker",
     "game_label": "The Blood of Dawnwalker"
-  },
-  {
-    "id": "575bed805574",
-    "slug": "xbox-introduces-monthly-cloud-limits-for-game-pass-subscribers",
-    "headline": "Xbox Introduces Monthly Cloud Limits for Game Pass Subscribers",
-    "summary": "Xbox Game Pass subscribers will face monthly cloud gaming limits starting November 2026, as the company prioritizes reliability and performance.",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/xbox-adds-monthly-cloud-limits-to-game-pass-as-it-continues-to-invest-in-its-reliability-and-performance"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/xbox-cloud-playtime-hours.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-04T07:37:02.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "906b822fd620",
-    "slug": "luna-band-debuts-as-wearable-to-recalibrate-your-body",
-    "headline": "Luna Band debuts as wearable to recalibrate your body",
-    "summary": "Luna today announces that the Luna Band is shipping worldwide, marking the global availability of a wearable that adapts itself to every individual user....\nThe post Luna Band debuts as wearable to recalibrate your body appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/luna-band-debuts-as-wearable-to-recalibrate-your-body/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/906b822fd620/800/600",
-    "published_at": "2026-09-04T07:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2dc80ba40672",
-    "slug": "craftopia-launches-in-2027",
-    "headline": "Craftopia launches in 2027",
-    "summary": "Multiplayer open-world survival action game Craftopia will leave Early Access and launch for Xbox Series …",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/craftopia-launches-in-2027"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/2dc80ba40672/800/600",
-    "published_at": "2026-09-04T05:23:51.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "348058c65c21",
-    "slug": "dark-horse-comics-announces-the-art-of-splatoon-3-hardcover-english-re",
-    "headline": "Dark Horse Comics Announces 'The Art Of Splatoon 3' Hardcover English Release",
-    "summary": "Available December 2026.\n\nIf you're a Splatoon fan and love the artwork and designs of the latest mainline release Splatoon 3, you might want to be on the lookout for 'The Art of Splatoon 3' later this year.\nRead the full article on nintendolife.com",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/dark-horse-comics-announces-the-art-of-splatoon-3-hardcover-english-release"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/85572aba6e89a/large.jpg",
-    "published_at": "2026-09-04T05:05:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5b8832d9d83d",
-    "slug": "jin-sakai-returns-in-ghost-of-yotei-most-wanted",
-    "headline": "Jin Sakai Returns in Ghost of Yōtei: Most Wanted",
-    "summary": "The PlayStation Blog has announced that Jin Sakai from Ghost of Tsushima will be playable in the new Ghost of Yōtei: Most Wanted mode, complete with his signature stances.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "PlayStation Blog",
-        "url": "https://blog.playstation.com/2026/09/03/20260904-goy/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/5b8832d9d83d/800/600",
-    "published_at": "2026-09-04T05:00:58.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "ghost-of-yotei-most-wanted",
-    "game_label": "Ghost of Yōtei: Most Wanted"
   }
 ]

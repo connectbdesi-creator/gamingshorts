@@ -7488,5 +7488,32 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-04T20:21:49.404Z"
+  },
+  {
+    "slug": "scalebound",
+    "name": "Scalebound",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/ab9/ab98819581cb09e6ff6b8f9a48fd7aad.jpg",
+    "released": "2017-01-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/47b/47b67b75f6e07fb643fb85d15185cbd7.jpg",
+      "https://media.rawg.io/media/screenshots/5a0/5a0f2bc40938c2178e15bc048a5ff701.jpg",
+      "https://media.rawg.io/media/screenshots/009/009495656bb627f80210c2a0b2f6d3c1.jpg",
+      "https://media.rawg.io/media/screenshots/325/32542689eea1ab25baf1413879a92cdc_wJrCaeQ.jpg",
+      "https://media.rawg.io/media/screenshots/7e2/7e295682c13f8d949d6260b520796b00.jpg",
+      "https://media.rawg.io/media/screenshots/671/6715bb8530099ea35164fc9e6e0cbb2f.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-04T20:51:06.574Z"
   }
 ]
