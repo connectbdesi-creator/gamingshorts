@@ -7515,5 +7515,61 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-04T20:51:06.574Z"
+  },
+  {
+    "slug": "civilization-7",
+    "name": "Sid Meier’s Civilization VII",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/885/885f2a1740d363f9b7a52fd2043eed07.jpg",
+    "released": "2025-02-10",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch",
+      "macOS",
+      "Linux"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/885/885f2a1740d363f9b7a52fd2043eed07.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-04T23:22:10.290Z"
+  },
+  {
+    "slug": "dungeons-and-dragons-2",
+    "name": "Dungeons & Dragons: Daggerdale",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/d10/d10c6f31e9649000be74972a04ef29ad.jpg",
+    "released": "2011-05-24",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c7f/c7f480eb09d2bd3245421efbcbf93c13.jpg",
+      "https://media.rawg.io/media/screenshots/64d/64dd252ff6fc2ed2e6a675ca7cfc3598.jpg",
+      "https://media.rawg.io/media/screenshots/84c/84cbe758d76c0fe118507884673bc506.jpg",
+      "https://media.rawg.io/media/screenshots/173/173ea9660f96b8bd099da07f2cd21af5.jpg",
+      "https://media.rawg.io/media/screenshots/b5c/b5c460920157d2143adab576bb9220f0.jpg",
+      "https://media.rawg.io/media/screenshots/df1/df187995485b1ec9f69e2a7d9fb80866.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-04T23:22:12.209Z"
   }
 ]
