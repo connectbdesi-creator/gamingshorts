@@ -7332,5 +7332,37 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-04T13:39:41.792Z"
+  },
+  {
+    "slug": "the-legend-of-zelda",
+    "name": "The Legend of Zelda",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/f87/f87de0e93f02007fd044e4bf04d453d8.jpg",
+    "released": "1986-02-21",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "Nintendo Switch",
+      "Nintendo 3DS",
+      "Wii U",
+      "Wii",
+      "Game Boy Advance",
+      "NES"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/051/0512b2ddd6b5d51b8c7b63aa3c66001a.jpg",
+      "https://media.rawg.io/media/screenshots/336/3362527dcd702f08d65d796327c00476.jpg",
+      "https://media.rawg.io/media/screenshots/876/87603d280b496357437b8748ccac6b54.jpg",
+      "https://media.rawg.io/media/screenshots/981/9810be757cbcd9786d90e78a753eee45.jpg",
+      "https://media.rawg.io/media/screenshots/072/072aa938d11aed90db6967b6241641a8.jpg",
+      "https://media.rawg.io/media/screenshots/576/576cca5c42a51f79441deceb334e4ad0.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-04T15:36:45.203Z"
   }
 ]
