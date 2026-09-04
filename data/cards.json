@@ -1,5 +1,99 @@
 [
   {
+    "id": "9cbf7fcde19b",
+    "slug": "t1-fakers-rare-card-sold-for-50k-on-ebay",
+    "headline": "T1 Faker's Rare Card Sold for $50K on eBay",
+    "summary": "T1 Faker's rare card in the TCG market has reached a new level of popularity after a $50K sale on eBay, with some sellers demanding even higher prices.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/riftbound-t1-faker-card-resale-price-ebay-auction/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/riftbound-t1-splash.jpg",
+    "published_at": "2026-09-04T20:11:27.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "riftbound",
+    "game_label": "Riftbound"
+  },
+  {
+    "id": "f9b25bed54ed",
+    "slug": "steam-users-can-claim-a-1010-masterpiece-completely-free-of-charge-on",
+    "headline": "Steam Users Can Claim a 10/10 Masterpiece Completely Free of Charge on September 9",
+    "summary": "On September 9, Steam users have the opportunity to download a 10/10 masterpiece completely free of charge and keep it forever.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/steam-free-games-the-walking-dead-september-2026/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/steam-free-games-the-walking-dead-september-2026.jpg",
+    "published_at": "2026-09-04T20:10:59.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "efa9c60cc088",
+    "slug": "me-you-can-now-run-dlss-5-on-amd-gpus-my-rx-9070-xt-please-stop-it-hur",
+    "headline": " Me: You can now run DLSS 5 on AMD GPUs. My RX 9070 XT: Please stop, it hurts us ",
+    "summary": "A new app allows you to inject DLSS Neural Rendering deep into games even if you're running an AMD card. You probably won't want to, though.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/graphics-cards/me-you-can-now-run-dlss-5-on-amd-gpus-my-rx-9070-xt-please-stop-it-hurts-us/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/GdUR8M8koZZwGPhmTxDmN8-1280-80.jpg",
+    "published_at": "2026-09-04T20:10:48.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b4484adfff99",
+    "slug": "new-official-gundam-release-confirmed-for-2027",
+    "headline": "New Official Gundam Release Confirmed for 2027",
+    "summary": "Bandai Namco has announced a brand-new Gundam game scheduled for release in 2027, marking a new chapter in the franchise.",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gundam-rogue-orbit-game-trailer/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/warcraft-valeera-sanguinar-hex-collectibles-statue/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/new-official-gundam-release-confirmed-for-2027-gamerant-feature-b.jpg",
+    "published_at": "2026-09-04T20:01:12.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gundam",
+    "game_label": "Gundam"
+  },
+  {
     "id": "1400e073f8c8",
     "slug": "you-can-get-5-excellent-90-rated-steam-games-for-under-25-right-now",
     "headline": "You Can Get 5 Excellent 90+ Rated Steam Games For Under $25 Right Now",
@@ -463,27 +557,6 @@
     "comment_count": 0,
     "game": "grand-theft-auto-6",
     "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "b4484adfff99",
-    "slug": "new-official-gundam-release-confirmed-for-2027",
-    "headline": "New Official Gundam Release Confirmed for 2027",
-    "summary": "Bandai Namco has announced a brand-new Gundam game scheduled for release in 2027, marking a new chapter in the franchise.",
-    "category": "deals",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gundam-rogue-orbit-game-trailer/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/new-official-gundam-release-confirmed-for-2027-gamerant-feature-b.jpg",
-    "published_at": "2026-09-04T18:01:12.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gundam",
-    "game_label": "Gundam"
   },
   {
     "id": "6ad014a7b577",
@@ -4513,77 +4586,5 @@
     "comment_count": 0,
     "game": "ghost-of-yotei-most-wanted",
     "game_label": "Ghost of Yōtei: Most Wanted"
-  },
-  {
-    "id": "8068794b6cde",
-    "slug": "video-monster-hunter-wilds-gets-a-new-trailer-for-its-massive-expansio",
-    "headline": "Video: Monster Hunter Wilds Gets A New Trailer For Its \"Massive Expansion\"",
-    "summary": "A Switch 2 version of Wilds is now in development.\nBack in June, Capcom officially confirmed Monster Hunter Wilds was in development for the Switch 2.\nAlthough there have been no updates about the release just yet, it's also currently preparing to release the \"massive expansion\" Monster Hunter Wilds: Ascendance in 2027.\nRead the full article on nintendolife.com",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/video-monster-hunter-wilds-gets-a-new-trailer-for-its-massive-expansion"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/82633d85eaa83/large.jpg",
-    "published_at": "2026-09-04T04:25:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d484fbc773a8",
-    "slug": "ive-found-dlss-5-can-slash-frame-rates-by-up-to-73-on-an-rtx-5080-gami",
-    "headline": " I've found DLSS 5 can slash frame rates by up to 73% on an RTX 5080 gaming PC in NBA 2K27, and I'm wondering what kind of mega-rig would justify the performance hit ",
-    "summary": "At what cost AI-enhanced graphics? Frames, it seems.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/graphics-cards/dlss-5-can-slash-performance-by-up-to-73-percent-on-an-rtx-5080-gaming-pc-in-nba-2k27-and-im-left-wondering-what-kind-of-mega-rig-youd-need-to-justify-the-hit/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/kuicfmKFK4FM9HGWWiixLV-1280-80.jpg",
-    "published_at": "2026-09-04T04:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7bca279c7ab8",
-    "slug": "how-to-get-sell-shiny-tooth-in-the-blood-of-dawnwalker",
-    "headline": "How to Get & Sell Shiny Tooth in The Blood of Dawnwalker",
-    "summary": "The Blood of Dawnwalker guide provides locations to sell Shiny Tooth items, obtained through looting, in the game.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/the-blood-of-dawnwalker-how-get-sell-shiny-tooth-find-location/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/how-to-get-sell-shiny-tooth-in-the-blood-of-dawnwalker.jpg",
-    "published_at": "2026-09-04T03:43:18.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-blood-of-dawnwalker",
-    "game_label": "The Blood of Dawnwalker"
   }
 ]
