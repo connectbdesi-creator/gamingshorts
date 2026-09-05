@@ -7571,5 +7571,32 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-04T23:22:12.209Z"
+  },
+  {
+    "slug": "paper-quest",
+    "name": "Paper Quest",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/781/78152a3f918c1f1bc3848dc29b4149b6.jpg",
+    "released": "2017-03-24",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Casual",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/dc9/dc99350ecd1a2da8c0940b6e2e413227.jpg",
+      "https://media.rawg.io/media/screenshots/3f4/3f41793d91c7d1abb5c55139cf8ce10c.jpg",
+      "https://media.rawg.io/media/screenshots/a15/a158942592bbf44d18da911c39e4c3b5.jpg",
+      "https://media.rawg.io/media/screenshots/041/0417ec634773612495e5fd01b4503917.jpg",
+      "https://media.rawg.io/media/screenshots/fec/fecacfcff7af0c4a30077134459643fe.jpg",
+      "https://media.rawg.io/media/screenshots/781/78152a3f918c1f1bc3848dc29b4149b6.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-05T01:21:41.305Z"
   }
 ]
