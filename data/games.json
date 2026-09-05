@@ -7598,5 +7598,29 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-05T01:21:41.305Z"
+  },
+  {
+    "slug": "sonic-the-hedgehog",
+    "name": "Sonic The Hedgehog (2006)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/b91/b913b71d625c823c1b7f62d27565d5c0.jpg",
+    "released": "2006-11-14",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Platformer"
+    ],
+    "platforms": [
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/076/076aa74fa157b66ec9667f7a78f823bc.jpg",
+      "https://media.rawg.io/media/screenshots/f03/f03193edf4052f7e2e63d44ee5262f91.jpg",
+      "https://media.rawg.io/media/screenshots/e73/e730a8b6ab034b0d4989eefcc51b7515.jpg",
+      "https://media.rawg.io/media/screenshots/18c/18c02df2f1549ed85a8f2518bd9ce038.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-05T05:21:20.765Z"
   }
 ]
