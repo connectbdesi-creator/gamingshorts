@@ -1,5 +1,98 @@
 [
   {
+    "id": "2f4c3ecae4cc",
+    "slug": "gen-ai-controversy-aside-crazy-taxi-world-tour-feels-like-classic-arca",
+    "headline": "Gen-AI controversy aside, Crazy Taxi: World Tour feels like classic arcade Sega - and it's an absolute blast",
+    "summary": "Crazy Taxi was not my favourite Dreamcast game (please don't ask me to choose between the triumphant rhythm triptych of Rez, Space Channel 5, and Samba de Amigo, however), but there's a specific bit of it that's forever seared into my brain: the giddy thrill of cresting over that one San-Francisco-inspired hill and barreling down toward the ocean, all while…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/crazy-taxi-world-tour-gamescom-preview"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/crazy-taxi-world-tour-germany-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-05T09:01:01.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d214fb714ba2",
+    "slug": "talking-point-what-are-you-playing-this-weekend-5th-september",
+    "headline": "Talking Point: What Are You Playing This Weekend? (5th September)",
+    "summary": "The one and Oni. Ah, the weekend! With the working week behind us, it's finally time to put our feet up and tuck into some games. It was a reasonably quiet one in the world of Nintendo this week, but a Sony State of Play brought some announcements our way. Final Fantasy VII Revelation finally got a release date, Final…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-5th-september"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/1e9cd6cefa330/large.jpg",
+    "published_at": "2026-09-05T09:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a6ca171778a2",
+    "slug": "the-legend-of-zelda-tears-of-the-kingdom-secrets-of-the-zonai",
+    "headline": "The Legend of Zelda: Tears of the Kingdom - Secrets of the Zonai",
+    "summary": "Nintendo and Dark Horse are releasing a Zelda game and a new deluxe edition in October.",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/zelda-tears-of-the-kingdom-secrets-of-the-zonai-book-october-2026/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/06/tears-of-the-kingdom-breath-of-the-wild-switch-2-upgrade.jpg",
+    "published_at": "2026-09-05T08:20:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-legend-of-zelda-tears-of-the-kingdom-secrets-of-the-zonai",
+    "game_label": "The Legend of Zelda: Tears of the Kingdom - Secrets of the Zonai"
+  },
+  {
+    "id": "950c1a4cca0e",
+    "slug": "the-blood-of-dawnwalker-gear-upgrade-guide",
+    "headline": "The Blood of Dawnwalker Gear Upgrade Guide",
+    "summary": "This guide helps players upgrade low-level gear in The Blood of Dawnwalker for enhanced gameplay, providing a walkthrough on how to achieve powerful upgrades.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/the-blood-of-dawnwalker-how-upgrade-gear-weapons-armor/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/blood-of-the-dawnwalker-how-to-upgrade-gear.jpg",
+    "published_at": "2026-09-05T08:15:04.000Z",
+    "hype_signal": 10,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-blood-of-dawnwalker",
+    "game_label": "The Blood of Dawnwalker"
+  },
+  {
     "id": "b52c5bfa5fbd",
     "slug": "ace-archer-kyoto-imperial-palace-walkthrough",
     "headline": "Ace Archer: Kyoto Imperial Palace Walkthrough",
@@ -4524,102 +4617,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "bcc5c34b3374",
-    "slug": "lego-cities-skylines-developers-tackle-city-issues",
-    "headline": "Lego Cities: Skylines Developers Tackle City Issues",
-    "summary": "Iceflake Studios aims to improve Cities: Skylines by making city problems more visible without requiring a stats screen",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/lego-skylines-devs-want-your-citys-problems-to-be-visible-without-digging-into-a-stats-screen-which-means-finding-a-family-friendly-version-of-showing-homelessness"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/lego-skylines_0005_shocked-fisherthem.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-04T12:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "cities-skylines",
-    "game_label": "Cities: Skylines"
-  },
-  {
-    "id": "419b55749681",
-    "slug": "xbox-offers-6-free-games-with-borderlands-4-bundle",
-    "headline": "Xbox Offers 6 Free Games with Borderlands 4 Bundle",
-    "summary": "Xbox is offering a 'Buy One, Get One Free' promotion featuring Borderlands 4 at $69.99, but the deal comes with a price hike due to the game's cost.",
-    "category": "deals",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/bizarre-buy-1-get-6-free-deal-appears-on-the-xbox-store-but-its-not-great"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/ae9b588d25081/large.jpg",
-    "published_at": "2026-09-04T12:00:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "borderlands-4",
-    "game_label": "Borderlands 4"
-  },
-  {
-    "id": "39ae4f67a85d",
-    "slug": "playstation-store-august-2026s-top-downloads",
-    "headline": "PlayStation Store: August 2026’s top downloads",
-    "summary": "It’s time to see which PS5, PS4, PS VR2, and free-to-play games topped last month’s download charts. In August, EA Sports Madden NFL 27 and MARVEL Tōkon: Fighting Souls led the PS5 charts in the US. In the EU, Call of Duty: Black Ops II continues to hold the top spot. Check out the full […]",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "PlayStation Blog",
-        "url": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/39ae4f67a85d/800/600",
-    "published_at": "2026-09-04T11:59:16.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f59ec00ff540",
-    "slug": "arc-raiders-developer-admits-to-struggling-to-keep-pace-with-community",
-    "headline": "Arc Raiders' Developer Admits to Struggling to Keep Pace with Community Demand for Content",
-    "summary": "Arc Raiders' executive producer acknowledges the game's developers couldn't keep up with player demand for content, but promises a new update called Frozen Trail to address the issue",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-executive-producer-admits-its-developers-couldnt-keep-pace-with-the-players-and-their-need-for-content-but-promises-frozen-trail-as-the-answer/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK-1280-80.jpg",
-    "published_at": "2026-09-04T11:47:11.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "arc-raiders",
-    "game_label": "Arc Raiders"
   }
 ]
