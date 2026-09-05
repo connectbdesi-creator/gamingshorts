@@ -1,20 +1,22 @@
 [
   {
-    "id": "2f4c3ecae4cc",
-    "slug": "gen-ai-controversy-aside-crazy-taxi-world-tour-feels-like-classic-arca",
-    "headline": "Gen-AI controversy aside, Crazy Taxi: World Tour feels like classic arcade Sega - and it's an absolute blast",
-    "summary": "Crazy Taxi was not my favourite Dreamcast game (please don't ask me to choose between the triumphant rhythm triptych of Rez, Space Channel 5, and Samba de Amigo, however), but there's a specific bit of it that's forever seared into my brain: the giddy thrill of cresting over that one San-Francisco-inspired hill and barreling down toward the ocean, all while…",
+    "id": "4f3e272b5ef9",
+    "slug": "guide-these-21-ps5-games-are-coming-out-next-week-7th-13th-september",
+    "headline": "Guide: These 21+ PS5 Games Are Coming Out Next Week (7th-13th September)",
+    "summary": "Hot Wheels! Mewgenics! Valheim! More!\nI thought next week was going to be a bit slower on the PS5, but there’s actually more than 20 new titles launching for another consecutive week.\nHighlights include the new Hot Wheels game, Mewgenics, and the long-awaited release of Valheim.\nRead the full article on pushsquare.com",
     "category": "releases",
-    "platform_tags": [],
+    "platform_tags": [
+      "playstation"
+    ],
     "sources": [
       {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/crazy-taxi-world-tour-gamescom-preview"
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/guides/these-21plus-ps5-games-are-coming-out-next-week-7th-13th-september"
       }
     ],
-    "image_url": "https://assetsio.gnwcdn.com/crazy-taxi-world-tour-germany-header.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-05T09:01:01.000Z",
-    "hype_signal": 20,
+    "image_url": "https://images.pushsquare.com/4aa228adbe4f5/large.jpg",
+    "published_at": "2026-09-05T11:00:00.000Z",
+    "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -33,11 +35,141 @@
       {
         "name": "Nintendo Life",
         "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-5th-september"
+      },
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/features/talking-point-what-are-you-playing-this-weekend-september-5-6"
       }
     ],
     "image_url": "https://images.nintendolife.com/1e9cd6cefa330/large.jpg",
-    "published_at": "2026-09-05T09:00:00.000Z",
+    "published_at": "2026-09-05T11:00:00.000Z",
     "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "53fd2fa806b6",
+    "slug": "40-years-ago-konami-changed-the-video-game-industry-forever",
+    "headline": "40 Years Ago, Konami Changed the Video Game Industry Forever",
+    "summary": "Four decades after it released, Konami's classic platformer continues to inspire its competition.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/40-years-konami-changed-industry/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/15973926/DpfYKv3WkAEF7wI.jpg",
+    "published_at": "2026-09-05T10:00:15.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c0fbeba07a87",
+    "slug": "gamerant-daily-crossword-mini-september-6-2026",
+    "headline": "GameRant Daily Crossword Mini (September 6, 2026)",
+    "summary": "Conquer iconic indie adventures and revisit legendary stealth-action settings with today's mini video game crossword.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/game/gamerant-daily-crossword-mini-2026-09-06/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/game-rant-games-game-rant-daily-crossword-puzzle-mini-site-banner-graphic.jpg",
+    "published_at": "2026-09-05T10:00:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5f4b70515a03",
+    "slug": "gamerant-daily-crossword-september-6-2026",
+    "headline": "GameRant Daily Crossword (September 6, 2026)",
+    "summary": "Recall classic open-world settings and master tactical stealth action lore with today's GameRant Daily Crossword.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/game/gamerant-daily-crossword-2026-09-06/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/game-rant-games-game-rant-daily-crossword-puzzle-site-banner-graphic.jpg",
+    "published_at": "2026-09-05T10:00:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "46f7fc55e813",
+    "slug": "name-that-game-september-6-2026",
+    "headline": "Name That Game (September 6, 2026)",
+    "summary": "Storm World War II battlefields in pivotal frontline conflicts and embark on surreal religious journeys with today's Name That Game quiz.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/game/name-that-game-2026-09-06/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/game-rant-games-name-that-game-site-banner-graphic.jpg",
+    "published_at": "2026-09-05T10:00:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6c2e51ecdf4c",
+    "slug": "venom-game-still-in-development-credible-insider-says",
+    "headline": "Venom Game \"Still In Development,\" Credible Insider Says",
+    "summary": "Don't count Venom out just yet.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/insomniac-venom-still-in-development/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/06/venom-and-spider-man-fighting-in-marvel-s-spider-man-2.png",
+    "published_at": "2026-09-05T09:43:22.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2f4c3ecae4cc",
+    "slug": "gen-ai-controversy-aside-crazy-taxi-world-tour-feels-like-classic-arca",
+    "headline": "Gen-AI controversy aside, Crazy Taxi: World Tour feels like classic arcade Sega - and it's an absolute blast",
+    "summary": "Crazy Taxi was not my favourite Dreamcast game (please don't ask me to choose between the triumphant rhythm triptych of Rez, Space Channel 5, and Samba de Amigo, however), but there's a specific bit of it that's forever seared into my brain: the giddy thrill of cresting over that one San-Francisco-inspired hill and barreling down toward the ocean, all while…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/crazy-taxi-world-tour-gamescom-preview"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/crazy-taxi-world-tour-germany-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-05T09:01:01.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4472,150 +4604,5 @@
     "comment_count": 0,
     "game": "planted",
     "game_label": "Planted!"
-  },
-  {
-    "id": "01f2bb74f07b",
-    "slug": "dlss-5-rebranded-as-neural-rendering-in-nba-2k27",
-    "headline": "DLSS 5 Rebranded as 'Neural Rendering' in NBA 2K27",
-    "summary": "Nvidia's DLSS 5 technology is being referred to as 'Neural Rendering' in NBA 2K27, potentially indicating a rebranding of the controversial graphics tech.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "xbox",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/graphics-cards/dlss-5-is-called-dlss-neural-rendering-in-the-nba-2k27-graphics-options-and-i-think-i-smell-a-rebrand-of-nvidias-controversial-graphics-tech/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/DS7SZjq8hWw8MaRUdwa5Sg-1280-80.jpg",
-    "published_at": "2026-09-04T12:31:09.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "07093bb37f91",
-    "slug": "hideki-kamiya-and-kento-koyama-discuss-clovers-growth",
-    "headline": "Hideki Kamiya and Kento Koyama Discuss CLOVERS' Growth",
-    "summary": "Game developers Hideki Kamiya and Kento Koyama share their insights on CLOVERS' growth and its potential future success, while also touching on Okami 2 and Scalebound",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/features/interviews/hideki-kamiyas-clovers-on-the-end-of-discs-capcoms-trust-on-okami-2-and-scalebound-hopes/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/07093bb37f91/800/600",
-    "published_at": "2026-09-04T12:30:57.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "clovers",
-    "game_label": "CLOVERS"
-  },
-  {
-    "id": "b514cb1c6bc6",
-    "slug": "blood-of-dawnwalker-devs-left-a-do-not-use-asset-in-its-prologue",
-    "headline": "Blood of Dawnwalker Devs Left a 'Do Not Use' Asset in Its Prologue",
-    "summary": "Blood of Dawnwalker players discovered an unused asset in the game's prologue that doesn't appear to serve any purpose.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/blood-of-dawnwalker-do-not-use-red-asset-prologue/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/new-project-2026-09-04t131251-926.jpg",
-    "published_at": "2026-09-04T12:27:45.000Z",
-    "hype_signal": 10,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "blood-of-dawnwalker",
-    "game_label": "Blood of Dawnwalker"
-  },
-  {
-    "id": "bb44d9cb00e3",
-    "slug": "future-imperfect-five-predictions-for-the-next-decade",
-    "headline": "Future Imperfect: Five Predictions for the Next Decade",
-    "summary": "Industry experts share their outlooks on the next decade, with a focus on the uncertain future of gaming",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/future-imperfect-five-predictions-for-the-next-decade-opinion"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/benjamin-davies-JrZ1yE1PjQ0-unsplash.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-04T12:16:41.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "165cafd766bc",
-    "slug": "square-wants-final-fantasy-brave-exvius-to-balance-nostalgia-with-inno",
-    "headline": "Square Wants Final Fantasy Brave Exvius to Balance Nostalgia with Innovation",
-    "summary": "Square Enix is revamping Final Fantasy Brave Exvius to revive the classic mobile game while introducing new features to attract new players.",
-    "category": "industry",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/final-fantasy-resonance-preview-interview-square-enix-2000731035"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/3-4-1280x720.jpg",
-    "published_at": "2026-09-04T12:00:21.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "final-fantasy-brave-exvius",
-    "game_label": "Final Fantasy Brave Exvius"
-  },
-  {
-    "id": "a4612c24eda0",
-    "slug": "princess-maker-style-eastern-fantasy-daughter-raising-sim-my-fairy-pri",
-    "headline": "Princess Maker-style eastern fantasy daughter-raising sim My Fairy Princess gets Steam demo",
-    "summary": "In My Fairy Princess, you become the guardian of an orphaned girl in an eastern fantasy world.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/princess-maker-style-eastern-fantasy-daughter-raising-sim-my-fairy-princess-gets-steam-demo/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a4612c24eda0/800/600",
-    "published_at": "2026-09-04T12:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
