@@ -7730,5 +7730,83 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-05T17:22:37.584Z"
+  },
+  {
+    "slug": "old-school-runescape",
+    "name": "Old School RuneScape",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/aca/aca80d402fcf64ea31d63cafe14cc6d2.jpg",
+    "released": "2018-10-30",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Massively Multiplayer",
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "iOS",
+      "Android"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/e40/e404dcfd3a4de60614ff5515cf53c191.jpg",
+      "https://media.rawg.io/media/screenshots/6a4/6a4c31e57bc3505bcd4ca6f22a3d32d7.jpg",
+      "https://media.rawg.io/media/screenshots/4fb/4fb12cd111cd82b805a3be954bab966d_m1w0sjw.jpg",
+      "https://media.rawg.io/media/screenshots/e64/e6423c87aaecb90936301a1236275796_UzYtAMX.jpg",
+      "https://media.rawg.io/media/screenshots/ffc/ffc056d699e72b7347255cd4b21159cd_2rcYSPY.jpg",
+      "https://media.rawg.io/media/screenshots/a52/a526a2707290bc4cc09c1bffc3cab047_ZfvuHQk.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-05T21:21:35.566Z"
+  },
+  {
+    "slug": "laser-guy",
+    "name": "Laser Guy (Harold)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/e98/e9874d87aa2b58790d57cd69270dca52.jpg",
+    "released": "2020-07-12",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Puzzle"
+    ],
+    "platforms": [
+      "PC",
+      "Web"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/b0e/b0e4b0dbc6592ee50d01196df2441cb0.jpg",
+      "https://media.rawg.io/media/screenshots/3b3/3b32de86573ddf5f4f305156e5818643.jpg",
+      "https://media.rawg.io/media/screenshots/913/9134f3e86fc037eded6470cefb4fd2d6.jpg",
+      "https://media.rawg.io/media/screenshots/e98/e9874d87aa2b58790d57cd69270dca52.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-05T21:21:36.429Z"
+  },
+  {
+    "slug": "the-gentlemen",
+    "name": "Gentlemen's Club",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/076/0762e88a4eac9a554ede9d722bfb5522.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Casual",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/3e2/3e2ae51c269c6a0baa112b7675694ca3.jpg",
+      "https://media.rawg.io/media/screenshots/a40/a4070e061db4b3b1b56436549b08f3c9.jpg",
+      "https://media.rawg.io/media/screenshots/134/13489b9d46ddc9fd3a4f718304818885.jpg",
+      "https://media.rawg.io/media/screenshots/076/0762e88a4eac9a554ede9d722bfb5522.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-05T21:21:37.911Z"
   }
 ]
