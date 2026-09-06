@@ -7935,5 +7935,93 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-06T17:37:28.811Z"
+  },
+  {
+    "slug": "rain-world",
+    "name": "Rain World",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/ca0/ca0ad22b04fbee26188c02be4d03ab52.jpg",
+    "released": "2017-03-27",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Platformer",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/3e9/3e957860d89f2c90410a7acb0fccee48.jpg",
+      "https://media.rawg.io/media/screenshots/a8f/a8f89f4ed033f6f8deb5102c62ab68cc.jpg",
+      "https://media.rawg.io/media/screenshots/acb/acb117f85d2a3c9787f11174723bf612.jpg",
+      "https://media.rawg.io/media/screenshots/c04/c04ab8a3d0f415c52f1b639c20891c24.jpg",
+      "https://media.rawg.io/media/screenshots/403/40379c92a66a400ae54426df0e0278c2.jpg",
+      "https://media.rawg.io/media/screenshots/718/718808e45b853e592bfb71a00521b743.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-06T19:36:29.873Z"
+  },
+  {
+    "slug": "the-elder-scrolls",
+    "name": "The Elder Scrolls: Legends",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/431/4317e294e88e4c9d77327693b15f499a.jpg",
+    "released": "2017-03-22",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Card",
+      "Strategy"
+    ],
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "iOS",
+      "Android",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/b7e/b7e5335f15ceead15c6e7a64eafb7937.jpg",
+      "https://media.rawg.io/media/screenshots/873/87318650fb618049f0dda2e0eb6faa05.jpg",
+      "https://media.rawg.io/media/screenshots/7f6/7f6a39c94c67da7c51b3bf7ef948f1ae.jpg",
+      "https://media.rawg.io/media/screenshots/705/705763c09cf7173b8b702c6c3cdd5e1a.jpg",
+      "https://media.rawg.io/media/screenshots/d78/d78a7a6b467a52c752e78b9fb72407cd.jpg",
+      "https://media.rawg.io/media/screenshots/e40/e40ba860048828bb3308bb1327ccdeb4_igm92KB.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-06T19:36:30.382Z"
+  },
+  {
+    "slug": "space-marine-3",
+    "name": "Warhammer 40,000: Space Marine",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/ac2/ac25b5cef220bf5b8d052e0978451cab.jpg",
+    "released": "2011-09-05",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/004/0046d7811e7f2d1ad8df3776c916434b.jpg",
+      "https://media.rawg.io/media/screenshots/a06/a0651389b3feb7b953c859f3c50d0922.jpg",
+      "https://media.rawg.io/media/screenshots/5e7/5e70ffd35e8e94c7dd79464429e1a1f5.jpg",
+      "https://media.rawg.io/media/screenshots/209/2095fdde872ca39c25113d19efc44cdd.jpg",
+      "https://media.rawg.io/media/screenshots/a64/a64da59b22b1eda5d2f7c79e107a8dd9.jpg",
+      "https://media.rawg.io/media/screenshots/56e/56e1759cce6354662c69d1e66260a6bf.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-06T19:36:30.986Z"
   }
 ]
