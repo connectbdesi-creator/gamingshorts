@@ -7837,5 +7837,57 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-06T01:31:47.886Z"
+  },
+  {
+    "slug": "persona-4-golden",
+    "name": "Persona 4 Golden",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/b2c/b2c9c6115114c8f7d461b5430e8a7d4a.jpg",
+    "released": "2012-11-20",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch",
+      "PS Vita"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/3ff/3ff6df8e240e57dbc13a11526b101426.jpg",
+      "https://media.rawg.io/media/screenshots/f5d/f5d6c268748ad155f0f7f11aea88d08c.jpg",
+      "https://media.rawg.io/media/screenshots/954/9541b8505125a105771b6d61e8c35302.jpg",
+      "https://media.rawg.io/media/screenshots/869/869ea496d999f4ca705c411e27fea687.jpg",
+      "https://media.rawg.io/media/screenshots/470/4702110a30a13a987a3899eec013434c.jpg",
+      "https://media.rawg.io/media/screenshots/835/835a41bc0203a27a79add746f25ca94c.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-06T15:37:17.156Z"
+  },
+  {
+    "slug": "deficit",
+    "name": "Deficit",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/a8d/a8d823955788e92ae6b3ddd7adc69395.jpg",
+    "released": "2020-10-16",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "Web"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/b32/b3282d6767752d61dcd58ac2d37859b8.jpg",
+      "https://media.rawg.io/media/screenshots/fab/fabed6be758e87c95d6e9e37db20bc2c.jpg",
+      "https://media.rawg.io/media/screenshots/c98/c98dca846f64a0d9cb0106babe3e436d.jpg",
+      "https://media.rawg.io/media/screenshots/cbb/cbb2de265f0684aaee9e6af00b10ccbe.jpg",
+      "https://media.rawg.io/media/screenshots/a8d/a8d823955788e92ae6b3ddd7adc69395.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-06T15:37:17.565Z"
   }
 ]
