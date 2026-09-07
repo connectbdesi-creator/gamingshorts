@@ -1,5 +1,120 @@
 [
   {
+    "id": "e8b7fdd38e4d",
+    "slug": "food-devils-officially-claims-november-release",
+    "headline": "Food Devils Officially Claims November Release",
+    "summary": "Polygon caught up with Food Devils developer to learn more about the strategy game before its November 5 release date.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/food-devils-exclusive-release-date-interview/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/cg_dessert-devil_pralina.png",
+    "published_at": "2026-09-07T13:00:14.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "food-devils",
+    "game_label": "Food Devils"
+  },
+  {
+    "id": "8b8f8853976f",
+    "slug": "rumour-leaker-claims-a-brand-new-super-smash-bros-game-is-in-the-works",
+    "headline": "Rumour: Leaker Claims A Brand New Super Smash Bros. Game Is In The Works",
+    "summary": "Plus Nintendogs, Metroid, 3D Mario, and more. So called leakers have to prove themselves before folks start taking them seriously, but a YouTube user by the name of 'malo392' is causing quite a stir in the community. As reported by VGC, malo392 correctly predicted the existence of both Nintendo Directs this week in a YouTube comment, a full three days…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/rumour-leaker-claims-a-brand-new-super-smash-bros-game-is-in-the-works"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/e88923ddd91d4/large.jpg",
+    "published_at": "2026-09-07T12:45:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "14b816d82554",
+    "slug": "rpcs3-makes-physical-ps3-games-playable-on-pc",
+    "headline": "RPCS3 Makes Physical PS3 Games Playable On PC",
+    "summary": "PS3 emulator RPCS3 now supports physical PS3 games. The update makes it possible to play the original games on your PC.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/ps3-emulator-rpcs3-physical-games-discs-pc/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/new-project-2026-09-07t132518-217.jpg",
+    "published_at": "2026-09-07T12:42:06.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a9ac14d16c06",
+    "slug": "this-is-super-super-heavy-experts-test-nvidias-divisive-graphics-alter",
+    "headline": "\"This is super, super heavy\" - Experts test Nvidia's divisive graphics-altering DLSS 5 tech and find it really does tank your game's frame-rate",
+    "summary": "Nvidia's gen-AI-powered, graphics-changing DLSS 5 tech has been tested and it really does take a heavy toll on a game's frame-rate. There was suspicion of this last week, ahead of DLSS 5's debut implementation in NBA 2K7, and now it's been properly tested, the performance toll has been confirmed. The experts at Digital Foundry declared it \"super, super heavy\". Read…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/nvidia-dlss-5-tested-frame-rates"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/nba-2k7-dlss-5.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-07T12:34:26.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8d7546f66039",
+    "slug": "this-week-in-pc-games-wardogs-shroom-and-gloom-a-heist-game-from-the-k",
+    "headline": "This week in PC games: Wardogs, Shroom and Gloom, a heist game from the King of Dragon Pass creators, and a bullet time FPS inspired by F.E.A.R.",
+    "summary": "Hello there, loyal regulars and filthy, fickle drop-ins! A merry New Week to you, wherever you are. Thanks for feeding the Maw while we were away last Monday. You were mostly successful in sating the creature's hunger and preventing cosmic disturbances, though we didn't get off scot-free: the Maw appears to have eaten one of the more popular videogame genres.…",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-wardogs-shroom-and-gloom-a-heist-game-from-the-king-of-dragon-pass-creators-and-a-bullet-time-fps-inspired-by-fear"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/sprawl-zer.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-07T12:33:27.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "1c7ae491e3ff",
     "slug": "rockstar-games-reveals-big-change-to-gta-6-weapons",
     "headline": "Rockstar Games Reveals Big Change to GTA 6 Weapons",
@@ -359,6 +474,27 @@
     "image_url": "https://cdn.mos.cms.futurecdn.net/BqaADfBQgryNcBSm7MsGT4-1280-80.jpg",
     "published_at": "2026-09-07T11:56:11.000Z",
     "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "dc2af09bef31",
+    "slug": "tarae-the-unbound-developers-hope-its-east-asia-folklore-aesthetic-set",
+    "headline": "Tarae: The Unbound Developers Hope Its East Asia Folklore Aesthetic Sets It Apart From Western Medieval Action RPGs Like Diablo",
+    "summary": "Tarae: The Unbound developers explain why this South Korean action RPG will stand out from the crowd.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/tarae-the-unbound-developers-hope-its-east-asia-folklore-aesthetic-sets-it-apart-from-western-medieval-action-rpgs-like-diablo"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/07/tarae-main-1788781864131.jpg",
+    "published_at": "2026-09-07T11:54:14.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -954,6 +1090,50 @@
     "game_label": null
   },
   {
+    "id": "9334d4745365",
+    "slug": "as-sony-plans-to-kill-discs-ps3-emulator-rpcs3-is-bringing-them-back-y",
+    "headline": " As Sony plans to kill discs, PS3 emulator RPCS3 is bringing them back – you can now play physical games on PC straight from your disc drive ",
+    "summary": "\"Plug and play\"",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/as-sony-plans-to-kill-discs-ps3-emulator-rpcs3-is-bringing-them-back-you-can-now-play-physical-games-on-pc-straight-from-your-disc-drive/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/PzJXXwDQjSaLJC8rDSMuzA-1280-80.jpg",
+    "published_at": "2026-09-07T10:13:37.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e25966efefd6",
+    "slug": "square-enixs-graphical-goal-for-final-fantasy-7-remakes-was-2005-spin",
+    "headline": " Square Enix's \"graphical goal\" for Final Fantasy 7 remakes was 2005 spin-off film Advent Children as it's the \"ideal version\" of the 29-year-old JRPG ",
+    "summary": "\"We wanted to bring the appeal of that visual piece to life as a game that gamers themselves could experience,\" says Remake lead Naoki Hamaguchi",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/final-fantasy/square-enixs-graphical-goal-for-final-fantasy-7-remakes-was-2005-spin-off-film-advent-children-as-its-the-ideal-version-of-the-29-year-old-jrpg/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/SzQm9mXnFBbSBzz6L4rVDG-1280-80.jpg",
+    "published_at": "2026-09-07T10:10:25.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "de1f1a7bb4ae",
     "slug": "nintendo-developing-new-smash-bros-nintendogs-mario-kart-dlc",
     "headline": "Nintendo Developing New Smash Bros, Nintendogs, Mario Kart DLC",
@@ -1475,6 +1655,27 @@
     "game_label": "Onimusha: Way of the Sword"
   },
   {
+    "id": "4222e1e7bcb4",
+    "slug": "onimusha-way-of-the-sword-sales-top-one-million-on-launch-day",
+    "headline": "Onimusha: Way of the Sword sales top one million on launch day",
+    "summary": "Total sales for swordplay action game Onimusha: Way of the Sword surpassed one million units …",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/onimusha-way-of-the-sword-sales-top-one-million-on-launch-day"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/4222e1e7bcb4/800/600",
+    "published_at": "2026-09-07T07:10:21.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "21917d0c1cb2",
     "slug": "killzone-remaster-or-remake-reportedly-in-development",
     "headline": "Killzone Remaster Or Remake Reportedly In Development",
@@ -1620,6 +1821,10 @@
       {
         "name": "Polygon",
         "url": "https://www.polygon.com/nintendo-zelda-direct-date-time-september-2026/"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/nintendo-direct-september-2026-and-zelda-40th-anniversary-time-date-how-to-watch"
       }
     ],
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24100929/Link.jpg",
@@ -4449,206 +4654,6 @@
     "image_url": "https://assets-prd.ignimgs.com/2026/09/05/the-blood-of-dawnwalker-1788629295977.png",
     "published_at": "2026-09-05T17:30:16.000Z",
     "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cb26c3d2b6e7",
-    "slug": "project-zeta-ceo-explains-its-multi-team-tactical-arena-and-why-it-nea",
-    "headline": "Project Zeta CEO Explains Its Multi-Team Tactical Arena And Why It Nearly Got Cancelled",
-    "summary": "Nirvanana CEO Namseok Kim explains how Project Zeta is trying to create a new kind of competitive multiplayer game.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/project-zeta-gamescom-interview-multi-team-tactical-arena-genre/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/a-hero-character-landing-in-project-zeta.jpg",
-    "published_at": "2026-09-05T17:30:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0e222fa31f76",
-    "slug": "double-fines-first-game-post-xbox-split-is-a-goofy-bus-driving-sim-all",
-    "headline": "Double Fine's first game post-Xbox split is a goofy bus driving sim all about slapping passengers who don't follow the rules and doing a good job",
-    "summary": "It's been a couple of months since Double Fine parted ways from Xbox, and they've been busy getting to work since that split. There's that game jam Kickstarter they recently launched that has Brutal Legend 2 as a stretch goal (just ignore the fact that stretch goal is $100 million). And now, the once again indie studio has announced their…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/double-fines-first-game-post-xbox-split-is-a-goofy-bus-driving-sim-all-about-slapping-passengers-who-dont-follow-the-rules-and-doing-a-good-job"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/thank-you-bus-driver.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-05T17:01:43.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "88b52bd45a97",
-    "slug": "the-5-best-games-that-still-arent-officially-available-in-the-us",
-    "headline": "The 5 Best Games That Still Aren't Officially Available in the US ",
-    "summary": "From the game that inspired Resident Evil to one of the most acclaimed RPGs of all time, here are 5 games US audiences never officially got to play",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/5-best-games-not-available-us/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/4261107/mother3.0.png",
-    "published_at": "2026-09-05T17:01:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3d049e62e475",
-    "slug": "street-fighter-6-free-download-confirmed-for-september-8",
-    "headline": "Street Fighter 6 Free Download Confirmed for September 8",
-    "summary": "Street Fighter 6 offers brand-new free DLC, and it's something fans of the upcoming live-action adaptation will likely appreciate.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/street-fighter-6-dlc-free-september-2026/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/street-fighter-6-free-dlc-challenger-image-september-8-gamerant-1.jpg",
-    "published_at": "2026-09-05T17:00:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4f3b10f66eea",
-    "slug": "couple-remaking-38-year-old-nes-game-for-steam",
-    "headline": "Couple Remaking 38-Year-Old NES Game for Steam",
-    "summary": "A couple is reviving their retro NES project, The Battle of Olympus, and releasing it on Steam after discovering its cult following.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/action-rpg/38-years-of-love-later-a-couple-is-remaking-their-zelda-inspired-nes-gem-and-putting-it-on-steam-after-learning-its-a-cult-classic/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/6A5QcEYjy9KJaiguY3CayT-1280-80.jpg",
-    "published_at": "2026-09-05T17:00:00.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-battle-of-olympus",
-    "game_label": "The Battle of Olympus"
-  },
-  {
-    "id": "270fd9b6f3aa",
-    "slug": "double-fine-reveals-its-first-post-xbox-game-as-tim-schafer-declares-n",
-    "headline": "Double Fine reveals its first post-Xbox game as Tim Schafer declares no one will shut the studio down but him",
-    "summary": "Thank You Bus Driver is the first game being published under the Double Fine Action Labs label",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/double-fine-reveals-thank-you-bus-driver/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/screenshot-2026-09-05-113452.png",
-    "published_at": "2026-09-05T16:47:57.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e627caeab550",
-    "slug": "boruto-shippuden-series-loses-powerful-jutsu-ability",
-    "headline": "Boruto Shippuden Series Loses Powerful Jutsu Ability",
-    "summary": "The Boruto: Naruto Next Generations anime series has made significant changes to its characters' abilities, effectively reducing one of the strongest jutsu in the Naruto universe.",
-    "category": "esports",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/boruto-farewell-naruto-3-kekkei-genkai/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/boruto-bids-farewell-to-naruto-s-kekkei-genkai.jpg",
-    "published_at": "2026-09-05T16:30:27.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d16a07a19252",
-    "slug": "granblue-fantasy-relink-company-announces-new-publishing-label-aimed-a",
-    "headline": "Granblue Fantasy Relink Company Announces New Publishing Label Aimed At Releasing Smaller Games Faster",
-    "summary": "Their first game, Where the Seeds Fall, will release in November",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/granblue-fantasy-relink-company-announces-new-publishing-label-aimed-at-releasing-smaller-games-faster-2000731080"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/Screenshot-2026-09-04-at-12.12.01-1280x803.jpg",
-    "published_at": "2026-09-05T16:30:23.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "625b768c1bfb",
-    "slug": "busy-day-ahead-for-ps5-gamers",
-    "headline": "Busy Day Ahead for PS5 Gamers",
-    "summary": "PS5 gamers are in for a busy day on September 8 with multiple releases and updates, making it a significant day for the platform.",
-    "category": "industry",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/ps5-games-coming-out-soon-releasing-in-september-2026/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/new-ps5-games-coming-out-soon.jpg",
-    "published_at": "2026-09-05T16:30:14.000Z",
-    "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
