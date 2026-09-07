@@ -8306,5 +8306,30 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-07T15:21:52.382Z"
+  },
+  {
+    "slug": "wolverine",
+    "name": "Wolverine",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/170/170beb9a1c97633f47c626d44ab522ff.jpg",
+    "released": "1991-10-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "NES"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/3cd/3cda3be179973e9ed0baef63b99a3e31.jpg",
+      "https://media.rawg.io/media/screenshots/275/2756b972dc7d16c0c29b6501a1c1366c.jpg",
+      "https://media.rawg.io/media/screenshots/96d/96d032c6fa5e7c5f547daf18e7189f52.jpg",
+      "https://media.rawg.io/media/screenshots/044/044701b212382069678a80cc11e1a3ec.jpg",
+      "https://media.rawg.io/media/screenshots/a33/a33682573d1090a4f90cd273d60d0e9b.jpg",
+      "https://media.rawg.io/media/screenshots/95b/95bf808bc6e2c5d4542c259c37992695.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-07T15:51:54.356Z"
   }
 ]
