@@ -8112,5 +8112,95 @@
     "screenshots": [],
     "stores": [],
     "fetched_at": "2026-09-07T09:37:29.101Z"
+  },
+  {
+    "slug": "palworld",
+    "name": "Palworld",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/4e9/4e9c951414c732923fa72d5b1da49402.jpg",
+    "released": "2024-01-19",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d2f/d2fbb93ec027b425c709da2dcdb6661e.jpg",
+      "https://media.rawg.io/media/screenshots/682/68208e79b80c2206fa6c3b9f8befb5d6.jpg",
+      "https://media.rawg.io/media/screenshots/64e/64e96c21bf83b70e4ea7297e8728bd82.jpg",
+      "https://media.rawg.io/media/screenshots/ee6/ee6760e0d064dfdb0b9b7c3ed1fbea66.jpg",
+      "https://media.rawg.io/media/screenshots/a28/a28d3a3466b43f81757799ec9c23b8ca.jpg",
+      "https://media.rawg.io/media/screenshots/995/9951a87247280a8838dcd5bd7bc4f512.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-07T11:39:26.256Z"
+  },
+  {
+    "slug": "home-sweet-home",
+    "name": "Home Sweet Home (2007)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/15d/15deb40889d720e3368a5b37beab68b7.jpg",
+    "released": "2007-11-22",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Strategy",
+      "Adventure",
+      "Simulation"
+    ],
+    "platforms": [
+      "Xbox One",
+      "PlayStation 4",
+      "iOS",
+      "macOS",
+      "Wii"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f86/f8675634b29ca1325ca0b65545b79d39.jpg",
+      "https://media.rawg.io/media/screenshots/6ff/6ffcdd075a33c46c16196f9c45438ace.jpg",
+      "https://media.rawg.io/media/screenshots/8dc/8dc247d75d7fa260676ae20de258df6b.jpg",
+      "https://media.rawg.io/media/screenshots/29f/29f87822810c5bd3400bed2a6bd1547f.jpg",
+      "https://media.rawg.io/media/screenshots/794/79424b8a26e08b366629786bfe8fb7b9.jpg",
+      "https://media.rawg.io/media/screenshots/b74/b74a0441eb2db90345496412aba3360a.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-07T11:39:31.046Z"
+  },
+  {
+    "slug": "sid-meiers-civilization-vii",
+    "name": "Sid Meier’s Civilization VII",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/885/885f2a1740d363f9b7a52fd2043eed07.jpg",
+    "released": "2025-02-10",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch",
+      "macOS",
+      "Linux"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/885/885f2a1740d363f9b7a52fd2043eed07.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-07T11:39:33.089Z"
   }
 ]
