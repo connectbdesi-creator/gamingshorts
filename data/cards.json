@@ -1,5 +1,315 @@
 [
   {
+    "id": "0ec3a17081d7",
+    "slug": "the-hunger-games-sunrise",
+    "headline": "The Hunger Games: Sunrise",
+    "summary": "The next Hunger Games movie is shifting genres and returning to its 'Catching Fire' form, according to director Francis Lawrence and producer Nina Jacobson.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/hunger-games-sunrise-on-the-reaping-haymitch-new-interview/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/solstice-unit-250916-00315-f.jpg",
+    "published_at": "2026-09-07T23:01:14.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-hunger-games-sunrise",
+    "game_label": "The Hunger Games: Sunrise"
+  },
+  {
+    "id": "09d7b32c4ca7",
+    "slug": "aliens-fireteam-elite-2-review",
+    "headline": "Aliens: Fireteam Elite 2 Review",
+    "summary": "A disappointing sequel to Aliens: Fireteam Elite, this game fails to live up to its predecessor's fun co-op experience, leaving fans frustrated.",
+    "category": "reviews",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/reviews/ps5/aliens-fireteam-elite-2"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/1c3f52ec9da35/large.jpg",
+    "published_at": "2026-09-07T23:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "aliens-fireteam-elite-2",
+    "game_label": "Aliens: Fireteam Elite 2"
+  },
+  {
+    "id": "9e52e23ffd69",
+    "slug": "fortnite-teases-mega-man-collaboration",
+    "headline": "Fortnite Teases Mega Man Collaboration",
+    "summary": "Fortnite is partnering with Capcom to bring Mega Man to the game, with a tournament and new skins to unlock.",
+    "category": "esports",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/fortnite-mega-man-cosmetics-tournament/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fortnite-mega-man-skin.jpg",
+    "published_at": "2026-09-07T22:59:20.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fortnite",
+    "game_label": "Fortnite"
+  },
+  {
+    "id": "925963191902",
+    "slug": "the-legend-of-zeldas-best-amiibo-finally-arrives-this-month",
+    "headline": "The Legend of Zelda's Best Amiibo Finally Arrives This Month",
+    "summary": "Nintendo's new amiibo for The Legend of Zelda: Tears of the Kingdom based on Mineru's Construct arrives on Sept. 18, 3 years after TOTK's release.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/zelda-tears-of-the-kingdom-best-amiibo-september-2026/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/tears-of-the-kingdom-ending.png",
+    "published_at": "2026-09-07T22:54:09.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "33593025ca27",
+    "slug": "forgotten-single-player-fps-games-that-were-once-perfect",
+    "headline": "Forgotten Single-Player FPS Games That Were Once Perfect",
+    "summary": "Game Rant revisits classic single-player first-person shooter titles that have been overshadowed by more modern releases, highlighting their lasting impact and why they deserve more attention.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/fps-games-forgotten-once-perfect-masterpieces/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/single-player-fps-games-once-perfect-but-now-forgotten.jpg",
+    "published_at": "2026-09-07T22:39:12.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "892d192d5c65",
+    "slug": "lego-fan-creates-incredible-custom-gta-6-set",
+    "headline": "LEGO Fan Creates Incredible Custom GTA 6 Set",
+    "summary": "A dedicated GTA 6 fan has created an impressive custom diorama out of LEGO depicting a scene from the upcoming game along with its logo.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/lego-gta-6-custom-logo-set/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/lego-fan-creates-incredible-custom-gta-6-set-gamerant-feature.jpg",
+    "published_at": "2026-09-07T22:30:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "145c2698ef4e",
+    "slug": "nhl-27-to-feature-ai-generated-voiceover-for-in-game-commentators",
+    "headline": "NHL 27 to Feature AI-Generated Voiceover for In-Game Commentators",
+    "summary": "EA Sports is utilizing AI-generated voiceover for in-game commentators in NHL 27, according to veteran commentator John Buccigross.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/nhl-27-is-using-ai-generated-voiceover-for-in-game-commentators-john-buccigross-says"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/08/12/nhl27thumb-1786548045274.png",
+    "published_at": "2026-09-07T22:25:49.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "nhl-27",
+    "game_label": "NHL 27"
+  },
+  {
+    "id": "91d01566801c",
+    "slug": "ariana-grande-returns-to-final-fantasy-with-new-mod",
+    "headline": "Ariana Grande Returns to Final Fantasy with New Mod",
+    "summary": "A new mod for Final Fantasy Resonance has been released, bringing back pop star Ariana Grande as a character, potentially appeasing fans disappointed by her initial absence.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/final-fantasy-resonance-mod-brings-back-classic-ff-character-ariana-grande"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/07/ariana-grande-final-fantasy-1788818412008.png",
+    "published_at": "2026-09-07T22:04:56.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-resonance",
+    "game_label": "Final Fantasy Resonance"
+  },
+  {
+    "id": "0958317c890d",
+    "slug": "radical-dreamers-is-a-short-but-fun-reunion-with-chrono-characters",
+    "headline": "Radical Dreamers Is A Short But Fun Reunion With Chrono Characters",
+    "summary": "Kotaku discusses the newly released Radical Dreamers, a visual novel that reconnects beloved Chrono characters, offering a satisfying experience.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/radical-dreamers-is-a-short-but-fun-reunion-with-chrono-characters-2000731448"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/radicaldreamers01-e1788789361220.jpg",
+    "published_at": "2026-09-07T22:00:29.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "radical-dreamers",
+    "game_label": "Radical Dreamers"
+  },
+  {
+    "id": "4a34b3653868",
+    "slug": "you-can-now-play-your-physical-ps3-games-on-pc-straight-from-the-disc",
+    "headline": "You Can Now Play Your Physical PS3 Games on PC Straight from the Disc",
+    "summary": "Fans do what Sony won't. When it rains it pours – and Sony’s probably going to need a new umbrella at this point! In an embarrassing strike against the platform holder, hobbyist PS3 emulator RPCS3 has added physical Blu-ray support, meaning you’ll be able to play the vast majority of your last-last-gen games on the PC – directly from the…",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/you-can-now-play-your-physical-ps3-games-on-pc-straight-from-the-disc"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/b154cc6dcc4e5/large.jpg",
+    "published_at": "2026-09-07T22:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "544995974980",
+    "slug": "gta-6-early-access-method-revealed",
+    "headline": "GTA 6 Early Access Method Revealed",
+    "summary": "Grand Theft Auto 6 fans can gain early access using a new trick, allowing them to play the game before its official release date.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/gta-6-release-window-early-access/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_01-0naeahss9-1x6.jpg",
+    "published_at": "2026-09-07T21:59:01.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "71b7f617b869",
+    "slug": "fable-players-are-already-proving-playground-right-about-the-open-worl",
+    "headline": "Fable Players Are Already Proving Playground Right About the Open-World RPG's Length",
+    "summary": "Some Fable players are already showing why the reboot's 30–40 hour length may not matter nearly as much as it sounds.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/fable-length-life-sim-30-40-hour-player-reactions/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/fable-protagonist-on-a-horse-entering-a-kingdom.jpg",
+    "published_at": "2026-09-07T21:45:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "393f2870b911",
+    "slug": "halloween-horror-nights-2026-review-get-spooky-with-fortnite-sinners-h",
+    "headline": "Halloween Horror Nights 2026 Review: Get Spooky With Fortnite, Sinners, Hellraiser & More",
+    "summary": "Game Rant reviews Halloween Horror Nights 2026, highlighting this year's Fortnite zone and Sinners house, along with other spooky attractions.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/halloween-horror-nights-2026-review/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/hhn-2026-fortnitemares-1.jpg",
+    "published_at": "2026-09-07T21:38:29.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "501ca428c9bf",
     "slug": "where-to-find-the-last-loomis-logs-in-halloween-the-games-chapter-5",
     "headline": "Where to Find the Last Loomis Logs in Halloween: The Game's Chapter 5",
@@ -4321,313 +4631,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "bc8cccb7bd59",
-    "slug": "near-perfect-city-builder-games-no-one-remembers-today",
-    "headline": "Near-Perfect City-Builder Games No One Remembers Today",
-    "summary": "City-builder games have been around forever, and some of the genre's greatest masterpieces have been forgotten by time.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/city-builders-perfect-games-nobody-remembers-today/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/perfect-city-builder-games-forgotten-emperor.jpg",
-    "published_at": "2026-09-06T22:49:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "29c4b0cd455f",
-    "slug": "super-expensive-time-limited-world-of-warcraft-1215-release-officially",
-    "headline": "Super Expensive, Time-Limited World of Warcraft 12.1.5 Release Officially Revealed",
-    "summary": "World of Warcraft's upcoming 12.1.5 patch includes a new release that's going to be extremely expensive and only available for a short time.",
-    "category": "patches",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/world-of-warcraft-wow-12-1-5-patch-sporebearer-fungal-strider/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/wow-world-warcraft-12-1-5-patch-sporebearer-fungal-strider-mount-cost-5-million-gold-customize-vendors-auction-house-transmogrifier-midnight-time-limited-1.jpg",
-    "published_at": "2026-09-06T22:30:12.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1a28f9ede2cc",
-    "slug": "round-up-the-reviews-for-hot-wheels-infinite-rush-are-in",
-    "headline": "Round Up: The Reviews For Hot Wheels Infinite Rush Are In",
-    "summary": "Here's what the critics think about the new open-world racer. Hot Wheels races onto the Switch 2 next week with the new open-world racer Hot Wheels Infinite Rush by Milestone Games. The first lot of reviews have now gone live and so we've put together this round up to give you an idea of what to expect. Here are the…",
-    "category": "reviews",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/round-up-the-reviews-for-hot-wheels-infinite-rush-are-in"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/06cff8f772220/large.jpg",
-    "published_at": "2026-09-06T22:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e30055c2aaf9",
-    "slug": "gta-5-gets-surprise-nintendo-switch-port",
-    "headline": "GTA 5 Gets Surprise Nintendo Switch Port",
-    "summary": "Grand Theft Auto 5 receives an unexpected port to the Nintendo Switch, getting the beloved open-world game to run on the handheld console.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-5-nintendo-switch-port/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/nintendo-switch-gta-5-1.jpg",
-    "published_at": "2026-09-06T20:30:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1ecc61beab11",
-    "slug": "new-capcom-action-game-soars-to-no-1-on-steam",
-    "headline": "New Capcom Action Game Soars to No. 1 on Steam",
-    "summary": "A long-awaited Capcom action game has reached the top of the Steam charts, surpassing other popular titles with an 85% Metacritic score.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/steam-ominusha-way-of-the-sword-number-1-game/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/onimusha-way-of-the-sword-feather-battle.jpg",
-    "published_at": "2026-09-06T20:11:13.000Z",
-    "hype_signal": 90,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "capcom-action-game",
-    "game_label": "Capcom Action Game"
-  },
-  {
-    "id": "19b542dd51cb",
-    "slug": "halloween-the-game-appears-to-patch-out-a-sex-minigame-and-players-thi",
-    "headline": "Halloween: The Game Appears to Patch Out a Sex Minigame — and Players Think They Know Why",
-    "summary": "Halloween: The Game developer IllFonic appears to have patched out a sex mini-game after a gameplay clip went viral.",
-    "category": "patches",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/halloween-the-game-appears-to-patch-out-a-sex-minigame-and-players-think-they-know-why"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/06/lynda-main-1788722523549.jpg",
-    "published_at": "2026-09-06T19:36:30.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ba9df8fcf40f",
-    "slug": "rain-world-definitive-edition-coming-to-nintendo-switch",
-    "headline": "Rain World Definitive Edition Coming to Nintendo Switch",
-    "summary": "Developer Airframe Ultra has announced a definitive release of the cult classic platformer Rain World on Nintendo Switch, along with other project updates during the Akupara Direct",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/cult-classic-platformer-rain-world-is-getting-a-definitive-release-on-nintendo-switch-2/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/rain-world.jpg",
-    "published_at": "2026-09-06T19:30:14.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "rain-world",
-    "game_label": "Rain World"
-  },
-  {
-    "id": "0d797f3aad91",
-    "slug": "new-elder-scrolls-release-beats-elder-scrolls-6-to-series-first-gamepl",
-    "headline": "New Elder Scrolls Release Beats Elder Scrolls 6 to Series-First Gameplay",
-    "summary": "A new Elder Scrolls game is showcasing unique gameplay mechanics, which were briefly explored in past titles, before the highly anticipated Elder Scrolls 6 is released.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/the-elder-scrolls-6-online-u51-underwater-combat/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/assets_2026_03_1774291696_eso2026_nightmarket_theparch_taupezu_3840-377d871ad95d170b59a8-1900x1080-1-1.jpg",
-    "published_at": "2026-09-06T19:30:12.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-elder-scrolls",
-    "game_label": "The Elder Scrolls"
-  },
-  {
-    "id": "76d573dae705",
-    "slug": "rain-world-anthology-physical-edition-announced-for-ps5-switch-2",
-    "headline": "Rain World Anthology physical edition announced for PS5, Switch 2",
-    "summary": "Publisher Akupara Games and developer VIDEOCULT, in cooperation with distributor Serenity Forge, have announced Rain …",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/rain-world-anthology-physical-edition-announced-for-ps5-switch-2"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/76d573dae705/800/600",
-    "published_at": "2026-09-06T19:30:05.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "211d6453d1c2",
-    "slug": "mega-man-dual-override-preview",
-    "headline": "Mega Man: Dual Override Preview",
-    "summary": "A preview of Mega Man: Dual Override, a new game in the series, with a focus on the game's challenge and level design.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/previews/mega-man-dual-override-is-legit-and-i-know-because-i-died-100-times"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/3308c2a4a3665/large.jpg",
-    "published_at": "2026-09-06T19:30:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "mega-man-dual-override",
-    "game_label": "Mega Man: Dual Override"
-  },
-  {
-    "id": "64ef14651b01",
-    "slug": "airframe-ultra-launches-november-5",
-    "headline": "Airframe Ultra Launches November 5",
-    "summary": "Vehicular combat racing game Airframe Ultra is set to launch on PC in November, offering a new racing experience.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/airframe-ultra-launches-november-5"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/64ef14651b01/800/600",
-    "published_at": "2026-09-06T19:19:27.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "airframe-ultra",
-    "game_label": "Airframe Ultra"
-  },
-  {
-    "id": "1367963f5d54",
-    "slug": "no-generative-ai-in-space-marine-3",
-    "headline": "No Generative AI in Space Marine 3",
-    "summary": "Saber Interactive executive denies the presence of generative AI in their upcoming Space Marine 3 game, contradicting earlier statements and sparking controversy",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/action/there-is-absolutely-no-generative-ai-in-space-marine-3-promises-saber-interactive-executive/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/iMNxBmUjzkvgDjxgbdv4v3-1280-80.jpg",
-    "published_at": "2026-09-06T19:15:07.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "space-marine-3",
-    "game_label": "Space Marine 3"
-  },
-  {
-    "id": "b56f66f015af",
-    "slug": "how-to-explore-the-top-of-the-hill-in-blood-of-dawnwalker",
-    "headline": "How to Explore the Top of the Hill in Blood of Dawnwalker",
-    "summary": "A guide for completing the Bear Trouble side quest in The Blood of Dawnwalker, where players investigate clues at the top of a hill.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/blood-of-dawnwalker-explore-top-of-the-hill-in-bear-trouble/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/how-to-explore-the-top-of-the-hill-in-blood-of-dawnwalker-a-pilgrimage-for-power_-bear-trouble.jpg",
-    "published_at": "2026-09-06T18:36:32.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "blood-of-dawnwalker",
-    "game_label": "Blood of Dawnwalker"
   }
 ]
