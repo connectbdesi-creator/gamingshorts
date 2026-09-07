@@ -1,5 +1,96 @@
 [
   {
+    "id": "bdbc2e6b1a21",
+    "slug": "xbox-cloud-gaming-limitations-revealed",
+    "headline": "Xbox Cloud Gaming Limitations Revealed",
+    "summary": "Xbox has announced a new limit on cloud gaming for Game Pass Ultimate subscribers, restricting them to 15 hours of gaming per month in certain countries.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/xbox-tells-existing-game-pass-members-its-new-cloud-gaming-cap-doesnt-apply-to-them-but-only-in-certain-countries/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/bdbc2e6b1a21/800/600",
+    "published_at": "2026-09-07T13:19:37.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "778b2e18ee33",
+    "slug": "steam-generates-15bn-in-2026-forza-horizon-6-a-big-earning",
+    "headline": "Steam Generates $15bn in 2026, Forza Horizon 6 a Big Earning",
+    "summary": "Steam's parent company, Valve, reportedly made $15 billion in revenue in 2026, with Forza Horizon 6 being a significant contributor.",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/forza-horizon-6-biggest-steam-new-release-11-billion-gbp"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Forza-Horizon-6-i.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-07T13:17:55.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "forza-horizon-6",
+    "game_label": "Forza Horizon 6"
+  },
+  {
+    "id": "7826bbf37f97",
+    "slug": "capcoms-focused-on-reviving-dormant-franchises-and-thats-got-me-all-ex",
+    "headline": "Capcom's Focused on Reviving Dormant Franchises, and That's Got Me All Excited About Ace Attorney",
+    "summary": "Come on Capcom. You may have read earlier today that Onimusha: Way of the Sword, the brilliant new action game from Capcom, has already sold more than a million copies. The publisher announced the news via social feeds, but it also put out an official press release on the data, and it's there where you'll find an interesting quote from…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/capcoms-focused-on-reviving-dormant-franchises-and-thats-got-me-all-excited-about-ace-attorney"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/26d914a464d3a/large.jpg",
+    "published_at": "2026-09-07T13:15:00.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a3aeaf1ec328",
+    "slug": "tim-schafer-no-one-puts-double-fine-out-of-business-except-me",
+    "headline": "Tim Schafer: \"No one puts Double Fine out of business except me\"",
+    "summary": "Double Fine Productions' boss Tim Schafer recently explained how the studio avoided closure following significant layoffs at Xbox, stating, \"no one puts Double Fine out of business except for me.\"\n Read more",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/tim-schafer-no-one-puts-double-fine-out-of-business-except-me"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/double-fine-productions-keeper.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-07T13:07:52.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "e8b7fdd38e4d",
     "slug": "food-devils-officially-claims-november-release",
     "headline": "Food Devils Officially Claims November Release",
@@ -23,6 +114,73 @@
     "comment_count": 0,
     "game": "food-devils",
     "game_label": "Food Devils"
+  },
+  {
+    "id": "2e3113eac6c5",
+    "slug": "new-exodus-gameplay-footage-emerges",
+    "headline": "New Exodus Gameplay Footage Emerges",
+    "summary": "Uncooked gameplay footage for sci-fi RPG Exodus has surfaced, showcasing a main story mission on PS5. The footage is available on YouTube from ENFANT TERRIBLE and Insider Gaming.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/a-massive-amount-of-uncut-exodus-gameplay-has-appeared-online"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/8d3b1158a5356/large.jpg",
+    "published_at": "2026-09-07T13:00:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "exodus",
+    "game_label": "Exodus"
+  },
+  {
+    "id": "1aad351fd005",
+    "slug": "xbox-appears-to-be-experimenting-with-cheaper-game-pass-offers-for-ex",
+    "headline": "Xbox Appears To Be Experimenting With Cheaper Game Pass Offers For Ex-Members",
+    "summary": "Sign up for 12 months at a reduced rate. Over the years, we've never really seen Xbox discounting Game Pass for anyone aside from when they host special $1 trials for various tiers, but it seems like they've begun a new system of discounts for some ex-members specifically. A particular Reddit thread has been getting a ton of attention over…",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/xbox-appears-to-be-experimenting-with-cheaper-game-pass-offers-for-ex-members"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/c3605d0b8d19e/large.jpg",
+    "published_at": "2026-09-07T13:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "68a776657434",
+    "slug": "the-expanse-osiris-reborn-swings-for-the-mass-effect-crown-but-struggl",
+    "headline": " The Expanse: Osiris Reborn swings for the Mass Effect crown, but struggles to match my enthusiasm for the TV show ",
+    "summary": "After going hands-on, it's hard to show off a great RPG – even if it's building off an acclaimed sci-fi franchise",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/rpg/the-expanse-osiris-reborn-swings-for-the-mass-effect-crown-but-struggles-to-match-my-enthusiasm-for-the-tv-show/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Tnp65rtskF876fS3y8Xaoh-1280-80.jpg",
+    "published_at": "2026-09-07T13:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "8b8f8853976f",
@@ -1028,6 +1186,10 @@
       {
         "name": "Nintendo Life",
         "url": "https://www.nintendolife.com/news/2026/09/psvr-dolphin-game-jupiter-and-mars-definitive-edition-hits-switch-this-week"
+      },
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/jupiter-mars-definitive-edition-announced-for-switch"
       }
     ],
     "image_url": "https://images.nintendolife.com/e2f74cc400205/large.jpg",
@@ -4505,155 +4667,6 @@
     "image_url": "https://cdn.mos.cms.futurecdn.net/BX9YmZcnqHauLqvvbfyLWm-1280-80.jpg",
     "published_at": "2026-09-05T19:14:22.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "44f663d04d9b",
-    "slug": "divorce-attorney-says-video-games-destroy-marriages",
-    "headline": "Divorce Attorney Says Video Games Destroy Marriages",
-    "summary": "A divorce attorney is making claims that playing video games can potentially have a significant negative impact on marriages.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/video-games-destroy-marriages-divorce-attorney/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/divorce-attorney-says-video-games-destroy-marriages-gamerant-feature.jpg",
-    "published_at": "2026-09-05T19:00:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7d7e0c244915",
-    "slug": "ea-game-is-permanently-shutting-down-on-september-11",
-    "headline": "EA Game is Permanently Shutting Down on September 11",
-    "summary": "Yet another EA game is permanently shutting down in the near future, and fans are running out of time to play it.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/ea-games-shutting-down-list-grid-legends-when/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/ea-game-shutting-down-september-11.jpg",
-    "published_at": "2026-09-05T18:39:34.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "98dc25fb4f4f",
-    "slug": "rockstar-games-issues-new-official-statement-on-gta-6",
-    "headline": "Rockstar Games Issues New Official Statement on GTA 6",
-    "summary": "As we get closer to the long-awaited Grand Theft Auto 6 release date, Rockstar Games issues a new statement on the game.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-release-date-ps5-xbox/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/gta-6-new-statement.jpg",
-    "published_at": "2026-09-05T18:30:12.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "165ea498a06c",
-    "slug": "classic-turn-based-rpgs-that-deserve-a-perfect-1010",
-    "headline": "Classic Turn-Based RPGs That Deserve A Perfect 10/10",
-    "summary": "These turn-based RPGs were 10/10 when they launched more than two decades ago, and each game is still a perfect masterpiece today.",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/classic-turn-based-rpgs-perfect-games/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/turn-based-rpgs-that-are-still-perfect-ff6-s-terra-in-dissidia.jpg",
-    "published_at": "2026-09-05T18:21:12.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1aec825254ff",
-    "slug": "following-pokemon-stern-lets-fallout-pinball-machine-out-of-the-vault",
-    "headline": "Following Pokémon, Stern Lets Fallout Pinball Machine Out Of The Vault",
-    "summary": "The largest pinball company delves further into the video game themes, albeit with one largely taking inspiration from its TV adaptation",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/following-pokemon-stern-lets-fallout-pinball-machine-out-of-the-vault-2000731561"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/falloutstern.jpg",
-    "published_at": "2026-09-05T17:56:53.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0888a4015d8a",
-    "slug": "saber-cco-tim-willits-blames-layoffs-on-games-industry-overspecializat",
-    "headline": " Saber CCO Tim Willits blames layoffs on games industry overspecialization: 'Studios that have a couple hundred employees that work on one game are going to struggle' ",
-    "summary": "\"Why not take a risk?\"",
-    "category": "industry",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/gaming-industry/saber-cco-tim-willits-blames-layoffs-on-games-industry-overspecialization-studios-that-have-a-couple-hundred-employees-that-work-on-one-game-are-going-to-struggle/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/nkkKTZgdvt6YvBRjMGExch-1280-80.jpg",
-    "published_at": "2026-09-05T17:38:43.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "bdcd4a27192c",
-    "slug": "the-blood-of-dawnwalker-passes-1-million-copies-sold-in-just-2-days",
-    "headline": "The Blood of Dawnwalker Passes 1 Million Copies Sold in Just 2 Days",
-    "summary": "Single-player RPG and new IP The Blood of Dawnwalker has sold 1 million copies just two days after its launch, publisher Bandai Namco and developer Rebel Wolves have announced.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/the-blood-of-dawnwalker-passes-1-million-copies-sold-in-just-2-days"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/05/the-blood-of-dawnwalker-1788629295977.png",
-    "published_at": "2026-09-05T17:30:16.000Z",
-    "hype_signal": 65,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
