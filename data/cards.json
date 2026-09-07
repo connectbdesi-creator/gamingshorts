@@ -1,5 +1,335 @@
 [
   {
+    "id": "573685808719",
+    "slug": "riot-games-mmo-takes-shape-after-2xkos-demise",
+    "headline": "Riot Games' MMO Takes Shape After 2XKO's Demise",
+    "summary": "Riot Games co-founder Marc Merrill discusses the in-development MMO, calling it a 'grail', following the cancellation of 2XKO",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/riot-games-mmo-the-grail-pax-2xko"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/2xko-yasuo-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-07T09:30:34.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "riot-games-mmo",
+    "game_label": "Riot Games' MMO"
+  },
+  {
+    "id": "4ea4085ea970",
+    "slug": "new-ps5-releases-dawnwalker-and-onimusha-both-top-one-million-sales",
+    "headline": "New PS5 Releases Dawnwalker and Onimusha Both Top One Million Sales",
+    "summary": "Onimusha manages it in just 24 hours. Despite releasing within a day of each other, it doesn't seem like The Blood of Dawnwalker and Onimusha: Way of the Sword have eaten into each other's sales all that much: both PS5 games have confirmed they've sold over one million copies since launch. Capcom revealed Onimusha: Way of the Sword achieved the…",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/new-ps5-releases-dawnwalker-and-onimusha-both-top-one-million-sales"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/2894d220cc32a/large.jpg",
+    "published_at": "2026-09-07T09:15:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6b3e4e73494a",
+    "slug": "xbox-shared-dynamic-pricing-for-game-pass-to-lure-back-lapsed-subscrib",
+    "headline": "Xbox Shared Dynamic Pricing for Game Pass to Lure Back Lapsed Subscribers",
+    "summary": "Xbox users claim to have found evidence of dynamic pricing for Game Pass, a practice that could encourage lapsed subscribers to sign back up again.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/xbox-game-pass-dynamic-pricing/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/new-project-2026-09-07t095128-315.jpg",
+    "published_at": "2026-09-07T09:05:04.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a9255869d12c",
+    "slug": "xbox-game-pass-is-losing-10-games-on-september-15-including-some-of-it",
+    "headline": "Xbox Game Pass is Losing 10 Games on September 15, Including Some of Its Best",
+    "summary": "Xbox Game Pass subscribers should brace themselves as the service is set to lose 10games on September 15.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/xbox-game-pass-games-leaving-september-2026-list/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/xbox-game-pass-games-leaving-september-2026-list.jpg",
+    "published_at": "2026-09-07T09:00:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "af5bc59f6259",
+    "slug": "ps-stores-gamescom-sale-ends-soon",
+    "headline": "PS Store's Gamescom Sale Ends Soon",
+    "summary": "PS Store is offering thousands of PS5 and PS4 games at discounted prices, but the sale ends on September 9th, 2026.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/features/last-chance-to-get-these-50plus-ps5-ps4-games-in-ps-stores-gamescom-sale"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/82adc4207fbd6/large.jpg",
+    "published_at": "2026-09-07T09:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7983222af3c5",
+    "slug": "playground-games-fable-preview-at-gamescom",
+    "headline": "Playground Games' Fable Preview at Gamescom",
+    "summary": "Playground Games' associate director Will Kennedy revealed the studio's confidence in their upcoming Fable game, showcasing two different loadouts during a behind-closed-doors demo at Gamescom.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/fable-preview-so-good-played-it-twice"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/fable-hero.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-07T09:00:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fable",
+    "game_label": "Fable"
+  },
+  {
+    "id": "c6e07494099c",
+    "slug": "brand-new-smash-bros-and-nintendogs-games-are-in-development-nintendo",
+    "headline": "Brand new Smash Bros and Nintendogs games are in development, Nintendo leaker claims",
+    "summary": "A Nintendo leaker has announced the development of new Smash Bros and Nintendogs games, allegedly promising an entirely new Smash Bros experience without a remaster of Super Smash Bros Ultimate.",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/brand-new-smash-bros-and-nintendogs-games-are-in-development-nintendo-leaker-claims/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/c6e07494099c/800/600",
+    "published_at": "2026-09-07T08:55:44.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "smash-bros",
+    "game_label": "Smash Bros"
+  },
+  {
+    "id": "d57435bc7fe5",
+    "slug": "capcoms-onimusha-sells-1-million-in-a-day",
+    "headline": "Capcom's Onimusha sells 1 million in a day",
+    "summary": "Capcom's Onimusha: Way of the Sword has achieved impressive sales, with 1 million copies sold in a single day. The game's success is a hit for the series, which is already nearly on par with its best-selling entry.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/capcom-has-another-hit-on-its-hands-as-onimusha-sells-1-million-in-a-day/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/d57435bc7fe5/800/600",
+    "published_at": "2026-09-07T08:50:31.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "onimusha-way-of-the-sword",
+    "game_label": "Onimusha: Way of the Sword"
+  },
+  {
+    "id": "30fe1e0b7333",
+    "slug": "uk-charts-orbitals-performs-admirably-but-elden-ring-crashes-out-of-th",
+    "headline": "UK Charts: Orbitals Performs Admirably, But Elden Ring Crashes Out Of The Top 40",
+    "summary": "Tarnished Edition, that is. The latest UK Charts data is in, and we have a few newcomers this week. Most notably, Switch 2 exclusive Orbitals has performed admirably, entering the charts at number 3. It falls just behind Onimusha: Way of the Sword, which expectedly sold exceedingly well on PS5, with Switch 2 making up 8% of the platform split.…",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/uk-charts-orbitals-performs-admirably-but-elden-ring-crashes-out-of-the-top-40"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/f6ac238f4b3d7/large.jpg",
+    "published_at": "2026-09-07T08:45:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7f2b78615683",
+    "slug": "the-blood-of-dawnwalkers-most-popular-mod-right-now-nullifies-its-main",
+    "headline": "The Blood of Dawnwalker's most popular mod right now nullifies its main hook",
+    "summary": "It may not surprise you to learn that The Blood of Dawnwalker's most contentious mechanic can already be removed. If you're unfamiliar, the open-world role-playing game has a time mechanic where every quest you complete pushes time forwards and uses up a little more of your 30 day, 30 night time limit (of sorts).\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/the-blood-of-dawnwalkers-most-popular-mod-right-now-nullifies-its-main-hook"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/the-blood-of-dawnwalker-protag-grunt-shot-crop-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-07T08:43:51.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7ab7a770e857",
+    "slug": "playstation-is-reportedly-working-on-a-killzone-remake",
+    "headline": "PlayStation is reportedly working on a Killzone remake",
+    "summary": "A new entry in PlayStation's Killzone series is said to be in early development",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/playstation-is-reportedly-working-on-a-killzone-remake/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/7ab7a770e857/800/600",
+    "published_at": "2026-09-07T08:31:46.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "74b3fdae2ec4",
+    "slug": "15-biggest-new-video-games-releasing-this-fall-that-will-define-2026",
+    "headline": "15 Biggest New Video Games Releasing This Fall That Will Define 2026",
+    "summary": "From Grand Theft Auto 6 to Barbie Rewind, these 15 video games are leading a packed field this fall.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/new-video-games-fall-2026/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lists-games.jpg",
+    "published_at": "2026-09-07T08:00:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "36f8e8b793b7",
+    "slug": "chinese-games-market-surpasses-50-billion-for-first-time",
+    "headline": "Chinese Games Market Surpasses $50 Billion for First Time",
+    "summary": "The Chinese games market has reached $50 billion for the first time, growing 5.4% year-over-year to $51.8 billion in 2025.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/niko-partners-chinese-games-market-surpasses-50bn-for-the-first-time-in-2025"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Shanghai_China.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-07T07:54:06.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "dc72fea02f88",
+    "slug": "unlocking-panda-and-wataru-kun-costumes-in-onimusha-way-of-the-sword",
+    "headline": "Unlocking Panda and Wataru-kun Costumes in Onimusha: Way of the Sword",
+    "summary": "Onimusha: Way of the Sword players can unlock the Panda and Wataru-kun costumes by completing the main story, a unique feature that sets the game apart from others in the series.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/onimusha-way-of-the-sword-unlock-panda-costume/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/how-to-unlock-panda-costume-in-onimusha-way-of-the-sword.jpg",
+    "published_at": "2026-09-07T07:41:48.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "onimusha-way-of-the-sword",
+    "game_label": "Onimusha: Way of the Sword"
+  },
+  {
     "id": "21917d0c1cb2",
     "slug": "killzone-remaster-or-remake-reportedly-in-development",
     "headline": "Killzone Remaster Or Remake Reportedly In Development",
@@ -4327,334 +4657,6 @@
     "image_url": "https://images.pushsquare.com/4aa228adbe4f5/large.jpg",
     "published_at": "2026-09-05T11:00:00.000Z",
     "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d214fb714ba2",
-    "slug": "talking-point-what-are-you-playing-this-weekend-5th-september",
-    "headline": "Talking Point: What Are You Playing This Weekend? (5th September)",
-    "summary": "The one and Oni. Ah, the weekend! With the working week behind us, it's finally time to put our feet up and tuck into some games. It was a reasonably quiet one in the world of Nintendo this week, but a Sony State of Play brought some announcements our way. Final Fantasy VII Revelation finally got a release date, Final…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-5th-september"
-      },
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/features/talking-point-what-are-you-playing-this-weekend-september-5-6"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/1e9cd6cefa330/large.jpg",
-    "published_at": "2026-09-05T11:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "53fd2fa806b6",
-    "slug": "40-years-ago-konami-changed-the-video-game-industry-forever",
-    "headline": "40 Years Ago, Konami Changed the Video Game Industry Forever",
-    "summary": "Four decades after it released, Konami's classic platformer continues to inspire its competition.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/40-years-konami-changed-industry/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/15973926/DpfYKv3WkAEF7wI.jpg",
-    "published_at": "2026-09-05T10:00:15.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c0fbeba07a87",
-    "slug": "gamerant-daily-crossword-mini-september-6-2026",
-    "headline": "GameRant Daily Crossword Mini (September 6, 2026)",
-    "summary": "Conquer iconic indie adventures and revisit legendary stealth-action settings with today's mini video game crossword.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/game/gamerant-daily-crossword-mini-2026-09-06/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/game-rant-games-game-rant-daily-crossword-puzzle-mini-site-banner-graphic.jpg",
-    "published_at": "2026-09-05T10:00:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5f4b70515a03",
-    "slug": "gamerant-daily-crossword-september-6-2026",
-    "headline": "GameRant Daily Crossword (September 6, 2026)",
-    "summary": "Recall classic open-world settings and master tactical stealth action lore with today's GameRant Daily Crossword.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/game/gamerant-daily-crossword-2026-09-06/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/game-rant-games-game-rant-daily-crossword-puzzle-site-banner-graphic.jpg",
-    "published_at": "2026-09-05T10:00:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "46f7fc55e813",
-    "slug": "name-that-game-september-6-2026",
-    "headline": "Name That Game (September 6, 2026)",
-    "summary": "Storm World War II battlefields in pivotal frontline conflicts and embark on surreal religious journeys with today's Name That Game quiz.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/game/name-that-game-2026-09-06/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/game-rant-games-name-that-game-site-banner-graphic.jpg",
-    "published_at": "2026-09-05T10:00:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6c2e51ecdf4c",
-    "slug": "venom-game-still-in-development-credible-insider-says",
-    "headline": "Venom Game \"Still In Development,\" Credible Insider Says",
-    "summary": "Don't count Venom out just yet.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/insomniac-venom-still-in-development/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/06/venom-and-spider-man-fighting-in-marvel-s-spider-man-2.png",
-    "published_at": "2026-09-05T09:43:22.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2f4c3ecae4cc",
-    "slug": "gen-ai-controversy-aside-crazy-taxi-world-tour-feels-like-classic-arca",
-    "headline": "Gen-AI controversy aside, Crazy Taxi: World Tour feels like classic arcade Sega - and it's an absolute blast",
-    "summary": "Crazy Taxi was not my favourite Dreamcast game (please don't ask me to choose between the triumphant rhythm triptych of Rez, Space Channel 5, and Samba de Amigo, however), but there's a specific bit of it that's forever seared into my brain: the giddy thrill of cresting over that one San-Francisco-inspired hill and barreling down toward the ocean, all while…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/crazy-taxi-world-tour-gamescom-preview"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/crazy-taxi-world-tour-germany-header.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-05T09:01:01.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a6ca171778a2",
-    "slug": "the-legend-of-zelda-tears-of-the-kingdom-secrets-of-the-zonai",
-    "headline": "The Legend of Zelda: Tears of the Kingdom - Secrets of the Zonai",
-    "summary": "Nintendo and Dark Horse are releasing a Zelda game and a new deluxe edition in October.",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/zelda-tears-of-the-kingdom-secrets-of-the-zonai-book-october-2026/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/06/tears-of-the-kingdom-breath-of-the-wild-switch-2-upgrade.jpg",
-    "published_at": "2026-09-05T08:20:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-legend-of-zelda-tears-of-the-kingdom-secrets-of-the-zonai",
-    "game_label": "The Legend of Zelda: Tears of the Kingdom - Secrets of the Zonai"
-  },
-  {
-    "id": "950c1a4cca0e",
-    "slug": "the-blood-of-dawnwalker-gear-upgrade-guide",
-    "headline": "The Blood of Dawnwalker Gear Upgrade Guide",
-    "summary": "This guide helps players upgrade low-level gear in The Blood of Dawnwalker for enhanced gameplay, providing a walkthrough on how to achieve powerful upgrades.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/the-blood-of-dawnwalker-how-upgrade-gear-weapons-armor/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/blood-of-the-dawnwalker-how-to-upgrade-gear.jpg",
-    "published_at": "2026-09-05T08:15:04.000Z",
-    "hype_signal": 10,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-blood-of-dawnwalker",
-    "game_label": "The Blood of Dawnwalker"
-  },
-  {
-    "id": "b52c5bfa5fbd",
-    "slug": "ace-archer-kyoto-imperial-palace-walkthrough",
-    "headline": "Ace Archer: Kyoto Imperial Palace Walkthrough",
-    "summary": "A comprehensive guide to finding all Kubi Akaris in Onimusha: Way of the Sword",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/onimusha-way-of-the-sword-ace-archer-kyoto-imperial-palace-walkthrough-kubi-akari-location/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/onimusha_guides_acearcherkyoto_lead.jpg",
-    "published_at": "2026-09-05T07:01:15.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "onimusha-way-of-the-sword",
-    "game_label": "Onimusha: Way of the Sword"
-  },
-  {
-    "id": "7331d1b8fc52",
-    "slug": "what-are-we-all-playing-this-weekend",
-    "headline": "What are we all playing this weekend?",
-    "summary": "This is the first Saturday in a month I've woken up without a blocked nose or a mucus-hurling cough. Trips to Spain, Sweden, and Germany in quick succession and loaded on top of a cross country bike ride may have been a touch to much for my ageing body. Still, at last, I am well. In body, if not in…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-398"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/playing-this-weekend_KdYr8O4.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-05T07:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f3c8eb447f9c",
-    "slug": "monster-hunter-wilds-expansion-ascendance-trailer-released",
-    "headline": "Monster Hunter Wilds Expansion 'Ascendance' Trailer Released",
-    "summary": "Capcom has unveiled a trailer for the upcoming Monster Hunter Wilds expansion, Ascendance, showcasing its new features and gameplay mechanics.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/monster-hunter-wilds-expansion-ascendance-trailer-hammer-boosted-action-breakdown"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/f3c8eb447f9c/800/600",
-    "published_at": "2026-09-05T06:00:27.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "monster-hunter-wilds-ascendance",
-    "game_label": "Monster Hunter Wilds: Ascendance"
-  },
-  {
-    "id": "b4d06487cb82",
-    "slug": "sega-found-a-clever-workaround-to-officially-bring-sonic-to-fortnite",
-    "headline": "Sega Found a Clever Workaround to Officially Bring Sonic to Fortnite",
-    "summary": "Fortnite's Chapter 7 Season 4 Battle Pass features Sonic, but it's not the actual Sonic",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/fortnite-sonic-the-hedgehog-android-sega-epic-games/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/sonic-the-hedgehog_fn.jpg",
-    "published_at": "2026-09-05T05:15:14.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "sonic-the-hedgehog",
-    "game_label": "Sonic the Hedgehog"
-  },
-  {
-    "id": "4da6839b0e21",
-    "slug": "telltale-brings-five-chapter-sci-fi-adventure-the-expanse-to-switch",
-    "headline": "Telltale Brings Five-Chapter Sci-Fi Adventure 'The Expanse' To Switch",
-    "summary": "Update: Limited Run Games physical release announced.\n:\nThe famous narrative game studio Telltale, known for series such as Sam & Max, has this week surprised fans with the release of The Expanse: A Telltale Series Deluxe Edition on the Switch eShop.\nRead the full article on nintendolife.com",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/telltale-brings-five-chapter-sci-fi-adventure-the-expanse-to-switch"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/a29199e27e817/large.jpg",
-    "published_at": "2026-09-05T03:00:00.000Z",
-    "hype_signal": 65,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
