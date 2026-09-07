@@ -8202,5 +8202,58 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-07T11:39:33.089Z"
+  },
+  {
+    "slug": "shroom-and-gloom",
+    "name": "Shroom and Gloom",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/007/0078304f1897f49a4b77d09f07a1630b.jpg",
+    "released": "2021-12-19",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/1b5/1b5ac2470ee27849290e67c63803cdc8.jpg",
+      "https://media.rawg.io/media/screenshots/d23/d2381a1b4ce982b608daffdc6859e1ce.jpg",
+      "https://media.rawg.io/media/screenshots/60f/60fa1286d043122e501e6367b23da831.jpg",
+      "https://media.rawg.io/media/screenshots/b8d/b8d44fa61ad6576f10d8b172e5c8c9d1.jpg",
+      "https://media.rawg.io/media/screenshots/007/0078304f1897f49a4b77d09f07a1630b.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-07T12:07:20.482Z"
+  },
+  {
+    "slug": "pokemon-gold-and-silver",
+    "name": "Pokémon Gold, Silver",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/6fe/6fee3969b73bfccd935517c0c15826d8.jpg",
+    "released": "1999-11-21",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "Nintendo 3DS",
+      "Game Boy Color",
+      "Game Boy"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/681/681d1738be1aedfd15ace5a07ca61f4e.jpg",
+      "https://media.rawg.io/media/screenshots/5fa/5fabcb129c8b347069a7c496073bb9c2.jpg",
+      "https://media.rawg.io/media/screenshots/973/973d42d8b4d3313cd50268570e0bd9f9.jpg",
+      "https://media.rawg.io/media/screenshots/bbd/bbdfdeb46114884e5e0b36d8ccf88e93.jpg",
+      "https://media.rawg.io/media/screenshots/144/14480bd974f58972e655d37604300819.jpg",
+      "https://media.rawg.io/media/screenshots/d01/d012481e005b6c4f5c031dd23f540f2f.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-07T12:07:21.173Z"
   }
 ]
