@@ -1,5 +1,138 @@
 [
   {
+    "id": "9d24474708cb",
+    "slug": "some-big-companies-are-seemingly-opting-out-of-xboxs-disc-to-digital-s",
+    "headline": "Some Big Companies Are Seemingly Opting Out Of Xbox’s Disc-To-Digital Service",
+    "summary": "Fans report Sega, Ubisoft, Square Enix, and Bandai Namco games are ‘not participating’ in the newly introduced service",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/xbox-digital-licensing-disc-sega-ubisoft-square-enix-2000732117"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/xbox-disc-to-digital-ubisoft-square-enix-opt-out/"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2024/05/ad9cb7b1e49bc00cfc230280e227caa0-1280x720.jpg",
+    "published_at": "2026-09-08T18:30:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b1a6fe7f0f67",
+    "slug": "official-gta-6-release-time-could-mean-long-waits-for-some-players",
+    "headline": "Official GTA 6 Release Time Could Mean Long Waits for Some Players",
+    "summary": "Grand Theft Auto 6's official release time has been updated on the PlayStation Store, revealing when it will be available across all regions.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/grand-theft-auto-6-gta-staggered-release-time/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lucia_caminos_10.jpg",
+    "published_at": "2026-09-08T18:26:40.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8fa1b36ed8cc",
+    "slug": "5-near-perfect-farming-games-nobody-played",
+    "headline": "5 Near-Perfect Farming Games Nobody Played",
+    "summary": "These 5 farming games earned near-perfect Steam ratings despite attracting surprisingly tiny audiences.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/best-farming-games-steam-low-player-counts/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/flying-pig-in-wylde-flowers.jpg",
+    "published_at": "2026-09-08T18:16:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ecaacd1306ad",
+    "slug": "zelda-ocarina-of-time-launches-on-switch-2",
+    "headline": "Zelda: Ocarina of Time Launches On Switch 2",
+    "summary": "Nintendo Life announces the launch of Zelda: Ocarina of Time on the Nintendo Switch 2, bringing a modernized experience to the classic game.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-launches-on-switch-2-on-5th-november-2026"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/the-zelda-ocarina-of-time-special-edition-switch-2-console-and-pro-controller-launch-this-october"
+      },
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/the-legend-of-zelda-ocarina-of-time-remake-launches-november-5"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/zelda-oot-switch-2-console-release-date/"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/video-zelda-ocarina-of-time-side-by-side-comparison-switch-2-vs-n64"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/00544b80f7d0e/large.jpg",
+    "published_at": "2026-09-08T18:15:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "zelda-ocarina-of-time",
+    "game_label": "Zelda: Ocarina of Time"
+  },
+  {
+    "id": "544e464134bd",
+    "slug": "8-biggest-new-games-releasing-in-september-2026",
+    "headline": "8 Biggest New Games Releasing In September 2026",
+    "summary": "September 2026 is packed with major releases. Here are 8 new games confirmed for the month that deserve a spot on your radar.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/best-games-releasing-september-2026/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/three-characters-from-september-release-games-in-front-of-a-gradient.jpg",
+    "published_at": "2026-09-08T18:05:19.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "1a9e629f5ac3",
     "slug": "nintendo-doesnt-care-about-gta-6",
     "headline": "Nintendo Doesn't Care About GTA 6",
@@ -178,6 +311,27 @@
     "game_label": null
   },
   {
+    "id": "47dedcf45b84",
+    "slug": "magic-the-gatherings-reality-fracture-cards-are-breaking-new-ground",
+    "headline": "Magic: The Gathering's Reality Fracture Cards Are Breaking New Ground",
+    "summary": "Some of the cards in Magic: The Gathering's upcoming Reality Fracture expansion are bringing an unusual new mechanic to the game.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/magic-the-gathering-reality-fracture-empower-mechanic/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/magic-the-gathering-reality-fracture-new-mechanic.jpg",
+    "published_at": "2026-09-08T17:31:12.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "14b99939423a",
     "slug": "new-official-snes-release-confirmed-for-2027",
     "headline": "New Official SNES Release Confirmed for 2027",
@@ -199,6 +353,27 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "dfe4504f12f7",
+    "slug": "magic-reveals-26-new-reality-fracture-cards",
+    "headline": "Magic Reveals 26 New Reality Fracture Cards",
+    "summary": "Magic has released 26 new Reality Fracture cards, including five overpowered Sphinx commanders",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/mtg-reality-fracture-new-cards-preview/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/serena-malyon-fra-art.jpg",
+    "published_at": "2026-09-08T17:30:14.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "reality-fracture",
+    "game_label": "Reality Fracture"
   },
   {
     "id": "ec2b6a9fd7a0",
@@ -1412,41 +1587,6 @@
     "game_label": "The Legend Of Zelda: Ocarina Of Time"
   },
   {
-    "id": "ecaacd1306ad",
-    "slug": "zelda-ocarina-of-time-launches-on-switch-2",
-    "headline": "Zelda: Ocarina of Time Launches On Switch 2",
-    "summary": "Nintendo Life announces the launch of Zelda: Ocarina of Time on the Nintendo Switch 2, bringing a modernized experience to the classic game.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-launches-on-switch-2-on-5th-november-2026"
-      },
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/the-zelda-ocarina-of-time-special-edition-switch-2-console-and-pro-controller-launch-this-october"
-      },
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/the-legend-of-zelda-ocarina-of-time-remake-launches-november-5"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/zelda-oot-switch-2-console-release-date/"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/00544b80f7d0e/large.jpg",
-    "published_at": "2026-09-08T15:08:57.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "zelda-ocarina-of-time",
-    "game_label": "Zelda: Ocarina of Time"
-  },
-  {
     "id": "714399f70079",
     "slug": "gta-devs-in-legal-battle-with-rockstar-over-firing",
     "headline": "GTA Devs in Legal Battle with Rockstar Over Firing",
@@ -2612,29 +2752,6 @@
     ],
     "image_url": "https://assetsio.gnwcdn.com/person-using-computer.jpg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-09-08T13:27:23.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9d24474708cb",
-    "slug": "some-big-companies-are-seemingly-opting-out-of-xboxs-disc-to-digital-s",
-    "headline": "Some Big Companies Are Seemingly Opting Out Of Xbox’s Disc-To-Digital Service",
-    "summary": "Fans report Sega, Ubisoft, Square Enix, and Bandai Namco games are ‘not participating’ in the newly introduced service",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/xbox-digital-licensing-disc-sega-ubisoft-square-enix-2000732117"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2024/05/ad9cb7b1e49bc00cfc230280e227caa0-1280x720.jpg",
-    "published_at": "2026-09-08T13:26:56.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -4602,119 +4719,5 @@
     "comment_count": 0,
     "game": "pokemon-tcg-destined-rivals",
     "game_label": "Pokémon TCG Destined Rivals"
-  },
-  {
-    "id": "608e797ce15d",
-    "slug": "monster-hunter-wilds-ascendance-weapon-showcases-raise-fears-of-a-diff",
-    "headline": "Monster Hunter Wilds Ascendance Weapon Showcases Raise Fears Of A Difficulty Spike",
-    "summary": "Monster Hunter fans are concerned about the upcoming expansion's increased difficulty, which may make the game more challenging for players",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/monster-hunter-wilds-ascendance-dlc-speculation/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/monster-hunter-wilds-ascendance-official-key-art.jpg",
-    "published_at": "2026-09-08T00:33:06.000Z",
-    "hype_signal": 75,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "monster-hunter-wilds-ascendance",
-    "game_label": "Monster Hunter: Wilds Ascendance"
-  },
-  {
-    "id": "2f7724c1e095",
-    "slug": "nintendo-reveals-what-to-expect-from-the-zelda-40th-anniversary-direct",
-    "headline": "Nintendo Reveals What To Expect From The Zelda 40th Anniversary Direct",
-    "summary": "You probably already know. The Legend of Zelda 40th Anniversary Direct is just hours out, and Nintendo has shared a small update. Ahead of this broadcast (and celebration) of the series, the company's Japanese social media account has teased what's to come. Unsurprisingly, it seems we'll be getting an update about Ocarina of Time for Switch 2, and there'll also…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/nintendo-reveals-what-to-expect-from-the-zelda-40th-anniversary-direct"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/644cc04e3720d/large.jpg",
-    "published_at": "2026-09-08T00:30:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "31d9753e7b9f",
-    "slug": "preview-tomb-raider-legacy-of-atlantis-has-the-right-lara-but-somethin",
-    "headline": "Preview: Tomb Raider: Legacy of Atlantis Has the Right Lara, But Something's Missing",
-    "summary": "Fool's gold? I was excited to see Tomb Raider: Legacy of Atlantis at Gamescom last month, because I wanted to see how Amazon was moving the franchise forward after the dour reboot saga from the PS4 generation. I got to watch a full 30-minute hands-off presentation, narrated by series stewards Crystal Dynamics and Polish dev Flying Wild Hog. But if…",
-    "category": "reviews",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/previews/tomb-raider-legacy-of-atlantis-has-the-right-lara-but-somethings-missing"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/63a854dce2282/large.jpg",
-    "published_at": "2026-09-08T00:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cc2e8c96fa13",
-    "slug": "street-fighter-6-dlc-character-arjun-launches-october-13",
-    "headline": "Street Fighter 6 DLC character Arjun launches October 13",
-    "summary": "Street Fighter 6 Year 4 downloadable content character Arjun will launch on October 13, Capcom …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/street-fighter-6-dlc-character-arjun-launches-october-13"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/cc2e8c96fa13/800/600",
-    "published_at": "2026-09-07T23:54:30.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0ec3a17081d7",
-    "slug": "the-hunger-games-sunrise",
-    "headline": "The Hunger Games: Sunrise",
-    "summary": "The next Hunger Games movie is shifting genres and returning to its 'Catching Fire' form, according to director Francis Lawrence and producer Nina Jacobson.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/hunger-games-sunrise-on-the-reaping-haymitch-new-interview/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/solstice-unit-250916-00315-f.jpg",
-    "published_at": "2026-09-07T23:01:14.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-hunger-games-sunrise",
-    "game_label": "The Hunger Games: Sunrise"
   }
 ]
