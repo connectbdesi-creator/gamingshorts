@@ -8439,5 +8439,58 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-07T23:31:15.927Z"
+  },
+  {
+    "slug": "zelda-ocarina-of-time",
+    "name": "The Legend of Zelda: Ocarina of Time",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg",
+    "released": "1998-11-21",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "Nintendo Switch",
+      "Nintendo 64"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/aff/aff922f4dfbc562ab31b5b924adbfe93.jpg",
+      "https://media.rawg.io/media/screenshots/40a/40aa860328a2295da73336d4060bd973.jpg",
+      "https://media.rawg.io/media/screenshots/e72/e72b59594b6abdedf8adbfd5a0e53251.jpg",
+      "https://media.rawg.io/media/screenshots/070/070de3718e543e7ac533d09a8758775f.jpg",
+      "https://media.rawg.io/media/screenshots/f75/f75e8f877f1851461aba7579ef604f77.jpg",
+      "https://media.rawg.io/media/screenshots/f26/f26c6649ce30ae53204aa7f76350b2fd.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-08T03:36:47.106Z"
+  },
+  {
+    "slug": "pokemon-pokopia",
+    "name": "Pokémon Pokopia",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/67a/67a161425e620772ba69c3caa8f48a95.jpg",
+    "released": "2026-03-05",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/51c/51c97506ad55ad07b79dbb04381420cb.jpg",
+      "https://media.rawg.io/media/screenshots/22d/22d74fc7317a15b346732547b28cf203.jpg",
+      "https://media.rawg.io/media/screenshots/278/2781cac3afa6bde1523d31ce92ce480c.jpg",
+      "https://media.rawg.io/media/screenshots/6f8/6f8dab81783d74bc8560dfcf3153cd14.jpg",
+      "https://media.rawg.io/media/screenshots/3ea/3ead2945a59daef5e3623b8113f09a14.jpg",
+      "https://media.rawg.io/media/screenshots/2a0/2a0b29c32b97025bc0c892c083cceb07.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-08T03:36:47.953Z"
   }
 ]
