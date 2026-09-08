@@ -8862,5 +8862,59 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-08T17:07:30.455Z"
+  },
+  {
+    "slug": "ocarina-of-time",
+    "name": "The Legend of Zelda: Ocarina of Time",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg",
+    "released": "1998-11-21",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "Nintendo Switch",
+      "Nintendo 64"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/aff/aff922f4dfbc562ab31b5b924adbfe93.jpg",
+      "https://media.rawg.io/media/screenshots/40a/40aa860328a2295da73336d4060bd973.jpg",
+      "https://media.rawg.io/media/screenshots/e72/e72b59594b6abdedf8adbfd5a0e53251.jpg",
+      "https://media.rawg.io/media/screenshots/070/070de3718e543e7ac533d09a8758775f.jpg",
+      "https://media.rawg.io/media/screenshots/f75/f75e8f877f1851461aba7579ef604f77.jpg",
+      "https://media.rawg.io/media/screenshots/f26/f26c6649ce30ae53204aa7f76350b2fd.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-08T21:37:42.392Z"
+  },
+  {
+    "slug": "call-of-duty-black-ops-7",
+    "name": "Call of Duty: Black Ops 7",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/4ca/4cabe38446288beb37fc73b2fe047b08.jpg",
+    "released": "2025-11-13",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/2f2/2f2be7c95febbb9bef5a66f88baa3e65.jpeg",
+      "https://media.rawg.io/media/screenshots/275/275d75a25927b328730e31cb53b1314a.jpg",
+      "https://media.rawg.io/media/screenshots/91c/91c7e10c38c9ed10ea22abaa4756054c.jpg",
+      "https://media.rawg.io/media/screenshots/dc9/dc9d9b70b6045dee7015114d9972c200.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-08T21:37:43.185Z"
   }
 ]
