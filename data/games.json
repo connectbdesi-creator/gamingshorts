@@ -8745,5 +8745,74 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-08T14:38:37.958Z"
+  },
+  {
+    "slug": "stranger-than-heaven",
+    "name": "Stranger Than Heaven",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/d81/d813ab759628d14efa6754e7664ca317.jpg",
+    "released": "2027-01-15",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [],
+    "screenshots": [],
+    "stores": [],
+    "fetched_at": "2026-09-08T15:09:48.583Z"
+  },
+  {
+    "slug": "call-of-duty-2",
+    "name": "Call of Duty 2",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/50c/50c69996b917ae50d8d319f6ce9bed37.jpg",
+    "released": "2005-10-25",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "iOS",
+      "macOS",
+      "Xbox 360"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/de5/de518b36baf53aea7642a58ef773aee4.jpg",
+      "https://media.rawg.io/media/screenshots/866/8669d6cc0334edfac9ba9ae065b11030.jpg",
+      "https://media.rawg.io/media/screenshots/403/403b09e8ca249fa453d8105c81329f1c.jpg",
+      "https://media.rawg.io/media/screenshots/30e/30e45fd7c807a58ad92e379bac6c90a7.jpg",
+      "https://media.rawg.io/media/screenshots/216/2164ef7fc7cce8c1bfe664a408a01f6f.jpg",
+      "https://media.rawg.io/media/screenshots/2a4/2a47536a5ee46af711975769ee1ad52c.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-08T15:09:49.423Z"
+  },
+  {
+    "slug": "monophobia",
+    "name": "Monophobia",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/15c/15cda7eb293391b14dc28116c099b22e.jpg",
+    "released": "2019-12-05",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/478/4788395263549ed3d9b7226202a014f5.jpg",
+      "https://media.rawg.io/media/screenshots/868/8681b49db1417f46727bf0ad7028e1fb.jpg",
+      "https://media.rawg.io/media/screenshots/b6d/b6decb016989b1ad03ee8d811f52984a.jpg",
+      "https://media.rawg.io/media/screenshots/9bd/9bd7ff77335cc41065927cade11de738.jpg",
+      "https://media.rawg.io/media/screenshots/15c/15cda7eb293391b14dc28116c099b22e.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-08T15:09:53.838Z"
   }
 ]
