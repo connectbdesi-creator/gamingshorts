@@ -8586,5 +8586,88 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-08T11:37:52.858Z"
+  },
+  {
+    "slug": "absolum",
+    "name": "Absolum",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/adb/adbb4ab0ecc7fc37e8dec23ec5db7154.jpg",
+    "released": "2025-10-09",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d05/d053891ccfc4e142529560ef8e111cc2.jpg",
+      "https://media.rawg.io/media/screenshots/fd1/fd14adebd23575cf823cf0bec5a2ce54.jpg",
+      "https://media.rawg.io/media/screenshots/f6c/f6c5d0c5b9df81540cf75c4845597a24.jpg",
+      "https://media.rawg.io/media/screenshots/0ec/0ec6b6f3387bb722d3206f00bb35e22c.jpg",
+      "https://media.rawg.io/media/screenshots/9db/9dbddaff6ebdf75c4636eec056ce27b2.jpg",
+      "https://media.rawg.io/media/screenshots/c6c/c6c838fb5b51735200eaee0b4f8b6a6b.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-08T13:39:43.705Z"
+  },
+  {
+    "slug": "happy-wheels",
+    "name": "Happy Wheels",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/cf9/cf90badec56dcbd8d9622f80912264e5.jpg",
+    "released": "2010-06-05",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Racing",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "iOS",
+      "Android",
+      "Web"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/8da/8dacf6577530a39ede318ca6cfdbd019_wziSrqD.jpg",
+      "https://media.rawg.io/media/screenshots/628/628a06ef63ca3bb31738b46605734fef_JvA0kem.jpg",
+      "https://media.rawg.io/media/screenshots/26a/26a29df8f4b414a494469462f3d6608e_Bi4TFtt.jpg",
+      "https://media.rawg.io/media/screenshots/127/12768a02710ae0fba39e41b5df54b8b0.jpg",
+      "https://media.rawg.io/media/screenshots/05a/05a0f59e0c500fa9cee41537acbff2d0_sIlFoRc.jpg",
+      "https://media.rawg.io/media/screenshots/a72/a72e42cd9710044c890d8b0b07e267c5.jpeg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-08T13:39:45.560Z"
+  },
+  {
+    "slug": "blood-rain",
+    "name": "Blood Rain",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/cbd/cbd87fa06a18b6589f2fcf0f428e2937.jpg",
+    "released": "2020-11-17",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Platformer"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/4a1/4a1c700968bce365e3dcd3ae28799558.jpg",
+      "https://media.rawg.io/media/screenshots/e9d/e9d21b0de7e0dc906ffe2652e5452d0e.jpg",
+      "https://media.rawg.io/media/screenshots/cbd/cbd87fa06a18b6589f2fcf0f428e2937.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-08T13:39:46.212Z"
   }
 ]
