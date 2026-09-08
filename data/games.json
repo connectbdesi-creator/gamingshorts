@@ -8669,5 +8669,53 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-08T13:39:46.212Z"
+  },
+  {
+    "slug": "valheim",
+    "name": "Valheim",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/adb/adb59be81367b19c2544457424bcf086.jpg",
+    "released": "2021-02-02",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Linux"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/ad2/ad235d65b89c44add3aaebac1051af87.jpg",
+      "https://media.rawg.io/media/screenshots/de3/de3dd67c0ee5a7a4b13b609530bf9e2c.jpg",
+      "https://media.rawg.io/media/screenshots/4b4/4b4e286ccc000988925158f2c12598b7.jpg",
+      "https://media.rawg.io/media/screenshots/bd6/bd6d72931cb1964b736f093cff373d19.jpg",
+      "https://media.rawg.io/media/screenshots/cfb/cfbad508fac00e708d9ee24f66f0a5d9.jpg",
+      "https://media.rawg.io/media/screenshots/99d/99d636cac9ad9687ab42076c2b528a34.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-08T14:08:28.190Z"
+  },
+  {
+    "slug": "the-veil",
+    "name": "The Veil",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/5b1/5b1ee47be8fcafd90a75261456c2dbf9.jpg",
+    "released": "2018-04-23",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Platformer"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/5b1/5b1ee47be8fcafd90a75261456c2dbf9.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-08T14:08:30.810Z"
   }
 ]
