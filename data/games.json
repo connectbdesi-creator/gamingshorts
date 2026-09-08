@@ -8492,5 +8492,99 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-08T03:36:47.953Z"
+  },
+  {
+    "slug": "powerwash-simulator",
+    "name": "PowerWash Simulator",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/659/65959a07c4e6dc7a9034993bbb3ba232.jpg",
+    "released": "2022-07-14",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f09/f09c8d376448c03406ab00e468d8fede.jpg",
+      "https://media.rawg.io/media/screenshots/043/043839a461c6a253524f253b2bb78ca6.jpg",
+      "https://media.rawg.io/media/screenshots/d8a/d8aa8e2aaa54ad0238b85f12acb72c61.jpg",
+      "https://media.rawg.io/media/screenshots/b74/b74f14500faddd39749777876a2c1509.jpg",
+      "https://media.rawg.io/media/screenshots/9c6/9c6bbacfaddb82135317d7309ed19eb0.jpg",
+      "https://media.rawg.io/media/screenshots/27e/27edb9c07deb5c6347f6a8a6e662a3ea.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-08T11:37:49.750Z"
+  },
+  {
+    "slug": "mech-arena",
+    "name": "Mech Arena",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/fe0/fe0f920342e9ede3a800367dfb0017ce.jpg",
+    "released": "2021-11-26",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Action"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/9b1/9b1e262022739210c321184173917757.jpg",
+      "https://media.rawg.io/media/screenshots/f6c/f6cebfd82f9a5242348b319926d5298c.jpg",
+      "https://media.rawg.io/media/screenshots/237/2372ef401e827b4e8c4f99691a13fad6.jpg",
+      "https://media.rawg.io/media/screenshots/36a/36a5bd048d5f46f3a87c8deb3c8ee089.jpg",
+      "https://media.rawg.io/media/screenshots/8fa/8fadcb422c2159bce84098d7a870e25d.jpg",
+      "https://media.rawg.io/media/screenshots/f9b/f9b92f927c8a2c74419036c882a9e614.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-08T11:37:50.192Z"
+  },
+  {
+    "slug": "steam-deck",
+    "name": "Steam Deck VR",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/bf1/bf1715c4cd641f29af3800495ea1fd91.jpg",
+    "released": "2022-02-22",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/bf1/bf1715c4cd641f29af3800495ea1fd91.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-08T11:37:52.206Z"
+  },
+  {
+    "slug": "ffxiv",
+    "name": "FFXIV Dragonsong's Reprise: Exaflare Helper",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/a2b/a2be87964ae5d5c2a9e081c955791747.jpg",
+    "released": "2022-05-05",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a2b/a2be87964ae5d5c2a9e081c955791747.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-08T11:37:52.858Z"
   }
 ]
