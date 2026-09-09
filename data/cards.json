@@ -1,5 +1,624 @@
 [
   {
+    "id": "0ec299ab3d60",
+    "slug": "usual-june-preview-gamings-secret-tastemakers-are-back-with-spectral-c",
+    "headline": "Usual June Preview: Gaming's Secret Tastemakers Are Back with Spectral Crab Action",
+    "summary": "Finji has published some of the biggest indie games ever. Usual June is the company's next game, developed in-house, and looks awesome.",
+    "category": "reviews",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/usual-june-fall-preview/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/usual-june_keyart_4k_no-logo.png",
+    "published_at": "2026-09-09T19:30:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a8d8fefcf6f9",
+    "slug": "destiny-2-brings-back-playable-strikes-from-content-vault",
+    "headline": "Destiny 2 Brings Back Playable Strikes from Content Vault",
+    "summary": "Destiny 2 is set to revive playable strikes from its content vault, a feature that has been missing since the game's launch, with full strikes and boss mechanics included.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/destiny-2-strikes-content-vault-project-sunrise/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/d2_ep1_mercury_console_02-1.jpg",
+    "published_at": "2026-09-09T19:30:12.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "destiny-2",
+    "game_label": "Destiny 2"
+  },
+  {
+    "id": "766a4e91e93e",
+    "slug": "should-you-drain-or-kill-bakir-in-the-blood-of-dawnwalker",
+    "headline": "Should You Drain Or Kill Bakir In The Blood Of Dawnwalker",
+    "summary": "The Lunar Games guide provides tips on completing the event and defeating Bakir in The Blood of Dawnwalker",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/the-blood-of-dawnwalker-bakir-boss-drain-kill-the-lunar-games-quest-walkthrough-guide/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/new-project-10.png",
+    "published_at": "2026-09-09T19:27:21.000Z",
+    "hype_signal": 10,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-blood-of-dawnwalker",
+    "game_label": "The Blood of Dawnwalker"
+  },
+  {
+    "id": "ba72fd828a91",
+    "slug": "danganronpa-2x2-new-character-confirmed-in-release-date-trailer",
+    "headline": "Danganronpa 2x2 New Character Confirmed In Release Date Trailer",
+    "summary": "Danganronpa 2x2 has revealed a new character in a release date trailer, confirming a popular leak in the process",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/danganronpa-2x2-official-character-confirmation/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/danganronpa-2x2-introduction-trailer-1-26-screenshot.png",
+    "published_at": "2026-09-09T19:17:46.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "danganronpa-2x2",
+    "game_label": "Danganronpa 2x2"
+  },
+  {
+    "id": "95871abe4466",
+    "slug": "new-skyrim-mod-features-matt-berry-in-ikea-ad",
+    "headline": "New Skyrim Mod Features Matt Berry in Ikea Ad",
+    "summary": "A new Skyrim mod called Kallax Storageborn has been released, featuring Matt Berry in an Ikea ad, and promises to refresh the game with new content.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/a-full-fledged-skyrim-mod-starring-matt-berry-is-here-to-refresh-the-game-with-an-ikea-ad/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/kallax6.webp?w=300",
+    "published_at": "2026-09-09T19:17:17.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "skyrim",
+    "game_label": "Skyrim"
+  },
+  {
+    "id": "0bdeeec1aa64",
+    "slug": "smash-mouth-inspired-achievement-unlocks-in-gears-of-war-e-day",
+    "headline": "Smash Mouth-Inspired Achievement Unlocks in Gears of War: E-Day",
+    "summary": "Gears of War: E-Day has a unique achievement that unlocks with 25,000 kills in multiplayer, featuring a nod to Smash Mouth's 'All Star'.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gears-of-war-e-day-has-a-smash-mouth-inspired-achievement-and-thats-fantastic/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-3.02.52-PM.png?w=300",
+    "published_at": "2026-09-09T19:16:27.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gears-of-war-e-day",
+    "game_label": "Gears of War: E-Day"
+  },
+  {
+    "id": "859d18c42147",
+    "slug": "gta-6-is-about-to-test-how-much-realism-an-open-world-game-actually-ne",
+    "headline": "GTA 6 Is About to Test How Much Realism an Open-World Game Actually Needs",
+    "summary": "Rockstar's upcoming open-world game is pushing realism limits, sparking debate on the game's features",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-is-about-to-test-how-much-realism-an-open-world-game-actually-needs/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/bazaart_0caa3a3e-bc9d-46d0-93a0-2c3dfaf050a4.jpeg",
+    "published_at": "2026-09-09T19:15:12.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
+    "id": "dd6cc81b4c40",
+    "slug": "xbox-exclusive-gun-skin-sparks-confusion",
+    "headline": "Xbox Exclusive Gun Skin sparks Confusion",
+    "summary": "Call of Duty introduces a unique gun skin available only on Xbox consoles, raising questions among gamers about accessibility and exclusivity.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-introduces-a-gun-skin-that-you-can-only-see-on-an-xbox-console/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Xk8JZv8RHSa6AXcRAsXcwi-1280-80.jpg",
+    "published_at": "2026-09-09T19:11:08.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "call-of-duty",
+    "game_label": "Call of Duty"
+  },
+  {
+    "id": "c4bd265d16db",
+    "slug": "new-official-pikmin-release-confirmed-for-november",
+    "headline": "New Official Pikmin Release Confirmed for November",
+    "summary": "Pikmin fans have a new official release to look forward to following the latest Nintendo Direct, and it arrives in a few short months.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/pikmin-4-switch-2-edition-release-date/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/kirby-air-riders-amiibo-noir-dedede/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/new-official-pikmin-release.jpg",
+    "published_at": "2026-09-09T19:07:02.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6b1b181c8ab5",
+    "slug": "silent-hill-f-just-collaborated-with-japans-biggest-indie-game-of-2025",
+    "headline": "Silent Hill f Just Collaborated With Japan's Biggest Indie Game of 2025",
+    "summary": "Kotaku reports on a collaboration between Silent Hill f and Japan's top indie game of 2025, making a free mini-game playable in browser.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/silent-hill-f-urban-myth-dissolution-center-crossover-collaboration-free-minigame-2000732691"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/IMG_4699-1280x720.jpeg",
+    "published_at": "2026-09-09T19:00:55.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "silent-hill-f",
+    "game_label": "Silent Hill f"
+  },
+  {
+    "id": "3a592297bcfe",
+    "slug": "pile-cards-on-top-of-each-other-and-watch-the-magic-happen-in-the-text",
+    "headline": "Pile cards on top of each other and watch the magic happen in the textured and chunky roguelike deckbuilder Stack Order",
+    "summary": "I find it to be quite rare that when a game says it has a graphic novel art style that it actually has one. There's often just something that reads as slightly off, like it's not quite cut from the same cloth. I'm happy to say that isn't the case with Stack Order, a deckbuilding roguelike with a story all…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/pile-cards-on-top-of-each-other-and-watch-the-magic-happen-in-the-textured-and-chunky-roguelike-deckbuilder-stack-order"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/stack-order.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-09T19:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c91bbd078692",
+    "slug": "lego-digital-play-acquires-mobile-studio-offroad-games",
+    "headline": "Lego Digital Play acquires mobile studio Offroad Games",
+    "summary": "Lego Digital Play has acquired Offroad Games.\n Read more",
+    "category": "industry",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/lego-digital-play-acquires-mobile-studio-offroad-games"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/GdYm_fsXwAA7LGV.jpeg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-09T18:56:51.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0f38853802b0",
+    "slug": "what-does-the-fragile-hourglass-do-in-halloween-the-game",
+    "headline": "What Does the Fragile Hourglass Do in Halloween: The Game?",
+    "summary": "The effect of the Fragile Hourglass item in Halloween: The Game seems to be a mystery. However, this guide will go over exactly how you can use it.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/halloween-the-game-fragile-hourglass-how-to-use-effect/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/how-to-use-the-fragile-hourglass-in-halloween-the-game.jpg",
+    "published_at": "2026-09-09T18:56:47.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "23af5a627339",
+    "slug": "new-pokemon-confirmed-for-pokemon-pokopia",
+    "headline": "New Pokémon Confirmed For 'Pokémon Pokopia'",
+    "summary": "A recent Nintendo Direct has revealed that the Pokopia Expansion Pass for the upcoming game Pokémon Pokopia will feature new Pokémon for owners of the Switch 2",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/pokemon-pokopia-dlc-nintendo-direct-switch-2-new-monsters-items/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ns2_pokemonpokopiaexpa_scrn_03.jpg",
+    "published_at": "2026-09-09T18:48:27.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pokemon-pokopia",
+    "game_label": "Pokémon Pokopia"
+  },
+  {
+    "id": "2708779b3969",
+    "slug": "valheim-10-sees-resurgence-in-steam-player-count",
+    "headline": "Valheim 1.0 Sees Resurgence in Steam Player Count",
+    "summary": "Valheim 1.0 has experienced a significant increase in Steam player numbers, despite a five-year wait, surpassing its early access peak but still not reaching the game's all-time high.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/valheim-steam-count-huge-survival-game-early-access"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/valheim-mistlands-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-09T18:45:30.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "valheim",
+    "game_label": "Valheim"
+  },
+  {
+    "id": "772a673611ce",
+    "slug": "xbox-releases-all-55-achievements-for-gears-of-war-e-day",
+    "headline": "Xbox Releases All 55 Achievements for Gears of War: E-Day",
+    "summary": "Xbox has officially released all 55 achievements for Gears of War: E-Day after a leak earlier today, giving fans a detailed look at the game's unlocks.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/xbox-releases-the-full-list-of-55-achievements-in-gears-of-war-e-day"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/f441f95430883/large.jpg",
+    "published_at": "2026-09-09T18:45:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gears-of-war-e-day",
+    "game_label": "Gears of War: E-Day"
+  },
+  {
+    "id": "1cd6d7274f13",
+    "slug": "activision-reveals-exclusive-xbox-perk-for-call-of-duty-modern-warfare",
+    "headline": "Activision Reveals Exclusive Xbox Perk for Call of Duty: Modern Warfare 4",
+    "summary": "Activision is offering a unique perk to Call of Duty: Modern Warfare 4 preorders on Xbox, a translucent version of the M4 gun to celebrate the console's 25th anniversary. This offer is exclusive to Xbox preorders.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/weve-never-seen-anything-like-this-in-call-of-duty-before/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-2.18.41-PM.png?w=300",
+    "published_at": "2026-09-09T18:38:16.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "call-of-duty-modern-warfare-4",
+    "game_label": "Call of Duty: Modern Warfare 4"
+  },
+  {
+    "id": "01601da50d5d",
+    "slug": "eldrazi-return-in-magic-the-gathering",
+    "headline": "Eldrazi Return in 'Magic: The Gathering'",
+    "summary": "Magic: The Gathering has reintroduced the Eldrazi in a new storyline, potentially setting up a powerful expansion.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/mtg-reality-fracture-leaks-emrakul-spoilers-trapped-in-the-moon/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/emrakul-and-tamiyo.jpg",
+    "published_at": "2026-09-09T18:33:19.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "magic-the-gathering",
+    "game_label": "Magic: The Gathering"
+  },
+  {
+    "id": "4739e8eb10f2",
+    "slug": "yikes-some-switch-2-ports-in-that-new-direct-looked-rough",
+    "headline": "Yikes, Some Switch 2 Ports In That New Direct Looked Rough",
+    "summary": "Lego Batman and Kingdom Come don't seem to be running very well on Nintendo's newest console",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/yikes-some-switch-2-ports-in-that-new-direct-looked-rough-2000732852"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/05/Legobatman-1280x720.jpg",
+    "published_at": "2026-09-09T18:20:58.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7e3cf563321c",
+    "slug": "metroid-ravenous-looks-like-nintendo-is-finally-letting-samus-off-the",
+    "headline": "Metroid Ravenous Looks Like Nintendo Is Finally Letting Samus Off The Leash",
+    "summary": "Kotaku discusses the potential release of a new Metroid game, Metroid Ravenous, and speculates about Nintendo's approach to the series after years of quiet updates.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/metroid-ravenous-samus-personality-feminine-rage-2000732816"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/NS2_MetroidRavenous_scrn_06-1280x720.jpg",
+    "published_at": "2026-09-09T18:20:01.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "metroid-ravenous",
+    "game_label": "Metroid Ravenous"
+  },
+  {
+    "id": "9ae295c0320c",
+    "slug": "asus-rog-scar-18-offers-high-performance-gaming-on-the-go",
+    "headline": "ASUS ROG SCAR 18 Offers High-Performance Gaming on the Go",
+    "summary": "ASUS has launched the ROG SCAR 18, a gaming laptop featuring powerful components and a high-quality display for an immersive gaming experience.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/gaming-laptops/potent-components-power-display-rog-strix-scar-asus/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/DmyFWy7ZxApfwMmfMaQZbZ-1280-80.jpg",
+    "published_at": "2026-09-09T18:14:46.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "asus-rog-scar-18",
+    "game_label": "ASUS ROG SCAR 18"
+  },
+  {
+    "id": "6f429beb7dac",
+    "slug": "gears-of-war-e-day-achievements-list-released",
+    "headline": "Gears of War: E-Day Achievements List Released",
+    "summary": "Xbox Wire has announced the Achievements list for Gears of War: E-Day, giving fans a head start before the game's release on October 6th.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/09/09/plan-for-emergence-day-today-with-the-full-gears-of-war-e-day-achievements-list/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/6f429beb7dac/800/600",
+    "published_at": "2026-09-09T18:01:48.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gears-of-war-e-day",
+    "game_label": "Gears of War: E-Day"
+  },
+  {
+    "id": "91bfdcc96a3e",
+    "slug": "the-elder-scrolls-v-skyrim-gets-ikea-mod-featuring-matt-berry",
+    "headline": "The Elder Scrolls V: Skyrim Gets IKEA Mod Featuring Matt Berry",
+    "summary": "Matt Berry voices an IKEA Kallax bookcase in a free official mod for The Elder Scrolls V: Skyrim",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/the-elder-scrolls-v-skyrim-official-ikea-mod-features-matt-berry-as-a-kallax-storage-companion"
+      },
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/ikea-just-released-an-official-skyrim-mod-starring-matt-berry-as-a-shelf-2000732886"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/09/copy-of-ikea-buzz-skyrimkallax-dotcom-static-4x5-master-uk-1788954904647.jpg",
+    "published_at": "2026-09-09T18:00:37.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-elder-scrolls-v-skyrim",
+    "game_label": "The Elder Scrolls V: Skyrim"
+  },
+  {
+    "id": "dcfefa873a68",
+    "slug": "modern-warfare-4-pre-order-bonus-inner-circuit-m4-blueprint",
+    "headline": "Modern Warfare 4 Pre-Order Bonus: Inner Circuit M4 Blueprint",
+    "summary": "Pre-ordering Modern Warfare 4 will grant players access to a unique M4 Blueprint called the Inner Circuit, offering in-game customization options.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/09/09/modern-warfare-4-pre-order-bonus-inner-circuit-m4-blueprint/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/dcfefa873a68/800/600",
+    "published_at": "2026-09-09T18:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "modern-warfare-4",
+    "game_label": "Modern Warfare 4"
+  },
+  {
+    "id": "276e8a71df49",
+    "slug": "blizzard-workers-win-historic-union-contract-that-could-set-a-new-stan",
+    "headline": "Blizzard Workers Win Historic Union Contract That Could Set A New Standard For Game Developers",
+    "summary": "A group of 1,900 employees at Blizzard Entertainment has successfully signed a union contract with Microsoft, securing several guarantees for members. Represented by the Communications Workers of America (CWA), the contract has given the Blizzard workers more workplace flexibility and guaranteed wage increases, but several other industry-first agreements could make this a blueprint for other video",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/3930508-blizzard2.jpg?w=300",
+    "published_at": "2026-09-09T17:46:02.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "abb1f34ead23",
+    "slug": "danganronpa-22-new-character",
+    "headline": "Danganronpa 2×2 New Character",
+    "summary": "Kotaku discusses the introduction of a new character in Danganronpa 2×2, sparking curiosity and suspicion among fans due to the game's murder mystery nature.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/danganronpa-2x2-release-date-trailer-direct-ryota-mitarai-2000732875"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/johndanganronpa-1280x720.jpg",
+    "published_at": "2026-09-09T17:40:23.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "danganronpa-22",
+    "game_label": "Danganronpa 2×2"
+  },
+  {
     "id": "086e72fcd600",
     "slug": "new-steam-game-is-stardew-valley-with-a-unique-project-zomboid-twist",
     "headline": "New Steam Game is Stardew Valley With a Unique Project Zomboid Twist",
@@ -406,29 +1025,6 @@
     "image_url": "https://picsum.photos/seed/d561343012c2/800/600",
     "published_at": "2026-09-09T16:58:00.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c4bd265d16db",
-    "slug": "new-official-pikmin-release-confirmed-for-november",
-    "headline": "New Official Pikmin Release Confirmed for November",
-    "summary": "Pikmin fans have a new official release to look forward to following the latest Nintendo Direct, and it arrives in a few short months.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/pikmin-4-switch-2-edition-release-date/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/new-official-pikmin-release.jpg",
-    "published_at": "2026-09-09T16:57:27.000Z",
-    "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -1273,6 +1869,10 @@
       {
         "name": "IGN",
         "url": "https://www.ign.com/articles/playstation-plus-game-catalog-for-september-2026-confirmed"
+      },
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/playstation-plus-game-catalog-and-classics-catalog-lineup-for-september-2026-announced"
       }
     ],
     "image_url": "https://assets-prd.ignimgs.com/2023/12/12/playstation-plus-1702412896101.png",
@@ -2591,6 +3191,29 @@
     "game_label": null
   },
   {
+    "id": "dc5f0dfa667b",
+    "slug": "stellar-blade-complete-edition-for-switch-2-launches-november-6-with-b",
+    "headline": "Stellar Blade Complete Edition for Switch 2 Launches November 6 with Bayonetta Costume Collaboration",
+    "summary": "Gematsu reports that the Switch 2 version of action game Stellar Blade Complete Edition will launch on November 6, accompanied by a Bayonetta costume collaboration.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/stellar-blade-complete-edition-for-switch-2-launches-november-6-alongside-bayonetta-costume-collaboration"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/dc5f0dfa667b/800/600",
+    "published_at": "2026-09-09T14:44:26.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "stellar-blade-complete-edition",
+    "game_label": "Stellar Blade Complete Edition"
+  },
+  {
     "id": "b14a05f311c0",
     "slug": "fatal-fury-city-of-the-wolves-coming-to-switch-2-along-with-tokyo-reve",
     "headline": "Fatal Fury: City of The Wolves coming to Switch 2 along with Tokyo Revengers collab",
@@ -2846,6 +3469,56 @@
     "game_label": null
   },
   {
+    "id": "240e4e13c8c5",
+    "slug": "yu-gi-oh-tag-force-gx-remake-announced-for-switch-and-pc",
+    "headline": "Yu-Gi-Oh! TAG FORCE GX Remake Announced for Switch and PC",
+    "summary": "Konami has announced Yu-Gi-Oh! TAG FORCE GX, a remake of the RPG card game, for Nintendo Switch and PC.",
+    "category": "releases",
+    "platform_tags": [
+      "switch",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/yu-gi-oh-tag-force-gx-announced-for-switch-2-switch-and-pc"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/240e4e13c8c5/800/600",
+    "published_at": "2026-09-09T14:38:08.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "yu-gi-oh-tag-force-gx",
+    "game_label": "Yu-Gi-Oh! TAG FORCE GX"
+  },
+  {
+    "id": "a3f0a972e35b",
+    "slug": "metal-slug-ultimate-collection-announced-for-ps5-xbox-series-switch-2",
+    "headline": "Metal Slug Ultimate Collection announced for PS5, Xbox Series, Switch 2, Switch, and PC",
+    "summary": "SNK has announced Metal Slug Ultimate Collection, a collection of 10 games in celebration of …",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/metal-slug-ultimate-collection-announced-for-ps5-xbox-series-switch-2-switch-and-pc"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/a3f0a972e35b/800/600",
+    "published_at": "2026-09-09T14:37:56.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "03fd11bb6510",
     "slug": "a-new-handheld-only-switch-2-game-is-coming-from-the-silent-hill-2-rem",
     "headline": "A New Handheld-Only Switch 2 Game Is Coming From The Silent Hill 2 Remake Devs",
@@ -2867,6 +3540,29 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "c4393a9f9b88",
+    "slug": "fatal-fury-city-of-the-wolves-hits-switch-2-on-october-22",
+    "headline": "Fatal Fury: City of the Wolves Hits Switch 2 on October 22",
+    "summary": "SNK is releasing a new version of Fatal Fury: City of the Wolves on the Nintendo Switch 2, alongside downloadable characters from the anime Tokyo Revengers.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/fatal-fury-city-of-the-wolves-coming-to-switch-2-on-october-22-alongside-dlc-characters-manjiro-sano-and-ken-ryuguji-from-tokyo-revengers"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/c4393a9f9b88/800/600",
+    "published_at": "2026-09-09T14:36:16.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fatal-fury-city-of-the-wolves",
+    "game_label": "Fatal Fury: City of the Wolves"
   },
   {
     "id": "ec919b8f647a",
@@ -4039,662 +4735,5 @@
     "comment_count": 0,
     "game": "truckful",
     "game_label": "Truckful"
-  },
-  {
-    "id": "6ac1795490ca",
-    "slug": "no-mans-sky-cosmos-update-now-available",
-    "headline": "No Man’s Sky ‘COSMOS’ update now available",
-    "summary": "Hello Games has released the “COSMOS” (version 7.0) update for No Man’s Sky. Here is …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/no-mans-sky-cosmos-update-now-available"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/6ac1795490ca/800/600",
-    "published_at": "2026-09-09T13:14:51.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b15b32370627",
-    "slug": "the-legend-of-zelda-ocarina-of-time-remake-gets-one-thing-absolutely-r",
-    "headline": "The Legend of Zelda: Ocarina of Time Remake Gets One Thing Absolutely Right",
-    "summary": "Nintendo's Switch 2 remake of The Legend of Zelda classic nails its approach to a great location, Hyrule Field",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-switch-2-art-style-hyrule-field/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/vlcsnap-2026-09-09-11h55m51s803.png",
-    "published_at": "2026-09-09T13:14:29.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3c704c66bd6f",
-    "slug": "kingdom-hearts-4-leak-reveals-one-of-its-most-unexpected-worlds",
-    "headline": "Kingdom Hearts 4 Leak Reveals One Of Its Most Unexpected Worlds",
-    "summary": "Today is not a good day to be hit with Kingdom Hearts 4 spoilers, as thanks to what appears to be a massive Steam leak, achievement lists for multiple games have appeared online. Amongst the games caught in the leak is Kingdom Hearts 4, and if the data is real, several of the game's worlds have been revealed early. So…",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/kingdom-hearts-4-leak-reveals-one-of-its-most-unexpected-worlds/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/KH4-Mickey.jpg?w=300",
-    "published_at": "2026-09-09T13:12:54.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c91722eb1419",
-    "slug": "rally-point-strong-simulation-and-team-building-cant-carry-menace-fore",
-    "headline": "Rally Point: Strong simulation and team building can't carry Menace forever",
-    "summary": "It's probably poor form to do another \"what I said in a group chat\" (this time, to culture critic Rowan Kaiser. Hermits can namedrop too, shut up) intro, but \"Oh i already liked menace, that's why I hate it\" feels too useful to spurn. I don't really hate Menace. You've been there, though: a game you enjoy, perhaps even begin…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/rally-point-strong-simulation-and-team-building-cant-carry-menace-forever"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/menace_1.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-09T13:10:37.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "91bfdcc96a3e",
-    "slug": "the-elder-scrolls-v-skyrim-gets-ikea-mod-featuring-matt-berry",
-    "headline": "The Elder Scrolls V: Skyrim Gets IKEA Mod Featuring Matt Berry",
-    "summary": "Matt Berry voices an IKEA Kallax bookcase in a free official mod for The Elder Scrolls V: Skyrim",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/the-elder-scrolls-v-skyrim-official-ikea-mod-features-matt-berry-as-a-kallax-storage-companion"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/09/copy-of-ikea-buzz-skyrimkallax-dotcom-static-4x5-master-uk-1788954904647.jpg",
-    "published_at": "2026-09-09T13:10:10.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-elder-scrolls-v-skyrim",
-    "game_label": "The Elder Scrolls V: Skyrim"
-  },
-  {
-    "id": "73d44a696771",
-    "slug": "arc-raiders-update-lays-the-foundation-for-frozen-trail-content",
-    "headline": "ARC Raiders Update Lays The Foundation for Frozen Trail Content",
-    "summary": "Embark Studios releases its final live service patch before the launch of the Frozen Trail update for ARC Raiders, adding new content and much more.",
-    "category": "patches",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/arc-raiders-update-september-8-patch-notes/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/arc-raiders-shani-mountain-quest.jpg",
-    "published_at": "2026-09-09T13:08:32.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "377f7b549eb9",
-    "slug": "marvel-rivals-breaks-its-17-month-streak-of-adding-2-heroes-per-season",
-    "headline": " Marvel Rivals breaks its 17 month streak of adding 2 heroes per season, but its creative director reassures fans it's not 'the new normal' ",
-    "summary": "Season 10 brings one hero, two new game modes, and masses of balance changes.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-breaks-its-17-month-streak-of-adding-2-heroes-per-season-but-its-creative-director-reassures-fans-its-not-the-new-normal/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Ntjboe9mjYCJ7PqcNitNF7-1280-80.jpg",
-    "published_at": "2026-09-09T13:06:34.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4dda958aa5bc",
-    "slug": "ubisoft-games-have-been-added-to-xboxs-disc-to-digital-feature-as-more",
-    "headline": "Ubisoft games have been added to Xbox’s disc-to-digital feature, as more titles continue to support the service",
-    "summary": "Xbox says it was \"starting with thousands of titles\" with more to come",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/ubisoft-games-have-been-added-to-xboxs-disc-to-digital-feature-as-more-titles-continue-to-support-the-service/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/4dda958aa5bc/800/600",
-    "published_at": "2026-09-09T13:03:17.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6b4cc6769047",
-    "slug": "the-blood-of-dawnwalker-sequel-officially-in-the-works",
-    "headline": "The Blood of Dawnwalker Sequel Officially in the Works",
-    "summary": "The Blood of Dawnwalker developer Rebel Wolves confirms it has taken the earliest steps in making a sequel.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/blood-dawnwalker-2-sequel-after-reviews-sales/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/blood-of-dawnwalker-main-image-1920x1080.jpg",
-    "published_at": "2026-09-09T13:01:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c54d9fd572b2",
-    "slug": "the-legend-of-zelda-ocarina-of-time-remake-preorders-are-finally-live",
-    "headline": "The Legend of Zelda: Ocarina of Time Remake Preorders Are Finally Live in the UK",
-    "summary": "Preorders for The Legend of Zelda: Ocarina of Time Remake are now live in the UK on Nintendo Switch 2, featuring exclusive bonuses and a textured foil sleeve.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/zelda-ocarina-of-time-remake-uk-preorders"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-amiibo-are-up-for-preorder"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/09/the-legend-of-zelda-ocarina-of-time-preorders-uk-1788952093648.png",
-    "published_at": "2026-09-09T13:00:47.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "712ee8ccbbe4",
-    "slug": "1900-blizzard-developers-just-won-a-union-contract-full-of-protections",
-    "headline": "1,900 Blizzard Developers Just Won A Union Contract Full Of Protections For AI, Layoffs, And More",
-    "summary": "Blizzard's many disparate unions are also being condensed into three groups for ease of future bargaining",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/blizzard-workers-union-contract-microsoft-2000732422"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/GettyImages-1184930386-1280x720.jpg",
-    "published_at": "2026-09-09T13:00:39.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f3b728c8cf27",
-    "slug": "introducing-no-mans-sky-cosmos-update-live-on-ps5-today",
-    "headline": "Introducing No Man’s Sky: Cosmos update, live on PS5 today",
-    "summary": "Hello, it has been ten years now since the release of No Man’s Sky, and we wanted to do something special to mark the moment. The Cosmos update brings a massive overhaul to space itself and is free to download for existing PlayStation players today, and it’s a massive one. Space is such a huge […]",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "PlayStation Blog",
-        "url": "https://blog.playstation.com/2026/09/09/introducing-no-mans-sky-cosmos-update-live-on-ps5-today/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/f3b728c8cf27/800/600",
-    "published_at": "2026-09-09T13:00:28.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a4ac7d11c385",
-    "slug": "age-twisters-devs-say-casual-and-hardcore-players-can-have-fun-togethe",
-    "headline": "Age Twisters Devs Say Casual And Hardcore Players Can “Have Fun Together”",
-    "summary": "Age Twisters’ developers explain how the characters’ different ages shape their abilities and the game’s wider adventure.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/age-twisters-gamescom-interview-humour-ageing/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/the-two-main-characters-of-age-twisters-looking-around-a-corner.jpg",
-    "published_at": "2026-09-09T13:00:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "43779997ce9a",
-    "slug": "cygames-unveils-new-edge-in-game-development",
-    "headline": "Cygames Unveils New Edge in Game Development",
-    "summary": "Cygames is shifting focus to smaller-scale projects under a new brand, aiming to avoid AAA expectations.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "mobile",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/cygames-new-cygamesedge-strategy-is-an-incredibly-intriguing-move-that-could-help-escape-the-aaa-expectations-trap-japanese-industry-veterans-say/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/43779997ce9a/800/600",
-    "published_at": "2026-09-09T13:00:00.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1bf8a6fe26d3",
-    "slug": "no-mans-sky-evolves-yet-again-overhauling-space-in-another-huge-free-u",
-    "headline": "No Man's Sky Evolves Yet Again, Overhauling Space in Another Huge Free Update",
-    "summary": "Available today.\nHello Games has just unveiled its latest game-changing update for No Man's Sky, available to all players from today.\nEntitled 'Cosmos', this free update to the space exploration and survival game focuses on, well, space, making significant additions that once again expand how you'll play.\nRead the full article on pushsquare.com",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/no-mans-sky-evolves-yet-again-overhauling-space-in-another-huge-free-update"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/b2b108bef783e/large.jpg",
-    "published_at": "2026-09-09T13:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b898900a8efe",
-    "slug": "should-you-start-a-new-character-and-world-for-valheim-10",
-    "headline": " Should you start a new character and world for Valheim 1.0? ",
-    "summary": "Advice from the developers and PC Gamer on how to play the completed version of Valheim.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/survival-crafting/should-you-start-a-new-character-and-world-for-valheim-1-0/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/VnTNurpKXHFpdCFLduvmaV-1280-80.jpg",
-    "published_at": "2026-09-09T13:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "eb21c7723758",
-    "slug": "2045-days-later-valheims-10-launch-proves-its-scope-for-epic-journeys",
-    "headline": " 2,045 days later, Valheim's 1.0 launch proves its scope for epic journeys is still unbeatable ",
-    "summary": "Valheim and poetry have more in common than you think",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/survival/2-045-days-later-valheims-1-0-launch-proves-its-scope-for-epic-journeys-is-still-unbeatable/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/JX5jVx7BqEPW6mkR9WRrH8-1280-80.jpg",
-    "published_at": "2026-09-09T13:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cf313b7a68a7",
-    "slug": "light-no-fire-shows-signs-of-life-hello-games-says-no-mans-sky-cosmos",
-    "headline": " Light No Fire shows signs of life: Hello Games says No Man's Sky Cosmos update uses shared tech, teases \"alliances of tens of thousands of players\" ",
-    "summary": "\"All of this is tech we get to test now\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/survival/light-no-fire-shows-signs-of-life-hello-games-says-no-mans-sky-cosmos-update-uses-shared-tech-teases-alliances-of-tens-of-thousands-of-players/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/J4BD6K6xu6mrTUtm7aRyF7-1280-80.jpg",
-    "published_at": "2026-09-09T13:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e6cf4bca843e",
-    "slug": "resident-evil-movie-director-reacts-to-backlash-says-he-was-naive-to-t",
-    "headline": "Resident Evil Movie Director Reacts To Backlash, Says He Was “Naive” To Think Gamers Would Embrace Him",
-    "summary": "One of the talking points surrounding the upcoming Resident Evil movie is that director Zach Cregger took an original idea and slapped the Resident Evil name on it. That's not true, Cregger has said, and now he's shared more of his thought process as it relates to some of the blowback from fans of the games. He told IGN that,…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/resident-evil-movie-director-reacts-to-backlash-says-he-was-naive-to-think-gamers-would-embrace-him/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-8.21.45-AM.png?w=300",
-    "published_at": "2026-09-09T12:40:44.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ec2de706852e",
-    "slug": "new-wizardry-game-on-steam-has-serious-harry-potter-hogwarts-legacy-vi",
-    "headline": "New Wizardry Game on Steam Has Serious Harry Potter, Hogwarts Legacy Vibes",
-    "summary": "A brand-new Steam game is all about magic and spells, and it features a wizarding school that looks a lot like Harry Potter's Hogwarts.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/new-steam-games-like-hogwarts-legacy-hemlotrion/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/steam-new-harry-potter-hogwarts-legacy-like-game-hemlotrion-broken-mirror-gamerant-1.jpg",
-    "published_at": "2026-09-09T12:30:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2e18d10fecd1",
-    "slug": "nomori-launches-september-23",
-    "headline": "Nomori launches September 23",
-    "summary": "Puzzle adventure game Nomori will launch for Xbox Series, Xbox One, and PC via Steam …",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/nomori-launches-september-23"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/2e18d10fecd1/800/600",
-    "published_at": "2026-09-09T12:30:09.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4e904c6d1233",
-    "slug": "zombiepunk-action-rpg-stupid-never-dies-is-a-vibrant-feast-for-the-eye",
-    "headline": "Zombiepunk action RPG Stupid Never Dies is a vibrant feast for the eyes, ears, hands and teeth, even if it is a smidge overwhelming",
-    "summary": "Stupid Never Dies is a vibrant feast for the eyes, ears and hands, and I don't even mean all the biting our punk boy Davy gets up to It's hard to know where to start when talking about Stupid Never Dies. An action RPG built on style, excess and punk ideology. I mean, within the first minutes of my demo…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/zombiepunk-action-rpg-stupid-never-dies-is-a-vibrant-feast-for-the-eyes-ears-hands-and-teeth-even-if-it-is-a-smidge-overwhelming"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/image_CcIsuXG.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-09T12:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "bafb67ff9301",
-    "slug": "dead-or-alive-6-last-round-dlc-character-minato-launches-september-10",
-    "headline": "DEAD OR ALIVE 6 Last Round DLC character Minato launches September 10",
-    "summary": "DEAD OR ALIVE 6 Last Round downloadable content character Minato, an original new fighter first …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/dead-or-alive-6-last-round-dlc-character-minato-launches-september-10"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/bafb67ff9301/800/600",
-    "published_at": "2026-09-09T12:19:11.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c6b4187e0ae1",
-    "slug": "the-division-2s-new-echoes-of-central-park-dlc-isnt-setup-for-the-divi",
-    "headline": "The Division 2's New Echoes of Central Park DLC Isn't Setup for The Division 3",
-    "summary": "Echoes of Central Park, the upcoming DLC for The Division 2, brings the series to a brand-new location, its director told Polygon in a new interview.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/division-2-echoes-central-park-interview/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/embargoed_the_division_2_echoes_of_central_park_keyart.jpg",
-    "published_at": "2026-09-09T12:00:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e1b6429f522b",
-    "slug": "introducing-dead-or-alive-6-last-rounds-new-fighter-minato",
-    "headline": "Introducing Dead or Alive 6 Last Round’s new fighter, Minato",
-    "summary": "When we launched Dead or Alive 6 Last Round back in June, we promised that the game’s launch was just the beginning. Tomorrow, the next evolution of the title begins as we introduce the highly anticipated new character, Minato, into the mix. We can’t wait to see what everyone thinks of the new character once […]",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PlayStation Blog",
-        "url": "https://blog.playstation.com/2026/09/09/introducing-dead-or-alive-6-last-rounds-new-fighter-minato/"
-      }
-    ],
-    "image_url": "https://blog.playstation.com/uploads/2026/09/053a9508586fb817a996a875cb591849dd0e6b3e.mp4",
-    "published_at": "2026-09-09T12:00:06.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a28829aa0538",
-    "slug": "gundam-rogue-orbit-is-designed-for-action-gamers-aiming-to-lower-the-b",
-    "headline": "Gundam Rogue Orbit is designed for “action gamers,” aiming to lower the barrier to entry created by Gundam’s decades of past shows, devs say",
-    "summary": "Gundam Rogue Orbit launches March 5, 2027 for PC (Steam), PS5, and Xbox Series X|S.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/gundam-rogue-orbit-is-designed-for-action-gamers-aiming-to-lower-the-barrier-to-entry-created-by-gundams-decades-of-past-shows-devs-say/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a28829aa0538/800/600",
-    "published_at": "2026-09-09T12:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ac751773ca0a",
-    "slug": "ramen-launches-aura-10-ai-development-agent-for-game-developers",
-    "headline": "Ramen Launches Aura 1.0 AI Development Agent for Game Developers",
-    "summary": "Ramen has released Aura 1.0, an AI-powered tool designed to assist game developers in Unity and Unreal Engine projects.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/ramen-launches-aura-1-0-to-push-agentic-ai-in-game-development/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/ac751773ca0a/800/600",
-    "published_at": "2026-09-09T12:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "aura-10",
-    "game_label": "Aura 1.0"
-  },
-  {
-    "id": "c5167b323d0a",
-    "slug": "twitchs-state-of-gaming-2026-report-reveals-growing-interest-in-indie",
-    "headline": "Twitch's State of Gaming 2026 Report Reveals Growing Interest in Indie and Horror Games",
-    "summary": "Twitch's first-ever State of Gaming report highlights gamers' evolving preferences, with a growing interest in indie and horror games.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/twitchs-state-of-gaming-2026-report-shows-growing-interest-in-indies-horror-games-exclusive/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/c5167b323d0a/800/600",
-    "published_at": "2026-09-09T12:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7a5a8f04fc64",
-    "slug": "spoilers-for-three-upcoming-xbox-first-party-titles-revealed-in-massiv",
-    "headline": "Spoilers For Three Upcoming Xbox First-Party Titles Revealed In Massive Achievement List Leak",
-    "summary": "Fable, Gears of War: E-Day, and many more... Spoilers for some major Xbox titles, the existence of unannounced games, and a whole bunch of other big-name games have been spotted online due to an achievements list leak from PC storefront Steam. Exophase, a website used for tracking achievements/trophies, published an extensive list of Steam achievements for games that shouldn't be…",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/spoilers-for-three-upcoming-xbox-first-party-titles-revealed-in-massive-achievement-list-leak"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/eebfcdc247f7e/large.jpg",
-    "published_at": "2026-09-09T12:00:00.000Z",
-    "hype_signal": 95,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
