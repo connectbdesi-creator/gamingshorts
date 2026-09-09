@@ -9376,5 +9376,82 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-09T14:38:41.849Z"
+  },
+  {
+    "slug": "legend-of-zelda-tears-of-the-kingdom",
+    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/556/55684bfd048706f4266d331d70050b37.jpg",
+    "released": "2023-05-12",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/51f/51f7928a2630fc4bbb3dac59b8f31448.jpg",
+      "https://media.rawg.io/media/screenshots/104/10431d15726ed2593401cc70e2115a82.jpg",
+      "https://media.rawg.io/media/screenshots/c0d/c0dafd15ec182acab8f5879665eaa642.jpg",
+      "https://media.rawg.io/media/screenshots/725/725dbbf72f15a32f418a42d2e8ac8b25.jpg",
+      "https://media.rawg.io/media/screenshots/c63/c63fda6df2574a7d071f96082438e820.jpg",
+      "https://media.rawg.io/media/screenshots/c92/c92c2acf519b3dc613c0f0085cc34b34.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-09T16:39:34.665Z"
+  },
+  {
+    "slug": "super-smash-bros",
+    "name": "Super Smash Bros. (1999)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/e56/e56d68182f04f90a31068da55ba91ee4.jpg",
+    "released": "1999-01-21",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "platforms": [
+      "Nintendo 64"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/463/46311021206b7a3d5a03f00a0091657c.jpg",
+      "https://media.rawg.io/media/screenshots/6c8/6c876d177b0b7d3bea918f8aa009a40e.jpg",
+      "https://media.rawg.io/media/screenshots/686/6861ea49c329d3616bc4dbb4f0f97467.jpg",
+      "https://media.rawg.io/media/screenshots/28a/28a97f7333a2e8b5149cebfe8d7aacf6.jpg",
+      "https://media.rawg.io/media/screenshots/864/864d64b34f282ce35b41d8410b67c6de.jpg",
+      "https://media.rawg.io/media/screenshots/a75/a75f7807abf80594edd0b41d2c2ef97b.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-09T16:39:35.284Z"
+  },
+  {
+    "slug": "star-fox",
+    "name": "Star Fox (1993)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/618/61863759abf17a7f94fa6ededb6f178b.jpg",
+    "released": "1993-02-21",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "SNES"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/671/6719b69315712bebdf50cf60e486ca94.jpg",
+      "https://media.rawg.io/media/screenshots/cfc/cfce14ad0c78d088c917da7fca294047.jpg",
+      "https://media.rawg.io/media/screenshots/60b/60b8e4e5282d529a04d3fe1a496586c9.jpg",
+      "https://media.rawg.io/media/screenshots/2de/2de12c5bdcec08fea0d66fdf7b835840.jpg",
+      "https://media.rawg.io/media/screenshots/c0f/c0f8478c92cad1d85a321582da39ed14.jpg",
+      "https://media.rawg.io/media/screenshots/0b2/0b2e91a667a5316e7e093addb63ce3f6.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-09T16:39:35.767Z"
   }
 ]
