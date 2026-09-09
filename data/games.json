@@ -9021,5 +9021,186 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-09T07:36:51.793Z"
+  },
+  {
+    "slug": "the-house-before",
+    "name": "The House Before",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/11b/11b89c4c459bd7f8bb118907bcb96af0.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Adventure"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/96e/96eeb2f92f3c7baf376654bbdfd0dcf3.jpg",
+      "https://media.rawg.io/media/screenshots/573/57331523e9439073d9475926be075051.jpg",
+      "https://media.rawg.io/media/screenshots/075/0753c9408e8d772cf0a3ad0705eb6ec1.jpg",
+      "https://media.rawg.io/media/screenshots/085/08589d0a674dd5a1d339be7ce3d3e3bd.jpg",
+      "https://media.rawg.io/media/screenshots/5b5/5b5d759bdaf64d973a5fa8256dde20f9.jpg",
+      "https://media.rawg.io/media/screenshots/11b/11b89c4c459bd7f8bb118907bcb96af0.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-09T11:40:04.123Z"
+  },
+  {
+    "slug": "pokemon-sword-and-shield",
+    "name": "Pokémon Sword and Shield",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/82f/82f7b1424c5ee7eebee83faf694889c5.jpg",
+    "released": "2019-11-15",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a4c/a4c6d591c61e6cc9fc67581fceab23ad.jpg",
+      "https://media.rawg.io/media/screenshots/2cd/2cdf0d6a8790d91d72eed926e384f1c4.jpg",
+      "https://media.rawg.io/media/screenshots/559/55927d65a4031ecae28e9ac71cf5c5e9.jpg",
+      "https://media.rawg.io/media/screenshots/e4a/e4a2de9c02ddded2c830fd5444faf325.jpg",
+      "https://media.rawg.io/media/screenshots/192/192a7443982f5955ad00825df34f7e55.jpg",
+      "https://media.rawg.io/media/screenshots/909/90931d3bee95e95873b2709c684a3db3.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-09T11:40:04.973Z"
+  },
+  {
+    "slug": "no-more-room-in-hell-2",
+    "name": "No More Room in Hell 2",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/2be/2becec8c6b634125115092e84f6ac2a8.jpg",
+    "released": "2024-10-22",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Action"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/3b5/3b5560f7fe0cea1422294eea3f756a85.jpg",
+      "https://media.rawg.io/media/screenshots/14a/14a135b49778749a7c7ec84b1adc691d.jpg",
+      "https://media.rawg.io/media/screenshots/44d/44df904432d5b201e2fe6fde1f1156ef.jpg",
+      "https://media.rawg.io/media/screenshots/89e/89ef5cc6408077cdd2fc4468d5b7d896.jpg",
+      "https://media.rawg.io/media/screenshots/760/7601e12ba738ef1b60657e8a5df4070b.jpg",
+      "https://media.rawg.io/media/screenshots/2d7/2d7cf11dc95ac424ba8f6f0a35d6c5c4.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-09T11:40:06.097Z"
+  },
+  {
+    "slug": "marvels-avengers",
+    "name": "Marvel’s Avengers",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/1eb/1ebef06e55f756974654c35b9aedb127.jpg",
+    "released": "2020-09-04",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/4ac/4acc4d34369202d8c8a6548b43d05543.jpg",
+      "https://media.rawg.io/media/screenshots/fc6/fc6f0751e7ebd4f7440df3470b457fff.jpg",
+      "https://media.rawg.io/media/screenshots/f6d/f6d279bfbd32acaf2d2bf54708d3a5d5.jpg",
+      "https://media.rawg.io/media/screenshots/908/908ee7bb081ba676f03d99d2faf2a5bf.jpg",
+      "https://media.rawg.io/media/screenshots/2ce/2ce6d527545d044d37b4fa9d5b597feb.jpg",
+      "https://media.rawg.io/media/screenshots/45d/45dd091524f638b68693cb12e1ee6d7d.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-09T11:40:06.904Z"
+  },
+  {
+    "slug": "persona-6",
+    "name": "Revelations: Persona",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/dad/dadf2e08de92d8351634baf51424188a.jpg",
+    "released": "1996-09-20",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "PSP"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/47c/47c432bf64dbc084d842660c3409f4bc.jpg",
+      "https://media.rawg.io/media/screenshots/104/1049907d0c53802161055d52a1bb1699.jpg",
+      "https://media.rawg.io/media/screenshots/324/32419328b125e6ec934aa440aedd829e.jpg",
+      "https://media.rawg.io/media/screenshots/0b1/0b151760675ff67297b36596eb4b8357.jpg",
+      "https://media.rawg.io/media/screenshots/957/957ba870e8ce492122c37deefd441123.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-09T11:40:09.377Z"
+  },
+  {
+    "slug": "the-outlast-trials",
+    "name": "The Outlast Trials",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/cb7/cb79272fea3ffdba3fd48d44cc78d132.jpg",
+    "released": "2024-03-05",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a82/a8260777e12a3e68c5e1885d117a533b.jpg",
+      "https://media.rawg.io/media/screenshots/376/37667adc0fe9dd8de3761d97d5cad796.jpg",
+      "https://media.rawg.io/media/screenshots/332/332bc49a5f65ea47de8f20bcda80cf7b.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-09T11:40:10.281Z"
+  },
+  {
+    "slug": "ubisoft",
+    "name": "Ubisoft NEXT Level Design - 2022",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/5ee/5eee5332a5e2d03d4a26a6625e7f8c10.jpg",
+    "released": "2022-09-30",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/5ee/5eee5332a5e2d03d4a26a6625e7f8c10.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-09T11:40:11.155Z"
   }
 ]
