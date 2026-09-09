@@ -8942,5 +8942,84 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-09T03:36:42.667Z"
+  },
+  {
+    "slug": "kingdom-hearts-iv",
+    "name": "Kingdom Hearts IV",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/559/55921ffbe8beba576464a2c5aa4fdf1f.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/62b/62b04b9312814459d825faa004ab3820.jpg",
+      "https://media.rawg.io/media/screenshots/f62/f629e38cc8f2a37d56265e983eae230c.jpg",
+      "https://media.rawg.io/media/screenshots/e5a/e5a1307b13483968c2d13b740abc1793.jpg",
+      "https://media.rawg.io/media/screenshots/494/49476fd1eeb594c7eb0dc441da0b26c6_0aRXtCM.jpg",
+      "https://media.rawg.io/media/screenshots/7c0/7c05524d81cac77d048f8cc445e21677.jpg",
+      "https://media.rawg.io/media/screenshots/8ce/8ce4e7bb82a54f2580d85c8be56a653c.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-09T07:36:50.471Z"
+  },
+  {
+    "slug": "nte",
+    "name": "NTE: Strike & Retrieve",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/fd7/fd7aa497f6c89982d744806af15dfbb3.jpg",
+    "released": "2005-07-19",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Arcade",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d95/d957b989e5c89229b424454ef1822f1d.jpg",
+      "https://media.rawg.io/media/screenshots/6b8/6b807399ffb9c62db927c70e71311877.jpg",
+      "https://media.rawg.io/media/screenshots/042/0422d008125b3407835c90499e1ab026.jpg",
+      "https://media.rawg.io/media/screenshots/f59/f590e76dd81934348f113b8555ed066f.jpg",
+      "https://media.rawg.io/media/screenshots/357/35762bcc6df81f1f6bc8fec55a124839.jpg",
+      "https://media.rawg.io/media/screenshots/cde/cde10cb63db166e452016f79ab9e86ff.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-09T07:36:51.036Z"
+  },
+  {
+    "slug": "dave-the-diver",
+    "name": "Dave the Diver",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/1ee/1eec43616e3ff00a674124d746926b23.jpg",
+    "released": "2023-06-28",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "RPG",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/ea2/ea2ba5801d2908fa37f8f5361354b70a.jpg",
+      "https://media.rawg.io/media/screenshots/034/034104be340001cadf8383f2139589e9.jpg",
+      "https://media.rawg.io/media/screenshots/4b5/4b5b8231dfb8c978724b7c8ebf179d7f.jpg",
+      "https://media.rawg.io/media/screenshots/5f1/5f1f5c8f92a9e34ebee4b6a2cb9b4acb.jpg",
+      "https://media.rawg.io/media/screenshots/b94/b94fc536f3402a1ce8284071daa58976.jpg",
+      "https://media.rawg.io/media/screenshots/95c/95c1ce76ca78441c39c815a4175997a9.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-09T07:36:51.793Z"
   }
 ]
