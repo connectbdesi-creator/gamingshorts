@@ -9269,5 +9269,112 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-09T14:07:50.622Z"
+  },
+  {
+    "slug": "resident-evil-2-3-and-4",
+    "name": "Resident Evil 4",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/51a/51a404b9918a0b19fc704a3ca248c69f.jpg",
+    "released": "2023-03-24",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "iOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/26c/26c298b0426461ebbca4a17d14a8c87b.jpg",
+      "https://media.rawg.io/media/screenshots/33d/33dbe045a82988878cd865b80fcc6269.jpg",
+      "https://media.rawg.io/media/screenshots/cdd/cdd81f8b87c0352e20ab9f8eefba7ddb.jpg",
+      "https://media.rawg.io/media/screenshots/a73/a739f3814e9d57228bd6cdd406012911.jpg",
+      "https://media.rawg.io/media/screenshots/44a/44a9d54fefbef2e21e6b3b8c1c54546b.jpg",
+      "https://media.rawg.io/media/screenshots/d55/d55e1c4da132fb3de2138586f1b75848.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-09T14:38:38.413Z"
+  },
+  {
+    "slug": "star-fox-adventures",
+    "name": "Star Fox Adventures",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/502/502b0f95b25a373e9674856beb678fcd.jpg",
+    "released": "2002-09-23",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "GameCube"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/9e3/9e34475c95f014d1ec5f3f237ec81b37.jpg",
+      "https://media.rawg.io/media/screenshots/059/05983ac59435118394de300b7e70d0ee.jpg",
+      "https://media.rawg.io/media/screenshots/e5e/e5eda804a75e90451df3d5fbacd8def2.jpg",
+      "https://media.rawg.io/media/screenshots/2be/2be4be2d4b25c447109bc1e37d44dca4.jpg",
+      "https://media.rawg.io/media/screenshots/0ec/0ecf27ac96c9162b11575d9697c198fd.jpg",
+      "https://media.rawg.io/media/screenshots/fb8/fb8bb86539e891188e487a1214bc3f6d.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-09T14:38:39.074Z"
+  },
+  {
+    "slug": "monster-hunter-wilds",
+    "name": "Monster Hunter Wilds",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/91b/91b4edd8fecf88b2b5ca0752321382ee.jpg",
+    "released": "2025-02-27",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/ec9/ec90763ad76a7cd2e5ab9eefb418af60.jpg",
+      "https://media.rawg.io/media/screenshots/546/546ef773017e74dc4b245d3d60a0710c.jpg",
+      "https://media.rawg.io/media/screenshots/1f7/1f7d5735774b1e1af0d0dc0a13cfde18.jpg",
+      "https://media.rawg.io/media/screenshots/abd/abdc1c59c9dcabdb1755207fe65957a9.jpg",
+      "https://media.rawg.io/media/screenshots/3f4/3f474a88f4ee5134d772171501008c02.jpg",
+      "https://media.rawg.io/media/screenshots/2a0/2a0f6370092c3ea3005f3838575ccffc.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-09T14:38:40.048Z"
+  },
+  {
+    "slug": "aura-10",
+    "name": "AURA [V.1.0]",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/b14/b1412aca6171fec64b9820ebbd26ef9c.jpg",
+    "released": "2021-03-14",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/b14/b1412aca6171fec64b9820ebbd26ef9c.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-09T14:38:41.849Z"
   }
 ]
