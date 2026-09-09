@@ -9453,5 +9453,51 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-09T16:39:35.767Z"
+  },
+  {
+    "slug": "3d-mario",
+    "name": "3d mario",
+    "description": null,
+    "background_image": null,
+    "released": "2022-05-28",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [],
+    "stores": [],
+    "fetched_at": "2026-09-09T17:07:57.638Z"
+  },
+  {
+    "slug": "sunset-overdrive",
+    "name": "Sunset Overdrive",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/c2e/c2eb6021a2596644b437e943612af25c.jpg",
+    "released": "2014-10-28",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/eed/eed52d90c4e5f3998e968ed19ff501b5.jpg",
+      "https://media.rawg.io/media/screenshots/def/def81c60a54ad7448f30fab2c3a6d0f5.jpg",
+      "https://media.rawg.io/media/screenshots/cd6/cd60c74ec29b7d1e73e8aa15a4f237c6.jpg",
+      "https://media.rawg.io/media/screenshots/33e/33ec02c0a55fbd2c96ceae8f4c549a1f.jpg",
+      "https://media.rawg.io/media/screenshots/4b3/4b3a4eeebecc7b9d00812ff3e19aa202.jpg",
+      "https://media.rawg.io/media/screenshots/36d/36d0ccb00e7c101323da9274ea77a2ab.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-09T17:07:58.174Z"
   }
 ]
