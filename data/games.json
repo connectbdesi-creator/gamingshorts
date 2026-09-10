@@ -9745,5 +9745,56 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-09T23:52:46.366Z"
+  },
+  {
+    "slug": "donkey-kong-country",
+    "name": "Donkey Kong Country",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/6df/6df71f3ff0f6d6bbac306cb9adf935ee.jpg",
+    "released": "1994-11-21",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Platformer"
+    ],
+    "platforms": [
+      "Nintendo 3DS",
+      "Wii U",
+      "Wii",
+      "Game Boy Advance",
+      "Game Boy Color",
+      "SNES"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/3be/3bee03c9032836dae23167117b41ef4e.jpg",
+      "https://media.rawg.io/media/screenshots/790/790f994d1449b05d62fc3be7a4428ac6.jpg",
+      "https://media.rawg.io/media/screenshots/5c5/5c5d90b47919f7b1227a482d9bf81d95.jpg",
+      "https://media.rawg.io/media/screenshots/7c0/7c043c45193f960895c7042e67e7ae42.jpg",
+      "https://media.rawg.io/media/screenshots/97c/97c7824121f67e8080be87ad188b78ce.jpg",
+      "https://media.rawg.io/media/screenshots/c55/c557452321099d3dfdca4f979991a74a.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-10T01:52:21.763Z"
+  },
+  {
+    "slug": "mario-kart-world",
+    "name": "Mario Kart World",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/1b8/1b8e007c36040ae1f5762a62ba2faeab.jpg",
+    "released": "2025-06-05",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Racing",
+      "Action"
+    ],
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/512/51286a59a16ca438727b467a73cd2400.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-10T01:52:22.261Z"
   }
 ]

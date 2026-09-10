@@ -1,5 +1,331 @@
 [
   {
+    "id": "0bbe856a416a",
+    "slug": "sameowrai-silverwing-stray-to-be-published-by-happinet",
+    "headline": "Sa[meow]rai: Silverwing Stray to be published by Happinet",
+    "summary": "Happinet will publish Gou Hong Studio-developed top-down action adventure game Sa[meow]rai: Silverwing Stray when it …",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/sameowrai-silverwing-stray-to-be-published-by-happinet"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/0bbe856a416a/800/600",
+    "published_at": "2026-09-10T01:43:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "11e1e1a33a5b",
+    "slug": "navinoasuke-the-yo-kai-buster-launches-in-2027-for-switch-and-pc",
+    "headline": "Navinoasuke: The Yo-kai Buster Launches in 2027 for Switch and PC",
+    "summary": "A pixel art yo-kai collection RPG titled Navinoasuke: The Yo-kai Buster is set to launch for the Nintendo Switch and PC in 2027.",
+    "category": "releases",
+    "platform_tags": [
+      "switch",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/navinosuke-the-yo-kai-buster-launches-in-2027-for-switch-pc"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/11e1e1a33a5b/800/600",
+    "published_at": "2026-09-10T01:42:52.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "navinoasuke-the-yo-kai-buster",
+    "game_label": "Navinoasuke: The Yo-kai Buster"
+  },
+  {
+    "id": "ce20f3cd4300",
+    "slug": "sunsoft-is-back-retro-game-selection-2-announced-for-ps5-switch-and-pc",
+    "headline": "SUNSOFT is Back! Retro Game Selection 2 announced for PS5, Switch, and PC",
+    "summary": "SUNSOFT has announced a new retro game compilation for PS5, Switch, and PC titled SUNSOFT is Back! Retro Game Selection 2.",
+    "category": "releases",
+    "platform_tags": [
+      "switch",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/sunsoft-is-back-retro-game-selection-2-announced-for-ps5-switch-and-pc"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/ce20f3cd4300/800/600",
+    "published_at": "2026-09-10T01:19:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "sunsoft-is-back-retro-game-selection-2",
+    "game_label": "SUNSOFT is Back! Retro Game Selection 2"
+  },
+  {
+    "id": "fffa34c08d83",
+    "slug": "new-ps5-game-is-like-it-takes-two-but-you-play-as-cats",
+    "headline": "New PS5 Game is Like It Takes Two, But You Play as Cats",
+    "summary": "A new PS5 game promises co-op fun similar to It Takes Two, but with a feline twist. Gameplay details are scarce, but the game appears to feature cooperative play between cat characters.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/ps5-co-op-games-like-it-takes-two-missing-tail/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/the-missing-tail-castle.jpg",
+    "published_at": "2026-09-10T01:00:13.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c1b5debe7204",
+    "slug": "metroid-ravenous-revealed-with-price-and-box-art",
+    "headline": "Metroid Ravenous Revealed with Price and Box Art",
+    "summary": "Nintendo has released the box art and price for the upcoming Metroid game, Metroid Ravenous, which is priced at £49.99 and $59.99.",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/metroid-ravenous-price-and-box-art-revealed"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/metroid-ravenous-switch-2-estimated-file-size-revealed"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/d460443240927/large.jpg",
+    "published_at": "2026-09-10T00:55:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "metroid-ravenous",
+    "game_label": "Metroid Ravenous"
+  },
+  {
+    "id": "41c0dbfbf7b4",
+    "slug": "blood-of-dawnwalker-quest-guide-finding-the-missing-daughter",
+    "headline": "Blood of Dawnwalker Quest Guide: Finding the Missing Daughter",
+    "summary": "In Blood of Dawnwalker, Coen must find the Armorer's missing daughter in a nearby forest to complete the Star-Crossed Lovers quest.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/blood-of-dawnwalker-star-crossed-lovers-armorers-daughter-location/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/star-crossed-lovers-quest-guide-blood-of-dawnwalker.jpg",
+    "published_at": "2026-09-10T00:46:55.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "blood-of-dawnwalker",
+    "game_label": "Blood of Dawnwalker"
+  },
+  {
+    "id": "caf4b7bf3297",
+    "slug": "the-25-best-games-on-xbox-game-pass-in-2026",
+    "headline": "The 25 Best Games on Xbox Game Pass in 2026",
+    "summary": "The best games on Game Pass Ultimate, Premium, and Essential across Xbox console and PC",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/best-game-pass-games/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/denshattack.jpg",
+    "published_at": "2026-09-10T00:38:19.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "65362b5f78a6",
+    "slug": "all-items-in-halloween-the-game-what-they-do",
+    "headline": "All Items in Halloween: The Game (& What They Do)",
+    "summary": "Halloween: The Game has a bunch of items for players to find and use, like the Ancient Amulet, Brass Lantern, and more. Here is a guide to all items.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/halloween-the-game-all-items-effects-what-they-do/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/all-items-in-halloween-the-game-what-they-do.jpg",
+    "published_at": "2026-09-10T00:35:27.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ebd1a9182f27",
+    "slug": "game-of-thrones-is-officially-bringing-back-daenerys-targaryen",
+    "headline": "Game of Thrones Is Officially Bringing Back Daenerys Targaryen",
+    "summary": "The Mother of Dragons is returning... but with a twist.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/game-of-thrones-war-for-westeros-trailer-daenerys-targaryen/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/16293663/game_of_thrones.jpg",
+    "published_at": "2026-09-10T00:30:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "465cbad1c64a",
+    "slug": "collector-believes-pokemon-will-endure-even-in-a-post-apocalyptic-worl",
+    "headline": "Collector Believes Pokemon Will Endure Even in a Post-Apocalyptic World",
+    "summary": "Peter Levin, co-founder of Griffin Gaming Partners, thinks Pokémon's popularity will continue even in a world-ending scenario, citing its global phenomenon status.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/investor-accidentally-pitches-kickass-pokemon-apocalypse-movie/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/original/1850/18507742/4601905-pokemon_pokopia_screenshot_13.jpeg?w=300",
+    "published_at": "2026-09-10T00:09:28.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5c326836f4f8",
+    "slug": "rare-snes-game-that-inspired-banjo-kazooie-preserved-thanks-to-leaker",
+    "headline": "Rare SNES game that inspired Banjo-Kazooie preserved thanks to leaker",
+    "summary": "A Rare SNES game has been preserved due to a leaker's actions, with the game being a notable inspiration for the popular Banjo-Kazooie series.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/rpg/the-rare-snes-game-that-became-banjo-kazooie-has-been-preserved-thanks-to-a-leaker-who-wants-you-to-delete-microsoft-and-sony-from-your-lives/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/6Z6YfyCdqzSRv7bEqqksmb-1280-80.jpg",
+    "published_at": "2026-09-10T00:07:51.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "donkey-kong-country",
+    "game_label": "Donkey Kong Country"
+  },
+  {
+    "id": "805e6fc7ea1d",
+    "slug": "when-does-wardogs-early-access-release",
+    "headline": "When Does Wardogs Early Access Release",
+    "summary": "After a series of successful beta tests, Wardogs is finally ready for its first public release.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/wardogs-global-release-times-schedule-info/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/8bxdtpmyfkdktkxbkbqcix-1920-80.jpg",
+    "published_at": "2026-09-09T23:58:55.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6a367c4ea688",
+    "slug": "mario-kart-world-update-released-with-new-classic-circuits-and-knockou",
+    "headline": "Mario Kart World Update Released with New Classic Circuits and Knockout Tours",
+    "summary": "Nintendo has released a free update for Mario Kart World, adding 10 classic Super Mario Kart circuits and two new Knockout Tours, bringing the game to version 1.8.0.",
+    "category": "patches",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/mario-kart-world-has-been-updated-to-version-1-8-0-here-are-the-full-patch-notes"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/4b09e62fd3094/large.jpg",
+    "published_at": "2026-09-09T23:55:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "mario-kart-world",
+    "game_label": "Mario Kart World"
+  },
+  {
+    "id": "3e7bbbc5c283",
+    "slug": "igda-foundations-download-for-charity-steam-event-to-return-in-may-202",
+    "headline": "IGDA Foundation’s ‘Download for Charity’ Steam event to return in May 2027",
+    "summary": "The International Game Developers’ Association Foundation just announced the return of its annual charity-driven Steam event, after two consecutive years. This time around, organizers...\nThe post IGDA Foundation’s ‘Download for Charity’ Steam event to return in May 2027 appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/igda-foundations-download-for-charity-steam-event-to-return-in-may-2027/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/3e7bbbc5c283/800/600",
+    "published_at": "2026-09-09T23:42:11.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "d9dad78b1f9f",
     "slug": "rares-canceled-snes-rpg-project-dream-leaked-after-fans-xbox-frustrati",
     "headline": "Rare's Canceled SNES RPG Project Dream Leaked After Fan's Xbox Frustration",
@@ -2837,29 +3163,6 @@
     "game_label": "Magic: The Gathering Reality Fracture"
   },
   {
-    "id": "c1b5debe7204",
-    "slug": "metroid-ravenous-revealed-with-price-and-box-art",
-    "headline": "Metroid Ravenous Revealed with Price and Box Art",
-    "summary": "Nintendo has released the box art and price for the upcoming Metroid game, Metroid Ravenous, which is priced at £49.99 and $59.99.",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/metroid-ravenous-price-and-box-art-revealed"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/d460443240927/large.jpg",
-    "published_at": "2026-09-09T16:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "metroid-ravenous",
-    "game_label": "Metroid Ravenous"
-  },
-  {
     "id": "146c57ef9f31",
     "slug": "all-star-tower-defense-codes",
     "headline": "All Star Tower Defense codes",
@@ -4108,6 +4411,29 @@
     "game_label": null
   },
   {
+    "id": "a231d7ebbb26",
+    "slug": "the-ascent-ultimate-edition-coming-to-switch-2-on-december-2",
+    "headline": "The Ascent Ultimate Edition coming to Switch 2 on December 2",
+    "summary": "Publisher KRAFTON and developer Neon Giant will release action shooter RPG The Ascent Ultimate Edition …",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/the-ascent-ultimate-edition-coming-to-switch-2-on-december-2"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/a231d7ebbb26/800/600",
+    "published_at": "2026-09-09T14:45:29.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "7a6d31ab2673",
     "slug": "professor-layton-debuts-on-ps5-this-december-new-world-of-steam-gets-r",
     "headline": "Professor Layton Debuts on PS5 This December, New World of Steam Gets Release Date",
@@ -4338,58 +4664,10 @@
     "game_label": null
   },
   {
-    "id": "f818fd4992f0",
-    "slug": "mario-kart-world-goes-retro-in-new-free-update-launching-today",
-    "headline": "Mario Kart World Goes Retro In New Free Update, Launching Today",
-    "summary": "Super!\nYes, you read that right, Mario Kart World is finally getting a free content update. What's more, it's arriving today!\nThis new update sees the return of 10 classic Super Mario Kart circuits on the overworld. These are complete with the flat ? blocks that you remember from the SNES.\nRead the full article on nintendolife.com",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/mario-kart-world-goes-retro-in-new-free-update-launching-today"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/9098c714e980b/large.jpg",
-    "published_at": "2026-09-09T14:40:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5766254f1318",
-    "slug": "koei-tecmo-and-gust-announce-the-apothecary-diaries-the-false-imperial",
-    "headline": "Koei Tecmo and Gust announce The Apothecary Diaries: The False Imperial Brother for PS5, Switch 2, Switch, and PC",
-    "summary": "Publisher Koei Tecmo and developer Gust, in cooperation with TOHO Games, have announced mystery solving …",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/koei-tecmo-and-gust-announce-the-apothecary-diaries-the-false-imperial-brother-for-ps5-switch-2-switch-and-pc"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/5766254f1318/800/600",
-    "published_at": "2026-09-09T14:39:48.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a6d1245f2614",
-    "slug": "romancing-saga-3-destinies-united-announced-for-ps5-xbox-series-switch",
-    "headline": "Romancing SaGa 3: Destinies United announced for PS5, Xbox Series, Switch 2, Switch, and PC",
-    "summary": "Square Enix has announced Romancing SaGa 3 remake Romancing SaGa 3: Destinies United for PlayStation …",
+    "id": "352cc5bae5b6",
+    "slug": "sonic-pico-park-launches-november-12-for-ps5-xbox-series-switch-2-swit",
+    "headline": "SONIC PICO PARK launches November 12 for PS5, Xbox Series, Switch 2, Switch, and PC",
+    "summary": "SONIC PICO PARK will launch for PlayStation 5, Xbox Series, Switch 2, Switch, and PC …",
     "category": "releases",
     "platform_tags": [
       "pc",
@@ -4400,297 +4678,11 @@
     "sources": [
       {
         "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/romancing-saga-3-destinies-united-announced-for-ps5-xbox-series-switch-2-switch-and-pc"
+        "url": "https://www.gematsu.com/2026/09/sonic-pico-park-launches-november-12-for-ps5-xbox-series-switch-2-switch-and-pc"
       }
     ],
-    "image_url": "https://picsum.photos/seed/a6d1245f2614/800/600",
-    "published_at": "2026-09-09T14:39:19.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "bc2744e4ce1e",
-    "slug": "danganronpa-22-gets-january-14-release-date",
-    "headline": "Danganronpa 2×2 gets January 14 release date",
-    "summary": "On September 9, Japanese publisher Spike Chunsoft announced that Danganronpa 2×2 will be launching on January 14, 2027. Super Danganronpa 2×2 is a remake of Danganronpa 2: Goodbye Despair, the second installment in the Danganronpa series, originally released for the PSP in 2012. In Danganronpa 2×2, not only will the original main story be remade, but the game will also…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/danganronpa-2x2-gets-january-14-release-date/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/bc2744e4ce1e/800/600",
-    "published_at": "2026-09-09T14:38:33.000Z",
-    "hype_signal": 95,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "240e4e13c8c5",
-    "slug": "yu-gi-oh-tag-force-gx-remake-announced-for-switch-and-pc",
-    "headline": "Yu-Gi-Oh! TAG FORCE GX Remake Announced for Switch and PC",
-    "summary": "Konami has announced Yu-Gi-Oh! TAG FORCE GX, a remake of the RPG card game, for Nintendo Switch and PC.",
-    "category": "releases",
-    "platform_tags": [
-      "switch",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/yu-gi-oh-tag-force-gx-announced-for-switch-2-switch-and-pc"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/240e4e13c8c5/800/600",
-    "published_at": "2026-09-09T14:38:08.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "yu-gi-oh-tag-force-gx",
-    "game_label": "Yu-Gi-Oh! TAG FORCE GX"
-  },
-  {
-    "id": "a3f0a972e35b",
-    "slug": "metal-slug-ultimate-collection-announced-for-ps5-xbox-series-switch-2",
-    "headline": "Metal Slug Ultimate Collection announced for PS5, Xbox Series, Switch 2, Switch, and PC",
-    "summary": "SNK has announced Metal Slug Ultimate Collection, a collection of 10 games in celebration of …",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/metal-slug-ultimate-collection-announced-for-ps5-xbox-series-switch-2-switch-and-pc"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a3f0a972e35b/800/600",
-    "published_at": "2026-09-09T14:37:56.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "03fd11bb6510",
-    "slug": "a-new-handheld-only-switch-2-game-is-coming-from-the-silent-hill-2-rem",
-    "headline": "A New Handheld-Only Switch 2 Game Is Coming From The Silent Hill 2 Remake Devs",
-    "summary": "Onyx: The Dark Grip was a surprise announcement at today's Nintendo Direct, especially considering it's playable only in handheld mode. A Switch 2 exclusive, the horror title comes from Bloober Team, the developer behind the Silent Hill 2 remake and Chronos: The New Dawn.\nBreaking…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/a-new-handheld-only-switch-2-game-is-coming-from-the-silent-hill-2-remake-devs/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/OnyxSwitch2.jpg?w=300",
-    "published_at": "2026-09-09T14:37:33.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c4393a9f9b88",
-    "slug": "fatal-fury-city-of-the-wolves-hits-switch-2-on-october-22",
-    "headline": "Fatal Fury: City of the Wolves Hits Switch 2 on October 22",
-    "summary": "SNK is releasing a new version of Fatal Fury: City of the Wolves on the Nintendo Switch 2, alongside downloadable characters from the anime Tokyo Revengers.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/fatal-fury-city-of-the-wolves-coming-to-switch-2-on-october-22-alongside-dlc-characters-manjiro-sano-and-ken-ryuguji-from-tokyo-revengers"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/c4393a9f9b88/800/600",
-    "published_at": "2026-09-09T14:36:16.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "fatal-fury-city-of-the-wolves",
-    "game_label": "Fatal Fury: City of the Wolves"
-  },
-  {
-    "id": "ec919b8f647a",
-    "slug": "mario-kart-world-is-getting-a-free-update-later-today",
-    "headline": "Mario Kart World Is Getting A Free Update Later Today",
-    "summary": "One of the least surprising announcements from today's Nintendo Direct.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/mario-kart-world-update-confirmed-nintendo-direct/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/mario-kart-world.jpg",
-    "published_at": "2026-09-09T14:36:12.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e4b382249928",
-    "slug": "nintendo-announces-metroid-ravenous-a-new-side-scrolling-adventure",
-    "headline": "Nintendo announces Metroid Ravenous, a new side-scrolling adventure",
-    "summary": "Samus has to feed on her enemies in this new game",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/nintendo-announces-metroid-ravenous-a-new-side-scrolling-adventure/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/e4b382249928/800/600",
-    "published_at": "2026-09-09T14:35:26.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "013e37068849",
-    "slug": "danganronpa-22-launches-january-14-2027",
-    "headline": "Danganronpa 2×2 launches January 14, 2027",
-    "summary": "Danganronpa 2×2 will launch for PlayStation 5, Xbox Series, Switch 2, Switch, and PC via …",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/danganronpa-2x2-launches-january-14-2027"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/013e37068849/800/600",
-    "published_at": "2026-09-09T14:35:24.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "753477590388",
-    "slug": "onyx-the-dark-grip-is-a-new-bloober-team-horror-game-coming-exclusivel",
-    "headline": "Onyx: The Dark Grip is a new Bloober Team horror game coming exclusively to the Nintendo Switch 2",
-    "summary": "A new horror game from Bloober Team, best known for the Silent Hill 2 Remake and Cronos: The New Dawn, has been revealed at the Nintendo Direct. It's called Onyx: The Dark Grip, and it's coming next year.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/onyx-the-dark-grip-nintendo-switch-2-reveal"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/onyx-the-dark-grip-reveal.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-09T14:35:16.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6956579b369b",
-    "slug": "metroid-ravenous-announced-for-switch-2-release-date-confirmed",
-    "headline": "Metroid Ravenous Announced For Switch 2, Release Date Confirmed",
-    "summary": "Metroid 6, baby!\nNintendo has announced Metroid Ravenous for the Switch 2, the latest mainline entry in the iconic sci-fi series.\nIt will launch on 28th January 2027. Amiibo and a special edition have also been confirmed!\nRead the full article on nintendolife.com",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/metroid-ravenous-announced-for-switch-2-release-date-confirmed"
-      },
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/metroid-ravenous-announced-for-switch-2"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/c572cd6f63ddb/large.jpg",
-    "published_at": "2026-09-09T14:35:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9340d8ff6ca3",
-    "slug": "marvelous-announces-rpg-eternal-anima-for-ps5-xbox-series-switch-2-and",
-    "headline": "Marvelous announces RPG Eternal Anima for PS5, Xbox Series, Switch 2, and PC",
-    "summary": "Marvelous has announced Eternal Anima, previously known as Project Life is RPG, a new RPG …",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/marvelous-announces-rpg-eternal-anima-for-ps5-xbox-series-switch-2-and-pc"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/9340d8ff6ca3/800/600",
-    "published_at": "2026-09-09T14:34:11.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0675a8eb6b14",
-    "slug": "metroid-ravenous-launches-in-january",
-    "headline": "Metroid Ravenous Launches In January",
-    "summary": "The next 2D Metroid game is coming very soon",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/metroid-ravenous-release-date-january-2027-nintendo-switch-2-2000732769"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/metroid-1280x713.jpg",
-    "published_at": "2026-09-09T14:34:04.000Z",
+    "image_url": "https://picsum.photos/seed/352cc5bae5b6/800/600",
+    "published_at": "2026-09-09T14:40:08.000Z",
     "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
