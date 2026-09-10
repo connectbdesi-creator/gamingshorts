@@ -9845,5 +9845,43 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-10T09:52:39.322Z"
+  },
+  {
+    "slug": "bombanana",
+    "name": "Bombanana!",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/87f/87f93fdc4f0b2a2f0f40b494ac7395ca.jpg",
+    "released": "2026-09-02",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [],
+    "screenshots": [],
+    "stores": [],
+    "fetched_at": "2026-09-10T11:54:10.046Z"
+  },
+  {
+    "slug": "spyro-a-realm-beyond",
+    "name": "Spyro: A Realm Beyond",
+    "description": null,
+    "background_image": null,
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X",
+      "Nintendo Switch"
+    ],
+    "screenshots": [],
+    "stores": [],
+    "fetched_at": "2026-09-10T11:54:11.797Z"
   }
 ]
