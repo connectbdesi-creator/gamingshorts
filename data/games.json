@@ -9796,5 +9796,54 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-10T01:52:22.261Z"
+  },
+  {
+    "slug": "banjo-kazooie",
+    "name": "Banjo-Kazooie",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/f0d/f0da831778e57b58636ccaf20a7cc6e6.jpg",
+    "released": "1998-05-31",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Platformer",
+      "Adventure",
+      "Action",
+      "Puzzle"
+    ],
+    "platforms": [
+      "Xbox One",
+      "Nintendo Switch",
+      "Xbox 360",
+      "Nintendo 64"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f65/f655eb472abd96de07157d6e8232d1bf.jpg",
+      "https://media.rawg.io/media/screenshots/587/58786e9bd531ecddb4d447667e5835df.jpg",
+      "https://media.rawg.io/media/screenshots/3b4/3b4fbfe167e6009097c62ddcc3aa908b.jpg",
+      "https://media.rawg.io/media/screenshots/65d/65d8aac1acd3cdfbc4fb015afb88b15d.jpg",
+      "https://media.rawg.io/media/screenshots/044/044ce9f375947c54e8d636c270cd17fa.jpg",
+      "https://media.rawg.io/media/screenshots/78b/78b5832c15d144cd40194936166998d1.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-10T09:52:38.651Z"
+  },
+  {
+    "slug": "nintendo-switch-2-welcome-tour",
+    "name": "Nintendo Switch 2 Welcome Tour",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/d69/d69a00c7525de9797ec3d6209f7c57f9.jpg",
+    "released": "2025-06-05",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Puzzle"
+    ],
+    "platforms": [],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d69/d69a00c7525de9797ec3d6209f7c57f9.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-10T09:52:39.322Z"
   }
 ]
