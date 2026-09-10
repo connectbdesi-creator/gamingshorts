@@ -10009,5 +10009,58 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-10T19:55:14.023Z"
+  },
+  {
+    "slug": "metal-gear",
+    "name": "Metal Gear",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/407/407b2f74d5c77ba4db91022051c64bd7.jpg",
+    "released": "1987-07-07",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "NES",
+      "Commodore / Amiga"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/130/1308bd0df76ea71c517abf3ad7b6e53d.jpg",
+      "https://media.rawg.io/media/screenshots/7c8/7c8b60accf38ad922f580b8cb31d310a.jpg",
+      "https://media.rawg.io/media/screenshots/444/4443606f271497264d9449a1611bfe73.jpg",
+      "https://media.rawg.io/media/screenshots/a6a/a6af5c93f95995c750aabf5182e51a6a.jpg",
+      "https://media.rawg.io/media/screenshots/5ce/5ce64f8ebe1355f31eefe3b45f74e62c.jpg",
+      "https://media.rawg.io/media/screenshots/351/3515b9af6bc7b0576a12a2c51d4b9a26.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-10T21:52:28.887Z"
+  },
+  {
+    "slug": "warcraft",
+    "name": "Warcraft: Remastered",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/124/12409b4676c9fa21555f46323742f4d9.jpg",
+    "released": "2024-11-13",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/848/84821cd56c6235962d14e1a2d2a01d2f.jpg",
+      "https://media.rawg.io/media/screenshots/062/0621203f906f9069049d97de04fffd1e.jpg",
+      "https://media.rawg.io/media/screenshots/918/918f7a8e4e32264600e208bee046c331.jpg",
+      "https://media.rawg.io/media/screenshots/e12/e123f26881d30de5d05c5922c459e22e.jpg",
+      "https://media.rawg.io/media/screenshots/0af/0af9b0a287bd29ee431cec1e87ece4f9.jpg",
+      "https://media.rawg.io/media/screenshots/efc/efcaeb4c826b11c15add6d81b284115f.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-10T21:52:29.284Z"
   }
 ]
