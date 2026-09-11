@@ -10156,5 +10156,89 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-11T09:53:37.568Z"
+  },
+  {
+    "slug": "war-dogs",
+    "name": "Gun-Running War Dogs",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/33a/33a1750eaedecc9a5dec6b29424adabc.jpg",
+    "released": "2017-08-07",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/fe6/fe6745f23268e3953607e90b4a182051.jpg",
+      "https://media.rawg.io/media/screenshots/6fc/6fc620124132ecf8490dd2b22ad4c2bb.jpg",
+      "https://media.rawg.io/media/screenshots/24f/24f4b3465f1ef57526a975c0b1e587b8.jpg",
+      "https://media.rawg.io/media/screenshots/707/7070e1cc8a621e01f8e430668d3166d9.jpg",
+      "https://media.rawg.io/media/screenshots/9b3/9b3c1c488e63fa4840b5b177461861f7.jpg",
+      "https://media.rawg.io/media/screenshots/33a/33a1750eaedecc9a5dec6b29424adabc.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-11T11:52:12.443Z"
+  },
+  {
+    "slug": "bayonetta",
+    "name": "Bayonetta",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/bee/bee483efadcf9d7e657e52184316a34e.jpg",
+    "released": "2009-06-23",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch",
+      "Xbox 360",
+      "PlayStation 3",
+      "Wii U"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f6a/f6a75633a2e5ffd281ce7d5fb41ffba7.jpg",
+      "https://media.rawg.io/media/screenshots/e18/e18750c1ec5ebfad2ba8222b04d0f469.jpg",
+      "https://media.rawg.io/media/screenshots/573/57348b88f0755d343127c4951db0dad5.jpg",
+      "https://media.rawg.io/media/screenshots/2d6/2d6caebf606d2d153e61716b260bd9d9.jpg",
+      "https://media.rawg.io/media/screenshots/262/2628dacce5bf8a5ca384ff3b9a47acac.jpg",
+      "https://media.rawg.io/media/screenshots/fb0/fb068001f510fbeae587c81a3398066f.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-11T11:52:13.137Z"
+  },
+  {
+    "slug": "neo-geo-aes",
+    "name": "Yo-Yo Shuriken (Neo-Geo MVS AES CD)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/aea/aeab41de90dbcf60a826c41e947d8351.jpg",
+    "released": "2023-04-11",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Android",
+      "macOS",
+      "Linux"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/27b/27b9f1138f9e5229d430ccfe32689203.jpg",
+      "https://media.rawg.io/media/screenshots/8d9/8d96f9696eb9655c6c907a20a353fd31.jpg",
+      "https://media.rawg.io/media/screenshots/26c/26c98cc7defa41363a6856ed989cde11.jpg",
+      "https://media.rawg.io/media/screenshots/aea/aeab41de90dbcf60a826c41e947d8351.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-11T11:52:13.793Z"
   }
 ]
