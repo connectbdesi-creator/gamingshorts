@@ -10111,5 +10111,50 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-11T07:51:06.653Z"
+  },
+  {
+    "slug": "starfield",
+    "name": "Starfield",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/ba8/ba82c971336adfd290e4c0eab6504fcf.jpg",
+    "released": "2023-09-06",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f7d/f7d990724dd553484e527b4096025a65.jpg",
+      "https://media.rawg.io/media/screenshots/0ad/0adfb93f5621bd549b8813b6b4c6e623.jpg",
+      "https://media.rawg.io/media/screenshots/f74/f7431a20a8bb390b813ea751d758ed07.jpg",
+      "https://media.rawg.io/media/screenshots/7bc/7bc2c5288b78693eb9eaa0a06a8361e9.jpg",
+      "https://media.rawg.io/media/screenshots/85f/85fee5a7b12edcbe8352b2d1676296ac.jpg",
+      "https://media.rawg.io/media/screenshots/eb6/eb61692a22bef1e16d43ee1c49f31814.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-11T09:53:33.468Z"
+  },
+  {
+    "slug": "electronic-arts",
+    "name": "Team Dream Bros: Terrible Electronic Arts",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/ce2/ce2d0b99cbcb22cbe1de2e46ac97d51a.jpg",
+    "released": "2020-11-05",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/ce2/ce2d0b99cbcb22cbe1de2e46ac97d51a.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-11T09:53:37.568Z"
   }
 ]
