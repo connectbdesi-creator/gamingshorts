@@ -10476,5 +10476,59 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-11T19:53:32.114Z"
+  },
+  {
+    "slug": "moss",
+    "name": "Moss",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/c02/c0220e3e2ee083531ae461f4a7003c5a.jpg",
+    "released": "2018-02-27",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Platformer",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 4"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/431/431d1551a7dbcbbcfebf4c2f1396e552.jpg",
+      "https://media.rawg.io/media/screenshots/a3d/a3d52cf2419b80082258459c8346da1e.jpg",
+      "https://media.rawg.io/media/screenshots/55e/55ec4461e5ebae94e4654fe87278864c.jpg",
+      "https://media.rawg.io/media/screenshots/ce4/ce45c893df675b128a9d4c490fb99189.jpg",
+      "https://media.rawg.io/media/screenshots/85c/85c116697f35f57991875d915ffdd35f.jpg",
+      "https://media.rawg.io/media/screenshots/f88/f883292a2fefb60b5d246922d552db90.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-11T21:52:56.615Z"
+  },
+  {
+    "slug": "gyromite",
+    "name": "Gyromite",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/dc4/dc4c44e301c02859c9bfb113c06f747b.jpg",
+    "released": "1985-08-13",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Puzzle"
+    ],
+    "platforms": [
+      "NES"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/02a/02a7586875a5b4e917f2877e194e72a9.jpg",
+      "https://media.rawg.io/media/screenshots/053/053585aee8ef06231592fce066ac3e0e.jpg",
+      "https://media.rawg.io/media/screenshots/8ee/8ee39746d6344155515369b567feb749.jpg",
+      "https://media.rawg.io/media/screenshots/ea7/ea76e947f51f205749fd3e4e01a7c084.jpg",
+      "https://media.rawg.io/media/screenshots/551/551fc7836f894ea47f40d97bcf9db549.jpg",
+      "https://media.rawg.io/media/screenshots/dc4/dc4c44e301c02859c9bfb113c06f747b.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-11T21:52:57.028Z"
   }
 ]
