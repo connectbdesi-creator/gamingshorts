@@ -1,5 +1,731 @@
 [
   {
+    "id": "35d968800309",
+    "slug": "official-playstation-podcast-episode-547-orb-solutely-fabulous",
+    "headline": "Official PlayStation Podcast Episode 547: Orb-solutely Fabulous",
+    "summary": "The latest episode of the official PlayStation podcast discusses big announcements, new releases, and upcoming game drops",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/09/11/official-playstation-podcast-episode-547-orb-solutely-fabulous/"
+      }
+    ],
+    "image_url": "https://traffic.libsyn.com/playstation/Episode_547.mp3",
+    "published_at": "2026-09-11T17:43:39.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "082243f93447",
+    "slug": "if-you-use-devcommands-to-cheat-in-valheim-but-want-your-achievements",
+    "headline": " If you use devcommands to cheat in Valheim but want your achievements anyway, you can get them by using the new devcommand 'yesiuseddevcommandsbutiwantmyachievementsanyway' ",
+    "summary": "Valheim 1.0 has its first batch of patches, including one for cheaters.",
+    "category": "patches",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/survival-crafting/if-you-use-devcommands-to-cheat-in-valheim-but-want-your-achievements-anyway-you-can-get-them-by-using-the-new-devcommand-yesiuseddevcommandsbutiwantmyachievementsanyway/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/9pzjFrhqUpabhXGRJNa4t8-1280-80.jpg",
+    "published_at": "2026-09-11T17:35:37.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b46688678c83",
+    "slug": "nintendo-updates-zelda-timeline-ocarina-of-time-remake-complicates-it",
+    "headline": "Nintendo Updates Zelda Timeline, Ocarina of Time Remake Complicates It",
+    "summary": "Nintendo has updated its Zelda timeline, and the Ocarina of Time remake has added complexity to the order of events in the series.",
+    "category": "releases",
+    "platform_tags": [
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/the-legend-of-zelda/nintendo-has-quietly-updated-the-zelda-timeline-and-somehow-the-ocarina-of-time-remake-has-made-it-even-more-complicated/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/KenrfvaWqBx5FpRKB8J2o-1280-80.png",
+    "published_at": "2026-09-11T17:35:36.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-legend-of-zelda-ocarina-of-time",
+    "game_label": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "9332a87209e7",
+    "slug": "new-action-rpg-just-made-traditional-difficulty-settings-feel-outdated",
+    "headline": "New Action RPG Just Made Traditional Difficulty Settings Feel Outdated",
+    "summary": "The latest Remedy Entertainment title allows for dynamic difficulty adjustment on the fly, making traditional difficulty settings feel arbitrary.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/new-action-rpg-control-resonant-difficulty-settings-assist-mode/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/control-resonant-difficulty-settings-makes-normal-settings-feel-strange.jpg",
+    "published_at": "2026-09-11T17:32:56.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "252588b0e7bf",
+    "slug": "professor-layton-fans-are-in-full-panic-mode-after-studio-presentation",
+    "headline": "Professor Layton Fans Are In Full Panic Mode After Studio Presentation They Worry Is Full Of ‘AI Slop’",
+    "summary": "Given that Level-5's CEO previously stated that 'around 80~90% of games are made by AI,' this level of scrutiny should come as no surprise",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/professor-layton-ai-level-5-curious-village-remake-inazuma-eleven-2000733548"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2025/12/maxresdefault.jpg",
+    "published_at": "2026-09-11T17:31:34.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "28bfd25afdf5",
+    "slug": "how-to-win-as-michael-myers-in-halloween-the-game-tips-tricks",
+    "headline": "How to Win as Michael Myers in Halloween: The Game (Tips & Tricks)",
+    "summary": "Winning as Michael Myers in Halloween: The Game is a challenge. Luckily, these tips and tricks will help Michael players drastically improve.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/halloween-the-game-michael-myers-tips-tricks-how-to-win/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/tips-tricks-for-playing-as-michael-in-halloween-the-game.jpg",
+    "published_at": "2026-09-11T17:31:33.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c1389ec04b9d",
+    "slug": "final-fantasy-9-roses-of-may-officially-announced",
+    "headline": "Final Fantasy 9: Roses of May Officially Announced",
+    "summary": "Publisher Square Enix officially announces the upcoming release of Final Fantasy 9: Roses of May.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/final-fantasy-9-ff9-roses-may-music-box/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/08/final-fantasy-9-beatrix-bow.jpg",
+    "published_at": "2026-09-11T17:30:12.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "28f0b56a283e",
+    "slug": "how-to-get-endgame-nord-armor-sets-in-valheim",
+    "headline": "How to Get Endgame Nord Armor Sets in Valheim",
+    "summary": "Valheim players can obtain the strongest gear, specifically the Endgame Nord Armor Sets, by completing a challenging task.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/valheim-how-craft-all-deep-north-armor-sets-molds/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/20d835-1.JPG",
+    "published_at": "2026-09-11T17:30:12.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "valheim",
+    "game_label": "Valheim"
+  },
+  {
+    "id": "8e802178db22",
+    "slug": "gta-6-developer-is-fighting-drones-and-hackers-to-keep-the-games-secre",
+    "headline": "GTA 6 Developer Is Fighting Drones And Hackers To Keep The Game’s Secrets Safe",
+    "summary": "As the studio behind one of the most highly anticipated games of all time, GTA 6 developer Rockstar Games has divulged more details on how it keeps its secrets. As part of a hearing, which began yesterday at the Glasgow Employment Tribunal--in which Rockstar Games has been accused of unlawfully firing 34 GTA 6 developers based in the UK and…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-developer-is-fighting-drones-and-hackers-to-keep-the-games-secrets-safe/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/GTA-Drones.jpg?w=300",
+    "published_at": "2026-09-11T17:12:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "946a7b2cd8a0",
+    "slug": "more-than-40-of-people-cancelling-xbox-game-pass-playstation-plus-and",
+    "headline": "More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online subscriptions blame rising costs",
+    "summary": "Players cancelling their subscriptions to video game services like Xbox Game Pass and PlayStation Plus are more likely to blame rising costs today than they were at the start of the year.\n Read more",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/xbox-game-pass-playstation-plus-nintendo-cancellations-rising-costs"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/ace90859-7340-415e-9bc6-6d4bbd45edd5.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-11T17:08:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5dfa88866b43",
+    "slug": "what-is-avengers-endgame-encore-marvels-new-re-release-explained",
+    "headline": " What is Avengers: Endgame Encore? Marvel's new re-release, explained ",
+    "summary": "Should you go see Avengers: Endgame Encore?",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/marvel-movies/what-is-avengers-endgame-encore-marvels-new-re-release-explained/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/PdLA54yrRxBveKSr4DJvTo-1280-80.jpg",
+    "published_at": "2026-09-11T17:04:14.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c0bf21609ca4",
+    "slug": "brutal-cult-favorite-indie-survival-game-is-almost-free-after-years-of",
+    "headline": "Brutal Cult-Favorite Indie Survival Game Is Almost Free After Years Of Legal Limbo With Adult Swim’s Defunct Publishing Label",
+    "summary": "Start of a new cycle",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/indie-rain-world-years-legal-adult-swim-akupara-2000732904"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/rain-world.jpg",
+    "published_at": "2026-09-11T17:00:26.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "58ddb96ad141",
+    "slug": "feature-26-details-you-might-have-missed-from-the-zelda-ocarina-of-tim",
+    "headline": "Feature: 26 Details You Might Have Missed From The Zelda: Ocarina Of Time Switch 2 Reveal",
+    "summary": "Under the lens of truth.\n\nIt's been a busy week for Nintendo fans, with the company squeezing in two Directs in as many days, and filling out the rest of the 2026 gaming calendar with more Switch games than anyone could reasonably play.\nRead the full article on nintendolife.com",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/features/26-details-you-might-have-missed-from-the-zelda-ocarina-of-time-switch-2-reveal"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/7be6f175737f6/large.jpg",
+    "published_at": "2026-09-11T17:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "431e943265ae",
+    "slug": "two-xbox-game-pass-titles-have-received-new-release-windows-this-week",
+    "headline": "Two Xbox Game Pass Titles Have Received New Release Windows This Week",
+    "summary": "One of which appears to be an Xbox console exclusive. We've seen three games release on Xbox Game Pass this week and we're expecting more announcements in the coming days for the rest of September (most likely on Tuesday), but amidst everything that's been happening recently, another two upcoming Game Pass titles have quietly received new release windows. Hela: Of…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/two-xbox-game-pass-titles-have-received-new-release-windows-this-week"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/caba9e5766ecd/large.jpg",
+    "published_at": "2026-09-11T17:00:00.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d2e7cdc97e36",
+    "slug": "gta-6-fans-are-harassing-the-irl-nudist-resort-that-inspired-the-game",
+    "headline": "GTA 6 Fans Are Harassing The IRL Nudist Resort That Inspired The Game",
+    "summary": "GTA 6 fans have been targeting a nudist resort that inspired the game, misleading people on Google and Trip Advisor",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-nudist-resort-cypress-cove-florida-where-is-google-reviews/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25135553/Screenshot__22_.png",
+    "published_at": "2026-09-11T16:52:00.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "65ab41556d99",
+    "slug": "when-will-wardogs-come-to-ps5-or-xbox-series-x",
+    "headline": " When will Wardogs come to PS5 or Xbox Series X? ",
+    "summary": "Wardogs isn't on consoles yet",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/fps/wardogs-ps5-xbox/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/qEdtxqAkncsB9fcP3WWNBU-1280-80.jpg",
+    "published_at": "2026-09-11T16:37:31.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2fa79f4d79ee",
+    "slug": "after-another-scalping-disaster-nintendo-is-restocking-the-legend-of-z",
+    "headline": " After another scalping disaster, Nintendo is restocking the Legend of Zelda Switch 2 – but seemingly only in the UK ",
+    "summary": "Everyone else: good luck",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/the-legend-of-zelda/after-another-scalping-disaster-nintendo-is-restocking-the-legend-of-zelda-switch-2-but-seemingly-only-in-the-uk/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/TxPMAvWtdwjRVbLnUcRGTg-1280-80.png",
+    "published_at": "2026-09-11T16:34:49.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "aa24adda035d",
+    "slug": "new-fps-wardogs-makes-steam-explode-with-340000-peak-players-then-expl",
+    "headline": "New FPS Wardogs Makes Steam Explode with 340,000 Peak Players, Then Explodes on Steam After Servers Break and Negative Reviews Roll In",
+    "summary": "First-person shooter Wardogs attracted a large player base on Steam, but its popularity was short-lived after the servers broke and negative reviews flooded in.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/fps/new-fps-wardogs-makes-steam-explode-with-340-000-peak-players-then-explodes-on-steam-after-the-servers-break-and-negative-reviews-roll-in/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/wTUMRtmV4K6K22oDvuehKd-1280-80.jpg",
+    "published_at": "2026-09-11T16:31:35.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "wardogs",
+    "game_label": "Wardogs"
+  },
+  {
+    "id": "4991e61aed5a",
+    "slug": "fan-project-to-decompile-dragon-age-origins-source-code-might-be-the-c",
+    "headline": "Fan Project To Decompile Dragon Age: Origins' Source Code Might Be The Closest We Ever Get To A Remaster",
+    "summary": "A fan-made project aims to decompile the source code of Dragon Age: Origins, allowing modders to make improvements, and may be the closest thing to a remaster for the game.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/dragon-age-origins-source-code-decompile-project-2000733509"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2024/07/30a04aa77054f1d4797f1bdea477a87e.jpg",
+    "published_at": "2026-09-11T16:30:13.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dragon-age-origins",
+    "game_label": "Dragon Age: Origins"
+  },
+  {
+    "id": "ddf4413e7822",
+    "slug": "playstations-future-has-never-looked-bleaker",
+    "headline": "PlayStation’s Future Has Never Looked Bleaker",
+    "summary": "Cutting ties with Kojima and poor Wolverine reviews are just the latest issues in a difficult generation for PlayStation. The platform's future has never looked bleaker.",
+    "category": "reviews",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/playstations-future-has-never-looked-bleaker"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/11/ps-op-ed-blogroll-1789142526895.webp",
+    "published_at": "2026-09-11T16:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2b0656d9bab6",
+    "slug": "why-do-we-need-more-graphics-2010s-alan-wake-was-as-photoreal-as-video",
+    "headline": "\"Why do we need more graphics?\": 2010's Alan Wake was as photoreal as videogames ever needed to be, reckons original Thief designer",
+    "summary": "Former Thief: The Dark Project designer, Ion Storm game director, and sometime Spielberg collaborator Randy Smith Evergreen has shared his probably-incendiary view that photorealistic videogame graphics need not have advanced any further than Remedy's original Alan Wake. For context, Alan Wake released back in 2010, when some of you people were screaming babies. Every touted breakthrough in visual",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/why-do-we-need-more-graphics-2010s-alan-wake-was-as-photoreal-as-videogames-ever-needed-to-be-reckons-original-thief-designer"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/alan-wake-bridge-original.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-11T16:29:41.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "18ef38ba0aa7",
+    "slug": "shroom-and-gloom-is-my-new-deckbuilder-obsession",
+    "headline": "Shroom and Gloom is my new deckbuilder obsession",
+    "summary": "The deckbuilder Shroom and Gloom has won over the author with its exciting battles, stunning visuals, and charming fungal creatures.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/roguelike/shroom-and-gloom-is-my-new-deckbuilder-obsession-thanks-to-its-fantastic-fights-beautiful-artwork-and-tasty-mushrooms/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ifdtazoDdb2tf68W6G2Ek7-1280-80.png",
+    "published_at": "2026-09-11T16:29:02.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "shroom-and-gloom",
+    "game_label": "Shroom and Gloom"
+  },
+  {
+    "id": "594767543501",
+    "slug": "goodwill-hunting-consoles-brand-value-and-loyalty-is-being-tested-opin",
+    "headline": "Goodwill Hunting: Consoles’ brand value and loyalty is being tested | Opinion",
+    "summary": "There’s a really important piece of context that looms behind every decision, every announcement, and every news story about PlayStation or Xbox at the moment. It’s a ticking clock; a countdown to the moment when Sony and Microsoft are going to have to start talking about their next-generation hardware – and begin the process of convincing the world that an…",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/goodwill-hunting-consoles-brand-value-and-loyalty-is-being-tested-opinion"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/ps5-controller-.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-11T16:28:42.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3e9919b707ad",
+    "slug": "the-more-aroused-the-fly-is-the-harder-it-tries-to-shoot-googles-fully",
+    "headline": "\"The more aroused the fly is the harder it tries to shoot\" - Google's fully mapped fly brain is now playing Doom, Beat Saber, and more",
+    "summary": "It's science-fiction Friday as Google's fully mapped fly brain, which was revealed last week, has been engineered to play Doom and rhythm-action game Beat Saber.\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/google-fly-brain-doom-beat-saber"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/doom-fly.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-11T16:14:51.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3e28eea330c7",
+    "slug": "playstations-shock-cancelation-of-kojimas-new-game-now-makes-perfect-s",
+    "headline": "PlayStation's Shock Cancelation of Kojima's New Game Now Makes Perfect Sense",
+    "summary": "PlayStation canceled Hideo Kojima's Physint, leading it to being picked up by Xbox. A new report shares insight as to why Sony may have canned it.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/kojima-physint-why-playstation-canceled-budget-concerns-death-stranding/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25276836/hideo_kojima_physint.jpg",
+    "published_at": "2026-09-11T16:05:27.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "dfbf20d160ca",
+    "slug": "sony-reportedly-dropped-hideo-kojimas-next-game-because-it-kept-missin",
+    "headline": " Sony reportedly dropped Hideo Kojima's next game because it kept missing deadlines, was over budget, and would eventually come to other platforms ",
+    "summary": "A few good reasons, and one really exhausting one.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/sony-reportedly-dropped-hideo-kojimas-next-game-because-it-kept-missing-deadlines-was-over-budget-and-would-eventually-come-to-other-platforms/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/zLnpnMmf4pdofA9b9XpieZ-1280-80.png",
+    "published_at": "2026-09-11T16:03:31.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "78dec4d3138f",
+    "slug": "how-stardew-valley-inspired-a-game-about-blasting-freaky-monsters-into",
+    "headline": "How Stardew Valley Inspired A Game About Blasting Freaky Monsters Into Piles Of Guts",
+    "summary": "'I'm going to be like a regular man and just go fishing'",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/stardew-valley-serious-sam-shatterverse-2000733300"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/serious-sam-1280x720.jpg",
+    "published_at": "2026-09-11T16:00:41.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ebef1066e405",
+    "slug": "share-of-the-week-water",
+    "headline": "Share of the Week: Water",
+    "summary": "Last week, we asked you to share moments highlighting water from the game of your choice using #PSshare #PSBlog. Here are this week’s highlights: honeysinghzzz shares the reflection of water in Forza Horizon 5 JAA_PhMode_0510 shares Snake wading through waters in Metal Gear Solid Delta Snakeater  fwto_ shares Jin paused along a river in Ghost […]",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/09/11/share-of-the-week-water/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/ebef1066e405/800/600",
+    "published_at": "2026-09-11T16:00:32.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a49cfcbbb156",
+    "slug": "amazon-prime-is-handing-out-doom-eternal-codes-for-xbox-pc-this-month",
+    "headline": "Amazon Prime Is Handing Out DOOM Eternal Codes For Xbox PC This Month",
+    "summary": "Id Software's brutal shooter features in Amazon Luna's September offering. If you're a freebie lover, Amazon Prime subscriber, and all-around demon slayer, then you may want to consider picking up DOOM Eternal this month. As part of Amazon Luna's September 2026 lineup, Id Software's 88-rated DOOM Eternal is free for Prime subscribers to claim and keep, with the Xbox PC…",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/amazon-prime-is-handing-out-doom-eternal-codes-for-xbox-pc-this-month"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/ffbaa23b5ac85/large.jpg",
+    "published_at": "2026-09-11T16:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c9652d91693b",
+    "slug": "you-can-play-star-fox-adventures-in-widescreen-mode-on-switch-2",
+    "headline": "You Can Play Star Fox Adventures In Widescreen Mode On Switch 2",
+    "summary": "Nintendo has added Star Fox Adventures to its GameCube lineup on Nintendo Switch Online, allowing players to experience the 2002 game in widescreen mode.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/psa-you-can-play-star-fox-adventures-in-widescreen-mode-on-switch-2"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/1883d241dd726/large.jpg",
+    "published_at": "2026-09-11T16:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "star-fox-adventures",
+    "game_label": "Star Fox Adventures"
+  },
+  {
+    "id": "490b2766fdca",
+    "slug": "multiplayer-shooter-wardogs-confirmed-for-ps5-as-early-access-launch-g",
+    "headline": "Multiplayer Shooter Wardogs Confirmed for PS5 as Early Access Launch Goes Nuclear",
+    "summary": "Boom.\nPublisher Team 17 and developer BULKHEAD have confirmed console versions of Wardogs, which is proving to be extremely popular in its early stages.\nThe game launched into Early Access on Steam yesterday, 10th September 2026, and it has already sold more than 1.25 million copies.\nRead the full article on pushsquare.com",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/multiplayer-shooter-wardogs-confirmed-for-ps5-as-early-access-launch-goes-nuclear"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/1d0b8f85b3239/large.jpg",
+    "published_at": "2026-09-11T16:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "bcf9d194eec9",
+    "slug": "state-of-the-unions-the-rise-of-unionisation-in-games-workplaces",
+    "headline": "State of the Unions: the rise of unionisation in games workplaces",
+    "summary": "The rise of unions in the video games industry has been a hot topic over the past decade, as more and more workers seek protection for their rights in the face of harsh working conditions and management shortcomings around the world.\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/state-of-the-unions-the-rise-of-unionisation-in-games-workplaces"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Paris_Summit_2025_edited.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-11T15:59:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "6b50b3313510",
     "slug": "sony-owning-digital-games",
     "headline": "Sony Owning Digital Games",
@@ -46,6 +772,31 @@
     "game_label": "Physint"
   },
   {
+    "id": "d8fd23a36da1",
+    "slug": "eas-new-owners-may-be-considering-bigger-gaming-empire",
+    "headline": "EA's New Owners May Be Considering Bigger Gaming Empire",
+    "summary": "Saudi Arabia's Public Investment Fund is considering merging EA with gaming holding company Savvy Games Group to foster better coordination between its gaming assets.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/eas-new-owners-may-be-considering-an-even-bigger-gaming-empire/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/EA-Games.jpg?w=300",
+    "published_at": "2026-09-11T15:38:03.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ea",
+    "game_label": "EA"
+  },
+  {
     "id": "77efee213b91",
     "slug": "marvels-wolverine-community-director-defends-fart-gas-controversy",
     "headline": "Marvel's Wolverine Community Director Defends Fart Gas Controversy",
@@ -67,6 +818,29 @@
     "game_label": null
   },
   {
+    "id": "9377c3356ad7",
+    "slug": "fans-score-20-off-ocarina-of-time-preorders-with-hidden-walmart-coupon",
+    "headline": "Fans Score $20 Off Ocarina of Time Preorders with Hidden Walmart Coupon",
+    "summary": "Walmart shoppers are reportedly using a hidden promo code to get $20 off preorders of The Legend of Zelda: Ocarina of Time, bringing the price down to $50 from $70.",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-walmart-coupon-deal"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/09/the-legend-of-zelda-ocarina-of-time-preorders-uk-1788952093648.png",
+    "published_at": "2026-09-11T15:32:31.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-legend-of-zelda-ocarina-of-time",
+    "game_label": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
     "id": "89a82839f3e2",
     "slug": "rockstar-had-a-mole-in-the-union-worker-discord-server-for-over-two-an",
     "headline": "Rockstar had a mole in the union worker Discord server \"for over two and a half years\", GTA 6 company reveals during legal battle",
@@ -82,6 +856,27 @@
     "image_url": "https://assetsio.gnwcdn.com/Jason_Duval_10.jpg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-09-11T15:31:24.000Z",
     "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "4a037b7a6a69",
+    "slug": "gta-6-developer-rockstar-says-it-was-forced-to-put-privacy-films-on-it",
+    "headline": "GTA 6 Developer Rockstar Says It Was Forced to Put Privacy Films on Its Buildings After Drones Were Used to Snap Photos Through Office Windows",
+    "summary": "Rockstar Games has released its opening note in the employment tribunal to determine the fate of the 31 GTA 6 developers it fired last year, and in doing so has revealed the extreme lengths it goes to in order to prevent security breaches.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-developer-rockstar-says-it-was-forced-to-put-privacy-films-on-its-buildings-after-drones-were-used-to-snap-photos-through-office-windows"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/11/gettyimages-2293947595-1789140078074.jpg",
+    "published_at": "2026-09-11T15:28:50.000Z",
+    "hype_signal": 80,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -515,6 +1310,29 @@
     "game_label": null
   },
   {
+    "id": "ef9452e4ab24",
+    "slug": "playstation-abandoned-kojimas-new-game-over-profit-concerns-its-claime",
+    "headline": "PlayStation Abandoned Kojima's New Game Over Profit Concerns, It's Claimed",
+    "summary": "A new report claims that PlayStation dropped Physint because Kojima's new game is over budget and missing deadlines, among other reasons.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/playstation-dropped-physint-explained-report-hideo-kojima/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/kojima-posing-with-xbox-higher-ups.jpg",
+    "published_at": "2026-09-11T14:10:40.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "d349e8ea25c5",
     "slug": "playstation-reportedly-dropped-kojimas-game",
     "headline": "PlayStation Reportedly Dropped Kojima's Game",
@@ -536,6 +1354,31 @@
     "comment_count": 0,
     "game": "kojima-productions",
     "game_label": "Kojima Productions"
+  },
+  {
+    "id": "9e9d3561bbae",
+    "slug": "nrg-brings-immersive-resident-evil-experience-to-hollywood",
+    "headline": "NRG Brings Immersive Resident Evil Experience to Hollywood",
+    "summary": "NRG is partnering with a Hollywood studio to create an immersive Resident Evil event ahead of the film's release, aiming to demonstrate the potential of esports and gaming properties in driving real-world interest in movies and TV shows.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/nrg-courts-hollywood-with-immersive-resident-evil-event-ahead-of-film-release/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/9e9d3561bbae/800/600",
+    "published_at": "2026-09-11T14:08:20.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "resident-evil",
+    "game_label": "Resident Evil"
   },
   {
     "id": "33ccbc2aa451",
@@ -3779,830 +4622,6 @@
     "image_url": "https://cdn.mos.cms.futurecdn.net/kyJmoWGy6seJEtojJk28UE-1280-80.jpg",
     "published_at": "2026-09-10T17:53:23.000Z",
     "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "511da329c14f",
-    "slug": "saudi-arabias-pif-reportedly-wants-to-merge-ea-and-savvy-games-group",
-    "headline": "Saudi Arabia's PIF Reportedly Wants To Merge EA And Savvy Games Group",
-    "summary": "It's being reported that the Saudi-owned PIF wants to merge EA and Savvy Games Group, just after getting its controversial acquisition approved.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/saudi-arabia-pif-ea-savvy-merger-report/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2024/03/news-red-ea-logos-on-white-squares-facing-up-with-middle-glowingg.jpg",
-    "published_at": "2026-09-10T17:45:04.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2016e311ded3",
-    "slug": "aeterna-lucis-launches-december-3",
-    "headline": "Aeterna Lucis launches December 3",
-    "summary": "Side-scrolling action adventure game Aeterna Lucis, the sequel to Aeterna Noctis, will launch for PlayStation …",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/aeterna-lucis-launches-december-3"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/2016e311ded3/800/600",
-    "published_at": "2026-09-10T17:43:37.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9197ad3f3d3d",
-    "slug": "prime-gaming-11-free-games-for-september-2026-revealed",
-    "headline": "Prime Gaming 11 Free Games for September 2026 Revealed",
-    "summary": "Amazon Prime subscribers can claim 11 free PC games throughout September, with five of these latest offers now available via different storefronts.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/prime-gaming-11-free-games-september-2026-list/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/prime-gaming-11-free-games-for-september-2026-revealed-gamerant-1.jpg",
-    "published_at": "2026-09-10T17:40:50.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8d03579009b9",
-    "slug": "first-professor-layton-game-gets-ps5-remake-curious-village-out-in-202",
-    "headline": "First Professor Layton Game Gets PS5 Remake, Curious Village Out in 2027",
-    "summary": "Layton overload on PS5. You'll be able to play the latest Professor Layton title, the New World of Steam, on PS5 this December as the character makes his PlayStation debut. However, also, the original title that started the series is being remade. Level-5 has announced today in its latest livestream that a full PS5 remake of Professor Layton and the…",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/first-professor-layton-game-gets-ps5-remake-curious-village-out-in-2027"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/b53fba62e1cb4/large.jpg",
-    "published_at": "2026-09-10T17:30:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "47fb716039d6",
-    "slug": "stylised-xcom-like-tactics-game-ex-sanguis-straps-othercides-obsession",
-    "headline": "Stylised XCOM-like tactics game Ex Sanguis straps Othercide's obsession with timelines to a leaner roguelike campaign",
-    "summary": "The nasal greenhorn strategy gamer understands \"strategy\" to be about mastery of space by means of clanging offensives, shining shieldwalls, and brute attrition, but the true Napoleon of Drag-Select knows that strategy is always, primarily, the mastery of time. I don't think Napoleon would have approved of Ex Sanguis. He would not have liked all the willowy clone women made…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/stylised-xcom-like-tactics-game-ex-sanguis-straps-othercides-obsession-with-timelines-to-a-leaner-roguelike-campaign"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/ex-sanguis-3.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-10T17:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "39399e54d79c",
-    "slug": "nintendo-download-10th-september-north-america",
-    "headline": "Nintendo Download: 10th September (North America)",
-    "summary": "Valheim! Woodo! Batman! The latest Nintendo Download update for North America has arrived, and it's bringing new games galore to the eShop. As always, be sure to drop a vote in our poll and comment down below with your potential picks for the week. Enjoy! Switch 2 eShop - Highlights Valheim (Coffee Stain, 9th Sep, $29.99) - Become one of…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-10th-september-north-america"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/730ce0eb8f029/large.jpg",
-    "published_at": "2026-09-10T17:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "53baf8a0da76",
-    "slug": "modern-warfare-4-adds-special-pre-order-bonus-to-celebrate-xboxs-25th",
-    "headline": "Modern Warfare 4 Adds Special Pre-Order Bonus To Celebrate Xbox's 25th Anniversary",
-    "summary": "\"Fully functional and ready to use at launch\". Haven't committed to pre-ordering Call of Duty: Modern Warfare 4 yet? This little pre-order bonus may just swing it for some people, as it involves a special Xbox-focused livery to celebrate the brand's 25th anniversary. Simply put, if you pre-order any digital version of Modern Warfare 4 for Xbox Series X or…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/modern-warfare-4-adds-special-pre-order-bonus-to-celebrate-xboxs-25th-anniversary"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/e5b03a0d117ee/large.jpg",
-    "published_at": "2026-09-10T17:30:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "dd6d34bc4b95",
-    "slug": "a-month-after-buying-ea-saudi-arabia-is-reportedly-looking-to-merge-ea",
-    "headline": " A month after buying EA, Saudi Arabia is reportedly looking to merge EA into a new mega-corporation ",
-    "summary": "EA could be paired with mobile giant Scopely under Saudi Arabia's Savvy Games",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/a-month-after-buying-ea-saudi-arabia-is-reportedly-looking-to-merge-ea-into-a-new-mega-corporation/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/4KThE6zkqSVzhUGMNUYUjk-1280-80.jpg",
-    "published_at": "2026-09-10T17:28:37.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4982ff07a055",
-    "slug": "gta-6-ps5-controller-pre-orders-go-live-on-playstation-store-and-it-im",
-    "headline": "GTA 6 PS5 Controller Pre-Orders Go Live On PlayStation Store And It Immediately Collapses, Meanwhile eBay Is Flooded With Scalpers",
-    "summary": "Other players got stuck in hour long queues or couldn't check out at all",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/gta-6-ps5-controller-pre-orders-go-live-on-playstation-store-and-it-immediately-collapses-2000733219"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6s-limited-edition-ps5-controller-pre-orders-overload-playstations-store-and-scalpers-are-already-reselling-them-on-ebay"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/GTA-6-error-1280x720.jpg",
-    "published_at": "2026-09-10T17:27:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4f5a0f8f6774",
-    "slug": "palworld-publishing-chief-worries-early-access-has-lost-its-meaning-as",
-    "headline": " Palworld publishing chief worries early access has 'lost its meaning' as the rise of 'hyper-casual' gaming culture means people often don't understand what they're getting into ",
-    "summary": "\"People just buy an early access game like they buy a normal game and treat it like that's the game.\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/gaming-industry/game-development/palworld-publishing-chief-worries-early-access-has-lost-its-meaning-as-the-rise-of-hyper-casual-gaming-culture-means-people-often-dont-understand-what-theyre-getting-into/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/bNP4EUfLJbdaWgX7N2NvUQ-1280-80.jpg",
-    "published_at": "2026-09-10T17:22:59.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "bdce6000ef7f",
-    "slug": "the-blood-of-dawnwalker-is-exposing-the-problem-with-putting-an-open-w",
-    "headline": "The Blood of Dawnwalker Is Exposing the Problem With Putting an Open-World RPG on a Clock",
-    "summary": "The Blood of Dawnwalker makes time matter in a way few open-world RPGs do, but that pressure can come at the cost of player freedom.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/blood-of-dawnwalker-30-day-time-limit-open-world-rpg-freedom/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/blood-of-the-dawnwalker-feature.jpg",
-    "published_at": "2026-09-10T17:15:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4f60f2f3022d",
-    "slug": "a-brand-new-early-access-fps-is-topping-the-steam-charts",
-    "headline": "A Brand-New Early Access FPS Is Topping the Steam Charts",
-    "summary": "Wardogs, a brand new FPS game in Steam Early Access, has sold more than 1 million copies on launch day and is shooting up the charts.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/wardogs-steam-charts-1-million-copies-sold/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/wardogs-early-access-release-date-moved-forward.jpg",
-    "published_at": "2026-09-10T17:12:22.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8916fb169200",
-    "slug": "were-going-to-become-the-new-legend-naoki-hamaguchi-on-making-final-fa",
-    "headline": "\"We’re going to become the new legend\": Naoki Hamaguchi on making Final Fantasy 7 Revelation as if it's the last ever Final Fantasy 7 game",
-    "summary": "In this IP-obsessed world, it is quite easy to wonder if anything will ever actually come to an end. Theoretically, the Final Fantasy 7 trilogy of remakes will be coming to an end next year with Final Fantasy 7 Revelation. Except that might not even be true because a couple of pieces of DLC, about Sephiroth and Vincent Valentine respectively,…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/were-going-to-become-the-new-legend-naoki-hamaguchi-on-making-final-fantasy-7-revelation-as-if-its-the-last-ever-final-fantasy-7-game"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/final-fantasy-7-revelation_KbS77yQ.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-10T17:08:35.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1f2f549a40a8",
-    "slug": "final-fantasy-7-revelations-physical-disc-still-requires-a-download-be",
-    "headline": " Final Fantasy 7 Revelation's physical disc still requires a download because Square Enix \"didn't want to make any compromises\" ",
-    "summary": "\"We would have to make a compromise in terms of the fidelity and the quality of the game\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelations-physical-disc-still-requires-a-download-because-square-enix-didnt-want-to-make-any-compromises/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/93Xr93P45nCrzJVkRRDCfK-1280-80.jpg",
-    "published_at": "2026-09-10T17:01:30.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "15dcaf87169d",
-    "slug": "every-game-amazon-prime-subscribers-can-get-for-free-in-september-2026",
-    "headline": "Every Game Amazon Prime Subscribers Can Get For Free In September 2026",
-    "summary": "Amazon Prime subscribers can claim Doom Eternal, High On Life, and nine other games for free throughout September.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/amazon-prime-free-games-september-doom-eternal-high-on-life/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/new-project-2026-09-10t144141-773.jpg",
-    "published_at": "2026-09-10T17:01:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f52ff1cdc54c",
-    "slug": "how-to-craft-liquid-frost-in-valheim-deep-north-endgame-gear-crafting",
-    "headline": "How to Craft Liquid Frost in Valheim Deep North (Endgame Gear Crafting)",
-    "summary": "The grind for endgame gear in Valheim is a long one, and you'll need plenty of Liquid Frost along the way to fuel your foundries.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/valheim-how-get-make-use-farm-liquid-frost-ice/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/206b8b-1.JPG",
-    "published_at": "2026-09-10T17:01:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b74fc53d1ca7",
-    "slug": "9210-open-world-co-op-game-officially-coming-to-ps5",
-    "headline": "9.2/10 Open World Co-Op Game Officially Coming to PS5",
-    "summary": "PlayStation 5 gamers needing something new to play should note that an open world co-op game is releasing in the very near future.",
-    "category": "reviews",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/ps5-open-world-co-op-games-runescape-dragonwilds/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/runescape-dragonwilds-ps5-release-date.jpg",
-    "published_at": "2026-09-10T17:01:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "68df2fbc9425",
-    "slug": "amazon-luna-introduces-its-most-ambitious-feature-yet-in-a-rough-month",
-    "headline": "Amazon Luna Introduces Its Most Ambitious Feature Yet In A Rough Month For Cloud Gaming",
-    "summary": "As part of its September update, Amazon Luna introduced a Remote Play feature that lets people play games together, even if they aren't in the same room. If you haven't heard of it, Luna is Amazon's cloud gaming service for Prime subscribers that lets them access and play a catalog of games without the need for a console or PC.…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/amazon-luna-introduces-its-most-ambitious-feature-yet-in-a-rough-month-for-cloud-gaming/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Amazon-Luna-games.png?w=300",
-    "published_at": "2026-09-10T17:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c2ce6a38e528",
-    "slug": "themes-explored-through-horror-in-brokenlore-dont-lie",
-    "headline": "Themes Explored Through Horror in BrokenLore: Don’t Lie",
-    "summary": "Hello all at XBOX! My name is Sebastiano Serafini, and I’m the CEO and Founder of Serafini Productions – the team behind the BrokenLore universe. Today, we are very excited to announce the release of the latest addition to the BrokenLore series, BrokenLore: Don’t Lie. As well as being a standalone title, Don’t Lie is […] The post Themes Explored…",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/09/10/themes-explored-through-horror-in-brokenlore-dont-lie/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/c2ce6a38e528/800/600",
-    "published_at": "2026-09-10T17:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "fa3a4f205f77",
-    "slug": "josh-holloway-stars-in-live-action-ace-combat-8-prequel-series-hour-ze",
-    "headline": "Josh Holloway Stars in Live Action Ace Combat 8 Prequel Series, 'Hour Zero'",
-    "summary": "Lost in the clouds. Bandai Namco really is going all-out for Ace Combat 8: Wings of Theve. Not only is the title itself stepping things up with big jumps in visuals and the largest multiplayer component the series has ever seen, but the publisher is splashing the cash on things like this: a live action mini-series that acts as a…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/josh-holloway-stars-in-live-action-ace-combat-8-prequel-series-hour-zero"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/d44aae6f467e9/large.jpg",
-    "published_at": "2026-09-10T17:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "52687b489b4c",
-    "slug": "review-mewgenics-switch-2-tactics-bliss-wrapped-in-a-hilarious-must-pl",
-    "headline": "Review: Mewgenics (Switch 2) – Tactics Bliss Wrapped In A Hilarious, Must-Play Package",
-    "summary": "The perfect place to spend my life with fleas and parasites. The Binding of Isaac is perhaps the greatest roguelike ever made, or at the very least, I wouldn't argue with anyone who felt that way. So when developer and indie-game legend Edmund McMillen said that it was merely a basic roguelike to get his feet into the water before…",
-    "category": "reviews",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/mewgenics"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/d211a88bf5568/large.jpg",
-    "published_at": "2026-09-10T17:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2455af6e3796",
-    "slug": "pokemon-cards-to-be-global-currency-in-apocalypse-says-venture-capital",
-    "headline": "Pokémon Cards to Be Global Currency in Apocalypse, Says Venture Capitalist",
-    "summary": "A venture capitalist predicts Pokémon cards will become the standard currency after a global apocalypse, citing their rarity and collectibility.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/if-the-world-suffered-an-apocalypse-tomorrow-the-global-currency-would-be-pokemon-cards-collector-and-venture-capitalist-claims"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/10/gettyimages-2265564151-1789059057599.jpg",
-    "published_at": "2026-09-10T16:59:40.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3ceab9448baa",
-    "slug": "wardogs-hits-a-million-copies-sold-as-soon-as-it-goes-into-early-acces",
-    "headline": "Wardogs hits a million copies sold as soon as it goes into early access",
-    "summary": "Bulkhead and Team17 today announced that Wardogs has surpassed one million copies sold, as the 100-player tactical FPS launches into Steam early access today. The milestone...\nThe post Wardogs hits a million copies sold as soon as it goes into early access appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/wardogs-hits-a-million-copies-sold-as-soon-as-it-goes-into-early-access/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/3ceab9448baa/800/600",
-    "published_at": "2026-09-10T16:35:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "28151c4d5ef7",
-    "slug": "marvels-wolverine-is-currently-sonys-lowest-scoring-game-of-the-ps5-er",
-    "headline": "Marvel’s Wolverine Is Currently Sony’s Lowest Scoring Game Of The PS5 Era",
-    "summary": "With a Metacritic score of just 77, the in-house game is scoring worse than Sackboy: A Big Adventure",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/marvels-wolverine-reviews-ps5-playstation-sony-insomniac-metascore-2000733246"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/wolverine-reviews-1280x720.jpg",
-    "published_at": "2026-09-10T16:30:40.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "132db6aba82d",
-    "slug": "metroid-dread-studio-mercurysteam-appears-to-confirm-its-making-metroi",
-    "headline": "Metroid Dread studio MercurySteam appears to confirm it's making Metroid Ravenous, addressing a lingering question from yesterday's Nintendo Direct",
-    "summary": "Spanish studio MercurySteam - the developer of Metroid Dread - seems to be the studio behind yesterday's Nintendo Direct showcase stopper, Metroid Ravenous.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/metroid-ravenous-mercury-steam-developer"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/metroid-ravenous_cipaD5y.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-10T16:27:10.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "17dcc4294192",
-    "slug": "wardogs-is-coming-to-xbox-and-ps5-but-it-will-be-a-while",
-    "headline": "Wardogs Is Coming to Xbox and PS5, but It Will Be a While",
-    "summary": "Wardogs, a new all-out warfare FPS game that has been blowing up on Steam, is officially coming to consoles... but it will be a while.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/wardogs-is-coming-to-xbox-and-ps5-but-it-will-be-a-while"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/10/wardogsthumb-1789046591629.png",
-    "published_at": "2026-09-10T16:23:27.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f5c4fdb07053",
-    "slug": "ubisoft-games-on-steam-may-soon-no-longer-require-the-pesky-connect-la",
-    "headline": "Ubisoft games on Steam may soon no longer require the pesky Connect launcher, according to an announcement post that's weirdly tough to pin down",
-    "summary": "Ubisoft are planning to start testing a new tool that'll allow Prince of Persia The Lost Crown Steam players to access features only usually available via the publishers' Connect launcher without actually having to have said launcher installed. That's according to a Steam announcement post which only appears to be visible to folks who already own a copy of The…",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/ubisoft-games-on-steam-may-soon-no-longer-require-the-pesky-connect-launcher-according-to-an-announcement-post-thats-weirdly-tough-to-pin-down"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/ubisoft-connect-launcher-requirement-change-tool-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-10T16:17:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "65fbf026016d",
-    "slug": "no-more-robots-nine-year-journey-to-releasing-its-first-self-developed",
-    "headline": "No More Robots' nine-year journey to releasing its first self-developed IP – \"This sounds so naive and stupid, but somehow it's working\"",
-    "summary": "It's been nine years since Mike Rose set up the indie publisher No More Robots.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/no-more-robots-nine-year-journey-to-releasing-its-first-self-developed-ip-this-sounds-so-naive-and-stupid-but-somehow-its-working"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/No_More_Robots_logo-cropped.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-10T16:15:33.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5376d74de6d7",
-    "slug": "we-want-to-invite-people-into-this-big-tent-with-this-grimdark-setting",
-    "headline": "\"We want to invite people into this big tent with this grimdark setting\": Creative Assembly on how they plan to ease strategy newbies into Total War: Warhammer 40,000",
-    "summary": "I remember once when I was a child, my uncle was visiting and completely unprompted (and kindly) he gave me a copy of one of the Total War games, I think the Rome one, you'll have to forgive my memory. I'd literally never played a strategy game in my life, but I gave it a go anyway, and quickly found…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/we-want-to-invite-people-into-this-big-tent-with-this-grimdark-setting-creative-assembly-on-how-they-plan-to-ease-strategy-newbies-into-total-war-warhammer-40000"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/total-war-warhammer-40000-accessible.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-10T16:10:56.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cb58d1e2027e",
-    "slug": "do-gaming-chairs-need-fans-in-them-absolutely-not-but-thats-just-about",
-    "headline": " Do gaming chairs need fans in them? Absolutely not, but that's just about the only thing that could make the LiberNovo Omni more \"Pro\" ",
-    "summary": "Subtle improvements and a novel fan system make the LiberNovo Omni Pro somehow even better than its original model. It's pricey, but it's the best place to sit.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/chairs/libernovo-omni-pro-review/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/6tqkuEw4p7wLC3wzxRGwpX-1280-80.jpg",
-    "published_at": "2026-09-10T16:05:47.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f9ff221dc078",
-    "slug": "marvels-wolverine-metacritic-shows-the-worst-reviewed-insomniac-game-i",
-    "headline": " Marvel's Wolverine Metacritic shows the worst-reviewed Insomniac game in years, and not the smash hit Sony needed for the dire PS5 exclusive lineup ",
-    "summary": "The scores are exactly whelming, bub",
-    "category": "reviews",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/action/marvels-wolverine-metacritic-shows-the-worst-reviewed-insomniac-game-in-years-and-not-the-smash-hit-sony-needed-for-the-dire-ps5-exclusive-lineup/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/UMfTDwtpxQEWo5DTBbqcmB-1280-80.jpg",
-    "published_at": "2026-09-10T16:02:19.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7bd87f86991e",
-    "slug": "stupid-never-dies",
-    "headline": "Stupid Never Dies",
-    "summary": "Capcom's punk-rock action RPG impressed at Gamescom 2026 with its stylish visuals and engaging combat, suggesting it has substance to match its flair.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/action-rpg/capcom-vets-flashy-action-rpg-stupid-never-dies-is-one-of-the-coolest-looking-games-since-persona-3-reload-with-combat-that-left-me-hungry-for-more/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/sEbSguPKZy9ZWGsyawy35f-1280-80.jpg",
-    "published_at": "2026-09-10T16:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "stupid-never-dies",
-    "game_label": "Stupid Never Dies"
-  },
-  {
-    "id": "561d0dd88de8",
-    "slug": "roundup-heres-what-the-previews-are-saying-about-final-fantasy-vii-rev",
-    "headline": "Roundup: Here's What The Previews Are Saying About Final Fantasy VII Revelation",
-    "summary": "\"Final Fantasy 7 Revelation will be even more of a time-sucker\". We've got the early word on Final Fantasy VII Revelation, with several outlets saying pretty much the same thing: that it's massive! Previews started flooding in today for the upcoming JRPG that'll serve as the climactic conclusion to the Final Fantasy VII remake trilogy. The general vibe is indeed,…",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/roundup-heres-what-the-previews-are-saying-about-final-fantasy-vii-revelation"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/32dab3235092a/large.jpg",
-    "published_at": "2026-09-10T16:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c1f4be00eb33",
-    "slug": "orbital-will-use-reflex-aerospace-as-satellite-platform-partner-for-da",
-    "headline": "Orbital will use Reflex Aerospace as satellite platform partner for data center in space",
-    "summary": "Orbital has picked Reflex Aerospace of Germany as its satellite platform partner for its planned space data center constellation. Orbital has selected Reflex Aerospace,...\nThe post Orbital will use Reflex Aerospace as satellite platform partner for data center in space appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/orbital-will-use-reflex-aerospace-as-satellite-platform-partner-for-data-center-in-space/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/c1f4be00eb33/800/600",
-    "published_at": "2026-09-10T16:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "58321875bd91",
-    "slug": "the-witcher-3s-songs-of-the-past-expansion-wouldnt-be-possible-without",
-    "headline": " The Witcher 3's Songs of the Past expansion wouldn't be \"possible\" without the RPG's remaster, says CD Projekt Red: \"The stars had to align\" ",
-    "summary": "\"There are a few things that had to click together\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3s-songs-of-the-past-expansion-wouldnt-be-possible-without-the-rpgs-remaster-says-cd-projekt-red-the-stars-had-to-align/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/7wcYEHMHBwrBwHMGzDnXGM-1280-80.jpg",
-    "published_at": "2026-09-10T15:55:56.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "894c40cbf7da",
-    "slug": "fables-combat-is-faithful-to-the-classic-franchise-playground-games-le",
-    "headline": " Fable's combat is \"faithful to the classic franchise,\" Playground Games lead says, but still modern: \"We're making a game for gaming today\" ",
-    "summary": "It's going to honor the previous RPGs in the series",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/rpg/fables-combat-is-faithful-to-the-classic-franchise-playground-games-lead-says-but-still-modern-were-making-a-game-for-gaming-today/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/R2UMiWAN9Bi8eXjkMFBRM7-1280-80.jpg",
-    "published_at": "2026-09-10T15:48:10.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b16bf40e9f27",
-    "slug": "crash-bandicoot-turns-30-this-week-heres-everything-you-need-to-party",
-    "headline": " Crash Bandicoot turns 30 this week, here's everything you need to party like it's 1996 ",
-    "summary": "Crash Bandicoot's 30th birthday is upon us, here's how to play all four mainline games in style.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/crash-bandicoot/crash-bandicoot-turns-30-this-week-heres-everything-you-need-to-party-like-its-1996/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/fjqXqsV7WpPWyeT9s9NGSi-1280-80.jpg",
-    "published_at": "2026-09-10T15:38:05.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,

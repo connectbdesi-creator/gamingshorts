@@ -10313,5 +10313,50 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-11T15:55:40.310Z"
+  },
+  {
+    "slug": "dragon-age-origins",
+    "name": "Dragon Age: Origins",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/dc0/dc0926d3f84ffbcc00968fe8a6f0aed3.jpg",
+    "released": "2009-11-03",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "macOS",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f92/f92cf56d384d56e18470eda48422d896.jpg",
+      "https://media.rawg.io/media/screenshots/f92/f92a1b20875b76162c1fc7d35d4f9bc6.jpg",
+      "https://media.rawg.io/media/screenshots/767/7675e3306961b5409702507551a268cc.jpg",
+      "https://media.rawg.io/media/screenshots/887/8873e3286a5b435a2dd7e7bf068f57ff.jpg",
+      "https://media.rawg.io/media/screenshots/0f0/0f0c2ae5781f67b59fd0e0699ca87eb9.jpg",
+      "https://media.rawg.io/media/screenshots/c32/c329a2c90f2e345697810c1cb064280a.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-11T17:52:41.071Z"
+  },
+  {
+    "slug": "ea",
+    "name": "EA Play Hub",
+    "description": null,
+    "background_image": null,
+    "released": "2019-07-24",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "PlayStation 4"
+    ],
+    "screenshots": [],
+    "stores": [],
+    "fetched_at": "2026-09-11T17:52:44.693Z"
   }
 ]
