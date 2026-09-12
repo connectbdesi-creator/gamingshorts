@@ -1,5 +1,47 @@
 [
   {
+    "id": "43f2d474b6c9",
+    "slug": "diablo-5-gameplay-details-from-blizzcon-more-classes-than-ever-before",
+    "headline": " Diablo 5 gameplay details from BlizzCon: More classes than ever before, procedurally-generated dungeons, and Diablo 2-style loot ",
+    "summary": "Blizzard has offered up a surprising amount of detail about the action RPG sequel, which won't be out until 2029.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rpg/diablo-5-gameplay-details-from-blizzcon-more-classes-than-ever-before-procedurally-generated-dungeons-and-diablo-2-style-loot/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/NEqkGv8TYACM556KFX3fMA-1280-80.png",
+    "published_at": "2026-09-12T23:07:01.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "08b4b8aa7a56",
+    "slug": "open-world-rpgs-that-were-perfect-from-day-one",
+    "headline": "Open-World RPGs That Were Perfect From Day One",
+    "summary": "Every new open-world RPG seems to launch in an unpolished state, but these games were perfect right from the start.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/open-world-rpgs-perfect-games-day-one/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/open-world-perfect-day-one-elden-ring-looking-over-lands-between.jpg",
+    "published_at": "2026-09-12T22:53:12.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "1de1a4f65dc9",
     "slug": "loveless-plague-star-build-borderlands-4",
     "headline": "Loveless Plague Star Build - Borderlands 4",
@@ -4691,51 +4733,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "aa24adda035d",
-    "slug": "new-fps-wardogs-makes-steam-explode-with-340000-peak-players-then-expl",
-    "headline": "New FPS Wardogs Makes Steam Explode with 340,000 Peak Players, Then Explodes on Steam After Servers Break and Negative Reviews Roll In",
-    "summary": "First-person shooter Wardogs attracted a large player base on Steam, but its popularity was short-lived after the servers broke and negative reviews flooded in.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/fps/new-fps-wardogs-makes-steam-explode-with-340-000-peak-players-then-explodes-on-steam-after-the-servers-break-and-negative-reviews-roll-in/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/wTUMRtmV4K6K22oDvuehKd-1280-80.jpg",
-    "published_at": "2026-09-11T16:31:35.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "wardogs",
-    "game_label": "Wardogs"
-  },
-  {
-    "id": "4991e61aed5a",
-    "slug": "fan-project-to-decompile-dragon-age-origins-source-code-might-be-the-c",
-    "headline": "Fan Project To Decompile Dragon Age: Origins' Source Code Might Be The Closest We Ever Get To A Remaster",
-    "summary": "A fan-made project aims to decompile the source code of Dragon Age: Origins, allowing modders to make improvements, and may be the closest thing to a remaster for the game.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/dragon-age-origins-source-code-decompile-project-2000733509"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2024/07/30a04aa77054f1d4797f1bdea477a87e.jpg",
-    "published_at": "2026-09-11T16:30:13.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "dragon-age-origins",
-    "game_label": "Dragon Age: Origins"
   }
 ]
