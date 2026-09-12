@@ -10557,5 +10557,33 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-11T23:51:58.070Z"
+  },
+  {
+    "slug": "fallout",
+    "name": "Fallout",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/14a/14a83c56ff668baaced6e8c8704b6391.jpg",
+    "released": "1997-09-30",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Linux",
+      "Classic Macintosh"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/fd5/fd547ecaf4ce93b6b92b7e3d6d45003c.jpg",
+      "https://media.rawg.io/media/screenshots/730/730734e8a25cbd4e61ba7e1491edd98b.jpg",
+      "https://media.rawg.io/media/screenshots/39e/39ea98f90b3eec8ef95d47c821dea1f0.jpg",
+      "https://media.rawg.io/media/screenshots/23f/23ffe371d0207e84938eb0c9e9943cb5.jpg",
+      "https://media.rawg.io/media/screenshots/fb4/fb4d219d7b3debb818e2b2720eb40a6f.jpg",
+      "https://media.rawg.io/media/screenshots/180/180adcc8a7f742978ecde0bb4b6c32dd.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-12T01:51:24.232Z"
   }
 ]
