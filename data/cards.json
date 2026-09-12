@@ -1,5 +1,447 @@
 [
   {
+    "id": "86fda8e1020a",
+    "slug": "bulkheads-wardogs-surpasses-a-million-copies-sold",
+    "headline": "Bulkhead's Wardogs Surpasses a Million Copies Sold",
+    "summary": "New tactical shooter Wardogs from Bulkhead has exceeded one million sales, with 350,000 concurrent players on its launch day on Steam early access.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/wardogs-million-copies-sold-steam-early-access"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Wardogs-screenshot-(1).jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-12T15:43:49.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "wardogs",
+    "game_label": "Wardogs"
+  },
+  {
+    "id": "d1268f0acec3",
+    "slug": "xbox-game-pass-is-losing-multiple-1010-masterpieces-on-september-15",
+    "headline": "Xbox Game Pass is Losing Multiple 10/10 Masterpieces on September 15",
+    "summary": "Xbox Game Pass subscribers will lose access to multiple highly-rated games on September 15, highlighting the service's business model and its impact on game accessibility.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/xbox-game-pass-games-leaving-soon-cyberpunk-spiritfarer-dead-cells/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/xbox-game-pass-game-leaving-soon.jpg",
+    "published_at": "2026-09-12T15:30:12.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d288eb51dcdc",
+    "slug": "blizzard-unveils-future-plans-for-starcraft-diablo-and-world-of-warcra",
+    "headline": "Blizzard Unveils Future Plans for StarCraft, Diablo, and World of Warcraft at BlizzCon 2026",
+    "summary": "GamesRadar+ provides live coverage of Blizzard's 2026 BlizzCon opening ceremony, revealing upcoming developments for StarCraft, Diablo, Overwatch, and World of Warcraft.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/news/live/blizzcon-2026-everything-announced/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/bqSr4k5YXwYnRHhAXyeRdN-1280-80.jpg",
+    "published_at": "2026-09-12T15:28:18.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "blizzard",
+    "game_label": "Blizzard"
+  },
+  {
+    "id": "5e5fd4c1aa41",
+    "slug": "final-fantasy-14-bug-fix",
+    "headline": "Final Fantasy 14 Bug Fix",
+    "summary": "Square Enix is working to resolve a server-crashing issue in Final Fantasy 14, where a new beastmaster job could cause problems.",
+    "category": "patches",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/mmo/square-enix-scrambles-to-fix-final-fantasy-14-bug-where-new-beastmaster-could-crash-entire-servers/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/vcsDRSBAnGgs7QgC6cWuHK-1280-80.jpg",
+    "published_at": "2026-09-12T15:23:03.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-14",
+    "game_label": "Final Fantasy 14"
+  },
+  {
+    "id": "f46dbc688368",
+    "slug": "gta-london-1961-is-full-of-cockney-innuendo-and-harder-than-a-bobbys-h",
+    "headline": "GTA: London 1961 is full of cockney innuendo and harder than a bobby's helmet",
+    "summary": "Rockstar Games has revealed the latest entry in the Grand Theft Auto series, set in 1960s London, with a unique blend of cockney slang and challenging gameplay.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-london-1961-is-full-of-cockney-innuendo-and-harder-than-a-bobbys-helmet/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/rR3qEH6624CJFRbBBji4uX-1280-80.jpg",
+    "published_at": "2026-09-12T15:20:27.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-london-1961",
+    "game_label": "GTA: London 1961"
+  },
+  {
+    "id": "867e0150e0cd",
+    "slug": "final-fantasy-14s-new-roguelike-mode-has-the-author-hyped-for-evercold",
+    "headline": "Final Fantasy 14's New Roguelike Mode Has the Author Hyped for Evercold's Combat Revamp",
+    "summary": "Final Fantasy 14 is introducing a new roguelike mode that has generated excitement among players, particularly for its potential impact on the game's upcoming combat revamp, Evercold.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/mmo/final-fantasy-14s-funky-new-roguelike-mode-has-me-hyped-for-evercolds-combat-revamp-whichll-be-a-winner-if-its-even-half-as-weird/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/UJFsB4QP99i275JiPkYkoV-1280-80.png",
+    "published_at": "2026-09-12T15:20:20.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-14",
+    "game_label": "Final Fantasy 14"
+  },
+  {
+    "id": "d32265020435",
+    "slug": "scalpers-are-already-reselling-the-sold-out-zelda-40th-anniversary-swi",
+    "headline": "Scalpers are already reselling the sold-out Zelda 40th Anniversary Switch 2 for £700+",
+    "summary": "Nintendo's new Legend of Zelda 40th anniversary Switch 2 sold out within hours of preorders opening, and scalpers are already scalping, with dozens of orders popping up on eBay for close to double its retail price.\n Read more",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/zelda-40th-anniversary-switch-2-scalpers-ebay-resale"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-09-12-at-16.09.04.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-12T15:14:54.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "caf347413384",
+    "slug": "wardogs-surpasses-peak-player-count",
+    "headline": "Wardogs Surpasses Peak Player Count",
+    "summary": "Wardogs, a game developed by Team17 and Bulkhead, has reached a significant milestone by surpassing its peak player count, becoming one of Steam's top five most played games this weekend.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/wardogs-top-5-most-played-steam-games/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/wardogs-player-dragging-a-downed-player-away-from-an-incoming-tank.jpg",
+    "published_at": "2026-09-12T15:07:21.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "wardogs",
+    "game_label": "Wardogs"
+  },
+  {
+    "id": "c90f5fcc2c27",
+    "slug": "marathon-and-bungie-get-encouraging-update",
+    "headline": "Marathon and Bungie Get Encouraging Update",
+    "summary": "Bungie has received positive news about its future plans, which include a partnership with Marathon, a classic game series. The update suggests a promising direction for the company's next projects.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/marathon-bungie-not-shutting-down/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/marathon-bungie-not-shutting-down.jpg",
+    "published_at": "2026-09-12T15:02:34.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7ae137ede180",
+    "slug": "guns-of-eschaton",
+    "headline": "Guns of Eschaton",
+    "summary": "A new FPS game is coming that combines Soulslike gameplay with an apocalyptic setting, where enemies have unique weaknesses.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/guns-of-eschaton-preview-gamescom-2026/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/guns-of-eschaton-gamescom-preview-10-1.jpg",
+    "published_at": "2026-09-12T15:01:13.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "guns-of-eschaton",
+    "game_label": "Guns of Eschaton"
+  },
+  {
+    "id": "3222260ff3a2",
+    "slug": "how-to-make-money-fast-in-wardogs",
+    "headline": "How to Make Money Fast in WARDOGS",
+    "summary": "WARDOGS offers four money-making methods to gain an edge in the game, but is it a viable way to make money fast?",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/wardogs-how-best-ways-make-money-early-fast/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/best-way-to-make-money-early-in-wardogs.jpg",
+    "published_at": "2026-09-12T15:00:12.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "wardogs",
+    "game_label": "WARDOGS"
+  },
+  {
+    "id": "6c19ab584841",
+    "slug": "will-zach-creggers-resident-evil-break-the-movie-curse",
+    "headline": "Will Zach Cregger's Resident Evil Break the Movie Curse?",
+    "summary": "With the upcoming Resident Evil movie by Zach Cregger, fans have received it with mixed reactions, in big part due to the history of sub-par film adaptations of the 30 year long franchise. Though for a variety of reasons, including creating an original story that captures the essence of the games within the Resident Evil universe, his passion and understanding…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/video/will-zach-creggers-resident-evil-break-the-movie-curse/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/resident-evil-move-review-site.jpg",
+    "published_at": "2026-09-12T15:00:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "29a3dafa4a8e",
+    "slug": "poll-which-xbox-startup-animation-will-you-pick-in-the-new-console-upd",
+    "headline": "Poll: Which Xbox Startup Animation Will You Pick In The New Console Update?",
+    "summary": "Xbox Insiders can soon vote on a new console update's startup animations, with options from different eras of Xbox consoles.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/features/poll-which-xbox-startup-animation-will-you-pick-in-the-new-console-update"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/7fcd6713a86f0/large.jpg",
+    "published_at": "2026-09-12T15:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b5f89cdefacb",
+    "slug": "the-blood-of-dawnwalker-is-a-good-game-but-one-change-would-make-it-a",
+    "headline": " The Blood of Dawnwalker is a good game, but one change would make it a great RPG ",
+    "summary": "The prologue promises something the game never quite delivers.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-is-a-good-game-but-one-change-would-make-it-a-great-rpg/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/G8WiCtMgwLbLwvNTW2CHVn-1280-80.jpg",
+    "published_at": "2026-09-12T15:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "83c5a16cfc1f",
+    "slug": "blizzards-first-fan-convention-what-to-expect",
+    "headline": "Blizzard's First Fan Convention: What to Expect",
+    "summary": "Blizzard is set to reveal major updates for Warcraft, Overwatch, Diablo, and StarCraft at its first fan convention since 2023.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/news/live/blizzcon-2026-opening-ceremony-live-coverage-whats-next-for-warcraft-overwatch-diablo-and-starcraft/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/q8f5FytodczmNqb4LUna7V-1280-80.jpg",
+    "published_at": "2026-09-12T14:37:21.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "blizzards-first-fan-convention",
+    "game_label": "Blizzard's First Fan Convention"
+  },
+  {
+    "id": "57485ca241b3",
+    "slug": "cd-projekt-reds-10-year-quest-for-the-hook-weapon-fulfilled",
+    "headline": "CD Projekt Red's 10-Year Quest for the Hook Weapon Fulfilled",
+    "summary": "CD Projekt Red has finally developed the hook weapon for The Witcher 3, a project that spanned 10 years",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/the-witcher-3-songs-of-the-past-hook-impossible-10-years-ago/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/geralt-grappling-an-enemy-in-the-witcher-3-1.jpg",
+    "published_at": "2026-09-12T14:10:24.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
+    "id": "47d7e9a43bd8",
+    "slug": "dragon-quest-monsters-the-withered-world-preview",
+    "headline": "Dragon Quest Monsters: The Withered World Preview",
+    "summary": "Square Enix's latest installment in the Dragon Quest Monsters series is promising a charming and wholesome experience, with a focus on monster collecting and exploration.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/dragon-quest-monsters-the-withered-world-has-500-beasts-to-collect-and-theyre-all-super-weird-ign-preview"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/12/dqm-tww-broll-synthesis-combat-04-0-14-07-51-1789173232367.png",
+    "published_at": "2026-09-12T14:07:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dragon-quest-monsters-the-withered-world",
+    "game_label": "Dragon Quest Monsters: The Withered World"
+  },
+  {
+    "id": "8163ea067c66",
+    "slug": "killing-the-blood-of-dawnwalkers-hardest-boss-early-unlocked-devastati",
+    "headline": "Killing The Blood of Dawnwalker's Hardest Boss Early Unlocked Devastating Ability",
+    "summary": "A speedrunner discovered a way to defeat Dawnwalker's toughest boss early, granting them access to a powerful ability that carried them through the entire RPG.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/rpg/killing-the-blood-of-dawnwalkers-hardest-boss-extremely-early-gave-me-a-devastating-ability-that-carried-me-through-the-whole-rpg/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/cMaAZ8TQB8E2P2XYjsEYZL-1280-80.jpg",
+    "published_at": "2026-09-12T14:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-blood-of-dawnwalker",
+    "game_label": "The Blood of Dawnwalker"
+  },
+  {
     "id": "afb6fc228b44",
     "slug": "marvels-wolverine-developer-officially-clarifies-controversial-feature",
     "headline": "Marvel's Wolverine Developer Officially Clarifies Controversial Feature",
@@ -113,6 +555,29 @@
     "game_label": null
   },
   {
+    "id": "9734a29e6e48",
+    "slug": "god-save-birmingham-preview",
+    "headline": "God Save Birmingham Preview",
+    "summary": "Developer Ocean Drive Studios offers a solid concept for a medieval zombie apocalypse game, with improved tone and investment in its survival story after early playtests",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/god-save-birmingham-new-preview-this-medieval-zombie-apocalypse-is-steadily-finding-its-vision"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/12/gsb-cbt2026-combat-scythe-1789172472217.jpg",
+    "published_at": "2026-09-12T13:11:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "god-save-birmingham",
+    "game_label": "God Save Birmingham"
+  },
+  {
     "id": "19f6b0e025aa",
     "slug": "ace-combat-8s-developers-are-on-a-mission-to-create-the-perfect-clouds",
     "headline": "Ace Combat 8’s Developers Are on a Mission To Create the Perfect Clouds",
@@ -132,6 +597,29 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "8eaf2a23535b",
+    "slug": "zeverland-game-designer-discusses-its-unique-take-on-the-zombie-apocal",
+    "headline": "Zeverland Game Designer Discusses Its Unique Take on the Zombie Apocalypse",
+    "summary": "Game designer for Zeverland shares thoughts on the game's approach to the zombie apocalypse genre",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/zeverland-game-designer-discusses-its-unique-take-on-the-zombie-apocalypse"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/11/key-art-1789158297255.png",
+    "published_at": "2026-09-12T13:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "zeverland",
+    "game_label": "Zeverland"
   },
   {
     "id": "e7a3d94aabd2",
@@ -4171,473 +4659,5 @@
     "comment_count": 0,
     "game": "tarae-the-unbound",
     "game_label": "Tarae: The Unbound"
-  },
-  {
-    "id": "beee51d2472d",
-    "slug": "razers-new-blackshark-v3-pro-headset-brings-pro-level-performance-to-e",
-    "headline": "Razer's New BlackShark V3 Pro Headset Brings Pro-Level Performance To Every Player",
-    "summary": "The BlackShark V3 Pro headset is incredible for gaming, but it doesn't just stop there. This headset meets all my media listening needs.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/razer-blackshark-v3-pro-headset-gaming-audio-accessory-review/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/2-1.jpg",
-    "published_at": "2026-09-11T13:00:15.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "65edb2853470",
-    "slug": "ladder-lad-first-15-minutes-of-gameplay",
-    "headline": "Ladder Lad – first 15 minutes of gameplay",
-    "summary": "Publisher and developer BUCK Games, and developer Antfood have released the first 15 minutes of …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/ladder-lad-first-15-minutes-of-gameplay"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/65edb2853470/800/600",
-    "published_at": "2026-09-11T13:00:03.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c3a9c7a83617",
-    "slug": "japan-autism-association-raises-concerns-over-anime-featuring-mii-chan",
-    "headline": "Japan Autism Association Raises Concerns Over Anime Featuring Mii-Chan and Miss Yamada",
-    "summary": "The Japan Autism Association has expressed concerns over an anime series featuring Mii-Chan and Miss Yamada, citing potential harm to vulnerable individuals.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/japan-autism-association-raises-ethical-concerns-over-mii-chan-and-miss-yamada-anime-for-turning-vulnerable-people-into-entertainment/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/c3a9c7a83617/800/600",
-    "published_at": "2026-09-11T13:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9d60a20447e4",
-    "slug": "guide-last-chance-to-grab-these-78-switch-1-2-eshop-games-in-nintendos",
-    "headline": "Guide: Last Chance To Grab These 78 Switch 1 & 2 eShop Games In Nintendo's Blockbuster Sale (UK)",
-    "summary": "More discounted bangers. Just a reminder that Europe's eShop sales wrap up this weekend, so there's still time to fire up your Switch (2) and take a look at the wishlist if there's something you had your eye on. Carry on! Well folks, Nintendo has already kickstarted its Blockbuster eShop sale in the US, now it's doing the same in…",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/guides/last-chance-to-grab-these-78-switch-1-and-2-eshop-games-in-nintendos-blockbuster-sale-uk"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/2402639ad7b38/large.jpg",
-    "published_at": "2026-09-11T12:45:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a5bfed06fcc6",
-    "slug": "saber-interactives-tim-willits-on-generative-ai-moving-development-out",
-    "headline": "Saber Interactive's Tim Willits on generative AI, moving development out of North America, and embracing recognisable IP",
-    "summary": "Saber Interactive has achieved a lot in the past few years, but the most noticeable recent news to come out of the the company was CEO Matthew Karch's unfiltered response to accusations that a writer had been replaced with ChatGPT. When we sit down at Gamescom for the second of two conversations with Saber Interactive's chief creative officer Tim Willits,…",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/saber-interactives-tim-willits-on-generative-ai-moving-development-out-of-north-america-and-embracing-recognisable-ip"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Tim-Willits-16-9.jpeg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-11T12:40:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "535384962c7a",
-    "slug": "gta-6-online-mode-appears-to-receive-rockstars-first-public-acknowledg",
-    "headline": "GTA 6 online mode appears to receive Rockstar's first public acknowledgment, via mention of in-development \"32 player format\" in legal docs",
-    "summary": "Up until now, Rockstar Games have kept mum about what plans they have for the future of Grand Theft Auto multiplayer once GTA 6 releases on consoles in November. Thanks to filings submitted by the studio as part of the final hearing in a legal battle over the firings of 34 developers last year, that silence appears to have been…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/gta-6-online-mode-appears-to-receive-rockstars-first-public-acknowledgment-via-mention-of-in-development-32-player-format-in-legal-docs"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/gta-6-online-apparent-court-docs-first-mention-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-11T12:34:17.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "fd66440aef87",
-    "slug": "hot-toys-reveal-official-marvels-wolverine-figure",
-    "headline": "Hot Toys Reveal Official Marvel's Wolverine Figure",
-    "summary": "Hot Toys has released a detailed sixth-scale figure of Marvel's Wolverine, featuring the character's iconic 'Battle Reborn' battlesuit. The figure is pricey but comes with numerous extras.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/hot-toys-marvels-wolverine-figure-gets-the-details-right-right-down-to-the-hairy-silicone-arms/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Wolverine-main.jpg?w=300",
-    "published_at": "2026-09-11T12:30:49.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "marvels-wolverine",
-    "game_label": "Marvel's Wolverine"
-  },
-  {
-    "id": "01ca4085ac0b",
-    "slug": "footage-of-playstations-fairgames-allegedly-leaks-via-playtest",
-    "headline": "Footage of PlayStation's Fairgames allegedly leaks via playtest",
-    "summary": "PlayStation's upcoming game, Fairgames, may have been shown to the public through leaked playtest footage, sparking interest among gamers.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/footage-of-playstations-fairgames-allegedly-leaks-via-playtest/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/01ca4085ac0b/800/600",
-    "published_at": "2026-09-11T12:11:02.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "fairgames",
-    "game_label": "Fairgames"
-  },
-  {
-    "id": "3f5ea45fca9b",
-    "slug": "how-warhammer-40000-space-marine-3-will-benefit-from-tech-improvements",
-    "headline": "How Warhammer 40,000: Space Marine 3 Will Benefit From Tech Improvements Made for John Carpenter's Toxic Commando",
-    "summary": "John Carpenter's Toxic Commando’s launch came in below publisher Focus Entertainment’s expectations, but for Saber Interactive it was successful in commercial terms — and according to development chief Tim Willits, the tech work done for it will go on to benefit the upcoming Warhammer 40,000: Space Marine 3.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/how-warhammer-40000-space-marine-3-will-benefit-from-tech-improvements-made-for-john-carpenters-toxic-commando"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/11/ss-712fe9d84a853d1d2fc1faee8cd8efb36e2278d0-1920x1080-1789127790740.jpg",
-    "published_at": "2026-09-11T12:01:01.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "16f53d417fe1",
-    "slug": "samson-is-getting-a-big-update-alongside-its-september-release-on-xbox",
-    "headline": "Samson Is Getting A Big Update Alongside Its September Release On Xbox",
-    "summary": "More like \"Damn, son\". Earlier this month, Samson: A Tyndalston Story was announced for consoles and pointed towards a September 21st release to coincide with a big PC update. Now, the developers have shared a 37-minute deep dive video showcasing all of the quality of life fixes and new features that are on the way. Sadly, the gameplay was captured…",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/samson-is-getting-a-big-update-alongside-its-september-release-on-xbox"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/00081cc2ed7ee/large.jpg",
-    "published_at": "2026-09-11T12:00:00.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d197721c1b1b",
-    "slug": "nintendo-wins-court-case-ruling-sale-of-switch-circumvention-devices-u",
-    "headline": "Nintendo Wins Court Case Ruling Sale of Switch 'Circumvention Devices' Unlawful",
-    "summary": "Nintendo has won a court case in the Netherlands, ruling that the sale of devices designed to circumvent its security measures is unlawful.",
-    "category": "industry",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/nintendo-wins-court-case-ruling-the-sale-of-switch-circumvention-devices-unlawful"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/f570806f4b82a/large.jpg",
-    "published_at": "2026-09-11T12:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "nintendo-switch",
-    "game_label": "Nintendo Switch"
-  },
-  {
-    "id": "175d836ccc50",
-    "slug": "japanese-indie-devs-warn-each-other-about-unscrupulous-publishers-afte",
-    "headline": "Japanese indie devs warn each other about “unscrupulous” publishers after creator reveals 90:10 revenue split offer",
-    "summary": "This week has been full of Japanese indie developers talking about their experiences with publishers and warning each other about questionable practices they’ve come across in the industry. The conversation was kicked off on X by developer Shigefusa Works, whose story about a publisher who stalled on signing a contract for a whopping 16 months went viral earlier this week.…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/japanese-indie-devs-warn-each-other-about-unscrupulous-publishers-after-creator-reveals-9010-revenue-split-offer/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/175d836ccc50/800/600",
-    "published_at": "2026-09-11T12:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4af7ac28f384",
-    "slug": "get-ready-for-dungeon-crawl-adventure-with-dungeon-lootr-codes",
-    "headline": "Get Ready for Dungeon Crawl Adventure with Dungeon Lootr Codes",
-    "summary": "Dungeon Lootr codes provide access to in-game items, including coins and chests, to enhance gameplay.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/rpg/dungeon-lootr-codes/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Vz59AgKFUn56HC9ELJkaaT-1280-80.jpg",
-    "published_at": "2026-09-11T11:35:46.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "dungeon-lootr",
-    "game_label": "Dungeon Lootr"
-  },
-  {
-    "id": "224c0f353ccf",
-    "slug": "bribing-medics-to-revive-me-first-in-war-dogs-is-a-game-changing-mecha",
-    "headline": "Bribing Medics to Revive Me First in War Dogs is a Game-Changing Mechanic",
-    "summary": "PC Gamer discusses how a unique mechanic in War Dogs, where players can bribe medics to revive them first, is one of the standout features of the game.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/fps/bribing-medics-to-revive-me-first-in-wardogs-is-one-of-my-favorite-shooter-mechanics-in-ages/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/KjxoEHqpRJVvGfjDuGrKkk-1280-80.png",
-    "published_at": "2026-09-11T11:30:11.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "war-dogs",
-    "game_label": "War Dogs"
-  },
-  {
-    "id": "95728c3b0d50",
-    "slug": "ff7r-director-defends-physical-disc-requirement",
-    "headline": "FF7R Director Defends Physical Disc Requirement",
-    "summary": "The director of Final Fantasy 7 Rebirth explains why the game still requires a download even on physical disks, citing a desire to maintain game quality.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-director-defends-its-physical-disk-still-needing-a-download-we-didnt-want-to-make-any-compromises-for-the-game/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/VTmXuG9YbuBTRkNWxTavQY-1280-80.jpg",
-    "published_at": "2026-09-11T11:19:18.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "final-fantasy-7-rebirth",
-    "game_label": "Final Fantasy 7 Rebirth"
-  },
-  {
-    "id": "ef3f10639325",
-    "slug": "gta-6-dualsense-controller-scalpers-are-already-cashing-in",
-    "headline": "GTA 6 DualSense Controller Scalpers Are Already Cashing In",
-    "summary": "It feels like it's the 2021 PS5/Xbox Series X|S shortage all over again, as scalpers have once again begun targeting preorders for limited-edition consoles and accessories. After the 25th-anniversary Xbox Series X sold out within a minute and stock of the new Legend of Zelda-themed Switch 2 console was scooped up in record time, it looks like the next hot…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gta-6-dualsense-controller-scalpers-are-already-cashing-in/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/GTA-6-DualSense.jpg?w=300",
-    "published_at": "2026-09-11T11:15:52.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "33b15d63c616",
-    "slug": "the-blood-of-dawnwalker-complete-walkthrough-hub",
-    "headline": "The Blood of Dawnwalker Complete Walkthrough Hub",
-    "summary": "A comprehensive guide covering romances, endings, rare crafting materials, and more for the game The Blood of Dawnwalker.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/blood-of-dawnwalker-complete-walkthrough-hub/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/33b15d63c616/800/600",
-    "published_at": "2026-09-11T11:01:28.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-blood-of-dawnwalker",
-    "game_label": "The Blood of Dawnwalker"
-  },
-  {
-    "id": "566068f0befa",
-    "slug": "new-official-bayonetta-release-confirmed-for-november-5",
-    "headline": "New Official Bayonetta Release Confirmed for November 5",
-    "summary": "A new Bayonetta game is scheduled to be released in November, with no additional details provided by the publisher.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/bayonetta-x-stellar-blade-collab-november-5-2026/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/bayonetta_wallpaper_1920x1080.jpg",
-    "published_at": "2026-09-11T11:00:13.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "bayonetta",
-    "game_label": "Bayonetta"
-  },
-  {
-    "id": "f79a0d962c37",
-    "slug": "xbox-disc-to-digital-program-gets-multiple-updates",
-    "headline": "Xbox Disc to Digital Program Gets Multiple Updates",
-    "summary": "Xbox has made improvements to its Disc to Digital program, including the addition of new titles and a central hub for updates.",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/xbox-disc-to-digital-gets-multiple-new-updates-including-three-more-supported-games"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/5c3cf3521a675/large.jpg",
-    "published_at": "2026-09-11T11:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ec8bd33e796f",
-    "slug": "neo-geo-aes-delayed-to-2027",
-    "headline": "Neo Geo AES+ Delayed to 2027",
-    "summary": "The release of the Neo Geo AES+ retro console remake has been pushed back to 2027 due to component supply constraints, according to its creators.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/retro/the-neo-geo-aes-now-isnt-arriving-until-september-2027-and-shock-horror-its-thanks-to-component-supply-constraints/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/YZA8bg6wj2eAAFE7xbScRh-1280-80.jpg",
-    "published_at": "2026-09-11T10:52:43.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "neo-geo-aes",
-    "game_label": "Neo Geo AES+"
   }
 ]
