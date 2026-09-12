@@ -1,5 +1,54 @@
 [
   {
+    "id": "51284ca93757",
+    "slug": "roundup-all-the-biggest-reveals-from-blizzcon-2026-including-two-massi",
+    "headline": "Roundup: All The Biggest Reveals From Blizzcon 2026, Including Two Massive Announcements",
+    "summary": "New StarCraft and Diablo games in the works! Today marked the start of Blizzcon 2026 over in California, and the Xbox-owned company had a lot of announcements to share as part of the opening ceremony, including two massive announcements regarding Diablo and StarCraft. Those announcements were that Diablo V is officially in the works with a target release window of…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/roundup-all-the-biggest-reveals-from-blizzcon-2026-including-two-massive-announcements"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/8ff1a76cf6f16/large.jpg",
+    "published_at": "2026-09-12T20:08:00.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e422cb84fd69",
+    "slug": "best-michael-myers-abilities-in-halloween-the-game",
+    "headline": "Best Michael Myers Abilities in Halloween: The Game",
+    "summary": "Halloween: The Game strategy guide highlights the most effective Michael Myers loadouts and abilities for dominating matches.",
+    "category": "esports",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/halloween-the-game-best-michael-myers-abilities-meta-loadout/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/best-michael-myers-abilities-in-halloween-the-game-meta-michael-loadout.jpg",
+    "published_at": "2026-09-12T19:54:37.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "halloween-the-game",
+    "game_label": "Halloween: The Game"
+  },
+  {
     "id": "22ecf5f381ab",
     "slug": "50-years-later-star-wars-is-officially-remaking-the-original-trilogy-i",
     "headline": "50 Years Later, Star Wars Is Officially Remaking the Original Trilogy in a Shocking New Style",
@@ -35,6 +84,10 @@
       {
         "name": "Game Rant",
         "url": "https://gamerant.com/warcraft-3-new-expansion-forsaken-kingdom/"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/blizzard-shadow-drops-new-campaign-for-warcraft-3-at-blizzcon-2026"
       }
     ],
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/world-of-warcraft-reforged-forsaken-kingdom-expansion-cgi-trailer-still-frame-armored-warrior-in-red-with-shield.jpg",
@@ -186,6 +239,29 @@
     "game_label": "World of Warcraft"
   },
   {
+    "id": "039f2dfd63c6",
+    "slug": "nintendo-is-one-step-closer-to-world-domination",
+    "headline": "Nintendo is One Step Closer to World Domination",
+    "summary": "The Zelda 40th Anniversary Direct and September Direct constituted a hard sales pitch for Switch 2, and it's going to work",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/switchboard-switch-2-nintendo-the-two-directs/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ns2_thelegendofzeldaocarinaoftime_scrn_15.png",
+    "published_at": "2026-09-12T19:00:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "e84e96e22d6e",
     "slug": "brand-new-3d-platformer-game-on-steam-is-basically-cyberpunk-edgerunne",
     "headline": "Brand-New 3D Platformer Game on Steam Is Basically Cyberpunk: Edgerunners Meets Shinobi",
@@ -258,6 +334,29 @@
     "comment_count": 0,
     "game": "world-of-warcraft-forever",
     "game_label": "World of Warcraft: Forever"
+  },
+  {
+    "id": "02dba292f444",
+    "slug": "blizzards-big-blizzcon-2026-opening-ceremony-mic-drop-is-world-of-warc",
+    "headline": "Blizzard's Big BlizzCon 2026 Opening Ceremony Mic Drop Is World of Warcraft Forever",
+    "summary": "Blizzard announced World of Warcraft Forever at BlizzCon 2026, ending the opening ceremony with a mic drop. No further details are available.",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/blizzards-big-blizzcon-2026-opening-ceremony-mic-drop-is-world-of-warcraft-forever"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/12/wow2-1789239447240.png",
+    "published_at": "2026-09-12T18:57:39.000Z",
+    "hype_signal": 10,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "world-of-warcraft",
+    "game_label": "World of Warcraft"
   },
   {
     "id": "15ff574672ac",
@@ -386,10 +485,14 @@
       {
         "name": "GameSpot",
         "url": "https://www.gamespot.com/articles/hearthstones-first-new-class-in-4-years-and-a-more-story-driven-journal-are-on-the-way/"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/hearthstone-update-monk-class-blizzcon-2026/"
       }
     ],
     "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/hearthstone-monk.jpg?w=300",
-    "published_at": "2026-09-12T18:33:19.000Z",
+    "published_at": "2026-09-12T18:37:32.000Z",
     "hype_signal": 60,
     "like_count": 0,
     "comment_count": 0,
@@ -423,6 +526,36 @@
     "game_label": "Diablo 5"
   },
   {
+    "id": "d6ccd0ce585f",
+    "slug": "diablo-5-announced",
+    "headline": "Diablo 5 Announced",
+    "summary": "Blizzard has revealed Diablo 5, set in a post-apocalyptic future 100 years after Diablo 4, for release in 2029.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/diablo-5-announced-release-date-2029"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/diablo-5-blizzcon-reveal/"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/12/diablo-v-1789237822781.png",
+    "published_at": "2026-09-12T18:30:24.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "diablo-5",
+    "game_label": "Diablo 5"
+  },
+  {
     "id": "c13fbc93c3b0",
     "slug": "diablo-5-is-coming-in-2029-and-diablo-has-won",
     "headline": "Diablo 5 is Coming in 2029, and 'Diablo has won'",
@@ -447,6 +580,53 @@
     "game_label": "Diablo 5"
   },
   {
+    "id": "ec0b10f2933e",
+    "slug": "ps5-gamers-in-for-a-busy-day-on-september-15",
+    "headline": "PS5 Gamers in for a Busy Day on September 15",
+    "summary": "PS5 gamers can expect a hectic day on September 15 due to upcoming game releases and patches",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/new-ps5-games-coming-soon-wolverine/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/ps5-september-15-super-busy-day.jpg",
+    "published_at": "2026-09-12T18:30:12.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "1991884af069",
+    "slug": "diablo-4-returns-amazon-class-in-new-season-plus-switch-port",
+    "headline": "Diablo 4 Returns Amazon Class in New Season, Plus Switch Port",
+    "summary": "Diablo 4 is getting a new season, the return of the Amazon class, and a Nintendo Switch port, according to Blizzard.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/diablo-4-amazon-class-season-hell-legacy-blizzcon-2026/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/dia_div_amazon_key_art.jpg",
+    "published_at": "2026-09-12T18:27:05.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "diablo-4",
+    "game_label": "Diablo 4"
+  },
+  {
     "id": "b7cc2a4b3264",
     "slug": "diablo-5-coming-in-2029",
     "headline": "Diablo 5 Coming in 2029",
@@ -468,6 +648,27 @@
     "comment_count": 0,
     "game": "diablo-5",
     "game_label": "Diablo 5"
+  },
+  {
+    "id": "374013d7d7c9",
+    "slug": "rpgs-where-a-hero-becomes-the-villain",
+    "headline": "RPGs Where A Hero Becomes The Villain",
+    "summary": "A hero becoming the villain is a pretty common trope in games, but some RPGs still pull it off exceptionally well, often in ways all their own.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/rpgs-hero-becomes-final-villain-game/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/rpgs-where-a-hero-becomes-the-final-villain.jpg",
+    "published_at": "2026-09-12T18:25:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "e744c7926a9e",
@@ -541,30 +742,67 @@
     "game_label": "Diablo 5"
   },
   {
-    "id": "d6ccd0ce585f",
-    "slug": "diablo-5-announced",
-    "headline": "Diablo 5 Announced",
-    "summary": "Blizzard has revealed Diablo 5, set in a post-apocalyptic future 100 years after Diablo 4, for release in 2029.",
+    "id": "e593d049ce66",
+    "slug": "amazon-warrior-class-coming-to-diablo-4",
+    "headline": "Amazon Warrior Class Coming to Diablo 4",
+    "summary": "Blizzard announces Amazon class, but it won't be part of a major expansion",
     "category": "releases",
     "platform_tags": [
       "pc",
       "playstation",
       "xbox",
-      "switch"
+      "switch",
+      "mobile"
     ],
     "sources": [
       {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/diablo-5-announced-release-date-2029"
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/diablo-4s-next-class-is-what-you-expect-but-isnt-coming-with-a-full-expansion/"
       }
     ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/12/diablo-v-1789237822781.png",
-    "published_at": "2026-09-12T18:22:01.000Z",
-    "hype_signal": 80,
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/diablo4amazon.png?w=300",
+    "published_at": "2026-09-12T18:19:45.000Z",
+    "hype_signal": 60,
     "like_count": 0,
     "comment_count": 0,
-    "game": "diablo-5",
-    "game_label": "Diablo 5"
+    "game": "diablo-4",
+    "game_label": "Diablo 4"
+  },
+  {
+    "id": "646cda6459eb",
+    "slug": "blizzard-announces-netflix-diablo-series-and-overwatch-could-be-next",
+    "headline": "Blizzard announces Netflix Diablo series, and Overwatch could be next",
+    "summary": "Blizzard Entertainment has announced plans for a Netflix series based on Diablo, while also exploring other projects, including a potential Overwatch show.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/blizzard-announces-netflix-diablo-series-and-overwatch-could-be-next/"
+      },
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/diablo-animated-series-coming-to-netflix-other-blizzard-franchises-teased/"
+      },
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/diablo/diablo-is-getting-an-animated-netflix-series-as-blizzard-teases-overwatch-and-warcraft-adaptations/"
+      },
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rpg/blizzard-announces-animated-diablo-show-coming-to-netflix/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/646cda6459eb/800/600",
+    "published_at": "2026-09-12T18:18:01.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "diablo",
+    "game_label": "Diablo"
   },
   {
     "id": "1da472d0e175",
@@ -593,6 +831,29 @@
     "game_label": "Diablo V"
   },
   {
+    "id": "b576f4246c53",
+    "slug": "overwatch-is-reworking-two-of-its-most-criticized-characters",
+    "headline": "Overwatch Is Reworking Two of Its Most Criticized Characters",
+    "summary": "Overwatch is making changes to Roadhog and Sombra after years of player complaints, aiming to make them more team-friendly and supportive respectively.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/overwatch-is-reworking-two-of-its-most-criticized-legacy-characters/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/4051619-sombra.webp?w=300",
+    "published_at": "2026-09-12T18:15:10.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "overwatch",
+    "game_label": "Overwatch"
+  },
+  {
     "id": "05b380cf37a9",
     "slug": "diablo-4-age-of-hatred-collection-coming-to-switch-next-week",
     "headline": "Diablo 4: Age Of Hatred Collection Coming to Switch Next Week",
@@ -614,6 +875,51 @@
     "comment_count": 0,
     "game": "diablo-4-age-of-hatred-collection",
     "game_label": "Diablo 4: Age of Hatred Collection"
+  },
+  {
+    "id": "b6fd196cb841",
+    "slug": "overwatchs-newest-blood-sucking-character-pushes-the-game-even-further",
+    "headline": "Overwatch’s Newest Blood-Sucking Character Pushes The Game Even Further Into The Fantasy Genre",
+    "summary": "Since its inception, Overwatch has positioned itself as an optimistic, science-fiction-driven world. Although some characters have introduced an element of the fantastical--the addition of the magical Wuxing University being the most notable tonal shift--the team behind the hero shooter has always prioritized scientific explanations for its heroes incredible abilities. Its newest character, howeve",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/overwatchs-newest-blood-sucking-character-pushes-the-game-even-further-into-the-fantasy-genre/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/doctrine.png?w=300",
+    "published_at": "2026-09-12T18:09:18.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "44de10c042fa",
+    "slug": "overwatchs-next-hero-is-basically-a-vampire",
+    "headline": "Overwatch's Next Hero Is Basically A Vampire",
+    "summary": "Overwatch's next hero is being revealed, and fans are speculating about the game's lore",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/overwatchs-next-hero-basically-a-vampire-2000733777"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/BlizzCon-2026-_-Day-1-Main-Stage-1-27-33-screenshot-1280x720.jpg",
+    "published_at": "2026-09-12T18:07:29.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "overwatch",
+    "game_label": "Overwatch"
   },
   {
     "id": "3eac82e9aa1b",
@@ -642,28 +948,25 @@
     "game_label": "Overwatch"
   },
   {
-    "id": "646cda6459eb",
-    "slug": "blizzard-announces-netflix-diablo-series-and-overwatch-could-be-next",
-    "headline": "Blizzard announces Netflix Diablo series, and Overwatch could be next",
-    "summary": "Blizzard Entertainment has announced plans for a Netflix series based on Diablo, while also exploring other projects, including a potential Overwatch show.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
+    "id": "6db94e8d7148",
+    "slug": "starcraft-returns-in-2030-with-an-open-world-shooter-the-legendary-bli",
+    "headline": " StarCraft returns in 2030 with an open-world shooter, the legendary Blizzard series' first new game in almost a decade ",
+    "summary": "\"It's about damn time!\"",
+    "category": "releases",
+    "platform_tags": [],
     "sources": [
       {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/blizzard-announces-netflix-diablo-series-and-overwatch-could-be-next/"
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/fps/starcraft-returns-in-2030-with-an-open-world-shooter-the-legendary-blizzard-series-first-new-game-in-almost-a-decade/"
       }
     ],
-    "image_url": "https://picsum.photos/seed/646cda6459eb/800/600",
-    "published_at": "2026-09-12T17:55:21.000Z",
-    "hype_signal": 70,
+    "image_url": "https://cdn.mos.cms.futurecdn.net/3YWfuhqbzdkKC9cu23sfSa-1280-80.png",
+    "published_at": "2026-09-12T18:02:59.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
-    "game": "diablo",
-    "game_label": "Diablo"
+    "game": null,
+    "game_label": null
   },
   {
     "id": "f3965b47d379",
@@ -678,15 +981,63 @@
       {
         "name": "IGN",
         "url": "https://www.ign.com/articles/next-starcraft-game-announced-at-blizzcon-as-an-open-world-shooter-but-its-not-due-out-until-2030"
+      },
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/fps/new-starcraft-game-is-an-open-world-shooter-coming-in-2030/"
       }
     ],
     "image_url": "https://assets-prd.ignimgs.com/2026/09/12/starcraft-1789236271772.png",
-    "published_at": "2026-09-12T17:51:46.000Z",
+    "published_at": "2026-09-12T17:58:10.000Z",
     "hype_signal": 70,
     "like_count": 0,
     "comment_count": 0,
     "game": "starcraft",
     "game_label": "StarCraft"
+  },
+  {
+    "id": "98c58eec9bba",
+    "slug": "diablo-animated-series-in-development-at-netflix-2",
+    "headline": "Diablo Animated Series in Development at Netflix",
+    "summary": "Blizzard Entertainment revealed an animated Diablo series is in production for Netflix, following the announcement at BlizzCon 2026.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/an-animated-diablo-show-is-coming-to-netflix-2000733823"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/Netflix-Diablo-image-from-BlizzCon-2026-1280x720.jpg",
+    "published_at": "2026-09-12T17:53:11.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "diablo",
+    "game_label": "Diablo"
+  },
+  {
+    "id": "e8d7a90a8e42",
+    "slug": "starcraft-is-officially-back-but-its-taking-a-much-different-form",
+    "headline": "StarCraft Is Officially Back, But It’s Taking A Much Different Form",
+    "summary": "Following numerous rumors dating back many months, it's official: StarCraft is returning with a new game, but that game won't be in the traditional real-time-strategy genre the franchise is known for. Instead, the new StarCraft game is described as an open-world shooter. The news was revealed as part of BlizzCon's opening ceremony. However, that's essentially all we know, as the…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/starcraft-is-officially-back-but-its-taking-a-much-different-form/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/starcraft_cf663f.jpg?w=300",
+    "published_at": "2026-09-12T17:52:04.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "a06ebe4693f3",
@@ -736,6 +1087,29 @@
     "comment_count": 0,
     "game": "heroes-of-the-storm",
     "game_label": "Heroes of the Storm"
+  },
+  {
+    "id": "a64a4216ad38",
+    "slug": "borderlands-4-dlc-character-and-free-to-play-weekend-attract-resurgenc",
+    "headline": "Borderlands 4 DLC Character and Free-to-Play Weekend Attract Resurgence on Steam",
+    "summary": "Borderlands 4 is climbing Steam charts as players fall head over heels for its new DLC character – a Vault Hunter named Loveless the Hacker.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/borderlands-4-dlc-character-and-free-to-play-weekend-attract-resurgence-on-steam"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/12/borderlands-4-loveless-1789234281945.png",
+    "published_at": "2026-09-12T17:41:24.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "07e0f28e0d11",
@@ -4353,346 +4727,6 @@
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25276836/hideo_kojima_physint.jpg",
     "published_at": "2026-09-11T16:05:27.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a6d0bebf6fa3",
-    "slug": "hori-has-unveiled-a-legendary-looking-set-of-new-ocarina-of-time-remak",
-    "headline": " Hori has unveiled a legendary-looking set of new Ocarina of Time remake Switch 2 accessories, and I need them now ",
-    "summary": "The Ocarina of Time hype continues as Hori Japan has unveiled a new batch of Switch 2 accessories themed around the upcoming remake.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/accessories/hori-has-unveiled-a-legendary-looking-set-of-new-ocarina-of-time-remake-switch-2-accessories-and-i-need-them-now/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/uvjsJipUPLXFhjXmstDMeW-1280-80.jpg",
-    "published_at": "2026-09-11T16:04:33.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "dfbf20d160ca",
-    "slug": "sony-reportedly-dropped-hideo-kojimas-next-game-because-it-kept-missin",
-    "headline": " Sony reportedly dropped Hideo Kojima's next game because it kept missing deadlines, was over budget, and would eventually come to other platforms ",
-    "summary": "A few good reasons, and one really exhausting one.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/gaming-industry/sony-reportedly-dropped-hideo-kojimas-next-game-because-it-kept-missing-deadlines-was-over-budget-and-would-eventually-come-to-other-platforms/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/zLnpnMmf4pdofA9b9XpieZ-1280-80.png",
-    "published_at": "2026-09-11T16:03:31.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "78dec4d3138f",
-    "slug": "how-stardew-valley-inspired-a-game-about-blasting-freaky-monsters-into",
-    "headline": "How Stardew Valley Inspired A Game About Blasting Freaky Monsters Into Piles Of Guts",
-    "summary": "'I'm going to be like a regular man and just go fishing'",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/stardew-valley-serious-sam-shatterverse-2000733300"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/serious-sam-1280x720.jpg",
-    "published_at": "2026-09-11T16:00:41.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ebef1066e405",
-    "slug": "share-of-the-week-water",
-    "headline": "Share of the Week: Water",
-    "summary": "Last week, we asked you to share moments highlighting water from the game of your choice using #PSshare #PSBlog. Here are this week’s highlights: honeysinghzzz shares the reflection of water in Forza Horizon 5 JAA_PhMode_0510 shares Snake wading through waters in Metal Gear Solid Delta Snakeater  fwto_ shares Jin paused along a river in Ghost […]",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PlayStation Blog",
-        "url": "https://blog.playstation.com/2026/09/11/share-of-the-week-water/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/ebef1066e405/800/600",
-    "published_at": "2026-09-11T16:00:32.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c8e2759757cf",
-    "slug": "game-of-the-week-the-blood-of-dawnwalker-is-the-ultimate-vampire-rpg-f",
-    "headline": "Game of the Week - The Blood of Dawnwalker is the ultimate vampire RPG fantasy",
-    "summary": "GamesRadar+ has named The Blood of Dawnwalker as its game of the week, praising its engaging gameplay and immersive vampire fantasy world.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/rpg/game-of-the-week-the-blood-of-dawnwalker-is-the-ultimate-vampire-rpg-fantasy/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/qHEzjdACsy5DddWTCpKTwj-1280-80.jpg",
-    "published_at": "2026-09-11T16:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-blood-of-dawnwalker",
-    "game_label": "The Blood of Dawnwalker"
-  },
-  {
-    "id": "a49cfcbbb156",
-    "slug": "amazon-prime-is-handing-out-doom-eternal-codes-for-xbox-pc-this-month",
-    "headline": "Amazon Prime Is Handing Out DOOM Eternal Codes For Xbox PC This Month",
-    "summary": "Id Software's brutal shooter features in Amazon Luna's September offering. If you're a freebie lover, Amazon Prime subscriber, and all-around demon slayer, then you may want to consider picking up DOOM Eternal this month. As part of Amazon Luna's September 2026 lineup, Id Software's 88-rated DOOM Eternal is free for Prime subscribers to claim and keep, with the Xbox PC…",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/amazon-prime-is-handing-out-doom-eternal-codes-for-xbox-pc-this-month"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/ffbaa23b5ac85/large.jpg",
-    "published_at": "2026-09-11T16:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c9652d91693b",
-    "slug": "you-can-play-star-fox-adventures-in-widescreen-mode-on-switch-2",
-    "headline": "You Can Play Star Fox Adventures In Widescreen Mode On Switch 2",
-    "summary": "Nintendo has added Star Fox Adventures to its GameCube lineup on Nintendo Switch Online, allowing players to experience the 2002 game in widescreen mode.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/psa-you-can-play-star-fox-adventures-in-widescreen-mode-on-switch-2"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/1883d241dd726/large.jpg",
-    "published_at": "2026-09-11T16:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "star-fox-adventures",
-    "game_label": "Star Fox Adventures"
-  },
-  {
-    "id": "490b2766fdca",
-    "slug": "multiplayer-shooter-wardogs-confirmed-for-ps5-as-early-access-launch-g",
-    "headline": "Multiplayer Shooter Wardogs Confirmed for PS5 as Early Access Launch Goes Nuclear",
-    "summary": "Boom.\nPublisher Team 17 and developer BULKHEAD have confirmed console versions of Wardogs, which is proving to be extremely popular in its early stages.\nThe game launched into Early Access on Steam yesterday, 10th September 2026, and it has already sold more than 1.25 million copies.\nRead the full article on pushsquare.com",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/multiplayer-shooter-wardogs-confirmed-for-ps5-as-early-access-launch-goes-nuclear"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/1d0b8f85b3239/large.jpg",
-    "published_at": "2026-09-11T16:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "bcf9d194eec9",
-    "slug": "state-of-the-unions-the-rise-of-unionisation-in-games-workplaces",
-    "headline": "State of the Unions: the rise of unionisation in games workplaces",
-    "summary": "The rise of unions in the video games industry has been a hot topic over the past decade, as more and more workers seek protection for their rights in the face of harsh working conditions and management shortcomings around the world.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/state-of-the-unions-the-rise-of-unionisation-in-games-workplaces"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Paris_Summit_2025_edited.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-11T15:59:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6b50b3313510",
-    "slug": "sony-owning-digital-games",
-    "headline": "Sony Owning Digital Games",
-    "summary": "A consumer rights wiki has tracked Sony's statements on digital game ownership, suggesting a disconnect between their words and actions.",
-    "category": "industry",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/consumers-rights-wiki-playstation-digital-game-ownership/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/07/close-up-of-two-dualsense-controllers-lit-up-in-blue-and-purple.jpg",
-    "published_at": "2026-09-11T15:42:17.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "aed98b699337",
-    "slug": "sony-ditched-hideo-kojimas-physint",
-    "headline": "Sony Ditched Hideo Kojima's Physint",
-    "summary": "Sony has reportedly dropped Kojima Production's Physint game due to concerns over budget, profitability, and exclusivity",
-    "category": "deals",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/sony-cancelled-physint-budget-profitability-exclusivity-missed-deadlines"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Physint-art.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-11T15:38:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "physint",
-    "game_label": "Physint"
-  },
-  {
-    "id": "d8fd23a36da1",
-    "slug": "eas-new-owners-may-be-considering-bigger-gaming-empire",
-    "headline": "EA's New Owners May Be Considering Bigger Gaming Empire",
-    "summary": "Saudi Arabia's Public Investment Fund is considering merging EA with gaming holding company Savvy Games Group to foster better coordination between its gaming assets.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/eas-new-owners-may-be-considering-an-even-bigger-gaming-empire/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/EA-Games.jpg?w=300",
-    "published_at": "2026-09-11T15:38:03.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "ea",
-    "game_label": "EA"
-  },
-  {
-    "id": "77efee213b91",
-    "slug": "marvels-wolverine-community-director-defends-fart-gas-controversy",
-    "headline": "Marvel's Wolverine Community Director Defends Fart Gas Controversy",
-    "summary": "The biggest discourse surrounding Marvel’s Wolverine right now has been defended by an Insomniac Games member.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/marvels-wolverine-insomniac-games-community-director-explains-scent-trail/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/marvelswolverinescenttrail.jpg",
-    "published_at": "2026-09-11T15:34:37.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9377c3356ad7",
-    "slug": "fans-score-20-off-ocarina-of-time-preorders-with-hidden-walmart-coupon",
-    "headline": "Fans Score $20 Off Ocarina of Time Preorders with Hidden Walmart Coupon",
-    "summary": "Walmart shoppers are reportedly using a hidden promo code to get $20 off preorders of The Legend of Zelda: Ocarina of Time, bringing the price down to $50 from $70.",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-walmart-coupon-deal"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/09/the-legend-of-zelda-ocarina-of-time-preorders-uk-1788952093648.png",
-    "published_at": "2026-09-11T15:32:31.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-legend-of-zelda-ocarina-of-time",
-    "game_label": "The Legend of Zelda: Ocarina of Time"
-  },
-  {
-    "id": "89a82839f3e2",
-    "slug": "rockstar-had-a-mole-in-the-union-worker-discord-server-for-over-two-an",
-    "headline": "Rockstar had a mole in the union worker Discord server \"for over two and a half years\", GTA 6 company reveals during legal battle",
-    "summary": "Back in October 2025, GTA 6 developers Rockstar fired a group of 34, mostly UK-based employees on a charge of \"gross misconduct\", alleging that they had risked the leaking of confidential information while posting on a Discord server set up by union organisers. The ousted UK workers and their representatives have since taken Rockstar to court, accusing the company of…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/rockstar-had-a-mole-in-the-union-worker-discord-server-for-over-two-and-a-half-years-gta-6-company-reveals-during-legal-battle"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Jason_Duval_10.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-11T15:31:24.000Z",
-    "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
     "game": null,

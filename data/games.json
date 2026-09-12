@@ -10679,5 +10679,241 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-12T17:52:09.947Z"
+  },
+  {
+    "slug": "star-wars",
+    "name": "Star Wars (1983)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/cd3/cd39365ebf94e4746cb295c6fc6dcf18.jpg",
+    "released": "1983-05-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Platformer",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "GameCube",
+      "Game Boy",
+      "NES",
+      "Classic Macintosh",
+      "Commodore / Amiga",
+      "Atari 5200",
+      "Atari 2600",
+      "Atari 8-bit",
+      "Atari ST",
+      "SEGA Master System",
+      "Game Gear"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/1bc/1bc3410de005074ab28fc0c9a054a17d.jpg",
+      "https://media.rawg.io/media/screenshots/c8f/c8f6a64aa55571ed121dc2d8ce3b8bb1.jpg",
+      "https://media.rawg.io/media/screenshots/035/0351e1a8e36343e3311c899a9254facd.jpg",
+      "https://media.rawg.io/media/screenshots/c19/c191e3f35f3ca560dc7df19ba416bffe.jpg",
+      "https://media.rawg.io/media/screenshots/ff3/ff350d0e3c2eacaf2036f50c6e4a4614.jpg",
+      "https://media.rawg.io/media/screenshots/742/7426739f2b95002f926ee184c522995d.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-12T20:22:58.783Z"
+  },
+  {
+    "slug": "paradise-killer",
+    "name": "Paradise Killer",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/e7c/e7c0f996a82ebec502dfbd979da58e0b.jpg",
+    "released": "2020-09-03",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d26/d26dda39ff41e7119bdc1b72bff45016.jpg",
+      "https://media.rawg.io/media/screenshots/4de/4dea9fae95ac036a5c396547df0a3bee.jpg",
+      "https://media.rawg.io/media/screenshots/e5a/e5a046997449988657d2220679702b71.jpg",
+      "https://media.rawg.io/media/screenshots/958/958398c970cfca988e6d09027c2ff638.jpg",
+      "https://media.rawg.io/media/screenshots/c8a/c8a665e33f82ea43834f985537278669.jpg",
+      "https://media.rawg.io/media/screenshots/9ed/9ed9f5e3c1ac7f70c778f0880a906c46.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-12T20:23:08.202Z"
+  },
+  {
+    "slug": "warcraft-3",
+    "name": "Warcraft 3: Reign of Chaos",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/667/667b4447a90c4896bfd48400ae76af28.jpg",
+    "released": "2002-07-03",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "PC",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/1ea/1ea7402222bca98650e7c7ff8938b3e9.jpg",
+      "https://media.rawg.io/media/screenshots/244/244d85cd949d373b3a1b774bb6fc6fb4.jpg",
+      "https://media.rawg.io/media/screenshots/2c2/2c253f0d0bec98d64572ff2cd31b2170.jpg",
+      "https://media.rawg.io/media/screenshots/0b6/0b6d2f3a3c06031aa72a888c1fe09d69.jpg",
+      "https://media.rawg.io/media/screenshots/d5e/d5ea459d303a3b074c17e5595237f8f4.jpg",
+      "https://media.rawg.io/media/screenshots/3af/3af1bcfddd61d64faba84b077c7fb3f5.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-12T20:23:11.157Z"
+  },
+  {
+    "slug": "hearthstone",
+    "name": "Hearthstone",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/1db/1dbc3d0c9de2709e21326cdcb91468ae.jpg",
+    "released": "2014-03-11",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Card",
+      "Strategy"
+    ],
+    "platforms": [
+      "PC",
+      "iOS",
+      "Android",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/8f0/8f02bef8bdba3a2babd2e89373307357.jpg",
+      "https://media.rawg.io/media/screenshots/086/0868beba803164d6a5a8aba7c9cdaab7_PgrPDiY.jpg",
+      "https://media.rawg.io/media/screenshots/004/004e54390c7978c31e920805a6341019.jpg",
+      "https://media.rawg.io/media/screenshots/9bb/9bbb155fbcde941ec5468e72d37073a6.jpg",
+      "https://media.rawg.io/media/screenshots/1c9/1c9e4ccb23af829545400a64473f6a42.jpg",
+      "https://media.rawg.io/media/screenshots/516/51631c33ea2ec651c294363b53b0a0c4.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-12T20:23:12.550Z"
+  },
+  {
+    "slug": "diablo-5",
+    "name": "Diablo",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/923/923a5dd13b6e79dd23ab2d09934f0e8d.jpg",
+    "released": "1996-12-31",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "PlayStation"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/b0c/b0cbda2b3b1e42de773ae747363d6095.jpg",
+      "https://media.rawg.io/media/screenshots/c1b/c1bbbede6e8f0926e1813ae1cb7a1f80_9FXOLVk.jpg",
+      "https://media.rawg.io/media/screenshots/617/617cc168a8e366fc15dbd130b53c9a1b.jpg",
+      "https://media.rawg.io/media/screenshots/9f8/9f81f38bee7b596b51b06ae5b040e65a.jpg",
+      "https://media.rawg.io/media/screenshots/493/493692329598ca9f7b5d28f14bd77b22.jpg",
+      "https://media.rawg.io/media/screenshots/0bc/0bc8e5be32e201b2f9b833ddb6122adb.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-12T20:23:14.096Z"
+  },
+  {
+    "slug": "diablo",
+    "name": "Diablo",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/923/923a5dd13b6e79dd23ab2d09934f0e8d.jpg",
+    "released": "1996-12-31",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "PlayStation"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/b0c/b0cbda2b3b1e42de773ae747363d6095.jpg",
+      "https://media.rawg.io/media/screenshots/c1b/c1bbbede6e8f0926e1813ae1cb7a1f80_9FXOLVk.jpg",
+      "https://media.rawg.io/media/screenshots/617/617cc168a8e366fc15dbd130b53c9a1b.jpg",
+      "https://media.rawg.io/media/screenshots/9f8/9f81f38bee7b596b51b06ae5b040e65a.jpg",
+      "https://media.rawg.io/media/screenshots/493/493692329598ca9f7b5d28f14bd77b22.jpg",
+      "https://media.rawg.io/media/screenshots/0bc/0bc8e5be32e201b2f9b833ddb6122adb.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-12T20:23:15.368Z"
+  },
+  {
+    "slug": "diablo-v",
+    "name": "Diablo",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/923/923a5dd13b6e79dd23ab2d09934f0e8d.jpg",
+    "released": "1996-12-31",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "PlayStation"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/b0c/b0cbda2b3b1e42de773ae747363d6095.jpg",
+      "https://media.rawg.io/media/screenshots/c1b/c1bbbede6e8f0926e1813ae1cb7a1f80_9FXOLVk.jpg",
+      "https://media.rawg.io/media/screenshots/617/617cc168a8e366fc15dbd130b53c9a1b.jpg",
+      "https://media.rawg.io/media/screenshots/9f8/9f81f38bee7b596b51b06ae5b040e65a.jpg",
+      "https://media.rawg.io/media/screenshots/493/493692329598ca9f7b5d28f14bd77b22.jpg",
+      "https://media.rawg.io/media/screenshots/0bc/0bc8e5be32e201b2f9b833ddb6122adb.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-12T20:23:16.418Z"
+  },
+  {
+    "slug": "heroes-of-the-storm",
+    "name": "Heroes of the Storm",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/994/994af944846343d8f6eb4d23f4db62a4.jpg",
+    "released": "2015-06-02",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a11/a11d66a4f3548dd151303ec0b6fccd84.jpg",
+      "https://media.rawg.io/media/screenshots/3f3/3f30e3fe3790fa6cf3ee66045af0b827.jpg",
+      "https://media.rawg.io/media/screenshots/988/9880f727906acb3008400c9b3479d5f4.jpg",
+      "https://media.rawg.io/media/screenshots/e4b/e4bcc3bdd0078e8f9573eac3e1aef803.jpg",
+      "https://media.rawg.io/media/screenshots/f79/f7992e0eeb0620dfb1291b0a2fd14df2.jpg",
+      "https://media.rawg.io/media/screenshots/4cd/4cd39776885b996a4c40ea7cebdbe00c.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-12T20:23:18.678Z"
   }
 ]
