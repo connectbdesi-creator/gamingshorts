@@ -1,5 +1,53 @@
 [
   {
+    "id": "09f611b02ce8",
+    "slug": "melty-blood-twi-lumina-launches-april-22-2027",
+    "headline": "Melty Blood: Twi-Lumina launches April 22, 2027",
+    "summary": "Fighting game Melty Blood: Twi-Lumina will launch for PlayStation 5, Switch 2, PlayStation 4, Xbox …",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/melty-blood-twi-lumina-launches-april-22-2027"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/09f611b02ce8/800/600",
+    "published_at": "2026-09-12T03:06:23.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c7fecf54afba",
+    "slug": "nintendo-announces-switch-2-monster-hunter-wilds-bundle",
+    "headline": "Nintendo Announces Switch 2 Monster Hunter Wilds Bundle",
+    "summary": "Launching in Japan this December.\n\nThe mainline Monster Hunter series will debut on the Switch 2 this December with the release of the new entry Monster Hunter Wilds.\nRead the full article on nintendolife.com",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/nintendo-announces-switch-2-monster-hunter-wilds-bundle"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/49e3eb1fe00a4/large.jpg",
+    "published_at": "2026-09-12T02:35:00.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "8db278c94a44",
     "slug": "bethesdas-fallout-franchise-gets-major-remasters-and-new-game",
     "headline": "Bethesda's Fallout Franchise Gets Major Remasters and New Game",
@@ -24,6 +72,29 @@
     "comment_count": 0,
     "game": "fallout",
     "game_label": "Fallout"
+  },
+  {
+    "id": "f96e4f9503dc",
+    "slug": "polyarc-games-shuts-down",
+    "headline": "Polyarc Games Shuts Down",
+    "summary": "VR game developer Polyarc Games is ceasing operations and shutting down its titles, including Moss VR series.",
+    "category": "industry",
+    "platform_tags": [
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/polyarc-games-developer-of-moss-vr-titles-announces-shutdown/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/f96e4f9503dc/800/600",
+    "published_at": "2026-09-12T00:55:50.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "moss-vr",
+    "game_label": "Moss VR"
   },
   {
     "id": "b3f88e095675",
@@ -4575,71 +4646,6 @@
     "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/character-in-halloween-wearing-a-red-jacket.jpg",
     "published_at": "2026-09-11T02:30:09.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "683b4caa735a",
-    "slug": "a-beginners-guide-to-modding-star-wars-zero-company",
-    "headline": "A Beginner's Guide To Modding Star Wars Zero Company",
-    "summary": "Star Wars Zero Company doesn't have official mod support, but you don't have to do too much to get them up and running.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/star-wars-zero-company-complete-guide-to-modding/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/a-player-character-in-star-wars-zero-company-she-is-a-pink-alien.jpg",
-    "published_at": "2026-09-11T02:20:30.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a1bfd405860f",
-    "slug": "how-to-unlock-the-3d-glasses-cosmetic-in-halloween-the-game",
-    "headline": "How To Unlock The 3D Glasses Cosmetic In Halloween: The Game",
-    "summary": "Want the 3D Glasses cosmetic in Halloween: The Game? Here is how to grab it.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/halloween-the-game-3d-glasses-cosmetic/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/character-in-halloween-wearing-3d-glasses-cosmetic.jpg",
-    "published_at": "2026-09-11T02:16:15.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5024ac6a9c9a",
-    "slug": "nintendos-latest-system-firmware-update-resolves-switch-vulnerability",
-    "headline": "Nintendo's Latest System Firmware Update Resolves Switch Vulnerability",
-    "summary": "\"Please update your console\". Nintendo released a major system firmware update yesterday, and while most of the focus is on the Switch 2 adding support for VRR in docked mode, the Switch also got a patch. Tacked on to the end of the official patch notes for the latest Switch update (Version 23.0.0) is a notice about a vulnerability fix.…",
-    "category": "patches",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/nintendos-latest-system-firmware-update-resolves-switch-vulnerability"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/43d25725956c6/large.jpg",
-    "published_at": "2026-09-11T01:45:00.000Z",
-    "hype_signal": 65,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
