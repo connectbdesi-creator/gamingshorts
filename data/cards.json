@@ -1,5 +1,694 @@
 [
   {
+    "id": "22ecf5f381ab",
+    "slug": "50-years-later-star-wars-is-officially-remaking-the-original-trilogy-i",
+    "headline": "50 Years Later, Star Wars Is Officially Remaking the Original Trilogy in a Shocking New Style",
+    "summary": "Polygon reports that the Star Wars franchise is remaking the original trilogy with a new style, marking 50 years since the release of the first film.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/star-wars-original-trilogy-graphic-novel/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/msdemst_ec057.jpg",
+    "published_at": "2026-09-12T19:33:14.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "star-wars",
+    "game_label": "Star Wars"
+  },
+  {
+    "id": "4d91f0febf6c",
+    "slug": "blizzard-drops-new-warcraft-release-at-blizzcon",
+    "headline": "Blizzard Drops New Warcraft Release at BlizzCon",
+    "summary": "Blizzard Entertainment announced a new Warcraft release at the 2026 BlizzCon event, taking place in Anaheim, California over the next two days.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/warcraft-3-new-expansion-forsaken-kingdom/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/world-of-warcraft-reforged-forsaken-kingdom-expansion-cgi-trailer-still-frame-armored-warrior-in-red-with-shield.jpg",
+    "published_at": "2026-09-12T19:28:22.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "warcraft",
+    "game_label": "Warcraft"
+  },
+  {
+    "id": "fd82b650b933",
+    "slug": "world-of-warcraft-forever-2",
+    "headline": "World of Warcraft: Forever",
+    "summary": "World of Warcraft is getting a new game called 'World of Warcraft: Forever' set to launch in November, alongside Classic and Vanilla WoW.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-forever-is-a-whole-new-wow-game-launching-in-november-thatll-live-alongside-classic-and-vanilla/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/99mXJiGrqjdePiKENntgLH-1280-80.jpg",
+    "published_at": "2026-09-12T19:12:02.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "world-of-warcraft-forever",
+    "game_label": "World of Warcraft: Forever"
+  },
+  {
+    "id": "cd307a312dc9",
+    "slug": "blizzard-reveals-first-look-at-world-of-warcrafts-next-major-expansion",
+    "headline": "Blizzard Reveals First Look at World of Warcraft's Next Major Expansion",
+    "summary": "Blizzard Entertainment has announced its next major World of Warcraft expansion, titled World of Warcraft: The Last Titan, which completes the Worldsoul Saga",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/wow-last-titan-reveal-worldsoul-saga-blizzcon-2026/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-last-titan-teaser-_-colossal-_-world-of-warcraft-0-57-screenshot.jpg",
+    "published_at": "2026-09-12T19:10:53.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "world-of-warcraft-the-last-titan",
+    "game_label": "World of Warcraft: The Last Titan"
+  },
+  {
+    "id": "6b2dde37c040",
+    "slug": "blizzard-unveils-world-of-warcraft-forever-classic-plus-project",
+    "headline": "Blizzard Unveils World of Warcraft: Forever Classic Plus Project",
+    "summary": "Blizzard has announced World of Warcraft: Forever, a new Classic Plus project that will add new content to the original Vanilla WoW experience.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/world-of-warcraft-forever-classic-plus-announcement-blizzcon-2026/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2023/12/wow-classic-hunter.jpg",
+    "published_at": "2026-09-12T19:05:17.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "world-of-warcraft-forever",
+    "game_label": "World of Warcraft: Forever"
+  },
+  {
+    "id": "c7bbfa54dd30",
+    "slug": "world-of-warcraft-forever-announced-as-the-vanilla-wow-reboot-weve-bee",
+    "headline": "World of Warcraft: Forever Announced As The Vanilla WoW Reboot We've Been Waiting For",
+    "summary": "World of Warcraft: Forever is an upcoming game rebooting the original 2004 experience, with a serious twist on the first year of the game.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/world-of-warcraft-forever-classic-plus-revealed-2000733774"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/BlizzCon-2026-_-Day-1-Main-Stage-2-21-39-screenshot-1280x720.jpg",
+    "published_at": "2026-09-12T19:04:18.000Z",
+    "hype_signal": 85,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "world-of-warcraft-forever",
+    "game_label": "World of Warcraft: Forever"
+  },
+  {
+    "id": "601275ab017f",
+    "slug": "wow-forever-will-add-all-new-content-to-classic-azeroth-this-november",
+    "headline": "WoW Forever Will Add All-New Content To Classic Azeroth This November",
+    "summary": "World of Warcraft Forever is Blizzard's next iteration on WoW Classic, one that will add new content in the form of zones, quests, dungeons, raids, and even a new playable race while keeping the old-school MMORPG's world and gameplay intact. Revealed during BlizzCon 2026's opening ceremony, WoW Forever is Blizzard's attempt to give WoW Classic fans the \"forever\" game they've…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/wow-forever-will-add-all-new-content-to-classic-azeroth-this-november/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/wowforever.jpg?w=300",
+    "published_at": "2026-09-12T19:04:08.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d35f380915a8",
+    "slug": "world-of-warcraft-forever",
+    "headline": "World of Warcraft Forever",
+    "summary": "Blizzard is releasing a new version of its classic MMO, World of Warcraft, offering fans a 'vanilla' experience with all the classic features restored.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/world-of-warcraft-forever-announced-classic-plus-blizzcon-2026/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/wow_forever_cinematic_still_9.jpeg",
+    "published_at": "2026-09-12T19:03:25.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "world-of-warcraft",
+    "game_label": "World of Warcraft"
+  },
+  {
+    "id": "e84e96e22d6e",
+    "slug": "brand-new-3d-platformer-game-on-steam-is-basically-cyberpunk-edgerunne",
+    "headline": "Brand-New 3D Platformer Game on Steam Is Basically Cyberpunk: Edgerunners Meets Shinobi",
+    "summary": "Fans of the Cyberpunk: Edgerunners anime and action games like Sega's Shinobi series should keep an eye on this new 3D platformer coming to Steam.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/new-3d-platformer-games-steam-slashzero/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/new-steam-3d-platformer-games-slashzero-announced-gamerant-1.jpg",
+    "published_at": "2026-09-12T19:00:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2320a24f8ba3",
+    "slug": "i-still-havent-found-a-game-like-paradise-killer",
+    "headline": "I Still Haven't Found a Game Like Paradise Killer",
+    "summary": "Push Square writer shares why they haven't beaten Paradise Killer, a cult classic, despite earning its platinum trophy.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/features/going-platinum-ive-still-not-played-anything-else-quite-like-paradise-killer"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/0f5fcff689120/large.jpg",
+    "published_at": "2026-09-12T19:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "paradise-killer",
+    "game_label": "Paradise Killer"
+  },
+  {
+    "id": "83e23aaba055",
+    "slug": "world-of-warcraft-forever-beta-begins-this-week",
+    "headline": "World of Warcraft: Forever Beta Begins This Week",
+    "summary": "PC Gamer reports that World of Warcraft: Forever, the upcoming expansion, has started its beta testing phase. No official release date has been announced yet.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/the-wow-classic-rumors-were-true-world-of-warcraft-forever-promises-to-be-another-timelines-bizzarro-version-of-the-mmo/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/F2Vr74L9EDyrQyczqYRoie-1280-80.png",
+    "published_at": "2026-09-12T18:58:04.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "world-of-warcraft-forever",
+    "game_label": "World of Warcraft: Forever"
+  },
+  {
+    "id": "15ff574672ac",
+    "slug": "world-of-warcraft-the-last-titan-launches-2027-and-blizzard-says-its-t",
+    "headline": " World of Warcraft: The Last Titan launches 2027 and Blizzard says it's the \"culmination of over two decades\" of MMO storytelling ",
+    "summary": "The Worldsoul Saga comes to an end next year",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-the-last-titan-launches-2027-and-blizzard-says-its-the-culmination-of-over-two-decades-of-mmo-storytelling/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/grbwvGw7dN2uaehjh5BqWH-1280-80.jpg",
+    "published_at": "2026-09-12T18:54:30.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3f52874accb9",
+    "slug": "blizzard-just-dropped-a-new-warcraft-3-campaign-the-first-in-23-years",
+    "headline": "Blizzard just dropped a new Warcraft 3 campaign, the first in 23 years",
+    "summary": "Blizzard Entertainment has released a new campaign for the real-mode version of Warcraft III: Reign of Chaos and its expansion, The Frozen Throne, 23 years after the last expansion was released.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rts/blizzard-just-dropped-a-new-warcraft-3-campaign-the-first-in-23-years/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/LxAwM7hR7oVupVPMBDBXsk-1280-80.png",
+    "published_at": "2026-09-12T18:51:39.000Z",
+    "hype_signal": 10,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "warcraft-iii-reign-of-chaos",
+    "game_label": "Warcraft III: Reign of Chaos"
+  },
+  {
+    "id": "4c92fb87d00a",
+    "slug": "warcraft-gets-new-rts-campaign",
+    "headline": "Warcraft Gets New RTS Campaign",
+    "summary": "Warcraft 3 is getting a new campaign titled Forsaken Kingdom, exploring the origins of the Forsaken and the formation of the Undercity.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/warcraft-getting-its-first-new-rts-campaign-in-two-decades-and-its-playable-today/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/1000003826.jpg?w=300",
+    "published_at": "2026-09-12T18:51:22.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "warcraft-3",
+    "game_label": "Warcraft 3"
+  },
+  {
+    "id": "4f8d8000ec4a",
+    "slug": "world-of-warcrafts-next-expansion-the-last-titan-is-out-next-year",
+    "headline": "World Of Warcraft's Next Expansion, The Last Titan, Is Out Next Year",
+    "summary": "World of Warcraft's next expansion, The Last Titan, is set to be released in 2025. Fans are mourning the demise of Wyrmrest Temple, a beloved location in the game. The expansion's details are scarce, but it promises to bring significant changes to the game's world.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/world-of-warcrafts-next-expansion-the-last-titan-is-out-next-year-2000733784"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/BlizzCon-2026-_-Day-1-Main-Stage-2-9-46-screenshot-1280x720.jpg",
+    "published_at": "2026-09-12T18:45:27.000Z",
+    "hype_signal": 75,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "world-of-warcraft",
+    "game_label": "World of Warcraft"
+  },
+  {
+    "id": "5912e7444638",
+    "slug": "wow-the-last-titan-cinematic-ups-the-stakes-but-first-xalatath",
+    "headline": "WoW: The Last Titan Cinematic Ups The Stakes, But First, Xal’atath",
+    "summary": "As is BlizzCon tradition, a new World of Warcraft cinematic premiered during the BlizzCon 2026 opening ceremony, setting the stage for the MMORPG's next expansion, The Last Titan. In a departure for BlizzCon, that glimpse was just about all fans learned about the new expansion, with Blizzard instead looking to put the focus more on the final content patch of…",
+    "category": "patches",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/wow-the-last-titan-cinematic-ups-the-stakes-but-first-xalatath/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Blizzcon-2026-Livestream-_-Day-1-2-11-35-screenshot.jpg?w=300",
+    "published_at": "2026-09-12T18:44:46.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "63bcc3392343",
+    "slug": "blizzard-announces-new-hearthstone-class-and-expansion",
+    "headline": "Blizzard Announces New Hearthstone Class and Expansion",
+    "summary": "Hearthstone's next class, The Monk, is coming, along with a new expansion set 10,000 years in the future called Reign of the Black Empire.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/hearthstones-first-new-class-in-4-years-and-a-more-story-driven-journal-are-on-the-way/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/hearthstone-monk.jpg?w=300",
+    "published_at": "2026-09-12T18:33:19.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "hearthstone",
+    "game_label": "Hearthstone"
+  },
+  {
+    "id": "d8567b866843",
+    "slug": "blizzard-announces-diablo-5-for-2029-release",
+    "headline": "Blizzard announces Diablo 5 for 2029 release",
+    "summary": "Blizzard Entertainment has revealed Diablo 5, set in a world without heroes, for a 2029 release date.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/blizzard-announces-diablo-5-for-2029-release/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/d8567b866843/800/600",
+    "published_at": "2026-09-12T18:33:14.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "diablo-5",
+    "game_label": "Diablo 5"
+  },
+  {
+    "id": "c13fbc93c3b0",
+    "slug": "diablo-5-is-coming-in-2029-and-diablo-has-won",
+    "headline": "Diablo 5 is Coming in 2029, and 'Diablo has won'",
+    "summary": "Blizzard has confirmed the release window for Diablo 5, with a statement saying the game has 'won' and there are no safe places to protect players",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/diablo/diablo-5-is-coming-in-2029-and-diablo-has-won/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/BLxtAb7aCyby9oU6Brruse-1280-80.jpg",
+    "published_at": "2026-09-12T18:30:19.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "diablo-5",
+    "game_label": "Diablo 5"
+  },
+  {
+    "id": "b7cc2a4b3264",
+    "slug": "diablo-5-coming-in-2029",
+    "headline": "Diablo 5 Coming in 2029",
+    "summary": "PC Gamer reports that Blizzard's action RPG is set to release in 2029, although no further details are provided.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rpg/diablo-5-is-coming-in-2029/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ESuiNqxM5SpvSnX4WwGNUJ-1280-80.png",
+    "published_at": "2026-09-12T18:25:56.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "diablo-5",
+    "game_label": "Diablo 5"
+  },
+  {
+    "id": "e744c7926a9e",
+    "slug": "diablo-5-is-coming-in-spring-2029-heres-the-first-teaser-trailer",
+    "headline": "Diablo 5 Is Coming In Spring 2029, Here's The First Teaser Trailer",
+    "summary": "\"Sanctuary falls\". Following the reveal of Diablo IV for the Switch 2 at BlizzCon's opening ceremony this weekend, Blizzard ended its Diablo 30th anniversary segment with the official announcement of Diablo V. The next major entry in the action role-playing series will be arriving in Spring 2029. Platforms and a specific release date have not been announced at this stage,…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/diablo-5-is-coming-in-spring-2029-heres-the-first-teaser-trailer"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/bbe2a5c8fdf88/large.jpg",
+    "published_at": "2026-09-12T18:25:00.000Z",
+    "hype_signal": 100,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "bdb785aff3f5",
+    "slug": "star-wars-eclipse-and-kotor-remake-are-officially-still-alive",
+    "headline": "Star Wars Eclipse And KOTOR Remake Are Officially Still Alive",
+    "summary": "A Lucasfilm Games sizzle reel highlighted the long-delayed Star Wars Eclipse and KOTOR remake, confirming they’ve not been killed off.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/star-wars-eclipse-kotor-remake-lucasfilm-mention-same-scene-5-years/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/kotorremakerevan.jpg",
+    "published_at": "2026-09-12T18:23:25.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "250a8aedcb33",
+    "slug": "blizzard-announces-diablo-5",
+    "headline": "Blizzard Announces Diablo 5",
+    "summary": "Blizzard has officially confirmed the next mainline Diablo game, set to launch in 2029, during their BlizzCon 2026 event.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/diablo-5-announcement-2029/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/mephisto-screaming-in-diablo-4.jpg",
+    "published_at": "2026-09-12T18:22:24.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "diablo-5",
+    "game_label": "Diablo 5"
+  },
+  {
+    "id": "d6ccd0ce585f",
+    "slug": "diablo-5-announced",
+    "headline": "Diablo 5 Announced",
+    "summary": "Blizzard has revealed Diablo 5, set in a post-apocalyptic future 100 years after Diablo 4, for release in 2029.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/diablo-5-announced-release-date-2029"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/12/diablo-v-1789237822781.png",
+    "published_at": "2026-09-12T18:22:01.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "diablo-5",
+    "game_label": "Diablo 5"
+  },
+  {
+    "id": "1da472d0e175",
+    "slug": "diablo-v-announced",
+    "headline": "Diablo V Announced",
+    "summary": "Blizzard Entertainment has officially announced Diablo V, set to launch in spring 2029, though platforms have not been specified yet.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/diablo-v-announced"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/1da472d0e175/800/600",
+    "published_at": "2026-09-12T18:17:40.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "diablo-v",
+    "game_label": "Diablo V"
+  },
+  {
+    "id": "05b380cf37a9",
+    "slug": "diablo-4-age-of-hatred-collection-coming-to-switch-next-week",
+    "headline": "Diablo 4: Age Of Hatred Collection Coming to Switch Next Week",
+    "summary": "Blizzard has confirmed the release of Diablo 4: Age of Hatred Collection for the Nintendo Switch, set to arrive next week.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/its-official-diablo-4-age-of-hatred-collection-brings-hell-to-switch-2-next-week"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/aad6d4df7d085/large.jpg",
+    "published_at": "2026-09-12T18:15:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "diablo-4-age-of-hatred-collection",
+    "game_label": "Diablo 4: Age of Hatred Collection"
+  },
+  {
+    "id": "3eac82e9aa1b",
+    "slug": "overwatch-introduces-doctrine-its-9th-hero",
+    "headline": "Overwatch Introduces Doctrine, Its 9th Hero",
+    "summary": "Blizzard confirms Doctrine, a vampire-inspired Support hero, as the ninth playable hero in Overwatch, at BlizzCon 2026.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/overwatch-doctrine-vampire-hero-announced/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/img_3048.png",
+    "published_at": "2026-09-12T18:06:54.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "overwatch",
+    "game_label": "Overwatch"
+  },
+  {
+    "id": "646cda6459eb",
+    "slug": "blizzard-announces-netflix-diablo-series-and-overwatch-could-be-next",
+    "headline": "Blizzard announces Netflix Diablo series, and Overwatch could be next",
+    "summary": "Blizzard Entertainment has announced plans for a Netflix series based on Diablo, while also exploring other projects, including a potential Overwatch show.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/blizzard-announces-netflix-diablo-series-and-overwatch-could-be-next/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/646cda6459eb/800/600",
+    "published_at": "2026-09-12T17:55:21.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "diablo",
+    "game_label": "Diablo"
+  },
+  {
+    "id": "f3965b47d379",
+    "slug": "next-starcraft-game-announced-as-open-world-shooter",
+    "headline": "Next StarCraft Game Announced as Open-World Shooter",
+    "summary": "Blizzard has announced a new StarCraft game, set to release in 2030, with a focus on open-world gameplay. This new installment marks 15 years since the release of StarCraft 2.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/next-starcraft-game-announced-at-blizzcon-as-an-open-world-shooter-but-its-not-due-out-until-2030"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/12/starcraft-1789236271772.png",
+    "published_at": "2026-09-12T17:51:46.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "starcraft",
+    "game_label": "StarCraft"
+  },
+  {
     "id": "a06ebe4693f3",
     "slug": "diablo-animated-series-in-development-at-netflix",
     "headline": "Diablo animated series in development at Netflix",
@@ -10,15 +699,43 @@
       {
         "name": "Gematsu",
         "url": "https://www.gematsu.com/2026/09/diablo-animated-series-in-development-at-netflix"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/diablo-is-getting-an-animated-netflix-series"
       }
     ],
     "image_url": "https://picsum.photos/seed/a06ebe4693f3/800/600",
-    "published_at": "2026-09-12T17:44:03.000Z",
+    "published_at": "2026-09-12T17:45:00.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "73ab6b6c4513",
+    "slug": "heroes-of-the-storm-receives-first-new-character-in-six-years",
+    "headline": "Heroes of the Storm Receives First New Character in Six Years",
+    "summary": "Heroes of the Storm has announced its first new character since 2020, along with a new PTR for testing.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/heroes-of-the-storm-gets-first-new-character-in-six-years"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/12/blizzcon2026-blogroll-1789235003625.png",
+    "published_at": "2026-09-12T17:43:35.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "heroes-of-the-storm",
+    "game_label": "Heroes of the Storm"
   },
   {
     "id": "07e0f28e0d11",
@@ -3976,685 +4693,6 @@
     "image_url": "https://assetsio.gnwcdn.com/Jason_Duval_10.jpg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-09-11T15:31:24.000Z",
     "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4a037b7a6a69",
-    "slug": "gta-6-developer-rockstar-says-it-was-forced-to-put-privacy-films-on-it",
-    "headline": "GTA 6 Developer Rockstar Says It Was Forced to Put Privacy Films on Its Buildings After Drones Were Used to Snap Photos Through Office Windows",
-    "summary": "Rockstar Games has released its opening note in the employment tribunal to determine the fate of the 31 GTA 6 developers it fired last year, and in doing so has revealed the extreme lengths it goes to in order to prevent security breaches.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6-developer-rockstar-says-it-was-forced-to-put-privacy-films-on-its-buildings-after-drones-were-used-to-snap-photos-through-office-windows"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/11/gettyimages-2293947595-1789140078074.jpg",
-    "published_at": "2026-09-11T15:28:50.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ab3abde7d1f6",
-    "slug": "metroid-ravenous-developer-all-but-confirms-its-behind-switch-2-game",
-    "headline": "'Metroid Ravenous' Developer All but Confirms It's Behind Switch 2 Game",
-    "summary": "Based on a LinkedIn post, it seems that 'Metroid Dread' developer MercurySteam will be developing its sequel 'Metroid Ravenous.'",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/metroid-ravenous-developer-nintendo-direct/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/metroid-ravenous.png",
-    "published_at": "2026-09-11T15:22:51.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c96519932a38",
-    "slug": "gta-6-online-player-count-leaked-by-official-court-documents",
-    "headline": "GTA 6 Online Player Count Leaked by Official Court Documents",
-    "summary": "An ongoing legal dispute involving Rockstar Games and Take-Two Interactive reveals a leaked player count for GTA 6 Online.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-online-player-count-leaked/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_11.jpg",
-    "published_at": "2026-09-11T15:10:19.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ddd9f26680dd",
-    "slug": "politicians-grilled-over-gta-6-marketing-amid-controversy-over-grand-t",
-    "headline": "Politicians Grilled Over GTA 6 Marketing Amid Controversy Over Grand Theft Auto's 'Hot Coffee' Incident",
-    "summary": "Politicians have criticized Rockstar's handling of the 'hot coffee' incident from Grand Theft Auto, while the company still spent millions on marketing for GTA 6",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/politicians-dig-up-grand-theft-autos-hot-coffee-incident-and-grill-rockstar-for-violence-but-clear-usd3m-in-gta-6-miami-beach-marketing-anyway-its-a-video-game-its-fake/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/5SZMxgxPtfdQsuELcPj4hf-1280-80.jpg",
-    "published_at": "2026-09-11T15:06:56.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "58e702cc94f0",
-    "slug": "sony-dropped-kojimas-physint-over-budget-profits-timed-exclusivity-con",
-    "headline": "Sony Dropped Kojima's 'PHYSINT' Over Budget, Profits & Timed Exclusivity Concerns, Sources Say",
-    "summary": "Apparently missing deadlines and over budget. It's fair to say we were all a bit surprised by the news that Xbox would be taking over from Sony to publish Hideo Kojima's PHYSINT, dubbed as a spiritual successor to the Metal Gear Solid series. Sony's split from Kojima Productions couldn't have come at a worse time for PlayStation, as many fans…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/sony-dropped-kojimas-physint-over-budget-profits-and-timed-exclusivity-concerns-sources-say"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/91668e7a8c63c/large.jpg",
-    "published_at": "2026-09-11T15:05:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "184399783327",
-    "slug": "switch-2-update-secretly-makes-digital-game-sharing-much-better",
-    "headline": "Switch 2 Update Secretly Makes Digital Game Sharing Much Better",
-    "summary": "Everyone is focused on VRR (variable refresh rate) support for Switch 2 while docked. But the latest system update just provided a notable quality-of-life improvement for people--especially families--who own multiple Switch 2 and Switch consoles. Nintendo now allows for you to play a virtual game card on one of your devices without both having to be online. Previously, you'd need…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/switch-2-update-secretly-makes-digital-game-sharing-much-better/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Switch2.jpg?w=300",
-    "published_at": "2026-09-11T15:04:40.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "38dfad30822f",
-    "slug": "wolverines-liam-mcintyre-on-prepping-for-his-iconic-role-and-his-love",
-    "headline": "Wolverine’s Liam McIntyre on Prepping for His Iconic Role and His Love for All Things Gaming",
-    "summary": "This week on Pause for Thought, Wolverine himself joins us to chat about the upcoming Insomniac game as well as his career. He and Naomi reflect on their time at San Diego Comic-Con, they chat about his love for gaming as well as creating board games, and of course, they dive into the process of brining Wolverine to life in…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/video/marvel-wolverine-liam-mcintyre-interview/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/pause-for-thought-liam-mcintyre-site.jpg",
-    "published_at": "2026-09-11T15:00:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "86761cba0723",
-    "slug": "playstation-reportedly-dumped-hideo-kojima-spy-action-game-physint-ove",
-    "headline": "PlayStation reportedly dumped Hideo Kojima spy action game Physint over exceeded budgets, missed deadlines, and Death Stranding sales",
-    "summary": "Earlier this week, Hideo Kojima-helmed action espionage game Physint switched publishers from PlayStation to Xbox, a leap across the console divide which might make it more likely to get a PC port. At the time, Kojima claimed PlayStation had tried to can the game, while the console makers tried to paint the divorce as an amicable split. Now, a report's…",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/playstation-reportedly-dumped-hideo-kojima-spy-action-game-physint-over-exceeded-budgets-missed-deadlines-and-death-stranding-sales"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/physint-playstation-ditching-report-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-11T14:59:37.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "08f84f001729",
-    "slug": "defying-common-wisdom-people-have-been-buying-more-high-end-graphics-c",
-    "headline": " 'Defying common wisdom', people have been buying more high-end graphics cards despite rising prices, with 12.5 million shipped last quarter alone ",
-    "summary": "That's a whole lot of hardware!",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/graphics-cards/defying-common-wisdom-people-have-been-buying-more-high-end-graphics-cards-despite-rising-prices-with-12-5-million-shipped-last-quarter-alone/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/BX4FDWEFpGocKXBw8SLhsE-1280-80.jpg",
-    "published_at": "2026-09-11T14:56:31.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cfa3772a3a81",
-    "slug": "ikeas-hilarious-official-skyrim-mod-has-reminded-me-just-how-great-the",
-    "headline": " IKEA's hilarious official Skyrim mod has reminded me just how great the Kallax truly is for gaming merch ",
-    "summary": "IKEA has released a mod for Skyrim featuring its Kallax storage unit, and it has reminded me just how much I appreciate the versatile piece of furniture.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/accessories/ikeas-hilarious-official-skyrim-mod-has-reminded-me-just-how-great-the-kallax-truly-is-for-gaming-merch/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/2tFcQfuRfKQo6P3r8sWPrG-1280-80.jpg",
-    "published_at": "2026-09-11T14:56:15.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d9e26234b1a8",
-    "slug": "sony-reportedly-axed-physint-because-hideo-kojimas-metal-gear-successo",
-    "headline": " Sony reportedly axed Physint because Hideo Kojima's Metal Gear successor is over budget, missing deadlines, and not a true exclusive ",
-    "summary": "PlayStation executives close with Kojima have also departed",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/action/after-death-stranding-missed-expectations-sony-reportedly-axed-physint-because-hideo-kojimas-metal-gear-successor-is-over-budget-years-away-missing-deadlines-and-not-a-true-exclusive/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/NgUSMvqKdZkyD6okXyHDt8-1280-80.jpg",
-    "published_at": "2026-09-11T14:54:59.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8bd3bf7f07ae",
-    "slug": "ill-be-playing-gta-san-andreas-on-a-ps2-while-everyone-waits-for-gta-6",
-    "headline": "I'll be playing GTA San Andreas on a PS2 while everyone waits for GTA 6",
-    "summary": "The author plans to play GTA San Andreas on a PS2 while others wait for the release of GTA 6, sparking a humorous commentary on the nostalgia for older games.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/retro/usd2-billion-later-im-not-convinced-gta-6-will-do-more-for-me-than-a-ps2-and-san-andreas/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Ti9RanrLQohXEZXYxacgs8-1280-80.jpg",
-    "published_at": "2026-09-11T14:48:25.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-san-andreas",
-    "game_label": "Grand Theft Auto San Andreas"
-  },
-  {
-    "id": "bff2865d0ba3",
-    "slug": "nintendo-doesnt-like-to-name-developers-early-but-metroid-ravenous-fan",
-    "headline": " Nintendo doesn't like to name developers early, but Metroid Ravenous fans think the Dread studio has already given the game away ",
-    "summary": "MercurySteam is likely returning for the new game",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/metroid/nintendo-doesnt-like-to-name-developers-early-but-metroid-ravenous-fans-think-the-dread-studio-has-already-given-the-game-away/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/BApKnvyqfnEfXKfpd6nWnA-1280-80.jpg",
-    "published_at": "2026-09-11T14:39:56.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1c0062fa129d",
-    "slug": "the-best-star-wars-game-in-years-is-now-on-amazon-prime",
-    "headline": "The Best Star Wars Game in Years is Now on Amazon Prime",
-    "summary": "Amazon Prime members can stream dozens of games as part of their subscription. This month, Star Wars Outlaws and more join the library.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/amazon-gaming-luna-september-2026-star-wars-9-free-games/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25484651/SWO_UbiFW_Trailblazer_combat_NoLogo.png",
-    "published_at": "2026-09-11T14:34:35.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "966d0d8ffd3b",
-    "slug": "ps-ditched-kojimas-physint-project",
-    "headline": "PS Ditched Kojima's Physint Project",
-    "summary": "Sony reportedly ended its deal with Hideo Kojima's upcoming PlayStation game Physint due to budget and deadline concerns",
-    "category": "deals",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/playstation-ditched-kojimas-physint-due-to-missed-deadlines-and-budget-concerns-report-claims"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2025/09/23/hideo-kojima-thumbnail-studio-tour-2022-1671650751472-1757434003477-1758599923814.jpg",
-    "published_at": "2026-09-11T14:32:53.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "physint",
-    "game_label": "Physint"
-  },
-  {
-    "id": "a17342e95720",
-    "slug": "i-got-this-mini-pc-running-cyberpunk-at-85fps-technically-but-it-wants",
-    "headline": " I got this mini PC running Cyberpunk at 85fps (technically), but it wants to do a whole lot more than that ",
-    "summary": "The 2026 Geekom A9 Max takes the same chassis and design as last year, but upgrades it with an AMD Ryzen 9 AI HX 470 processor.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/desktop-pc/geekom-a9-max-review/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/PkUEJXzVyts6CraCMsCj2k-1280-80.jpg",
-    "published_at": "2026-09-11T14:32:38.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "85c22767e657",
-    "slug": "xbox-is-getting-really-weird-about-its-kojima-partnership",
-    "headline": "Xbox Is Getting Really Weird About Its Kojima Partnership",
-    "summary": "Xbox is taking a unique approach with its partnership with Kojima Productions, with the company refusing to comment on or acknowledge the layoff of dozens of employees",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/xbox-boasts-kojima-partnership-despite-layoffs/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/hideo-kojima-next-to-two-weird-picture-frm-xbox.jpg",
-    "published_at": "2026-09-11T14:30:53.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "kojima-productions",
-    "game_label": "Kojima Productions"
-  },
-  {
-    "id": "0bc6b8d59cf4",
-    "slug": "you-probably-overlooked-the-most-important-retro-rerelease-in-the-sept",
-    "headline": "You Probably Overlooked The Most Important Retro Rerelease In The September Nintendo Direct",
-    "summary": "The game that led to Pokémon Mystery Dungeon and pioneered a genre is available in English for the first time",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/torneko-mystery-dungeon-classic-hd-pokemon-shiren-wanderer-roguelike-2000733006"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/Screenshot-2026-09-10-at-13.10.04-1280x698.jpg",
-    "published_at": "2026-09-11T14:30:43.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "859524a7d990",
-    "slug": "playstation-reportedly-cancelled-kojimas-physint-because-death-strandi",
-    "headline": "PlayStation reportedly cancelled Kojima’s Physint because Death Stranding failed to meet expectations",
-    "summary": "Death Stranding and Concord both factored into why PlayStation cancelled Physint, it’s claimed",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/report-playstation-cancelled-hideo-kojimas-physint-because-death-stranding-and-its-sequel-did-meet-revenue-expectations/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/859524a7d990/800/600",
-    "published_at": "2026-09-11T14:25:49.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6dd80e6362ce",
-    "slug": "ex-blizzard-employee-has-vibe-coded-a-new-game-engine-with-backing-fro",
-    "headline": " Ex-Blizzard employee has 'vibe' coded a new game engine with backing from AMD: 'We're developing 93x faster than we ever did before with Unreal' ",
-    "summary": "They put \"vibe\" in quotes because \"it takes a lot more skill than just prompting.\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/software/ai/ex-blizzard-employee-has-vibe-coded-a-new-game-engine-with-backing-from-amd-were-developing-93x-faster-than-we-ever-did-before-with-unreal/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/CVWvG8LTxBeunArMU8PfgM-1280-80.jpg",
-    "published_at": "2026-09-11T14:23:40.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "88e4950c5b05",
-    "slug": "prison-break-is-officially-back",
-    "headline": "Prison Break Is Officially Back",
-    "summary": "Disney and Hulu have announced a new series, Prison Break: Black Creek, which serves as a reboot of the original show.",
-    "category": "deals",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/prison-break-sequel-black-creek-officially-confirmed/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/prison-break.jpg",
-    "published_at": "2026-09-11T14:21:16.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "129fa59495e2",
-    "slug": "ferocious-survival-fps-with-dinosaurs-and-mechs-coming-to-xbox-next-we",
-    "headline": "FEROCIOUS Survival FPS with Dinosaurs and Mechs Coming to Xbox Next Week",
-    "summary": "Survival FPS FEROCIOUS, featuring mercenaries, dinosaurs, and hostile environments, is set to release on Xbox Series X/S next week",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/ferocious-a-survival-fps-with-dinosaurs-and-mechs-is-set-to-arrive-on-xbox-next-week"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/712f98735b3ca/large.jpg",
-    "published_at": "2026-09-11T14:21:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "ferocious",
-    "game_label": "FEROCIOUS"
-  },
-  {
-    "id": "6edcbad97490",
-    "slug": "pokemon-go-and-ea-fc-could-be-under-one-roof-as-ea-and-saudi-owned-sav",
-    "headline": "Pokémon Go and EA FC could be \"under one roof\", as EA and Saudi-owned Savvy Games Group reportedly considering merger",
-    "summary": "Saudi Arabia's Public Investment Fund (PIF) is reportedly considering combining EA - which it acquired in a $55bn leveraged buyout earlier this year - with its Savvy Games Group, all under one banner.\n Read more",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/ea-savvy-games-group-reported-merger-saudi-arabia-pif"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/ea-logo_tMgccMU.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-11T14:18:19.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f5fefbff145e",
-    "slug": "it-would-have-been-insanity-to-take-no-action-fiery-opening-statements",
-    "headline": "'It would have been insanity to take no action' - Fiery opening statements reveal Rockstar's culture of secrecy as tribunal over sacked GTA 6 employees begins",
-    "summary": "Rockstar Games and the Independent Workers Union of Great Britain (IWGB) have traded blows in fiery opening statements during the final employment tribunal hearing, relating to the sudden firing of 31 Rockstar North employees nearly a year ago.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/rockstar-gta-6-fired-employees-tribunal-statements"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/gta-6-surprised-man-face-tribunal.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-11T14:16:10.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ef9452e4ab24",
-    "slug": "playstation-abandoned-kojimas-new-game-over-profit-concerns-its-claime",
-    "headline": "PlayStation Abandoned Kojima's New Game Over Profit Concerns, It's Claimed",
-    "summary": "A new report claims that PlayStation dropped Physint because Kojima's new game is over budget and missing deadlines, among other reasons.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/playstation-dropped-physint-explained-report-hideo-kojima/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/kojima-posing-with-xbox-higher-ups.jpg",
-    "published_at": "2026-09-11T14:10:40.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d349e8ea25c5",
-    "slug": "playstation-reportedly-dropped-kojimas-game",
-    "headline": "PlayStation Reportedly Dropped Kojima's Game",
-    "summary": "Kojima Productions' game has been dropped from release due to budget and missed deadlines, with Physint reportedly still years away",
-    "category": "industry",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/playstation-reportedly-dropped-kojimas-game-due-to-a-growing-budget-and-missed-deadlines-2000733510"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/03/kohi-1280x698.jpg",
-    "published_at": "2026-09-11T14:08:33.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "kojima-productions",
-    "game_label": "Kojima Productions"
-  },
-  {
-    "id": "9e9d3561bbae",
-    "slug": "nrg-brings-immersive-resident-evil-experience-to-hollywood",
-    "headline": "NRG Brings Immersive Resident Evil Experience to Hollywood",
-    "summary": "NRG is partnering with a Hollywood studio to create an immersive Resident Evil event ahead of the film's release, aiming to demonstrate the potential of esports and gaming properties in driving real-world interest in movies and TV shows.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/nrg-courts-hollywood-with-immersive-resident-evil-event-ahead-of-film-release/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/9e9d3561bbae/800/600",
-    "published_at": "2026-09-11T14:08:20.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "resident-evil",
-    "game_label": "Resident Evil"
-  },
-  {
-    "id": "33ccbc2aa451",
-    "slug": "bloomberg-sony-interactive-entertainment-stepped-away-from-physint-ove",
-    "headline": "Bloomberg: Sony Interactive Entertainment stepped away from Physint over missed deadlines, budget concerns",
-    "summary": "Sony Interactive Entertainment stepped away from publishing Kojima Productions’ stealth action game Physint over budget concerns, …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/bloomberg-sony-interactive-entertainment-stepped-away-from-physint-over-missed-deadlines-budget-concerns"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/33ccbc2aa451/800/600",
-    "published_at": "2026-09-11T14:06:25.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ce472356994a",
-    "slug": "death-stranding-franchise-likely-barely-broke-even-could-explain-sony",
-    "headline": "Death Stranding Franchise Likely Barely Broke Even, Could Explain Sony Dropping Physint – Analyst",
-    "summary": "With Sony no longer involved in the production of Hideo Kojima's Metal Gear Solid spiritual successor, Physint, people are wondering why the PlayStation company decided to part ways with the veteran game designer's upcoming game. Xbox has stepped in to rescue the project, resulting in a rare win for Sony's rival. At the same time, Sony is weathering a PR…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/death-stranding-franchise-likely-barely-broke-even-could-explain-sony-dropping-physint-analyst/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/physint_key-art-835322867.jpg?w=300",
-    "published_at": "2026-09-11T14:04:29.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a8eab677fbe5",
-    "slug": "have-womens-roles-in-games-truly-evolved-since-the-days-of-damsels-in",
-    "headline": " Have women's roles in games truly evolved since the days of damsels in distress? ",
-    "summary": "Episode 5 of the GamesRadar+ G+RLS podcast is here!",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/have-womens-roles-in-games-truly-evolved-since-the-days-of-damsels-in-distress/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Ac5HoaFw6mrCTvXRWe6Bq7-1280-80.jpg",
-    "published_at": "2026-09-11T14:00:00.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
