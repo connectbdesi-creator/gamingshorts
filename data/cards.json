@@ -1,5 +1,53 @@
 [
   {
+    "id": "aee3ede397e0",
+    "slug": "gta-6-is-treating-money-the-way-more-open-world-games-should",
+    "headline": "GTA 6 Is Treating Money the Way More Open-World Games Should",
+    "summary": "GTA 6 is giving money more weight than most open-world games, and that could make its world feel far more meaningful.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-money-economy-open-world-games/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/gta-6-money-open-world.jpg",
+    "published_at": "2026-09-12T21:30:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2b0aea135050",
+    "slug": "blizzcon-2026-every-announcement-from-blizzards-opening-ceremony",
+    "headline": "BlizzCon 2026: Every announcement from Blizzard’s opening ceremony",
+    "summary": "Blizzard announced Diablo V, StarCraft, and other upcoming titles during their BlizzCon 2026 opening ceremony.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/blizzcon-2026-every-announcement-from-blizzards-opening-ceremony/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/2b0aea135050/800/600",
+    "published_at": "2026-09-12T21:26:29.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "blizzard",
+    "game_label": "Blizzard"
+  },
+  {
     "id": "3b8a0f8a8708",
     "slug": "new-official-diablo-4-release-confirmed-for-september-15",
     "headline": "New Official Diablo 4 Release Confirmed for September 15",
@@ -4687,50 +4735,5 @@
     "comment_count": 0,
     "game": "shroom-and-gloom",
     "game_label": "Shroom and Gloom"
-  },
-  {
-    "id": "594767543501",
-    "slug": "goodwill-hunting-consoles-brand-value-and-loyalty-is-being-tested-opin",
-    "headline": "Goodwill Hunting: Consoles’ brand value and loyalty is being tested | Opinion",
-    "summary": "There’s a really important piece of context that looms behind every decision, every announcement, and every news story about PlayStation or Xbox at the moment. It’s a ticking clock; a countdown to the moment when Sony and Microsoft are going to have to start talking about their next-generation hardware – and begin the process of convincing the world that an…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/goodwill-hunting-consoles-brand-value-and-loyalty-is-being-tested-opinion"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/ps5-controller-.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-11T16:28:42.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3e9919b707ad",
-    "slug": "the-more-aroused-the-fly-is-the-harder-it-tries-to-shoot-googles-fully",
-    "headline": "\"The more aroused the fly is the harder it tries to shoot\" - Google's fully mapped fly brain is now playing Doom, Beat Saber, and more",
-    "summary": "It's science-fiction Friday as Google's fully mapped fly brain, which was revealed last week, has been engineered to play Doom and rhythm-action game Beat Saber.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/google-fly-brain-doom-beat-saber"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/doom-fly.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-11T16:14:51.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
