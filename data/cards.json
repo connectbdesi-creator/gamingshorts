@@ -1,5 +1,26 @@
 [
   {
+    "id": "f2c479d87bb1",
+    "slug": "why-dragons-went-extinct-before-game-of-thrones-explained",
+    "headline": "Why Dragons Went Extinct Before Game of Thrones, Explained",
+    "summary": "Long before Daenerys Targaryen hatches three dragons, the creatures were extinct in the Game of Thrones universe, but what actually happened?",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/why-game-of-thrones-dragons-extinct-explained/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/untitled-design-1-2.jpg",
+    "published_at": "2026-09-12T22:00:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "aee3ede397e0",
     "slug": "gta-6-is-treating-money-the-way-more-open-world-games-should",
     "headline": "GTA 6 Is Treating Money the Way More Open-World Games Should",
@@ -46,6 +67,27 @@
     "comment_count": 0,
     "game": "blizzard",
     "game_label": "Blizzard"
+  },
+  {
+    "id": "9bf76eac108a",
+    "slug": "warcraft-3-reforged-forsaken-kingdom-review-so-far",
+    "headline": "Warcraft 3 Reforged: Forsaken Kingdom Review So Far",
+    "summary": "A surprise single-player campaign that maintains the feel of classic Warcraft 3 while mixing in some new ideas.",
+    "category": "reviews",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/warcraft-3-forsaken-kingdom-review"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/12/warcraft-3-expansion-blogroll-1789246436615.jpg",
+    "published_at": "2026-09-12T21:05:26.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "3b8a0f8a8708",
@@ -4691,49 +4733,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "2b0656d9bab6",
-    "slug": "why-do-we-need-more-graphics-2010s-alan-wake-was-as-photoreal-as-video",
-    "headline": "\"Why do we need more graphics?\": 2010's Alan Wake was as photoreal as videogames ever needed to be, reckons original Thief designer",
-    "summary": "Former Thief: The Dark Project designer, Ion Storm game director, and sometime Spielberg collaborator Randy Smith Evergreen has shared his probably-incendiary view that photorealistic videogame graphics need not have advanced any further than Remedy's original Alan Wake. For context, Alan Wake released back in 2010, when some of you people were screaming babies. Every touted breakthrough in visual",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/why-do-we-need-more-graphics-2010s-alan-wake-was-as-photoreal-as-videogames-ever-needed-to-be-reckons-original-thief-designer"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/alan-wake-bridge-original.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-11T16:29:41.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "18ef38ba0aa7",
-    "slug": "shroom-and-gloom-is-my-new-deckbuilder-obsession",
-    "headline": "Shroom and Gloom is my new deckbuilder obsession",
-    "summary": "The deckbuilder Shroom and Gloom has won over the author with its exciting battles, stunning visuals, and charming fungal creatures.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/roguelike/shroom-and-gloom-is-my-new-deckbuilder-obsession-thanks-to-its-fantastic-fights-beautiful-artwork-and-tasty-mushrooms/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ifdtazoDdb2tf68W6G2Ek7-1280-80.png",
-    "published_at": "2026-09-11T16:29:02.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "shroom-and-gloom",
-    "game_label": "Shroom and Gloom"
   }
 ]
