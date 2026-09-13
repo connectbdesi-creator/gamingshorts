@@ -1,5 +1,133 @@
 [
   {
+    "id": "b910b62342e8",
+    "slug": "help-the-hive-or-refuse-in-blood-of-dawnwalker",
+    "headline": "Help The Hive or Refuse in Blood of Dawnwalker",
+    "summary": "Coen and Lacra will have to decide whether to aid The Hive goblins in Blood of Dawnwalker, with choices affecting gameplay",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/blood-of-dawnwalker-hive-and-seek-help-hive-or-refuse-chonk/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/hive-and-seek-quest-blood-of-dawnwalker.jpg",
+    "published_at": "2026-09-13T14:40:26.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "blood-of-dawnwalker",
+    "game_label": "Blood of Dawnwalker"
+  },
+  {
+    "id": "d5a88087f7f8",
+    "slug": "dragons-dogma-2-finally-gets-the-difficulty-fix-right",
+    "headline": "Dragon's Dogma 2 Finally Gets the Difficulty Fix Right",
+    "summary": "Dragon's Dogma 2's latest update addresses a common misconception about its challenging gameplay, providing a better player experience",
+    "category": "patches",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/dragons-dogma-2-rpg-difficulty-friction-quality-of-life/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/dragons-dogma-2-dark-arisen-game-rant-feature.jpg",
+    "published_at": "2026-09-13T14:30:12.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dragons-dogma-2",
+    "game_label": "Dragon's Dogma 2"
+  },
+  {
+    "id": "b5fdc5fad262",
+    "slug": "borderlands-4-blocks-players-from-ogling-new-vault-hunter",
+    "headline": "Borderlands 4 Blocks Players From Ogling New Vault Hunter",
+    "summary": "Gearbox Software has confirmed that Borderlands 4 will limit the use of the in-game photo mode to 30 minutes, a move aimed at reducing frustration and encouraging players to engage with the game's features.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/borderlands-4-fans-thirsting-loveless-vault-hunter/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/loveless-in-borderlands-4-holding-onto-a-neon-green-energy-like-grapple.jpg",
+    "published_at": "2026-09-13T14:29:53.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "borderlands-4",
+    "game_label": "Borderlands 4"
+  },
+  {
+    "id": "a78925d4aa41",
+    "slug": "upcoming-vampire-rpg-nighthawks-has-been-removed-from-steam-search-and",
+    "headline": " Upcoming vampire RPG Nighthawks has been removed from Steam search and delisted in certain countries as Valve classifies it Adults Only: 'It's very bad news for us' ",
+    "summary": "The label \"immediately makes the game persona non grata in several important countries like Germany\".",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rpg/upcoming-vampire-rpg-nighthawks-has-been-removed-from-steam-search-and-delisted-in-certain-countries-as-valve-classifies-it-adults-only-its-very-bad-news-for-us/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/eYcmhUVpDyumsAivwRWQ5m-1280-80.jpg",
+    "published_at": "2026-09-13T14:16:29.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a09b13ea0b04",
+    "slug": "diablo-4-annual-expansions-are-done",
+    "headline": "Diablo 4 Annual Expansions Are Done",
+    "summary": "Blizzard is shifting focus to seasonal stories leading up to Diablo 5, effectively ending annual expansions for Diablo 4.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/diablo-4-annual-expansions-are-done-as-blizzard-focuses-on-seasonal-stories-leading-up-to-diablo-5-2000733975"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/lord-hatred-1280x720.jpg",
+    "published_at": "2026-09-13T14:15:41.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "diablo-4",
+    "game_label": "Diablo 4"
+  },
+  {
     "id": "616ad407fb4f",
     "slug": "sony-is-the-bad-guy-of-2026-but-its-going-to-win-anyway",
     "headline": "Sony is the Bad Guy of 2026, but it’s Going to Win Anyway ",
@@ -4628,127 +4756,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "7a1b9040992f",
-    "slug": "24-years-later-one-of-the-most-influential-japanese-games-of-all-time",
-    "headline": " 24 years later, one of the most influential Japanese games of all time becomes one of the highest-rated Steam games of 2026 ",
-    "summary": "Touhou Koumakyou: New Classic's nearly 3,000 reviews are averaging 98% positive",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/24-years-later-one-of-the-most-influential-japanese-games-of-all-time-becomes-one-of-the-highest-rated-steam-games-of-2026/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/8YUAazALYtWq8WTJhiqCd7-1280-80.jpg",
-    "published_at": "2026-09-11T21:07:53.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2e396b61fe76",
-    "slug": "openai-employee-takes-down-chatgpt-coded-runescape-clone",
-    "headline": "OpenAI Employee Takes Down ChatGPT-Coded RuneScape Clone",
-    "summary": "An employee at OpenAI removed a fan-made RuneScape clone created with the AI tool ChatGPT following a cease-and-desist from Jagex, the game's original developer.",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/software/ai/openai-employee-takes-down-chatgpt-coded-runescape-clone-following-jagex-cease-and-desist/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/jcNTdhh7GZ2iutVDKFXB4b-1280-80.jpg",
-    "published_at": "2026-09-11T21:07:32.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "runescape",
-    "game_label": "RuneScape"
-  },
-  {
-    "id": "5a75037aed5b",
-    "slug": "hoyoverse-wins-112000-in-court-after-ai-company-stole-character-voices",
-    "headline": "HoYoverse Wins $112,000 in Court After AI Company Stole Character Voices",
-    "summary": "Game developer HoYoverse has won a significant court case against an AI company that used 63 of its characters' voices without permission.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/open-world/genshin-impact-dev-hoyoverse-wins-usd112-000-in-court-after-ai-company-stole-63-of-its-characters-voices/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Smver5XGGDMmgLbWD4dELd-1280-80.jpg",
-    "published_at": "2026-09-11T21:06:50.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "831d919b6bc5",
-    "slug": "one-of-nintendos-greatest-80s-games-is-still-the-perfect-weekend-obses",
-    "headline": "One of Nintendo's Greatest '80s Games Is Still the Perfect Weekend Obsession",
-    "summary": "Polygon discusses how the game 'Gyromite' is still a great weekend retro gaming session, despite initial expectations, and its enduring popularity",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/best-retro-80s-games-nintendo/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/zelda-2-key-art.webp",
-    "published_at": "2026-09-11T21:00:14.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gyromite",
-    "game_label": "Gyromite"
-  },
-  {
-    "id": "69a1d2d0888e",
-    "slug": "rockstar-games-gta-6-coming-to-miami",
-    "headline": "Rockstar Games' GTA 6 Coming to Miami",
-    "summary": "Miami city officials have approved a discreet marketing campaign for Grand Theft Auto 6, allowing the game to be promoted in real-life locations, including a city football field.",
-    "category": "deals",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/miami-approves-discreet-gta-6-marketing-campaign-so-the-city-can-fix-its-football-field"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-miami-marketing-campaign-vice-city/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-miami-beach-marketing-deal-price/"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/10/jason-and-lucia-09-1789080468436.jpg",
-    "published_at": "2026-09-11T20:53:50.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   }
 ]
