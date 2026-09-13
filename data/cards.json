@@ -1,5 +1,102 @@
 [
   {
+    "id": "e106d868b864",
+    "slug": "warcraft-3-reforgeds-big-update-adds-two-new-secret-levels-that-no-one",
+    "headline": "Warcraft 3 Reforged's Big Update Adds Two New Secret Levels That No One's Found Yet",
+    "summary": "Warcraft 3 Reforged has received a new update with two secret levels, adding to the game's lore and mystery",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/warcraft-3-reforged-forsaken-kingdom-secret-levels-2000734013"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/Warcraft-III-Reforged_-Forsaken-Kingdom-_-Launch-Trailer-0-8-screenshot-1280x720.jpg",
+    "published_at": "2026-09-13T22:14:23.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "warcraft-3-reforged",
+    "game_label": "Warcraft 3 Reforged"
+  },
+  {
+    "id": "06785debfed3",
+    "slug": "bethesda-comments-on-fallout-5-plans",
+    "headline": "Bethesda Comments on Fallout 5 Plans",
+    "summary": "Bethesda reveals its plans for the Fallout franchise, including the upcoming Fallout 5, without providing specific details.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/fallout-5-bethesda-update/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/fallout-5-bethesda-comment.jpg",
+    "published_at": "2026-09-13T22:00:12.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fallout-5",
+    "game_label": "Fallout 5"
+  },
+  {
+    "id": "2996948b3a6e",
+    "slug": "world-of-warcraft-forever-hype-dampened-by-30-elves",
+    "headline": "World of Warcraft Forever hype dampened by $30 elves",
+    "summary": "A new Skyborne race in World of Warcraft has been released, but its accessibility is limited, raising concerns about price disparities",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/our-world-of-warcraft-forever-hype-is-dampened-by-usd30-elves-new-skyborne-race-locked-behind-expansion-tier-purchase/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/world-of-warcraft-forever-beta-access-beta-start-times/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/F2Vr74L9EDyrQyczqYRoie-1280-80.png",
+    "published_at": "2026-09-13T21:51:33.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "world-of-warcraft-forever",
+    "game_label": "World of Warcraft Forever"
+  },
+  {
+    "id": "0545b4c6bb2c",
+    "slug": "diablo-5-director-confirms-game-is-already-in-full-production",
+    "headline": "Diablo 5 Director Confirms Game is Already in Full Production",
+    "summary": "Diablo 5 is officially in full production and coming in 2029. Game Director Joe Shely reveals the sequel will feature more classes, procedural worlds, and jump 100 years into the future.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/diablo-5-director-confirms-game-is-already-in-full-production"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/13/d5-1789336016630.png",
+    "published_at": "2026-09-13T21:41:04.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "1ef1181abfde",
     "slug": "fable-is-finally-doing-something-immersive-most-open-world-rpgs-still",
     "headline": "Fable Is Finally Doing Something Immersive Most Open-World RPGs Still Avoid",
@@ -252,30 +349,6 @@
     "comment_count": 0,
     "game": "fortnite",
     "game_label": "Fortnite"
-  },
-  {
-    "id": "2996948b3a6e",
-    "slug": "world-of-warcraft-forever-hype-dampened-by-30-elves",
-    "headline": "World of Warcraft Forever hype dampened by $30 elves",
-    "summary": "A new Skyborne race in World of Warcraft has been released, but its accessibility is limited, raising concerns about price disparities",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/our-world-of-warcraft-forever-hype-is-dampened-by-usd30-elves-new-skyborne-race-locked-behind-expansion-tier-purchase/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/F2Vr74L9EDyrQyczqYRoie-1280-80.png",
-    "published_at": "2026-09-13T19:18:22.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "world-of-warcraft-forever",
-    "game_label": "World of Warcraft Forever"
   },
   {
     "id": "a095f4a05f2a",
@@ -4657,74 +4730,5 @@
     "comment_count": 0,
     "game": "zeverland",
     "game_label": "Zeverland"
-  },
-  {
-    "id": "e7a3d94aabd2",
-    "slug": "genshin-impact-71-livestream-codes-given-away",
-    "headline": "Genshin Impact 7.1 Livestream Codes Given Away",
-    "summary": "PC Gamer has announced that it will be giving away free 7.1 livestream codes to celebrate the latest update to Genshin Impact. Players can claim their codes by following the outlet's social media instructions.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/rpg/genshin-impact-codes-7-1-livestream/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/dJZk6UGvadinq6en5HQy6k-1280-80.jpg",
-    "published_at": "2026-09-12T12:04:33.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "genshin-impact",
-    "game_label": "Genshin Impact"
-  },
-  {
-    "id": "d9c8f5922dcf",
-    "slug": "mario-fans-have-a-new-platforming-hero-to-watch-this-fall",
-    "headline": "Mario Fans Have A New Platforming Hero To Watch This Fall",
-    "summary": "Croak is a new platformer on Steam and you can play the demo now before the fall release.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/croak-video-game-2026-preview/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/croak-demo-final-boss-project.jpg",
-    "published_at": "2026-09-12T12:00:19.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7453d6a07743",
-    "slug": "physint-could-be-xboxs-biggest-gamble-yet",
-    "headline": "Physint Could Be Xbox's Biggest Gamble Yet",
-    "summary": "Microsoft's Physint hijack is by no means a guaranteed victory, and could be Xbox's biggest gamble yet.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/physint-could-be-xboxs-biggest-gamble-yet"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/11/physint-blog-1789143746190.jpg",
-    "published_at": "2026-09-12T12:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
