@@ -10946,5 +10946,49 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-13T07:51:06.684Z"
+  },
+  {
+    "slug": "gta-5",
+    "name": "GTA V (George)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/d93/d93b9da45c1ab58685e0029c021bbd97.jpg",
+    "released": "2022-03-23",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [],
+    "stores": [],
+    "fetched_at": "2026-09-13T13:20:46.612Z"
+  },
+  {
+    "slug": "zelda-tears-of-the-kingdom",
+    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/556/55684bfd048706f4266d331d70050b37.jpg",
+    "released": "2023-05-12",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/51f/51f7928a2630fc4bbb3dac59b8f31448.jpg",
+      "https://media.rawg.io/media/screenshots/104/10431d15726ed2593401cc70e2115a82.jpg",
+      "https://media.rawg.io/media/screenshots/c0d/c0dafd15ec182acab8f5879665eaa642.jpg",
+      "https://media.rawg.io/media/screenshots/725/725dbbf72f15a32f418a42d2e8ac8b25.jpg",
+      "https://media.rawg.io/media/screenshots/c63/c63fda6df2574a7d071f96082438e820.jpg",
+      "https://media.rawg.io/media/screenshots/c92/c92c2acf519b3dc613c0f0085cc34b34.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-13T13:20:47.385Z"
   }
 ]

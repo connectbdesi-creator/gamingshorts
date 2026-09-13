@@ -1,5 +1,126 @@
 [
   {
+    "id": "d34e619e8ab6",
+    "slug": "marvels-wolverine-not-in-running-for-goty",
+    "headline": "Marvel's Wolverine Not in Running for GOTY",
+    "summary": "Marvel's Wolverine on PS5 may not receive a Game of the Year nomination at the 2026 Game Awards, marking the first time a PlayStation exclusive has missed the mark since 2014.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/marvels-wolverine-sony-goty-run/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/marvels-wolverin-2-1.jpg",
+    "published_at": "2026-09-13T13:00:14.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "marvels-wolverine",
+    "game_label": "Marvel's Wolverine"
+  },
+  {
+    "id": "9444a5401e5e",
+    "slug": "how-to-lose-cops-in-gta-5",
+    "headline": "How to Lose Cops in GTA 5",
+    "summary": "GTA 5 players can evade the police without cheats by using certain techniques, including exploiting the game's physics and driving mechanics.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-5-remove-wanted-level-cops/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/gta-5-how-to-lose-your-wanted-level.jpg",
+    "published_at": "2026-09-13T13:00:12.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-5",
+    "game_label": "GTA 5"
+  },
+  {
+    "id": "47adf8914c68",
+    "slug": "steam-users-can-claim-co-op-pve-game-for-free-before-its-gone",
+    "headline": "Steam Users Can Claim Co-Op PvE Game for Free Before It's Gone",
+    "summary": "A co-op Steam game with PvE action is currently available for free, but users need to act fast, as the promotion ends soon and may not return.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/steam-free-games-today-swapmeat/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/steam-swapmeat-free-keep-september-alienware-arena-gamerant.jpg",
+    "published_at": "2026-09-13T13:00:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2187e673bd3e",
+    "slug": "the-depths-is-the-best-part-of-zelda-tears-of-the-kingdom",
+    "headline": "The Depths is the best part of Zelda: Tears of the Kingdom",
+    "summary": "GamesRadar+ praises The Depths as the pinnacle of the Zelda series, highlighting its dark atmosphere and immersive gameplay",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/the-legend-of-zelda/the-depths-is-the-best-part-of-zelda-tears-of-the-kingdom-and-its-the-epitome-of-everything-zelda-as-a-series-has-been-building-to/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/YLVcqMC7bcZFh6VXMMDU9K-1280-80.jpg",
+    "published_at": "2026-09-13T13:00:00.000Z",
+    "hype_signal": 90,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "zelda-tears-of-the-kingdom",
+    "game_label": "Zelda: Tears of the Kingdom"
+  },
+  {
+    "id": "858aff053903",
+    "slug": "world-of-warcraft-coming-to-console-with-new-xbox-controller-support",
+    "headline": "World of Warcraft Coming to Console with New Xbox Controller Support",
+    "summary": "Xbox is reportedly planning to bring World of Warcraft to consoles, possibly as a result of new controller support announced at Blizzcon 2026.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/world-of-warcraft-might-be-coming-to-console-as-new-xbox-controller-support-revealed"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/9ef8db07608e3/large.jpg",
+    "published_at": "2026-09-13T13:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "world-of-warcraft",
+    "game_label": "World of Warcraft"
+  },
+  {
     "id": "70dd1cfcce83",
     "slug": "the-legend-of-zelda-ocarina-of-time-remake-map-officially-revealed",
     "headline": "The Legend of Zelda: Ocarina of Time Remake Map Officially Revealed",
@@ -4620,122 +4741,5 @@
     "comment_count": 0,
     "game": "danganronpa-2x2",
     "game_label": "Danganronpa 2x2"
-  },
-  {
-    "id": "42af5403b789",
-    "slug": "cyberpunk-2077-finally-has-the-third-person-camera-mod-players-have-be",
-    "headline": "Cyberpunk 2077 Finally Has the Third Person Camera Mod Players Have Been Demanding",
-    "summary": "A new mod for Cyberpunk 2077 allows for third-person camera control, a feature players have been demanding for the game.",
-    "category": "patches",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/cyberpunk-2077-third-person-mod/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/cyberpunk-alone.png",
-    "published_at": "2026-09-11T19:30:14.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "cyberpunk-2077",
-    "game_label": "Cyberpunk 2077"
-  },
-  {
-    "id": "d8103964f3f6",
-    "slug": "star-fox-adventures-settings-change-is-a-game-changer",
-    "headline": "Star Fox Adventures Settings Change is a Game-Changer",
-    "summary": "Star Fox Adventures brings back a popular setting that Switch 2 players can activate after booting up the GameCube classic for the first time.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/star-fox-adventures-nso-widescreen-best-settings/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/new-star-fox-adventures-setting-is-a-game-changer-gamerant.jpg",
-    "published_at": "2026-09-11T19:30:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "40cafb13f697",
-    "slug": "the-witcher-3s-new-weapon-was-impossible-11-years-ago",
-    "headline": "The Witcher 3's New Weapon Was 'Impossible' 11 Years Ago",
-    "summary": "The Witcher 3's upcoming Songs of the Past DLC finally gives Geralt his chain, a weapon that was \"impossible\" to include when the base game launched.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/the-witcher-3-wild-hunt-songs-of-the-past-new-chain-weapon/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-witcher-3-remastered-combat-signs-shield.png",
-    "published_at": "2026-09-11T19:24:58.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a3e5e644ad34",
-    "slug": "rust-update-turns-survival-game-into-cozy-experience",
-    "headline": "Rust Update Turns Survival Game Into Cozy Experience",
-    "summary": "Rust is getting a major update that shifts its focus from survival to a more relaxed, cozy gameplay experience, allowing players to care for livestock and enjoy a more peaceful atmosphere.",
-    "category": "patches",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/rust-animal-husbandry-livestock-update-preview/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/satellite-crash-rust.jpg",
-    "published_at": "2026-09-11T19:11:47.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "rust",
-    "game_label": "Rust"
-  },
-  {
-    "id": "4bc78b6bbda2",
-    "slug": "after-sony-tells-fans-they-dont-own-digital-games-one-consumer-rights",
-    "headline": "After Sony tells fans they don't own digital games, one Consumer Rights group is tracking all the times PlayStation said the opposite",
-    "summary": "Last month, Sony argued that \"reasonable consumers\" already know they don't really own the digital goods they paid for. The Consumer Rights wiki has now made a list collecting more than 30 examples where Sony told customers they do, in fact, own the digital games they paid for.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/consumer-rights-tracking-playstation-digital-games-ownership"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/wolverine-promo-image-insomniac-ps5-store.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-11T19:07:38.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
