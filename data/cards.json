@@ -1,5 +1,93 @@
 [
   {
+    "id": "c8b1ee87d380",
+    "slug": "the-authors-journey-in-valheim",
+    "headline": "The Author's Journey in Valheim",
+    "summary": "A PC Gamer writer discusses their experience with Valheim and how playing the game for over 400 hours has kept them engaged.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/survival-crafting/after-more-than-400-hours-of-valheim-in-early-access-i-love-the-journey-from-naked-adventurer-to-godly-viking-now-more-than-ever/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/pNKVZuBS8Mn4tpdLuTYSyM-1280-80.jpg",
+    "published_at": "2026-09-13T16:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "valheim",
+    "game_label": "Valheim"
+  },
+  {
+    "id": "5341d3af6c2f",
+    "slug": "melty-blood-twi-lumina-announced-for-switch-1-2-out-2027",
+    "headline": "Melty Blood: Twi-Lumina Announced For Switch 1 & 2, Out 2027",
+    "summary": "Developer French Bread and publisher Aniplex have announced Melty Blood: Twi-Lumina for Nintendo Switch, with a confirmed 2027 release date.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/melty-blood-twi-lumina-announced-for-switch-1-and-2-out-2027"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/de5898374613e/large.jpg",
+    "published_at": "2026-09-13T16:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "melty-blood-twi-lumina",
+    "game_label": "Melty Blood: Twi-Lumina"
+  },
+  {
+    "id": "5cce7c4934c7",
+    "slug": "ive-got-a-soft-spot-for-cozy-games-with-flying-in-them-and-these-are-m",
+    "headline": " I've got a soft spot for cozy games with flying in them and these are my 4 favorites ",
+    "summary": "Let there be flight!",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/ive-got-a-soft-spot-for-cozy-games-with-flying-in-them-and-these-are-my-4-favorites/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/idww9xVcbDqLKH8LyiLX7R-1280-80.jpg",
+    "published_at": "2026-09-13T16:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a04500eb8aa1",
+    "slug": "bioware-crunched-21-days-on-one-day-off-making-mass-effect-says-former",
+    "headline": " BioWare crunched \"21 days on, one day off\" making Mass Effect, says former dev: \"That was really, really hard, but really worth it\" ",
+    "summary": "Cinematic designer Armando Troisi says the RPG was developed with \"a level of ambition that I think was just unheard of at the time\"",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/mass-effect/bioware-crunched-21-days-on-one-day-off-making-mass-effect-says-former-dev-that-was-really-really-hard-but-really-worth-it/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/wUAo85wWFy5R6TmjmciXb3-1280-80.jpg",
+    "published_at": "2026-09-13T16:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "a8293f13f0cb",
     "slug": "inzois-director-announces-multiplayer-roleplaying-mode-inspired-by-rea",
     "headline": "Inzoi's Director Announces Multiplayer Roleplaying Mode Inspired by Ready Player One",
@@ -633,6 +721,29 @@
     "comment_count": 0,
     "game": "fallout-new-vegas",
     "game_label": "Fallout: New Vegas"
+  },
+  {
+    "id": "3e407723fdd0",
+    "slug": "the-idolmaster-sidem-game-announced-for-switch-2-switch",
+    "headline": "The Idolmaster SideM game announced for Switch 2, Switch",
+    "summary": "Bandai Namco subsidiary D3 Publisher has announced a The Idolmaster SideM game for Switch 2 …",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/the-idolmaster-sidem-game-announced-for-switch-2-switch"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/3e407723fdd0/800/600",
+    "published_at": "2026-09-13T13:05:09.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "d34e619e8ab6",
@@ -4638,125 +4749,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "8db278c94a44",
-    "slug": "bethesdas-fallout-franchise-gets-major-remasters-and-new-game",
-    "headline": "Bethesda's Fallout Franchise Gets Major Remasters and New Game",
-    "summary": "Bethesda is revamping the Fallout franchise with remasters of Fallout 3 and New Vegas, as well as a new Fallout 5 and a spinoff game, marking a significant expansion of the series.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/new-fallout-games-remasters-bethesda-softworks/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/4245507/Fallout-4-400-hours.0.jpg",
-    "published_at": "2026-09-12T01:02:44.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "fallout",
-    "game_label": "Fallout"
-  },
-  {
-    "id": "f96e4f9503dc",
-    "slug": "polyarc-games-shuts-down",
-    "headline": "Polyarc Games Shuts Down",
-    "summary": "VR game developer Polyarc Games is ceasing operations and shutting down its titles, including Moss VR series.",
-    "category": "industry",
-    "platform_tags": [
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/polyarc-games-developer-of-moss-vr-titles-announces-shutdown/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/f96e4f9503dc/800/600",
-    "published_at": "2026-09-12T00:55:50.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "moss-vr",
-    "game_label": "Moss VR"
-  },
-  {
-    "id": "b3f88e095675",
-    "slug": "best-games-that-use-music-as-a-mechanic",
-    "headline": "Best Games That Use Music As A Mechanic",
-    "summary": "Video games that incorporate music as a gameplay mechanic, highlighting the importance of sound in gaming experiences.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/best-games-that-use-music-creative-mechanic/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/bazaart_eeeca686-f95d-4db3-b0a7-cd2c38211fd5.jpeg",
-    "published_at": "2026-09-12T00:45:12.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "34454e220c5e",
-    "slug": "kingdom-hearts-4-developer-officially-revealed-and-fans-are-loving-it",
-    "headline": "Kingdom Hearts 4 Developer Officially Revealed, and Fans Are Loving It",
-    "summary": "Square Enix finally formally confirms the internal studio behind Kingdom Hearts 4, drawing an enthusiastic response from some longtime fans.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/kingdom-hearts-4-developer/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/kingdom-hearts-4-goofy-and-donald-duck-halloween-costumes.jpg",
-    "published_at": "2026-09-12T00:25:16.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6b3c3b6da4e4",
-    "slug": "how-to-max-out-xanthes-anger-in-the-blood-of-dawnwalker",
-    "headline": "How to Max Out Xanthe's Anger in The Blood of Dawnwalker",
-    "summary": "For a deeper dive into Xanthe's story in The Blood of Dawnwalker, players must first max out her anger. This guide aims to help them achieve that.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/the-blood-of-dawnwalker-xanthe-sabotage-activities-max-anger-guide/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/xanthe-closeup-in-the-blood-of-dawnwalker.jpg",
-    "published_at": "2026-09-12T00:24:04.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-blood-of-dawnwalker",
-    "game_label": "The Blood of Dawnwalker"
   }
 ]
