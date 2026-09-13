@@ -1,5 +1,54 @@
 [
   {
+    "id": "195243564f42",
+    "slug": "bleach-unveils-its-most-overpowered-new-ability",
+    "headline": "Bleach Unveils Its Most Overpowered New Ability",
+    "summary": "Bleach has introduced a new Quincy Schrift ability that reverses fatal damage, sparking debate over its balance and power level.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/antithesis-most-broken-ability-bleach/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/mixcollage-02-sep-2026-12-18-am-1054.jpg",
+    "published_at": "2026-09-13T23:30:12.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "bleach-tybw",
+    "game_label": "Bleach: TYBW"
+  },
+  {
+    "id": "9742d57725f4",
+    "slug": "last-of-us-part-2-multiplayer-mod-canceled-by-sony",
+    "headline": "Last of Us Part 2 multiplayer mod ‘canceled by Sony’",
+    "summary": "A team behind a multiplayer mod for The Last of Us Part 2 has announced its cancellation due to a request from the game's publisher, Sony.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/last-of-us-part-2-multiplayer-mod-canceled-by-sony/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/9742d57725f4/800/600",
+    "published_at": "2026-09-13T23:22:02.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-last-of-us-part-2",
+    "game_label": "The Last of Us Part 2"
+  },
+  {
     "id": "bb37512393a8",
     "slug": "new-steam-game-combines-john-wick-and-007-with-gta-6-elements",
     "headline": "New Steam Game Combines John Wick and 007 with GTA 6 Elements",
@@ -4687,47 +4736,5 @@
     "comment_count": 0,
     "game": "the-blood-of-dawnwalker",
     "game_label": "The Blood of Dawnwalker"
-  },
-  {
-    "id": "afb6fc228b44",
-    "slug": "marvels-wolverine-developer-officially-clarifies-controversial-feature",
-    "headline": "Marvel's Wolverine Developer Officially Clarifies Controversial Feature",
-    "summary": "There's been plenty of debate surrounding Marvel's Wolverine and some of its features, with one Insomniac developer clarifying how some of them work.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/marvels-wolverine-developer-scent-trail-controversial-feature-toggle/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/marvel-s-wolverine-scent-controversy.jpg",
-    "published_at": "2026-09-12T13:30:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "aea76293fcf8",
-    "slug": "marvels-wolverine-just-gave-eas-iron-man-a-warning-it-cant-ignore",
-    "headline": "Marvel's Wolverine Just Gave EA's Iron Man a Warning It Can't Ignore",
-    "summary": "Marvel's Wolverine reviews paint a more mixed picture than expected, and EA's Iron Man game should use this as a learning opportunity.",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/marvels-wolverine-reviews-ea-iron-man-game-hype-warning/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/bazaart_f3ace141-3f0b-44fd-b109-b8a5e0299b17.jpeg",
-    "published_at": "2026-09-12T13:30:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
