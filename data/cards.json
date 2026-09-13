@@ -1,5 +1,54 @@
 [
   {
+    "id": "cf3812864f59",
+    "slug": "cain-says-industry-volatility-is-permanent",
+    "headline": "Cain Says Industry Volatility Is Permanent",
+    "summary": "Fallout developer Tim Cain believes the gaming industry's instability is inherent and will continue to change, citing art and technology advancements as the driving force.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/fallout-dev-tim-cain-says-the-games-industrys-volatility-is-always-gonna-be-around-whats-happening-now-isnt-novel-it-isnt-new/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/8NaUUUYSKGJEUWdEkRLAoD-1280-80.jpg",
+    "published_at": "2026-09-13T17:42:45.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8bc965b18670",
+    "slug": "the-legend-of-dark-witch-episode-2-the-price-of-desire-now-available-f",
+    "headline": "The Legend of Dark Witch Episode 2: The Price of Desire now available for PS5",
+    "summary": "Inside System has released a PlayStation 5 version of side-scrolling action game The Legend of …",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/the-legend-of-dark-witch-episode-2-the-price-of-desire-now-available-for-ps5"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/8bc965b18670/800/600",
+    "published_at": "2026-09-13T17:31:33.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "cd72d5e94188",
     "slug": "10-near-perfect-gamecube-games-nobody-played",
     "headline": "10 Near-Perfect GameCube Games Nobody Played",
@@ -61,6 +110,10 @@
       {
         "name": "Nintendo Life",
         "url": "https://www.nintendolife.com/news/2026/09/diablo-iv-x-the-witcher-iii-wild-hunt-collab-unveiled"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/diablo-iv-x-the-witcher-iii-wild-hunt-collab-unveiled-heres-a-first-look"
       }
     ],
     "image_url": "https://images.nintendolife.com/dd9910a2f32e9/large.jpg",
@@ -4707,49 +4760,5 @@
     "comment_count": 0,
     "game": "warhammer-age-of-sigmar",
     "game_label": "Warhammer Age of Sigmar"
-  },
-  {
-    "id": "e984f9a8de19",
-    "slug": "netflixs-kpop-demon-hunters-replacement-reimagines-a-classic-disney-pr",
-    "headline": "Netflix's 'Kpop Demon Hunters' Replacement Reimagines a Classic Disney Princess",
-    "summary": "A new Netflix series reimagines Cinderella's stepsister in a dark fantasy setting, with a focus on her misunderstood side",
-    "category": "deals",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/steps-netflix-interview/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lilith-stands-next-to-a-storybook-with-cinderella-on-the-cover-in-steps.jpg",
-    "published_at": "2026-09-12T08:00:14.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5efa59e16eb2",
-    "slug": "wolverine-developer-insomniac-says-logans-scent-trail-isnt-always-on-a",
-    "headline": "Wolverine Developer Insomniac Says Logan's Scent Trail Isn't Always on Amid 'Fart Gas' Toggle Requests",
-    "summary": "A debate over “fart gas” has emerged around PlayStation 5 exclusive Marvel’s Wolverine, with some people calling for developer Insomniac to add the ability to disable Logan’s scent trail entirely from the game.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/wolverine-developer-insomniac-says-logans-scent-trail-isnt-always-on-amid-fart-gas-toggle-requests"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/13/wolverine-again-1786621307864.jpg",
-    "published_at": "2026-09-12T07:45:23.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
