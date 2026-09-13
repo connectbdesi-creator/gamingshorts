@@ -1,5 +1,217 @@
 [
   {
+    "id": "d61f77884f33",
+    "slug": "blizzard-unveils-major-announcements-at-blizzcon-2026",
+    "headline": "Blizzard Unveils Major Announcements at BlizzCon 2026",
+    "summary": "Blizzard revealed 10 significant new announcements at its 2026 BlizzCon event, including a new Diablo game and updates on classic WoW.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/blizzcon-2026-best-announcements/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/blizzcon-characters-in-front-of-a-blue-gradient.jpg",
+    "published_at": "2026-09-13T15:09:16.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "blizzard",
+    "game_label": "Blizzard"
+  },
+  {
+    "id": "3e078843b477",
+    "slug": "ex-far-cry-boss-has-big-ambitions-for-new-starcraft-shooter",
+    "headline": "Ex-Far Cry Boss Has Big Ambitions For New StarCraft Shooter",
+    "summary": "Developer Dan Hay shares his vision for a StarCraft spin-off, aiming for a gritty, Deadwood-like setting in space.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/ex-far-cry-boss-has-big-ambitions-for-new-starcraft-shooter-if-we-were-to-make-something-that-felt-like-a-deadwood-in-space-i-think-thats-got-something-2000733978"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/starcraft.jpg",
+    "published_at": "2026-09-13T15:08:49.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "starcraft",
+    "game_label": "StarCraft"
+  },
+  {
+    "id": "ecb4e1b5a249",
+    "slug": "diablo-5s-revealed-classes-are-throwbacks-to-diablo-3-with-one-excepti",
+    "headline": "Diablo 5’s Revealed Classes Are Throwbacks To Diablo 3, With One Exception",
+    "summary": "Diablo 5 isn't coming until Spring 2029, but Blizzard has already revealed three of the game's playable classes. Two of them will be familiar to Diablo 3 fans: the Monk and Demon Hunter. The third will be an all-new class, the Plague Knight. The Plague Knight sounds similar to Death Knights from Blizzard's other fantasy franchise and are described as…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/diablo-5s-revealed-classes-are-throwbacks-to-diablo-3-with-one-exception/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Diablo5ClassPlagueKnight.jpg?w=300",
+    "published_at": "2026-09-13T15:02:43.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2a68b90df954",
+    "slug": "everything-you-need-to-know-about-tcg-card-shop-simulator",
+    "headline": "Everything You Need To Know About TCG Card Shop Simulator",
+    "summary": "A cozy simulation game about running a TCG card shop has gained a following on Steam, and Game Rant explores its unique gameplay and appeal.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/video/what-is-tcg-card-shop-simulator-everything-you-need-to-know/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/tcg-card-shop-simulator-gamerant-web-rev2.jpg",
+    "published_at": "2026-09-13T15:00:12.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "tcg-card-shop-simulator",
+    "game_label": "TCG Card Shop Simulator"
+  },
+  {
+    "id": "1fdb9fb96e9f",
+    "slug": "feature-what-i-learned-after-working-on-over-1000-switch-2-joy-con",
+    "headline": "Feature: What I Learned After Working On Over 1,000 Switch 2 Joy-Con",
+    "summary": "The joys and cons. Coming into this console generation with the spectre of Switch 1's Joy-Con drift debacle in our minds, reviewers approached the Switch 2's Joy-Con with extreme caution. The controllers seemed much improved, but problems take time to manifest, and even when things do go wrong, knowing whether you've got a one-off dud or a widespread issue is…",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/features/what-i-learned-after-working-on-over-1000-switch-2-joy-con"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/ef1c623d79514/large.jpg",
+    "published_at": "2026-09-13T15:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5d8b41fe217a",
+    "slug": "ashly-burch-voice-of-horizons-aloy-and-star-of-mythic-quest-is-current",
+    "headline": " Ashly Burch, voice of Horizon's Aloy and star of Mythic Quest, is currently obsessed with Slay the Spire 2 and thinks videogames have too many stoic characters: 'I want more sh*tty little b*tches' ",
+    "summary": "The actress behind Tiny Tina and Life is Strange's Chloe guides us through the games on her Steam Deck.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/ashly-burch-voice-of-horizons-aloy-and-star-of-mythic-quest-is-currently-obsessed-with-slay-the-spire-2-and-thinks-videogames-have-too-many-stoic-characters-i-want-more-sh-tty-little-b-tches/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/YTmeUjWGRExzJCy43JgJ6K-1280-80.png",
+    "published_at": "2026-09-13T15:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b8a9fc71530e",
+    "slug": "six-years-ago-this-week-xbox-suffered-the-most-frustrating-leak-in-the",
+    "headline": "Six Years Ago This Week, Xbox Suffered The Most 'Frustrating' Leak In Their History",
+    "summary": "Pure Xbox recalls a pivotal moment in Xbox history when a leak revealed the existence of the 'Lockhart' console, which was expected to release alongside the Xbox Series X",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/six-years-ago-this-week-xbox-suffered-the-most-frustrating-leak-in-their-history"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/d856050f2613e/large.jpg",
+    "published_at": "2026-09-13T15:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "xbox-series-s",
+    "game_label": "Xbox Series S"
+  },
+  {
+    "id": "7e4afce5409e",
+    "slug": "dev-emergency-meeting-over-knights-of-the-round",
+    "headline": "Dev Emergency Meeting Over Knights of the Round",
+    "summary": "Final Fantasy 7 Revelation developers held an emergency meeting to recreate the iconic summon, Knights of the Round, after the initial battle was deemed too easy.",
+    "category": "esports",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelations-knights-of-the-round-boss-battle-wasnt-hard-enough-so-the-devs-had-an-emergency-meeting-to-rebuild-the-iconic-summon-from-scratch/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/E8Y3WYzQJnrVkCAthTEPoL-1280-80.jpg",
+    "published_at": "2026-09-13T14:56:26.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-7-revelation",
+    "game_label": "Final Fantasy 7 Revelation"
+  },
+  {
+    "id": "29469667c9f0",
+    "slug": "viral-indie-game-roasts-marvels-wolverine-after-scent-trail-controvers",
+    "headline": "Viral Indie Game Roasts Marvel's Wolverine After Scent Trail Controversy",
+    "summary": "The viral tweet making fun of the scent trail in Marvel’s Wolverine has been labelled “classless” by some.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/marvels-wolverine-scent-trail-mocked-indie-games-needle-in-a-haystack/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/needleinahaystacksimulator.jpg",
+    "published_at": "2026-09-13T14:47:46.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "b910b62342e8",
     "slug": "help-the-hive-or-refuse-in-blood-of-dawnwalker",
     "headline": "Help The Hive or Refuse in Blood of Dawnwalker",
@@ -4535,223 +4747,6 @@
     "image_url": "https://assets-prd.ignimgs.com/2026/09/11/citizenstarwars-1789166680870.jpg",
     "published_at": "2026-09-11T22:55:00.000Z",
     "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2661015a5747",
-    "slug": "footage-of-new-playstation-live-service-game-has-leaked-online",
-    "headline": "Footage of New PlayStation Live-Service Game Has Leaked Online",
-    "summary": "New footage offers an unexpected look at one of PlayStation's upcoming live-service games after years of limited public updates.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/fairgames-gameplay-leak/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/fairgame-project-espresso-player-gg-playtest.jpg",
-    "published_at": "2026-09-11T22:33:05.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e3e666497b47",
-    "slug": "the-most-viral-roblox-games-are-about-to-break-containment",
-    "headline": "The Most Viral Roblox Games Are About To Break Containment",
-    "summary": "Creators will soon be able to upload their games as standalone apps",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/the-most-viral-roblox-games-are-about-to-break-containment-2000733606"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/robloxas-1280x705.jpg",
-    "published_at": "2026-09-11T22:30:59.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2987099a0efc",
-    "slug": "game-dev-blames-us-taxes-for-game-profitability",
-    "headline": "Game Dev Blames US Taxes for Game Profitability",
-    "summary": "A game developer claims that the profitability of their games is partly due to being developed outside of the US, where tax rates are lower, and that they have ceased development in North America.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/third-person-shooter/space-marine-2-dev-says-its-games-are-so-profitable-in-part-because-theyre-made-outside-of-the-us-and-the-company-has-no-real-development-in-north-america-any-more/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/kKBfGUhLR9rQbFG76jmRnU-1280-80.jpg",
-    "published_at": "2026-09-11T21:57:55.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "space-marine-2",
-    "game_label": "Space Marine 2"
-  },
-  {
-    "id": "d84848f38dcd",
-    "slug": "steams-latest-super-hit-is-a-massive-100-player-warzone-simulator-fuel",
-    "headline": "Steam’s Latest Super Hit Is A Massive 100-Player Warzone Simulator Fueled By Cash That Has Me Hooked",
-    "summary": "Wardogs is a slower, bigger and in many ways better Battlefield-like military shooter that won't appeal to everyone",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/steams-latest-super-hit-is-a-massive-100-player-warzone-simulator-fueled-by-cash-that-has-me-hooked-2000733568"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/8bXdtpmYfKdkTKxbKBQCiX-1920-80-1280x720.jpg",
-    "published_at": "2026-09-11T21:54:49.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "84f4157f95d9",
-    "slug": "polyarc-dev-behind-the-critically-acclaimed-moss-series-is-shutting-do",
-    "headline": "Polyarc, Dev Behind the Critically Acclaimed Moss Series, Is Shutting Down",
-    "summary": "Polyarc Games, the developer behind the critically acclaimed Moss games, has announced it is shutting down.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/polyarc-dev-behind-the-critically-acclaimed-moss-series-is-shutting-down"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/11/moss-developer-1789162441927.png",
-    "published_at": "2026-09-11T21:43:36.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "956fe5c699c9",
-    "slug": "modder-adds-235-destructible-cameras-to-gta-5",
-    "headline": "Modder Adds 235 Destructible Cameras to GTA 5",
-    "summary": "A modder has added 235 destructible cameras to Grand Theft Auto V, allowing players to destroy them in creative ways",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/action/modder-adds-235-destructible-flock-cameras-to-gta-5-so-you-can-do-whatever-the-flock-you-want-to-them/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ZzxPgT4H4CTs4bGrxZnWFe-1280-80.jpg",
-    "published_at": "2026-09-11T21:28:13.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-v",
-    "game_label": "Grand Theft Auto V"
-  },
-  {
-    "id": "a2b11fc24ca7",
-    "slug": "moss-series-developer-polyarc-shuts-down",
-    "headline": "Moss Series Developer Polyarc Shuts Down",
-    "summary": "Polyarc, the developer behind the beloved VR series Moss, has announced its official closure, leaving fans of the series to mourn the loss of a studio that has significantly contributed to the evolution of the medium.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "switch",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/moss-developer-polyarc-shuts-down/"
-      },
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/moss-series-developer-polyarc-shuts-down"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a2b11fc24ca7/800/600",
-    "published_at": "2026-09-11T21:17:18.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "moss",
-    "game_label": "Moss"
-  },
-  {
-    "id": "791729353ad9",
-    "slug": "wolverine-review-roundup-frankly-were-starting-to-feel-a-little-better",
-    "headline": " Wolverine review roundup: Frankly, we're starting to feel a little better about the whole 'PlayStation 5 exclusive' thing ",
-    "summary": "The new Wolverine game is fine, but it's definitely not the best there is at what it does.",
-    "category": "reviews",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/action/wolverine-review-roundup-frankly-were-starting-to-feel-a-little-better-about-the-whole-playstation-5-exclusive-thing/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/v3pjoQxuB8vyJfom8UNYLF-1280-80.jpg",
-    "published_at": "2026-09-11T21:17:15.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cd4578920806",
-    "slug": "silksongs-new-replacement-is-about-to-become-the-best-action-game-of-t",
-    "headline": "Silksong's New Replacement Is About to Become the Best Action Game of the Year",
-    "summary": "Chronoscript: The Endless End mixes Hollow Knight combat with an eye-catching hand-drawn art style",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/chronoscript-endless-end-demo-preview/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/chronoscript-endless-end-preview-1.jpg",
-    "published_at": "2026-09-11T21:09:42.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,

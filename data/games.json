@@ -11081,5 +11081,50 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-13T14:21:30.934Z"
+  },
+  {
+    "slug": "tcg-card-shop-simulator",
+    "name": "TCG Card Shop Simulator",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/46b/46b3158fdc9e1001b65dc700aecbffae.jpg",
+    "released": "2024-09-15",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/e7b/e7b4db576756d997e7cc4a4560213236.jpg",
+      "https://media.rawg.io/media/screenshots/837/837bbe06a316a313964685cf1c841319.jpg",
+      "https://media.rawg.io/media/screenshots/2d4/2d4ec3e951fbce2985b1292ef32281d4.jpg",
+      "https://media.rawg.io/media/screenshots/19b/19bd1f6d20880d9701571a55f6a69eee.jpg",
+      "https://media.rawg.io/media/screenshots/496/4968d11074d2c2d332ec843a26e3f812.jpg",
+      "https://media.rawg.io/media/screenshots/a31/a3147f99ad2b0ca03dbe2921564bdd9e.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-13T15:21:33.142Z"
+  },
+  {
+    "slug": "xbox-series-s",
+    "name": "NBA 2K22 for Xbox Series X|S",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/d7f/d7f7a0455f1171b89cfdb6c0b83fb688.jpg",
+    "released": "2021-09-10",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "Xbox One"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f39/f39a8f844be00976fbaa4c83354b862b.jpg",
+      "https://media.rawg.io/media/screenshots/771/771e2e94215a1a74478d8e6d7ba4e0a9.jpg",
+      "https://media.rawg.io/media/screenshots/d7f/d7f7a0455f1171b89cfdb6c0b83fb688.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-13T15:21:33.717Z"
   }
 ]
