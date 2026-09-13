@@ -1,5 +1,78 @@
 [
   {
+    "id": "d5afbd78a0c9",
+    "slug": "world-of-warcraft-is-about-to-remix-its-most-beloved-expansion",
+    "headline": "World Of Warcraft Is About To Remix Its Most Beloved Expansion",
+    "summary": "Kotaku reports on World of Warcraft's upcoming expansion, which is set to revamp the game's most popular content.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/world-of-warcraft-wrath-of-the-lich-king-remix-announce-2000733867"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/lich-king-1280x720.jpg",
+    "published_at": "2026-09-13T01:05:43.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "world-of-warcraft",
+    "game_label": "World of Warcraft"
+  },
+  {
+    "id": "713c149b996f",
+    "slug": "diablo-4-on-switch-2-a-very-impressive-port-that-supports-mouse-contro",
+    "headline": "Diablo 4 On Switch 2: A Very Impressive Port That Supports Mouse Controls",
+    "summary": "Blizzard confirmed to Polygon that the Nintendo Switch 2 port of Diablo 4 that we played at BlizzCon will support mouse controls",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/diablo-4-nintendo-switch-2-port-impressions/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/diablo-4-switch-2-gameplay.jpg",
+    "published_at": "2026-09-13T01:03:29.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "74c8ae5ade41",
+    "slug": "world-of-warcraft-reveal-about-popular-class",
+    "headline": "World of Warcraft Reveal About Popular Class",
+    "summary": "Blizzard is making its most popular class more accessible in an upcoming update, expanding gameplay possibilities for fans.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/wow-midnight-paladins-night-elf-troll-undead/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/world-of-warcraft-reveals-big-changes-for-one-of-midnight-s-most-popular-classes.jpg",
+    "published_at": "2026-09-13T01:00:13.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "world-of-warcraft",
+    "game_label": "World of Warcraft"
+  },
+  {
     "id": "31aab66a8273",
     "slug": "10-near-perfect-nintendo-3ds-games-nobody-played",
     "headline": "10 Near-Perfect Nintendo 3DS Games Nobody Played",
@@ -1178,6 +1251,33 @@
     "game_label": "Diablo V"
   },
   {
+    "id": "05b380cf37a9",
+    "slug": "diablo-4-age-of-hatred-collection-coming-to-switch-next-week",
+    "headline": "Diablo 4: Age Of Hatred Collection Coming to Switch Next Week",
+    "summary": "Blizzard has confirmed the release of Diablo 4: Age of Hatred Collection for the Nintendo Switch, set to arrive next week.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/its-official-diablo-4-age-of-hatred-collection-brings-hell-to-switch-2-next-week"
+      },
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/diablo-iv-age-of-hatred-collection-coming-to-switch-2-on-september-15"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/aad6d4df7d085/large.jpg",
+    "published_at": "2026-09-12T18:15:48.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "diablo-4-age-of-hatred-collection",
+    "game_label": "Diablo 4: Age of Hatred Collection"
+  },
+  {
     "id": "b576f4246c53",
     "slug": "overwatch-is-reworking-two-of-its-most-criticized-characters",
     "headline": "Overwatch Is Reworking Two of Its Most Criticized Characters",
@@ -1199,29 +1299,6 @@
     "comment_count": 0,
     "game": "overwatch",
     "game_label": "Overwatch"
-  },
-  {
-    "id": "05b380cf37a9",
-    "slug": "diablo-4-age-of-hatred-collection-coming-to-switch-next-week",
-    "headline": "Diablo 4: Age Of Hatred Collection Coming to Switch Next Week",
-    "summary": "Blizzard has confirmed the release of Diablo 4: Age of Hatred Collection for the Nintendo Switch, set to arrive next week.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/its-official-diablo-4-age-of-hatred-collection-brings-hell-to-switch-2-next-week"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/aad6d4df7d085/large.jpg",
-    "published_at": "2026-09-12T18:15:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "diablo-4-age-of-hatred-collection",
-    "game_label": "Diablo 4: Age of Hatred Collection"
   },
   {
     "id": "b6fd196cb841",
@@ -4663,73 +4740,6 @@
     ],
     "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/GTA-Drones.jpg?w=300",
     "published_at": "2026-09-11T17:12:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "946a7b2cd8a0",
-    "slug": "more-than-40-of-people-cancelling-xbox-game-pass-playstation-plus-and",
-    "headline": "More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online subscriptions blame rising costs",
-    "summary": "Players cancelling their subscriptions to video game services like Xbox Game Pass and PlayStation Plus are more likely to blame rising costs today than they were at the start of the year.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/xbox-game-pass-playstation-plus-nintendo-cancellations-rising-costs"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/ace90859-7340-415e-9bc6-6d4bbd45edd5.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-11T17:08:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5dfa88866b43",
-    "slug": "what-is-avengers-endgame-encore-marvels-new-re-release-explained",
-    "headline": " What is Avengers: Endgame Encore? Marvel's new re-release, explained ",
-    "summary": "Should you go see Avengers: Endgame Encore?",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/entertainment/marvel-movies/what-is-avengers-endgame-encore-marvels-new-re-release-explained/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/PdLA54yrRxBveKSr4DJvTo-1280-80.jpg",
-    "published_at": "2026-09-11T17:04:14.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c0bf21609ca4",
-    "slug": "brutal-cult-favorite-indie-survival-game-is-almost-free-after-years-of",
-    "headline": "Brutal Cult-Favorite Indie Survival Game Is Almost Free After Years Of Legal Limbo With Adult Swim’s Defunct Publishing Label",
-    "summary": "Start of a new cycle",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/indie-rain-world-years-legal-adult-swim-akupara-2000732904"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/rain-world.jpg",
-    "published_at": "2026-09-11T17:00:26.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
