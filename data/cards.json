@@ -1,5 +1,132 @@
 [
   {
+    "id": "616ad407fb4f",
+    "slug": "sony-is-the-bad-guy-of-2026-but-its-going-to-win-anyway",
+    "headline": "Sony is the Bad Guy of 2026, but it’s Going to Win Anyway ",
+    "summary": "Polygon previews an exciting but lopsided fall, dominated by GTA 6 and Zelda, with PlayStation playing the role of villain",
+    "category": "reviews",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/patch-notes-fall-preview-nintendo-sony-bad-guy/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/marvel-s-wolverine-angry-logan.jpg",
+    "published_at": "2026-09-13T14:14:58.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "1b61d628b646",
+    "slug": "blizzard-president-vows-to-meet-high-expectations-for-starcraft-and-di",
+    "headline": "Blizzard president vows to meet high expectations for StarCraft and Diablo",
+    "summary": "Blizzard's president promises to deliver StarCraft and Diablo in a timely and impactful manner, after years of hype and anticipation.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/diablo/after-announcing-starcraft-and-diablo-5-years-in-advance-blizzard-president-promises-to-ship-and-ship-big-and-ship-on-time/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/bqSr4k5YXwYnRHhAXyeRdN-1280-80.jpg",
+    "published_at": "2026-09-13T14:04:44.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "starcraft-5",
+    "game_label": "StarCraft 5"
+  },
+  {
+    "id": "5ed112d0bd1d",
+    "slug": "we-need-more-games-like-echo-weaver",
+    "headline": "We Need More Games Like Echo Weaver",
+    "summary": "Echo Weaver combines diverse genres to create a unique platforming experience with time loops",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/echo-weaver-preview-interview/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/echo-weaver-key-art.jpg",
+    "published_at": "2026-09-13T14:00:14.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "echo-weaver",
+    "game_label": "Echo Weaver"
+  },
+  {
+    "id": "ef41ff8281a1",
+    "slug": "as-an-og-crazy-taxi-lover-its-new-remake-might-just-not-be-crazy-enoug",
+    "headline": "As an OG Crazy Taxi lover, its new remake might just not be crazy enough ",
+    "summary": "A long-time Crazy Taxi fan is underwhelmed by the game's remake, feeling it doesn't live up to the original's chaotic spirit.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/racing/as-an-og-crazy-taxi-lover-its-new-remake-might-just-not-be-crazy-enough/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/WyhHomXFRbVgC72H3ZXhvE-1280-80.png",
+    "published_at": "2026-09-13T14:00:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "crazy-taxi",
+    "game_label": "Crazy Taxi"
+  },
+  {
+    "id": "b5863fa7055e",
+    "slug": "world-of-warcraft-fans-think-official-controller-support-is-for-consol",
+    "headline": "World of Warcraft Fans Think Official Controller Support Is for Console Port",
+    "summary": "World of Warcraft fans are speculating that the introduction of official controller support in World of Warcraft Forever is a sign that a console port is in the works.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/world-of-warcraft-forever-controller-support-console-port/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/party-of-four-overlooking-a-city-in-key-art-for-world-of-warcraft-forever.jpg",
+    "published_at": "2026-09-13T13:53:15.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "world-of-warcraft-forever",
+    "game_label": "World of Warcraft Forever"
+  },
+  {
     "id": "00e1ebb3cb81",
     "slug": "diablo-4s-new-season-brings-back-deckard-cain-and-all-three-prime-evil",
     "headline": "Diablo 4's new season brings back Deckard Cain and all three Prime Evils as the game arrives on Switch 2",
@@ -4623,123 +4750,5 @@
     "comment_count": 0,
     "game": "grand-theft-auto-6",
     "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "86ea657c679b",
-    "slug": "twitch-plans-to-shove-more-ai-down-creators-throats-with-stream-coach",
-    "headline": "Twitch Plans To Shove More AI Down Creators' Throats With Stream Coach Tool",
-    "summary": "Twitch is testing an AI-powered tool to suggest improvements to streamers' channels, raising concerns about the platform's increasing reliance on artificial intelligence.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/twitch-ai-stream-coach-tool-ai-content-training-opt-out-2000733578"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/twitch-ai-stream-coach-1280x720.jpg",
-    "published_at": "2026-09-11T20:45:43.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "489c69ad41da",
-    "slug": "moss-psvr2-dev-polyarc-closed-after-12-years-of-games",
-    "headline": "Moss PSVR2 Dev Polyarc Closed After 12 Years of Games",
-    "summary": "\"Our work is now finished\". Polyarc, the studio behind PSVR classics Moss and its Book II sequel, has shut down as of today, 11th September 2026. The developer's LinkedIn page broke the news, stating: \"After nearly 12 years riding the joyous rollercoaster of emotions that is making video games, our time together has come to an end. As we wind…",
-    "category": "industry",
-    "platform_tags": [
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/moss-psvr2-dev-polyarc-closed-after-12-years-of-games"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/062420aa4d5a6/large.jpg",
-    "published_at": "2026-09-11T20:45:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1a5b5903a075",
-    "slug": "the-shockingly-good-wolverine-game-on-ps3-saw-zero-crunch-because-the",
-    "headline": " The shockingly good Wolverine game on PS3 saw zero crunch because the terrible movie it accompanied was delayed, dev says: \"We still had time to goof around\" ",
-    "summary": "X-Men Origins: Wolverine still gets two claws up",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/action/the-shockingly-good-wolverine-game-on-ps3-saw-zero-crunch-because-the-terrible-movie-it-accompanied-was-delayed-dev-says-we-still-had-time-to-goof-around/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/VE7FaykmnxhhGZXW7TxZtB-1280-80.jpg",
-    "published_at": "2026-09-11T20:27:47.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "196b7271d6ec",
-    "slug": "pokemon-tcg-mewtwo-30th-anniversary-card-release",
-    "headline": "Pokémon TCG Mewtwo 30th Anniversary Card Release",
-    "summary": "A special Mewtwo card will be released for the Pokémon Trading Card Game to commemorate the card's 30th anniversary. The card will be available at select retailers like Best Buy and GameStop later this year.",
-    "category": "deals",
-    "platform_tags": [
-      "mobile",
-      "pc",
-      "switch",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/pokemon-30th-anniversary-cards-release-date-mewtwo-promo-how-to-get/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/1-mewtwo.jpg",
-    "published_at": "2026-09-11T20:04:28.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "pokemon-tcg",
-    "game_label": "Pokémon TCG"
-  },
-  {
-    "id": "5f50522a0282",
-    "slug": "fed-up-with-sony-playstation-fans-compile-a-list-of-all-the-times-the",
-    "headline": " Fed up with Sony, PlayStation fans compile a list of all the times the company said \"you own\" your games and archive every last receipt ",
-    "summary": "For no particular reason",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/fed-up-with-sony-playstation-fans-compile-a-list-of-all-the-times-the-company-said-you-own-your-games-and-archive-every-last-receipt/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/LqYaNBfBMVWDgdEkraTkQ8-1280-80.jpg",
-    "published_at": "2026-09-11T20:03:22.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]

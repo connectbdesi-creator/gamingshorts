@@ -11021,5 +11021,65 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-13T13:50:43.513Z"
+  },
+  {
+    "slug": "starcraft-5",
+    "name": "StarCraft: Remastered",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/0ab/0ab355d5f87d75b009a68ab24f917ee0.jpeg",
+    "released": "2017-08-14",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "PC",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/deb/deb630f4035e6249dd4052b348afe227.jpg",
+      "https://media.rawg.io/media/screenshots/2bc/2bc0aae2dd289e8069b113e943ac62dd.jpg",
+      "https://media.rawg.io/media/screenshots/85e/85e9eee569be1ed13d775ead52fbd267.jpg",
+      "https://media.rawg.io/media/screenshots/88d/88df164c60d7627a9429cb15be91c1eb.jpg",
+      "https://media.rawg.io/media/screenshots/84d/84d11dce94a1811ad15781c9d4205ca8.jpg",
+      "https://media.rawg.io/media/screenshots/aec/aec76ec14f1011a1454dc661c0045f77.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-13T14:21:29.733Z"
+  },
+  {
+    "slug": "crazy-taxi",
+    "name": "Crazy Taxi (1999)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/d9b/d9bbb8e69f53c4c42b8ff928cb581548.jpg",
+    "released": "1999-01-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Racing",
+      "Arcade",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "iOS",
+      "Android",
+      "Xbox 360",
+      "PlayStation 3",
+      "PlayStation 2",
+      "GameCube",
+      "Dreamcast"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/876/876310aca1fd31e5d12689a1f2d5123e.jpg",
+      "https://media.rawg.io/media/screenshots/c69/c69e049a7068d7188e9051b5968b3a97.jpg",
+      "https://media.rawg.io/media/screenshots/34c/34c8e816067d833060e4b7813db169fb.jpg",
+      "https://media.rawg.io/media/screenshots/a7b/a7b05b3e1928bcae1607ac26861e673d.jpg",
+      "https://media.rawg.io/media/screenshots/d36/d36ce306ce88cbaa00e2332910068eae.jpg",
+      "https://media.rawg.io/media/screenshots/6cc/6cc16206397aa83e374fc4b3ff49a4c5.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-13T14:21:30.934Z"
   }
 ]
