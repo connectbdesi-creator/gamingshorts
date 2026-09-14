@@ -1,5 +1,28 @@
 [
   {
+    "id": "bdb123b5f447",
+    "slug": "world-of-warcraft-forever-brings-gamepad-controls",
+    "headline": "World of Warcraft Forever Brings Gamepad Controls",
+    "summary": "World of Warcraft is now playable with gamepads in its new 'Classic Plus' release, deviating from the traditional keyboard and mouse gameplay.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/world-of-warcraft-forever-gamepad-support-blizzcon-2026/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/wow_forever_announce_key_art_-_horde.jpeg",
+    "published_at": "2026-09-14T01:30:10.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "world-of-warcraft-forever",
+    "game_label": "World of Warcraft Forever"
+  },
+  {
     "id": "3b994a66d5a5",
     "slug": "blizzard-has-no-plans-to-turn-battlenet-into-a-steam-competitor",
     "headline": "Blizzard Has No Plans To Turn Battle.net Into A Steam Competitor",
@@ -238,6 +261,27 @@
     "comment_count": 0,
     "game": "the-last-of-us-part-2",
     "game_label": "The Last of Us Part 2"
+  },
+  {
+    "id": "877a77865086",
+    "slug": "roblox-family-zone-gets-11m-plays-in-3-months-as-child-safety-concerns",
+    "headline": "Roblox Family Zone gets 11M plays in 3 months as child safety concerns persist",
+    "summary": "Child safety remains one of the primary concerns about Roblox’s user-generated content (UGC) platform enters its 20th year. In fact, during the start of...\nThe post Roblox Family Zone gets 11M plays in 3 months as child safety concerns persist appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/roblox-family-zone-gets-11m-plays-in-3-months-as-child-safety-concerns-persist/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/877a77865086/800/600",
+    "published_at": "2026-09-13T23:11:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "bb37512393a8",
@@ -4682,58 +4726,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "7ae137ede180",
-    "slug": "guns-of-eschaton",
-    "headline": "Guns of Eschaton",
-    "summary": "A new FPS game is coming that combines Soulslike gameplay with an apocalyptic setting, where enemies have unique weaknesses.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/guns-of-eschaton-preview-gamescom-2026/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/guns-of-eschaton-gamescom-preview-10-1.jpg",
-    "published_at": "2026-09-12T15:01:13.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "guns-of-eschaton",
-    "game_label": "Guns of Eschaton"
-  },
-  {
-    "id": "3222260ff3a2",
-    "slug": "how-to-make-money-fast-in-wardogs",
-    "headline": "How to Make Money Fast in WARDOGS",
-    "summary": "WARDOGS offers four money-making methods to gain an edge in the game, but is it a viable way to make money fast?",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/wardogs-how-best-ways-make-money-early-fast/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/best-way-to-make-money-early-in-wardogs.jpg",
-    "published_at": "2026-09-12T15:00:12.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "wardogs",
-    "game_label": "WARDOGS"
   }
 ]
