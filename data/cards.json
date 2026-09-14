@@ -1,5 +1,128 @@
 [
   {
+    "id": "8a24f7e2a20d",
+    "slug": "the-steam-frame-launches-during-one-of-the-slowest-periods-for-vr-on-s",
+    "headline": " The Steam Frame launches during one of the slowest periods for VR on Steam, but Valve hopes to 'rekindle the excitement' for PCVR ",
+    "summary": "\"We also want to grow a healthy ecosystem for both the gamers and the game developers.\"",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/vr-hardware/the-steam-frame-launches-during-one-of-the-slowest-periods-for-vr-on-steam-but-valve-hopes-to-rekindle-the-excitement-for-pcvr/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/fVhNmrAZuhvXZsmn7eT5NT-1280-80.jpg",
+    "published_at": "2026-09-14T19:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "fb7ac2c4e31a",
+    "slug": "wardogs-devs-crack-down-on-exploits-and-xp-farms",
+    "headline": "Wardogs Devs Crack Down on Exploits and XP Farms",
+    "summary": "Wardogs developers are cracking down on players exploiting the game to farm in-game currency and XP, while encouraging players to grind through normal gameplay.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/we-track-every-server-you-enter-the-wardogs-devs-are-coming-down-hard-on-xp-farms-and-cash-exploits-even-as-they-encourage-people-to-grind"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/wardogs_MlWawxV.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-14T19:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "wardogs",
+    "game_label": "Wardogs"
+  },
+  {
+    "id": "df12a7ea8c15",
+    "slug": "the-blood-of-dawnwalker-walkthrough-guide-entering-aureliuss-tower",
+    "headline": "The Blood of Dawnwalker Walkthrough Guide: Entering Aurelius's Tower",
+    "summary": "A walkthrough guide for the 'Who Pulls the Strings' quest in The Blood of Dawnwalker, detailing how to access Aurelius's Tower and find Silas's book.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/blood-of-dawnwalker-who-pulls-the-strings-aurelius-tower/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/the-blood-of-dawnwalker-who-pulls-the-strings-walkthrough.jpg",
+    "published_at": "2026-09-14T18:54:05.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-blood-of-dawnwalker",
+    "game_label": "The Blood of Dawnwalker"
+  },
+  {
+    "id": "e9b1232832ae",
+    "slug": "pokemon-fan-finds-potential-fix-for-pokemon-banks-3ds-shutdown",
+    "headline": "Pokémon Fan Finds Potential Fix for Pokémon Bank's 3DS Shutdown",
+    "summary": "A Pokémon fan thinks they've discovered a way to keep Pokémon Bank's 3DS storage system alive for longer, potentially bridging the gap between old and new generations.",
+    "category": "deals",
+    "platform_tags": [
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/pokemon-bank-3ds-adapter-gba-switch-firered-leafgreen-2000734327"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/IMG_4675-1-1280x720.jpg",
+    "published_at": "2026-09-14T18:35:17.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pokemon-bank",
+    "game_label": "Pokémon Bank"
+  },
+  {
+    "id": "02c1ddae095f",
+    "slug": "bungie-ends-marathons-seasonal-schedule-and-delays-september-update",
+    "headline": "Bungie Ends Marathon's Seasonal Schedule and Delays September Update",
+    "summary": "Bungie is revamping Marathon's seasonal schedule, introducing a social space, firing range, and team deathmatch, with the first change taking effect in December instead of September.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/fps/bungie-ends-marathons-seasonal-schedule-delays-a-september-update-to-december-and-makes-it-more-like-destiny-2/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/CN5qbJZS7mD6JZMVo5i5uT-1280-80.jpg",
+    "published_at": "2026-09-14T18:31:58.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "marathon",
+    "game_label": "Marathon"
+  },
+  {
     "id": "bfa318502425",
     "slug": "world-of-warcraft-forever-will-be-the-easiest-way-into-wow-in-20-years",
     "headline": "World of Warcraft Forever Will be the Easiest Way into WoW in 20 Years",
@@ -23,6 +146,65 @@
     "comment_count": 0,
     "game": "world-of-warcraft",
     "game_label": "World of Warcraft"
+  },
+  {
+    "id": "13902d6b12c7",
+    "slug": "new-games-added-to-xbox-game-pass-essential",
+    "headline": "New Games Added to Xbox Game Pass Essential",
+    "summary": "Two new games have been quietly added to Xbox Game Pass Essential without official announcements",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/two-more-games-have-suddenly-been-added-to-xbox-game-pass-essential"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/720c0c3d03c2c/large.jpg",
+    "published_at": "2026-09-14T18:30:00.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "468841420d21",
+    "slug": "rayman-legends-retold-delayed-to-end-of-2026",
+    "headline": "Rayman Legends Retold Delayed to End of 2026",
+    "summary": "Ubisoft's Rayman Legends Retold has had its release date pushed back to the end of 2026.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/ubisofts-only-new-game-releasing-this-fall-just-got-a-two-month-delay-2000734298"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/rayman-legends-retold-has-been-delayed"
+      },
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-now-out-in-december-ps5-remake-delayed-two-months"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/rayman-legends-1280x720.jpg",
+    "published_at": "2026-09-14T18:30:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "rayman-legends-retold",
+    "game_label": "Rayman Legends Retold"
   },
   {
     "id": "898530d62619",
@@ -91,6 +273,32 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "bda92da118a8",
+    "slug": "blizzard-cancels-diablo-4-expansion-instead-focuses-on-darker-diablo-5",
+    "headline": "Blizzard Cancels Diablo 4 Expansion, Instead Focuses on Darker Diablo 5",
+    "summary": "Blizzard is shifting its focus to Diablo 5, a new game that will explore the series' darkest story, rather than continuing with expansions for Diablo 4.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/blizzard-says-diablo-5-was-too-big-to-be-a-diablo-4-expansion/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Diablo-demon-hunter.jpg?w=300",
+    "published_at": "2026-09-14T18:03:36.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "diablo-5",
+    "game_label": "Diablo 5"
   },
   {
     "id": "3f6f698bbaf1",
@@ -296,38 +504,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "468841420d21",
-    "slug": "rayman-legends-retold-delayed-to-end-of-2026",
-    "headline": "Rayman Legends Retold Delayed to End of 2026",
-    "summary": "Ubisoft's Rayman Legends Retold has had its release date pushed back to the end of 2026.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/ubisofts-only-new-game-releasing-this-fall-just-got-a-two-month-delay-2000734298"
-      },
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/rayman-legends-retold-has-been-delayed"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/rayman-legends-1280x720.jpg",
-    "published_at": "2026-09-14T17:45:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "rayman-legends-retold",
-    "game_label": "Rayman Legends Retold"
   },
   {
     "id": "03ff7d4dd80c",
@@ -4548,165 +4724,6 @@
     "image_url": "https://assetsio.gnwcdn.com/diablo-4-the-amazon-concept-art-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-09-14T08:19:11.000Z",
     "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8a8b1ceb5ffb",
-    "slug": "check-out-the-multiplayer-modes-in-crazy-taxi-world-tour",
-    "headline": "Check out the multiplayer modes in Crazy Taxi World Tour",
-    "summary": "VGC shows off the multiplayer features of Crazy Taxi World Tour, including Pickup Races and Cops & Cabbies contests.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/video-check-out-the-multiplayer-modes-in-crazy-taxi-world-tour-in-our-pc-footage/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/8a8b1ceb5ffb/800/600",
-    "published_at": "2026-09-14T08:14:06.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "crazy-taxi-world-tour",
-    "game_label": "Crazy Taxi World Tour"
-  },
-  {
-    "id": "05d113989525",
-    "slug": "steam-users-have-until-september-21-to-claim-multiplayer-arcade-game-f",
-    "headline": "Steam Users Have Until September 21 to Claim Multiplayer Arcade Game for Free",
-    "summary": "A PvP arcade game with promising reviews is currently free to keep on Steam, but gamers need to act fast, as the promotion ends on September 21.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/steam-free-games-today-sep-21-crystal-crisis/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/crystal-crisis-steam-free-to-keep-september-2026-gamerant.jpg",
-    "published_at": "2026-09-14T08:10:39.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2d37c27a20e4",
-    "slug": "fateextra-record-character-trailer-caster",
-    "headline": "Fate/EXTRA Record character trailer – Caster",
-    "summary": "Publisher Aniplex and developers Meteorise and TYPE-MOON have released a new character trailer for Fate/EXTRA …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/fate-extra-record-character-trailer-caster"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/2d37c27a20e4/800/600",
-    "published_at": "2026-09-14T08:05:29.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b80275a0cc55",
-    "slug": "moss-developer-polyarc-games-announces-closure",
-    "headline": "Moss developer Polyarc Games announces closure",
-    "summary": "Moss developer Polyarc Games is shutting down after 12 years in operation.\n Read more",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/moss-developer-polyarc-games-announces-closure"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/moss_jZAg9Eg.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-14T08:00:08.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6d82d5603399",
-    "slug": "witchspring-series-gets-new-game-announcement",
-    "headline": "WitchSpring Series Gets New Game Announcement",
-    "summary": "Kiwi Walks, developer of the WitchSpring series, has announced a new game titled Shade of the Marionette: The Story of Piyorita for consoles and PC.",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/witchspring-action-rpg-shade-of-the-marionette-the-story-of-piyorita-announced-for-consoles-pc"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/6d82d5603399/800/600",
-    "published_at": "2026-09-14T07:15:55.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "shade-of-the-marionette-the-story-of-piyorita",
-    "game_label": "Shade of the Marionette: The Story of Piyorita"
-  },
-  {
-    "id": "b447ad05550d",
-    "slug": "marvels-wolverine-voice-actor-reveals-who-inspired-his-take-on-logan",
-    "headline": "Marvel's Wolverine Voice Actor Reveals Who Inspired His Take on Logan",
-    "summary": "Voice actor Liam McIntyre discusses the performances that influenced his portrayal of Logan in Insomniac Games' Marvel's Wolverine.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/marvels-wolverine-liam-mcintyre-performance-inspirations/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mw_previews_telembangcombat_4k_2026.jpg",
-    "published_at": "2026-09-14T07:01:15.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "marvels-wolverine",
-    "game_label": "Marvel's Wolverine"
-  },
-  {
-    "id": "6a48cfb5ec30",
-    "slug": "uta-macross-offline-version-crowdfunding-surpasses-650k-usd-in-just-th",
-    "headline": "Uta Macross offline version crowdfunding surpasses $650K USD in just three days. New songs and console port confirmed",
-    "summary": "The campaign's initial target was met within just an hour.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/uta-macross-offline-version-crowdfunding-surpasses-650k-usd-in-just-three-days-new-songs-and-console-port-confirmed/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/6a48cfb5ec30/800/600",
-    "published_at": "2026-09-14T06:20:03.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
