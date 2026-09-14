@@ -1,5 +1,153 @@
 [
   {
+    "id": "7f38961794d1",
+    "slug": "xbox-issues-new-official-statement-on-playstation-kojima-productions",
+    "headline": "Xbox Issues New Official Statement on PlayStation, Kojima Productions",
+    "summary": "After the split between Kojima Productions and PlayStation, Xbox's CEO comments on its new partnership.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/xbox-physint-statement-kojima-playstation-invention-adventure/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/12/5-1-5.jpg",
+    "published_at": "2026-09-14T12:01:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2efecd7f8531",
+    "slug": "should-fans-be-worried-about-the-zelda-movie",
+    "headline": "Should Fans Be Worried About the Zelda Movie?",
+    "summary": "A new Zelda movie is in the works, but fans have some concerns about its production status.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/the-legend-of-zelda-movie-fans-worried/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/link-and-princess-zelda-in-the-legend-of-zelda-movie.jpg",
+    "published_at": "2026-09-14T12:01:12.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "zelda-movie",
+    "game_label": "Zelda movie"
+  },
+  {
+    "id": "d70ff65268c0",
+    "slug": "pokemon-devs-reveal-magical-girl-laundry-game-that-uses-real-life-weat",
+    "headline": " Pokemon devs reveal magical girl \"laundry game\" that uses real-life weather data, and Game Freak is bringing out the big guns with its director ",
+    "summary": "Testing the waters before Winds and Waves emerge",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/pokemon/pokemon-devs-reveal-magical-girl-laundry-game-that-uses-real-life-weather-data-and-game-freak-is-bringing-out-the-big-guns-with-its-director/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ziqbiopoVhZe2xYjihnY4X-1280-80.png",
+    "published_at": "2026-09-14T11:46:19.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "43372c13c550",
+    "slug": "diablo-5-lead-writer-jennifer-hepler-is-a-bioware-legend",
+    "headline": "Diablo 5 Lead Writer Jennifer Hepler Is A BioWare Legend",
+    "summary": "TheGamer profiles Jennifer Hepler, a veteran narrative director, as the lead writer of upcoming action RPG Diablo 5, drawing comparisons to her work on BioWare's Dragon Age: Origins.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/diablo-5-narrative-director-jennifer-hepler-dragon-age/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/anders-in-dragon-age-2-there-are-blue-cracks-over-his-body-as-he-is-possessed-by-the-spirit-of-justice.jpg",
+    "published_at": "2026-09-14T11:39:06.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "diablo-5",
+    "game_label": "Diablo 5"
+  },
+  {
+    "id": "95752adae2f8",
+    "slug": "roblox-plan-to-grow-their-absurd-gaming-empire-even-further-by-letting",
+    "headline": "Roblox plan to grow their absurd gaming empire even further by letting devs release games as \"standalone apps\", potentially via Steam, Epic, and GOG",
+    "summary": "Not content with pulling in daily active user counts roughly equivalent to the population of Japan, game creation platform Roblox are planning to let developers release their games \"as standalone apps across mobile, PC, and consoles, with Roblox powering the technology and services underneath.\" The news comes via this year's Roblox Developers Conference. They are calling the new initiative \"Roblox",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/roblox-plan-to-grow-their-absurd-gaming-empire-even-further-by-letting-devs-release-games-as-standalone-apps-potentially-via-steam-epic-and-gog"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/spider-evolution-0.webp?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-14T11:36:14.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "79b95a53f7f5",
+    "slug": "command-an-army-codes-giveaway-thousands-of-gems-up-for-grabs",
+    "headline": "Command an Army Codes Giveaway: Thousands of Gems Up for Grabs",
+    "summary": "GamesRadar+ is offering Command an Army codes to reward players with thousands of Gems, allowing them to purchase new units and classes.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/action/command-an-army-codes/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/VjrKDWST5iZ2YSnShwcZiX-1280-80.jpg",
+    "published_at": "2026-09-14T11:35:49.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "command-an-army",
+    "game_label": "Command an Army"
+  },
+  {
     "id": "dd747caa966f",
     "slug": "kingdom-hearts-finally-arrives-in-fortnite-this-week",
     "headline": "Kingdom Hearts Finally Arrives in Fortnite This Week",
@@ -363,6 +511,27 @@
     "game_label": "Grand Theft Auto 6"
   },
   {
+    "id": "5a3f04fc6bb3",
+    "slug": "world-of-warcraft-forever-devs-have-no-plans-to-implement-tokens-or-le",
+    "headline": " World of Warcraft: Forever devs have \"no plans\" to implement Tokens or level boosts, confirms Blizzard, as \"the journey is so important\" ",
+    "summary": "\"The journey really is what the game is\"",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-forever-devs-have-no-plans-to-implement-tokens-or-level-boosts-confirms-blizzard-as-the-journey-is-so-important/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ivHogaMY4gvruNhGU4BptP-1280-80.jpg",
+    "published_at": "2026-09-14T10:11:33.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "8c6276f099fd",
     "slug": "how-long-to-beat-onimusha-way-of-the-sword",
     "headline": "How Long To Beat Onimusha: Way Of The Sword",
@@ -385,6 +554,50 @@
     "comment_count": 0,
     "game": "onimusha-way-of-the-sword",
     "game_label": "Onimusha: Way Of The Sword"
+  },
+  {
+    "id": "800dbbdac22b",
+    "slug": "name-that-game-september-15-2026",
+    "headline": "Name That Game (September 15, 2026)",
+    "summary": "Splatter turf with colorful ink weapons and slay demonic hordes with medieval shields with today's Name That Game quiz.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/game/name-that-game-2026-09-15/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/game-rant-games-name-that-game-site-banner-graphic.jpg",
+    "published_at": "2026-09-14T10:00:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d7550bc2e096",
+    "slug": "new-steam-game-is-hi-fi-rush-if-music-was-swapped-out-for-zombies-and",
+    "headline": "New Steam Game is Hi-Fi Rush if Music Was Swapped Out For Zombies, and It’s Out Real Soon",
+    "summary": "For players who adored Hi-Fi Rush’s stylish, music-driven combat and sense of humor, this upcoming Steam game is worth watching.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/new-steam-game-stupid-never-dies-release-date/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/stupid-never-dies-press-screenshot-7.jpg",
+    "published_at": "2026-09-14T10:00:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "9f5363c03b9f",
@@ -4501,225 +4714,5 @@
     "comment_count": 0,
     "game": "world-of-warcraft",
     "game_label": "World of Warcraft"
-  },
-  {
-    "id": "5912e7444638",
-    "slug": "wow-the-last-titan-cinematic-ups-the-stakes-but-first-xalatath",
-    "headline": "WoW: The Last Titan Cinematic Ups The Stakes, But First, Xal’atath",
-    "summary": "As is BlizzCon tradition, a new World of Warcraft cinematic premiered during the BlizzCon 2026 opening ceremony, setting the stage for the MMORPG's next expansion, The Last Titan. In a departure for BlizzCon, that glimpse was just about all fans learned about the new expansion, with Blizzard instead looking to put the focus more on the final content patch of…",
-    "category": "patches",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/wow-the-last-titan-cinematic-ups-the-stakes-but-first-xalatath/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Blizzcon-2026-Livestream-_-Day-1-2-11-35-screenshot.jpg?w=300",
-    "published_at": "2026-09-12T18:44:46.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "63bcc3392343",
-    "slug": "blizzard-announces-new-hearthstone-class-and-expansion",
-    "headline": "Blizzard Announces New Hearthstone Class and Expansion",
-    "summary": "Hearthstone's next class, The Monk, is coming, along with a new expansion set 10,000 years in the future called Reign of the Black Empire.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/hearthstones-first-new-class-in-4-years-and-a-more-story-driven-journal-are-on-the-way/"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/hearthstone-update-monk-class-blizzcon-2026/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/hearthstone-monk.jpg?w=300",
-    "published_at": "2026-09-12T18:37:32.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "hearthstone",
-    "game_label": "Hearthstone"
-  },
-  {
-    "id": "d8567b866843",
-    "slug": "blizzard-announces-diablo-5-for-2029-release",
-    "headline": "Blizzard announces Diablo 5 for 2029 release",
-    "summary": "Blizzard Entertainment has revealed Diablo 5, set in a world without heroes, for a 2029 release date.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/blizzard-announces-diablo-5-for-2029-release/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/d8567b866843/800/600",
-    "published_at": "2026-09-12T18:33:14.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "diablo-5",
-    "game_label": "Diablo 5"
-  },
-  {
-    "id": "d6ccd0ce585f",
-    "slug": "diablo-5-announced",
-    "headline": "Diablo 5 Announced",
-    "summary": "Blizzard has revealed Diablo 5, set in a post-apocalyptic future 100 years after Diablo 4, for release in 2029.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/diablo-5-announced-release-date-2029"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/diablo-5-blizzcon-reveal/"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/12/diablo-v-1789237822781.png",
-    "published_at": "2026-09-12T18:30:24.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "diablo-5",
-    "game_label": "Diablo 5"
-  },
-  {
-    "id": "c13fbc93c3b0",
-    "slug": "diablo-5-is-coming-in-2029-and-diablo-has-won",
-    "headline": "Diablo 5 is Coming in 2029, and 'Diablo has won'",
-    "summary": "Blizzard has confirmed the release window for Diablo 5, with a statement saying the game has 'won' and there are no safe places to protect players",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/diablo/diablo-5-is-coming-in-2029-and-diablo-has-won/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/BLxtAb7aCyby9oU6Brruse-1280-80.jpg",
-    "published_at": "2026-09-12T18:30:19.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "diablo-5",
-    "game_label": "Diablo 5"
-  },
-  {
-    "id": "ec0b10f2933e",
-    "slug": "ps5-gamers-in-for-a-busy-day-on-september-15",
-    "headline": "PS5 Gamers in for a Busy Day on September 15",
-    "summary": "PS5 gamers can expect a hectic day on September 15 due to upcoming game releases and patches",
-    "category": "industry",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/new-ps5-games-coming-soon-wolverine/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/ps5-september-15-super-busy-day.jpg",
-    "published_at": "2026-09-12T18:30:12.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1991884af069",
-    "slug": "diablo-4-returns-amazon-class-in-new-season-plus-switch-port",
-    "headline": "Diablo 4 Returns Amazon Class in New Season, Plus Switch Port",
-    "summary": "Diablo 4 is getting a new season, the return of the Amazon class, and a Nintendo Switch port, according to Blizzard.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/diablo-4-amazon-class-season-hell-legacy-blizzcon-2026/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/dia_div_amazon_key_art.jpg",
-    "published_at": "2026-09-12T18:27:05.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "diablo-4",
-    "game_label": "Diablo 4"
-  },
-  {
-    "id": "b7cc2a4b3264",
-    "slug": "diablo-5-coming-in-2029",
-    "headline": "Diablo 5 Coming in 2029",
-    "summary": "PC Gamer reports that Blizzard's action RPG is set to release in 2029, although no further details are provided.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/rpg/diablo-5-is-coming-in-2029/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ESuiNqxM5SpvSnX4WwGNUJ-1280-80.png",
-    "published_at": "2026-09-12T18:25:56.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "diablo-5",
-    "game_label": "Diablo 5"
-  },
-  {
-    "id": "374013d7d7c9",
-    "slug": "rpgs-where-a-hero-becomes-the-villain",
-    "headline": "RPGs Where A Hero Becomes The Villain",
-    "summary": "A hero becoming the villain is a pretty common trope in games, but some RPGs still pull it off exceptionally well, often in ways all their own.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/rpgs-hero-becomes-final-villain-game/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/rpgs-where-a-hero-becomes-the-final-villain.jpg",
-    "published_at": "2026-09-12T18:25:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
