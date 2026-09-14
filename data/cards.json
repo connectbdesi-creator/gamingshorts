@@ -1,5 +1,74 @@
 [
   {
+    "id": "53a32c7534ce",
+    "slug": "roblox-creators-to-publish-games-across-multiple-platforms",
+    "headline": "Roblox Creators to Publish Games Across Multiple Platforms",
+    "summary": "Roblox is introducing a new initiative called 'Roblox Everywhere' that will allow creators to publish their games on mobile, PC, and console as standalone apps.",
+    "category": "deals",
+    "platform_tags": [
+      "mobile",
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/roblox-creators-will-soon-be-able-to-publish-games-on-multiple-platforms-as-standalone-apps"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Immersive-content-on-Roblox.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-14T12:58:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "roblox",
+    "game_label": "Roblox"
+  },
+  {
+    "id": "42e5471d8776",
+    "slug": "blizzard-shifts-away-from-live-service-model-with-new-starcraft-shoote",
+    "headline": "Blizzard Shifts Away from Live-Service Model with New StarCraft Shooter",
+    "summary": "Blizzard is rethinking its approach to new StarCraft game, instead opting for a 'boxed' release in 2030, setting a departure from the company's live-service game roots.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/starcraft-shooter-2030-details-not-live-service"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/starcraft-2030-blizzard-dan-hay.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-14T12:45:03.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "starcraft",
+    "game_label": "StarCraft"
+  },
+  {
+    "id": "76aad876bf14",
+    "slug": "the-geforce-rtx-5090-isnt-a-gaming-gpu-if-ai-companies-are-buying-them",
+    "headline": " The GeForce RTX 5090 isn't a \"gaming GPU\" if AI companies are buying them by the pallet ",
+    "summary": "Images of RTX 5090 on pallets being used to make AI servers are making the rounds, and it fuels the idea that Nvidia's graphics card is no longer a gaming GPU.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/hardware/desktop-pc/the-geforce-rtx-5090-isnt-a-gaming-gpu-if-ai-companies-are-buying-them-by-the-pallet/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/KN39CTGyEd8bnFGdWWvucM-1280-80.jpg",
+    "published_at": "2026-09-14T12:33:21.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "840b27811c2d",
     "slug": "gta-6-officially-reveals-why-there-are-2-protagonists",
     "headline": "GTA 6 Officially Reveals Why There Are 2 Protagonists",
@@ -509,6 +578,10 @@
       {
         "name": "Nintendo Life",
         "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-gets-a-seven-minute-overview-trailer"
+      },
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/fire-emblem-fortunes-weave-overview-trailer"
       }
     ],
     "image_url": "https://images.nintendolife.com/4b808ea46c7c3/large.jpg",
@@ -4632,77 +4705,6 @@
     "image_url": "https://cdn.mos.cms.futurecdn.net/99mXJiGrqjdePiKENntgLH-1280-80.jpg",
     "published_at": "2026-09-12T19:12:02.000Z",
     "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "world-of-warcraft-forever",
-    "game_label": "World of Warcraft: Forever"
-  },
-  {
-    "id": "cd307a312dc9",
-    "slug": "blizzard-reveals-first-look-at-world-of-warcrafts-next-major-expansion",
-    "headline": "Blizzard Reveals First Look at World of Warcraft's Next Major Expansion",
-    "summary": "Blizzard Entertainment has announced its next major World of Warcraft expansion, titled World of Warcraft: The Last Titan, which completes the Worldsoul Saga",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/wow-last-titan-reveal-worldsoul-saga-blizzcon-2026/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-last-titan-teaser-_-colossal-_-world-of-warcraft-0-57-screenshot.jpg",
-    "published_at": "2026-09-12T19:10:53.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "world-of-warcraft-the-last-titan",
-    "game_label": "World of Warcraft: The Last Titan"
-  },
-  {
-    "id": "6b2dde37c040",
-    "slug": "blizzard-unveils-world-of-warcraft-forever-classic-plus-project",
-    "headline": "Blizzard Unveils World of Warcraft: Forever Classic Plus Project",
-    "summary": "Blizzard has announced World of Warcraft: Forever, a new Classic Plus project that will add new content to the original Vanilla WoW experience.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/world-of-warcraft-forever-classic-plus-announcement-blizzcon-2026/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2023/12/wow-classic-hunter.jpg",
-    "published_at": "2026-09-12T19:05:17.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "world-of-warcraft-forever",
-    "game_label": "World of Warcraft: Forever"
-  },
-  {
-    "id": "c7bbfa54dd30",
-    "slug": "world-of-warcraft-forever-announced-as-the-vanilla-wow-reboot-weve-bee",
-    "headline": "World of Warcraft: Forever Announced As The Vanilla WoW Reboot We've Been Waiting For",
-    "summary": "World of Warcraft: Forever is an upcoming game rebooting the original 2004 experience, with a serious twist on the first year of the game.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/world-of-warcraft-forever-classic-plus-revealed-2000733774"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/BlizzCon-2026-_-Day-1-Main-Stage-2-21-39-screenshot-1280x720.jpg",
-    "published_at": "2026-09-12T19:04:18.000Z",
-    "hype_signal": 85,
     "like_count": 0,
     "comment_count": 0,
     "game": "world-of-warcraft-forever",
