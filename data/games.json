@@ -11621,5 +11621,60 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-14T17:07:44.533Z"
+  },
+  {
+    "slug": "marathon",
+    "name": "Marathon",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/cab/cabc7cd14f1d9829c37d3bd2bec16c4a.jpg",
+    "released": "2026-03-05",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f8d/f8d59bfc7d4afbecabe31d7adfdefd22.jpg",
+      "https://media.rawg.io/media/screenshots/3cc/3cc3563e62599fe101c436caeb9e4cd2.jpg",
+      "https://media.rawg.io/media/screenshots/87f/87f5f989585ed1a6730f8643285965c0.jpg",
+      "https://media.rawg.io/media/screenshots/b51/b51861d460b2f8c68a555302c15402a1.jpg",
+      "https://media.rawg.io/media/screenshots/598/5986275acbda2141d207dcecc3730e16.jpg",
+      "https://media.rawg.io/media/screenshots/c56/c56d0cfc9b16d8d4d575700d6c422f88.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-14T17:38:32.814Z"
+  },
+  {
+    "slug": "luigis-mansion",
+    "name": "Luigi's Mansion",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/815/815c297ed2985f8818d07dc7924d8fc8.jpg",
+    "released": "2001-09-14",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "Nintendo 3DS",
+      "GameCube"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f08/f08c6fe21574e5232782eca0e6207856.jpg",
+      "https://media.rawg.io/media/screenshots/4ee/4ee960d8ae853bc54c87dfb3184e0597.jpg",
+      "https://media.rawg.io/media/screenshots/ed9/ed968697654890b34fb6c06fcb0211b8.jpg",
+      "https://media.rawg.io/media/screenshots/704/70465067499643720783912a979aae51.jpg",
+      "https://media.rawg.io/media/screenshots/c45/c45196824b86ad28e1b367be6b33c3f6.jpg",
+      "https://media.rawg.io/media/screenshots/9a7/9a787901f92458d2ca0932152b720a9f.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-14T17:38:34.139Z"
   }
 ]
