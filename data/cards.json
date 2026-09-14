@@ -1,5 +1,153 @@
 [
   {
+    "id": "110423a075e7",
+    "slug": "blizzard-reveals-new-starcraft-game-as-open-world-shooter",
+    "headline": "Blizzard Reveals New StarCraft Game as Open-World Shooter",
+    "summary": "Blizzard has announced a new StarCraft game with a shift to open-world shooter gameplay, set to be released in several years. Details on gameplay and release date were revealed at BlizzCon 2026.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/starcraft-release-date-gameplay-and-everything-we-know/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/StarCraft-4_04a4c2.jpg?w=300",
+    "published_at": "2026-09-14T13:07:12.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "starcraft",
+    "game_label": "StarCraft"
+  },
+  {
+    "id": "5551f21dd426",
+    "slug": "blizzard-x-cd-projekt-red-collaboration-continues-with-cyberpunk-outfi",
+    "headline": "Blizzard X CD Projekt Red collaboration continues with Cyberpunk outfits in Overwatch",
+    "summary": "CD Projekt Red is collaborating with Blizzard on Overwatch, bringing Cyberpunk-inspired outfits to the game. Additionally, a new character, Geralt of Rivia, will appear in Diablo 4.",
+    "category": "esports",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/the-blizzard-x-cd-projekt-red-collaboration-continues-with-cyberpunk-outfits-in-overwatch/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/5551f21dd426/800/600",
+    "published_at": "2026-09-14T13:04:28.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "overwatch",
+    "game_label": "Overwatch"
+  },
+  {
+    "id": "1416ffecc3f8",
+    "slug": "resident-evil-movie-director-comments-on-physical-media-debate",
+    "headline": "Resident Evil Movie Director Comments On Physical Media Debate",
+    "summary": "Resident Evil movie director Zach Cregger has shared his thoughts on the ongoing debate and discussion about physical media in games. He wasn't speaking directly about Sony's decision to end support for physical game discs in 2028, but rather commenting generally on the matter. Speaking to IndieWire, Cregger said he is \"not a physical media guy\" today. He said he…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/resident-evil-movie-director-comments-on-physical-media-debate/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-14-at-8.37.42-AM.png?w=300",
+    "published_at": "2026-09-14T13:03:39.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "54ea6f2e36b6",
+    "slug": "sony-stops-the-last-of-us-part-2-multiplayer-mod",
+    "headline": "Sony Stops The Last of Us Part 2 Multiplayer Mod",
+    "summary": "A multiplayer mod for The Last of Us Part 2 was nearly released after 9 months of development, but was cancelled by Sony.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/the-last-of-us/sony-reportedly-stops-the-last-of-us-part-2-multiplayer-mod-in-its-tracks-right-before-its-launch-extremely-sad-that-this-never-got-to-see-the-light-of-day/"
+      },
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/last-of-us-part-2-multiplayer-mod-sony-naughty-dog-canceled-2000734244"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/oanPTgDuFcXBqoh22x7aFZ-1280-80.jpg",
+    "published_at": "2026-09-14T13:02:53.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-last-of-us-part-2",
+    "game_label": "The Last of Us Part 2"
+  },
+  {
+    "id": "778a493cc974",
+    "slug": "kemuri-dev-says-its-too-exhausting-to-release-an-xbox-version-and-we-d",
+    "headline": "KEMURI Dev Says It's Too Exhausting To Release An Xbox Version, And We Do Actually Sympathise",
+    "summary": "Not worded the best way though. You might not have heard of it, but KEMURI is a new game from a small studio known as \"UNSEEN\", led by a former artist and director at Tango Gameworks for the likes of The Evil Within and Ghostwire Tokyo called Ikumi Nakamura. Nakamura was asked in a recent Q&A about why KEMURI isn't…",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/kemuri-dev-says-its-too-exhausting-to-release-an-xbox-version-and-we-do-actually-sympathise"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/f5aa891a2d5e1/large.jpg",
+    "published_at": "2026-09-14T13:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "406c57d5e3e1",
+    "slug": "dreadline-express-is-more-myst-than-balatro-but-this-horror-metroidvan",
+    "headline": "Dreadline Express is more Myst than Balatro, but this horror Metroidvania deckbuilder is just as creative",
+    "summary": "Dreadline Express is a horror Metroidvania deckbuilder that draws inspiration from Myst, but with its own unique twists and challenges. The game promises a unique blend of exploration, puzzle-solving, and deck-building.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/adventure/dreadline-express-is-more-myst-than-balatro-but-this-horror-metroidvania-deckbuilder-is-just-as-creative/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/TZihXeQvtMdjJTua3GxFtS-1280-80.jpg",
+    "published_at": "2026-09-14T13:00:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dreadline-express",
+    "game_label": "Dreadline Express"
+  },
+  {
     "id": "53a32c7534ce",
     "slug": "roblox-creators-to-publish-games-across-multiple-platforms",
     "headline": "Roblox Creators to Publish Games Across Multiple Platforms",
@@ -809,29 +957,6 @@
     "comment_count": 0,
     "game": "onimusha-way-of-the-sword",
     "game_label": "Onimusha: Way Of The Sword"
-  },
-  {
-    "id": "54ea6f2e36b6",
-    "slug": "sony-stops-the-last-of-us-part-2-multiplayer-mod",
-    "headline": "Sony Stops The Last of Us Part 2 Multiplayer Mod",
-    "summary": "A multiplayer mod for The Last of Us Part 2 was nearly released after 9 months of development, but was cancelled by Sony.",
-    "category": "industry",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/the-last-of-us/sony-reportedly-stops-the-last-of-us-part-2-multiplayer-mod-in-its-tracks-right-before-its-launch-extremely-sad-that-this-never-got-to-see-the-light-of-day/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/oanPTgDuFcXBqoh22x7aFZ-1280-80.jpg",
-    "published_at": "2026-09-14T10:07:29.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-last-of-us-part-2",
-    "game_label": "The Last of Us Part 2"
   },
   {
     "id": "800dbbdac22b",
@@ -4585,129 +4710,5 @@
     "comment_count": 0,
     "game": "starcraft",
     "game_label": "StarCraft"
-  },
-  {
-    "id": "51284ca93757",
-    "slug": "roundup-all-the-biggest-reveals-from-blizzcon-2026-including-two-massi",
-    "headline": "Roundup: All The Biggest Reveals From Blizzcon 2026, Including Two Massive Announcements",
-    "summary": "New StarCraft and Diablo games in the works! Today marked the start of Blizzcon 2026 over in California, and the Xbox-owned company had a lot of announcements to share as part of the opening ceremony, including two massive announcements regarding Diablo and StarCraft. Those announcements were that Diablo V is officially in the works with a target release window of…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/roundup-all-the-biggest-reveals-from-blizzcon-2026-including-two-massive-announcements"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/8ff1a76cf6f16/large.jpg",
-    "published_at": "2026-09-12T20:08:00.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e422cb84fd69",
-    "slug": "best-michael-myers-abilities-in-halloween-the-game",
-    "headline": "Best Michael Myers Abilities in Halloween: The Game",
-    "summary": "Halloween: The Game strategy guide highlights the most effective Michael Myers loadouts and abilities for dominating matches.",
-    "category": "esports",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/halloween-the-game-best-michael-myers-abilities-meta-loadout/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/best-michael-myers-abilities-in-halloween-the-game-meta-michael-loadout.jpg",
-    "published_at": "2026-09-12T19:54:37.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "halloween-the-game",
-    "game_label": "Halloween: The Game"
-  },
-  {
-    "id": "22ecf5f381ab",
-    "slug": "50-years-later-star-wars-is-officially-remaking-the-original-trilogy-i",
-    "headline": "50 Years Later, Star Wars Is Officially Remaking the Original Trilogy in a Shocking New Style",
-    "summary": "Polygon reports that the Star Wars franchise is remaking the original trilogy with a new style, marking 50 years since the release of the first film.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/star-wars-original-trilogy-graphic-novel/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/msdemst_ec057.jpg",
-    "published_at": "2026-09-12T19:33:14.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "star-wars",
-    "game_label": "Star Wars"
-  },
-  {
-    "id": "4d91f0febf6c",
-    "slug": "blizzard-drops-new-warcraft-release-at-blizzcon",
-    "headline": "Blizzard Drops New Warcraft Release at BlizzCon",
-    "summary": "Blizzard Entertainment announced a new Warcraft release at the 2026 BlizzCon event, taking place in Anaheim, California over the next two days.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/warcraft-3-new-expansion-forsaken-kingdom/"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/blizzard-shadow-drops-new-campaign-for-warcraft-3-at-blizzcon-2026"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/world-of-warcraft-reforged-forsaken-kingdom-expansion-cgi-trailer-still-frame-armored-warrior-in-red-with-shield.jpg",
-    "published_at": "2026-09-12T19:28:22.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "warcraft",
-    "game_label": "Warcraft"
-  },
-  {
-    "id": "fd82b650b933",
-    "slug": "world-of-warcraft-forever-2",
-    "headline": "World of Warcraft: Forever",
-    "summary": "World of Warcraft is getting a new game called 'World of Warcraft: Forever' set to launch in November, alongside Classic and Vanilla WoW.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-forever-is-a-whole-new-wow-game-launching-in-november-thatll-live-alongside-classic-and-vanilla/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/99mXJiGrqjdePiKENntgLH-1280-80.jpg",
-    "published_at": "2026-09-12T19:12:02.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "world-of-warcraft-forever",
-    "game_label": "World of Warcraft: Forever"
   }
 ]
