@@ -1,5 +1,58 @@
 [
   {
+    "id": "b447ad05550d",
+    "slug": "marvels-wolverine-voice-actor-reveals-who-inspired-his-take-on-logan",
+    "headline": "Marvel's Wolverine Voice Actor Reveals Who Inspired His Take on Logan",
+    "summary": "Voice actor Liam McIntyre discusses the performances that influenced his portrayal of Logan in Insomniac Games' Marvel's Wolverine.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/marvels-wolverine-liam-mcintyre-performance-inspirations/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mw_previews_telembangcombat_4k_2026.jpg",
+    "published_at": "2026-09-14T07:01:15.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "marvels-wolverine",
+    "game_label": "Marvel's Wolverine"
+  },
+  {
+    "id": "14af76685b77",
+    "slug": "monster-hunter-wilds-expansion-ascendance-trailer-released",
+    "headline": "Monster Hunter Wilds Expansion 'Ascendance' Trailer Released",
+    "summary": "Capcom has unveiled a new trailer for the upcoming Monster Hunter Wilds expansion 'Ascendance', highlighting its new gameplay mechanics and features.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/monster-hunter-wilds-expansion-ascendance-trailer-switch-axe-boosted-action-breakdown"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/14af76685b77/800/600",
+    "published_at": "2026-09-14T06:05:26.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "monster-hunter-wilds-ascendance",
+    "game_label": "Monster Hunter Wilds: Ascendance"
+  },
+  {
     "id": "c6c2d1ad3a97",
     "slug": "clair-obscur-expedition-33-director-comments-on-sandfalls-next-game",
     "headline": "Clair Obscur Expedition 33 Director Comments on Sandfall's Next Game",
@@ -4668,51 +4721,5 @@
     "comment_count": 0,
     "game": "runescape-dragonwilds",
     "game_label": "RuneScape: Dragonwilds"
-  },
-  {
-    "id": "86fda8e1020a",
-    "slug": "bulkheads-wardogs-surpasses-a-million-copies-sold",
-    "headline": "Bulkhead's Wardogs Surpasses a Million Copies Sold",
-    "summary": "New tactical shooter Wardogs from Bulkhead has exceeded one million sales, with 350,000 concurrent players on its launch day on Steam early access.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/wardogs-million-copies-sold-steam-early-access"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Wardogs-screenshot-(1).jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-12T15:43:49.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "wardogs",
-    "game_label": "Wardogs"
-  },
-  {
-    "id": "d1268f0acec3",
-    "slug": "xbox-game-pass-is-losing-multiple-1010-masterpieces-on-september-15",
-    "headline": "Xbox Game Pass is Losing Multiple 10/10 Masterpieces on September 15",
-    "summary": "Xbox Game Pass subscribers will lose access to multiple highly-rated games on September 15, highlighting the service's business model and its impact on game accessibility.",
-    "category": "deals",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/xbox-game-pass-games-leaving-soon-cyberpunk-spiritfarer-dead-cells/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/xbox-game-pass-game-leaving-soon.jpg",
-    "published_at": "2026-09-12T15:30:12.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
