@@ -1,5 +1,117 @@
 [
   {
+    "id": "840b27811c2d",
+    "slug": "gta-6-officially-reveals-why-there-are-2-protagonists",
+    "headline": "GTA 6 Officially Reveals Why There Are 2 Protagonists",
+    "summary": "During a recent interview, Rockstar Games' Rob Nelson explains why GTA 6 focuses on Jason and Lucia.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-main-characters-jason-lucia-2-3-why/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_01-1.jpg",
+    "published_at": "2026-09-14T12:30:12.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "57431c2b38cd",
+    "slug": "whats-the-harm-in-asking-dlala-studios-on-taking-a-big-swing-to-get-co",
+    "headline": "\"What's the harm in asking?\" – Dlala Studios on taking a big swing to get comedy legend Bob Mortimer for the upcoming game Murals",
+    "summary": "The name Bob Mortimer might not mean much to those who haven't lived in the UK, but he's a huge deal in the world of British comedy.\n Read more",
+    "category": "deals",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/whats-the-harm-in-asking-dlala-studios-on-taking-a-big-swing-to-get-comedy-legend-bob-mortimer-for-the-upcoming-game-murals"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/KeyArtJuly2026_3840x2160.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-14T12:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "cdf0173728c7",
+    "slug": "sega-to-release-persona-6-physical-edition-for-switch-2",
+    "headline": "Sega to Release Persona 6 Physical Edition for Switch 2",
+    "summary": "Persona 6 physical edition is coming for the Nintendo Switch 2, catering to collectors and fans of the series",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/persona-6-switch-2-physical-release/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/persona-6-nintendo-direct.jpg",
+    "published_at": "2026-09-14T12:29:56.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "persona-6",
+    "game_label": "Persona 6"
+  },
+  {
+    "id": "9c7bbd64dcbd",
+    "slug": "the-other-xbox-360-exclusive-jrpg-from-the-creator-of-final-fantasy-no",
+    "headline": "The other Xbox 360 exclusive JRPG from the creator of Final Fantasy now has a PC port",
+    "summary": "Lost Odyssey is now playable on PC thanks to a fan-made static recompilation port",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/the-other-xbox-360-exclusive-jrpg-from-the-creator-of-final-fantasy-now-has-a-pc-port/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/9c7bbd64dcbd/800/600",
+    "published_at": "2026-09-14T12:17:50.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "4ebc3c6d6786",
+    "slug": "sony-letter-spells-the-end-for-unreleased-the-last-of-us-part-2-multip",
+    "headline": "Sony letter spells the end for unreleased The Last of Us Part 2 multiplayer mod, its creator says",
+    "summary": "A multiplayer mod for The Last of Us Part 2 which was originally set to release this month no longer will, with its creator citing a letter from publishers Sony as the reason it won't see the light of day.\nRead more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/sony-letter-spells-the-end-for-unreleased-the-last-of-us-part-2-multiplayer-mod-its-creator-says"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/last-of-us-part-2-multiplayer-mod-cancelled-sony-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-14T12:14:56.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "7f38961794d1",
     "slug": "xbox-issues-new-official-statement-on-playstation-kojima-productions",
     "headline": "Xbox Issues New Official Statement on PlayStation, Kojima Productions",
@@ -50,6 +162,76 @@
     "comment_count": 0,
     "game": "zelda-movie",
     "game_label": "Zelda movie"
+  },
+  {
+    "id": "df04b712de25",
+    "slug": "nintendos-customer-appreciation-sale-discounts-games-and-amiibo",
+    "headline": "Nintendo's 'Customer Appreciation Sale' Discounts Games and amiibo",
+    "summary": "Nintendo is offering discounts of up to 30% on digital games, merchandise, and amiibo on the Nintendo Store due to tariff-related refunds. The sale runs until September 26th.",
+    "category": "deals",
+    "platform_tags": [
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/guides/nintendos-customer-appreciation-sale-discounts-games-amiibo-and-more-heres-everything-included-us"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/c0d74e43e3b4a/large.jpg",
+    "published_at": "2026-09-14T12:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7d34862bba7e",
+    "slug": "mini-review-mewgenics-ps5-the-best-roguelike-since-the-binding-of-isaa",
+    "headline": "Mini Review: Mewgenics (PS5) - The Best Roguelike Since The Binding of Isaac",
+    "summary": "\"Can I pet your kitties?\". In this day and age with the large AAA game budgets, you'd never expect a team of just two developers to come out with a GOTY-contending indie title. Mewgenics, from The Binding of Isaac creator Edmund McMillen and The End Is Nigh programmer Tyler Glaiel, is a 100+ hour, cat breeding, turn-based, roguelike strategy game…",
+    "category": "reviews",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/reviews/ps5/mewgenics"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/e428c44928fac/large.jpg",
+    "published_at": "2026-09-14T12:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7dbe5c395e37",
+    "slug": "reminder-xbox-game-pass-is-losing-10-games-this-week-september-15",
+    "headline": "Reminder: Xbox Game Pass Is Losing 10 Games This Week (September 15)",
+    "summary": "ICYMI, here's what's leaving soon. We're just about to enter into the second half of the month, and therefore we've got a batch of games leaving Xbox Game Pass this week! As we mentioned recently, ten of them are departing the service this Tuesday, September 15th. This is a fairly hefty bunch, as multiple heavy-hitters are being removed. Notably, Cyberpunk…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/reminder-xbox-game-pass-is-losing-10-games-this-week-september-15"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/2812a5dd1f34c/large.jpg",
+    "published_at": "2026-09-14T12:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "d70ff65268c0",
@@ -556,6 +738,29 @@
     "game_label": "Onimusha: Way Of The Sword"
   },
   {
+    "id": "54ea6f2e36b6",
+    "slug": "sony-stops-the-last-of-us-part-2-multiplayer-mod",
+    "headline": "Sony Stops The Last of Us Part 2 Multiplayer Mod",
+    "summary": "A multiplayer mod for The Last of Us Part 2 was nearly released after 9 months of development, but was cancelled by Sony.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/the-last-of-us/sony-reportedly-stops-the-last-of-us-part-2-multiplayer-mod-in-its-tracks-right-before-its-launch-extremely-sad-that-this-never-got-to-see-the-light-of-day/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/oanPTgDuFcXBqoh22x7aFZ-1280-80.jpg",
+    "published_at": "2026-09-14T10:07:29.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-last-of-us-part-2",
+    "game_label": "The Last of Us Part 2"
+  },
+  {
     "id": "800dbbdac22b",
     "slug": "name-that-game-september-15-2026",
     "headline": "Name That Game (September 15, 2026)",
@@ -757,6 +962,29 @@
     "game_label": "Diablo 4"
   },
   {
+    "id": "db08e4bd7aef",
+    "slug": "gungho-online-entertainment-announces-blue-nova",
+    "headline": "GungHo Online Entertainment Announces B.L.U.E. NOVA",
+    "summary": "GungHo Online Entertainment is releasing B.L.U.E. NOVA, a free-to-play cooperative third-person shooter for PC, and plans to make it available soon.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/gungho-online-entertainment-announces-free-to-play-co-op-pve-shooter-blue-nova-for-pc"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/db08e4bd7aef/800/600",
+    "published_at": "2026-09-14T09:00:56.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "blue-nova",
+    "game_label": "B.L.U.E. NOVA"
+  },
+  {
     "id": "99b35f888001",
     "slug": "new-official-resident-evil-releases-confirmed-for-later-this-month",
     "headline": "New Official Resident Evil Releases Confirmed for Later This Month",
@@ -891,6 +1119,27 @@
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/crystal-crisis-steam-free-to-keep-september-2026-gamerant.jpg",
     "published_at": "2026-09-14T08:10:39.000Z",
     "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2d37c27a20e4",
+    "slug": "fateextra-record-character-trailer-caster",
+    "headline": "Fate/EXTRA Record character trailer – Caster",
+    "summary": "Publisher Aniplex and developers Meteorise and TYPE-MOON have released a new character trailer for Fate/EXTRA …",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/fate-extra-record-character-trailer-caster"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/2d37c27a20e4/800/600",
+    "published_at": "2026-09-14T08:05:29.000Z",
+    "hype_signal": 65,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4458,261 +4707,5 @@
     "comment_count": 0,
     "game": "world-of-warcraft-forever",
     "game_label": "World of Warcraft: Forever"
-  },
-  {
-    "id": "601275ab017f",
-    "slug": "wow-forever-will-add-all-new-content-to-classic-azeroth-this-november",
-    "headline": "WoW Forever Will Add All-New Content To Classic Azeroth This November",
-    "summary": "World of Warcraft Forever is Blizzard's next iteration on WoW Classic, one that will add new content in the form of zones, quests, dungeons, raids, and even a new playable race while keeping the old-school MMORPG's world and gameplay intact. Revealed during BlizzCon 2026's opening ceremony, WoW Forever is Blizzard's attempt to give WoW Classic fans the \"forever\" game they've…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/wow-forever-will-add-all-new-content-to-classic-azeroth-this-november/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/wowforever.jpg?w=300",
-    "published_at": "2026-09-12T19:04:08.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d35f380915a8",
-    "slug": "world-of-warcraft-forever",
-    "headline": "World of Warcraft Forever",
-    "summary": "Blizzard is releasing a new version of its classic MMO, World of Warcraft, offering fans a 'vanilla' experience with all the classic features restored.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/world-of-warcraft-forever-announced-classic-plus-blizzcon-2026/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/wow_forever_cinematic_still_9.jpeg",
-    "published_at": "2026-09-12T19:03:25.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "world-of-warcraft",
-    "game_label": "World of Warcraft"
-  },
-  {
-    "id": "039f2dfd63c6",
-    "slug": "nintendo-is-one-step-closer-to-world-domination",
-    "headline": "Nintendo is One Step Closer to World Domination",
-    "summary": "The Zelda 40th Anniversary Direct and September Direct constituted a hard sales pitch for Switch 2, and it's going to work",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/switchboard-switch-2-nintendo-the-two-directs/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ns2_thelegendofzeldaocarinaoftime_scrn_15.png",
-    "published_at": "2026-09-12T19:00:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e84e96e22d6e",
-    "slug": "brand-new-3d-platformer-game-on-steam-is-basically-cyberpunk-edgerunne",
-    "headline": "Brand-New 3D Platformer Game on Steam Is Basically Cyberpunk: Edgerunners Meets Shinobi",
-    "summary": "Fans of the Cyberpunk: Edgerunners anime and action games like Sega's Shinobi series should keep an eye on this new 3D platformer coming to Steam.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/new-3d-platformer-games-steam-slashzero/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/new-steam-3d-platformer-games-slashzero-announced-gamerant-1.jpg",
-    "published_at": "2026-09-12T19:00:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2320a24f8ba3",
-    "slug": "i-still-havent-found-a-game-like-paradise-killer",
-    "headline": "I Still Haven't Found a Game Like Paradise Killer",
-    "summary": "Push Square writer shares why they haven't beaten Paradise Killer, a cult classic, despite earning its platinum trophy.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/features/going-platinum-ive-still-not-played-anything-else-quite-like-paradise-killer"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/0f5fcff689120/large.jpg",
-    "published_at": "2026-09-12T19:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "paradise-killer",
-    "game_label": "Paradise Killer"
-  },
-  {
-    "id": "83e23aaba055",
-    "slug": "world-of-warcraft-forever-beta-begins-this-week",
-    "headline": "World of Warcraft: Forever Beta Begins This Week",
-    "summary": "PC Gamer reports that World of Warcraft: Forever, the upcoming expansion, has started its beta testing phase. No official release date has been announced yet.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/the-wow-classic-rumors-were-true-world-of-warcraft-forever-promises-to-be-another-timelines-bizzarro-version-of-the-mmo/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/F2Vr74L9EDyrQyczqYRoie-1280-80.png",
-    "published_at": "2026-09-12T18:58:04.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "world-of-warcraft-forever",
-    "game_label": "World of Warcraft: Forever"
-  },
-  {
-    "id": "02dba292f444",
-    "slug": "blizzards-big-blizzcon-2026-opening-ceremony-mic-drop-is-world-of-warc",
-    "headline": "Blizzard's Big BlizzCon 2026 Opening Ceremony Mic Drop Is World of Warcraft Forever",
-    "summary": "Blizzard announced World of Warcraft Forever at BlizzCon 2026, ending the opening ceremony with a mic drop. No further details are available.",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/blizzards-big-blizzcon-2026-opening-ceremony-mic-drop-is-world-of-warcraft-forever"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/12/wow2-1789239447240.png",
-    "published_at": "2026-09-12T18:57:39.000Z",
-    "hype_signal": 10,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "world-of-warcraft",
-    "game_label": "World of Warcraft"
-  },
-  {
-    "id": "15ff574672ac",
-    "slug": "world-of-warcraft-the-last-titan-launches-2027-and-blizzard-says-its-t",
-    "headline": " World of Warcraft: The Last Titan launches 2027 and Blizzard says it's the \"culmination of over two decades\" of MMO storytelling ",
-    "summary": "The Worldsoul Saga comes to an end next year",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-the-last-titan-launches-2027-and-blizzard-says-its-the-culmination-of-over-two-decades-of-mmo-storytelling/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/grbwvGw7dN2uaehjh5BqWH-1280-80.jpg",
-    "published_at": "2026-09-12T18:54:30.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3f52874accb9",
-    "slug": "blizzard-just-dropped-a-new-warcraft-3-campaign-the-first-in-23-years",
-    "headline": "Blizzard just dropped a new Warcraft 3 campaign, the first in 23 years",
-    "summary": "Blizzard Entertainment has released a new campaign for the real-mode version of Warcraft III: Reign of Chaos and its expansion, The Frozen Throne, 23 years after the last expansion was released.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/rts/blizzard-just-dropped-a-new-warcraft-3-campaign-the-first-in-23-years/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/LxAwM7hR7oVupVPMBDBXsk-1280-80.png",
-    "published_at": "2026-09-12T18:51:39.000Z",
-    "hype_signal": 10,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "warcraft-iii-reign-of-chaos",
-    "game_label": "Warcraft III: Reign of Chaos"
-  },
-  {
-    "id": "4c92fb87d00a",
-    "slug": "warcraft-gets-new-rts-campaign",
-    "headline": "Warcraft Gets New RTS Campaign",
-    "summary": "Warcraft 3 is getting a new campaign titled Forsaken Kingdom, exploring the origins of the Forsaken and the formation of the Undercity.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/warcraft-getting-its-first-new-rts-campaign-in-two-decades-and-its-playable-today/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/1000003826.jpg?w=300",
-    "published_at": "2026-09-12T18:51:22.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "warcraft-3",
-    "game_label": "Warcraft 3"
-  },
-  {
-    "id": "4f8d8000ec4a",
-    "slug": "world-of-warcrafts-next-expansion-the-last-titan-is-out-next-year",
-    "headline": "World Of Warcraft's Next Expansion, The Last Titan, Is Out Next Year",
-    "summary": "World of Warcraft's next expansion, The Last Titan, is set to be released in 2025. Fans are mourning the demise of Wyrmrest Temple, a beloved location in the game. The expansion's details are scarce, but it promises to bring significant changes to the game's world.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/world-of-warcrafts-next-expansion-the-last-titan-is-out-next-year-2000733784"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/BlizzCon-2026-_-Day-1-Main-Stage-2-9-46-screenshot-1280x720.jpg",
-    "published_at": "2026-09-12T18:45:27.000Z",
-    "hype_signal": 75,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "world-of-warcraft",
-    "game_label": "World of Warcraft"
   }
 ]

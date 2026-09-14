@@ -11317,5 +11317,34 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-14T11:38:47.716Z"
+  },
+  {
+    "slug": "blue-nova",
+    "name": "Nova-Life",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/be9/be95b300157bd51d38e2a59c373cbd6a.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Action",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Linux"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/448/44862f03a7a3836a7e7b7f073734aaac.jpg",
+      "https://media.rawg.io/media/screenshots/857/857ea743fe68c5f0540c4835fae3ad9c.jpg",
+      "https://media.rawg.io/media/screenshots/ec9/ec99db9f3e71003f08e5ca79f7e76193.jpg",
+      "https://media.rawg.io/media/screenshots/5c4/5c47cd7ba76101e9ae665f5e5220a3d3.jpg",
+      "https://media.rawg.io/media/screenshots/dc3/dc3fc68da4ed956ea2dad1978eb731cd.jpg",
+      "https://media.rawg.io/media/screenshots/27e/27e96d00ed74af000677aa9f9582a5c6.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-14T12:37:13.747Z"
   }
 ]
