@@ -1,5 +1,51 @@
 [
   {
+    "id": "3b994a66d5a5",
+    "slug": "blizzard-has-no-plans-to-turn-battlenet-into-a-steam-competitor",
+    "headline": "Blizzard Has No Plans To Turn Battle.net Into A Steam Competitor",
+    "summary": "Even though The Witcher 3 Remastered and Cyberpunk 2077 are coming to Battle.net, Blizzard tells Polygon not to expect a flood of third-party games",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/blizzcon-interview-battle-net/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/cyberpunk-2077-battle-net.png",
+    "published_at": "2026-09-14T01:05:42.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "db1b7774cc1e",
+    "slug": "sony-shuts-down-the-last-of-us-2-pc-multiplayer-fan-mod",
+    "headline": "Sony Shuts Down The Last of Us 2 PC Multiplayer Fan Mod",
+    "summary": "Nine months of work down the drain. Sony has sent a letter to PC modder Speclizer requesting they don't release a multiplayer mod that they have had in the works for The Last of Us 2 for the past nine months. The modder shared the news on social media, stating: \"Hey everyone, as you all know, the TLOU 2 Multiplayer…",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/sony-shuts-down-the-last-of-us-2-pc-multiplayer-fan-mod"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/1975023bd4c09/large.jpg",
+    "published_at": "2026-09-14T01:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "f99f1cea7d99",
     "slug": "game-rant-top-open-world-rpgs-with-perfect-multi-class-systems",
     "headline": "Game Rant: Top Open-World RPGs With Perfect Multi-Class Systems",
@@ -4689,49 +4735,5 @@
     "comment_count": 0,
     "game": "wardogs",
     "game_label": "WARDOGS"
-  },
-  {
-    "id": "6c19ab584841",
-    "slug": "will-zach-creggers-resident-evil-break-the-movie-curse",
-    "headline": "Will Zach Cregger's Resident Evil Break the Movie Curse?",
-    "summary": "With the upcoming Resident Evil movie by Zach Cregger, fans have received it with mixed reactions, in big part due to the history of sub-par film adaptations of the 30 year long franchise. Though for a variety of reasons, including creating an original story that captures the essence of the games within the Resident Evil universe, his passion and understanding…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/video/will-zach-creggers-resident-evil-break-the-movie-curse/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/resident-evil-move-review-site.jpg",
-    "published_at": "2026-09-12T15:00:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "29a3dafa4a8e",
-    "slug": "poll-which-xbox-startup-animation-will-you-pick-in-the-new-console-upd",
-    "headline": "Poll: Which Xbox Startup Animation Will You Pick In The New Console Update?",
-    "summary": "Xbox Insiders can soon vote on a new console update's startup animations, with options from different eras of Xbox consoles.",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/features/poll-which-xbox-startup-animation-will-you-pick-in-the-new-console-update"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/7fcd6713a86f0/large.jpg",
-    "published_at": "2026-09-12T15:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
