@@ -11380,5 +11380,87 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-14T14:07:45.941Z"
+  },
+  {
+    "slug": "kemuri",
+    "name": "kemuri",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/c6a/c6adebbbb6310176c666c91629882397.jpg",
+    "released": "2021-10-17",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "PC",
+      "Web"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c6a/c6adebbbb6310176c666c91629882397.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-14T15:09:40.587Z"
+  },
+  {
+    "slug": "lies-of-p",
+    "name": "Lies Of P",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/458/45838becd01e929b6be8b88d655cebfc.jpg",
+    "released": "2023-09-19",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/333/3332c7015ad0c3042f10a128ab3b4f0a.jpg",
+      "https://media.rawg.io/media/screenshots/e54/e5441972762d7c97428c8ec8e1c57ab9.jpg",
+      "https://media.rawg.io/media/screenshots/caf/caf8b31c71fd30eeb53504b550fd6dbf.jpg",
+      "https://media.rawg.io/media/screenshots/6bf/6bf590df242e884b7d519f9fbe81e8b3.jpg",
+      "https://media.rawg.io/media/screenshots/f57/f5788075e970b835ff1b20f73ebf2ca4.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-14T15:09:41.343Z"
+  },
+  {
+    "slug": "thief",
+    "name": "Thief",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/59a/59a3ebcba3d08c51532c6ca877aff256.jpg",
+    "released": "2014-02-25",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "macOS",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/444/444174b321c5f80bd25b031175d02281_H4Bs5Sz.jpg",
+      "https://media.rawg.io/media/screenshots/a97/a97a71a4e707f2b14edb7172675c3a05.jpg",
+      "https://media.rawg.io/media/screenshots/5f6/5f662ad51da15e9a9c975db6e44942f5.jpg",
+      "https://media.rawg.io/media/screenshots/817/8175805712e56a8455ace4c7d11f47e1_EqhB1g9.jpg",
+      "https://media.rawg.io/media/screenshots/030/030770a0631f7a5f7c0f342de15a3b8f.jpg",
+      "https://media.rawg.io/media/screenshots/e14/e146fbe4c8c66dd568ebb7e6f1ea6b12.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-14T15:09:41.683Z"
   }
 ]
