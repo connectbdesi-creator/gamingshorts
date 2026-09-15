@@ -1,5 +1,139 @@
 [
   {
+    "id": "fb184def6ea0",
+    "slug": "rockstar-games-officially-teases-gta-6-soundtrack-with-some-big-name-a",
+    "headline": "Rockstar Games Officially Teases GTA 6 Soundtrack With Some Big-Name Artists",
+    "summary": "Some huge artists are seemingly confirmed for GTA 6's soundtrack after a new reveal from Rockstar Games.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-soundtrack-artists/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/rockstar-games-officially-teases-gta-6-soundtrack-with-some-big-name-artists-gamerant-feature.jpg",
+    "published_at": "2026-09-15T19:25:59.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d07589e5e14e",
+    "slug": "say-goodbye-to-fallouts-best-replacement-before-it-leaves-game-pass-fo",
+    "headline": "Say Goodbye to Fallout's Best Replacement Before it Leaves Game Pass Forever",
+    "summary": "Atomfall is the best Fallout replacement in years — an extremely British amalgamation of BioShock and Bethesda. Read our rec for more.",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/atomfall-game-pass-recommendation/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/atomfall-9.jpg",
+    "published_at": "2026-09-15T19:25:39.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8538358091dc",
+    "slug": "the-slasher-returns-in-fallout-76",
+    "headline": "The Slasher returns in Fallout 76",
+    "summary": "The post The Slasher returns in Fallout 76 appeared first on XBOX Wire.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/09/15/the-slasher-returns-in-fallout-76/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/8538358091dc/800/600",
+    "published_at": "2026-09-15T19:23:33.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c5e4d952ec62",
+    "slug": "best-graveyard-keeper-2-steam-deck-optimization-settings",
+    "headline": "Best Graveyard Keeper 2 Steam Deck Optimization Settings",
+    "summary": "By default, Graveyard Keeper 2 doesn't run perfectly on Steam Deck and so you'll need to change some settings to get it running well.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/best-graveyard-keeper-2-steam-deck-optimization-settings/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/graveyard-keeper-2-steam-deck-optimization-settings.jpg",
+    "published_at": "2026-09-15T19:23:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "74ebfbaadeed",
+    "slug": "007-first-light-officially-hit-with-another-major-delay",
+    "headline": "007 First Light Officially Hit With Another Major Delay",
+    "summary": "007 First Light developer IO Interactive confirms that an upcoming port of the hit James Bond game is delayed by a significant amount of time.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/007-first-light-nintendo-switch-2-delay-when/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/007-first-light-officially-hit-with-another-major-delay-gamerant.jpg",
+    "published_at": "2026-09-15T19:11:53.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "bfe3fa91bc98",
+    "slug": "system-3s-james-pond-legacy-sparks-ai-accusations",
+    "headline": "System 3's James Pond Legacy Sparks AI Accusations",
+    "summary": "A Nintendo Switch 2 collection is marred by claims its developer used AI to create promotional artwork, sparking debate about the use of AI in game development",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/james-pond-legacy-situation-is-more-than-meets-the-ai/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/JamesPondLegacy_background-1350x815-v01-SfW.jpg?w=300",
+    "published_at": "2026-09-15T18:59:19.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "james-pond-legacy",
+    "game_label": "James Pond Legacy"
+  },
+  {
     "id": "fae748551690",
     "slug": "steam-frame-how-to-sign-up-for-pre-order-before-september-17",
     "headline": "Steam Frame How To Sign Up For Pre-Order Before September 17",
@@ -4433,149 +4567,5 @@
     "comment_count": 0,
     "game": "marvels-wolverine",
     "game_label": "Marvel's Wolverine"
-  },
-  {
-    "id": "b071a6904f36",
-    "slug": "psychic-force-2012-coming-to-ps5-switch-and-pc-in-2027",
-    "headline": "Psychic Force 2012 Coming to PS5, Switch, and PC in 2027",
-    "summary": "Cosmo Machia is set to release 360-degree all-range fighting game Psychic Force 2012 in 2027 for PS5, Switch, and PC",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/psychic-force-2012-coming-to-ps5-switch-and-pc-in-2027"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/b071a6904f36/800/600",
-    "published_at": "2026-09-15T03:54:45.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "psychic-force-2012",
-    "game_label": "Psychic Force 2012"
-  },
-  {
-    "id": "8a4114a06d02",
-    "slug": "jujutsu-kaisen-rumble-survivaton-delayed-to-2027",
-    "headline": "Jujutsu Kaisen Rumble: Survivaton delayed to 2027",
-    "summary": "Publisher Shueisha Games and Vampire Survivors developer poncle have delayed multiplayer survival game Jujutsu Kaisen …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/jujutsu-kaisen-rumble-survivaton-delayed-to-2027"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/8a4114a06d02/800/600",
-    "published_at": "2026-09-15T03:23:51.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "02623a5e71dd",
-    "slug": "higurashi-no-naku-koro-ni-jong-remaster-announced",
-    "headline": "Higurashi no Naku Koro ni Jong REMASTER Announced",
-    "summary": "City Connection has announced a mahjong adventure game remaster titled Higurashi no Naku Koro ni Jong REMASTER for PS5, Switch, and PC.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/higurashi-no-naku-koro-ni-jong-remaster-announced-for-ps5-switch-and-pc"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/02623a5e71dd/800/600",
-    "published_at": "2026-09-15T03:16:59.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "higurashi-no-naku-koro-ni-jong-remaster",
-    "game_label": "Higurashi no Naku Koro ni Jong REMASTER"
-  },
-  {
-    "id": "0131e680be23",
-    "slug": "sega-and-netflix-team-up-for-new-adaptations",
-    "headline": "SEGA and Netflix Team Up for New Adaptations",
-    "summary": "SEGA and Netflix are partnering up to bring the Crazy Taxi series, Sonic the Hedgehog, and Stranger Than Heaven to the big screen and small screen in live-action and animation adaptations.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/sega-and-netflix-announce-new-multi-title-collaboration"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/8610d93876a3e/large.jpg",
-    "published_at": "2026-09-15T03:15:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "fedf8beda06d",
-    "slug": "wizardry-vi-bane-of-the-cosmic-forge-for-super-famicom-coming-to-pc-in",
-    "headline": "Wizardry VI: Bane of the Cosmic Forge for Super Famicom Coming to PC in 2027",
-    "summary": "Drecom and D4 Enterprise will release the Super Famicom version of Wizardry VI on PC in 2027, alongside other unspecified titles.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/wizardry-vi-bane-of-the-cosmic-forge-for-super-famicom-coming-to-pc-and-more-in-2027"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/fedf8beda06d/800/600",
-    "published_at": "2026-09-15T03:04:30.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "wizardry-vi-bane-of-the-cosmic-forge",
-    "game_label": "Wizardry VI: Bane of the Cosmic Forge"
-  },
-  {
-    "id": "df9d6386eb19",
-    "slug": "psycho-sleuth-visual-novel-launches-on-november-5",
-    "headline": "Psycho-Sleuth Visual Novel Launches on November 5",
-    "summary": "Gematsu reports that Psycho-Sleuth, a psychological mystery visual novel, will be available on Steam and STOVE on November 5.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/psycho-sleuth-launches-november-5"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/df9d6386eb19/800/600",
-    "published_at": "2026-09-15T03:02:13.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "psycho-sleuth",
-    "game_label": "Psycho-Sleuth"
   }
 ]
