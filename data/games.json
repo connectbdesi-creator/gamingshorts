@@ -11742,5 +11742,81 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-15T03:08:49.983Z"
+  },
+  {
+    "slug": "angel",
+    "name": "Angel",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/50a/50ab8e05aa6eb2a087ab95042c7fd4e1.jpg",
+    "released": "2017-03-08",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/50a/50ab8e05aa6eb2a087ab95042c7fd4e1.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-15T05:07:23.488Z"
+  },
+  {
+    "slug": "psychic-force-2012",
+    "name": "Psychic Force 2 / Psychic Force 2012",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/6dd/6dd711921b4568603287f5f7f3b27c58.jpg",
+    "released": "1997-07-02",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Arcade",
+      "Fighting"
+    ],
+    "platforms": [
+      "PlayStation",
+      "Dreamcast"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/68d/68d4bc87d4338f2b4f9226b7840391b7.jpg",
+      "https://media.rawg.io/media/screenshots/a7e/a7e8b9846342dedd281e7d667820fc8e.jpg",
+      "https://media.rawg.io/media/screenshots/9b0/9b0686ca88dd666581459f8a38b5d98b.jpg",
+      "https://media.rawg.io/media/screenshots/ba4/ba489ebe8d64230fa847caee313dbff3.jpg",
+      "https://media.rawg.io/media/screenshots/99b/99b233799d2127229fb94d14b537cceb.jpg",
+      "https://media.rawg.io/media/screenshots/b81/b812663b1cd2353fd832626094ae8f2e.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-15T05:07:24.111Z"
+  },
+  {
+    "slug": "wizardry-vi-bane-of-the-cosmic-forge",
+    "name": "Wizardry VI: Bane of the Cosmic Forge",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/fd6/fd6115863e51e091860f78f67d3a4505.jpg",
+    "released": "1990-01-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "Linux",
+      "SNES",
+      "Classic Macintosh",
+      "Commodore / Amiga"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/339/339de32bf139a63f02d08680af464612.jpg",
+      "https://media.rawg.io/media/screenshots/169/169ff21dca236c1a17ffbe7add387d25.jpg",
+      "https://media.rawg.io/media/screenshots/1ff/1ff2d89331d291d02416e590953861fc.jpg",
+      "https://media.rawg.io/media/screenshots/d22/d2207e767e2453a3f13b8b76b03564e8.jpg",
+      "https://media.rawg.io/media/screenshots/215/2159fbf5dbb33f4d42f4d4027dcea3f5.jpg",
+      "https://media.rawg.io/media/screenshots/e35/e35791a58d9804e56fda910d2a98291f.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-15T05:07:25.460Z"
   }
 ]
