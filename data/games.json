@@ -11717,5 +11717,30 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-15T01:07:36.791Z"
+  },
+  {
+    "slug": "ps5",
+    "name": "PS5 Simulator",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/f79/f790437861b695a5eec82f226c57c070.jpg",
+    "released": "2020-11-15",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/54d/54def3412429761ee8aa302ae4ad0d8b.jpg",
+      "https://media.rawg.io/media/screenshots/f20/f209a65ad5501bf39c5c8a29f5ecf0d5.jpg",
+      "https://media.rawg.io/media/screenshots/af1/af1f70a310cf767364b2b16484e86811.jpg",
+      "https://media.rawg.io/media/screenshots/baf/bafcf597804beb8634c9fe3a1a2b19f3.jpg",
+      "https://media.rawg.io/media/screenshots/f70/f7059c158629f6ca79838fa2ce6d547d.jpg",
+      "https://media.rawg.io/media/screenshots/f79/f790437861b695a5eec82f226c57c070.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-15T03:08:49.983Z"
   }
 ]
