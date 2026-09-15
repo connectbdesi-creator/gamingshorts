@@ -12251,5 +12251,62 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-15T19:07:39.644Z"
+  },
+  {
+    "slug": "clash-royale",
+    "name": "Clash Royale",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/a11/a11912ae667ce96c98619f018ead97ae.jpg",
+    "released": "2016-03-02",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "Action"
+    ],
+    "platforms": [
+      "iOS",
+      "Android"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/75a/75a24d8866379ec179ec7a889cd68c98.jpg",
+      "https://media.rawg.io/media/screenshots/e30/e3061b783fffa88ee78f9271f8a04dc4.jpg",
+      "https://media.rawg.io/media/screenshots/088/088d0cc902900420071dcd2ef4c9d17a.jpg",
+      "https://media.rawg.io/media/screenshots/2b5/2b512f11c15e273f0ffe2f2b634e2995.jpg",
+      "https://media.rawg.io/media/screenshots/755/75552d232a9277b4ea3956687f7394cd.jpg",
+      "https://media.rawg.io/media/screenshots/864/864d57af80359e5be8923ff2336c1b04.jpeg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-15T23:07:34.438Z"
+  },
+  {
+    "slug": "destiny-the-taken-king",
+    "name": "Destiny: The Taken King",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/121/12157a7edd25ba696996180f68012e02.jpg",
+    "released": "2015-09-15",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/79c/79c77dc05d4de7d7d3bcaf73e2da7852.jpg",
+      "https://media.rawg.io/media/screenshots/c70/c708e828d4ab73cc2d3c459fab6669c9.jpg",
+      "https://media.rawg.io/media/screenshots/0b5/0b5d5e02e18ae256147520357aeb230f.jpg",
+      "https://media.rawg.io/media/screenshots/cf5/cf5508970f0b0c8592f43850f1471d62.jpg",
+      "https://media.rawg.io/media/screenshots/61b/61b1d7a3c49bd1a2575c3a3c7dafe8c2_LlSNUNj.jpg",
+      "https://media.rawg.io/media/screenshots/7b2/7b2a32051cf81add3aceeb1b179250b8.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-15T23:07:35.830Z"
   }
 ]
