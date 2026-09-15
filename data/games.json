@@ -12145,5 +12145,84 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-15T15:11:07.409Z"
+  },
+  {
+    "slug": "control-resonant",
+    "name": "Control Resonant",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/bfc/bfc7b45c6e9d3e21bb1c613c16c088f2.jpeg",
+    "released": "2026-09-24",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/616/616d40205c7195eb56478ff6d746d3bb.jpg",
+      "https://media.rawg.io/media/screenshots/169/169ace563987496b5510382259a76eab.jpg",
+      "https://media.rawg.io/media/screenshots/e8b/e8bad477f0fa4d7bd28be50dd61b5c79.jpg",
+      "https://media.rawg.io/media/screenshots/5b8/5b812f73e4c5df28630747c52f57170b.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-15T18:06:59.835Z"
+  },
+  {
+    "slug": "microsoft-flight-simulator",
+    "name": "Microsoft Flight Simulator 2020",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/89c/89ceadfd42109aa0d80e9c5dbc86f277.jpg",
+    "released": "2020-08-18",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/262/2626a342e4b2b597f870f9e3d21d7a24.jpg",
+      "https://media.rawg.io/media/screenshots/880/8803305c9876e794b064b0a6f061bd3a.jpg",
+      "https://media.rawg.io/media/screenshots/f91/f91639a642faa7dfb9fd285fffadb151.jpg",
+      "https://media.rawg.io/media/screenshots/d07/d073dd3bb9f6318c92f996f6786ca3e6.jpg",
+      "https://media.rawg.io/media/screenshots/56f/56f341e85649d6c20681161f31b7adaf.jpg",
+      "https://media.rawg.io/media/screenshots/811/81120b59ecab90bc09020cbe5c1ba04c.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-15T18:07:00.682Z"
+  },
+  {
+    "slug": "black-ops-7",
+    "name": "Call of Duty: Black Ops 7",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/4ca/4cabe38446288beb37fc73b2fe047b08.jpg",
+    "released": "2025-11-13",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/2f2/2f2be7c95febbb9bef5a66f88baa3e65.jpeg",
+      "https://media.rawg.io/media/screenshots/275/275d75a25927b328730e31cb53b1314a.jpg",
+      "https://media.rawg.io/media/screenshots/91c/91c7e10c38c9ed10ea22abaa4756054c.jpg",
+      "https://media.rawg.io/media/screenshots/dc9/dc9d9b70b6045dee7015114d9972c200.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-15T18:07:01.373Z"
   }
 ]
