@@ -1,5 +1,149 @@
 [
   {
+    "id": "065062cd58fb",
+    "slug": "new-open-world-co-op-survival-game-with-rust-vibes-officially-confirme",
+    "headline": "New Open World Co-Op Survival Game with Rust Vibes Officially Confirmed for 2026",
+    "summary": "A new open-world game with survival elements is coming in 2026, potentially appealing to fans of Rust",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/steam-new-open-world-co-op-survival-games-velkor/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/velkor-open-world-co-op-survival-game-new-steam-gamerant.jpg",
+    "published_at": "2026-09-15T20:30:13.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "dd73fc5659ca",
+    "slug": "near-perfect-mobas-nobody-talks-about-anymore",
+    "headline": "Near-Perfect MOBAs Nobody Talks About Anymore",
+    "summary": "Not every MOBA can have the long-lasting impact of LoL or Dota 2, and even once popular games eventually drift to the wayside and become forgotten.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/mobas-perfect-games-nobody-talks-about-anymore/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/near-perfect-modas-nobody-talks-about-anymore.jpg",
+    "published_at": "2026-09-15T20:21:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "956da9a837ef",
+    "slug": "xbox-responds-to-rumour-that-game-pass-could-drop-day-one-releases-in",
+    "headline": "Xbox Responds To Rumour That Game Pass Could Drop Day One Releases In 2027",
+    "summary": "Update: \"We regularly test different Game Pass offerings...\". We often like to share rumours that are generating interest amongst the gaming industry when they're relevant to Xbox, but sometimes we avoid them depending on the source - and this is one of those rumours that falls into a grey area. One the one hand, it's coming from a moderator over…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/xbox-responds-to-rumour-that-game-pass-could-drop-day-one-releases-in-2027"
+      },
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/xbox-responds-to-rumors-that-game-pass-is-losing-day-one-new-games-in-2027-2000734755"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/c81a059ccce52/large.jpg",
+    "published_at": "2026-09-15T20:18:05.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3e3c35223763",
+    "slug": "xbox-game-pass-is-extremely-poorly-managed-and-doom-should-never-have",
+    "headline": " Xbox Game Pass is \"extremely poorly managed\" and Doom should never have been part of it, says former producer ",
+    "summary": "Andrew Willis isn't impressed",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/xbox-game-pass-is-extremely-poorly-managed-and-doom-should-never-have-been-part-of-it-says-former-producer/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/R2ystnvWmhHFX3bgXNeUFV-1280-80.png",
+    "published_at": "2026-09-15T20:15:16.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "de21f18f781d",
+    "slug": "blizzard-delays-diablo-4s-big-30th-anniversary-season-15-kick-off",
+    "headline": "Blizzard Delays Diablo 4's Big 30th Anniversary Season 15 Kick-Off",
+    "summary": "Blizzard Entertainment has delayed the start of Diablo 4's Season of Hell's Legacy due to error codes, causing a rough launch.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/blizzard-delays-diablo-4s-big-30th-anniversary-season-15-kick-off-after-a-flood-of-error-codes-2000734752"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/diablo-4-error-code.jpg",
+    "published_at": "2026-09-15T20:08:55.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "diablo-4",
+    "game_label": "Diablo 4"
+  },
+  {
+    "id": "e66fd85446d5",
+    "slug": "steam-reverses-porn-game-rating-it-mistakenly-gave-to-an-indie-vampire",
+    "headline": " Steam reverses porn game rating it mistakenly gave to an indie vampire RPG, and despite the stress it was a 'net positive' overall as wishlists on Steam 'basically doubled overnight' ",
+    "summary": "It's a happy ending, but Dave Gilbert of Wadjet Eyes Games says this was absolutely not a guerrilla marketing stunt: \"I’m not that dumb and I'm not that smart!\"",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rpg/steam-reverses-porn-game-rating-it-mistakenly-gave-to-an-indie-vampire-rpg-and-despite-the-stress-it-was-a-net-positive-overall-as-wishlists-on-steam-basically-doubled-overnight/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/MxazhN7Ft5hqkTGbo2V3Gg-1280-80.jpg",
+    "published_at": "2026-09-15T20:03:51.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "3c343e092e3d",
     "slug": "focus-entertainment-threatens-legal-action-against-employees",
     "headline": "Focus Entertainment Threatens Legal Action Against Employees",
@@ -289,29 +433,6 @@
     "comment_count": 0,
     "game": "pokemon-go",
     "game_label": "Pokemon GO"
-  },
-  {
-    "id": "956da9a837ef",
-    "slug": "xbox-responds-to-rumour-that-game-pass-could-drop-day-one-releases-in",
-    "headline": "Xbox Responds To Rumour That Game Pass Could Drop Day One Releases In 2027",
-    "summary": "Update: \"We regularly test different Game Pass offerings...\". We often like to share rumours that are generating interest amongst the gaming industry when they're relevant to Xbox, but sometimes we avoid them depending on the source - and this is one of those rumours that falls into a grey area. One the one hand, it's coming from a moderator over…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/xbox-responds-to-rumour-that-game-pass-could-drop-day-one-releases-in-2027"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/c81a059ccce52/large.jpg",
-    "published_at": "2026-09-15T18:35:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   },
   {
     "id": "5f8364a98492",
@@ -4445,120 +4566,5 @@
     "comment_count": 0,
     "game": "higurashi-when-they-cry",
     "game_label": "Higurashi: When They Cry"
-  },
-  {
-    "id": "be31b6fcbce1",
-    "slug": "neowiz-files-trademark-for-wonders-of-o-an-oz-themed-game",
-    "headline": "Neowiz Files Trademark for Wonders of O, an Oz-Themed Game",
-    "summary": "Neowiz, the studio behind Lies of P, has filed a trademark for Wonders of O, a Wizard of Oz-themed game sequel. This suggests an upcoming game in the works.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/lies-of-p-studio-neowiz-has-filed-a-trademark-for-wonders-of-o-an-apparent-wizard-of-oz-themed-sequel/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/be31b6fcbce1/800/600",
-    "published_at": "2026-09-15T06:28:33.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "wonders-of-o",
-    "game_label": "Wonders of O"
-  },
-  {
-    "id": "6dc46be8f9a2",
-    "slug": "hell-let-loose-vietnam-and-wardogs-perform-above-expectations",
-    "headline": "Hell Let Loose: Vietnam and Wardogs Perform Above Expectations",
-    "summary": "Everplay Group reports positive earnings for Hell Let Loose: Vietnam and Wardogs, indicating successful performances in the market.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/everplay-says-hell-let-loose-vietnam-and-wardogs-performing-above-expectations/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/6dc46be8f9a2/800/600",
-    "published_at": "2026-09-15T06:23:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "hell-let-loose-vietnam",
-    "game_label": "Hell Let Loose: Vietnam"
-  },
-  {
-    "id": "59832c9bb20d",
-    "slug": "diablo-iv-switch-2-performance-and-resolution-officially-revealed",
-    "headline": "Diablo IV Switch 2 Performance And Resolution Officially Revealed",
-    "summary": "Blizzard has confirmed details on Diablo IV's performance and resolution on the Nintendo Switch 2, with the latest info now available on Nintendo Life.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/diablo-iv-switch-2-performance-and-resolution-officially-revealed"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/41a7a41bffc2f/large.jpg",
-    "published_at": "2026-09-15T05:55:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "diablo-iv",
-    "game_label": "Diablo IV"
-  },
-  {
-    "id": "f619f32e7a23",
-    "slug": "tinybuild-shows-off-gameplay-that-shows-it-raised-its-ambitions-with-k",
-    "headline": "TinyBuild shows off gameplay that shows it raised its ambitions with Kingmakers",
-    "summary": "TinyBuild unveiled a deep dive video of Kingmakers gameplay that showed the game is much more ambitious than originally shown. In this game, a...\nThe post TinyBuild shows off gameplay that shows it raised its ambitions with Kingmakers appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/tinybuild-shows-off-gameplay-that-shows-it-raised-its-ambitions-with-kingmakers/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/f619f32e7a23/800/600",
-    "published_at": "2026-09-15T05:50:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b07496ae3aad",
-    "slug": "steam-frame-developer-interview-standalone-vr-gaming-making-half-life",
-    "headline": "Steam Frame developer interview: standalone VR gaming, making Half-Life: Alyx work, APK support, and future SteamOS ambitions",
-    "summary": "We talk to Valve about the changes in VR and Steam that have occurred in the six years between the Valve Index and Steam Frame.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/interviews/steam-frame-developer-interview-standalone-vr-gaming-making-half-life-alyx-work-apk-support-and-future-steamos-ambitions/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/b07496ae3aad/800/600",
-    "published_at": "2026-09-15T05:39:02.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
