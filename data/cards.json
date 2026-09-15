@@ -1,5 +1,851 @@
 [
   {
+    "id": "174c993b2906",
+    "slug": "capcom-announces-new-official-street-fighter-release",
+    "headline": "Capcom Announces New Official Street Fighter Release",
+    "summary": "Capcom has announced a new, official Street Fighter game set to release on September 22. No further details have been provided about the game.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/apex-legends-street-fighter-event-september-22-2026/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/fightergaugeult-1.jpg",
+    "published_at": "2026-09-15T15:01:12.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "street-fighter",
+    "game_label": "Street Fighter"
+  },
+  {
+    "id": "10023bb0ced7",
+    "slug": "im-tired-of-overwatch-reworking-sombra-for-people-who-dont-even-play-h",
+    "headline": "I’m Tired Of Overwatch Reworking Sombra For People Who Don’t Even Play Her",
+    "summary": "Blizzard is changing the game’s notorious hacking menace into a Support after years of complaints from people on the receiving end of her hacks",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/overwatch-sombra-rework-support-hack-blizzcon-healing-2000734610"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/sombra-1280x720.jpg",
+    "published_at": "2026-09-15T15:00:55.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e863f0614d1a",
+    "slug": "afterworlds-history-changes-with-every-playthrough",
+    "headline": "Afterworld's History Changes With Every Playthrough",
+    "summary": "Paradox's post-apocalyptic grand strategy game Afterworld features a dynamic history that changes with each playthrough, reflecting the player's decisions.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/paradoxs-grand-strategy-game-afterworld-hasnt-got-a-fixed-history-it-changes-with-every-playthrough"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/afterworld-mount-rushmore.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-15T15:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "afterworld",
+    "game_label": "Afterworld"
+  },
+  {
+    "id": "1c809a4e1fa1",
+    "slug": "marvel-wolverines-self-driving-bike-chase-is-now-being-mocked",
+    "headline": "Marvel Wolverine's Self-Driving Bike Chase Is Now Being Mocked",
+    "summary": "Marvel's Wolverine detractors have turned their attention towards the game's bike chase, which you can complete without touching the controller.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/marvel-wolverines-bike-chase-plays-itself/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/09/wolverine-riding-a-bike-as-a-green-highway-sign-for-squamish-is-seen-in-front-of-him-in-marvel-s-wolverine.jpg",
+    "published_at": "2026-09-15T14:56:04.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0a73e4398b44",
+    "slug": "fable-lead-promises-we-stick-the-landing-with-the-rpgs-ending-which-ho",
+    "headline": " Fable lead promises \"we stick the landing\" with the RPG's ending, which hopefully means we won't have a repeat of Fable 2's woes ",
+    "summary": "\"It's easy to look at industry metrics saying 100% of people start a game and only 25% finish, and decide not to invest heavily in the finale,\" says Ralph Fulton",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/rpg/fable-lead-promises-we-stick-the-landing-with-the-rpgs-ending-which-hopefully-means-we-wont-have-a-repeat-of-fable-2s-woes/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/kpQjfbGSxaopCa2S3ppZmc-1280-80.jpg",
+    "published_at": "2026-09-15T14:48:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "02694489cc44",
+    "slug": "helldivers-2-ironclad-democracy-warbond",
+    "headline": "Helldivers 2 Ironclad Democracy Warbond",
+    "summary": "GamesRadar+ reports on Helldivers 2's new update, Ironclad Democracy, which brings new content and gameplay mechanics.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/third-person-shooter/helldivers-2-ironclad-democracy-warbond/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/fXhQzzRscyPNK5xUEc8PXB-1280-80.jpg",
+    "published_at": "2026-09-15T14:45:20.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "helldivers-2",
+    "game_label": "Helldivers 2"
+  },
+  {
+    "id": "568e1766e813",
+    "slug": "kairi-joins-fortnite",
+    "headline": "Kairi Joins Fortnite",
+    "summary": "Fortnite has released a new trailer featuring Kairi from the Kingdom Hearts series, who will now let players choose her fate in combat",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/kingdom-hearts-kairi-has-suffered-enough-will-now-headshot-you-in-fortnite/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Fortnite-_Kingdom-Hearts-Arrives_-Gameplay-Trailer-0-0-28.jpeg?w=300",
+    "published_at": "2026-09-15T14:35:46.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "kingdom-hearts-2",
+    "game_label": "Kingdom Hearts 2"
+  },
+  {
+    "id": "af3c05d7087c",
+    "slug": "two-point-museums-rides-relics-dlc-announced",
+    "headline": "Two Point Museum's 'Rides & Relics' DLC Announced",
+    "summary": "SEGA and Two Point Studios have announced downloadable content for Two Point Museum, titled 'Rides & Relics'. The new content is part of the game's existing downloadable content, expanding on the museum's attractions.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/two-point-museum-dlc-rides-relics-announced"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/af3c05d7087c/800/600",
+    "published_at": "2026-09-15T14:33:56.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "two-point-museum",
+    "game_label": "Two Point Museum"
+  },
+  {
+    "id": "2718797769ba",
+    "slug": "nintendo-switch-game-discounts-galore",
+    "headline": "Nintendo Switch Game Discounts Galore",
+    "summary": "Kotaku reports that the Nintendo Switch is offering various game discounts, including titles like Mario Kart 8 Deluxe, The Legend of Zelda: Breath of the Wild, and Super Mario Odyssey.",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/15-of-the-best-nintendo-switch-games-are-all-19-off-right-now-2000734585"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2025/01/0758f7e3d376d1a62f1578a1039361e5-1280x720.jpg",
+    "published_at": "2026-09-15T14:30:20.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ab13acd9dd29",
+    "slug": "8-comedy-anime-that-turned-into-dramas-by-the-end",
+    "headline": "8 Comedy Anime That Turned Into Dramas By The End",
+    "summary": "Behind the many jokes and wholesome moments common in comedy anime, there sometimes hides a much more emotional and somber story.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/comedy-anime-that-turn-into-dramas/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/comedy-anime-that-end-up-being-dramas.jpg",
+    "published_at": "2026-09-15T14:30:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f52f5f76e760",
+    "slug": "silent-hill-townfall-could-finally-restore-survival-horrors-missing-my",
+    "headline": "Silent Hill: Townfall Could Finally Restore Survival Horror’s Missing Mystery",
+    "summary": "Recent survival horror games have nailed the format but held players' hands too tightly to allow a genuine sense of terrifying mystery - Silent Hill: Townfall looks set to get the old-school formula just right.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/silent-hill-townfall-could-finally-restore-survival-horrors-missing-mystery"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/15/silenthiltownfall-blog-1789468083303.webp",
+    "published_at": "2026-09-15T14:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5a482316e3d2",
+    "slug": "european-commissions-proposed-eu-kids-act-could-see-online-games-force",
+    "headline": "European Commission's proposed EU Kids Act could see online games forced to enact stricter age verification amid new rules around accounts for under 15s",
+    "summary": "The European Commission are reportedly set to propose new rules around how under 15s access the likes of social media, AI chatbots, and online video games. Dubbed the EU Kids Act, the proposed legislation in its current form demands the setting up of a tiered system governing the types of accounts children under 15 can create to access such services.…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/european-commissions-proposed-eu-kids-act-could-see-online-games-forced-to-enact-stricter-age-verification-amid-new-rules-around-accounts-for-under-15s"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/eu-kids-act-online-games-proposed-age-rules-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-15T14:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2cabdeea06da",
+    "slug": "star-wars-galactic-racers-ps5-trophy-list-will-push-you-to-the-limit-f",
+    "headline": "Star Wars: Galactic Racer's PS5 Trophy List Will Push You to the Limit for the Platinum",
+    "summary": "Now this is Trophy hunting.\nThe Trophy list for Star Wars: Galactic Racer has appeared online, and it looks like it'll force you to get good if you want that platinum.\nYou can view the full list via PSNProfiles ahead of the game's PS5 launch on 6th October — not far away now.\nRead the full article on pushsquare.com",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/star-wars-galactic-racers-ps5-trophy-list-will-push-you-to-the-limit-for-the-platinum"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/4ccae50a4b572/large.jpg",
+    "published_at": "2026-09-15T14:30:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "052b6975e924",
+    "slug": "moss-developer-polyarc-games-shutting-its-doors-after-12-years",
+    "headline": "Moss Developer Polyarc Games Shutting Its Doors After 12 Years",
+    "summary": "\"Today is the end of an era for Polyarc\". Moss: The Forgotten Relic may well be Polyarc Games' last hurrah, as the developer has announced the studio is shutting its doors after 12 years. The news broke via the Seattle-based developer's LinkedIn page, where they said their farewells and how they're \"wind down active development\". Read the full article on…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/moss-developer-polyarc-games-shutting-its-doors-after-12-years"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/bf5c92c022592/large.jpg",
+    "published_at": "2026-09-15T14:30:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9329d12fc3cb",
+    "slug": "wardogs-review-a-genre-blending-fps-that-turns-money-into-a-winning-fo",
+    "headline": "Wardogs Review: A Genre-Blending FPS That Turns Money into a Winning Formula",
+    "summary": "GamesRadar+ praises Wardogs for its unique approach to the FPS genre, where money is prioritized over violence, and finds it an enjoyable experience despite its flaws.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/fps/wardogs-feels-like-call-of-duty-without-the-pressure-to-kill-or-be-killed-as-long-as-youre-making-phat-stacks/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/4K9CF4gQLFC7NUNwhxBTD6-1280-80.jpg",
+    "published_at": "2026-09-15T14:30:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "wardogs",
+    "game_label": "Wardogs"
+  },
+  {
+    "id": "84b3a26849a6",
+    "slug": "marvel-tokon-fighting-souls-director-apologizes-for-launch-issues",
+    "headline": "Marvel Tokon: Fighting Souls Director Apologizes For Launch Issues",
+    "summary": "Marvel Tokon: Fighting Souls game director, Kazuto Sekine, apologizes for the launch issues on PC, and offers a glimpse into future updates.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/marvel-tokon-fighting-souls-future-updates-character-balance/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/marvel-tokon-fighting-souls-magik.jpg",
+    "published_at": "2026-09-15T14:29:49.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b7ed5d0c038c",
+    "slug": "total-war-shogun-2-complete-edition-announced-for-pc",
+    "headline": "Total War: SHOGUN 2 Complete Edition announced for PC",
+    "summary": "Publisher SEGA and developer Creative Assembly have announced Total War: SHOGUN 2 Complete Edition, which …",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/total-war-shogun-2-complete-edition-announced-for-pc"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/b7ed5d0c038c/800/600",
+    "published_at": "2026-09-15T14:27:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c982b548d5fd",
+    "slug": "for-honor-free-to-own-on-ubisoft-connect-for-limited-time",
+    "headline": "For Honor Free to Own on Ubisoft Connect for Limited Time",
+    "summary": "Ubisoft has made For Honor free to own on Ubisoft Connect for a limited time, coinciding with the game's Y10S3 update.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/2017s-pvp-action-game-for-honor-is-free-to-own-for-a-limited-time-on-ubisoft-connect/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/c982b548d5fd/800/600",
+    "published_at": "2026-09-15T14:24:12.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "for-honor",
+    "game_label": "For Honor"
+  },
+  {
+    "id": "eff2939ad3b2",
+    "slug": "toss-a-project-at-your-printer-vibe-coded-tool-allows-developer-to-thr",
+    "headline": " Toss a project at your printer: vibe coded tool allows developer to throw stuff at his 3D printer in VR to begin printing ",
+    "summary": "Flick of the wrist.",
+    "category": "releases",
+    "platform_tags": [
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/vr-hardware/toss-a-project-at-your-printer-vibe-coded-tool-allows-developer-to-throw-stuff-at-his-3d-printer-in-vr-to-begin-printing/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/t5jyPkqqcRGQLkYKUj2SuY-1280-80.jpg",
+    "published_at": "2026-09-15T14:22:49.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "69d503a6893d",
+    "slug": "cdpr-wants-to-make-the-witcher-3-remastered-feel-like-any-other-game-r",
+    "headline": "CDPR wants to make The Witcher 3 Remastered feel like any other game released today",
+    "summary": "CDPR aims to make The Witcher 3 Remastered feel as modern as possible, with the developer wanting players to easily get used to the new improvements",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/the-witcher/cdpr-wants-to-make-the-witcher-3-remastered-feel-like-any-other-game-released-today-its-so-easy-to-get-used-to-these-new-improvements-that-its-hard-to-go-back/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/FpYVPNMtRkP6nQBEq3NhZb-1280-80.png",
+    "published_at": "2026-09-15T14:15:44.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
+    "id": "d96eb8d8ca89",
+    "slug": "ace-combat-8-live-action-prequel-series-unveiled",
+    "headline": "Ace Combat 8 Live-Action Prequel Series Unveiled",
+    "summary": "Bandai Namco has announced a live-action mini-series as a prequel to the upcoming Ace Combat 8: Wings of Theve, highlighting the publisher's commitment to the series",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/josh-holloway-stars-in-first-episode-of-live-action-ace-combat-8-prequel-series"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/d44aae6f467e9/large.jpg",
+    "published_at": "2026-09-15T14:15:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ace-combat-8-wings-of-theve",
+    "game_label": "Ace Combat 8: Wings of Theve"
+  },
+  {
+    "id": "cb794dc1e75b",
+    "slug": "final-fantasy-7-revelations-director-kept-coming-back-to-the-witcher-3",
+    "headline": "Final Fantasy 7 Revelation’s Director Kept Coming Back To The Witcher 3 For Inspiration",
+    "summary": "Between the release of Final Fantasy 7 in 1997 and the first chapter in the Remake trilogy in 2020, quite a few games have been released and have gone on to inspire developers. Final Fantasy 7 Revelation game director Naoki Hamaguchi is one such developer, as he explained that games like The Witcher 3 and Horizon helped inspire him and…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/final-fantasy-7-revelation-director-kept-coming-back-to-the-witcher-3-for-inspiration/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/FF7-Revelation-1.jpg?w=300",
+    "published_at": "2026-09-15T14:14:50.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "1242d8fb1629",
+    "slug": "new-yu-gi-oh-rarity-sends-prices-skyrocketing",
+    "headline": "New Yu-Gi-Oh Rarity Sends Prices Skyrocketing",
+    "summary": "A new, expensive rarity in Yu-Gi-Oh has taken the top spots on price charts for the Magnificent Monsters set.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/yu-gi-oh-magnificent-monsters-most-expensive-cards/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/an-image-of-dark-magician-and-dark-magician-girl-from-the-yu-gi-oh-anime.webp",
+    "published_at": "2026-09-15T14:08:29.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "yu-gi-oh",
+    "game_label": "Yu-Gi-Oh"
+  },
+  {
+    "id": "7a4346c1d77e",
+    "slug": "gta-6-for-ps5-save-11-today-only",
+    "headline": "GTA 6 for PS5: Save $11, Today Only",
+    "summary": "A limited-time discount is available for Grand Theft Auto 6 on PS5, but the details of the game are not provided in the article.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-for-ps5-save-11-today-only"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/15/untitled-design-1789479855761.png",
+    "published_at": "2026-09-15T14:08:26.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "8e6f0c76f99c",
+    "slug": "powerwash-simulator-2-to-get-barbie-pack-dlc",
+    "headline": "PowerWash Simulator 2 to Get Barbie Pack DLC",
+    "summary": "A new DLC pack for PowerWash Simulator 2, titled the Barbie Pack, has been announced by FuturLab and is set to release in late 2026.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/powerwash-simulator-2-dlc-barbie-pack-announced"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/8e6f0c76f99c/800/600",
+    "published_at": "2026-09-15T14:06:13.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "powerwash-simulator-2",
+    "game_label": "PowerWash Simulator 2"
+  },
+  {
+    "id": "8dd0cc01eb8d",
+    "slug": "control-resonant-ps5-features-detailed",
+    "headline": "Control Resonant: PS5 features detailed",
+    "summary": "Control Resonant is almost here, so it’s the perfect time to talk about how we are taking advantage of the unique opportunities provided by the PlayStation 5 hardware and the DualSense controller. The sequel to Control takes place in our twisted own version of Manhattan, which, I dare say, provides an incredible backdrop to the […]",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/09/15/control-resonant-ps5-features-detailed/"
+      }
+    ],
+    "image_url": "https://blog.playstation.com/uploads/2028/09/2d34de89408eff64391cb8b82bbef3d35042c4ee.mp4",
+    "published_at": "2026-09-15T14:00:58.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a90aae462939",
+    "slug": "preview-stupid-never-dies-is-a-hard-sell-but-it-could-offer-weird-acti",
+    "headline": "Preview: Stupid Never Dies Is a Hard Sell, But It Could Offer Weird Action Unlike Anything Else on PS5",
+    "summary": "Stupid (me) does die. Stupid Never Dies is a much deeper game than it initially seemed. I’d only briefly come across some promotional material for GPTRACK50’s zombie-based roguelike by the time I sat down to play it at Gamescom. So to say I was surprised when some of its developers walked me through its extensive gameplay system would be putting…",
+    "category": "reviews",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/previews/stupid-never-dies-is-a-hard-sell-but-it-could-offer-weird-action-unlike-anything-else-on-ps5"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/c8403d5d10304/large.jpg",
+    "published_at": "2026-09-15T14:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "dcc4f3e7ada5",
+    "slug": "the-lunar-game-quest-walkthrough-in-the-blood-of-dawnwalker",
+    "headline": "The Lunar Game Quest Walkthrough in The Blood of Dawnwalker",
+    "summary": "Polygon provides a solution to the 'The Lunar Game' quest in The Blood of Dawnwalker, including whether to invite Bakir.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/blood-of-dawnwalker-the-lunar-game-quest-walkthrough-odd-riddle/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-blood-of-dawnwalker-the-lunar-game-1.jpg",
+    "published_at": "2026-09-15T13:58:44.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-blood-of-dawnwalker",
+    "game_label": "The Blood of Dawnwalker"
+  },
+  {
+    "id": "23e784ad5de3",
+    "slug": "warlock-dungeons-dragons-doesnt-have-waypoints-because-the-devs-want-p",
+    "headline": "Warlock: Dungeons & Dragons Doesn't Have Waypoints Because the Devs Want Players to 'Figure Things Out' for Themselves",
+    "summary": "The developers of Warlock: Dungeons & Dragons have said they avoided putting waypoints into the game because they want players to actually explore.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/warlock-dungeons-dragons-doesnt-have-waypoints-because-the-devs-want-players-to-figure-things-out-for-themselves"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/15/warlock-1789480522803.png",
+    "published_at": "2026-09-15T13:58:02.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2f296952046e",
+    "slug": "neowiz-trademarks-wonders-of-o-suggests-new-game-or-spin-off-inspired",
+    "headline": "Neowiz Trademarks 'Wonders of O', Suggests New Game or Spin-Off Inspired by Wizard of Oz",
+    "summary": "Neowiz, publisher of Lies of P, has registered trademarks for 'Wonders of O', sparking speculation about a new game or spin-off inspired by the Wizard of Oz, potentially in collaboration with a French erotica series.",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/lies-of-ps-sequel-is-a-wizard-of-oz-homage-called-wonders-of-o-going-by-a-neowiz-trademark-and-probably-not-a-videogame-based-on-a-famous-work-of-french-erotica"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/overture.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-15T13:57:24.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "wonders-of-o",
+    "game_label": "Wonders of O"
+  },
+  {
+    "id": "bab08a48032a",
+    "slug": "exterminauts-preview",
+    "headline": "Exterminauts Preview",
+    "summary": "IGN previews Exterminauts, a chaotic game that simulates the stress of everyday life, with a focus on making decisions and adapting to unpredictable situations.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/exterminauts-wants-you-to-live-a-9-to-5-life-that-bites-back-ign-preview"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/15/ss-88fe4b39cbd023af560187523ce2a2d690d86267-1920x1080-1789432562902.jpg",
+    "published_at": "2026-09-15T13:31:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "exterminauts",
+    "game_label": "Exterminauts"
+  },
+  {
+    "id": "c8de86197b0c",
+    "slug": "saber-interactives-tim-willits-dishes-on-release-dates-game-pricing-an",
+    "headline": "Saber Interactive’s Tim Willits dishes on release dates, game pricing and staying out of GTA VI’s way | interview",
+    "summary": "Saber Interactive chief creative officer Tim Willits came to Cologne, Germany, to show off his company’s games. The lot included Stuntman: Hollywood, Clive Barker’s...\nThe post Saber Interactive’s Tim Willits dishes on release dates, game pricing and staying out of GTA VI’s way | interview appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/saber-interactives-tim-willits-dishes-on-release-dates-game-pricing-and-staying-out-of-gta-vis-way-interview/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/c8de86197b0c/800/600",
+    "published_at": "2026-09-15T13:30:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "98c7a732cf9d",
+    "slug": "xbox-cto-warns-against-buying-fraudulent-game-codes",
+    "headline": "Xbox CTO Warns Against Buying Fraudulent Game Codes",
+    "summary": "A recent warning from an Xbox CTO cautions gamers against purchasing fake game codes, highlighting the importance of buying from authorized retailers or the official Microsoft Store.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/xbox-cto-warns-against-the-dangers-of-buying-fraudulent-game-codes"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/4025a11a93e54/large.jpg",
+    "published_at": "2026-09-15T13:30:00.000Z",
+    "hype_signal": 10,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8bc69c01485b",
+    "slug": "injustice-3-announcement-more-likely-after-new-playtest-listing",
+    "headline": "Injustice 3 Announcement More Likely After New Playtest Listing",
+    "summary": "A recent playtest listing suggests that Injustice 3 is in development, increasing speculation about the game's existence.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/injustice-3-announcement-likely-playtest/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2022/11/Injustice2Joker20001000.jpg",
+    "published_at": "2026-09-15T13:21:09.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "injustice-3",
+    "game_label": "Injustice 3"
+  },
+  {
+    "id": "58a70801e2dd",
+    "slug": "steam-deck-2-plans-remain-unfazed-by-component-crisis-valve-reveals",
+    "headline": "Steam Deck 2 Plans Remain Unfazed by Component Crisis, Valve Reveals",
+    "summary": "Valve has confirmed that plans for its upcoming Steam Deck 2 are unaffected by the current component shortage, despite the rising costs of the Steam Frame VR headset",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/valve-steam-deck-2-plans-component-crisis"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/overview_oled.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-15T13:21:04.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "steam-deck-2",
+    "game_label": "Steam Deck 2"
+  },
+  {
+    "id": "247f511b52b7",
+    "slug": "warcraft-3-leads-on-why-forsaken-kingdom-launched-with-graphics-mismat",
+    "headline": "Warcraft 3 Leads On Why Forsaken Kingdom Launched With Graphics Mismatch, No Dubs: ",
+    "summary": "Warcraft 3: Reforged's Forsaken Kingdom campaign was launched with graphics issues and no dubbed audio, according to Blizzard's lead game designer, Jeff Kaplan.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/warcraft-3-reforged-devs-new-graphics-classic-near-future-2000734407"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/Warcraft-III-Reforged_-Forsaken-Kingdom-_-Launch-Trailer-1-13-screenshot-1280x720.jpg",
+    "published_at": "2026-09-15T13:19:15.000Z",
+    "hype_signal": 10,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "warcraft-3-reforged",
+    "game_label": "Warcraft 3: Reforged"
+  },
+  {
     "id": "82751b942fa2",
     "slug": "marathon-season-3-officially-delayed",
     "headline": "Marathon Season 3 Officially Delayed",
@@ -42,6 +888,53 @@
     "game_label": null
   },
   {
+    "id": "09e9f89d46a4",
+    "slug": "helldivers-2-ironclad-democracy-warbond-launches-september-22",
+    "headline": "Helldivers 2 Ironclad Democracy Warbond Launches September 22",
+    "summary": "Helldivers 2 is getting a new Warbond called Ironclad Democracy, which launches on September 22. The Warbond will allow players to forge a path clean through anti-Democratic resistance in their own creative way.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/09/15/helldivers-2-ironclad-democracy-warbond-launches-sept-22/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/09e9f89d46a4/800/600",
+    "published_at": "2026-09-15T13:00:39.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "helldivers-2",
+    "game_label": "Helldivers 2"
+  },
+  {
+    "id": "faf0bcb230ea",
+    "slug": "dragonheir-silent-gods-celebrates-third-anniversary",
+    "headline": "Dragonheir: Silent Gods Celebrates Third Anniversary",
+    "summary": "Dragonheir: Silent Gods is celebrating its third anniversary by allowing players to choose sides in an Order vs Chaos conflict, highlighting the game's community-driven approach.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/dragonheir-silent-gods-marks-third-anniversary-with-a-hero-its-players-helped-create/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/faf0bcb230ea/800/600",
+    "published_at": "2026-09-15T13:00:29.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dragonheir-silent-gods",
+    "game_label": "Dragonheir: Silent Gods"
+  },
+  {
     "id": "0fbbd241bd96",
     "slug": "ps-plus-officially-adds-4-more-games-for-september-2026",
     "headline": "PS Plus Officially Adds 4 More Games for September 2026",
@@ -59,6 +952,100 @@
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/ps-plus-logo-submark-september-2026-wave-2-monthly-games-featured-image.jpg",
     "published_at": "2026-09-15T13:00:13.000Z",
     "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c32dc3102c8a",
+    "slug": "the-alters-complete-edition-physical-release-announced",
+    "headline": "The Alters Complete Edition Physical Release Announced",
+    "summary": "11 Bit Studios is releasing a physical Complete Edition of indie game The Alters on PS5, including the base game and Last Variable DLC, in a boxed set on November 20, 2026.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-complete-edition"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/bb28d0de48228/large.jpg",
+    "published_at": "2026-09-15T13:00:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-alters",
+    "game_label": "The Alters"
+  },
+  {
+    "id": "9a54db09bb13",
+    "slug": "voicemod-launches-key-pocket",
+    "headline": "Voicemod Launches Key Pocket",
+    "summary": "Voicemod has introduced Key Pocket, a platform allowing real-time voice changing and soundboards on mobile, console, and social platforms.",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/voicemod-launches-key-pocket-bringing-real-time-voice-changing-and-soundboards-to-mobile-console-and-social-platforms/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/9a54db09bb13/800/600",
+    "published_at": "2026-09-15T13:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "84ef8891b630",
+    "slug": "007-first-light-for-switch-2-delayed-to-march-2027",
+    "headline": "007 First Light for Switch 2 Delayed to March 2027",
+    "summary": "IO Interactive has pushed back the release date for 007 First Light on the Nintendo Switch 2 to March 2027",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/007-first-light-for-switch-2-delayed-to-march-2027"
+      },
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/007-first-lights-switch-2-edition-delayed-yet-again-heres-how-long-you-have-to-wait/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/84ef8891b630/800/600",
+    "published_at": "2026-09-15T12:51:25.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "007-first-light",
+    "game_label": "007 First Light"
+  },
+  {
+    "id": "5bb689a2d2f3",
+    "slug": "final-fantasy-7-revelation-brings-back-snowboarding-and-red-xiii-might",
+    "headline": "Final Fantasy 7 Revelation Brings Back Snowboarding, And Red XIII Might Steal The Show Again",
+    "summary": "Final Fantasy 7 Revelation is aiming to end the remake trilogy with a bang, and alongside the main campaign, there'll be plenty of other activities to tackle when you're not racing to stop Sephiroth from destroying the planet. Snowboarding is one such distraction, as the iconic minigame from the original Final Fantasy 7 is back, and Square Enix is suggesting…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/final-fantasy-7-revelation-brings-back-snowboarding-and-red-xiii-might-steal-the-show-again/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Red-13.jpg?w=300",
+    "published_at": "2026-09-15T12:39:01.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -289,6 +1276,27 @@
     "game_label": null
   },
   {
+    "id": "c133240e5040",
+    "slug": "black-salt-games-expands-new-zealand-indie-game-development-with-team",
+    "headline": "Black Salt Games expands New Zealand indie game development with Team Trifold and Saltworks Entertainment",
+    "summary": "Black Salt Games has announced Team Trifold, a new Christchurch-based game development studio working on its debut title, Nothing Lost.\nThe post Black Salt Games expands New Zealand indie game development with Team Trifold and Saltworks Entertainment appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/black-salt-games-expands-new-zealand-indie-game-development/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/c133240e5040/800/600",
+    "published_at": "2026-09-15T12:02:45.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "fa6461c48084",
     "slug": "teardowns-massive-multiplayer-update-is-out-now-adding-several-new-gam",
     "headline": "Teardown's Massive Multiplayer Update Is Out Now, Adding Several New Game Modes For Free",
@@ -375,6 +1383,29 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "ec2acc763f71",
+    "slug": "dimensional-double-shift-adds-single-player-mode-in-2027",
+    "headline": "Dimensional Double Shift Adds Single Player Mode in 2027",
+    "summary": "Owlchemy Labs' cooperative VR game Dimensional Double Shift is getting a single-player mode, set to arrive in the first half of 2027.",
+    "category": "releases",
+    "platform_tags": [
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/dimensional-double-shift-gets-a-single-player-mode-in-first-half-of-2027/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/ec2acc763f71/800/600",
+    "published_at": "2026-09-15T11:32:47.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dimensional-double-shift",
+    "game_label": "Dimensional Double Shift"
   },
   {
     "id": "d758bbc8aa1f",
@@ -498,6 +1529,27 @@
     ],
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/metroid-ravenous-over-the-shoulder-view.jpg",
     "published_at": "2026-09-15T11:00:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c2ac7790c67a",
+    "slug": "agility-unveils-digit-5-humanoid-robot-for-industrial-work",
+    "headline": "Agility unveils Digit 5 humanoid robot for industrial work",
+    "summary": "Agility Robotics, a humanoid robotics and Physical AI company, today unveiled Digit 5, the next generation of its general-purpose humanoid robot. Digit 5 is Salem,...\nThe post Agility unveils Digit 5 humanoid robot for industrial work appeared first on GamesBeat.",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/agility-unveils-digit-5-humanoid-robot-for-industrial-work/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/c2ac7790c67a/800/600",
+    "published_at": "2026-09-15T11:00:00.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -712,6 +1764,29 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "4ca6036b2ee4",
+    "slug": "game-freaks-magical-girl-game-ame-nochi-hare-onna-coming-to-mobile-thi",
+    "headline": "Game Freak's Magical Girl Game Ame Nochi Hare Onna Coming to Mobile This Winter",
+    "summary": "Game Freak's new weather-based magical girl game, Ame Nochi Hare Onna, is set to release in Japan this winter for iOS and Android, promising an uplifting story without dark twists.",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/game-freaks-new-weather-based-magical-girl-game-promises-an-uplifting-story-with-no-dark-twists-everything-we-know-about-ame-nochi-hare-onna/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/4ca6036b2ee4/800/600",
+    "published_at": "2026-09-15T10:02:09.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ame-nochi-hare-onna",
+    "game_label": "Ame Nochi Hare Onna"
   },
   {
     "id": "5b593e2c841b",
@@ -1015,6 +2090,27 @@
     "game_label": null
   },
   {
+    "id": "206f9ccb2662",
+    "slug": "arc-system-works-bounces-back-to-profitability-following-previous-year",
+    "headline": "Arc System Works bounces back to profitability following previous year’s net loss",
+    "summary": "Guilty Gear and BlazBlue developer Arc System Works saw a return to profitability in the fiscal year ended May 2026.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/arc-system-works-bounces-back-to-profitability-following-previous-years-net-loss/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/206f9ccb2662/800/600",
+    "published_at": "2026-09-15T08:42:24.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "34518aaf7cc9",
     "slug": "avengers-endgame-encore-will-feature-under-2-minutes-of-new-footage-in",
     "headline": " Avengers: Endgame Encore will feature under 2 minutes of new footage in regular screenings ",
@@ -1133,6 +2229,29 @@
     "game_label": null
   },
   {
+    "id": "10304b40e2f0",
+    "slug": "higurashi-when-they-cry-mahjong-remaster-coming-to-pc-and-consoles",
+    "headline": "Higurashi: When They Cry Mahjong Remaster Coming to PC and Consoles",
+    "summary": "A remastered version of the 2009 mahjong game Higurashi: When They Cry is set to be released on PC and consoles, featuring life-or-death matches with cheating allowed",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/higurashi-when-they-cry-mahjong-game-from-2009-is-getting-a-remaster-for-pc-and-consoles-life-or-death-matches-where-even-cheating-is-allowed/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/10304b40e2f0/800/600",
+    "published_at": "2026-09-15T07:01:16.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "higurashi-when-they-cry",
+    "game_label": "Higurashi: When They Cry"
+  },
+  {
     "id": "be31b6fcbce1",
     "slug": "neowiz-files-trademark-for-wonders-of-o-an-oz-themed-game",
     "headline": "Neowiz Files Trademark for Wonders of O, an Oz-Themed Game",
@@ -1180,29 +2299,6 @@
     "game_label": "Hell Let Loose: Vietnam"
   },
   {
-    "id": "84ef8891b630",
-    "slug": "007-first-light-for-switch-2-delayed-to-march-2027",
-    "headline": "007 First Light for Switch 2 Delayed to March 2027",
-    "summary": "IO Interactive has pushed back the release date for 007 First Light on the Nintendo Switch 2 to March 2027",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/007-first-light-for-switch-2-delayed-to-march-2027"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/84ef8891b630/800/600",
-    "published_at": "2026-09-15T06:15:20.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "007-first-light",
-    "game_label": "007 First Light"
-  },
-  {
     "id": "59832c9bb20d",
     "slug": "diablo-iv-switch-2-performance-and-resolution-officially-revealed",
     "headline": "Diablo IV Switch 2 Performance And Resolution Officially Revealed",
@@ -1240,6 +2336,30 @@
     ],
     "image_url": "https://picsum.photos/seed/f619f32e7a23/800/600",
     "published_at": "2026-09-15T05:50:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b07496ae3aad",
+    "slug": "steam-frame-developer-interview-standalone-vr-gaming-making-half-life",
+    "headline": "Steam Frame developer interview: standalone VR gaming, making Half-Life: Alyx work, APK support, and future SteamOS ambitions",
+    "summary": "We talk to Valve about the changes in VR and Steam that have occurred in the six years between the Valve Index and Steam Frame.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/interviews/steam-frame-developer-interview-standalone-vr-gaming-making-half-life-alyx-work-apk-support-and-future-steamos-ambitions/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/b07496ae3aad/800/600",
+    "published_at": "2026-09-15T05:39:02.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -3519,1135 +4639,6 @@
     ],
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/nintendo-switch-2-in-red-blue-and-purple-lighting-and-smoke-with-switch-1-in-the-background.jpg",
     "published_at": "2026-09-14T17:15:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b868d8a4ab87",
-    "slug": "overwatchs-tracer-once-shot-lasers-from-her-eyes-and-it-could-happen-a",
-    "headline": "Overwatch’s Tracer Once Shot Lasers From Her Eyes, And It Could Happen Again",
-    "summary": "If early iterations of characters had survived the development process, Tracer could have been a very different Overwatch hero. Speaking to GameSpot at BlizzCon 2026, game director Aaron Keller mentioned that he had been playing Overwatch since 2013, \"since Tracer was shooting lasers out of her eyes.\" When questioned about such a strange sequence of words, Keller explained that the…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/overwatchs-tracer-once-shot-lasers-from-her-eyes-and-it-could-happen-again/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/original/1456/14564277/3524612-gameplay_overwatchuprising_tracer_site.jpg?w=300",
-    "published_at": "2026-09-14T17:14:33.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "aa35a48a7df5",
-    "slug": "marathon-delays-new-content-and-ditches-seasons-as-bungies-extraction",
-    "headline": "Marathon Delays New Content And Ditches Seasons As Bungie's Extraction Shooter Fights For Its Life",
-    "summary": "Bungie's Extraction, a game from the Marathon series, is facing challenges as it delays new content and ends seasons, highlighting the struggles of the game's development",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/marathon-delays-new-content-and-ditches-seasons-as-bungies-extraction-shooter-fights-for-its-life-2000734322"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/06/marathon-vandal-2-1280x720.jpg",
-    "published_at": "2026-09-14T17:12:16.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "marathon",
-    "game_label": "Marathon"
-  },
-  {
-    "id": "7b5fc8e5682b",
-    "slug": "valve-working-on-steam-frame-strap-that-adds-index-like-speakers-and-h",
-    "headline": " Valve working on Steam Frame strap that adds Index-like speakers and hot-swappable batteries, 'coming soon' ",
-    "summary": "I need this immediately, please and thank you.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-working-on-steam-frame-strap-that-adds-index-like-speakers-and-hot-swappable-batteries-coming-soon/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/KVTkMpFKCfeBFr47ANHtzM-1280-80.jpg",
-    "published_at": "2026-09-14T17:10:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a2915f3f9ecb",
-    "slug": "steam-frame-review-valves-vr-headset-arrives-amid-component-shortage",
-    "headline": "Steam Frame Review: Valve's VR Headset Arrives Amid Component Shortage",
-    "summary": "Valve's new VR headset, the Steam Frame, has a high price tag and limited game availability, but still offers impressive performance despite component shortages.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/steam-frame-review"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Steam-Frame-with-controllers.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-14T17:00:42.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "steam-frame",
-    "game_label": "Steam Frame"
-  },
-  {
-    "id": "e6d7533cdd60",
-    "slug": "valves-steam-frame-vr-headset-opens-for-orders-with-the-cheapest-model",
-    "headline": "Valve’s Steam Frame VR headset opens for orders, with the cheapest model priced at a lenswatering £889 / $1,059",
-    "summary": "Valve have just launched the Steam Frame wireless VR headset, finally completing the triumvirate of new hardware – along with the new Steam Machine and Steam Controller – that they unveiled all the way back in November 2025. The review embargo has also lifted, meaning I can tell you that it’s a smart and flexible piece of virtual reality kit.…",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/valves-steam-frame-vr-headset-opens-for-orders-with-the-cheapest-model-priced-at-a-lenswatering-889-1059"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Steam-Frame-with-controllers-2_ejQmTE2.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-14T17:00:41.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8606c8fec4dc",
-    "slug": "i-tested-valves-new-1000-vr-headset-and-i-have-no-idea-who-its-for-in",
-    "headline": "I Tested Valve’s New $1,000+ VR Headset And I Have No Idea Who It’s For In 2026",
-    "summary": "The Steam Frame is cool and has some good ideas, but it's hard to recommend it",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/im-not-sure-about-valves-new-1000-vr-headset-2000734260"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/Steam-VR-1280x720.jpg",
-    "published_at": "2026-09-14T17:00:30.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "76db92cf2426",
-    "slug": "luigis-mansion-a-haunting-legacy-on-the-gamecubes-25th-anniversary",
-    "headline": "Luigi's Mansion: A Haunting Legacy on the Gamecube's 25th Anniversary",
-    "summary": "Ollie looks back on Luigi's first spooky outing, a beloved game he's never owned, as the Gamecube turns 25.",
-    "category": "releases",
-    "platform_tags": [
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/features/luigis-mansion-is-one-of-my-favourite-gamecube-games-but-ive-never-actually-owned-it"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/a12497de82982/large.jpg",
-    "published_at": "2026-09-14T17:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "luigis-mansion",
-    "game_label": "Luigi's Mansion"
-  },
-  {
-    "id": "680a59d4319e",
-    "slug": "valves-long-awaited-standalone-vr-headset-steam-frame-starts-at-889-an",
-    "headline": "Valve's long-awaited standalone VR headset Steam Frame starts at £889 and sign-ups open today - but you'll need to be quick",
-    "summary": "After years of rumours, and 10 months since its official unveiling, Valve's long-awaited standalone VR headset, Steam Frame, is poised to begin shipping soon, and with a confirmed starting price of £889.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/steam-frame-vr-price-where-how-to-buy"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Steam_Machine_4.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-14T17:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "873af5bf848b",
-    "slug": "ace-combat-8s-new-trailer-is-awesome-but-maybe-avoid-it-if-youre-alrea",
-    "headline": "Ace Combat 8's New Trailer Is Awesome, But Maybe Avoid It if You're Already In",
-    "summary": "A spoiler-free flight. Publisher Bandai Namco is just weeks away from the launch of Ace Combat 8: Wings of Theve, and it's really pushing hard for this to be a big success. You only need to see the company's live-action mini-series that serves as a prequel to understand that, but a brand new trailer for the game itself has recently…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/ace-combat-8s-new-trailer-is-awesome-but-maybe-avoid-it-if-youre-already-in"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/4565891e9cf2a/large.jpg",
-    "published_at": "2026-09-14T17:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f84030571ea8",
-    "slug": "its-absolutely-our-goal-to-expand-the-market-valves-new-steam-frame-vr",
-    "headline": "\"It's absolutely our goal to expand the market\" - Valve's new Steam Frame VR headset has a nifty idea for broader appeal",
-    "summary": "Valve has said its new Steam Frame VR headset, despite costing nearly £900 for a base model, is intended to \"expand the market\" of virtual reality headsets. That's both because it's lightweight and standalone, but also because it addresses a fundamental and long-running problem VR headsets have had.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/valve-steam-frame-vr-demand-expand-market"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/steam-frame-games.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-14T17:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4c4c8d039a9f",
-    "slug": "steam-frame-review",
-    "headline": "Steam Frame Review",
-    "summary": "Valve's second in-house VR headset boasts a boosted spec sheet, PC-to-headset streaming, and standalone functionality, delivering a lightweight, comfortable, and enjoyable VR experience.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-steam-frame-review/"
-      },
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/steam-frame-review"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/796AkxDeo7Hp4xMqeahFzM-1280-80.jpg",
-    "published_at": "2026-09-14T17:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "steam-frame",
-    "game_label": "Steam Frame"
-  },
-  {
-    "id": "4492ede56b3e",
-    "slug": "ubisoft-has-delayed-rayman-legends-retold-even-though-its-gone-gold",
-    "headline": "Ubisoft Has Delayed Rayman Legends Retold, Even Though It's Gone Gold",
-    "summary": "It'll now launch slightly after GTA 6. It's not very often that you hear of a game being delayed after it's gone \"gold\" — the term for a game that's essentially complete and ready to ship on disc — but Ubisoft has decided to do just that with Rayman Legends Retold. This remake of Rayman Legends was supposed to release…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/ubisoft-has-delayed-rayman-legends-retold-even-though-its-gone-gold"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/0cd2ae6a754fe/large.jpg",
-    "published_at": "2026-09-14T17:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d1acdde4241c",
-    "slug": "steam-frame-starts-at-1059-and-youll-want-to-enter-the-stock-lottery-b",
-    "headline": " Steam Frame starts at $1,059 and you'll want to enter the stock lottery before September 17 for a higher chance of getting one this year ",
-    "summary": "What do you make of these prices?",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/vr-hardware/steam-frame-starts-at-usd1-059-with-reservation-lottery-open-now-enter-before-september-17-for-best-chance-of-getting-one-this-year/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/vY4ztJVBw6dNr9Zr4sVMMT-1280-80.jpg",
-    "published_at": "2026-09-14T17:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0d6579c0ed0e",
-    "slug": "sega-and-netflix-partner-for-sonic-and-crazy-taxi-tv-shows-and-films",
-    "headline": "Sega and Netflix Partner for Sonic and Crazy Taxi TV Shows and Films",
-    "summary": "Netflix is teaming up with Sega to adapt Sonic the Hedgehog, Crazy Taxi, and Stranger Than Heaven into animated TV shows and films.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/sega-netflix-sonic-tv-crazy-taxi-stranger-than-heaven-film"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Sonic-the-Hedgehog-3-_-Official-Trailer-2-(2024-Movie)-Ben-Schwartz%2C-Jim-Carrey%2C-Keanu-Reeves-0-17-screenshot-(1).png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-14T16:58:59.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "dce0169839f0",
-    "slug": "fans-think-mortal-kombat-devs-dc-fighting-game-is-about-to-make-a-big",
-    "headline": "Fans Think Mortal Kombat Dev’s DC Fighting Game Is About to Make a Big Comeback",
-    "summary": "Injustice fans are getting their hopes up after an unexpected potential leak for a new fighting game.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/injustice-3-dc-fighting-game-announcement-rumor-leak/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/injustice-boxart.jpg",
-    "published_at": "2026-09-14T16:58:22.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5c8906060633",
-    "slug": "fortnite-officially-reveals-kingdom-hearts-collab",
-    "headline": "Fortnite Officially Reveals Kingdom Hearts Collab",
-    "summary": "Fortnite unveils the highly-anticipated collaboration with the Kingdom Hearts series ahead of the game's next content update.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/fortnite-kingdom-hearts-sora-skins/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/fortnite-officially-reveals-kingdom-hearts-collab-gamerant.jpg",
-    "published_at": "2026-09-14T16:54:14.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "39fa3324f5e9",
-    "slug": "why-roblox-wants-developers-on-its-platform-to-be-able-to-distribute-e",
-    "headline": "Why Roblox wants developers on its platform to be able to ‘distribute everywhere’",
-    "summary": "Roblox wants creators building games on its platform to be able to distribute them anywhere. At Roblox Developer Conference 2026, Roblox’s annual conference for...\nThe post Why Roblox wants developers on its platform to be able to ‘distribute everywhere’ appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/why-roblox-wants-developers-on-its-platform-to-be-able-to-distribute-everywhere/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/39fa3324f5e9/800/600",
-    "published_at": "2026-09-14T16:49:30.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "655d93fa4c80",
-    "slug": "big-autumn-warhammer-preview-show-preview",
-    "headline": "Big Autumn Warhammer Preview Show Preview",
-    "summary": "GamesRadar+ breaks down upcoming Warhammer Preview show with hints at new units and factions, including the Legion of the Damned, Age of Sigmar dwarves, and Custodes.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/tabletop-gaming/a-big-autumn-warhammer-preview-show-is-on-the-way-heres-what-to-expect/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/2DPdcRa9nFxDon7rdgnZZU-1280-80.jpg",
-    "published_at": "2026-09-14T16:48:24.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9cc6687fc5f5",
-    "slug": "someone-made-a-copper-gaming-pc-frankensteined-out-of-an-old-blowtorch",
-    "headline": " Someone made a copper gaming PC Frankensteined out of an old blowtorch and other assorted parts and is 'just going to let it tarnish over time' ",
-    "summary": "It lives!",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/gaming-pcs/someone-made-a-copper-gaming-pc-frankensteined-out-of-an-old-blowtorch-and-other-assorted-parts-and-is-just-going-to-let-it-tarnish-over-time/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/TwWAzc4Znkzow6tbk7TyWH-1280-80.png",
-    "published_at": "2026-09-14T16:43:04.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ae8e1bcaa891",
-    "slug": "netflix-doubles-down-on-video-games-by-partnering-with-sega-for-movie",
-    "headline": " Netflix doubles down on video games by partnering with Sega for movie adaptations of Crazy Taxi and Stranger Than Heaven ",
-    "summary": "Streamer pays the fare to bring the arcade classic and upcoming crime saga to life",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/entertainment/live-action-movies/netflix-doubles-down-on-video-games-by-partnering-with-sega-for-movie-adaptations-of-crazy-taxi-and-stranger-than-heaven/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/np3BbWifqdHnuJHjafL8Fm-1280-80.jpg",
-    "published_at": "2026-09-14T16:36:37.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ce5c3b2789e6",
-    "slug": "beyblade-x-evobattle-now-available-on-ps5",
-    "headline": "Beyblade X: EVOBATTLE Now Available on PS5",
-    "summary": "The PlayStation 5 version of Beyblade X: EVOBATTLE is now available for purchase on the PlayStation Store.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/beyblade-x-evobattle-for-ps5-now-available"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/ce5c3b2789e6/800/600",
-    "published_at": "2026-09-14T16:32:31.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "beyblade-x-evobattle",
-    "game_label": "Beyblade X: EVOBATTLE"
-  },
-  {
-    "id": "8ab72dd3cbd7",
-    "slug": "hear-me-out-what-if-liam-mcintyre-was-wolverine-in-the-mcu",
-    "headline": "Hear Me Out: What If Liam McIntyre Was Wolverine In The MCU?",
-    "summary": "Filling Hugh Jackman’s shoes is a daunting task, but Liam McIntyre did a good job in Insomniac's game",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/wolverine-marvel-cinematic-universe-liam-mcintyre-hugh-jackman-2000734282"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/Marvels-Wolverine_20260825212951-2-1280x720.jpg",
-    "published_at": "2026-09-14T16:30:37.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8953c540b5cb",
-    "slug": "wardogs-players-really-want-you-to-close-the-doors-or-else",
-    "headline": "Wardogs Players Really Want You To Close The Doors … Or Else",
-    "summary": "The hottest game on PC right now is Wardogs, the Battlefield-like mass multiplayer FPS by developer Bulkhead that's soaring up the Steam charts. While it may not be as hot as the game itself, the game's subreddit is full of hotheads demanding you do one teeny-tiny thing. Close. The. Doors. Behind. You. Released in a closed beta state in August…",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/wardogs-players-really-want-you-to-close-the-doors-or-else/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/wardogs-image.jpg?w=300",
-    "published_at": "2026-09-14T16:30:34.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "55431dbe5c48",
-    "slug": "first-gta-6-actor-officially-confirmed",
-    "headline": "First GTA 6 Actor Officially Confirmed",
-    "summary": "Rockstar Games has confirmed the first voice actor for Grand Theft Auto 6, according to a recent appearance at the BAFTA TV Tea Party.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/first-gta-6-actor-officially-confirmed-and-its-a-big-name/"
-      },
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/the-first-gta-6-actor-has-confirmed-their-involvement-and-nobodys-surprised"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Brian_Heder_03.10ntuqh2h6upf.jpg?w=300",
-    "published_at": "2026-09-14T16:30:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "6e92905b9a6e",
-    "slug": "world-of-warcraft-2-isnt-happening-because-blizzard-isnt-sure-what-a-s",
-    "headline": " World of Warcraft 2 isn't happening because Blizzard isn't sure what a sequel to the MMO would \"give you that World of Warcraft: Forever isn't already giving you\" ",
-    "summary": "\"Why would you throw that away and start over?\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-2-isnt-happening-because-blizzard-isnt-sure-what-a-sequel-to-the-mmo-would-give-you-that-world-of-warcraft-forever-isnt-already-giving-you/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/hChzep2aj6GMtNkdsbzoaW-1280-80.jpg",
-    "published_at": "2026-09-14T16:28:28.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "32209cdb3d35",
-    "slug": "the-blood-of-dawnwalker-late-game-weapon-guide",
-    "headline": "The Blood of Dawnwalker Late Game Weapon Guide",
-    "summary": "This guide helps players in The Blood of Dawnwalker find the strongest late-game weapons for epic boss battles and provides tips on how to obtain them.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/the-blood-of-dawnwalker-best-late-game-weapons-legendary-location/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/blood-of-the-dawnwalker-best-late-game-weapons.jpg",
-    "published_at": "2026-09-14T16:24:22.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-blood-of-dawnwalker",
-    "game_label": "The Blood of Dawnwalker"
-  },
-  {
-    "id": "4f755314d0b8",
-    "slug": "halloween-the-game-crossplay-and-cross-progression-explained",
-    "headline": " Halloween the Game crossplay and cross-progression explained ",
-    "summary": "Here's what you need to know about turning Halloween the Game crossplay on or off and whether it has cross progression",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/horror/halloween-the-game-crossplay-cross-progression/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/BEoUuH2ucJwxSBEvLrNR5X-1280-80.jpg",
-    "published_at": "2026-09-14T16:22:36.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1c92135c5ee8",
-    "slug": "rayman-legends-retold-delayed-until-december-3",
-    "headline": "Rayman Legends Retold Delayed Until December 3",
-    "summary": "Ubisoft has delayed the release of Rayman Legends Retold to December 3, prompting fans to wait a bit longer for the classic platformer's reimagining.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/rayman-legends-retold-delayed-to-december-3"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/1c92135c5ee8/800/600",
-    "published_at": "2026-09-14T16:21:53.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "rayman-legends-retold",
-    "game_label": "Rayman Legends Retold"
-  },
-  {
-    "id": "09534e9a7ffc",
-    "slug": "strikeborn-codes-september-2026-for-emotes-and-spins",
-    "headline": " Strikeborn codes (September 2026) for emotes and spins ",
-    "summary": "Codes for Strikeborn are already available in Early Access and offer randomized rewards",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/rpg/strikeborn-codes/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/L6jp5AABU2qG7VrzNHAcCV-1280-80.jpg",
-    "published_at": "2026-09-14T16:20:08.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e6ef121174b3",
-    "slug": "capcom-opens-first-us-pop-up-shop-in-los-angeles",
-    "headline": "Capcom Opens First US Pop-Up Shop in Los Angeles",
-    "summary": "Capcom is opening its first US pop-up shop in Los Angeles, featuring merchandise from popular franchises like Resident Evil and Monster Hunter.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/capcom-us-pop-up-shop-los-angeles-dates-merch/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/ryunosuke-naruhodo-makes-an-objection-in-the-great-ace-attorney.jpg",
-    "published_at": "2026-09-14T16:19:26.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "77dbb130499e",
-    "slug": "lies-of-p-sequel-might-be-wonders-of-oz",
-    "headline": "Lies of P Sequel Might be Wonders of Oz",
-    "summary": "A new Neowiz trademark suggests a potential sequel to Lies of P could be Wonders of Oz, a story hinted at in the first game.",
-    "category": "deals",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/action-rpg/lies-of-p-sequel-might-be-wonders-of-o-according-to-new-neowiz-trademark-that-matches-the-wizard-of-oz-story-teased-by-the-first-game/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/tQEPEkaDto9Fd635H7AHxB-1280-80.jpg",
-    "published_at": "2026-09-14T16:18:54.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "lies-of-p",
-    "game_label": "Lies of P"
-  },
-  {
-    "id": "4c2344855a8e",
-    "slug": "netflix-and-sega-announce-crazy-taxi-and-stranger-than-heaven-films-so",
-    "headline": "Netflix and SEGA announce Crazy Taxi and STRANGER THAN HEAVEN films, Sonic the Hedgehog animated series",
-    "summary": "Netflix will develop film adaptations of SEGA’s Crazy Taxi franchise and STRANGER THAN HEAVEN game, …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/netflix-and-sega-announce-crazy-taxi-and-stranger-than-heaven-films-sonic-the-hedgehog-animated-series"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/live-action-crazy-taxi-movie-new-sonic-animated-series-and-stranger-than-heaven-adaptation-heading-to-netflix"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/4c2344855a8e/800/600",
-    "published_at": "2026-09-14T16:10:52.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "30bbf8e5e66d",
-    "slug": "sombras-change-to-support-sparks-debate-among-overwatch-fans",
-    "headline": "Sombra's Change to Support Sparks Debate Among Overwatch Fans",
-    "summary": "Some Overwatch players are welcoming Sombra's new role as Support, while others are concerned it may change the game's balance.",
-    "category": "esports",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/fps/sombras-change-to-support-is-the-right-move-but-i-fear-some-overwatch-players-may-take-time-to-adjust/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/HGEj6XWgrL2y8D4nXri5R7-1280-80.jpg",
-    "published_at": "2026-09-14T16:00:59.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "overwatch",
-    "game_label": "Overwatch"
-  },
-  {
-    "id": "3064c622fe2c",
-    "slug": "triple-i-initiative-showcase-returns-this-fall",
-    "headline": "Triple-i Initiative Showcase Returns This Fall",
-    "summary": "Evil Empire's indie gaming showcase is set to return in the fall with a new event featuring games without ads or a host.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/triple-i-initiative-showcase-oct-8/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ss_1f3182d1dbc142c73a070e23ca3f9e38b23cb8bc-1920x1080.jpg",
-    "published_at": "2026-09-14T16:00:16.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2c167bba0442",
-    "slug": "creara-select-is-a-japanese-bio-investigation-romance-where-you-intera",
-    "headline": "Creara Select is a Japanese bio-investigation romance where you interact with a multiple-personality spider girl in order to turn her into a military-class weapon",
-    "summary": "Created by Japanese indie developer Natsumikan, Creara Select is coming to Steam in 2027.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/creara-select-is-a-japanese-bio-investigation-romance-where-you-interact-with-a-multiple-personality-spider-girl-in-order-to-turn-her-into-a-military-class-weapon/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/2c167bba0442/800/600",
-    "published_at": "2026-09-14T16:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b791f87e3e90",
-    "slug": "the-clever-tweaks-and-new-mechanics-in-emerland-prove-that-its-so-much",
-    "headline": " The clever tweaks and new mechanics in Emerland prove that it's so much more than a fresh coat of paint on Everdell ",
-    "summary": "Our expert goes hands-on with the new Emerland board game, the jungle-themed follow-up to Everdell. Is it worth your time, and will it be the right fit for you? We've got all the details here with our full review.",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/board-games/emerland-review/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/xLZwPU7jMsXhnWjKtUzHW4-1280-80.jpg",
-    "published_at": "2026-09-14T16:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "afe43779b27a",
-    "slug": "why-permadeath-in-star-wars-zero-company-keeps-characters-meaningful",
-    "headline": "Why Permadeath in Star Wars: Zero Company Keeps Characters Meaningful",
-    "summary": "In a Star Wars game, permadeath can keep characters' personalities and backstories intact",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/strategy/ive-learned-to-love-star-wars-zero-companys-permadeath-by-letting-the-new-hires-die/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/oabsyVjxMBLhSKKN3zwhDT-1280-80.jpg",
-    "published_at": "2026-09-14T16:00:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "star-wars-zero-company",
-    "game_label": "Star Wars: Zero Company"
-  },
-  {
-    "id": "a90c98e7817b",
-    "slug": "triple-i-initiative-to-return-with-40-game-announcements",
-    "headline": "Triple-i Initiative to Return with 40 Game Announcements",
-    "summary": "The Triple-i Initiative is hosting a showcase with 40 game announcements on October 8, marking a surprise return.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/the-triple-i-initiative-showcase-returns-oct-8-for-40-game-announcements/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a90c98e7817b/800/600",
-    "published_at": "2026-09-14T16:00:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "triple-i-initiative",
-    "game_label": "Triple-i Initiative"
-  },
-  {
-    "id": "65cffaffd93a",
-    "slug": "preview-the-expanse-osiris-reborn-is-what-fans-of-the-books-and-show-h",
-    "headline": "Preview: The Expanse: Osiris Reborn Is What Fans of the Books and Show Have Been Waiting For",
-    "summary": "Remember the Cant. The Expanse: Osiris Reborn is an upcoming PS5 RPG that I’ve been keeping an eye on for a while. That’s mainly down to being a fan of The Expanse TV show – I’m even the owner of a dusty, unopened copy of the first book, Leviathan Wakes. I’m really keen to see how developer Owlcat Games brings…",
-    "category": "reviews",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/previews/the-expanse-osiris-reborn-is-what-fans-of-the-books-and-show-have-been-waiting-for"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/18a04024458cf/large.jpg",
-    "published_at": "2026-09-14T16:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3a0400560d07",
-    "slug": "the-triple-i-initiative-showcase-is-getting-a-second-event-in-2026",
-    "headline": "The Triple-I Initiative Showcase Is Getting A Second Event In 2026",
-    "summary": "The Triple-I Initiative Showcase is officially coming back on October 8 at 9 AM PT / 12 PM ET, and this second instalment of the show will once again offer plenty of trailers and announcements from a wide variety of publishers and developers. Since the first presentation kicked off in 2024, the Triple-I Initiative has been an annual event, but…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/the-triple-i-initiative-showcase-is-getting-a-second-event-in-2026/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Triple-III.jpg?w=300",
-    "published_at": "2026-09-14T16:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5f928e8190b8",
-    "slug": "lego-batman-legacy-of-the-dark-knight-mayhem-update",
-    "headline": "LEGO Batman: Legacy of the Dark Knight Mayhem Update",
-    "summary": "Xbox Wire reveals a new update for LEGO Batman: Legacy of the Dark Knight that lets players control The Joker and Harley Quinn as part of the Mayhem Collection DLC",
-    "category": "deals",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/09/14/lego-batman-mayhem-collection-dlc/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/5f928e8190b8/800/600",
-    "published_at": "2026-09-14T16:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "lego-batman-legacy-of-the-dark-knight",
-    "game_label": "LEGO Batman: Legacy of the Dark Knight"
-  },
-  {
-    "id": "1d721846e5ae",
-    "slug": "blizzard-say-battlenet-isnt-looking-to-fight-steam-and-epic-for-superm",
-    "headline": "Blizzard say Battle.net isn't looking to fight Steam and Epic for supermassive storefront supremacy, despite recently nabbing The Witcher 3 and Cyberpunk 2077",
-    "summary": "No siree. We are not trying to fight those big bosses. It's arguably a bit of a weird thing for a publisher with Diablo and World of Warcraft in their arsenal to say, but that's the stance Blizzard are sticking to with their storefront Battle.net, even though it now boasts two big CD Projekt Red RPGs. Instead of an unknowably…",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/blizzard-say-battlenet-isnt-looking-to-fight-steam-and-epic-for-supermassive-storefront-supremacy-despite-recently-nabbing-the-witcher-3-and-cyberpunk-2077"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/blizzard-battlenet-not-steam-competitor-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-14T15:59:54.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "910d0792256d",
-    "slug": "netflix-officially-confirms-new-sega-game-adaptations",
-    "headline": "Netflix Officially Confirms New Sega Game Adaptations",
-    "summary": "Streaming service Netflix has announced new video game adaptations based on iconic Sega titles Crazy Taxi, Sonic, and Stranger Than Heaven.",
-    "category": "deals",
-    "platform_tags": [
-      "mobile",
-      "pc",
-      "playstation",
-      "switch",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/sega-netflix-deal-new-shows-movie-crazy-taxi-sonic-stranger-than-heaven/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/a-man-and-a-woman-at-a-bar-in-stranger-than-heaven.jpg",
-    "published_at": "2026-09-14T15:59:54.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5e6541cdb465",
-    "slug": "lies-of-p-trademark-sparks-speculation-for-wonders-of-o",
-    "headline": "Lies of P Trademark Sparks Speculation for Wonders of O",
-    "summary": "A new trademark listing suggests that the upcoming game Wonders of O may be a sequel to Lies of P, with some speculating that it could be in development at the same studio.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/lies-of-p-trademark-appears-to-spell-out-sequels-name"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2023/09/12/lie-of-p-blogroll-1694562231277.jpg",
-    "published_at": "2026-09-14T15:52:27.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "wonders-of-o",
-    "game_label": "Wonders of O"
-  },
-  {
-    "id": "963cd729677c",
-    "slug": "blizzard-doesnt-plan-to-rival-steam-or-epic-games-store",
-    "headline": "Blizzard Doesn't Plan to Rival Steam or Epic Games Store",
-    "summary": "Blizzard says Cyberpunk 2077 and The Witcher 3 Remastered will remain on Battle.net, not on the Steam store, as a deliberate business decision.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/blizzard-isnt-trying-to-do-the-steam-or-epic-games-store-thing-by-putting-cyberpunk-2077-and-the-witcher-3-remastered-on-battle-net-says-exec/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Hh69GjLGVccz8GGwMXwyB-1280-80.jpg",
-    "published_at": "2026-09-14T15:52:21.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "022cebd21d4d",
-    "slug": "theyve-taken-about-250000-of-your-money-for-a-product-thats-not-finish",
-    "headline": " \"They've taken about $250,000 of your money for a product that's not finished\" - Unico's faux CRT TV commits retro gaming cardinal sins during early testing ",
-    "summary": "Early tests reveal that Unico's faux CRT Traveller ULW10 display has a serious lag issue, and it also seems to lack composite input and 240p resolution support.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/retro/theyve-taken-about-usd250-000-of-your-money-for-a-product-thats-not-finished-unicos-faux-crt-tv-commits-retro-gaming-cardinal-sins-during-early-testing/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/v7VP8PrZDjvkV4iHpPe4WE-1280-80.jpg",
-    "published_at": "2026-09-14T15:49:57.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5c005566a987",
-    "slug": "metroid-ravenous-reveal-sees-metroid-dread-surge-to-the-top-of-nintend",
-    "headline": " Metroid Ravenous reveal sees Metroid Dread surge to the top of Nintendo's eShop charts 5 years after launch ",
-    "summary": "People are... Metroid ravenous",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/metroid/metroid-ravenous-reveal-sees-metroid-dread-surge-to-the-top-of-nintendos-eshop-charts-5-years-after-launch/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/rWMkg7rrVE2WeSU7WnicX9-1280-80.jpg",
-    "published_at": "2026-09-14T15:47:36.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b9be1f70beb8",
-    "slug": "roblox-plans-to-expand-its-incubator-and-jumpstart-programs",
-    "headline": "Roblox plans to expand its Incubator and Jumpstart programs",
-    "summary": "After what Roblox describes as a successful first wave in 2026, the company is looking to grow its Incubator and Jumpstart programs. Roblox chief...\nThe post Roblox plans to expand its Incubator and Jumpstart programs appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/roblox-plans-to-expand-its-incubator-and-jumpstart-programs/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/b9be1f70beb8/800/600",
-    "published_at": "2026-09-14T15:45:31.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
