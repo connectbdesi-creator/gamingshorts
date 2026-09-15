@@ -11818,5 +11818,58 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-15T05:07:25.460Z"
+  },
+  {
+    "slug": "dragon-quest",
+    "name": "Dragon Quest (1986)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/ecb/ecbb1fe5a3b0e585c2a2e58a39762f38.jpg",
+    "released": "1986-05-27",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "Nintendo Switch",
+      "iOS",
+      "Android",
+      "Game Boy Color",
+      "Game Boy",
+      "NES"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/cb3/cb37d2c467de006fff9b97b75293c6c8.jpg",
+      "https://media.rawg.io/media/screenshots/1ea/1ea76ac2c6a9ad5bc21d308eb7c81263.jpg",
+      "https://media.rawg.io/media/screenshots/197/197e1a66c2a11b38d4dce66eb6fa0811.jpg",
+      "https://media.rawg.io/media/screenshots/b07/b07a7503a9eb6e7d1b0d04315c698663.jpg",
+      "https://media.rawg.io/media/screenshots/c8d/c8d528c856a800d62662a7c385d3cef3.jpg",
+      "https://media.rawg.io/media/screenshots/947/9473019bf0f0d5388cfc1e3a9c7a2f77.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-15T09:07:00.021Z"
+  },
+  {
+    "slug": "hell-let-loose-vietnam",
+    "name": "Hell Let Loose: Vietnam",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/605/605a4b4b2ae2eee26dcf628c86260593.jpg",
+    "released": "2025-06-18",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "Massively Multiplayer",
+      "Action",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/605/605a4b4b2ae2eee26dcf628c86260593.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-15T09:07:00.661Z"
   }
 ]
