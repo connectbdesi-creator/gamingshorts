@@ -12470,5 +12470,32 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-16T13:07:08.792Z"
+  },
+  {
+    "slug": "crackdown",
+    "name": "Crackdown",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/e0e/e0e00170997566985f989abe60040320.jpg",
+    "released": "2007-02-20",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "platforms": [
+      "Xbox One",
+      "Xbox 360"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/702/7022219ccb9e5f7b95c7caf8d789df4d.jpg",
+      "https://media.rawg.io/media/screenshots/583/583049bd8994040de2aa5b6c479b4ff6.jpg",
+      "https://media.rawg.io/media/screenshots/bfc/bfc2c34b56946ba604a669ab9d22c4c4_2htObpm.jpg",
+      "https://media.rawg.io/media/screenshots/818/818834f95bd6f175f5c6d7fc7d60e079.jpg",
+      "https://media.rawg.io/media/screenshots/aec/aec3bca625718c6076cccb456bd3ae20.jpg",
+      "https://media.rawg.io/media/screenshots/244/2446be679dd6977033e35cfeb786ded1.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-16T15:08:55.086Z"
   }
 ]
