@@ -1,5 +1,114 @@
 [
   {
+    "id": "ddd8f4d11f83",
+    "slug": "battlenet-is-becoming-something-blizzard-says-it-doesnt-want-to-be",
+    "headline": "Battle.net Is Becoming Something Blizzard Says It Doesn't Want to Be",
+    "summary": "Battle.net is adding more major third-party games, and Blizzard’s own explanation may be getting harder to square with what the platform is becoming.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/battle-net-steam-epic-games-store-competition-third-party-games/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/dota-1-1.jpg",
+    "published_at": "2026-09-16T21:00:13.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b0966feb10bc",
+    "slug": "marvel-rivals-gets-free-cosmetics-update",
+    "headline": "Marvel Rivals Gets Free Cosmetics Update",
+    "summary": "Marvel Rivals is receiving a new update with free cosmetics, including a President Ozzy Venom skin.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/marvel-rivals-free-venom-skin-jeff-event/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/marvel-rivals-venom-ozzy-skin-closeup.jpg",
+    "published_at": "2026-09-16T21:00:09.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "marvel-rivals",
+    "game_label": "Marvel Rivals"
+  },
+  {
+    "id": "dc3941c23855",
+    "slug": "the-war-thunder-team-looks-back-on-14-years-of-service-from-planes-and",
+    "headline": "The War Thunder team looks back on 14 years of service: from planes and ponies to tanks, choppers, and even frontline infantry",
+    "summary": "With War Thunder gearing up to add infantry FPS gameplay after over a decade, here's why (and how) we got here",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/the-war-thunder-team-looks-back-on-14-years-of-service-from-planes-and-ponies-to-tanks-choppers-and-even-frontline-infantry/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/dc3941c23855/800/600",
+    "published_at": "2026-09-16T20:56:36.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "81de092403ae",
+    "slug": "heart-machine-lays-off-nearly-everyone-at-the-studio-following-cancell",
+    "headline": "Heart Machine lays off “nearly everyone at the studio” following cancellation of unannounced title",
+    "summary": "Heart Machine, the studio behind Hyper Light Drifter, Solar Ash, Possessor(s), and the still-in-Early Access Hyper Light Breaker, has …",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/heart-machine-lays-off-nearly-everyone-at-the-studio-following-cancellation-of-unannounced-title"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/81de092403ae/800/600",
+    "published_at": "2026-09-16T20:46:14.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6eba72fe1a43",
+    "slug": "raven2-zero-lets-players-enter-an-apocalyptic-mmorpg-where-growth-is-t",
+    "headline": "RAVEN2 - ZERO Lets Players Enter an Apocalyptic MMORPG Where Growth Is Tied to Gameplay",
+    "summary": "RAVEN2 - ZERO Lets Players Enter an Apocalyptic MMORPG Where Growth Is Tied to Gameplay",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/raven2-zero-lets-players-enter-an-apocalyptic-mmorpg-where-growth-is-tied-to-gameplay"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/16/thumbnail-1789587360967.jpg",
+    "published_at": "2026-09-16T20:30:48.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "5409e4f0f7c9",
     "slug": "shinji-mikami-to-join-aias-hall-of-fame",
     "headline": "Shinji Mikami to join AIAS Hall of Fame",
@@ -63,6 +172,30 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "9c5057aee4ca",
+    "slug": "microsoft-flight-simulator-2024-adds-7449-airbus-a380-dlc",
+    "headline": "Microsoft Flight Simulator 2024 Adds $74.49 Airbus A380 DLC",
+    "summary": "Microsoft Flight Simulator 2024 has released a new plane, the Airbus A380, for $74.49 in the Flight Simulator Marketplace. It's available on PC, Xbox Series X|S, and PS5 for three months.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/microsoft-flight-simulator-2024-releases-single-new-plane-dlc-that-costs-7449"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/16/flightsimulator2024-txuv9y1ybl-scaled-1789589057032.png",
+    "published_at": "2026-09-16T20:00:24.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "microsoft-flight-simulator-2024",
+    "game_label": "Microsoft Flight Simulator 2024"
   },
   {
     "id": "d987c8d7d8bb",
@@ -4515,155 +4648,6 @@
     "image_url": "https://assets-prd.ignimgs.com/2026/08/12/fefw-blogroll-1786573839096.jpg",
     "published_at": "2026-09-16T09:38:05.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "931b94779227",
-    "slug": "marvel-rivals-galactic-concert-series-unveiled",
-    "headline": "Marvel Rivals Galactic Concert Series Unveiled",
-    "summary": "Marvel Games, NetEase Games, and Disney Concerts collaborate on a global concert series featuring music inspired by Marvel characters.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/marvel-rivals-galactic-concert-series-unveiled-with-first-show-in-london/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/931b94779227/800/600",
-    "published_at": "2026-09-16T09:37:16.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2b837711e587",
-    "slug": "the-head-of-nightdive-studios-appears-to-be-teasing-a-remaster-of-game",
-    "headline": "The head of Nightdive Studios appears to be teasing a remaster of GameCube cult classic Eternal Darkness",
-    "summary": "\"It deserves the treatment I know Nightdive Studios is capable of,\" Stephen Kick says",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/the-head-of-nightdive-studios-appears-to-be-teasing-a-remaster-of-gamecube-cult-classic-eternal-darkness/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/2b837711e587/800/600",
-    "published_at": "2026-09-16T09:22:02.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "dba90f3863f1",
-    "slug": "ps5s-new-firmware-update-available-now",
-    "headline": "PS5's New Firmware Update Available Now",
-    "summary": "Sony has released a new firmware update for the PS5, version 26.06-14.00.00, which includes stability improvements and other changes.",
-    "category": "patches",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/ps5s-new-firmware-update-available-to-download-now-heres-what-it-does"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/e2a4e091dca6e/large.jpg",
-    "published_at": "2026-09-16T09:15:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "ps5",
-    "game_label": "PS5"
-  },
-  {
-    "id": "86df06c4578f",
-    "slug": "new-palworld-and-pokemon-like-free-to-play-creature-collector-aniimo-s",
-    "headline": "New Palworld and Pokémon-like free-to-play creature collector Aniimo sees over 100k concurrent Steam players at launch, despite mixed reviews",
-    "summary": "Aniimo has launched on September 16 for PC, Playstation 5 and Xbox Series X|S, with the mobile version coming on September 23.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/new-palworld-and-pokemon-like-free-to-play-creature-collector-aniimo-sees-over-100k-concurrent-steam-players-at-launch-despite-mixed-reviews/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/86df06c4578f/800/600",
-    "published_at": "2026-09-16T09:13:23.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2cc359c186a1",
-    "slug": "wardogs-ceo-defends-crunch-time-as-a-necessity",
-    "headline": "Wardogs CEO Defends Crunch Time as a Necessity",
-    "summary": "Bulkhead CEO Joe Brammer justifies hiring practices that prioritize crunch time, stating it helps the studio balance workload and achieve goals.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/this-is-a-place-you-come-to-work-hard-wardogs-ceo-justifies-crunch-as-a-balancing-act"
-      },
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/wardogs-ceo-responds-mandatory-crunch/"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/10/wardogs-1786382120921.jpg",
-    "published_at": "2026-09-16T09:10:35.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "wardogs",
-    "game_label": "Wardogs"
-  },
-  {
-    "id": "683987e34dd6",
-    "slug": "total-war-shogun-2s-complete-edition-adds-50-minor-factions-in-return",
-    "headline": "Total War: Shogun 2's Complete Edition adds 50 minor factions in return for breaking your mods, but fear not, players who stick to the old version will get legacy DLC for free",
-    "summary": "If you recently glanced at Total War: Shogun 2 and thought \"gosh, lovely hip-and-gable roofs on that miniature of the temples in Kyoto, but this could really do with oh, let's say 50 additional groups of quarrelsome swordsmen\", then congratulations, Creative Assembly are adding \"50+\" minor factions in Total War: Shogun 2 Complete Edition, an all-in-one remaster hamper due to…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/total-war-shogun-2s-complete-edition-adds-50-more-factions-in-return-for-breaking-your-mods-but-fear-not-players-who-stick-to-the-old-version-will-get-legacy-dlc-for-free"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/total-war-shogun-2-complete-edition.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-16T09:08:22.000Z",
-    "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
     "game": null,

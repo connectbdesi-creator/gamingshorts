@@ -12785,5 +12785,54 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-16T19:10:07.283Z"
+  },
+  {
+    "slug": "marvel-rivals",
+    "name": "Marvel Rivals",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/3f0/3f0fdfc7c71655366aa83ab80ecab9b8.jpg",
+    "released": "2024-12-06",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/7d6/7d62b59f8ee79331989da187f34c2f89.jpg",
+      "https://media.rawg.io/media/screenshots/794/7940edcd7322c74f5095a07d4901e5c0.jpg",
+      "https://media.rawg.io/media/screenshots/b6d/b6d640c9d8096513cd0833a7cec87d8f.jpg",
+      "https://media.rawg.io/media/screenshots/35d/35d274ff3ec81bf23871c368c224442f.jpg",
+      "https://media.rawg.io/media/screenshots/021/021e0c80ed40bf79ef5a80303f8fc485.jpg",
+      "https://media.rawg.io/media/screenshots/b25/b2514bf99ecc630c090bc306684cc2f7.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-16T21:07:04.044Z"
+  },
+  {
+    "slug": "microsoft-flight-simulator-2024",
+    "name": "Microsoft Flight Simulator 2024",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/acb/acb2c495267c40b1c97b69845c0e838c.jpg",
+    "released": "2024-11-19",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/acb/acb2c495267c40b1c97b69845c0e838c.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-16T21:07:05.346Z"
   }
 ]
