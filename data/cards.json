@@ -1,5 +1,105 @@
 [
   {
+    "id": "bb9f892f39e3",
+    "slug": "resident-evil-review-a-near-perfect-sci-fi-thriller-that-never-steps-o",
+    "headline": "Resident Evil Review: A Near-Perfect Sci-Fi Thriller That Never Steps Off the Gas",
+    "summary": "Polygon reviews Zach Cregger's Resident Evil, a horror movie that explores the psychological toll of playing horror games.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/resident-evil-review-zach-cregger/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/3-resident-evil.JPG",
+    "published_at": "2026-09-16T16:01:14.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "resident-evil",
+    "game_label": "Resident Evil"
+  },
+  {
+    "id": "2c7749dff968",
+    "slug": "the-best-chill-puzzle-game-of-2026-just-officially-hit-steam",
+    "headline": "The Best Chill Puzzle Game of 2026 Just Officially Hit Steam",
+    "summary": "Woodo's good-natured puzzling is a breath of fresh air",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/woodo-pc-review/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/woodo-house-diorama.jpg",
+    "published_at": "2026-09-16T16:01:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "156a1d7895c6",
+    "slug": "reality-fracture-officially-brings-back-magics-most-infamous-two-card",
+    "headline": "Reality Fracture Officially Brings Back Magic's Most Infamous Two-Card Combo",
+    "summary": "It's Twin season again for Magic players headed into Reality Fracture Limited, as this combo threatens to win the game on turn 4.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/mtg-reality-fracture-splinter-twin-combo/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/splinter-twin-reality-fracture-art.jpg",
+    "published_at": "2026-09-16T16:00:32.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2e5100e9d120",
+    "slug": "the-best-resi-movie-by-a-distance",
+    "headline": "The Best Resi Movie by a Distance",
+    "summary": "GamesRadar+ reviews the new Resident Evil movie as the best in the series and the best video game movie overall.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/horror-movies/resident-evil-movie-review/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/jKHetJoovNKjuRTm5CNjN8-1280-80.jpg",
+    "published_at": "2026-09-16T16:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "resident-evil-movie",
+    "game_label": "Resident Evil movie"
+  },
+  {
     "id": "73ddf0979aae",
     "slug": "how-to-make-pottery-in-graveyard-keeper-2",
     "headline": "How to Make Pottery in Graveyard Keeper 2",
@@ -13,15 +113,130 @@
       {
         "name": "Game Rant",
         "url": "https://gamerant.com/graveyard-keeper-2-how-to-make-pottery/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/graveyard-keeper-2-how-to-make-cook-food/"
       }
     ],
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/graveyard-keeper-2-how-to-make-pottery-for-the-twins.jpg",
-    "published_at": "2026-09-16T15:30:57.000Z",
+    "published_at": "2026-09-16T15:59:07.000Z",
     "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": "graveyard-keeper-2",
     "game_label": "Graveyard Keeper 2"
+  },
+  {
+    "id": "395d8203da72",
+    "slug": "id-call-the-sony-inzone-m10s-ii-a-gaming-monitor-refresh-rather-than-a",
+    "headline": " I’d call the Sony Inzone M10S II a gaming monitor refresh rather than a sequel, but it is one of the slickest first-person shooter screens around ",
+    "summary": "The Sony Inzone M10S II uses the same 27-inch OLED formula as before, but the sequel dials things in for fps games and bumps refresh rates to 540Hz/720Hz.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/hardware/tvs-monitors/sony-inzone-m10s-ii-review/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/nDn7fVH8VhpHrs3kv8uxGc-1280-80.jpg",
+    "published_at": "2026-09-16T15:58:44.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "fbc78e16911a",
+    "slug": "amid-rumors-of-xbox-game-pass-dropping-day-one-games-microsoft-will-on",
+    "headline": " Amid rumors of Xbox Game Pass dropping day one games, Microsoft will only confirm that previously announced games are still coming ",
+    "summary": "\"We don’t have any changes to announce today or plans that have been finalized\"",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/amid-rumors-of-xbox-game-pass-dropping-day-one-games-microsoft-will-only-confirm-that-previously-announced-games-are-still-coming/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/djCdabLxDtJ9bhEZouNY3f-1280-80.jpg",
+    "published_at": "2026-09-16T15:50:03.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "230682d3ea02",
+    "slug": "fable-being-vital-to-the-dna-of-xbox-helped-shield-the-game-from-hards",
+    "headline": "Fable Being “Vital To The DNA” Of Xbox Helped Shield The Game From Hardship, Director Says",
+    "summary": "The Fable reboot in development at Playground Games has been in the works for a long, long time, and part of what's \"protected\" the game during the lengthy development cycle was that the franchise is so closely associated with Xbox. That's according to Fable game director Ralph Fulton, who told The Guardian, \"I genuinely think Fable is an important game.\"…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/fable-being-vital-to-the-dna-of-xbox-helped-shield-the-game-from-hardship-director-says/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/fable-Large.jpeg?w=300",
+    "published_at": "2026-09-16T15:43:43.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "fa2a30055a59",
+    "slug": "how-to-get-faith-in-graveyard-keeper-2",
+    "headline": "How to Get Faith in Graveyard Keeper 2",
+    "summary": "Discover how to earn Faith in Graveyard Keeper 2 in order to unlock more Inspirations and advance through the game.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/graveyard-keeper-2-how-get-faith/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/graveyard-keeper-2-how-to-get-faith.jpg",
+    "published_at": "2026-09-16T15:37:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ff9250947a90",
+    "slug": "microsoft-hasnt-marched-fable-to-the-guillotine-because-its-vital-to-t",
+    "headline": " Microsoft hasn't marched Fable to the guillotine because it's 'vital to the DNA' of Xbox, says the game's director ",
+    "summary": "Hurting Fable would be like hurting the Xbox brand itself, to hear Ralph Fulton tell it.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rpg/microsoft-hasnt-marched-fable-to-the-guillotine-because-its-vital-to-the-dna-of-xbox-says-the-games-director/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/rZ9YZH2MDZR6ZD453ZGZHM-1280-80.jpg",
+    "published_at": "2026-09-16T15:30:47.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "5de5f92cf893",
@@ -66,6 +281,29 @@
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/open-world-maps-officially-larger-than-gta-6.jpg",
     "published_at": "2026-09-16T15:30:13.000Z",
     "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b9a941008e50",
+    "slug": "wo-long-2-drops-a-surprise-demo-ahead-of-march-2027-release-on-xbox-ga",
+    "headline": "Wo Long 2 Drops A Surprise Demo Ahead Of March 2027 Release On Xbox Game Pass",
+    "summary": "Out today and playable until September 30th! We've got our first look at Wo Long 2: Wings of Ember which revealed that the game will launch as a day one release on Xbox Game Pass on March 4th, 2027. Better yet, you can play it six months early, as a surprise free demo is available today on the Xbox Store!…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/wo-long-2-drops-a-surprise-demo-ahead-of-march-2027-release-on-xbox-game-pass"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/db40e27c7aa33/large.jpg",
+    "published_at": "2026-09-16T15:30:00.000Z",
+    "hype_signal": 95,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -140,6 +378,79 @@
     "comment_count": 0,
     "game": "warota-i-live-next-to-the-demon-kings-castle-lol",
     "game_label": "Warota: I Live Next to The Demon King's Castle LOL"
+  },
+  {
+    "id": "9fa17bfb2f54",
+    "slug": "bloodborne-may-not-be-getting-a-sequel-or-remaster-but-how-about-an-um",
+    "headline": "Bloodborne May Not Be Getting A Sequel Or Remaster, But How About An Umbrella?",
+    "summary": "It never rains, but it does pour for Bloodborne fans holding out hope for some news on From Software's beloved game. Fortunately, you can take some shelter from that storm of disappointment with an official Bloodborne umbrella, and a few items for anyone wanting some souls-like couture in their wardrobe. Announced by the SuperGroupies fashion label, the Bloodborne collection includes…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/bloodborne-may-not-be-getting-a-sequel-or-remaster-but-how-about-an-umbrella/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Bloodborne-fashion.jpg?w=300",
+    "published_at": "2026-09-16T15:11:45.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "cf7e4c68c88d",
+    "slug": "fire-emblem-fortunes-weave-review",
+    "headline": "Fire Emblem: Fortune's Weave Review",
+    "summary": "Fire Emblem: Fortune's Weave offers an epic storyline and some of the best gameplay in the series, as players navigate a massive tactical experience",
+    "category": "reviews",
+    "platform_tags": [
+      "switch",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-review-an-embarrassment-of-riches/"
+      },
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/review/fire-emblem-fortunes-weave/"
+      },
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-review"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/fire-emblem-fortunes-weave-review"
+      },
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-review-scores/"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/round-up-the-reviews-for-fire-emblem-fortunes-weave-are-in"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-gets-a-day-one-update-here-are-the-patch-notes"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/save-10-on-fire-emblem-fortunes-weave-for-nintendo-switch-2"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/eshmel-standing-with-a-spear-with-hong-hua-in-the-background-in-fire-emblem-fortune-s-weave.jpg",
+    "published_at": "2026-09-16T15:10:07.000Z",
+    "hype_signal": 90,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fire-emblem-fortunes-weave",
+    "game_label": "Fire Emblem: Fortune's Weave"
   },
   {
     "id": "07e2e74f96d7",
@@ -347,54 +658,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "cf7e4c68c88d",
-    "slug": "fire-emblem-fortunes-weave-review",
-    "headline": "Fire Emblem: Fortune's Weave Review",
-    "summary": "Fire Emblem: Fortune's Weave offers an epic storyline and some of the best gameplay in the series, as players navigate a massive tactical experience",
-    "category": "reviews",
-    "platform_tags": [
-      "switch",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-review-an-embarrassment-of-riches/"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/review/fire-emblem-fortunes-weave/"
-      },
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-review"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/fire-emblem-fortunes-weave-review"
-      },
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-review-scores/"
-      },
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/round-up-the-reviews-for-fire-emblem-fortunes-weave-are-in"
-      },
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-gets-a-day-one-update-here-are-the-patch-notes"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/eshmel-standing-with-a-spear-with-hong-hua-in-the-background-in-fire-emblem-fortune-s-weave.jpg",
-    "published_at": "2026-09-16T15:00:00.000Z",
-    "hype_signal": 90,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "fire-emblem-fortunes-weave",
-    "game_label": "Fire Emblem: Fortune's Weave"
   },
   {
     "id": "18ac250e4be1",
@@ -4407,250 +4670,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "fb184def6ea0",
-    "slug": "rockstar-games-officially-teases-gta-6-soundtrack-with-some-big-name-a",
-    "headline": "Rockstar Games Officially Teases GTA 6 Soundtrack With Some Big-Name Artists",
-    "summary": "Some huge artists are seemingly confirmed for GTA 6's soundtrack after a new reveal from Rockstar Games.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-soundtrack-artists/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/rockstar-games-officially-teases-gta-6-soundtrack-with-some-big-name-artists-gamerant-feature.jpg",
-    "published_at": "2026-09-15T19:25:59.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d07589e5e14e",
-    "slug": "say-goodbye-to-fallouts-best-replacement-before-it-leaves-game-pass-fo",
-    "headline": "Say Goodbye to Fallout's Best Replacement Before it Leaves Game Pass Forever",
-    "summary": "Atomfall is the best Fallout replacement in years — an extremely British amalgamation of BioShock and Bethesda. Read our rec for more.",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/atomfall-game-pass-recommendation/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/atomfall-9.jpg",
-    "published_at": "2026-09-15T19:25:39.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8538358091dc",
-    "slug": "the-slasher-returns-in-fallout-76",
-    "headline": "The Slasher returns in Fallout 76",
-    "summary": "The post The Slasher returns in Fallout 76 appeared first on XBOX Wire.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/09/15/the-slasher-returns-in-fallout-76/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/8538358091dc/800/600",
-    "published_at": "2026-09-15T19:23:33.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c5e4d952ec62",
-    "slug": "best-graveyard-keeper-2-steam-deck-optimization-settings",
-    "headline": "Best Graveyard Keeper 2 Steam Deck Optimization Settings",
-    "summary": "By default, Graveyard Keeper 2 doesn't run perfectly on Steam Deck and so you'll need to change some settings to get it running well.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/best-graveyard-keeper-2-steam-deck-optimization-settings/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/graveyard-keeper-2-steam-deck-optimization-settings.jpg",
-    "published_at": "2026-09-15T19:23:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "74ebfbaadeed",
-    "slug": "007-first-light-officially-hit-with-another-major-delay",
-    "headline": "007 First Light Officially Hit With Another Major Delay",
-    "summary": "007 First Light developer IO Interactive confirms that an upcoming port of the hit James Bond game is delayed by a significant amount of time.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/007-first-light-nintendo-switch-2-delay-when/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/007-first-light-officially-hit-with-another-major-delay-gamerant.jpg",
-    "published_at": "2026-09-15T19:11:53.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "bfe3fa91bc98",
-    "slug": "system-3s-james-pond-legacy-sparks-ai-accusations",
-    "headline": "System 3's James Pond Legacy Sparks AI Accusations",
-    "summary": "A Nintendo Switch 2 collection is marred by claims its developer used AI to create promotional artwork, sparking debate about the use of AI in game development",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/james-pond-legacy-situation-is-more-than-meets-the-ai/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/JamesPondLegacy_background-1350x815-v01-SfW.jpg?w=300",
-    "published_at": "2026-09-15T18:59:19.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "james-pond-legacy",
-    "game_label": "James Pond Legacy"
-  },
-  {
-    "id": "fae748551690",
-    "slug": "steam-frame-how-to-sign-up-for-pre-order-before-september-17",
-    "headline": "Steam Frame How To Sign Up For Pre-Order Before September 17",
-    "summary": "Despite the high price, the Steam Frame will be incredibly hard to get hold of unless you sign up right now.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/steam-frame-pre-order-guide-info/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/unboxing-a-steam-frame.jpg",
-    "published_at": "2026-09-15T18:58:07.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c5fb813b77e8",
-    "slug": "pokemon-go-october-community-day-plans-revealed",
-    "headline": "Pokemon GO October Community Day Plans Revealed",
-    "summary": "The developer of Pokemon GO has announced details for the upcoming October Community Day event.",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/pokemon-go-october-community-day-zorua/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/pokemon-go-october-community-day.jpg",
-    "published_at": "2026-09-15T18:55:35.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "pokemon-go",
-    "game_label": "Pokemon GO"
-  },
-  {
-    "id": "5f8364a98492",
-    "slug": "games-like-warcraft-3-are-the-best-storytelling-medium-warcraft-has-ha",
-    "headline": "Games Like Warcraft 3 Are ‘The Best Storytelling Medium Warcraft Has Had’, Says Director",
-    "summary": "'An MMO can be challenging in terms of building up and conveying a connection to characters'",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/warcraft-3-game-director-rts-rpg-storytelling-2000734419"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/warcrtaft-3-reforge-1280x720.jpg",
-    "published_at": "2026-09-15T18:30:33.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f5d1e5461e51",
-    "slug": "highly-requested-gamecube-remaster-teased-by-developer",
-    "headline": "Highly Requested GameCube Remaster Teased by Developer",
-    "summary": "A developer known for remasters teases the possible return of a classic GameCube game that has never been released on another platform.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/eternal-darkness-gamecube-remaster-nightdive-tease/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/gamecube-remaster-tease.jpg",
-    "published_at": "2026-09-15T18:30:12.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "85733a40b24a",
-    "slug": "doom-the-dark-ages-receives-permanent-price-drop-on-the-xbox-store",
-    "headline": "DOOM: The Dark Ages Receives Permanent Price Drop On The Xbox Store",
-    "summary": "DOOM: The Dark Ages has had a 35.72% price drop on the Xbox Store, marking a rare move for a AAA title. This permanent price drop may indicate a change in the game's sales strategy.",
-    "category": "deals",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/doom-the-dark-ages-receives-permanent-price-drop-on-the-xbox-store"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/8308babd789e6/large.jpg",
-    "published_at": "2026-09-15T18:30:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "doom-the-dark-ages",
-    "game_label": "DOOM: The Dark Ages"
   }
 ]
