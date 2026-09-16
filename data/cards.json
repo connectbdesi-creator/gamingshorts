@@ -1,5 +1,124 @@
 [
   {
+    "id": "040295fe7928",
+    "slug": "early-reviews-hail-zach-creggers-resident-evil-as-a-clever-homage-that",
+    "headline": "Early Reviews Hail Zach Cregger’s Resident Evil As A Clever Homage That Doesn’t Get Bogged Down By The Details: ‘This Is How Movies And Video Games Can Merge In A Way That Makes Them Stronger’",
+    "summary": "Fans weren't sure about the director moving beyond the source material",
+    "category": "reviews",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/early-reviews-hail-zach-creggers-resident-evil-as-a-clever-homage-that-doesnt-get-bogged-down-by-the-details-this-is-how-movies-and-video-games-can-merge-in-a-way-that-makes-them-stronger-2000735209"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/re-movie-1280x720.jpg",
+    "published_at": "2026-09-16T23:00:20.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "760358bc843e",
+    "slug": "enter-polygons-point-it-out-giveaway",
+    "headline": "Enter Polygon's Point It Out Giveaway!",
+    "summary": "Polygon is giving away a Secretlab TITAN Evo Stealth Edition gaming chair.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/secretlab-polygon-point-it-out-giveaway-contest/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/point-it-out-title.png",
+    "published_at": "2026-09-16T23:00:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0b752ada490d",
+    "slug": "best-open-world-rpg-trilogies-ever-made-ranked",
+    "headline": "Best Open-World RPG Trilogies Ever Made, Ranked",
+    "summary": "Game Rant counts down the top open-world RPG trilogies, highlighting their enduring stories and immersive worlds.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/best-open-world-rpg-game-trilogies-ever-all-time-ranked/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/best-open-world-rpg-trilogies-of-all-time-ranked-2.jpg",
+    "published_at": "2026-09-16T22:45:13.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e64084db852e",
+    "slug": "reverse-zombie-game-the-first-zombie-announced-for-switch-pc",
+    "headline": "‘Reverse’ zombie game The First Zombie announced for Switch, PC",
+    "summary": "Phoenixx has announced The First Zombie, a “reverse” zombie game produced by Kentaro Fujii of …",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/reverse-zombie-game-the-first-zombie-announced-for-switch-pc"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/e64084db852e/800/600",
+    "published_at": "2026-09-16T22:40:29.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "236efdbc05d8",
+    "slug": "sony-responds-after-pc-games-including-helldivers-2-disappear-in-uk",
+    "headline": "Sony responds after PC games including Helldivers 2 disappear in UK",
+    "summary": "PlayStation says it’s working to reinstate Steam games including Helldivers",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/sony-responds-after-pc-games-including-helldivers-2-disappear-in-uk/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/236efdbc05d8/800/600",
+    "published_at": "2026-09-16T22:34:38.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "c46f2281c0b9",
     "slug": "solo-leveling-protagonist-sung-jinwoo-makes-official-comeback",
     "headline": "Solo Leveling Protagonist Sung Jinwoo Makes Official Comeback",
@@ -22,6 +141,29 @@
     "comment_count": 0,
     "game": "solo-leveling",
     "game_label": "Solo Leveling"
+  },
+  {
+    "id": "c8ecdc3c9e41",
+    "slug": "black-ops-2-leaps-ahead-on-ps5",
+    "headline": "Black Ops 2 Leaps Ahead on PS5",
+    "summary": "A recent survey suggests that Call of Duty: Black Ops 2 is more popular on PS5 than its predecessors and Warzone, sparking debate about the game's longevity and appeal.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/call-of-duty-black-ops-2-appears-to-be-much-more-popular-than-black-ops-7-and-warzone-on-ps5"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/06/08/black-ops-2-key-art-1780955021839.jpg",
+    "published_at": "2026-09-16T22:27:57.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "call-of-duty-black-ops-2",
+    "game_label": "Call of Duty: Black Ops 2"
   },
   {
     "id": "2ad077c2052f",
@@ -4511,162 +4653,6 @@
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25317754/dune_awakening_sandworm.jpg",
     "published_at": "2026-09-16T10:58:33.000Z",
     "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "918ca2b6b109",
-    "slug": "jagex-launches-runescape-dragonwilds-on-pc-and-consoles",
-    "headline": "Jagex Launches RuneScape: Dragonwilds on PC and Consoles",
-    "summary": "Jagex has released RuneScape: Dragonwilds, marking the game's first console debut, on PC, PS5, Switch 2, and Xbox Series X|S.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "switch",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/jagex-brings-runescape-dragonwilds-to-pc-and-consoles/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/918ca2b6b109/800/600",
-    "published_at": "2026-09-16T10:52:22.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "runescape-dragonwilds",
-    "game_label": "RuneScape: Dragonwilds"
-  },
-  {
-    "id": "c2af5ca1290b",
-    "slug": "how-to-get-sora-in-fortnite",
-    "headline": "How to Get Sora in Fortnite",
-    "summary": "Fortnite collaborates with Kingdom Hearts, offering a free Sora in-game item. Details on when the crossover and Sora's allies will be available are also provided.",
-    "category": "deals",
-    "platform_tags": [
-      "mobile",
-      "pc",
-      "playstation",
-      "switch",
-      "xbox",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/fortnite-sora-free-skin-release-date/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/fortnite-how-to-get-sora-for-free-early.jpg",
-    "published_at": "2026-09-16T10:50:08.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "kingdom-hearts-x-fortnite",
-    "game_label": "Kingdom Hearts x Fortnite"
-  },
-  {
-    "id": "4741ca709ea3",
-    "slug": "gta-fans-already-thinking-about-gta-7-setting",
-    "headline": "GTA Fans Already Thinking About GTA 7 Setting",
-    "summary": "Fans speculate about the potential setting for Grand Theft Auto 7, considering locations from past games in the series.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/grand-theft-auto-fans-gta-7-setting-speculation/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/07/raul_bautista_03.jpg",
-    "published_at": "2026-09-16T10:49:43.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto",
-    "game_label": "Grand Theft Auto"
-  },
-  {
-    "id": "da899452ea03",
-    "slug": "tiny-tinas-wonderlands-and-brothers-in-arms-sequels-leaked-images-sugg",
-    "headline": "Tiny Tina's Wonderlands and Brothers in Arms Sequels Leaked Images Suggest Games Were Scrapped",
-    "summary": "Development images for Tiny Tina's Wonderlands and a new Brothers in Arms game have surfaced, sparking speculation that the games were scrapped due to their release.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/images-for-unannounced-tiny-tinas-wonderlands-and-brothers-in-arms-games-leak-online"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/16/screenshot-2026-09-16-114417-1789555484410.png",
-    "published_at": "2026-09-16T10:47:29.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "tiny-tinas-wonderlands",
-    "game_label": "Tiny Tina's Wonderlands"
-  },
-  {
-    "id": "f1cec231171c",
-    "slug": "wo-long-2-alpha-demo-now-available",
-    "headline": "Wo Long 2 Alpha Demo Now Available",
-    "summary": "Koei Tecmo has released an alpha demo for Wo Long 2, coinciding with the game's release date announcement for March 2027.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/video-heres-a-look-at-the-wo-long-2-alpha-demo-which-is-available-today-to-mark-its-release-date-announcement/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/f1cec231171c/800/600",
-    "published_at": "2026-09-16T10:37:09.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "wo-long-2",
-    "game_label": "Wo Long 2"
-  },
-  {
-    "id": "a7657f9d3c34",
-    "slug": "try-team-ninjas-next-ps5-action-rpg-wo-long-2-six-months-early-with-ne",
-    "headline": "Try Team Ninja's Next PS5 Action RPG, Wo Long 2, Six Months Early with New Playable Demo",
-    "summary": "Wings of Ember launches in March.\nPublisher Koei Tecmo and developer Team Ninja have announced the release date for their next big action RPG, Wo Long 2: Wings of Ember.\nThe game was officially revealed just a few months ago, and it's now slated for launch on PS5 on 4th March, 2027.\nRead the full article on pushsquare.com",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/try-team-ninjas-next-ps5-action-rpg-wo-long-2-six-months-early-with-new-playable-demo"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/771c8eb453ba3/large.jpg",
-    "published_at": "2026-09-16T10:30:00.000Z",
-    "hype_signal": 100,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
