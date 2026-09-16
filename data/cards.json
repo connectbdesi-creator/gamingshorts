@@ -1,5 +1,75 @@
 [
   {
+    "id": "ddb20f1ad452",
+    "slug": "rockstar-issues-new-official-statement-on-gta-6s-world",
+    "headline": "Rockstar Issues New Official Statement on GTA 6's World",
+    "summary": "Rockstar Games has released an official statement regarding the game world of GTA 6, specifically the Miami-inspired setting of Leonida.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-map-size-populated-complex-world/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/lucia_caminos_07-1.jpg",
+    "published_at": "2026-09-16T12:30:13.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "c8af40eda9a6",
+    "slug": "critical-role-officially-gets-a-new-dungeon-master-for-upcoming-video",
+    "headline": "Critical Role Officially Gets a New Dungeon Master for Upcoming Video Game Crossover",
+    "summary": "Critical Role is raising the stakes with a new Dungeon Master and a warped Manhattan.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/critical-role-daggerheart-control-resonant-new-game-master-zachery-renauldo/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/critical-role-cast-seekers-table-1.jpg",
+    "published_at": "2026-09-16T12:29:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6ee2f7340be6",
+    "slug": "playstation-is-doubling-down-on-planar-drivers-as-it-announces-a-new-d",
+    "headline": " PlayStation is doubling down on planar drivers as it announces a new duo of Pulse wireless PS5 headsets ",
+    "summary": "PlayStation has announced a new duo of Pulse headsets is incoming, and planar magnetic drivers are at the helm.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/hardware/headsets-headphones/playstation-is-doubling-down-on-planar-drivers-as-it-announces-a-new-duo-of-pulse-wireless-ps5-headsets/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/f79HtA5Y9qFgz5Y8RBFcFf-1280-80.jpg",
+    "published_at": "2026-09-16T12:26:19.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "cf7e4c68c88d",
     "slug": "fire-emblem-fortunes-weave-review",
     "headline": "Fire Emblem: Fortune's Weave Review",
@@ -17,15 +87,40 @@
       {
         "name": "VGC",
         "url": "https://www.videogameschronicle.com/review/fire-emblem-fortunes-weave/"
+      },
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-review"
       }
     ],
     "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/eshmel-standing-with-a-spear-with-hong-hua-in-the-background-in-fire-emblem-fortune-s-weave.jpg",
-    "published_at": "2026-09-16T12:00:54.000Z",
+    "published_at": "2026-09-16T12:08:06.000Z",
     "hype_signal": 90,
     "like_count": 0,
     "comment_count": 0,
     "game": "fire-emblem-fortunes-weave",
     "game_label": "Fire Emblem: Fortune's Weave"
+  },
+  {
+    "id": "a547111fa583",
+    "slug": "they-often-dont-make-it-in-the-door-wardogs-studio-bulkhead-check-for",
+    "headline": "\"They often don’t make it in the door\": Wardogs studio Bulkhead check for \"anti-crunch messaging\" on prospective hires' social media, CEO says",
+    "summary": "Bulkhead CEO Joe Brammer has revealed that the studio behind recent FPS hit Wardogs check the social media accounts of prospective hires for public criticism of crunch practices, and deliberately prefer to avoid bringing such folks on board. In the exec's view, devs working extra or long hours to get a game or update out of the door - otherwise…",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/they-often-dont-make-it-in-the-door-wardogs-studio-bulkhead-check-for-anti-crunch-messaging-on-prospective-hires-social-media-ceo-says"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/wardogs-studio-ceo-crunch-hiring-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-16T12:07:05.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "f74e1952c5d0",
@@ -69,6 +164,52 @@
     ],
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/marvels-wolverine-end-of-an-era.jpg",
     "published_at": "2026-09-16T12:00:13.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "63dba6b2c7d3",
+    "slug": "review-fire-emblem-fortunes-weave-switch-2-dense-delightful-strategy-o",
+    "headline": "Review: Fire Emblem: Fortune's Weave (Switch 2) - Dense, Delightful Strategy Overstuffed With Heroes",
+    "summary": "Da Mina's Touch. Let's see if this setup rings any bells. The world is on the brink of collapse at the hands of a demon king and his armies of underworld minions. To save it, a hero of legend must recruit four Divine Beasts Flame Lords to strengthen their attack and bring the fight to the big bad, all while…",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/fire-emblem-fortunes-weave"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/e339d3e47bff7/large.jpg",
+    "published_at": "2026-09-16T12:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3725cbcf30bd",
+    "slug": "guide-xbox-at-tokyo-game-show-2026-event-date-start-times-where-to-wat",
+    "headline": "Guide: Xbox At Tokyo Game Show 2026: Event Date, Start Times & Where To Watch The Showcase",
+    "summary": "We're getting VERY close now! It's almost time for the Xbox showcase at the Tokyo Game Show 2026! As usual, Xbox is bringing us this annual event that's likely to feature brand-new announcements along with closer looks at various upcoming games. In this guide, we're going to tell you everything you need to know about the Xbox Tokyo Game Show…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/guides/xbox-at-tokyo-game-show-2026-event-date-start-times-and-where-to-watch-the-showcase"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/3c031ead831e7/large.jpg",
+    "published_at": "2026-09-16T12:00:00.000Z",
     "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
@@ -729,6 +870,30 @@
     "game_label": null
   },
   {
+    "id": "4ce058e6664b",
+    "slug": "console-archives-crazy-climber-launches-september-17",
+    "headline": "Console Archives Crazy Climber launches September 17",
+    "summary": "Console Archives Crazy Climber will launch for PlayStation 5 and Switch 2 on September 17 …",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/console-archives-crazy-climber-launches-september-17"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/4ce058e6664b/800/600",
+    "published_at": "2026-09-16T10:05:57.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "a66f316d0071",
     "slug": "millions-of-zelda-fans-cant-get-the-best-ocarina-of-time-switch-2-pre",
     "headline": "Millions of Zelda Fans Can't Get the Best Ocarina of Time Switch 2 Pre-Order Bonuses",
@@ -1028,6 +1193,33 @@
     "game_label": null
   },
   {
+    "id": "5aa76a8127e5",
+    "slug": "terranigma-launches-january-14-2027",
+    "headline": "Terranigma Launches January 14, 2027",
+    "summary": "Action RPG Terranigma is coming to multiple platforms, including PlayStation 5, Xbox Series, Switch, and PC, on January 14, 2027.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/terranigma-launches-january-14-2027"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/5aa76a8127e5/800/600",
+    "published_at": "2026-09-16T09:05:06.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "terranigma",
+    "game_label": "Terranigma"
+  },
+  {
     "id": "7fc15eb01c6b",
     "slug": "8510-open-world-survival-crafting-game-officially-coming-to-xbox",
     "headline": "8.5/10 Open World Survival-Crafting Game Officially Coming to Xbox",
@@ -1171,6 +1363,31 @@
     "game_label": null
   },
   {
+    "id": "443943780d09",
+    "slug": "arcade-archives-mr-dos-castle-launches-september-17",
+    "headline": "Arcade Archives Mr. Do!’s Castle launches September 17",
+    "summary": "Arcade Archives 2 Mr. Do!’s Castle will launch for PlayStation 5, Xbox Series, and Switch …",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/arcade-archives-mr-dos-castle-launches-september-17"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/443943780d09/800/600",
+    "published_at": "2026-09-16T08:15:59.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "f96049781e14",
     "slug": "diablo-4-becomes-100-free-on-steam-until-september-21",
     "headline": "Diablo 4 Becomes 100% Free on Steam Until September 21",
@@ -1282,6 +1499,31 @@
     "image_url": "https://cdn.mos.cms.futurecdn.net/URjpmjbKzHnGGLfSGydoLB-1280-80.jpg",
     "published_at": "2026-09-16T07:00:00.000Z",
     "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b889e7e87c9a",
+    "slug": "the-end-of-history-launches-in-q1-2027-for-ps5-xbox-series-and-pc",
+    "headline": "The End of History launches in Q1 2027 for PS5, Xbox Series, and PC",
+    "summary": "Medieval sandbox strategy RPG The End of History will leave Early Access and launch for …",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/the-end-of-history-launches-in-q1-2027-for-ps5-xbox-series-and-pc"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/b889e7e87c9a/800/600",
+    "published_at": "2026-09-16T06:55:00.000Z",
+    "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4404,234 +4646,5 @@
     "comment_count": 0,
     "game": "street-fighter",
     "game_label": "Street Fighter"
-  },
-  {
-    "id": "10023bb0ced7",
-    "slug": "im-tired-of-overwatch-reworking-sombra-for-people-who-dont-even-play-h",
-    "headline": "I’m Tired Of Overwatch Reworking Sombra For People Who Don’t Even Play Her",
-    "summary": "Blizzard is changing the game’s notorious hacking menace into a Support after years of complaints from people on the receiving end of her hacks",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/overwatch-sombra-rework-support-hack-blizzcon-healing-2000734610"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/sombra-1280x720.jpg",
-    "published_at": "2026-09-15T15:00:55.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9fd23ef96992",
-    "slug": "apex-legends-launches-street-fighter-6-crossover-event",
-    "headline": "Apex Legends launches Street Fighter 6 crossover event",
-    "summary": "Electronic Arts announced that Apex Legends will have a Street Fighter 6 crossover event — a bit unusual considering the first-person shooter game and...\nThe post Apex Legends launches Street Fighter 6 crossover event appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/apex-legends-launches-street-fighter-6-crossover-event/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/9fd23ef96992/800/600",
-    "published_at": "2026-09-15T15:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "360ba3d7a2ff",
-    "slug": "apex-legends-art-director-says-street-fighter-6-pushed-devs-to-give-ch",
-    "headline": "Apex Legends Art Director Says Street Fighter 6 Pushed Devs to Give Characters the 'Thickest Thighs' They've Ever Had",
-    "summary": "Apex Legends art director Alisa Rastorgueva revealed that the developers pushed the limits of the game’s character models so far for its collaboration with Street Fighter 6 that its heroes became “thicker” than ever.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/apex-legends-art-director-says-street-fighter-6-pushed-devs-to-give-characters-the-thickest-thighs-theyve-ever-had"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/10/apex-legends-street-fighter-interview-thick-thighs-save-lives-1789078248626.jpg",
-    "published_at": "2026-09-15T15:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d35aaf768867",
-    "slug": "control-resonant-designed-around-60fps-gameplay-on-ps5-and-ps5-pro",
-    "headline": "Control Resonant Designed Around 60fps Gameplay on PS5 and PS5 Pro",
-    "summary": "Remedy details all graphics modes. Now less than 10 days away from release, Remedy has taken to the PlayStation Blog to announce what graphics modes you can choose from in Control Resonant. First and foremost, the Finnish studio reveals the follow-up was built around 60 frames-per-second gameplay \"from the beginning\" and that the experience's \"feel and responsiveness\" took top priority.…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/control-resonant-designed-around-60fps-gameplay-on-ps5-and-ps5-pro"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/2398fb0f281fd/large.jpg",
-    "published_at": "2026-09-15T15:00:00.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e863f0614d1a",
-    "slug": "afterworlds-history-changes-with-every-playthrough",
-    "headline": "Afterworld's History Changes With Every Playthrough",
-    "summary": "Paradox's post-apocalyptic grand strategy game Afterworld features a dynamic history that changes with each playthrough, reflecting the player's decisions.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/paradoxs-grand-strategy-game-afterworld-hasnt-got-a-fixed-history-it-changes-with-every-playthrough"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/afterworld-mount-rushmore.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-15T15:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "afterworld",
-    "game_label": "Afterworld"
-  },
-  {
-    "id": "3443e9994dfe",
-    "slug": "gta-6s-stephen-root-is-the-franchises-second-ever-emmy-winning-actor",
-    "headline": "GTA 6’s Stephen Root Is The Franchise’s Second-Ever Emmy Winning Actor",
-    "summary": "Actor Stephen Root recently confirmed that he will appear in GTA 6, after people correctly identified him as the voice of the drug-runner Brian Heder. He confirmed this on September 13, and on September 14, Root won his first-ever Emmy award for his incredible performance on the show Widow's Bay. In winning an Emmy, Root becomes just the second-ever Emmy-winning…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gta-6s-stephen-root-is-the-franchises-second-ever-emmy-winning-actor/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-15-at-8.42.06-AM.png?w=300",
-    "published_at": "2026-09-15T14:59:37.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1c809a4e1fa1",
-    "slug": "marvel-wolverines-self-driving-bike-chase-is-now-being-mocked",
-    "headline": "Marvel Wolverine's Self-Driving Bike Chase Is Now Being Mocked",
-    "summary": "Marvel's Wolverine detractors have turned their attention towards the game's bike chase, which you can complete without touching the controller.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/marvel-wolverines-bike-chase-plays-itself/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/09/wolverine-riding-a-bike-as-a-green-highway-sign-for-squamish-is-seen-in-front-of-him-in-marvel-s-wolverine.jpg",
-    "published_at": "2026-09-15T14:56:04.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0a73e4398b44",
-    "slug": "fable-lead-promises-we-stick-the-landing-with-the-rpgs-ending-which-ho",
-    "headline": " Fable lead promises \"we stick the landing\" with the RPG's ending, which hopefully means we won't have a repeat of Fable 2's woes ",
-    "summary": "\"It's easy to look at industry metrics saying 100% of people start a game and only 25% finish, and decide not to invest heavily in the finale,\" says Ralph Fulton",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/rpg/fable-lead-promises-we-stick-the-landing-with-the-rpgs-ending-which-hopefully-means-we-wont-have-a-repeat-of-fable-2s-woes/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/kpQjfbGSxaopCa2S3ppZmc-1280-80.jpg",
-    "published_at": "2026-09-15T14:48:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "02694489cc44",
-    "slug": "helldivers-2-ironclad-democracy-warbond",
-    "headline": "Helldivers 2 Ironclad Democracy Warbond",
-    "summary": "GamesRadar+ reports on Helldivers 2's new update, Ironclad Democracy, which brings new content and gameplay mechanics.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/third-person-shooter/helldivers-2-ironclad-democracy-warbond/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/fXhQzzRscyPNK5xUEc8PXB-1280-80.jpg",
-    "published_at": "2026-09-15T14:45:20.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "helldivers-2",
-    "game_label": "Helldivers 2"
-  },
-  {
-    "id": "568e1766e813",
-    "slug": "kairi-joins-fortnite",
-    "headline": "Kairi Joins Fortnite",
-    "summary": "Fortnite has released a new trailer featuring Kairi from the Kingdom Hearts series, who will now let players choose her fate in combat",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/kingdom-hearts-kairi-has-suffered-enough-will-now-headshot-you-in-fortnite/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Fortnite-_Kingdom-Hearts-Arrives_-Gameplay-Trailer-0-0-28.jpeg?w=300",
-    "published_at": "2026-09-15T14:35:46.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "kingdom-hearts-2",
-    "game_label": "Kingdom Hearts 2"
   }
 ]
