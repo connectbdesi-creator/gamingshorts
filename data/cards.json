@@ -1,5 +1,445 @@
 [
   {
+    "id": "378c2ef525f9",
+    "slug": "wardogs-is-officially-one-of-the-best-fps-games-of-the-decade",
+    "headline": "Wardogs Is Officially One of the Best FPS Games of the Decade",
+    "summary": "Wardogs, the latest FPS from Bulkhead, is still in early access, but it already feels like a revolutionary take on the genre.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/wardogs-impressions-early-access/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2026/08/wardogs-press-image-2.jpg",
+    "published_at": "2026-09-17T19:30:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "88eb9f4b7281",
+    "slug": "runescape-dragonwilds-bringing-classic-to-consoles-for-the-first-time",
+    "headline": "RuneScape: Dragonwilds Bringing Classic to Consoles for the First Time",
+    "summary": "RuneScape is finally bringing its 25-year-old RPG classic, Dragonwilds, to consoles, marking a new era for the game.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/runescape-dragonwilds-console-release-open-world-survival/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/bazaart_cd58e83b-5875-41e5-80b3-68e91356ec98.jpeg",
+    "published_at": "2026-09-17T19:15:27.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dragonwilds",
+    "game_label": "Dragonwilds"
+  },
+  {
+    "id": "fd2910d594e9",
+    "slug": "xbox-ones-catastrophic-drm-is-the-reason-it-can-now-offer-disc-to-digi",
+    "headline": "Xbox One’s Catastrophic DRM Is The Reason It Can Now Offer Disc-To-Digital",
+    "summary": "The Xbox One's pitch for an all-digital, always-online future went down in flames so its disc-to-digital initiative could be born from the ashes",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/xbox-ones-catastrophic-drm-is-the-reason-it-can-now-offer-disc-to-digital-2000735320"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/xbox-one-1280x720.jpg",
+    "published_at": "2026-09-17T19:00:41.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "706686675594",
+    "slug": "world-of-warcraft-forever-devs-explain-the-new-race-campfires-and-onyx",
+    "headline": "World of Warcraft: Forever Devs Explain the New Race, Campfires, and Onyxia's Return",
+    "summary": "We sat down with World of Warcraft: Forever's principal game designer Kris Zierhut and lead encounter designer Michael Nuthals to talk through the design philosophy behind the game. They break down the new Legacy System for alt characters, the campfire system for player socializing, the new Skyborn Elves race and their ties to Dire Maul lore, as well as the…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/video/world-of-warcraft-forever-devs-explain-the-new-race-campfires-and-onyxias-return/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/world-of-warcraft-interview-siteb.jpg",
+    "published_at": "2026-09-17T19:00:22.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "173cbb0b4315",
+    "slug": "are-wolverines-takes-on-established-marvel-characters-bad-or-just-diff",
+    "headline": "Are Wolverine's Takes On Established Marvel Characters Bad Or Just Different (Or Both)?",
+    "summary": "Insomniac Games' take on Wolverine's role in the X-Men universe is sparking debate, with some fans criticizing the changes",
+    "category": "industry",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/marvels-wolverine-logan-sabretooth-jean-comic-book-fans-2000735324"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/leechlogan-1280x720.jpg",
+    "published_at": "2026-09-17T19:00:08.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b7f7053df42f",
+    "slug": "diablo-5-is-blizzards-darkest-arpg-yet-and-thats-the-best-way-to-honor",
+    "headline": " Diablo 5 is Blizzard's darkest ARPG yet, and that's the best way to honor the game that changed my life 30 years ago ",
+    "summary": "Diablo 5 turns all of Sanctuary into the Dark Lord's domain, and that's the darkness deluge I'm convinced the series needs",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/diablo/diablo-5-is-blizzards-darkest-arpg-yet-and-thats-the-best-way-to-honor-the-game-that-changed-my-life-30-years-ago/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/vRej9gL8bKTfiC2W4JvJeW-1920-80.jpg",
+    "published_at": "2026-09-17T18:57:38.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "73ad18f3c232",
+    "slug": "new-r-rated-survival-sci-fi-officially-crowned-highest-rated-video-gam",
+    "headline": "New R-Rated Survival Sci-Fi Officially Crowned Highest-Rated Video Game Adaptation Ever",
+    "summary": "Zach Cregger's 'Resident Evil' adaptation has the highest Rotten Tomatoes rating for a movie based on a game.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/resident-evil-highest-rating-video-game-movie-rotten-tomatoes/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/17-resident-evil.JPG",
+    "published_at": "2026-09-17T18:38:17.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7785a03f2170",
+    "slug": "diablo-4s-anniversary-event-brings-back-iconic-tristram",
+    "headline": "Diablo 4's Anniversary Event Brings Back Iconic Tristram",
+    "summary": "Blizzard brings back Tristram in Diablo 4's anniversary event with impressive level of detail.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rpg/diablo-4s-anniversary-event-brings-back-the-games-most-iconic-location-and-boy-that-music-is-sending-me/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/8SSXbkPL6gSihHehE5JSF7-1920-80.jpg",
+    "published_at": "2026-09-17T18:31:37.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "diablo-4",
+    "game_label": "Diablo 4"
+  },
+  {
+    "id": "17de10359d80",
+    "slug": "two-games-announced-for-xbox-game-pass-at-tokyo-game-show-2026",
+    "headline": "Two Games Announced For Xbox Game Pass At Tokyo Game Show 2026",
+    "summary": "Xbox announces two new titles for Xbox Game Pass at Tokyo Game Show 2026, including Hope in the City and Shape of Dr",
+    "category": "deals",
+    "platform_tags": [
+      "xbox",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/two-games-announced-for-xbox-game-pass-at-tokyo-game-show-2026"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/5b87d45698341/large.jpg",
+    "published_at": "2026-09-17T18:30:00.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "hope-in-the-city",
+    "game_label": "Hope in the City"
+  },
+  {
+    "id": "5bb7bc45ffd7",
+    "slug": "roblox-movie-99-nights-in-the-forest-brings-on-oscar-winning-toy-story",
+    "headline": "Roblox Movie 99 Nights In The Forest Brings On Oscar-Winning Toy Story 4 Director",
+    "summary": "The upcoming 99 Nights in the Forest movie, based on the super-popular Roblox survival-horror game, has reportedly brought on a very big name. According to The Hollywood Reporter, 20th Century Studios--which is owned by Disney--has hired Josh Cooley to write the script. Cooley directed the Oscar-winning Pixar movie Toy Story 4. He also earned an Academy Award nomination for Inside…",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/roblox-movie-99-nights-in-the-forest-brings-on-oscar-winning-toy-story-4-director/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/99-Large.jpeg?w=300",
+    "published_at": "2026-09-17T18:22:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b79e0b291ac7",
+    "slug": "twitch-ceo-predicts-gta-6-online-multiplayer-launch-next-year",
+    "headline": "Twitch CEO Predicts GTA 6 Online Multiplayer Launch Next Year",
+    "summary": "Twitch CEO expects GTA 6's online multiplayer to launch next year, with the PC port's release date still unclear",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/twitch-ceo-expects-gta-6-online-multiplayer-will-launch-next-year-which-if-accurate-would-leave-only-the-pc-ports-arrival-point-up-in-the-air"
+      },
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-multiplayer-could-launch-in-2027-twitch-ceo-says/"
+      },
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/twitch-ceo-says-gta-6-multiplayer-will-launch-in-2027/"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/gta-6-online-mulitiplayer-next-year-says-twitch-ceo-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-17T18:19:36.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "5773925b6e5a",
+    "slug": "activision-calls-call-of-duty-modern-warfare-4-the-epic-conclusion",
+    "headline": "Activision Calls Call of Duty: Modern Warfare 4 'The Epic Conclusion',",
+    "summary": "Activision is emphasizing the concluding nature of Call of Duty: Modern Warfare 4, leaving fans wondering about the future of the franchise.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/activision-calls-call-of-duty-modern-warfare-4-the-epic-conclusion-leaving-fans-wondering-whats-next"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/05/27/cod-mp-preview-br2-1779914695480.jpg",
+    "published_at": "2026-09-17T18:09:52.000Z",
+    "hype_signal": 75,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "call-of-duty-modern-warfare-4",
+    "game_label": "Call of Duty: Modern Warfare 4"
+  },
+  {
+    "id": "674b62e04f42",
+    "slug": "the-blood-of-dawnwalker-the-kotaku-review",
+    "headline": "The Blood of Dawnwalker: The Kotaku Review",
+    "summary": "It's the best and bloodiest time-management sim disguised as a humble action RPG",
+    "category": "reviews",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/the-blood-of-dawnwalker-review-rebel-wolves-time-management-2000735308"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/dawnwalker-xanthe-review-1280x720.jpg",
+    "published_at": "2026-09-17T18:00:08.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3baa73475322",
+    "slug": "brandon-sanderson-is-eager-to-adapt-his-books-into-a-video-game-callin",
+    "headline": "Brandon Sanderson Is Eager to Adapt His Books into a Video Game, Calling Himself a 'Lifelong Gamer'",
+    "summary": "“Lifelong gamer” Brandon Sanderson details his excitement about adapting Mistborn into a video game, explaining why its magic mechanics fit naturally. But only if he can find the right studio to partner with. Any takers?",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/brandon-sanderson-is-eager-to-adapt-his-books-into-a-video-game-calling-himself-a-lifelong-gamer"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/17/mistborn-video-game-ign-3-1789650261140.png",
+    "published_at": "2026-09-17T18:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "dbbde4e5fc74",
+    "slug": "character-development-and-storytelling-in-kernel-hearts-out-now-on-xbo",
+    "headline": "Character Development and Storytelling in Kernel Hearts, Out Now on XBOX",
+    "summary": "Kernel Hearts is an action RPG about magical girls fighting angels to save the world, but it’s so much more than a punchy soundbite can explain. The game and its characters are a love letter to two cultures that have shaped the lives of the developers. Japanese culture inspired the art, the story, even the […] The post Character Development…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/09/17/character-development-and-storytelling-in-kernel-hearts/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/dbbde4e5fc74/800/600",
+    "published_at": "2026-09-17T18:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ace592482199",
+    "slug": "dragn-wash-devs-reveal-team-ico-inspiration",
+    "headline": "Drag'N Wash Devs Reveal Team Ico Inspiration",
+    "summary": "One of Steam's most recent viral hits was surprisingly influenced by Team Ico's cult classic.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/dragn-wash-devs-reveal-last-guardian-inspiration/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/drag-n-wash-is-a-narrative-game-and-there-s-a-lot-more-writing-and-story-that-was-input-here-with-consideration-to-the-creatures.jpg",
+    "published_at": "2026-09-17T17:59:49.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3e5d6aaace3d",
+    "slug": "japanese-companies-like-nintendo-capcom-and-konami-are-healthier-becau",
+    "headline": " Japanese companies like Nintendo, Capcom, and Konami are healthier because they have smaller teams, don't have frequent layoffs, and don't pay executives $30 million, says expert ",
+    "summary": "\"They didn't get swept up in the live-service trend, or into these mega-blockbusters with 500-person teams\"",
+    "category": "industry",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/japanese-companies-like-nintendo-capcom-and-konami-are-healthier-because-they-have-smaller-teams-dont-have-frequent-layoffs-and-dont-pay-executives-usd30-million-says-expert/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Auj9jiSt8UTezE9nD5pAcS-1920-80.jpg",
+    "published_at": "2026-09-17T17:55:57.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a53e5243196b",
+    "slug": "can-you-name-the-game-this-game-within-a-game-is-from",
+    "headline": " Can you name the game this game-within-a-game is from? ",
+    "summary": "If an RPG doesn't have a card game in it, do I even want to play?",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/can-you-name-the-game-this-game-within-a-game-is-from/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/cmWeLpsLg3EWkPoTMWqqz9-1920-80.jpg",
+    "published_at": "2026-09-17T17:31:19.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a87184b5ba31",
+    "slug": "the-last-of-us-game-director-says-aaa-games-have-gotten-boring-and-hes",
+    "headline": " The Last of Us game director says AAA games have gotten \"boring,\" and he's \"not excited\" looking at God of War Laufey gameplay ",
+    "summary": "\"And that's nothing against the God of War team\"",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/god-of-war/the-last-of-us-game-director-says-aaa-games-have-gotten-boring-and-hes-not-excited-looking-at-god-of-war-laufey-gameplay/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/82xZDRkJnnhS3yD6y59YN4-1920-80.jpg",
+    "published_at": "2026-09-17T17:31:05.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "0b29dc222c30",
     "slug": "brandon-sanderson-reveals-why-hed-never-take-over-game-of-thrones",
     "headline": "Brandon Sanderson Reveals Why He’d Never Take Over Game of Thrones",
@@ -169,6 +609,29 @@
     "game_label": "Fire Emblem: Fortune's Weave"
   },
   {
+    "id": "148ec720d03e",
+    "slug": "gears-of-war-e-day-on-pc-wont-let-you-play-without-a-ray-tracing-capab",
+    "headline": "Gears Of War: E-Day On PC Won’t Let You Play Without A Ray Tracing-Capable GPU",
+    "summary": "Ahead of its release next month, the official PC specs for Gears of War: E-Day have been revealed. The next game in the series has looked good in recent previews, and if you're aiming to reach a high level of fidelity, you're going to need some fairly chunky PC hardware for 4K gibs and perfect reloads. The good news is…",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gears-of-war-e-day-on-pc-wont-let-you-play-without-a-ray-tracing-capable-gpu/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/General-VRAAM.jpg?w=300",
+    "published_at": "2026-09-17T17:17:52.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "dc3dfa1b5f4c",
     "slug": "marvel-rivals-to-officially-crack-down-on-leavers-and-throwers",
     "headline": "Marvel Rivals To Officially Crack Down On Leavers And Throwers",
@@ -215,6 +678,27 @@
     "comment_count": 0,
     "game": "onimusha-way-of-the-sword",
     "game_label": "Onimusha: Way Of The Sword"
+  },
+  {
+    "id": "aee79ac317d9",
+    "slug": "gdc-expands-to-include-more-advisory-board-members",
+    "headline": "GDC expands to include more advisory board members",
+    "summary": "GDC Festival of Gaming has expanded its advisory board in the hopes of turning around its fortunes as a premier game development event in...\nThe post GDC expands to include more advisory board members appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/gdc-expands-to-include-more-advisory-board-members/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/aee79ac317d9/800/600",
+    "published_at": "2026-09-17T17:10:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "ee83c2ea8516",
@@ -438,6 +922,27 @@
     ],
     "image_url": "https://picsum.photos/seed/a3a5b658cca1/800/600",
     "published_at": "2026-09-17T16:47:42.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b08b58abeb10",
+    "slug": "ex-epic-developers-launch-the-drop-circuit-a-studio-focused-on-music-g",
+    "headline": "Ex-Epic developers launch The Drop Circuit, a studio focused on music games | exclusive",
+    "summary": "A new studio is looking to bring music-focused games into the world of user-generated content — and it’s partnering with one of the world’s leading...\nThe post Ex-Epic developers launch The Drop Circuit, a studio focused on music games | exclusive appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/ex-epic-developers-launch-the-drop-circuit-a-studio-focused-on-music-games-exclusive/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/b08b58abeb10/800/600",
+    "published_at": "2026-09-17T16:45:54.000Z",
     "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
@@ -1218,36 +1723,6 @@
     "comment_count": 0,
     "game": "valor-mortis",
     "game_label": "Valor Mortis"
-  },
-  {
-    "id": "b79e0b291ac7",
-    "slug": "twitch-ceo-predicts-gta-6-online-multiplayer-launch-next-year",
-    "headline": "Twitch CEO Predicts GTA 6 Online Multiplayer Launch Next Year",
-    "summary": "Twitch CEO expects GTA 6's online multiplayer to launch next year, with the PC port's release date still unclear",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/twitch-ceo-expects-gta-6-online-multiplayer-will-launch-next-year-which-if-accurate-would-leave-only-the-pc-ports-arrival-point-up-in-the-air"
-      },
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gta-6-multiplayer-could-launch-in-2027-twitch-ceo-says/"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/gta-6-online-mulitiplayer-next-year-says-twitch-ceo-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-17T15:42:53.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "e4afa5587c2c",
@@ -2384,6 +2859,29 @@
     "comment_count": 0,
     "game": "diablo-immortal",
     "game_label": "Diablo Immortal"
+  },
+  {
+    "id": "f17b4558643a",
+    "slug": "my-cat-scattered-games-tidy-videogame-supermarket-announced-for-pc",
+    "headline": "My Cat Scattered Games: Tidy Videogame Supermarket Announced for PC",
+    "summary": "If you're a gamer who likes organizing your physical collection and you're looking for a new cozy game to play, indie developer ODIUS and publisher Loopr Partners's My Cat Scattered Games: Tidy Videogame Supermarket might be exactly what you want. Bonus points if you like cats. My Cat Scattered Games is a literal title: your in-game cat has taken your…",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/my-cat-scattered-games-tidy-videogame-supermarket-announced-for-pc"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/16/mycatscatteredgames-trailer-blogroll-1789587600998.jpg",
+    "published_at": "2026-09-17T14:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "303a31bbdaa2",
@@ -4371,558 +4869,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "7145957b8cf1",
-    "slug": "activision-reveals-mads-mikkelsen-as-major-antagonist-in-call-of-duty",
-    "headline": "Activision reveals Mads Mikkelsen as major antagonist in Call of Duty: Modern Warfare 4",
-    "summary": "Call of Duty: Modern Warfare 4 campaign trailer reveals Death Stranding star Mads Mikkelsen as a major antagonist, alongside other unnamed characters.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-campaign-trailer-reveals-death-stranding-star-mads-mikkelsen"
-      },
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/call-of-duty-modern-warfare-4-campaign-trailer"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/7145957b8cf1/800/600",
-    "published_at": "2026-09-17T10:26:47.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "call-of-duty-modern-warfare-4",
-    "game_label": "Call of Duty: Modern Warfare 4"
-  },
-  {
-    "id": "fc924a7deb4c",
-    "slug": "kingdom-hearts-and-cyberpunk-edgerunners-officially-join-fortnite",
-    "headline": "Kingdom Hearts and Cyberpunk Edgerunners Officially Join Fortnite",
-    "summary": "Fortnite's latest update introduces cosmetic items inspired by Kingdom Hearts and Cyberpunk Edgerunners, marking a significant gaming collaboration.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/fortnite-kingdom-hearts-cyberpunk-edgerunners-update/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/kingdom-hearts-keyart-fortnite.jpg",
-    "published_at": "2026-09-17T10:25:53.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "53c6a29a8196",
-    "slug": "nodding-heads-games-releases-developer-commentary-for-3d-action-advent",
-    "headline": "Nodding Heads Games Releases Developer Commentary for 3D Action Adventure Game",
-    "summary": "Developer commentary gameplay video released for a 3D action adventure game, showcasing developer insights",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/raji-kaliyuga-developer-commentary-gameplay"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/53c6a29a8196/800/600",
-    "published_at": "2026-09-17T10:24:43.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "raji-kaliyuga",
-    "game_label": "Raji: Kaliyuga"
-  },
-  {
-    "id": "568afea92927",
-    "slug": "serenity-forge-announces-sci-fi-visual-novel-and-strategy-card-game-fa",
-    "headline": "Serenity Forge announces sci-fi visual novel and strategy card game Faraday Blues for PS5, Xbox Series, and PC",
-    "summary": "Serenity Forge has announced Faraday Blues, a science-fiction visual novel and strategy card game hybrid …",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/serenity-forge-announces-sci-fi-visual-novel-and-strategy-card-game-faraday-blues-for-ps5-xbox-series-and-pc"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/568afea92927/800/600",
-    "published_at": "2026-09-17T10:19:22.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3d88ddd7e03e",
-    "slug": "faraday-blues-rewrite-your-familys-fate-across-three-shattered-realiti",
-    "headline": "Faraday Blues: Rewrite Your Family’s Fate Across Three Shattered Realities",
-    "summary": "Hi, I’m Zhenghua Yang (Z), Founder of Serenity Forge and Game Director on Faraday Blues. If you just watched the XBOX Tokyo Game Show Broadcast, you saw the world premiere of a game we’ve kept close to our hearts for a long time. Faraday Blues is a surreal sci-fi adventure about a daughter searching for […] The post Faraday Blues:…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/09/17/xbox-tokyo-game-show-2026-faraday-blues/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/3d88ddd7e03e/800/600",
-    "published_at": "2026-09-17T10:19:20.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "23106167df61",
-    "slug": "bloomwalker-gameplay-trailer-reveals-charming-whimsical-world",
-    "headline": "Bloomwalker Gameplay Trailer Reveals Charming, Whimsical World",
-    "summary": "The Bloomwalker gameplay trailer showcases a vibrant, nature-filled world, highlighting the game's focus on healing and restoration. The game's protagonist, a guardian of nature, aims to revive a polluted land.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/09/17/xbox-tokyo-game-show-2026-bloomwalker/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/23106167df61/800/600",
-    "published_at": "2026-09-17T10:16:56.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "bloomwalker",
-    "game_label": "Bloomwalker"
-  },
-  {
-    "id": "b516a8f440fa",
-    "slug": "bloomwalker-adds-ps5-switch-2-and-switch-versions-set-in-ni-no-kuni-un",
-    "headline": "Bloomwalker adds PS5, Switch 2, and Switch versions; set in Ni no Kuni universe",
-    "summary": "Cozy crafting adventure game Bloomwalker will launch for PlayStation 5, Switch 2, and Switch alongside …",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/bloomwalker-adds-ps5-switch-2-and-switch-versions-set-in-ni-no-kuni-universe"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/b516a8f440fa/800/600",
-    "published_at": "2026-09-17T10:16:25.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6fa4e7c84610",
-    "slug": "hope-in-the-city-launches-november-10-for-xbox-series-pc",
-    "headline": "Hope in the City launches November 10 for Xbox Series, PC",
-    "summary": "Mystery adventure game Hope in the City will launch for Xbox Series and PC via …",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/hope-in-the-city-launches-november-10-for-xbox-series-pc"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/6fa4e7c84610/800/600",
-    "published_at": "2026-09-17T10:15:46.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "80a5d3d9b621",
-    "slug": "resident-evil-movie-surpasses-sonic-the-hedgehog-3-as-highest-rated-vi",
-    "headline": "Resident Evil Movie Surpasses Sonic the Hedgehog 3 as Highest-Rated Video Game Movie",
-    "summary": "The new Resident Evil film has received overwhelmingly positive reviews, with a 97% Rotten Tomatoes score, and is now the highest-rated video game movie of all time.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/resident-evil-is-now-the-highest-rated-video-game-movie-ever"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/b59a10b4a5107/large.jpg",
-    "published_at": "2026-09-17T10:15:00.000Z",
-    "hype_signal": 90,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "resident-evil",
-    "game_label": "Resident Evil"
-  },
-  {
-    "id": "fb4e49beb296",
-    "slug": "steam-just-made-5-games-100-free-to-keep",
-    "headline": "Steam Just Made 5 Games 100% Free to Keep",
-    "summary": "Steam users looking to expand their libraries with free games have five brand-new titles to claim and keep, with no strings attached.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/steam-free-keep-games-today-september-list/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/steam-five-free-games-september-2026-paid-to-f2p-gamerant.jpg",
-    "published_at": "2026-09-17T10:13:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "78406feb7814",
-    "slug": "shape-of-dreams-now-available-for-ps5-xbox-series-and-switch-2",
-    "headline": "Shape of Dreams now available for PS5, Xbox Series, and Switch 2",
-    "summary": "Publisher NEOWIZ and developer Lizard Smoothie have released roguelite action video game Shape of Dreams …",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/shape-of-dreams-now-available-for-ps5-xbox-series-and-switch-2"
-      },
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/shape-of-dreams-now-available-for-ps5-xbox-series-and-switch-2-alongside-starless-path-update"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/78406feb7814/800/600",
-    "published_at": "2026-09-17T10:10:44.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0c1de1b4c575",
-    "slug": "shape-of-dreams-launches-on-xbox-series-xs",
-    "headline": "Shape of Dreams Launches on Xbox Series X/S",
-    "summary": "Indie action roguelite Shape of Dreams is now available on Xbox Series X/S, marking a year since its initial launch and featuring its largest update yet, with over 1.5 million players entering its world since its debut.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/09/17/xbox-tokyo-game-show-2026-shape-of-dreams/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/0c1de1b4c575/800/600",
-    "published_at": "2026-09-17T10:10:40.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "shape-of-dreams",
-    "game_label": "Shape of Dreams"
-  },
-  {
-    "id": "fdcfc4915896",
-    "slug": "atlus-unveils-naoto-shirogane-trailer-for-persona-4-revival",
-    "headline": "ATLUS Unveils Naoto Shirogane Trailer for Persona 4 Revival",
-    "summary": "ATLUS has released a new trailer for Persona 4 Revival, focusing on the character Naoto Shirogane, ahead of the game's release.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/persona-4-revival-naoto-shirogane-trailer"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/fdcfc4915896/800/600",
-    "published_at": "2026-09-17T10:09:34.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "persona-4-revival",
-    "game_label": "Persona 4 Revival"
-  },
-  {
-    "id": "b8a1eb5564b0",
-    "slug": "gachiakuta-breakout-launches-in-2027",
-    "headline": "GACHIAKUTA: BREAKOUT launches in 2027",
-    "summary": "Survival action RPG GACHIAKUTA: BREAKOUT, formerly GACHIAKUTA: The Game, will launch for PlayStation 5, Xbox …",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/gachiakuta-breakout-launches-in-2027"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/b8a1eb5564b0/800/600",
-    "published_at": "2026-09-17T10:02:02.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5aec79c41fca",
-    "slug": "modern-warfare-4-tokyo-games-show-campaign-trailer",
-    "headline": "Modern Warfare 4: Tokyo Games Show Campaign Trailer",
-    "summary": "The post Modern Warfare 4: Tokyo Games Show Campaign Trailer appeared first on XBOX Wire.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/09/17/modern-warfare-4-tokyo-games-show-campaign-trailer/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/5aec79c41fca/800/600",
-    "published_at": "2026-09-17T10:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b990342342a5",
-    "slug": "guild-wars-3-dev-says-mmo-genre-is-as-big-as-it-ever-been",
-    "headline": "Guild Wars 3 Dev Says MMO Genre Is 'As Big As It Ever Been'",
-    "summary": "Guild Wars 3 developer Colin Johanson believes the MMO genre is thriving, despite common misconceptions, and that players need to broaden their definition of what an MMO is.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/guild-wars-3-dev-wants-you-to-be-able-to-take-a-break-for-months-at-a-time-and-know-youre-not-going-to-be-left-behind"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/guild-wars-3_0002_gliding.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-17T10:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "guild-wars-3",
-    "game_label": "Guild Wars 3"
-  },
-  {
-    "id": "b3aa8858573b",
-    "slug": "kingdom-hearts-invades-fortnite",
-    "headline": "Kingdom Hearts Invades Fortnite",
-    "summary": "Fortnite has added Kingdom Hearts-themed content, including cosmetics, weapons, and items like the Kingdom Key and Sea Salt Ice Cream",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/kingdom-hearts-has-invaded-fortnite-and-theres-a-lot-to-collect/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Fortnite-Kingdom-Hearts.jpg?w=300",
-    "published_at": "2026-09-17T10:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "kingdom-hearts",
-    "game_label": "Kingdom Hearts"
-  },
-  {
-    "id": "530d26c20d4f",
-    "slug": "lollipop-chainsaw-2-officially-announced-for-ps5",
-    "headline": "Lollipop Chainsaw 2 Officially Announced for PS5",
-    "summary": "Nada Holdings and Dragami Games are developing Lollipop Chainsaw 2 Back2Back, a direct sequel to the cult classic PS3 game. The game is now in development for the PS5 console.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/lollipop-chainsaw-2-officially-announced-for-ps5-early-gameplay-looks-rough-as-heck"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/38a1f46a450be/large.jpg",
-    "published_at": "2026-09-17T10:00:00.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "lollipop-chainsaw-2-back2back",
-    "game_label": "Lollipop Chainsaw 2 Back2Back"
-  },
-  {
-    "id": "0450742ceaff",
-    "slug": "zach-creggers-resident-evil-debuts-to-97-on-rotten-tomatoes-making-it",
-    "headline": " Zach Cregger's Resident Evil debuts to 97% on Rotten Tomatoes, making it the highest-rated live-action video game adaptation ever ",
-    "summary": "The Weapons director isn't playing games and delivers another great gorefest.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/entertainment/horror-movies/zach-creggers-resident-evil-debuts-to-97-percent-on-rotten-tomatoes-making-it-the-highest-rated-live-action-video-game-adaptation-ever/"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/zach-creggers-resident-evil-film-becomes-the-highest-rated-video-game-movie-in-rotten-tomatoes-history/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/k84Yjr9Y8mYBns2AELcRZ7-1280-80.jpg",
-    "published_at": "2026-09-17T09:56:46.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ae590729bac0",
-    "slug": "industry-analyst-cites-ai-impact-on-japans-gaming-job-market",
-    "headline": "Industry Analyst Cites AI Impact on Japan's Gaming Job Market",
-    "summary": "A Japanese industry analyst suggests that AI is changing the gaming job market, with certain roles declining in demand.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/background-and-prop-artists-assistant-programmers-cited-as-game-industry-jobs-most-impacted-by-generative-ai-in-japan/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/ae590729bac0/800/600",
-    "published_at": "2026-09-17T09:53:08.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f6e24e2ccbda",
-    "slug": "the-blood-of-dawnwalker-sequels-might-include-the-rpgs-controversial-t",
-    "headline": " The Blood of Dawnwalker sequels might include the RPG's controversial time limit, director confirms, but devs \"will not force it\" ",
-    "summary": "If, and only if, \"it fits, then we will use it\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/rpg/the-blood-of-dawnwalker-sequels-might-include-the-rpgs-controversial-time-limit-director-confirms-but-devs-will-not-force-it/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/89Xf2zb2qay6SHiao2WMW4-1920-80.jpg",
-    "published_at": "2026-09-17T09:50:37.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2512152eaa0b",
-    "slug": "gta-6-still-lacks-marketing-punch-despite-familiarity",
-    "headline": "GTA 6 Still Lacks Marketing Punch Despite Familiarity",
-    "summary": "Take-Two CEO Strauss Zelnick emphasizes the importance of generating excitement around Grand Theft Auto VI, even as many gamers are already familiar with the series.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-still-needs-marketing-even-if-everyones-heard-of-it-take-two-boss-says-take-awareness-and-turn-it-into-excitement/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/p5xXjN4jhguPenWLzWb6rh-1920-80.jpg",
-    "published_at": "2026-09-17T09:48:40.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-vi",
-    "game_label": "Grand Theft Auto VI"
   }
 ]
