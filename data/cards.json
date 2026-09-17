@@ -1,5 +1,401 @@
 [
   {
+    "id": "e5f2781f103a",
+    "slug": "missing-fail-states-arent-the-problem-with-marvels-wolverines-qtes-its",
+    "headline": "Missing Fail States Aren't The Problem With Marvel's Wolverine's QTEs, It's Everything Else",
+    "summary": "A video analysis of Marvel's Wolverine's quick time events, arguing that the satisfying QTEs are overshadowed by other design issues.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/missing-fail-states-arent-the-problem-with-marvels-wolverines-qtes-its-everything-else-2000735298"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/wolverine--1280x721.jpg",
+    "published_at": "2026-09-17T16:00:35.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "marvels-wolverine",
+    "game_label": "Marvel's Wolverine"
+  },
+  {
+    "id": "d4d27eb82c62",
+    "slug": "new-soulslike-game-releasing-at-budget-price",
+    "headline": "New Soulslike Game Releasing at Budget Price",
+    "summary": "A new soulslike game is launching in October at a lower price point, offering players a more affordable entry into the genre.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/valor-mortis-price-ps5-pc-xbox/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/03/valor-mortis-enemies.jpg",
+    "published_at": "2026-09-17T16:00:13.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "532f3d74f647",
+    "slug": "ranked-play-season-6-rewards-revealed-for-call-of-duty-black-ops-7-and",
+    "headline": "Ranked Play Season 6 Rewards Revealed for Call of Duty: Black Ops 7 and Warzone",
+    "summary": "The latest rewards for Call of Duty: Black Ops 7 and Warzone's Ranked Play Season 6 have been announced, offering players a chance to earn exclusive items and bragging rights.",
+    "category": "esports",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/call-of-duty-cod-black-ops-7-bo7-warzone-season-6-ranked-play-rewards-how-to-get-free-camos/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/black-ops-7-and-warzone-season-6-ranked-play.jpg",
+    "published_at": "2026-09-17T16:00:13.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "call-of-duty-black-ops-7-and-warzone",
+    "game_label": "Call of Duty: Black Ops 7 and Warzone"
+  },
+  {
+    "id": "311876caf60d",
+    "slug": "x-men-assemble-in-maximum-x-men-1-preview",
+    "headline": "X-Men assemble in Maximum X-Men #1 preview",
+    "summary": "GamesRadar+ previews the first issue of the new X-Men comic book series, set in the Marvel universe, with writer Christopher Yost commenting on the team's new direction.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/comics/marvel-comics/the-x-men-assemble-in-place-of-the-avengers-in-maximum-x-men-1-preview/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/YE8ktLJagpwDtB95XeyJuk-1920-80.jpg",
+    "published_at": "2026-09-17T16:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8958b1ffcbd0",
+    "slug": "psikyo-memories-announced-for-ps5-switch-2",
+    "headline": "Psikyo Memories announced for PS5, Switch 2",
+    "summary": "Edia has announced shoot ’em up collection Psikyo Memories for PlayStation 5 and Switch 2. …",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/psikyo-memories-announced-for-ps5-switch-2"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/8958b1ffcbd0/800/600",
+    "published_at": "2026-09-17T15:59:42.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "19505daa0134",
+    "slug": "dragon-slayer-the-legend-of-heroes-i-ii",
+    "headline": "Dragon Slayer: The Legend of Heroes I & II",
+    "summary": "Edia has announced a new RPG collection for PS5, PS4, Switch, and PC, which includes games from the Legend of Heroes series.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/dragon-slayer-the-legend-of-heroes-i-ii-announced-for-ps5-ps4-switch-and-pc"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/19505daa0134/800/600",
+    "published_at": "2026-09-17T15:59:13.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dragon-slayer-the-legend-of-heroes-i-ii",
+    "game_label": "Dragon Slayer: The Legend of Heroes I & II"
+  },
+  {
+    "id": "96bbcff02ede",
+    "slug": "toshinden-collection-for-ps5-switch-2-and-pc-announced",
+    "headline": "Toshinden Collection for PS5, Switch 2, and PC Announced",
+    "summary": "Edia has announced a fighting game collection, Toshinden Collection, for release on PS5, Switch 2, and PC.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/toshinden-collection-announced-for-ps5-switch-2-and-pc"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/96bbcff02ede/800/600",
+    "published_at": "2026-09-17T15:58:58.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "toshinden-collection",
+    "game_label": "Toshinden Collection"
+  },
+  {
+    "id": "f19b3b49eb78",
+    "slug": "pokemon-trading-card-store-denies-giving-special-treatment-to-celebrit",
+    "headline": "Pokémon Trading Card Store Denies Giving Special Treatment to Celebrities",
+    "summary": "A British Pokémon card store denied allegations of giving celebrities special treatment during a 30th Anniversary Pokémon card launch, with customers leaving negative reviews after waiting in line for hours",
+    "category": "industry",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/we-were-never-going-to-have-enough-pokemon-card-store-denies-giving-special-treatment-to-celebrities-as-angry-customers-leave-negative-reviews"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/17/gettyimages-1793540988-1789658576411.jpg",
+    "published_at": "2026-09-17T15:54:16.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3e8afcf142ce",
+    "slug": "wardogs-developer-clarifies-optional-crunch-hours",
+    "headline": "Wardogs Developer Clarifies Optional Crunch Hours",
+    "summary": "Wardogs developer Bulkhead clarifies that optional crunch hours were available but not mandatory, but admits social pressure may have affected some developers",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/fps/wardogs-boss-clarifies-the-fps-had-4-weeks-of-optional-crunch-that-devs-could-opt-out-of-but-admits-social-pressure-might-have-made-some-feel-less-than-great/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/d3QBKnWGQE3aNLhWEoXs69-1920-80.jpg",
+    "published_at": "2026-09-17T15:53:54.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "wardogs",
+    "game_label": "Wardogs"
+  },
+  {
+    "id": "bb71b01d8c70",
+    "slug": "aliens-fireteam-elite-2-switch-release-pushed-to-early-2027",
+    "headline": "Aliens: Fireteam Elite 2 Switch Release Pushed to Early 2027",
+    "summary": "Cold Iron Studios has delayed the release of Aliens: Fireteam Elite 2 for the Nintendo Switch to early 2027, citing the need for extra time to improve the game for the hardware.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/aliens-fireteam-elite-2-switch-release-suffers-last-minute-delay"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/ab9edac1793f6/large.jpg",
+    "published_at": "2026-09-17T15:45:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "aliens-fireteam-elite-2",
+    "game_label": "Aliens: Fireteam Elite 2"
+  },
+  {
+    "id": "f32e38781a6c",
+    "slug": "valor-mortis-asks-for-40-despite-offering-30-less-than-ps5-games",
+    "headline": "Valor Mortis Asks for $40 Despite Offering $30 Less Than PS5 Games",
+    "summary": "Developer One More Level claims to have created a high-quality, Soulslike game at a lower price point than a typical PS5 game.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/with-the-quality-fidelity-and-play-time-of-a-usd70-ps5-game-valor-mortis-asks-for-usd40"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/ad6dc47ae557b/large.jpg",
+    "published_at": "2026-09-17T15:45:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "valor-mortis",
+    "game_label": "Valor Mortis"
+  },
+  {
+    "id": "b79e0b291ac7",
+    "slug": "twitch-ceo-predicts-gta-6-online-multiplayer-launch-next-year",
+    "headline": "Twitch CEO Predicts GTA 6 Online Multiplayer Launch Next Year",
+    "summary": "Twitch CEO expects GTA 6's online multiplayer to launch next year, with the PC port's release date still unclear",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/twitch-ceo-expects-gta-6-online-multiplayer-will-launch-next-year-which-if-accurate-would-leave-only-the-pc-ports-arrival-point-up-in-the-air"
+      },
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-multiplayer-could-launch-in-2027-twitch-ceo-says/"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/gta-6-online-mulitiplayer-next-year-says-twitch-ceo-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-17T15:42:53.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "e4afa5587c2c",
+    "slug": "industry-vet-warns-of-doom-from-rising-development-costs-advocates-for",
+    "headline": "Industry Vet Warns of Doom from Rising Development Costs, Advocates for 'Shitty Graphics'",
+    "summary": "An industry veteran believes the next big thing in gaming needs to prioritize graphics quality over visual fidelity to avoid financial ruin due to rising development costs.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/game-development/industry-vet-who-worked-on-ultima-online-says-the-next-big-thing-needs-to-have-sh-tty-graphics-to-escape-the-doom-of-rising-development-costs/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/VQ2DoSDdKw9T4T4tm65gm5-1920-80.jpg",
+    "published_at": "2026-09-17T15:42:33.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "edd933ebd58b",
+    "slug": "the-lead-developer-of-the-ps5-linux-project-has-abandoned-ship-it-is-j",
+    "headline": " The lead developer of the PS5 Linux project has abandoned ship: 'It is just a bunch of noobs using LLMs and writing hacks they don't even understand': ",
+    "summary": "The project, apparently, is \"all down the sink.\"",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/the-lead-developer-of-the-ps5-linux-project-has-abandoned-ship-it-is-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/gTEs3oNLCVTudpKznqWavE-1920-80.jpg",
+    "published_at": "2026-09-17T15:41:26.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "89e992573d04",
+    "slug": "mads-mikkelsen-revealed-as-main-antagonist-in-call-of-duty-mw4",
+    "headline": "Mads Mikkelsen Revealed as Main Antagonist in Call of Duty: MW4",
+    "summary": "Activision has released a trailer for Call of Duty: MW4, featuring Mads Mikkelsen as the game's primary antagonist.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/call-of-duty-modern-warfare-4-mads-mikkelsen-villain/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/cod-mw4-soldiers.jpg",
+    "published_at": "2026-09-17T15:38:20.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "call-of-duty-mw4",
+    "game_label": "Call of Duty: MW4"
+  },
+  {
+    "id": "736a33baa48f",
+    "slug": "studio-ghibli-looking-cozy-sim-bloomwalker-is-now-officially-a-ni-no-k",
+    "headline": "Studio Ghibli-Looking Cozy Sim Bloomwalker Is Now Officially A Ni No Kuni Spin-Off",
+    "summary": "Netmarble's adventure-crafting game Bloomwalker will be part of the Ni No Kuni universe",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/studio-ghibli-looking-cozy-simbloomwalker-is-now-officially-a-ni-no-kuni-spin-off-2000735267"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/Bloomwalker-official-image-from-Xbox-blog-Netmarble-1280x720.jpg",
+    "published_at": "2026-09-17T15:32:40.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "af92bd66ebb0",
     "slug": "monster-hunter-wilds-ditches-character-customization-costs",
     "headline": "Monster Hunter Wilds Ditches Character Customization Costs",
@@ -28,6 +424,36 @@
     "comment_count": 0,
     "game": "monster-hunter-wilds",
     "game_label": "Monster Hunter Wilds"
+  },
+  {
+    "id": "0f8697aa7dfe",
+    "slug": "twitch-boss-says-gta-6-will-continue-to-dominate-attention-after-launc",
+    "headline": "Twitch Boss Says GTA 6 Will Continue to Dominate Attention After Launch",
+    "summary": "Twitch CEO Dan Clancy believes Grand Theft Auto 6 will maintain its grip on the internet's attention post-launch, even as the game's multiplayer mode may arrive next year.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/twitch-boss-says-game-companies-are-right-to-avoid-competing-with-gta-6-for-attention-expects-gta-online-2-next-year"
+      },
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-boss-says-pc-is-becoming-more-and-more-important/"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/08/27/gta6-trailer-4k-00-00-38-29-still001-1701962524689-1787858104520.png",
+    "published_at": "2026-09-17T15:23:56.000Z",
+    "hype_signal": 90,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "faf40f3217dc",
@@ -254,30 +680,27 @@
     "game_label": "Physint"
   },
   {
-    "id": "b79e0b291ac7",
-    "slug": "twitch-ceo-predicts-gta-6-online-multiplayer-launch-next-year",
-    "headline": "Twitch CEO Predicts GTA 6 Online Multiplayer Launch Next Year",
-    "summary": "Twitch CEO expects GTA 6's online multiplayer to launch next year, with the PC port's release date still unclear",
+    "id": "2ae07c8349a5",
+    "slug": "epic-games-store-free-pc-game",
+    "headline": "Epic Games Store Free PC Game",
+    "summary": "Epic Games Store offers a free samurai roguelike game for a limited time, available until September 24",
     "category": "deals",
     "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
+      "pc"
     ],
     "sources": [
       {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/twitch-ceo-expects-gta-6-online-multiplayer-will-launch-next-year-which-if-accurate-would-leave-only-the-pc-ports-arrival-point-up-in-the-air"
+        "name": "Polygon",
+        "url": "https://www.polygon.com/epic-games-store-free-games-9-17-2026-download/"
       }
     ],
-    "image_url": "https://assetsio.gnwcdn.com/gta-6-online-mulitiplayer-next-year-says-twitch-ceo-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-17T15:02:50.000Z",
-    "hype_signal": 80,
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/polygon-graphic-free-game-sale-banner-epic-games.jpg",
+    "published_at": "2026-09-17T15:00:56.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
+    "game": null,
+    "game_label": null
   },
   {
     "id": "180625322664",
@@ -2337,32 +2760,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "0f8697aa7dfe",
-    "slug": "twitch-boss-says-gta-6-will-continue-to-dominate-attention-after-launc",
-    "headline": "Twitch Boss Says GTA 6 Will Continue to Dominate Attention After Launch",
-    "summary": "Twitch CEO Dan Clancy believes Grand Theft Auto 6 will maintain its grip on the internet's attention post-launch, even as the game's multiplayer mode may arrive next year.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/twitch-boss-says-game-companies-are-right-to-avoid-competing-with-gta-6-for-attention-expects-gta-online-2-next-year"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/27/gta6-trailer-4k-00-00-38-29-still001-1701962524689-1787858104520.png",
-    "published_at": "2026-09-17T11:56:47.000Z",
-    "hype_signal": 90,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "21a523b4e9a6",
@@ -4524,359 +4921,5 @@
     "comment_count": 0,
     "game": "tomodachi-life",
     "game_label": "Tomodachi Life"
-  },
-  {
-    "id": "743819fa8781",
-    "slug": "dragon-quest-monsters-the-withered-world-gameplay-trailer",
-    "headline": "Dragon Quest Monsters: The Withered World ‘Gameplay’ trailer",
-    "summary": "Publisher and developer Square Enix, and developer TOSE have released a new gameplay trailer for …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/dragon-quest-monsters-the-withered-world-gameplay-trailer"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/743819fa8781/800/600",
-    "published_at": "2026-09-17T01:10:43.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "542485a00dbf",
-    "slug": "final-fantasy-resonance-tgs-2026-trailer",
-    "headline": "Final Fantasy Resonance TGS 2026 trailer",
-    "summary": "Square Enix has released the Tokyo Game Show 2026 trailer for HD-2D turn-based RPG Final …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/final-fantasy-resonance-tgs-2026-trailer"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/542485a00dbf/800/600",
-    "published_at": "2026-09-17T01:06:12.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d345a31d488a",
-    "slug": "monster-hunter-wilds-ascendance-hands-on-report-taking-on-new-monster",
-    "headline": "Monster Hunter Wilds: Ascendance hands-on report – taking on new monster Araketa and Elder Dragon Teostra",
-    "summary": "Currently in development for release in 2027, Monster Hunter Wilds: Ascendance is a massive expansion that adds new storyline, areas, monsters, actions, and Master Rank to the game. At the PlayStation booth during Tokyo Game Show 2026, we got the very first opportunity to play a hands-on demo of the title. This demo offered three […]",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "PlayStation Blog",
-        "url": "https://blog.playstation.com/2026/09/16/monster-hunter-wilds-ascendance-hands-on-report-taking-on-new-monster-araketa-and-elder-dragon-teostra/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/d345a31d488a/800/600",
-    "published_at": "2026-09-17T01:00:21.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "370fdd62aa23",
-    "slug": "a-close-quarters-look-at-proto-man-in-mega-man-dual-override",
-    "headline": "A Close Quarters Look at Proto Man in Mega Man: Dual Override",
-    "summary": "At long last, the Blue Bomber is leaping back into action with Mega Man: Dual Override. However, he’s not the only one making a return in the highly anticipated game. Capcom’s latest evolution of the Mega Man series also features a second playable character! Proto Man is making his comeback in Mega Man: Dual Override, […]",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PlayStation Blog",
-        "url": "https://blog.playstation.com/2026/09/16/a-close-quarters-look-at-proto-man-in-mega-man-dual-override/"
-      }
-    ],
-    "image_url": "https://blog.playstation.com/uploads/2028/09/e0e4d31f429cac9b712018420d241bb823c10cfa.mp4",
-    "published_at": "2026-09-17T01:00:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d365b8cbfd13",
-    "slug": "lollipop-chainsaw-back2back-coming-to-playstation-5-in-2027-a-brand-ne",
-    "headline": "Lollipop Chainsaw Back2Back coming to PlayStation 5 in 2027. A brand-new entry starring Juliet",
-    "summary": "The game will get its first playable demo during Tokyo Game Show 2026, at the Sega/Atlus booth.",
-    "category": "industry",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/lollipop-chainsaw-back2back-coming-to-playstation-5-in-2027-a-brand-new-entry-starring-juliet/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/d365b8cbfd13/800/600",
-    "published_at": "2026-09-17T01:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0d8dcd080572",
-    "slug": "pixel-art-tower-defense-game-pixelheroscramble-plus-announced-for-swit",
-    "headline": "Pixel art tower defense game PixelHeroScramble Plus announced for Switch, PC",
-    "summary": "One or EIGHT has announced PixelHeroScramble Plus, a pixel art tower defense game coming to …",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/pixel-art-tower-defense-game-pixelheroscramble-plus-announced-for-switch-pc"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/0d8dcd080572/800/600",
-    "published_at": "2026-09-17T00:24:51.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c93892ceeb49",
-    "slug": "lollipop-chainsaw-2-back2back-announced-for-ps5",
-    "headline": "Lollipop Chainsaw 2 Back2Back announced for PS5",
-    "summary": "Publishers Dragami Games and Nada Holdings, and developer JP Universe have announced Lollipop Chainsaw 2 …",
-    "category": "industry",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/lollipop-chainsaw-2-back2back-announced-for-ps5"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/c93892ceeb49/800/600",
-    "published_at": "2026-09-17T00:21:03.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5c2e404c700a",
-    "slug": "zelda-ocarina-of-time-on-switch-2-will-support-vrr-in-docked-mode",
-    "headline": "Zelda: Ocarina Of Time On Switch 2 Will Support VRR In Docked Mode",
-    "summary": "According to Nintendo's store listing.\nLast week, Nintendo launched a major firmware update for the Switch 2 system, adding VRR output in TV Mode.\nFollowing this, there's now been an exciting discovery on Nintendo's official store page for the upcoming Switch 2 release, The Legend of Zelda: Ocarina of Time.\nRead the full article on nintendolife.com",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-on-switch-2-will-support-vrr-in-docked-mode"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/88c27ec454c29/large.jpg",
-    "published_at": "2026-09-17T00:15:00.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "bb2830050edb",
-    "slug": "snap-unveils-specs-ar-glasses-after-more-than-a-decade-of-development",
-    "headline": "Snap unveils Specs AR glasses after more than a decade of development — with Specs Intelligence",
-    "summary": "Evan Spiegel, CEO of Snapchat maker Snap, unveiled the latest version of Specs glasses that use both augmented reality (AR) and AI. The glasses...\nThe post Snap unveils Specs AR glasses after more than a decade of development — with Specs Intelligence appeared first on GamesBeat.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/snap-unveils-specs-ar-glasses-after-more-than-a-decade-of-development-with-specs-intelligence/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/bb2830050edb/800/600",
-    "published_at": "2026-09-16T23:46:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0e5fb0736c94",
-    "slug": "a-32-year-old-jrpg-classic-thats-only-been-released-in-english-on-psp",
-    "headline": " A 32-year-old JRPG classic that's only been released in English on PSP is being revived for modern consoles and PC by the Lies of P publisher ",
-    "summary": "Legend of Heroes: The White Witch revival is being developed and published by Neowiz",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/jrpg/a-32-year-old-jrpg-classic-thats-only-been-released-in-english-on-psp-is-being-revived-for-modern-consoles-and-pc-by-the-lies-of-p-publisher/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/299iAqXJSVMq4Qiy6nsz2b-1280-80.jpg",
-    "published_at": "2026-09-16T23:34:05.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a0dad3c6109b",
-    "slug": "30-years-ago-a-japanese-sci-fi-fantasy-spinoff-quietly-transformed-rpg",
-    "headline": "30 Years Ago, a Japanese Sci-Fi Fantasy Spinoff Quietly Transformed RPGs Forever",
-    "summary": "Modern Atlus RPG releases might not be recognized worldwide without one amazing game that launched 30 years ago.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/30-years-ago-a-moody-atlus-spinoff-paved-the-way-for-a-massive-rpg-transformation/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/screenshot-2026-09-16-at-4-00-48-pm.jpg",
-    "published_at": "2026-09-16T23:30:17.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6d442b1de7ed",
-    "slug": "littlebigplanet-developer-reportedly-working-on-animal-crossing-like-g",
-    "headline": "LittleBigPlanet Developer Reportedly Working on Animal Crossing-Like Game for 2027 Release",
-    "summary": "LittleBigPlanet developer Media Molecule is reportedly working on a new social-sim game, similar to Animal Crossing, and it may release next year.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/littlebigplanet-developer-reportedly-working-on-animal-crossing-like-game-for-2027-release"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2023/04/17/media-molecule-co-founder-leaves-studio-1681739029354.jpg",
-    "published_at": "2026-09-16T23:05:32.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "040295fe7928",
-    "slug": "early-reviews-hail-zach-creggers-resident-evil-as-a-clever-homage-that",
-    "headline": "Early Reviews Hail Zach Cregger’s Resident Evil As A Clever Homage That Doesn’t Get Bogged Down By The Details: ‘This Is How Movies And Video Games Can Merge In A Way That Makes Them Stronger’",
-    "summary": "Fans weren't sure about the director moving beyond the source material",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/early-reviews-hail-zach-creggers-resident-evil-as-a-clever-homage-that-doesnt-get-bogged-down-by-the-details-this-is-how-movies-and-video-games-can-merge-in-a-way-that-makes-them-stronger-2000735209"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/re-movie-1280x720.jpg",
-    "published_at": "2026-09-16T23:00:20.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "760358bc843e",
-    "slug": "enter-polygons-point-it-out-giveaway",
-    "headline": "Enter Polygon's Point It Out Giveaway!",
-    "summary": "Polygon is giving away a Secretlab TITAN Evo Stealth Edition gaming chair.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/secretlab-polygon-point-it-out-giveaway-contest/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/point-it-out-title.png",
-    "published_at": "2026-09-16T23:00:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6d46362827de",
-    "slug": "preview-silver-palace-is-a-gorgeous-gothic-ps5-rpg-but-so-far-ive-play",
-    "headline": "Preview: Silver Palace Is a Gorgeous Gothic PS5 RPG, But So Far I've Played It Before",
-    "summary": "London's burning.\nOh no, here I am again writing about another upcoming free-to-play RPG that’s sure to attract some sensible comments.\nWell, look, I pressed pause on Silver Palace for over a week so you’ve had plenty of time to recover from my Ananta and Honkai: Nexus Anima reports.\nRead the full article on pushsquare.com",
-    "category": "reviews",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/previews/silver-palace-is-a-gorgeous-gothic-ps5-rpg-but-so-far-ive-played-it-before"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/3c090c9ab4431/large.jpg",
-    "published_at": "2026-09-16T23:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2f2f121efb6e",
-    "slug": "take-two-ceo-strauss-zelnick-even-with-gta-vis-global-awareness-you-st",
-    "headline": "Take-Two CEO Strauss Zelnick — Even with GTA VI’s global awareness, you still have to market it aggressively | exclusive",
-    "summary": "It might seem to be the simplest task in the world to market Grand Theft Auto VI to a crowd of gamers who are...\nThe post Take-Two CEO Strauss Zelnick — Even with GTA VI’s global awareness, you still have to market it aggressively | exclusive appeared first on GamesBeat.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/take-two-ceo-strauss-zelnick-even-with-gta-vis-global-awareness-you-still-have-to-market-it-aggressively-exclusive/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/2f2f121efb6e/800/600",
-    "published_at": "2026-09-16T22:53:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
