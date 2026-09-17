@@ -1,5 +1,96 @@
 [
   {
+    "id": "5b924c1f6f64",
+    "slug": "physint-confirms-its-lead-actor",
+    "headline": "Physint Confirms Its Lead Actor",
+    "summary": "Hideo Kojima has just announced the lead actor for his upcoming game Physint, and it's an actor horror fans will know well.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/physint-lead-actor-bill-skarsgard/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/04/physint-key-art-cover-character-zoomed.jpg",
+    "published_at": "2026-09-17T12:22:35.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "31becf30cd72",
+    "slug": "grand-theft-auto-vi-the-album-announced",
+    "headline": "Grand Theft Auto VI: The Album announced",
+    "summary": "Rockstar Games and Atlantic Records have announced Grand Theft Auto VI: The Album, a collection …",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/grand-theft-auto-vi-the-album-announced"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/31becf30cd72/800/600",
+    "published_at": "2026-09-17T12:20:27.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a185cba103e1",
+    "slug": "gta-6-the-album-announced-pre-orders-available-now",
+    "headline": "GTA 6: The Album Announced, Pre-Orders Available Now",
+    "summary": "Several tracks revealed. Rockstar Games has announced the official GTA 6 album, and it's now available for pre-order via Atlantic Records. Via the official site, you can pre-purchase the album on CD or vinyl, with the latter available in two options — a standard edition and a limited edition. You can also pre-save the album on music services like Apple…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/gta-6-the-album-announced-pre-orders-available-now"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/e05d0fb54f770/large.jpg",
+    "published_at": "2026-09-17T12:20:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9240c72347cc",
+    "slug": "adam-smasher-location-in-fortnite",
+    "headline": "Adam Smasher Location in Fortnite",
+    "summary": "Fortnite Battle Royale has introduced a new secret boss named Adam Smasher. Defeating him will reward players with Rebecca's Guns.",
+    "category": "esports",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/fortnite-rebecca-guns-adam-smasher-location/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/fortnite-how-to-get-rebecca-s-guns-adam-smasher-location.png",
+    "published_at": "2026-09-17T12:02:46.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fortnite",
+    "game_label": "Fortnite"
+  },
+  {
     "id": "cdd4509d1c50",
     "slug": "retro-anime-classic-now-free-to-stream-on-pluto-tv",
     "headline": "Retro Anime Classic Now Free to Stream on Pluto TV",
@@ -64,6 +155,94 @@
     ],
     "image_url": "https://picsum.photos/seed/ce7a78b35c42/800/600",
     "published_at": "2026-09-17T12:00:47.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f854b4856348",
+    "slug": "ea-tells-devs-its-saudi-arabia-owners-wont-make-creative-decisions-que",
+    "headline": "EA Tells Devs Its Saudi Arabia Owners Won’t Make Creative Decisions, Queer Fans Don’t Buy It",
+    "summary": "BioWare, Sims, and Apex Legends fans found belonging in games they feel they can no longer support",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/electronic-arts-saudi-arabia-acquisition-lgbtqia-mass-effect-sims-2000735185"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/ealgbt-1280x720.jpg",
+    "published_at": "2026-09-17T12:00:39.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9d7e9c6d6870",
+    "slug": "co-op-roguelite-shape-of-dreams-launches-today-on-ps5",
+    "headline": "Co-op roguelite Shape of Dreams launches today on PS5",
+    "summary": "Hi everyone, PlayStation players! I’m Eunseop Shim, developer at Lizard Smoothie. I’m thrilled to finally be sharing this news. Shape of Dreams launches today on PlayStation 5, arriving alongside The Starless Path — our 1st Anniversary Update, and the largest update we’ve ever made. Watch our newly released launch trailer first, then read on to […]",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/09/17/co-op-roguelite-shape-of-dreams-launches-today-on-ps5/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/9d7e9c6d6870/800/600",
+    "published_at": "2026-09-17T12:00:15.000Z",
+    "hype_signal": 95,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c0afe8a599bc",
+    "slug": "hyper-light-drifter-dev-lays-off-nearly-all-staff-after-publisher-pull",
+    "headline": "Hyper Light Drifter Dev Lays Off Nearly All Staff After Publisher Pulls Funding",
+    "summary": "Developer Heart Machine lays off nearly all staff after publisher pulls funding, leaving the studio's future uncertain",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/its-devastating-hyper-light-drifter-dev-lays-off-nearly-all-staff-after-publisher-pulls-funding"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/1732f37ddf4ff/large.jpg",
+    "published_at": "2026-09-17T12:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "hyper-light-drifter",
+    "game_label": "Hyper Light Drifter"
+  },
+  {
+    "id": "5441658f6299",
+    "slug": "fire-emblem-fortunes-weave-is-getting-an-infamous-gacha-gun-from-one-o",
+    "headline": " Fire Emblem: Fortune's Weave is getting an infamous gacha gun from one of the series' mobile games, and I have questions ",
+    "summary": "The gacha elements haven't been added here, but the lore implications are very funny",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/rpg/fire-emblem-fortunes-weave-is-getting-an-infamous-gacha-gun-from-one-of-the-series-mobile-games-and-i-have-questions/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/rjFbHrw8LbAKcNmENm8Fm7-1920-80.jpg",
+    "published_at": "2026-09-17T11:58:33.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -1414,6 +1593,27 @@
     "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/professor-layton-walking-through-a-busy-victorian-esque-street.jpg",
     "published_at": "2026-09-17T09:34:44.000Z",
     "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "13c114aaecc0",
+    "slug": "game-of-thrones-star-kit-harington-says-he-joined-the-harry-potter-sho",
+    "headline": " Game of Thrones star Kit Harington says he joined the Harry Potter show because he thinks it's a \"great\" idea ",
+    "summary": "Kit Harington thinks the new show \"can really explore the books at their fullest\"",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/fantasy-shows/game-of-thrones-star-kit-harington-says-he-joined-the-harry-potter-show-because-he-thinks-its-a-great-idea/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/a9hQ8bcPLVfPdLwtQigeYG-1920-80.jpg",
+    "published_at": "2026-09-17T09:30:43.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4567,203 +4767,6 @@
     "image_url": "https://cdn.mos.cms.futurecdn.net/PWk3agCj9WrURwTXyUjeLf-1280-80.jpg",
     "published_at": "2026-09-16T16:30:03.000Z",
     "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a958a15089a5",
-    "slug": "this-new-community-activity-widget-tells-you-whats-hot-right-now-on-ps",
-    "headline": "This New Community Activity Widget Tells You What's Hot Right Now on PS5",
-    "summary": "Let's take a look. In case you missed it, today saw the arrival of a new PS5 system software update, and one of the more interesting additions is the Community Activity widget for the console's Welcome page. Basically, it gives you a small glimpse at what is trending on Sony's machine, providing a little bit of insight as to what…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/this-new-community-activity-widget-tells-you-whats-hot-right-now-on-ps5"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/fcbcadb9b58c1/large.jpg",
-    "published_at": "2026-09-16T16:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "fde444811971",
-    "slug": "the-blood-of-dawnwalkers-controversial-time-mechanic-wont-necessarily",
-    "headline": "The Blood of Dawnwalker's controversial time mechanic won't necessarily be in a sequel, the game director says",
-    "summary": "The Blood of Dawnwalker director Konrad Tomaszkiewicz has told me the game's divisive time mechanic - which gives you a limited amount of time to save your family, and attaches a time-cost to every quest and notable action you do in the game - won't necessarily feature in a sequel.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-time-mechanic-sequels"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/brencis-danwalker-artwork.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-16T16:24:36.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "829120103be5",
-    "slug": "fire-emblem-fortunes-weave-metacritic-score-matches-three-houses-but-s",
-    "headline": " Fire Emblem: Fortune's Weave Metacritic score matches Three Houses, but still isn't the peak of Nintendo's strategy RPG series ",
-    "summary": "Awakening still reigns supreme",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/rpg/fire-emblem-fortunes-weave-metacritic-score-matches-three-houses-but-still-isnt-the-peak-of-nintendos-strategy-rpg-series/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/6H9S3JnndMRgCxojvHQW2E-1280-80.jpg",
-    "published_at": "2026-09-16T16:21:50.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2d1858d45168",
-    "slug": "nintendo-switch-2-is-getting-3-more-resident-evil-games-with-all-dlc",
-    "headline": "Nintendo Switch 2 Is Getting 3 More Resident Evil Games With All DLC",
-    "summary": "Capcom brings the Resident Evil series to Switch 2 in a big way, with some of the most recent games in the series coming to the system.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/resident-evil-games-nintendo-switch-2-october/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/resident-evil-games-coming-to-switch-2.jpg",
-    "published_at": "2026-09-16T16:17:52.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "34e63fa2f66e",
-    "slug": "astro-burn-now-available-on-google-play",
-    "headline": "Astro Burn Now Available on Google Play",
-    "summary": "Mobile game Astro Burn has launched on the Google Play Store, offering exclusive access to Android gamers.",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/beyond-the-pixels-and-pixel-doors-launch-astro-burn-on-google-play/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/34e63fa2f66e/800/600",
-    "published_at": "2026-09-16T16:17:49.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "astro-burn",
-    "game_label": "Astro Burn"
-  },
-  {
-    "id": "1595ae644759",
-    "slug": "snack-world-reloaded-tgs-2026-gameplay-trailer",
-    "headline": "Snack World: Reloaded – TGS 2026 gameplay trailer",
-    "summary": "LEVEL-5 has released a three-minute gameplay trailer for action RPG remake Snack World: Reloaded‘s playable …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/snack-world-reloaded-tgs-2026-gameplay-trailer"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/1595ae644759/800/600",
-    "published_at": "2026-09-16T16:12:00.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "da7b5f3c38cc",
-    "slug": "decapolice-tgs-2026-gameplay-trailer",
-    "headline": "DECAPOLICE – TGS 2026 gameplay trailer",
-    "summary": "LEVEL-5 has released a three-minute gameplay trailer for crime suspense RPG DECAPOLICE‘s playable demo at …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/decapolice-tgs-2026-gameplay-trailer"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/da7b5f3c38cc/800/600",
-    "published_at": "2026-09-16T16:11:26.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5c30a95bb6e3",
-    "slug": "call-of-duty-black-ops-dev-teases-something-that-nobodys-ever-experien",
-    "headline": "Call Of Duty: Black Ops Dev Teases “Something That Nobody’s Ever Experienced Before”",
-    "summary": "Veteran Call of Duty developer Treyarch is finishing up its work on Black Ops 7 and shifting to its next project, but what will that be? That remains to be seen, but Treyarch design director Kevin Drew said in a new Dev Talk video that it might not be what you expect. Drew said Treyarch has \"learned a lot\" working…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/call-of-duty-black-ops-dev-teases-something-that-nobodys-ever-experienced-before/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/blackops-Large.jpeg?w=300",
-    "published_at": "2026-09-16T16:10:32.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "49ad11e235a4",
-    "slug": "best-aniimo-to-twine-with-during-aniimo-together-event-explained",
-    "headline": "Best Aniimo to Twine With During Aniimo Together Event Explained",
-    "summary": "Discover the top Aniimo to Twine with for maximum rewards in the Aniimo Together Event. Optimize your gameplay today!",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/aniimo-together-event-which-to-twine-with-rewards/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/aniimo-twine-choice.jpg",
-    "published_at": "2026-09-16T16:08:53.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
