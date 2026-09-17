@@ -1,5 +1,359 @@
 [
   {
+    "id": "180625322664",
+    "slug": "epic-games-store-reveals-free-games-for-september-24",
+    "headline": "Epic Games Store Reveals Free Games for September 24",
+    "summary": "The Epic Games Store is offering $40 worth of free games on September 24, including new and returning titles.",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/epic-games-store-september-2026-free-games-mechabellum-astrea/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/epic-games-store-logo-over-mechabellum-artwork-composite.jpg",
+    "published_at": "2026-09-17T15:00:26.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "bb5ecc71273c",
+    "slug": "twitch-ceo-predicts-gta-6-will-attract-huge-viewership",
+    "headline": "Twitch CEO Predicts GTA 6 Will Attract Huge Viewership",
+    "summary": "Twitch CEO Dan Clancy expects GTA 6's launch to draw in a large audience, anticipating the inclusion of a multiplayer mode in the near future.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/twitch-ceo-expects-gta-6-will-lead-to-a-huge-influx-of-viewers-and-anticipates-multiplayer-mode-is-coming-next-year-2000735285"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/08/large-1280x720.jpg",
+    "published_at": "2026-09-17T15:00:20.000Z",
+    "hype_signal": 90,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "4503b749d731",
+    "slug": "free-play-days-sea-of-thieves-and-hell-let-loose-vietnam",
+    "headline": "Free Play Days: Sea of Thieves and Hell Let Loose Vietnam",
+    "summary": "Xbox is offering free play days for Sea of Thieves and Hell Let Loose Vietnam, starting September 17-20, exclusively for XBOX Game Pass Ultimate, Premium, and Essential members.",
+    "category": "esports",
+    "platform_tags": [
+      "xbox",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/09/17/free-play-days-09-17-2026/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/4503b749d731/800/600",
+    "published_at": "2026-09-17T15:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "hell-let-loose-vietnam",
+    "game_label": "Hell Let Loose Vietnam"
+  },
+  {
+    "id": "01dcdf757a4e",
+    "slug": "bloodstained-the-scarlet-engagement-delayed-to-2027-new-trailer-reveal",
+    "headline": "Bloodstained: The Scarlet Engagement Delayed to 2027, New Trailer Reveals Glimpses of Gameplay",
+    "summary": "Castlevania royalty Koji Igarashi's game Bloodstained: The Scarlet Engagement has been delayed to 2027, but a new trailer hints at an exciting game experience.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/delayed-to-2027-bloodstained-the-scarlet-engagement-is-looking-good-in-new-trailer"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/c7acc33110d45/large.jpg",
+    "published_at": "2026-09-17T14:45:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "bloodstained-the-scarlet-engagement",
+    "game_label": "Bloodstained: The Scarlet Engagement"
+  },
+  {
+    "id": "7594be660c16",
+    "slug": "how-to-level-up-fast-in-marvels-wolverine-best-xp-farm",
+    "headline": "How to Level Up Fast in Marvel's Wolverine (Best XP Farm)",
+    "summary": "A quick way to level up in Marvel's Wolverine is revealed, helping players reach Level 36 and unlock the Ultimate Predator Trophy.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/marvels-wolverine-best-xp-farm-level-up-fast/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/marvels-wolverine-secret-ending-repressed-memories-trophy/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/marvel-s-wolverine-max-level.jpg",
+    "published_at": "2026-09-17T14:38:46.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "marvels-wolverine",
+    "game_label": "Marvel's Wolverine"
+  },
+  {
+    "id": "60b6e8f097af",
+    "slug": "razer-unveils-affordable-kraken-v4-x-sensa-hd-haptics-headset",
+    "headline": "Razer Unveils Affordable Kraken V4 X Sensa HD Haptics Headset",
+    "summary": "Razer has released a new wired headset with haptics technology at an affordable price, targeting PC gamers with immersive audio and feedback.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/hardware/headsets-headphones/razers-new-kraken-v4-x-sensa-hd-headset-can-make-you-literally-buzz-with-excitement-alongside-your-favorite-pc-games/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/pYUPw2BqjYwSpMCqnNSmQS-1920-80.jpg",
+    "published_at": "2026-09-17T14:38:20.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "kraken-v4-x-sensa-hd-haptics",
+    "game_label": "Kraken V4 X Sensa HD Haptics"
+  },
+  {
+    "id": "8c56990eac54",
+    "slug": "hp-omen-35l-2026-review",
+    "headline": "HP Omen 35L (2026) review",
+    "summary": "PC Gamer reviews the HP Omen 35L gaming monitor, discussing its display quality, design, and performance.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/gaming-pcs/hp-omen-35l-2026-review/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/NRiuWJ8YersHWaELvtB9vj-1920-80.jpg",
+    "published_at": "2026-09-17T14:34:51.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "cf7e4c68c88d",
+    "slug": "fire-emblem-fortunes-weave-review",
+    "headline": "Fire Emblem: Fortune's Weave Review",
+    "summary": "Fire Emblem: Fortune's Weave offers an epic storyline and some of the best gameplay in the series, as players navigate a massive tactical experience",
+    "category": "reviews",
+    "platform_tags": [
+      "switch",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-review-an-embarrassment-of-riches/"
+      },
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/review/fire-emblem-fortunes-weave/"
+      },
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-review"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/fire-emblem-fortunes-weave-review"
+      },
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-review-scores/"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/round-up-the-reviews-for-fire-emblem-fortunes-weave-are-in"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-gets-a-day-one-update-here-are-the-patch-notes"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/save-10-on-fire-emblem-fortunes-weave-for-nintendo-switch-2"
+      },
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/fire-emblem-fortunes-weaves-fantastic-reviews-have-me-feeling-fomo/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/video/fire-emblem-fortunes-weave-is-massive-review-roundup/"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-beginner-tips-tricks/"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-chapter-list-how-long-to-beat/"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-recruitable-characters-all-support-level/"
+      },
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/how-long-to-beat-fire-emblem-fortunes-weave-and-part-lengths/"
+      },
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-beginner-tips-tricks/"
+      },
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/how-progress-works-in-fire-emblem-fortunes-weave-in-each-part/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/eshmel-standing-with-a-spear-with-hong-hua-in-the-background-in-fire-emblem-fortune-s-weave.jpg",
+    "published_at": "2026-09-17T14:34:15.000Z",
+    "hype_signal": 90,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fire-emblem-fortunes-weave",
+    "game_label": "Fire Emblem: Fortune's Weave"
+  },
+  {
+    "id": "2f595335131a",
+    "slug": "baldurs-gate-3s-hunger-system-cracks-me-up",
+    "headline": "Baldur's Gate 3's Hunger System Cracks Me Up",
+    "summary": "The Blood of Dawnwalker's vampiric hunger system in Baldur's Gate 3 has inspired a similar experience in the game, according to IGN.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/the-blood-of-dawnwalkers-hunger-is-a-dark-urge-to-match-baldurs-gate-3"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/17/dark-urge-blog-1789650630385.jpg",
+    "published_at": "2026-09-17T14:30:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "baldurs-gate-3",
+    "game_label": "Baldur's Gate 3"
+  },
+  {
+    "id": "7cc61d8cdf32",
+    "slug": "bloomwalker-joins-ni-no-kuni-universe",
+    "headline": "Bloomwalker Joins Ni no Kuni Universe",
+    "summary": "Netmarble's crafting adventure, Bloomwalker, is part of the Ni no Kuni universe and coming to Switch",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/the-ni-no-kuni-universe-welcomes-a-new-crafting-adventure-and-its-heading-to-switch"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/5c28076cdb829/large.jpg",
+    "published_at": "2026-09-17T14:30:00.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "bloomwalker",
+    "game_label": "Bloomwalker"
+  },
+  {
+    "id": "2e4f73510c1b",
+    "slug": "feature-25-of-the-best-discounted-games-from-xboxs-tokyo-game-show-sal",
+    "headline": "Feature: 25+ Of The Best Discounted Games From Xbox's Tokyo Game Show Sale",
+    "summary": "Ninki gēmu ga ōhaba waribiki! We've got another set of massively discounted games for you to rummage through! We love a proper sale, and right now, there's plenty of top-tier games on offer. As usual, we've been busy browsing through Xbox's current sales to find you the best deals worth nabbing. Tokyo Game Show kicked off this week, which means…",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/features/25plus-of-the-best-discounted-games-from-xboxs-tokyo-game-show-sale"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/e7d6c52bb652a/large.jpg",
+    "published_at": "2026-09-17T14:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "751b8ede1479",
+    "slug": "eu-commissions-new-kids-act-draft-targets-online-games",
+    "headline": "EU Commission's New KIDS Act Draft Targets Online Games",
+    "summary": "A proposed EU law would restrict online games sold in EU territories, affecting minors and requiring more stringent content controls.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/draft-of-new-eu-law-proposes-sweeping-restrictions-on-online-games"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/alexandre-lallemand-Pcs3mOL14Sk-unsplash.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-17T14:29:58.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "50a2c8f5c6ff",
     "slug": "all-aniipods-in-aniimo-and-how-to-get-them",
     "headline": "All Aniipods in Aniimo and How to Get Them",
@@ -92,6 +446,29 @@
     "game_label": "Wardogs"
   },
   {
+    "id": "6bb38f55b2f8",
+    "slug": "developer-admits-that-lower-game-prices-may-be-necessary-due-to-overwh",
+    "headline": "Developer Admits That Lower Game Prices May Be Necessary Due to Overwhelming Fall Release Lineup",
+    "summary": "A game developer has acknowledged that game prices might be lower this fall due to the crowded release schedule, which could impact game sales. Valor Mortis may benefit from its competitive pricing and day-one availability on Xbox Game Pass.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/games-price-is-lower-because-this-fall-is-so-packed-dev-admits/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4551962-valor-mortis.jpg?w=300",
+    "published_at": "2026-09-17T14:23:19.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "valor-mortis",
+    "game_label": "Valor Mortis"
+  },
+  {
     "id": "5ad32e0771e5",
     "slug": "valor-mortis-is-only-40-because-its-developer-knows-youll-be-choosing",
     "headline": "Valor Mortis is only $40 because its developer knows you'll be choosing from a lot of big games over this \"stacked\" autumn",
@@ -111,6 +488,29 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "a87ab264857c",
+    "slug": "metroid-prime-4-beyond-sale",
+    "headline": "Metroid Prime 4: Beyond Sale",
+    "summary": "Nintendo's Customer Appreciation Sale is offering 42% off Metroid Prime 4: Beyond on Switch, now priced at $34.99.",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/metroid-prime-4-beyond-on-switch-drops-to-35-during-nintendos-customer-appreciation-sale"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2025/12/02/prime-4-blogroll-1764652039502.jpg",
+    "published_at": "2026-09-17T14:22:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "metroid-prime-4-beyond",
+    "game_label": "Metroid Prime 4: Beyond"
   },
   {
     "id": "437c2929d9fd",
@@ -206,6 +606,27 @@
     "game_label": null
   },
   {
+    "id": "142cc7d644d7",
+    "slug": "valor-mortis-costs-40-because-of-the-craziest-fall-in-the-history-of-t",
+    "headline": "Valor Mortis Costs $40 Because of 'The Craziest Fall in the History of This Business'",
+    "summary": "Promising first-person action soulslike Valor Mortis has a confirmed $40 price point, which was settled upon by its publisher because of the fall crush fueled by GTA 6.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/valor-mortis-costs-40-because-of-the-craziest-fall-in-the-history-of-this-business"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/17/vm-1789654000214.jpg",
+    "published_at": "2026-09-17T14:14:53.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "2c4fb9c7529f",
     "slug": "steam-users-can-claim-2025-zombie-game-freebie-at-no-charge-for-a-limi",
     "headline": "Steam Users Can Claim 2025 Zombie Game Freebie At No Charge for a Limited Time",
@@ -248,6 +669,29 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "6545b81b2a44",
+    "slug": "take-two-ceo-suggests-gta-6-will-target-pc",
+    "headline": "Take-Two CEO Suggests GTA 6 Will Target PC",
+    "summary": "Take-Two CEO Strauss Zelnick hints at Grand Theft Auto VI's potential PC release, targeting platforms with a 'meaningful audience'",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-on-pc-sounds-even-more-inevitable-in-take-two-ceos-latest-comments/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/DJ5yrctKvkVPiUUuSo36xg-1920-80.jpg",
+    "published_at": "2026-09-17T14:08:35.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "6adae95e73cc",
@@ -322,6 +766,29 @@
     "game_label": "Diablo Immortal"
   },
   {
+    "id": "303a31bbdaa2",
+    "slug": "is-the-blood-of-dawnwalker-too-addictive",
+    "headline": "Is The Blood of Dawnwalker Too Addictive?",
+    "summary": "The Blood of Dawnwalker's main quest and gameplay have been shared, raising questions about the game's impact on players",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/action-rpg/im-two-weeks-into-the-blood-of-dawnwalker-and-may-have-already-damned-my-soul-is-that-good/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/jkv8mx2LtiFPdru7ymvpP8-1920-80.jpg",
+    "published_at": "2026-09-17T14:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-blood-of-dawnwalker",
+    "game_label": "The Blood of Dawnwalker"
+  },
+  {
     "id": "d8cfb0e76587",
     "slug": "cdpr-wants-the-witcher-3-remastered-to-feel-like-a-current-release",
     "headline": "CDPR Wants The Witcher 3 Remastered to Feel Like a Current Release",
@@ -366,33 +833,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "7594be660c16",
-    "slug": "how-to-level-up-fast-in-marvels-wolverine-best-xp-farm",
-    "headline": "How to Level Up Fast in Marvel's Wolverine (Best XP Farm)",
-    "summary": "A quick way to level up in Marvel's Wolverine is revealed, helping players reach Level 36 and unlock the Ultimate Predator Trophy.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/marvels-wolverine-best-xp-farm-level-up-fast/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/marvel-s-wolverine-max-level.jpg",
-    "published_at": "2026-09-17T13:59:47.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "marvels-wolverine",
-    "game_label": "Marvel's Wolverine"
   },
   {
     "id": "0d6ab628005e",
@@ -656,86 +1096,6 @@
     "comment_count": 0,
     "game": "steam-frame",
     "game_label": "Steam Frame"
-  },
-  {
-    "id": "cf7e4c68c88d",
-    "slug": "fire-emblem-fortunes-weave-review",
-    "headline": "Fire Emblem: Fortune's Weave Review",
-    "summary": "Fire Emblem: Fortune's Weave offers an epic storyline and some of the best gameplay in the series, as players navigate a massive tactical experience",
-    "category": "reviews",
-    "platform_tags": [
-      "switch",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-review-an-embarrassment-of-riches/"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/review/fire-emblem-fortunes-weave/"
-      },
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-review"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/fire-emblem-fortunes-weave-review"
-      },
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-review-scores/"
-      },
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/round-up-the-reviews-for-fire-emblem-fortunes-weave-are-in"
-      },
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-gets-a-day-one-update-here-are-the-patch-notes"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/save-10-on-fire-emblem-fortunes-weave-for-nintendo-switch-2"
-      },
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/fire-emblem-fortunes-weaves-fantastic-reviews-have-me-feeling-fomo/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/video/fire-emblem-fortunes-weave-is-massive-review-roundup/"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-beginner-tips-tricks/"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-chapter-list-how-long-to-beat/"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-recruitable-characters-all-support-level/"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/how-long-to-beat-fire-emblem-fortunes-weave-and-part-lengths/"
-      },
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-beginner-tips-tricks/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/eshmel-standing-with-a-spear-with-hong-hua-in-the-background-in-fire-emblem-fortune-s-weave.jpg",
-    "published_at": "2026-09-17T13:30:15.000Z",
-    "hype_signal": 90,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "fire-emblem-fortunes-weave",
-    "game_label": "Fire Emblem: Fortune's Weave"
   },
   {
     "id": "5ca8aedd86c0",
@@ -2878,6 +3238,32 @@
     "game_label": null
   },
   {
+    "id": "ae590729bac0",
+    "slug": "industry-analyst-cites-ai-impact-on-japans-gaming-job-market",
+    "headline": "Industry Analyst Cites AI Impact on Japan's Gaming Job Market",
+    "summary": "A Japanese industry analyst suggests that AI is changing the gaming job market, with certain roles declining in demand.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/background-and-prop-artists-assistant-programmers-cited-as-game-industry-jobs-most-impacted-by-generative-ai-in-japan/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/ae590729bac0/800/600",
+    "published_at": "2026-09-17T09:53:08.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "f6e24e2ccbda",
     "slug": "the-blood-of-dawnwalker-sequels-might-include-the-rpgs-controversial-t",
     "headline": " The Blood of Dawnwalker sequels might include the RPG's controversial time limit, director confirms, but devs \"will not force it\" ",
@@ -2923,6 +3309,27 @@
     "comment_count": 0,
     "game": "grand-theft-auto-vi",
     "game_label": "Grand Theft Auto VI"
+  },
+  {
+    "id": "e207cdd96234",
+    "slug": "village-building-isekai-action-rpg-warota-i-live-next-to-the-demon-kin",
+    "headline": "Village-building isekai action RPG “Warota: I Live Next to The Demon King’s Castle LOL” launches in Early Access on November 13",
+    "summary": "Yes, the Demon King is an idol.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/village-building-isekai-action-rpg-warota-i-live-next-to-the-demon-kings-castle-lol-launches-in-early-access-on-november-13/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/e207cdd96234/800/600",
+    "published_at": "2026-09-17T09:39:12.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "8be6029168fc",
@@ -3056,6 +3463,34 @@
     "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/new-project-2026-09-17t094440-594.jpg",
     "published_at": "2026-09-17T08:57:38.000Z",
     "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c51eba17847d",
+    "slug": "generative-ai-adoption-surges-in-japanese-game-development",
+    "headline": "Generative AI Adoption Surges in Japanese Game Development",
+    "summary": "A recent survey by CESA found that over 85% of Japanese game developers are using generative AI in their game development, up from 51% last year.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/over-85-of-japanese-game-developers-use-generative-ai-in-game-development-2026-cesa-survey-shows-an-increase-from-last-years-51/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/c51eba17847d/800/600",
+    "published_at": "2026-09-17T08:45:07.000Z",
+    "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4415,413 +4850,6 @@
     ],
     "image_url": "https://assets-prd.ignimgs.com/2026/08/06/gtaonothumb-1786018055324.png",
     "published_at": "2026-09-16T21:13:38.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d20d25dd0e21",
-    "slug": "gta-5-franklin-voice-actor-clears-the-air-after-calling-out-twitch-sta",
-    "headline": "GTA 5 Franklin Voice Actor Clears the Air After Calling Out Twitch Star Kai Cenat for Allegedly Breaking Promise to a Young Fan",
-    "summary": "The voice actor behind GTA 5’s Franklin went viral after revealing his personal disagreement with famous Twitch steamer Kai Cenat, but the two stars are on good terms again.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-5-franklin-voice-actor-clears-the-air-after-calling-out-twitch-star-kai-cenat-for-allegedly-breaking-promise-to-a-young-fan"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/16/gta-5-franklin-voice-actor-kai-cenat-1789592617062.jpg",
-    "published_at": "2026-09-16T21:05:22.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "36be3f5e7d22",
-    "slug": "endless-legend-2-dev-reflects-on-how-early-access-has-changed-nearly-1",
-    "headline": "Endless Legend 2 Dev Reflects On How Early Access Has Changed Nearly 15 Years Later: ‘People Can Be A Bit Unforgiving’",
-    "summary": "The 4x strategy game is hitting 1.0 on Steam",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/endless-legend-2-dev-reflects-on-how-early-access-has-changed-nearly-15-years-later-people-can-be-a-bit-unforgiving-2000735194"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/endless-legend-2.jpg",
-    "published_at": "2026-09-16T21:03:21.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d5673ba78318",
-    "slug": "hyper-light-drifter-dev-lays-off-nearly-everyone-at-the-studio-after-p",
-    "headline": " Hyper Light Drifter dev lays off \"nearly everyone at the studio\" after publisher backs out of new game: \"I'm not sure yet how or if Heart Machine survives\" ",
-    "summary": "\"Navigating an increasingly challenging industry has been extremely difficult\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/hyper-light-drifter-dev-lays-off-nearly-everyone-at-the-studio-after-publisher-backs-out-of-new-game-im-not-sure-yet-how-or-if-heart-machine-survives/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/xDBbJev9cmevkXhrNKvdAK-1280-80.jpg",
-    "published_at": "2026-09-16T21:02:22.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4072f268467d",
-    "slug": "hyper-light-studio-heart-machine-lays-off-nearly-everyone-after-publis",
-    "headline": " Hyper Light studio Heart Machine lays off 'nearly everyone' after publisher deal for unannounced game falls through ",
-    "summary": "Studio founder Alx Preston said he's \"not sure yet what's next for Heart Machine to survive.\"",
-    "category": "deals",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/gaming-industry/hyper-light-studio-heart-machine-lays-off-nearly-everyone-after-publisher-deal-for-unannounced-game-falls-through/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/MfakLbQTE5XHF3sM7Bbg3H-1280-80.jpg",
-    "published_at": "2026-09-16T21:01:30.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ddd8f4d11f83",
-    "slug": "battlenet-is-becoming-something-blizzard-says-it-doesnt-want-to-be",
-    "headline": "Battle.net Is Becoming Something Blizzard Says It Doesn't Want to Be",
-    "summary": "Battle.net is adding more major third-party games, and Blizzard’s own explanation may be getting harder to square with what the platform is becoming.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/battle-net-steam-epic-games-store-competition-third-party-games/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/dota-1-1.jpg",
-    "published_at": "2026-09-16T21:00:13.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b0966feb10bc",
-    "slug": "marvel-rivals-gets-free-cosmetics-update",
-    "headline": "Marvel Rivals Gets Free Cosmetics Update",
-    "summary": "Marvel Rivals is receiving a new update with free cosmetics, including a President Ozzy Venom skin.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/marvel-rivals-free-venom-skin-jeff-event/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/marvel-rivals-venom-ozzy-skin-closeup.jpg",
-    "published_at": "2026-09-16T21:00:09.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "marvel-rivals",
-    "game_label": "Marvel Rivals"
-  },
-  {
-    "id": "dc3941c23855",
-    "slug": "the-war-thunder-team-looks-back-on-14-years-of-service-from-planes-and",
-    "headline": "The War Thunder team looks back on 14 years of service: from planes and ponies to tanks, choppers, and even frontline infantry",
-    "summary": "With War Thunder gearing up to add infantry FPS gameplay after over a decade, here's why (and how) we got here",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/the-war-thunder-team-looks-back-on-14-years-of-service-from-planes-and-ponies-to-tanks-choppers-and-even-frontline-infantry/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/dc3941c23855/800/600",
-    "published_at": "2026-09-16T20:56:36.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "81de092403ae",
-    "slug": "heart-machine-lays-off-nearly-everyone-at-the-studio-following-cancell",
-    "headline": "Heart Machine lays off “nearly everyone at the studio” following cancellation of unannounced title",
-    "summary": "Heart Machine, the studio behind Hyper Light Drifter, Solar Ash, Possessor(s), and the still-in-Early Access Hyper Light Breaker, has …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/heart-machine-lays-off-nearly-everyone-at-the-studio-following-cancellation-of-unannounced-title"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/81de092403ae/800/600",
-    "published_at": "2026-09-16T20:46:14.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6eba72fe1a43",
-    "slug": "raven2-zero-lets-players-enter-an-apocalyptic-mmorpg-where-growth-is-t",
-    "headline": "RAVEN2 - ZERO Lets Players Enter an Apocalyptic MMORPG Where Growth Is Tied to Gameplay",
-    "summary": "RAVEN2 - ZERO Lets Players Enter an Apocalyptic MMORPG Where Growth Is Tied to Gameplay",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/raven2-zero-lets-players-enter-an-apocalyptic-mmorpg-where-growth-is-tied-to-gameplay"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/16/thumbnail-1789587360967.jpg",
-    "published_at": "2026-09-16T20:30:48.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5409e4f0f7c9",
-    "slug": "shinji-mikami-to-join-aias-hall-of-fame",
-    "headline": "Shinji Mikami to join AIAS Hall of Fame",
-    "summary": "The AIAS has announced that Shinji Mikami, creator of Resident Evil, will be inducted into its Hall of Fame next year.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-later-this-week"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/ss_e4508c17151714d5d4f80cd31bdcacf0caf5559c.1920x1080.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-16T20:21:48.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "aias-hall-of-fame",
-    "game_label": "AIAS Hall of Fame"
-  },
-  {
-    "id": "cfbe28d7db34",
-    "slug": "bungie-rejects-destiny-2-merge-rumors",
-    "headline": "Bungie Rejects Destiny 2 Merge Rumors",
-    "summary": "Bungie has denied rumors of a potential merge with Destiny 2, urging players to 'please don't believe everything' they read online.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/fps/marathon-creative-director-shoots-down-rumored-merge-with-destiny-2-please-dont-believe-everything-you-read-online/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/3XtvmdaPXVLBQm24AsTABj-1280-80.jpg",
-    "published_at": "2026-09-16T20:20:16.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2d475c0e54a6",
-    "slug": "the-most-terrifying-cutscenes-in-horror-games",
-    "headline": "The Most Terrifying Cutscenes In Horror Games",
-    "summary": "From brutal opening scenes to establishing some of the most iconic monsters of all time, these horror cutscenes do a lot of heavy lifting.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/scariest-most-terrifying-cutscenes-horror-games/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/most-terrifying-cutscenes-in-horror-games.jpg",
-    "published_at": "2026-09-16T20:15:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9c5057aee4ca",
-    "slug": "microsoft-flight-simulator-2024-adds-7449-airbus-a380-dlc",
-    "headline": "Microsoft Flight Simulator 2024 Adds $74.49 Airbus A380 DLC",
-    "summary": "Microsoft Flight Simulator 2024 has released a new plane, the Airbus A380, for $74.49 in the Flight Simulator Marketplace. It's available on PC, Xbox Series X|S, and PS5 for three months.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/microsoft-flight-simulator-2024-releases-single-new-plane-dlc-that-costs-7449"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/16/flightsimulator2024-txuv9y1ybl-scaled-1789589057032.png",
-    "published_at": "2026-09-16T20:00:24.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "microsoft-flight-simulator-2024",
-    "game_label": "Microsoft Flight Simulator 2024"
-  },
-  {
-    "id": "d987c8d7d8bb",
-    "slug": "baldurs-gate-3-console-update-adds-recruitable-goblin-villain",
-    "headline": "Baldur's Gate 3 Console Update Adds Recruitable Goblin Villain",
-    "summary": "Larian Studios has released a major update for Baldur's Gate 3 on console platforms, adding a new playable character and several game-changing options.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/bg3-new-console-mods-september-2026/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/shadowheart-tattoos-bg3.jpg",
-    "published_at": "2026-09-16T20:00:15.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "baldurs-gate-3",
-    "game_label": "Baldur's Gate 3"
-  },
-  {
-    "id": "c30177153c7b",
-    "slug": "trails-in-the-sky-2nd-chapter-remake-soars-to-top-of-2026s-metacritic",
-    "headline": "Trails in the Sky 2nd Chapter Remake Soars to Top of 2026's Metacritic Rankings",
-    "summary": "A remake of the 20-year-old cult JRPG Trails in the Sky 2nd Chapter has become the best-rated game of 2026 according to Metacritic, outpacing other highly anticipated titles.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/jrpg/a-remake-of-a-20-year-old-cult-jrpg-is-now-the-best-rated-game-of-2026-pushing-aside-resident-evil-requiem-pokemon-pokopia-and-more/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/3vmRAG4yjJF349dPsuzdSH-1280-80.jpg",
-    "published_at": "2026-09-16T19:53:45.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "trails-in-the-sky-2nd-chapter",
-    "game_label": "Trails in the Sky 2nd Chapter"
-  },
-  {
-    "id": "c016b69bfb89",
-    "slug": "studio-behind-hyper-light-drifter-in-peril",
-    "headline": "Studio Behind Hyper Light Drifter in Peril",
-    "summary": "Development studio Heart Machine is facing financial struggles after a publisher pulled funding from an unannounced project",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/studio-behind-hyper-light-drifter-in-peril-after-publisher-withdraws-funding-for-unannounced-project"
-      }
-    ],
-    "image_url": "https://assets1.ignimgs.com/2018/09/15/hld-screenshot-01-rise-1080-1536975370430.png",
-    "published_at": "2026-09-16T19:46:54.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c9ce74221047",
-    "slug": "the-best-videogame-movie-ever-the-first-reviews-of-zach-creggers-resid",
-    "headline": " 'The best videogame movie' ever? The first reviews of Zach Cregger's Resident Evil adaptation are absolutely glowing ",
-    "summary": "Low bar to clear, but still.",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/movies-tv/multiple-reviews-call-resident-evil-the-best-videogame-movie-ever/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/P8WEMsWCdYzBHfgZnNzgNQ-1280-80.jpg",
-    "published_at": "2026-09-16T19:42:30.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f46ab7ee7ca3",
-    "slug": "denuvo-is-suing-a-prolific-game-pirate-but-they-dont-seem-worried-at-a",
-    "headline": "Denuvo Is Suing A Prolific Game Pirate But They Don’t Seem Worried At All",
-    "summary": "The DRM maker is trying to figure out who the pirate it is and wants to stop them from bypassing its software in games like Doom and Hogwarts Legacy",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/denuvo-is-suing-a-prolific-game-pirate-but-they-dont-seem-worried-at-all-2000735162"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2025/04/p97rvy0sszefssxrmopt-1280x720.jpg",
-    "published_at": "2026-09-16T19:36:48.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
