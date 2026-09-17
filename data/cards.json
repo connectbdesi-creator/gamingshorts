@@ -1,5 +1,49 @@
 [
   {
+    "id": "0450742ceaff",
+    "slug": "zach-creggers-resident-evil-debuts-to-97-on-rotten-tomatoes-making-it",
+    "headline": " Zach Cregger's Resident Evil debuts to 97% on Rotten Tomatoes, making it the highest-rated live-action video game adaptation ever ",
+    "summary": "The Weapons director isn't playing games and delivers another great gorefest.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/horror-movies/zach-creggers-resident-evil-debuts-to-97-percent-on-rotten-tomatoes-making-it-the-highest-rated-live-action-video-game-adaptation-ever/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/k84Yjr9Y8mYBns2AELcRZ7-1280-80.jpg",
+    "published_at": "2026-09-17T08:25:26.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d48fd7c3dc31",
+    "slug": "ps5-firmware-update-removes-community-activity-from-beta",
+    "headline": "PS5 Firmware Update Removes Community Activity from Beta",
+    "summary": "A new PlayStation 5 firmware update has been released, removing Community Activity from beta testing after a month of testing and changes to the update's change log.",
+    "category": "patches",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/ps5-firmware-update-14-00-00-community-activity-missing-feature"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/ps5pro_5gw0RGb.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-17T08:16:11.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "6c42e3fcd04b",
     "slug": "final-fantasy-vii-revelation-hands-on-report-into-the-whirlwind-maze-w",
     "headline": "Final Fantasy VII Revelation hands-on report: Into the Whirlwind Maze where Sephiroth awaits",
@@ -17,6 +61,29 @@
     "image_url": "https://picsum.photos/seed/6c42e3fcd04b/800/600",
     "published_at": "2026-09-17T08:00:09.000Z",
     "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a6c4d1f0589a",
+    "slug": "live-watch-xboxs-tokyo-game-show-2026-showcase-here",
+    "headline": "Live: Watch Xbox's Tokyo Game Show 2026 Showcase Here",
+    "summary": "The latest official 50-minute showcase from Xbox! Hello, and welcome to the Xbox Tokyo Game Show 2026 showcase! This event will feature upcoming first-party and third-party games targeted towards a Japanese audience, and we'll also likely get some Xbox Game Pass surprises! \"Join us for the XBOX Tokyo Game Show 2026 Broadcast as we feature exciting updates from our partners…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/live-watch-xboxs-tokyo-game-show-2026-showcase-here"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/8e3845fb1cd5b/large.jpg",
+    "published_at": "2026-09-17T08:00:00.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4597,75 +4664,5 @@
     "comment_count": 0,
     "game": "the-hunger-games-sunrise-on-the-reaping",
     "game_label": "The Hunger Games: Sunrise on the Reaping"
-  },
-  {
-    "id": "db12da440591",
-    "slug": "mindseye-developer-shuts-down-one-year-after-disastrous-launch",
-    "headline": "MindsEye Developer Shuts Down One Year After Disastrous Launch",
-    "summary": "After a year of baffling game updates, layoffs, and legal action, MindsEye developer Build A Rocket Boy is seemingly shutting down.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/build-a-rocket-boy-mindseye-developer-shut-down/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/02/the-main-character-from-mindseye-the-image-is-a-close-up-under-orange-light.jpg",
-    "published_at": "2026-09-16T13:14:41.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "478139e15022",
-    "slug": "were-trying-to-make-it-easier-valve-confirm-the-steam-frame-is-just-th",
-    "headline": "\"We're trying to make it easier\": Valve confirm the Steam Frame is just the start of plans to get Steam games working on compatibility-challenged ARM PCs",
-    "summary": "The Steam Frame, unfortunately RAM shortage-ravaged as it is, is unique among virtual reality headsets for its ability to run Steam games – VR or 'flat' alike – entirely on its own, internal compute hardware. It is, in effect, a SteamOS PC for your face. Yet as I waxed about in our review, this feature’s impact could extend far beyond…",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/were-trying-to-make-it-easier-valve-confirm-the-steam-frame-is-just-the-start-of-plans-to-get-steam-games-working-on-compatibility-challenged-arm-pcs"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Steam-Frame-and-controller.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-16T13:01:35.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "13a9b1357ff5",
-    "slug": "zero-parades-directors-cut-revealed-and-ps5-edition-release-date-annou",
-    "headline": "Zero Parades: Director’s Cut Revealed And PS5 Edition Release Date Announced",
-    "summary": "Following the release of Zero Parades in May, developer ZA/UM Studio has announced a Director's Cut version, and it's coming soon as a free update for everyone, while the game's console edition is launching in November. The Director's Cut will release on October 1, while the PS4 version will release on November 3. The game has not been confirmed for…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/zero-parades-directors-cut-revealed-and-ps5-edition-release-date-announced/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-15-at-11.27.16-AM.png?w=300",
-    "published_at": "2026-09-16T13:00:31.000Z",
-    "hype_signal": 100,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
