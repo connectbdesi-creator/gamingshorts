@@ -47,6 +47,29 @@
     "game_label": null
   },
   {
+    "id": "5c2e404c700a",
+    "slug": "zelda-ocarina-of-time-on-switch-2-will-support-vrr-in-docked-mode",
+    "headline": "Zelda: Ocarina Of Time On Switch 2 Will Support VRR In Docked Mode",
+    "summary": "According to Nintendo's store listing.\nLast week, Nintendo launched a major firmware update for the Switch 2 system, adding VRR output in TV Mode.\nFollowing this, there's now been an exciting discovery on Nintendo's official store page for the upcoming Switch 2 release, The Legend of Zelda: Ocarina of Time.\nRead the full article on nintendolife.com",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-on-switch-2-will-support-vrr-in-docked-mode"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/88c27ec454c29/large.jpg",
+    "published_at": "2026-09-17T00:15:00.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "bb2830050edb",
     "slug": "snap-unveils-specs-ar-glasses-after-more-than-a-decade-of-development",
     "headline": "Snap unveils Specs AR glasses after more than a decade of development — with Specs Intelligence",
@@ -4623,31 +4646,5 @@
     "comment_count": 0,
     "game": "company-of-heroes-3",
     "game_label": "Company of Heroes 3"
-  },
-  {
-    "id": "c6606bf0c397",
-    "slug": "marvels-wolverine-new-game-plus-unlocked",
-    "headline": "Marvel's Wolverine New Game Plus Unlocked",
-    "summary": "Marvel's Wolverine has introduced New Game Plus, an extended gameplay experience where players can replay the game with unlocked power and new challenges.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/marvels-wolverine-new-game-plus-guide/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/marvel-s-wolverine-new-game-plus-guide.jpg",
-    "published_at": "2026-09-16T11:22:51.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "marvels-wolverine",
-    "game_label": "Marvel's Wolverine"
   }
 ]
