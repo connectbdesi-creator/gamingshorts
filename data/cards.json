@@ -57,6 +57,10 @@
       {
         "name": "Polygon",
         "url": "https://www.polygon.com/fire-emblem-fortunes-weave-chapter-list-how-long-to-beat/"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-recruitable-characters-all-support-level/"
       }
     ],
     "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/eshmel-standing-with-a-spear-with-hong-hua-in-the-background-in-fire-emblem-fortune-s-weave.jpg",
@@ -66,6 +70,31 @@
     "comment_count": 0,
     "game": "fire-emblem-fortunes-weave",
     "game_label": "Fire Emblem: Fortune's Weave"
+  },
+  {
+    "id": "2f1bd03e1aa6",
+    "slug": "solo-leveling-karma-cinematic-trailer",
+    "headline": "Solo Leveling: KARMA ‘Cinematic’ trailer",
+    "summary": "Publisher Netmarble and developer Netmarble Neo have released the cinematic trailer for roguelite action RPG …",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/solo-leveling-karma-cinematic-trailer"
+      },
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/solo-leveling-karma-game-overview-and-cinematic-trailers"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/2f1bd03e1aa6/800/600",
+    "published_at": "2026-09-17T04:00:54.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "300bcecbeb7f",
@@ -135,27 +164,6 @@
     "image_url": "https://picsum.photos/seed/f5a864ed6918/800/600",
     "published_at": "2026-09-17T03:12:34.000Z",
     "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2f1bd03e1aa6",
-    "slug": "solo-leveling-karma-cinematic-trailer",
-    "headline": "Solo Leveling: KARMA ‘Cinematic’ trailer",
-    "summary": "Publisher Netmarble and developer Netmarble Neo have released the cinematic trailer for roguelite action RPG …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/solo-leveling-karma-cinematic-trailer"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/2f1bd03e1aa6/800/600",
-    "published_at": "2026-09-17T03:00:54.000Z",
-    "hype_signal": 65,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
