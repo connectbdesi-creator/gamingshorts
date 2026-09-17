@@ -1,5 +1,338 @@
 [
   {
+    "id": "ee234dc329f2",
+    "slug": "18-stunning-cosplay-outfits-from-japans-comiket-convention",
+    "headline": "18 Stunning Cosplay Outfits From Japan’s Comiket Convention",
+    "summary": "The biennial doujinshi con sees some incredible fits from anime, manga, and gaming",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/cosplay-gallery-japan-comiket-convention-mineralblu-league-of-legends-2000735106"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/main-1280x720.jpg",
+    "published_at": "2026-09-17T13:00:41.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "cc33b968e03a",
+    "slug": "makers-of-top-rpgs-urge-players-to-suffer",
+    "headline": "Makers of Top RPGs Urge Players to Suffer",
+    "summary": "Game developers encourage players to stop saving and experience failure to enhance storytelling in RPGs",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/if-the-player-trusts-you-enough-they-are-not-going-to-savescum-why-the-makers-of-some-of-the-best-rpgs-on-pc-want-you-to-get-used-to-failing"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/planescape-torment-morte.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-17T13:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "divinity-2",
+    "game_label": "Divinity 2"
+  },
+  {
+    "id": "01c2b21c7b5b",
+    "slug": "nex-playground-secures-150m-in-funding",
+    "headline": "Nex Playground Secures $150M in Funding",
+    "summary": "Family-friendly console manufacturer Nex Playground has secured $150 million in funding as its sales of its active console exceed one million units.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/nex-playground-announces-150m-in-new-funding-as-hardware-sales-pass-one-million"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Nex-Playground-console-on-stand.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-17T13:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "nex-playground",
+    "game_label": "Nex Playground"
+  },
+  {
+    "id": "446b0ca8e1e6",
+    "slug": "nex-playground-to-launch-in-germany",
+    "headline": "Nex Playground to Launch in Germany",
+    "summary": "Nex Playground, a micro-console with over 1 million units sold, is expanding globally with a fresh investment and leadership team. It will release in Germany later this year.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/every-major-publisher-has-approached-us-to-review-their-old-kinect-and-wii-catalogue-nex-playground-is-spoilt-for-choice-as-its-international-rollout-continues"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/nex-playground-(1).jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-17T13:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e8ea048b2b42",
+    "slug": "gta-6-original-soundtrack-unveiled-with-34-tracks",
+    "headline": "GTA 6 Original Soundtrack Unveiled with 34 Tracks",
+    "summary": "Eurogamer reports that Grand Theft Auto 6's original soundtrack features 34 new tracks from multiple real-world artists, with six available to stream now.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/gta-6-original-soundtrack-six-track-preview"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/gta-6-official-soundtrack-album-covber-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-17T12:57:37.000Z",
+    "hype_signal": 75,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "cf7e4c68c88d",
+    "slug": "fire-emblem-fortunes-weave-review",
+    "headline": "Fire Emblem: Fortune's Weave Review",
+    "summary": "Fire Emblem: Fortune's Weave offers an epic storyline and some of the best gameplay in the series, as players navigate a massive tactical experience",
+    "category": "reviews",
+    "platform_tags": [
+      "switch",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-review-an-embarrassment-of-riches/"
+      },
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/review/fire-emblem-fortunes-weave/"
+      },
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-review"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/fire-emblem-fortunes-weave-review"
+      },
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-review-scores/"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/round-up-the-reviews-for-fire-emblem-fortunes-weave-are-in"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-gets-a-day-one-update-here-are-the-patch-notes"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/save-10-on-fire-emblem-fortunes-weave-for-nintendo-switch-2"
+      },
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/fire-emblem-fortunes-weaves-fantastic-reviews-have-me-feeling-fomo/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/video/fire-emblem-fortunes-weave-is-massive-review-roundup/"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-beginner-tips-tricks/"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-chapter-list-how-long-to-beat/"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-recruitable-characters-all-support-level/"
+      },
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/how-long-to-beat-fire-emblem-fortunes-weave-and-part-lengths/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/eshmel-standing-with-a-spear-with-hong-hua-in-the-background-in-fire-emblem-fortune-s-weave.jpg",
+    "published_at": "2026-09-17T12:51:33.000Z",
+    "hype_signal": 90,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fire-emblem-fortunes-weave",
+    "game_label": "Fire Emblem: Fortune's Weave"
+  },
+  {
+    "id": "f74e10eae9ce",
+    "slug": "how-to-play-classic-arcade-games-in-fortnite",
+    "headline": "How to Play Classic Arcade Games in Fortnite",
+    "summary": "Fortnite has added arcade cabinets with classic games like Pong and Asteroids, playable during battle royale matches.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/fortnite-update-adds-playable-arcade-games/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/new-project-2026-09-17t133030-391.jpg",
+    "published_at": "2026-09-17T12:44:47.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "4a998ab1387a",
+    "slug": "kojima-productions-xbox-exclusive-game-stars-bill-skarsgord",
+    "headline": "Kojima Production's Xbox Exclusive Game Stars Bill Skarsgórd",
+    "summary": "Kojima Production's Xbox-exclusive game is making steady progress, with Bill Skarsgard leading the way",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/kojima-says-physint-is-making-steady-progress-and-stars-bill-skarsgard-in-first-update-since-switching-to-xbox-2000735260"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/Physint-Bill-Skarsgard-image-from-trailer-Hideo-Kojima-on-X-Microsoft-1280x720.jpg",
+    "published_at": "2026-09-17T12:39:06.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "kojima-productions-xbox-exclusive-game",
+    "game_label": "Kojima Production's Xbox Exclusive Game"
+  },
+  {
+    "id": "b5e5f892ad63",
+    "slug": "rockstar-set-to-release-gta-6-soundtrack-on-physical-cd-and-vinyl-in-n",
+    "headline": "Rockstar Set to Release GTA 6 Soundtrack on Physical CD and Vinyl in November",
+    "summary": "Rockstar Games has confirmed a physical release of the Grand Theft Auto 6 soundtrack, with details emerging about the release date and format.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-leak-reveals-physical-release-for-its-music-album"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-soundtrack-album-physical-release/"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/08/27/mega-3-1787855175829.jpeg",
+    "published_at": "2026-09-17T12:36:54.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto",
+    "game_label": "Grand Theft Auto"
+  },
+  {
+    "id": "be683317086a",
+    "slug": "fortnite-blinky-sprite-location-guide",
+    "headline": "Fortnite Blinky Sprite Location Guide",
+    "summary": "Fortnite has introduced Pac-Man Ghosts, allowing players to obtain the Blinky Sprite. Here's a step-by-step guide to getting a guaranteed Blinky Sprite.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/fortnite-blinky-sprite-location-how-to-get-effect-pac-man-ghost-locations/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/pinky-sprite-locations-in-fortnite.jpg",
+    "published_at": "2026-09-17T12:33:12.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fortnite",
+    "game_label": "Fortnite"
+  },
+  {
+    "id": "45a15cbc6cde",
+    "slug": "theres-a-new-ni-no-kuni-game-kind-of-and-its-now-confirmed-for-ps5",
+    "headline": "There's a New Ni no Kuni Game, Kind of, and It's Now Confirmed for PS5",
+    "summary": "Bloomwalker drops Xbox exclusivity. Bloomwalker, a Studio Ghibli-looking adventure from South Korean developer Netmarble, was announced for Xbox and PC last year — and now we've got confirmation that it's also coming to PS5. The game's a mix of exploration and crafting, as you clean away a kind of corruption from its open world. You'll also enlist the help of…",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/theres-a-new-ni-no-kuni-game-kind-of-and-its-now-confirmed-for-ps5"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/cf27edd765b6c/large.jpg",
+    "published_at": "2026-09-17T12:30:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "5b924c1f6f64",
     "slug": "physint-confirms-its-lead-actor",
     "headline": "Physint Confirms Its Lead Actor",
@@ -57,6 +390,27 @@
     "image_url": "https://images.pushsquare.com/e05d0fb54f770/large.jpg",
     "published_at": "2026-09-17T12:20:00.000Z",
     "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5184ab7424b7",
+    "slug": "gta-6-the-album-gets-a-physical-release-even-though-the-game-wont",
+    "headline": "GTA 6 The Album Gets A Physical Release, Even Though The Game Won’t",
+    "summary": "Rockstar Games has officially announced Grand Theft Auto 6: The Album. The 34-song collection includes original music from people like Keith Richards, Yung Lean, Morgan Wallen, Rauw Alejandro, and more. Rockstar is releasing the album in partnership with Atlantic Records. In addition to a lot of brand-new songs, GTA 6 will feature famous licensed music as well. Check out GameSpot's…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-the-album-announced-and-itll-be-on-physical-media/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-17-at-8.11.35-AM.png?w=300",
+    "published_at": "2026-09-17T12:12:24.000Z",
+    "hype_signal": 65,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -432,6 +786,27 @@
     "image_url": "https://images.purexbox.com/849c6fbe8e969/large.jpg",
     "published_at": "2026-09-17T11:26:00.000Z",
     "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a02c427882a9",
+    "slug": "brawl-stars-and-duolingos-mascots-face-off-in-new-collaboration",
+    "headline": "Brawl Stars’ and Duolingo’s mascots face off in new collaboration",
+    "summary": "Brawl Stars and Duolingo debuted a global in-app face-off that brings the green mascots, the Duo Owl and Spike, into each other’s worlds. \nThe post Brawl Stars’ and Duolingo’s mascots face off in new collaboration appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/brawl-stars-and-duolingos-mascots-face-off-in-new-collaboration/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/a02c427882a9/800/600",
+    "published_at": "2026-09-17T11:16:46.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -1325,6 +1700,10 @@
       {
         "name": "Gematsu",
         "url": "https://www.gematsu.com/2026/09/shape-of-dreams-now-available-for-ps5-xbox-series-and-switch-2"
+      },
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/shape-of-dreams-now-available-for-ps5-xbox-series-and-switch-2-alongside-starless-path-update"
       }
     ],
     "image_url": "https://picsum.photos/seed/78406feb7814/800/600",
@@ -1980,78 +2359,6 @@
     "comment_count": 0,
     "game": "switch-2",
     "game_label": "Switch 2"
-  },
-  {
-    "id": "cf7e4c68c88d",
-    "slug": "fire-emblem-fortunes-weave-review",
-    "headline": "Fire Emblem: Fortune's Weave Review",
-    "summary": "Fire Emblem: Fortune's Weave offers an epic storyline and some of the best gameplay in the series, as players navigate a massive tactical experience",
-    "category": "reviews",
-    "platform_tags": [
-      "switch",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-review-an-embarrassment-of-riches/"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/review/fire-emblem-fortunes-weave/"
-      },
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-review"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/fire-emblem-fortunes-weave-review"
-      },
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-review-scores/"
-      },
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/round-up-the-reviews-for-fire-emblem-fortunes-weave-are-in"
-      },
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-gets-a-day-one-update-here-are-the-patch-notes"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/save-10-on-fire-emblem-fortunes-weave-for-nintendo-switch-2"
-      },
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/fire-emblem-fortunes-weaves-fantastic-reviews-have-me-feeling-fomo/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/video/fire-emblem-fortunes-weave-is-massive-review-roundup/"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-beginner-tips-tricks/"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-chapter-list-how-long-to-beat/"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-recruitable-characters-all-support-level/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/eshmel-standing-with-a-spear-with-hong-hua-in-the-background-in-fire-emblem-fortune-s-weave.jpg",
-    "published_at": "2026-09-17T04:01:15.000Z",
-    "hype_signal": 90,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "fire-emblem-fortunes-weave",
-    "game_label": "Fire Emblem: Fortune's Weave"
   },
   {
     "id": "2f1bd03e1aa6",
@@ -4485,291 +4792,5 @@
     "comment_count": 0,
     "game": "nighthawks",
     "game_label": "Nighthawks"
-  },
-  {
-    "id": "253901e3ced1",
-    "slug": "15-years-ago-people-understood-it-was-an-unfinished-game-as-endless-le",
-    "headline": "\"15 years ago, people understood it was an unfinished game\": As Endless Legend 2 hits 1.0, Amplitude reflect on how early access has changed",
-    "summary": "Amplitude have always used early access for their games, even before Steam Early Access was a thing. Ahead of Endless Space's release in July 2012, players who preordered the game got immediate access to an alpha build that was steadily patched and updated on the lead up to launch. To this day, the studio still uses its Games2Gether program, where…",
-    "category": "patches",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/15-years-ago-people-understood-it-was-an-unfinished-game-as-endless-legend-2-hits-10-amplitude-reflect-on-how-early-access-has-changed"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/endless-legend-2-key-art.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-16T16:57:25.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5fcd7bfe4cc5",
-    "slug": "wardogs-outpacing-arc-raiders-and-helldivers-2-on-steam-and-has-alread",
-    "headline": "Wardogs Outpacing Arc Raiders and Helldivers 2 on Steam and Has Already Made More Money Than Marathon Across All Platforms to Date, Analysis Shows",
-    "summary": "Breakout hit Wardogs is outpacing Arc Raiders and Helldivers 2 on Steam in terms of copies sold at launch, new data shows.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/wardogs-outpacing-arc-raiders-and-helldivers-2-on-steam-and-has-already-made-more-money-than-marathon-across-all-platforms-to-date-analysis-shows"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/16/ss-672d7ce9debe7a3bcfa5feee5fccc3d8b482b13e-1920x1080-1789577487431.jpg",
-    "published_at": "2026-09-16T16:53:04.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3fd5dc0ddaa3",
-    "slug": "terranigma-lives-again-in-style",
-    "headline": "Terranigma Lives Again in Style",
-    "summary": "Square Enix is releasing a collector's edition of the beloved SNES JRPG Terranigma, complete with a remaster, for $200. Fans of the series have been clamoring for a re-release, and it seems like their wish has finally come true.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/jrpg/square-enix-finally-lets-a-beloved-snes-jrpg-out-of-the-vault-with-a-usd200-collectors-edition-and-the-kind-of-remaster-i-want-for-final-fantasy/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/xQpo72rw3in5CraXPjAcHi-1280-80.jpg",
-    "published_at": "2026-09-16T16:52:56.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "terranigma",
-    "game_label": "Terranigma"
-  },
-  {
-    "id": "814abab30d80",
-    "slug": "fire-emblem-fortunes-weave-single-save-slot-reasoning-explained",
-    "headline": "Fire Emblem: Fortune's Weave Single Save Slot Reasoning Explained",
-    "summary": "Nintendo is hoping the built in game mechanics will mean you don't need more than one.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-single-save-slot-explained/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/09/fire-emblem-fortune-s-wave-character-on-a-palanquin.jpg",
-    "published_at": "2026-09-16T16:51:59.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8548101991b2",
-    "slug": "a-complete-guide-to-the-multiverse-reforged-commander-deck-in-mtg",
-    "headline": "A Complete Guide To The Multiverse Reforged Commander Deck In MTG",
-    "summary": "MTG players are excited about the Multiverse Reforged Commander deck in The Commander",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/magic-the-gathering-multiverse-reforged-commander-deck-breakdown/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/05/jace-multiverse-reforged-mtg-deck.jpg",
-    "published_at": "2026-09-16T16:48:26.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-commander",
-    "game_label": "The Commander"
-  },
-  {
-    "id": "6c2ca699af61",
-    "slug": "former-rockstar-dev-says-gta-6-will-perform-well-despite-being-a-bit-o",
-    "headline": "Former Rockstar Dev Says GTA 6 Will Perform Well Despite Being 'A Bit Outdated'",
-    "summary": "A former Rockstar Games developer has expressed optimism about Grand Theft Auto 6, stating it will 'perform really well' despite some outdated elements. The game is expected to keep fans engaged for a decade.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/parts-of-gta-6-are-a-bit-outdated-and-weird-says-former-rockstar-dev-but-like-gta-5-it-will-perform-really-well-and-keep-fans-busy-for-a-decade/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/DjHygAvVxq5SRXiCL2bj3i-1280-80.jpg",
-    "published_at": "2026-09-16T16:36:46.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "8656b977111a",
-    "slug": "gungho-online-entertainment-announces-party-game-chit-chat-party-for-s",
-    "headline": "GungHo Online Entertainment announces party game Chit Chat Party! for Switch 2, now available",
-    "summary": "Publisher GungHo Online Entertainment and developer Alim have announced party game Chit Chat Party! for …",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/gungho-online-entertainment-announces-party-game-chit-chat-party-for-switch-2-now-available"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/8656b977111a/800/600",
-    "published_at": "2026-09-16T16:36:02.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "513c8d9660cf",
-    "slug": "roblox-launches-20th-anniversary-event-the-hunt-roblox-20",
-    "headline": "Roblox Launches 20th Anniversary Event The Hunt: Roblox 20",
-    "summary": "Roblox has launched a platform-wide event to celebrate its 20th anniversary, allowing players to explore popular games",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/roblox-launches-20th-anniversary-event-the-hunt-roblox-20/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/513c8d9660cf/800/600",
-    "published_at": "2026-09-16T16:32:51.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "roblox",
-    "game_label": "Roblox"
-  },
-  {
-    "id": "595e26efdede",
-    "slug": "diablo-himself-didnt-get-dedicated-diablo-4-dlc-because-diablos-very-d",
-    "headline": "Diablo Himself Didn’t Get Dedicated Diablo 4 DLC Because ‘Diablo’s Very Demanding,’ Devs Say",
-    "summary": "But he's the star of Diablo 5 now instead",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/diablo-4-dlc-diablo-5-demanding-2000734783"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/Diablo-V-Teaser-0-30-screenshot-1280x719.jpg",
-    "published_at": "2026-09-16T16:30:24.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1dbb80461b7a",
-    "slug": "blizzard-is-playing-4d-chess-with-diablo-5s-early-reveal",
-    "headline": "Blizzard is Playing 4D Chess with Diablo 5's Early Reveal",
-    "summary": "Blizzard's surprise reveal of Diablo 5 at BlizzCon suggests the company is playing a strategic game to outmaneuver Xbox and Diablo 4.",
-    "category": "industry",
-    "platform_tags": [
-      "xbox",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/diablo-5-early-reveal-blizzard-diablo-4-future/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/classportraitdemonhunter_ctr_v03.jpg",
-    "published_at": "2026-09-16T16:30:14.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "diablo-5",
-    "game_label": "Diablo 5"
-  },
-  {
-    "id": "10245f2d0ba8",
-    "slug": "nintendo-switch-2s-aaa-push-just-got-its-first-real-warning-sign",
-    "headline": "Nintendo Switch 2's AAA Push Just Got Its First Real Warning Sign",
-    "summary": "The Nintendo Switch 2 has benefited from third-party games, but a recent delay may indicate trouble ahead.",
-    "category": "industry",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/nintendo-switch-2-007-first-light-delay-third-party-support/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/nintendo-switch-2-007-first-light-key-art.jpg",
-    "published_at": "2026-09-16T16:30:13.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "365edea3d3b3",
-    "slug": "free-to-play-pokemon-and-palworld-like-aniimo-launches-to-mixed-steam",
-    "headline": " Free-to-play Pokemon and Palworld-like Aniimo launches to \"Mixed\" Steam reviews: \"It's very much a gacha game\" ",
-    "summary": "Some liken it to Infinity Nikki",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/open-world/free-to-play-pokemon-and-palworld-like-aniimo-launches-to-mixed-steam-reviews-its-very-much-a-gacha-game/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/PWk3agCj9WrURwTXyUjeLf-1280-80.jpg",
-    "published_at": "2026-09-16T16:30:03.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
