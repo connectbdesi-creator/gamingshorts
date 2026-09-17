@@ -13038,5 +13038,60 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-17T13:08:50.811Z"
+  },
+  {
+    "slug": "ghostrunner",
+    "name": "Ghostrunner",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/957/957154d665ae676b00c0859551c733b1.jpg",
+    "released": "2020-10-27",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/121/121f61318955290b3adf897a3265b7c8.jpg",
+      "https://media.rawg.io/media/screenshots/3b7/3b7eeaeb506a7abb91d4ef96feccf231.jpg",
+      "https://media.rawg.io/media/screenshots/83b/83b48e358fc144ee0f52abb1f722ea7f.jpg",
+      "https://media.rawg.io/media/screenshots/931/9315ccfb3d1eb2f28ba5652cb76eb1d2.jpg",
+      "https://media.rawg.io/media/screenshots/5c9/5c99fc2d8672639d1367b1c660d1ada5.jpg",
+      "https://media.rawg.io/media/screenshots/64a/64a0902af0d74de4afff0336599de3fb.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-17T14:07:26.795Z"
+  },
+  {
+    "slug": "diablo-immortal",
+    "name": "Diablo: Immortal",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/7fd/7fd73ef44936f8eec7732cfc299dff09.jpg",
+    "released": "2022-06-02",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "iOS",
+      "Android"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c1f/c1f99cdeaec5acc1f1ec3216da30d443.jpg",
+      "https://media.rawg.io/media/screenshots/f8c/f8c1b0d87118f9be0fa5c5bd8b8df5c1.jpg",
+      "https://media.rawg.io/media/screenshots/c74/c74bf8af73330f28df613f8c768c28ab.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-17T14:07:27.517Z"
   }
 ]
