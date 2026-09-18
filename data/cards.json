@@ -1,5 +1,120 @@
 [
   {
+    "id": "7d88ad2d2645",
+    "slug": "rockstars-next-game-after-gta-6-is-now-official",
+    "headline": "Rockstar's Next Game After GTA 6 is Now Official",
+    "summary": "Even though GTA 6 has yet to launch, we already know the next game releasing under the Rockstar Games banner.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/rockstar-next-game-after-gta-6/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/rockstar-next-game-after-gta-6.jpg",
+    "published_at": "2026-09-18T19:30:13.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c8fb5711e7d3",
+    "slug": "zelda-ocarina-of-time-remake-is-making-one-of-the-n64s-biggest-limitat",
+    "headline": "Zelda: Ocarina of Time Remake Is Making One of the N64's Biggest Limitations Impossible to Hide",
+    "summary": "Ocarina of Time Remake is changing some of the game’s oldest rules, and in the process, it’s exposing something the N64 original could hide.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/zelda-ocarina-of-time-remake-n64-limitations-modern-gameplay/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/young-link-in-the-zelda-ocarina-of-time-remake-on-switch-2-looking-at-a-nintendo-64-controller.jpg",
+    "published_at": "2026-09-18T19:15:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "dc8567b3d989",
+    "slug": "i-guess-ill-delete-every-ps5-game-i-own-to-make-room-for-ff7-revelatio",
+    "headline": "I Guess I’ll Delete Every PS5 Game I Own To Make Room For FF7 Revelation",
+    "summary": "There are quite a few months until Final Fantasy 7 Revelation launches on Nintendo Switch 2, PC, PlayStation 5, and Xbox Series X|S. But you're going to want to get your systems ready now because the download for the final showdown between Cloud and Sephiroth may be big. According to a September 18 VGC Interview with game director Naoki Hamaguchi,…",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/i-guess-ill-delete-every-ps5-game-i-own-to-make-room-for-ff7-revelation/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/ff7r-image.jpg?w=300",
+    "published_at": "2026-09-18T19:10:12.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ab985b4d53d8",
+    "slug": "the-last-of-us-director-apologizes-for-criticizing-god-of-war-laufey",
+    "headline": "The Last of Us Director Apologizes for Criticizing God of War Laufey",
+    "summary": "Neil Druckmann, director of The Last of Us, has apologized for criticizing the leadership of the God of War series, suggesting it lacks innovation in AAA games.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/god-of-war/the-last-of-us-director-apologizes-for-using-god-of-war-laufey-as-an-example-of-lack-of-innovation-in-aaa-this-isnt-the-teams-fault/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/k8ioRJSCV29RXg7MWyRLiY-1920-80.jpg",
+    "published_at": "2026-09-18T19:05:08.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-last-of-us",
+    "game_label": "The Last of Us"
+  },
+  {
+    "id": "e782906a75b2",
+    "slug": "fc-27-streamlined-sbcs-explained",
+    "headline": "FC 27 Streamlined SBCs, Explained",
+    "summary": "FIFA 27 changes its Seasoned Baller Packs to improve player stats and overall gameplay",
+    "category": "patches",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/ea-fc-27-streamlined-sbc-item-score-ovr-fut-ultimate-team/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/every-item-score-for-streamlined-sbcs.jpg",
+    "published_at": "2026-09-18T19:03:45.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fifa-27",
+    "game_label": "FIFA 27"
+  },
+  {
     "id": "669a53174173",
     "slug": "marvels-wolverines-secret-ending-officially-sets-up-new-x-men-game",
     "headline": "Marvel’s Wolverine’s Secret Ending Officially Sets up New X-Men Game",
@@ -63,6 +178,29 @@
     "comment_count": 0,
     "game": "final-fantasy-vii-revelation",
     "game_label": "Final Fantasy VII Revelation"
+  },
+  {
+    "id": "08b36a22833e",
+    "slug": "review-control-resonant-xbox-a-brave-and-visually-transcendent-sequel",
+    "headline": "Review: Control Resonant (Xbox) - A Brave And Visually Transcendent Sequel",
+    "summary": "Dylan is very Interesting per se. Control Resonant is an atypical sequel that has spent the last seven years staying up late watching X-Files reruns and scoffing bowls of Sugar Puffs. Remedy takes a leap of faith into a new genre, pulling the camera back to reveal an impeccable, dreamlike vision of Manhattan whilst grounding all that supernatural stuff in…",
+    "category": "reviews",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/reviews/xbox-series-x/control-resonant"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/13cbd45e573b4/large.jpg",
+    "published_at": "2026-09-18T19:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "a0bac30a21ab",
@@ -4597,148 +4735,6 @@
     ],
     "image_url": "https://cdn.mos.cms.futurecdn.net/ktGsyh2Ex9WByn7rv5DqJG-1920-80.jpg",
     "published_at": "2026-09-17T21:06:28.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1923a5e49f52",
-    "slug": "palworld-palfarm-is-less-like-stardew-valley-than-you-might-expect-lea",
-    "headline": " Palworld Palfarm is less like Stardew Valley than you might expect, lead says, but it \"is more on the cozier side\" than Pocketpair's survival game ",
-    "summary": "\"I think Palfarm is going to be a little bit different than what people expect it to be\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/simulation/palworld-palfarm-is-less-like-stardew-valley-than-you-might-expect-lead-says-but-it-is-more-on-the-cozier-side-than-pocketpairs-survival-game/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/BwhrmSFcGHYtxbcpADToAP-1920-80.jpg",
-    "published_at": "2026-09-17T21:06:03.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0e7138d89e03",
-    "slug": "diablo-5-creates-problem-for-diablo-4",
-    "headline": "Diablo 5 Creates Problem for Diablo 4",
-    "summary": "Diablo 5's early reveal has created an issue for Diablo 4, which has more player investment and time commitment than most live-service games.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/diablo-5-live-service-sequel-content-gap/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/dota-6.jpg",
-    "published_at": "2026-09-17T21:00:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "diablo-5",
-    "game_label": "Diablo 5"
-  },
-  {
-    "id": "d7fdb91d7d42",
-    "slug": "blood-of-dawnwalker-sequel-may-not-include-divisive-time-mechanic",
-    "headline": "Blood of Dawnwalker Sequel May Not Include Divisive Time Mechanic",
-    "summary": "Blood of Dawnwalker sequel director Konrad Tomaszkiewicz has stated that the game will not force the use of the divisive time mechanic that has received criticism from players. Instead, players can use mods to disable it if they choose.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-sequel-may-not-have-the-divisive-time-mechanic-that-so-many-players-dislike-we-will-not-force-it-game-director-says/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/B3W8EwYhdkDWmpyZcyNaHT-1920-80.jpg",
-    "published_at": "2026-09-17T20:58:56.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "blood-of-dawnwalker",
-    "game_label": "Blood of Dawnwalker"
-  },
-  {
-    "id": "8cfedb44a0af",
-    "slug": "wardogs-players-expect-revival-in-first-person-shooter",
-    "headline": "Wardogs Players Expect Revival in First-Person Shooter",
-    "summary": "PC Gamer readers discuss their expectations for a revival mechanic in Wardogs, a first-person shooter that offers player resurrection with bribery.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/fps/wardogs-is-the-only-fps-where-i-actually-expect-to-get-revived/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/sAdrMjm2tKsaB7cX3Q2GqD-1920-80.png",
-    "published_at": "2026-09-17T20:54:51.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "wardogs",
-    "game_label": "Wardogs"
-  },
-  {
-    "id": "7c8ee62c6a06",
-    "slug": "world-of-warcraft-forever-players-are-reliving-2004-with-hour-long-que",
-    "headline": " World of Warcraft: Forever players are reliving 2004 with hour-long queue times to get into the highly-anticipated beta ",
-    "summary": "Blizzard says it's working on getting everyone in as soon as possible.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-are-reliving-2004-with-hour-long-queue-times-to-get-into-the-highly-anticipated-beta/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/4ZoPHz43pTk6fFSvtgzZVj-1920-80.jpg",
-    "published_at": "2026-09-17T20:43:06.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d37ef0e306e1",
-    "slug": "overwatch-wdevs-doctrine-grimsvotn-reworks-and-more-official-xbox-podc",
-    "headline": "Overwatch w/Devs: Doctrine, Grimsvötn, Reworks, and More | Official XBOX Podcast",
-    "summary": "On this episode of the Official XBOX Podcast, we’re at BlizzCon and sitting down with the Overwatch team to talk all about Season 5’s newest hero: Doctrine. We’re also diving into the new map Grimsvötn, talking updates to Sombra and Roadhog, and so much more. TRANSCRIPT LINA MADRID: Games in this podcast range from E […] The post Overwatch w/Devs:…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/09/17/overwatch-w-devs-doctrine-grimsvotn-reworks-and-more-official-xbox-podcast/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/d37ef0e306e1/800/600",
-    "published_at": "2026-09-17T20:42:40.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
