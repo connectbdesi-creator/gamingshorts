@@ -1,5 +1,117 @@
 [
   {
+    "id": "bfe28f5b245a",
+    "slug": "take-two-ceo-says-pc-becoming-more-important",
+    "headline": "Take-Two CEO Says PC Becoming More Important",
+    "summary": "Take-Two's Strauss Zelnick discusses the growing importance of PC in gaming, including the highly anticipated release of Grand Theft Auto 6",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/the-pc-platform-is-becoming-more-and-more-important-take-two-chief-says-as-we-continue-to-wonder-when-were-going-to-get-gta-6/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/X5bwnU4v3okUuzcqFbJz63-1920-80.jpg",
+    "published_at": "2026-09-18T18:22:26.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "55b2da766e69",
+    "slug": "new-200gb-gta-5-leak-suggests-rockstar-games-scrapped-a-massive-libert",
+    "headline": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work",
+    "summary": "Rockstar Games' latest leak seemingly includes a nearly 200GB version of GTA 5's source code, suggesting the developer started and then scrapped plans for a Liberty City DLC, alongside very early files related to GTA 6.\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/gta-5-protags.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-18T18:19:10.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "35b1358fcc94",
+    "slug": "ex-naughty-dog-dev-apologizes-to-god-of-war-studio-for-what-he-said-ab",
+    "headline": "Ex-Naughty Dog Dev Apologizes To God Of War Studio For What He Said About Laufey",
+    "summary": "Bruce Straley, best known for his work at Naughty Dog on the Uncharted and The Last of Us franchises, has apologized to God of War: Laufey studio Santa Monica Studio, after he said he was \"not excited\" about what the game was offering, at least in some respects. Straley told Edge that he thinks \"every pixel\" in Laufey looks \"mindblowing…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/ex-naughty-dog-dev-apologizes-to-god-of-war-studio-for-what-he-said-about-laufey/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/coven.jpg?w=300",
+    "published_at": "2026-09-18T18:15:44.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "fdf2206bdcca",
+    "slug": "near-perfect-snes-games-nobody-played",
+    "headline": "Near-Perfect SNES Games Nobody Played",
+    "summary": "For reasons unknown, these fantastic Super Nintendo Entertainment System titles of all genres were lost in the shuffle upon their release.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/near-perfect-super-nintendo-snes-games-forgotten-nobody-played/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/clock-tower-games-from-snes-nobody-played.jpg",
+    "published_at": "2026-09-18T18:15:13.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b67290ea1f54",
+    "slug": "final-fantasy-14-brings-back-final-fantasy-15-event-after-two-years",
+    "headline": "Final Fantasy 14 Brings Back Final Fantasy 15 Event After Two Years",
+    "summary": "Final Fantasy 14 is reviving its Final Fantasy 15 crossover event for a limited time, marking a return after nearly two years of absence.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/final-fantasy-14-15-crossover-event-nocturne-for-heroes/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/yshtola-shadowbringers-trailer-copy.jpg",
+    "published_at": "2026-09-18T18:01:23.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-14",
+    "game_label": "Final Fantasy 14"
+  },
+  {
     "id": "646b80556d8b",
     "slug": "new-cozy-farming-sim-is-the-best-of-both-stardew-valley-and-pokemon-sn",
     "headline": "New Cozy Farming Sim is the Best of Both Stardew Valley and Pokemon Snap",
@@ -37,6 +149,29 @@
     ],
     "image_url": "https://kotaku.com/app/uploads/2026/02/RESIDENT-EVIL-requiem_20260214170655-1280x720.jpg",
     "published_at": "2026-09-18T18:00:03.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "93da2d4e34d7",
+    "slug": "review-hautepad-c-as-arcade-stick-for-switch-1-2-unique-eye-catching-b",
+    "headline": "Review: Hautepad C-AS Arcade Stick For Switch 1 & 2 - Unique & Eye-Catching, But Improvements Are Needed",
+    "summary": "Short goes a long way. Cosmox Gaming is best known for its leverless arcade controllers, and although it experimented with a modular joystick in its Hautepad X model, it has yet to fully embrace the more traditional arcade stick. Until now, that is. The Hautepad C-AS is a dedicated fight stick with a couple of neat tricks up its sleeve.…",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/reviews/hautepad-c-as-arcade-stick-for-switch-1-and-2-unique-and-eye-catching-but-improvements-are-needed"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/e4a6eb1cb7409/large.jpg",
+    "published_at": "2026-09-18T18:00:00.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -2942,6 +3077,27 @@
     "game_label": "Fareidolia"
   },
   {
+    "id": "bdacc3b7d67a",
+    "slug": "new-rockstar-leak-allegedly-reveals-gta-6-assets-and-cut-gta-5-liberty",
+    "headline": " New Rockstar leak allegedly reveals GTA 6 assets and cut GTA 5 Liberty City DLC, with nearly 200 GB of unseen content ",
+    "summary": "Yes, another one…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/new-rockstar-leak-allegedly-reveals-gta-6-assets-and-cut-gta-5-liberty-city-dlc-with-nearly-200-gb-of-unseen-content/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/38dFMrtxrziEumiDGTPJ97-1920-80.png",
+    "published_at": "2026-09-18T10:22:17.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "6f8316ad1e18",
     "slug": "no-time-limit-for-dawnwalker-in-sequel",
     "headline": "No Time Limit for Dawnwalker in Sequel",
@@ -4584,162 +4740,5 @@
     "comment_count": 0,
     "game": "dragonwilds",
     "game_label": "Dragonwilds"
-  },
-  {
-    "id": "fd2910d594e9",
-    "slug": "xbox-ones-catastrophic-drm-is-the-reason-it-can-now-offer-disc-to-digi",
-    "headline": "Xbox One’s Catastrophic DRM Is The Reason It Can Now Offer Disc-To-Digital",
-    "summary": "The Xbox One's pitch for an all-digital, always-online future went down in flames so its disc-to-digital initiative could be born from the ashes",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/xbox-ones-catastrophic-drm-is-the-reason-it-can-now-offer-disc-to-digital-2000735320"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/xbox-one-1280x720.jpg",
-    "published_at": "2026-09-17T19:00:41.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "706686675594",
-    "slug": "world-of-warcraft-forever-devs-explain-the-new-race-campfires-and-onyx",
-    "headline": "World of Warcraft: Forever Devs Explain the New Race, Campfires, and Onyxia's Return",
-    "summary": "We sat down with World of Warcraft: Forever's principal game designer Kris Zierhut and lead encounter designer Michael Nuthals to talk through the design philosophy behind the game. They break down the new Legacy System for alt characters, the campfire system for player socializing, the new Skyborn Elves race and their ties to Dire Maul lore, as well as the…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/video/world-of-warcraft-forever-devs-explain-the-new-race-campfires-and-onyxias-return/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/world-of-warcraft-interview-siteb.jpg",
-    "published_at": "2026-09-17T19:00:22.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "173cbb0b4315",
-    "slug": "are-wolverines-takes-on-established-marvel-characters-bad-or-just-diff",
-    "headline": "Are Wolverine's Takes On Established Marvel Characters Bad Or Just Different (Or Both)?",
-    "summary": "Insomniac Games' take on Wolverine's role in the X-Men universe is sparking debate, with some fans criticizing the changes",
-    "category": "industry",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/marvels-wolverine-logan-sabretooth-jean-comic-book-fans-2000735324"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/leechlogan-1280x720.jpg",
-    "published_at": "2026-09-17T19:00:08.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b7f7053df42f",
-    "slug": "diablo-5-is-blizzards-darkest-arpg-yet-and-thats-the-best-way-to-honor",
-    "headline": " Diablo 5 is Blizzard's darkest ARPG yet, and that's the best way to honor the game that changed my life 30 years ago ",
-    "summary": "Diablo 5 turns all of Sanctuary into the Dark Lord's domain, and that's the darkness deluge I'm convinced the series needs",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/diablo/diablo-5-is-blizzards-darkest-arpg-yet-and-thats-the-best-way-to-honor-the-game-that-changed-my-life-30-years-ago/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/vRej9gL8bKTfiC2W4JvJeW-1920-80.jpg",
-    "published_at": "2026-09-17T18:57:38.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "73ad18f3c232",
-    "slug": "new-r-rated-survival-sci-fi-officially-crowned-highest-rated-video-gam",
-    "headline": "New R-Rated Survival Sci-Fi Officially Crowned Highest-Rated Video Game Adaptation Ever",
-    "summary": "Zach Cregger's 'Resident Evil' adaptation has the highest Rotten Tomatoes rating for a movie based on a game.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/resident-evil-highest-rating-video-game-movie-rotten-tomatoes/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/17-resident-evil.JPG",
-    "published_at": "2026-09-17T18:38:17.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7785a03f2170",
-    "slug": "diablo-4s-anniversary-event-brings-back-iconic-tristram",
-    "headline": "Diablo 4's Anniversary Event Brings Back Iconic Tristram",
-    "summary": "Blizzard brings back Tristram in Diablo 4's anniversary event with impressive level of detail.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/rpg/diablo-4s-anniversary-event-brings-back-the-games-most-iconic-location-and-boy-that-music-is-sending-me/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/8SSXbkPL6gSihHehE5JSF7-1920-80.jpg",
-    "published_at": "2026-09-17T18:31:37.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "diablo-4",
-    "game_label": "Diablo 4"
-  },
-  {
-    "id": "17de10359d80",
-    "slug": "two-games-announced-for-xbox-game-pass-at-tokyo-game-show-2026",
-    "headline": "Two Games Announced For Xbox Game Pass At Tokyo Game Show 2026",
-    "summary": "Xbox announces two new titles for Xbox Game Pass at Tokyo Game Show 2026, including Hope in the City and Shape of Dr",
-    "category": "deals",
-    "platform_tags": [
-      "xbox",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/two-games-announced-for-xbox-game-pass-at-tokyo-game-show-2026"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/5b87d45698341/large.jpg",
-    "published_at": "2026-09-17T18:30:00.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "hope-in-the-city",
-    "game_label": "Hope in the City"
   }
 ]
