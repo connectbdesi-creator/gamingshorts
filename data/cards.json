@@ -1,5 +1,614 @@
 [
   {
+    "id": "1914f77683fc",
+    "slug": "playstation-digital-games-mocked-by-former-boss",
+    "headline": "PlayStation Digital Games Mocked by Former Boss",
+    "summary": "A former Sony executive is poking fun at the company's decision to abandon physical games, mirroring a past jab at Xbox.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/playstation-veteran-shuhei-yoshida-recreates-xbox-game-share-demonstration/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/_shuhei-yoshida-and-adam-boyes-pretending-to-share-a-game-at-tokyo-game-show.jpg",
+    "published_at": "2026-09-18T15:30:49.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0271d6a97466",
+    "slug": "ff7r-director-reveals-reason-for-no-physical-release",
+    "headline": "FF7R Director Reveals Reason for No Physical Release",
+    "summary": "Director of Final Fantasy 7 Revelation explains why a physical release of the game was not feasible due to its large file size.",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/final-fantasy-7-revelation-hamaguchi-file-size/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ffvii_revelation_june_screenshots_-16.jpg",
+    "published_at": "2026-09-18T15:22:31.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-7-revelation",
+    "game_label": "Final Fantasy 7 Revelation"
+  },
+  {
+    "id": "56cb19e86814",
+    "slug": "playstation-legends-recreate-iconic-ps4-game-sharing-meme-but-this-tim",
+    "headline": "PlayStation Legends Recreate Iconic PS4 Game-Sharing Meme But This Time There’s No Disc",
+    "summary": "Two veterans reunited at Tokyo Game Show 2026",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/playstation-legends-recreate-iconic-ps4-game-sharing-meme-but-this-time-theres-no-disc-2000735610"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/share-disc-1280x719.jpg",
+    "published_at": "2026-09-18T15:20:22.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "aeef14479333",
+    "slug": "cd-projekt-red-abandons-in-house-tech-for-unreal-engine-5",
+    "headline": "CD Projekt Red Abandons In-House Tech for Unreal Engine 5",
+    "summary": "CD Projekt Red is shifting from its in-house technology to Unreal Engine 5 for The Witcher 4, but studio lead claims this isn't due to issues with Cyberpunk 2077",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-4-abandons-cd-projekt-reds-in-house-tech-for-unreal-engine-5-but-studio-lead-says-its-not-because-of-issues-with-cyberpunk-2077/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/TkoGsTQHLWzDaToA5fKE66-1920-80.jpg",
+    "published_at": "2026-09-18T15:16:25.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-4",
+    "game_label": "The Witcher 4"
+  },
+  {
+    "id": "dc7bda71c3c6",
+    "slug": "how-to-defeat-the-prototype-sentinel-in-marvels-wolverine",
+    "headline": "How to Defeat the Prototype Sentinel in Marvel's Wolverine",
+    "summary": "Marvel's Wolverine has a challenging early boss that demands quick reflexes and some grinding to defeat, making it a tough opponent for players to overcome.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/marvels-wolverine-prototype-sentinel-boss-guide/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/sentinel-prototype-feature.jpg",
+    "published_at": "2026-09-18T15:15:47.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "marvels-wolverine",
+    "game_label": "Marvel's Wolverine"
+  },
+  {
+    "id": "19d853501b18",
+    "slug": "wow-forever-doesnt-allow-gdkp-blizzard-says-the-new-mmos-economy-is-so",
+    "headline": " WoW: Forever doesn't allow GDKP, Blizzard says the new MMO's economy is \"something we're taking very seriously\" ",
+    "summary": "\"The short answer is no\"",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/world-of-warcraft/wow-forever-doesnt-allow-gdkp-blizzard-says-the-new-mmos-economy-is-something-were-taking-very-seriously/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/TVxB9MUdedkLYF6YQSh7LN-1920-80.jpg",
+    "published_at": "2026-09-18T15:12:26.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "235900cfbdd7",
+    "slug": "nintendo-says-were-still-at-the-beginning-of-the-switch-2-story",
+    "headline": "Nintendo Says We’re Still At The Beginning Of The Switch 2 Story",
+    "summary": "The Switch 2 is a little over a year old, and unsurprisingly, Nintendo says that its console is just getting started. In a new interview, Nintendo of America president and COO Devon Pritchard teased a multiyear plan for the company, revolving not only around producing video games but also expanding its IP into other forms of entertainment. \"We're at the…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/nintendo-says-were-still-at-the-beginning-of-the-switch-2-story/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Switch2.jpg?w=300",
+    "published_at": "2026-09-18T15:10:59.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "29236d1c76c8",
+    "slug": "the-tallest-players-in-ea-sports-fc-27",
+    "headline": "The Tallest Players in EA Sports FC 27",
+    "summary": "EA Sports FC 27 features a roster of giant players, including keepers, to help users build a team of towering athletes.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/ea-sports-fc-27-tallest-players/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/ea-sports-fc-27-strongest-players/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/ea-sports-fc-27-tallest-players.jpg",
+    "published_at": "2026-09-18T15:09:13.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ea-sports-fc-27",
+    "game_label": "EA Sports FC 27"
+  },
+  {
+    "id": "56209513219f",
+    "slug": "valve-developer-reveals-what-could-have-been-done-with-portal",
+    "headline": "Valve Developer Reveals What Could Have Been Done with Portal",
+    "summary": "Chet Faliszek shares alternate direction for Portal, but Gabe Newell considered the idea 'stupid', according to the developer.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/puzzle/portal-couldve-had-a-bunch-of-gore-and-dead-bodies-if-one-dev-had-his-way-says-valve-veteran-but-gabe-newell-considered-it-the-stupidest-question-ever/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/xuqXsUwQmS7GeyJKPKk8gP-1920-80.jpg",
+    "published_at": "2026-09-18T15:06:04.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "portal",
+    "game_label": "Portal"
+  },
+  {
+    "id": "55721c1a556f",
+    "slug": "6-upcoming-steam-games-that-you-should-wishlist-today",
+    "headline": "6 Upcoming Steam Games That You Should Wishlist Today",
+    "summary": "Between a busy few weeks for new game announcements, these upcoming PC games deserve a spot on your wishlist.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/wishlister-gamescom-september-18/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/stage-freight-monster-chasing-kid.jpg",
+    "published_at": "2026-09-18T15:00:15.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a13dd8393f40",
+    "slug": "resident-evils-nick-apostolides-on-leon-kennedy-his-excitement-for-the",
+    "headline": "Resident Evil’s Nick Apostolides on Leon Kennedy, His Excitement for the Movie and Meeting Nic Cage",
+    "summary": "This week on Pause for Thought, we've got Leon Kennedy himself: Nick Apostolides. He talks all about his love for the Resident Evil franchise, what it was like being cast as Leon as well as his thoughts on the upcoming Zach Cregger movie. He gives us the scoop on why he decided to become a voice actor, what else he…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/video/leon-kennedy-resident-evil-nick-apostolides-interview/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/pause-for-thought-nick-apostolides-site2.jpg",
+    "published_at": "2026-09-18T15:00:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2b4207bd45df",
+    "slug": "roman-sands-rebuild-review-a-unique-and-obliterating-blend-of-resort-s",
+    "headline": "Roman Sands RE:Build review: A unique and obliterating blend of resort sim, engineering horror and alchemic ritual",
+    "summary": "I completed Roman Sands RE:Build late last night, and haven't had nearly enough time to digest it, but I'm keen to help get the word out and energise whatever algorithmic chicanery might contribute to this gorgeous, ugly thing making money. So! Roman Sands RE:Build is two exquisitely grim games locked in a collapsing binary orbit. You should play it, preferably…",
+    "category": "reviews",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/roman-sands-rebuild-review"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/roman-sands-rebuild-bestest-best.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-18T15:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b5b45470458a",
+    "slug": "upcoming-xbox-game-pass-title-avoids-full-price-launch-due-to-how-busy",
+    "headline": "Upcoming Xbox Game Pass Title Avoids 'Full Price' Launch Due To How Busy October Is",
+    "summary": "Valor Mortis is getting priced at $40 instead. We've already talked about how September and October have been ridiculously busy for new releases this year (primarily due to GTA 6 stealing the spotlight for November), and if the publisher of Valor Mortis is to be believed, it's actually led to them reducing the price of their upcoming Xbox Game Pass…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/upcoming-xbox-game-pass-title-avoids-full-price-launch-due-to-how-busy-october-is"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/2d7bceadb6074/large.jpg",
+    "published_at": "2026-09-18T15:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c555930d95e5",
+    "slug": "level-5-is-really-starting-to-panic-amidst-increasing-ai-backlash",
+    "headline": "Level-5 Is Really Starting To Panic Amidst Increasing AI Backlash",
+    "summary": "\"We deeply apologize for causing distrust\". Developer Level-5 has issued another statement in the wake of increasing backlash against its stance and use of generative AI. Essentially, it sounds like the company is really starting to panic at this point, and has made attempts to explain anomalies found within its trailers and presentations. It's also apologised for \"causing distrust\" with…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/level-5-is-really-starting-to-panic-amidst-increasing-ai-backlash"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/26bb5a1215105/large.jpg",
+    "published_at": "2026-09-18T15:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "895d84011bc8",
+    "slug": "bruce-straley-blames-modern-aaa-games-for-lack-of-risk",
+    "headline": "Bruce Straley Blames Modern AAA Games for Lack of Risk",
+    "summary": "Naughty Dog director Bruce Straley expresses disappointment in the risk-averse nature of modern AAA games, calling them 'boring'.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/modern-aaa-games-are-boring-says-the-last-of-us-game-director"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/35bce9a003dc2/large.jpg",
+    "published_at": "2026-09-18T14:45:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-last-of-us",
+    "game_label": "The Last of Us"
+  },
+  {
+    "id": "f0d88f582c9a",
+    "slug": "sony-launched-free-live-tv-on-ps5-service",
+    "headline": "Sony Launched Free Live TV on PS5 Service",
+    "summary": "Sony has launched a free live TV service on PS5, offering 100+ channels of ad-supported content to all users, according to chairman Keith Le Goy.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/sony-says-free-tv-on-ps5-is-one-plus-one-equaling-a-lot-more-than-two/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/livetvonps5-Large.jpeg?w=300",
+    "published_at": "2026-09-18T14:43:44.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7b07a00c2ccc",
+    "slug": "fire-emblem-fortunes-weave-secret-location-for-captains-and-popular-dr",
+    "headline": "Fire Emblem Fortune's Weave: Secret Location for Captains' and Popular Drink Recipes Quests Revealed",
+    "summary": "Fire Emblem: Fortune's Weave players can complete two quests at once by finding Bitter Leaves and Pepper Leaves in one location, and the game also includes popular drink recipes",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-pepper-and-bitter-leaves-location-for-captains-and-popular-drink-recipes-quests/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/7b07a00c2ccc/800/600",
+    "published_at": "2026-09-18T14:39:13.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fire-emblem-fortunes-weave",
+    "game_label": "Fire Emblem Fortune's Weave"
+  },
+  {
+    "id": "4c49358cc3eb",
+    "slug": "massive-gta-5-leak-reveals-cut-dlc-plans-and-early-gta-6-assets",
+    "headline": "Massive GTA 5 Leak Reveals Cut DLC Plans and Early GTA 6 Assets",
+    "summary": "The leaks keep coming for Rockstar. A new leak has revealed plans for cut Grand Theft Auto 5 DLC as well as Grand Theft Auto 6 assets.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-5-leak-cut-dlc-gta-6-assets/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23287895/Grand_Theft_Auto_V___3_4_2022___Image_2.jpg",
+    "published_at": "2026-09-18T14:37:15.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2b4ca709380f",
+    "slug": "gungrave-gore-blood-heat-action-trailer",
+    "headline": "Gungrave G.O.R.E: Blood Heat ‘Action’ trailer",
+    "summary": "Studio IGGYMOB has released a new trailer for Gungrave G.O.R.E: Blood Heat, a fully rebuilt game with enhanced action gameplay.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/gungrave-gore-blood-heat-action-trailer"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/2b4ca709380f/800/600",
+    "published_at": "2026-09-18T14:17:41.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gungrave-gore-blood-heat",
+    "game_label": "Gungrave G.O.R.E: Blood Heat"
+  },
+  {
+    "id": "cbb5b1221e44",
+    "slug": "slay-the-spire-2-editors-share-their-strongest-opinions-after-894-hour",
+    "headline": "Slay the Spire 2 Editors Share Their Strongest Opinions After 894 Hours",
+    "summary": "PC Gamer editors discuss their thoughts on Slay the Spire 2 after months of playing, sharing their strongest opinions on the game's mechanics and features.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/card-games/slay-the-spire-2-opinions/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/sFjEVTYcyEth4Cs8QjS6hj-1920-80.jpg",
+    "published_at": "2026-09-18T14:17:30.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "slay-the-spire-2",
+    "game_label": "Slay the Spire 2"
+  },
+  {
+    "id": "14483c5287cb",
+    "slug": "character-driven-single-player-sci-fantasy-jrpg-kaelis-seraph-protocol",
+    "headline": "‘Character-driven single-player sci-fantasy JRPG’ KAELIS: Seraph Protocol announced for PC",
+    "summary": "Seoul-based YoshiYoshi Studio has announced KAELIS: Seraph Protocol, a Japanese-inspired character-driven single-player science-fantasy RPG featuring …",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/character-driven-single-player-sci-fantasy-jrpg-kaelis-seraph-protocol-announced-for-pc"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/14483c5287cb/800/600",
+    "published_at": "2026-09-18T14:04:27.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "76fcc29c91ed",
+    "slug": "next-week-on-xbox-new-games-for-september-21-to-25",
+    "headline": "Next Week on XBOX: New Games for September 21 to 25",
+    "summary": "Welcome to Next Week on XBOX! In this weekly feature we cover all the games coming soon to XBOX Series X|S, XBOX One, XBOX on PC, and Game Pass! Get more details on these upcoming games below and click their profiles for further info (release dates subject to change). Let’s jump in! CONTROL Resonant – […] The post Next Week…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/09/18/next-week-on-xbox-new-games-for-september-21-to-25/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/76fcc29c91ed/800/600",
+    "published_at": "2026-09-18T14:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f9e165837e67",
+    "slug": "denuvo-sues-prolific-game-cracker-for-bypassing-drm-on-26-games",
+    "headline": "Denuvo Sues Prolific Game Cracker for Bypassing DRM on 26 Games",
+    "summary": "Denuvo is suing an anonymous game cracker for bypassing their anti-tamper technology in 26 games, including Black Myth: Wukong and Resident Evil Requiem.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/denuvo-are-suing-a-prolific-cracker-for-bypassing-their-drm-on-26-videogames-despite-not-knowing-their-real-identity"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/commander-re9.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-18T13:58:39.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "16b27e50a299",
+    "slug": "gears-of-war-e-day-system-requirements-require-ray-tracing-capable-gra",
+    "headline": " Gears of War: E-Day system requirements require ray tracing-capable graphics card to play, alongside 115 GB of free space on an SSD ",
+    "summary": "The game's minimum requirements are pretty forgiving.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/action/gears-of-war-e-day-system-requirements-require-ray-tracing-capable-graphics-card-to-play-alongside-115-gb-of-free-space-on-an-ssd/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ZkAd6Pu64tN54SNVBUpoeG-1920-80.png",
+    "published_at": "2026-09-18T13:46:09.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e6d18ceb72c2",
+    "slug": "pulling-focus-must-aaa-pander-to-the-distracted-opinion",
+    "headline": "Pulling focus: Must AAA pander to the distracted? | Opinion",
+    "summary": "There's been a lot of talk in recent years about the effect that the inflation of development budgets has had on the industry. As budgets in the hundreds of millions of dollars have become common, cracks have emerged in the foundations of the entire model for funding new games. Attitudes to risk have been warped in strange ways under the…",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/pulling-focus-must-aaa-pander-to-the-distracted-opinion"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/marvels-wolverine-deathstrikefight-screenshot-02-en-15sept26.webp?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-18T13:45:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2c99d6a0c7e8",
+    "slug": "control-resonant-review-day",
+    "headline": "Control Resonant Review Day",
+    "summary": "Control Resonant reviews are live ahead of its release next week, with critics weighing in on the next entry in the Control series from Remedy Entertainment.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/roundup-heres-what-the-critics-are-saying-about-control-resonant"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/07fb8cda58a14/large.jpg",
+    "published_at": "2026-09-18T13:35:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "control-resonant",
+    "game_label": "Control Resonant"
+  },
+  {
     "id": "8d356045dfac",
     "slug": "sega-is-bringing-back-a-classic-arcade-driving-game-without-keeping-it",
     "headline": "Sega Is Bringing Back a Classic Arcade Driving Game Without Keeping It Stuck in the Past",
@@ -44,6 +653,10 @@
       {
         "name": "TheGamer",
         "url": "https://www.thegamer.com/control-resonant-review-roundup/"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/control-resonant-review"
       }
     ],
     "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/control-resonant.jpg",
@@ -70,6 +683,27 @@
     "image_url": "https://assetsio.gnwcdn.com/revelation-storage.jpg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-09-18T13:04:26.000Z",
     "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "de621151af88",
+    "slug": "control-resonant-first-impressions-remedys-universe-expands",
+    "headline": "Control Resonant First Impressions: Remedy’s Universe Expands",
+    "summary": "Here's what GamesBeat thought about Control Resonant and it's importance as a new and distinct chapter in the Remedy Connect Universe. \nThe post Control Resonant First Impressions: Remedy’s Universe Expands appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/control-resonant-review/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/de621151af88/800/600",
+    "published_at": "2026-09-18T13:02:45.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -141,6 +775,31 @@
     "game_label": null
   },
   {
+    "id": "749390cdce23",
+    "slug": "magic-the-gatherings-hobbit-bundle-deal",
+    "headline": "Magic: The Gathering's Hobbit Bundle Deal",
+    "summary": "Magic: The Gathering's Hobbit Bundle is now available on Amazon for $60, featuring 9 boosters, foil lands, and an oversized die, marking an all-time low price.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/mtg-the-hobbit-booster-bundle-amazon-prime-day-early-deal"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/18/mtg-x-hobbit-bundle-deal-at-amazon-prime-day-early-sale-1789730172095.png",
+    "published_at": "2026-09-18T13:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "magic-the-gathering-the-hobbit-booster-bundle",
+    "game_label": "Magic: The Gathering The Hobbit Booster Bundle"
+  },
+  {
     "id": "10fb3df6049c",
     "slug": "review-control-resonant-ps5-a-wildly-inventive-and-drop-dead-gorgeous",
     "headline": "Review: Control Resonant (PS5) - A Wildly Inventive and Drop-Dead Gorgeous Sequel",
@@ -185,6 +844,33 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "930feb0ac21c",
+    "slug": "final-fantasy-7-revelation",
+    "headline": "Final Fantasy 7 Revelation",
+    "summary": "Final Fantasy 7 creator Nobuo Uematsu confirms the upcoming game will be massive, with a lead developer stating the game is likely to be around 200 GB in size.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/final-fantasy/prepare-your-hard-drives-final-fantasy-7-revelation-is-probably-going-to-be-around-200-gb-of-game-lead-says/"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/final-fantasy-7-revelation-second-take-preview"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ETrFn4nu4TrYsdjNHNRR3i-1920-80.jpg",
+    "published_at": "2026-09-18T13:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-7-revelation",
+    "game_label": "Final Fantasy 7 Revelation"
   },
   {
     "id": "27d612e970a8",
@@ -450,57 +1136,6 @@
     "game_label": "Grand Theft Auto"
   },
   {
-    "id": "930feb0ac21c",
-    "slug": "final-fantasy-7-revelation",
-    "headline": "Final Fantasy 7 Revelation",
-    "summary": "Final Fantasy 7 creator Nobuo Uematsu confirms the upcoming game will be massive, with a lead developer stating the game is likely to be around 200 GB in size.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/final-fantasy/prepare-your-hard-drives-final-fantasy-7-revelation-is-probably-going-to-be-around-200-gb-of-game-lead-says/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ETrFn4nu4TrYsdjNHNRR3i-1920-80.jpg",
-    "published_at": "2026-09-18T11:15:19.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "final-fantasy-7-revelation",
-    "game_label": "Final Fantasy 7 Revelation"
-  },
-  {
-    "id": "29236d1c76c8",
-    "slug": "the-tallest-players-in-ea-sports-fc-27",
-    "headline": "The Tallest Players in EA Sports FC 27",
-    "summary": "EA Sports FC 27 features a roster of giant players, including keepers, to help users build a team of towering athletes.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/ea-sports-fc-27-tallest-players/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/ea-sports-fc-27-tallest-players.jpg",
-    "published_at": "2026-09-18T11:13:13.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "ea-sports-fc-27",
-    "game_label": "EA Sports FC 27"
-  },
-  {
     "id": "dd4801a13740",
     "slug": "world-of-warcraft-forever-seemingly-optimized-for-xbox",
     "headline": "World of Warcraft: Forever Seemingly Optimized for Xbox",
@@ -753,6 +1388,32 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "14763f2332c3",
+    "slug": "nexons-new-bishojo-game-wont-overwhelm-blue-archive-development-devs-s",
+    "headline": "Nexon's New Bishojo Game Won't Overwhelm Blue Archive Development, Devs Say",
+    "summary": "Fareidolia's producer and Blue Archive's director address fans' concerns that the new game would overshadow Blue Archive's development",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/nexons-new-3d-bishojo-game-fareidolia-wont-harm-blue-archives-development-devs-assure-blue-archive-team-continues-to-expand-according-to-director/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/14763f2332c3/800/600",
+    "published_at": "2026-09-18T10:30:35.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fareidolia",
+    "game_label": "Fareidolia"
   },
   {
     "id": "6f8316ad1e18",
@@ -1039,6 +1700,30 @@
     "game_label": null
   },
   {
+    "id": "d18618c7fd2c",
+    "slug": "laid-back-camp-cozy-companion-game-releases-in-early-access-on-steam-i",
+    "headline": "Laid-Back Camp cozy companion game releases in Early Access on Steam in October. A one-time-purchase version of overhauled 2023 gacha game",
+    "summary": "The mobile versions will continue to be free-to-play, with a revamped game design.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/laid-back-camp-cozy-companion-game-releases-in-early-access-on-steam-in-october-a-one-time-purchase-version-of-overhauled-2023-gacha-game/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/d18618c7fd2c/800/600",
+    "published_at": "2026-09-18T09:03:04.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "8612db316b72",
     "slug": "the-blood-of-dawnwalker-dev-confirms-new-game-plus-is-on-the-way",
     "headline": "The Blood of Dawnwalker Dev Confirms New Game Plus Is on the Way",
@@ -1201,6 +1886,27 @@
     "image_url": "https://assetsio.gnwcdn.com/GDC_Header.webp?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-09-18T07:36:32.000Z",
     "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0aad9aac2315",
+    "slug": "lollipop-chainsaw-2-back2back-is-doubling-down-on-original-games-cute",
+    "headline": "Lollipop Chainsaw 2 Back2Back is doubling down on original game’s “cute and crazy” vibe. Developers talk about how the sequel came about",
+    "summary": "The dev team talked about the project during a Sega stage event at Tokyo Game Show 2026.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/lollipop-chainsaw-2-back2back-is-already-99-complete-developers-say-theyre-doubling-down-on-original-games-cute-and-crazy-vibe/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/0aad9aac2315/800/600",
+    "published_at": "2026-09-18T06:26:48.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4087,731 +4793,6 @@
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/lanterns-_-official-trailer-_-hbo-max-1-57-screenshot.png",
     "published_at": "2026-09-17T15:19:34.000Z",
     "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8e14642ceb7e",
-    "slug": "does-xbox-want-to-sell-blizzard",
-    "headline": "Does Xbox want to sell Blizzard?",
-    "summary": "Polygon explores the possible reasons behind Xbox's interest in acquiring Blizzard Entertainment, citing the delayed release of Diablo 5 and Starcraft 2.",
-    "category": "deals",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/video/does-xbox-want-to-sell-blizzard-point-it-out/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/pio-4-blizzard-sale.png",
-    "published_at": "2026-09-17T15:16:08.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "291616c0e71f",
-    "slug": "gta-6-wont-have-a-game-disc-but-it-is-getting-a-vinyl-and-cd-soundtrac",
-    "headline": "GTA 6 Won’t Have A Game Disc But It Is Getting A Vinyl And CD Soundtrack",
-    "summary": "Rockstar Games is releasing a soundtrack for Grand Theft Auto 6, but the game will not come with a physical disc. The soundtrack will be available on vinyl and CD.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/grand-theft-auto-6-gta6-soundtrack-vinyl-cd-pre-order-2000735270"
-      },
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/you-cant-get-a-physical-copy-of-gta-6-but-you-can-get-the-soundtrack-on-cd-or-a-usd125-deluxe-vinyl-collection/"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/08/gta.jpg",
-    "published_at": "2026-09-17T15:15:18.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "702101e45642",
-    "slug": "zero-parades-for-dead-spies-directors-cut-launches-on-ps5",
-    "headline": "Zero Parades: For Dead Spies Director's Cut Launches on PS5",
-    "summary": "ZA/UM is releasing a Director's Cut version of Zero Parades: For Dead Spies on PS5 on November 3rd, 2026, with new content, dialogue, and improvements.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/zero-parades-lands-on-ps5-in-directors-cut-form-on-3rd-november"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/3ceb222883d99/large.jpg",
-    "published_at": "2026-09-17T15:15:00.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "zero-parades-for-dead-spies",
-    "game_label": "Zero Parades: For Dead Spies"
-  },
-  {
-    "id": "1d55051ea04b",
-    "slug": "free-play-days-try-these-xbox-games-for-free",
-    "headline": "Free Play Days: Try These Xbox Games For Free",
-    "summary": "Xbox is offering free play for two games during Free Play Days: Hell Let Loose: Vietnam and Creedwater Clearance",
-    "category": "deals",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/free-play-days-try-these-xbox-games-for-free-september-17-20"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/43282011a9204/large.jpg",
-    "published_at": "2026-09-17T15:11:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "free-play-days",
-    "game_label": "Free Play Days"
-  },
-  {
-    "id": "d86e152a0afd",
-    "slug": "wardogs-exceeds-expectations-in-first-week",
-    "headline": "Wardogs Exceeds Expectations in First Week",
-    "summary": "A new game, Wardogs, reportedly generated more revenue in its first week than a six-month-old game, Marathon, did in its first six months.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/wardogs-already-more-revenue-than-marathon/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/new-project-2026-09-17t154624-416.jpg",
-    "published_at": "2026-09-17T15:03:29.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "wardogs",
-    "game_label": "Wardogs"
-  },
-  {
-    "id": "2f382f14d529",
-    "slug": "critical-role-campaign-4-officially-introduces-a-steamy-new-romance",
-    "headline": "Critical Role Campaign 4 Officially Introduces a Steamy New Romance",
-    "summary": "Campaign 4 of Critical Role finally leans into the romantic side of the actual play show with a steamy encounter between two characters.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/critical-role-campaign-4-new-romance/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/critical-role-schemers-table.jpg",
-    "published_at": "2026-09-17T15:03:15.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0589a65eb1f7",
-    "slug": "first-plot-tease-for-hideo-kojimas-physint",
-    "headline": "First Plot Tease for Hideo Kojima's Physint",
-    "summary": "Hideo Kojima has shared a cryptic teaser for his upcoming game Physint, which bears a resemblance to the plot of Metal Gear Solid 3",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/action/first-plot-tease-for-hideo-kojimas-physint-sure-does-remind-me-of-metal-gear-solid-3-the-next-cold-war-begins/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/vmcEwzyxH9XrqUiY4hwGAQ-1920-80.png",
-    "published_at": "2026-09-17T15:02:57.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "physint",
-    "game_label": "Physint"
-  },
-  {
-    "id": "2ae07c8349a5",
-    "slug": "epic-games-store-free-pc-game",
-    "headline": "Epic Games Store Free PC Game",
-    "summary": "Epic Games Store offers a free samurai roguelike game for a limited time, available until September 24",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/epic-games-store-free-games-9-17-2026-download/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/polygon-graphic-free-game-sale-banner-epic-games.jpg",
-    "published_at": "2026-09-17T15:00:56.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "180625322664",
-    "slug": "epic-games-store-reveals-free-games-for-september-24",
-    "headline": "Epic Games Store Reveals Free Games for September 24",
-    "summary": "The Epic Games Store is offering $40 worth of free games on September 24, including new and returning titles.",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/epic-games-store-september-2026-free-games-mechabellum-astrea/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/epic-games-store-logo-over-mechabellum-artwork-composite.jpg",
-    "published_at": "2026-09-17T15:00:26.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "bb5ecc71273c",
-    "slug": "twitch-ceo-predicts-gta-6-will-attract-huge-viewership",
-    "headline": "Twitch CEO Predicts GTA 6 Will Attract Huge Viewership",
-    "summary": "Twitch CEO Dan Clancy expects GTA 6's launch to draw in a large audience, anticipating the inclusion of a multiplayer mode in the near future.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/twitch-ceo-expects-gta-6-will-lead-to-a-huge-influx-of-viewers-and-anticipates-multiplayer-mode-is-coming-next-year-2000735285"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/08/large-1280x720.jpg",
-    "published_at": "2026-09-17T15:00:20.000Z",
-    "hype_signal": 90,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "062f2f195de6",
-    "slug": "razer-revives-tartarus-gaming-keypad-with-v2-pro-model",
-    "headline": "Razer Revives Tartarus Gaming Keypad with V2 Pro Model",
-    "summary": "Razer is bringing back its popular Tartarus gaming keypad with a new V2 Pro model, aiming to challenge Azeron's dominance in the market.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/gaming-controllers/after-13-years-razer-is-reviving-its-tartarus-gaming-keypad-with-a-v2-pro-model-and-it-could-end-up-as-any-keyboard-haters-favorite-peripheral/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/3URKyU6RyrsbKfueWjdZnL-1920-80.jpg",
-    "published_at": "2026-09-17T15:00:00.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "tartarus-v2-pro",
-    "game_label": "Tartarus V2 Pro"
-  },
-  {
-    "id": "d9128ee50a6f",
-    "slug": "preview-i-played-stellar-blade-on-switch-2-and-eves-only-lost-a-little",
-    "headline": "Preview: I Played Stellar Blade On Switch 2, And Eve's Only Lost A Little Of Her Gloss",
-    "summary": "The author previews Stellar Blade on the new Switch 2, sharing their thoughts on the updated port and how it compares to the original.",
-    "category": "reviews",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/previews/i-played-stellar-blade-on-switch-2-and-eves-only-lost-a-little-of-her-gloss"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/04517ee0928a9/large.jpg",
-    "published_at": "2026-09-17T15:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "stellar-blade",
-    "game_label": "Stellar Blade"
-  },
-  {
-    "id": "18ae2031df12",
-    "slug": "fortnites-kingdom-hearts-crossover-is-live-now",
-    "headline": "Fortnite's Kingdom Hearts Crossover Is Live Now",
-    "summary": "Fortnite's current season, Override, is introducing Sora from Kingdom Hearts, bringing a crossover event for fans to enjoy",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/fortnites-kingdom-hearts-crossover-is-live-now-and-theres-plenty-for-fans-to-discover"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/e514be1ade21f/large.jpg",
-    "published_at": "2026-09-17T15:00:00.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "kingdom-hearts",
-    "game_label": "Kingdom Hearts"
-  },
-  {
-    "id": "4503b749d731",
-    "slug": "free-play-days-sea-of-thieves-and-hell-let-loose-vietnam",
-    "headline": "Free Play Days: Sea of Thieves and Hell Let Loose Vietnam",
-    "summary": "Xbox is offering free play days for Sea of Thieves and Hell Let Loose Vietnam, starting September 17-20, exclusively for XBOX Game Pass Ultimate, Premium, and Essential members.",
-    "category": "esports",
-    "platform_tags": [
-      "xbox",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/09/17/free-play-days-09-17-2026/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/4503b749d731/800/600",
-    "published_at": "2026-09-17T15:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "hell-let-loose-vietnam",
-    "game_label": "Hell Let Loose Vietnam"
-  },
-  {
-    "id": "01dcdf757a4e",
-    "slug": "bloodstained-the-scarlet-engagement-delayed-to-2027-new-trailer-reveal",
-    "headline": "Bloodstained: The Scarlet Engagement Delayed to 2027, New Trailer Reveals Glimpses of Gameplay",
-    "summary": "Castlevania royalty Koji Igarashi's game Bloodstained: The Scarlet Engagement has been delayed to 2027, but a new trailer hints at an exciting game experience.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/delayed-to-2027-bloodstained-the-scarlet-engagement-is-looking-good-in-new-trailer"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/c7acc33110d45/large.jpg",
-    "published_at": "2026-09-17T14:45:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "bloodstained-the-scarlet-engagement",
-    "game_label": "Bloodstained: The Scarlet Engagement"
-  },
-  {
-    "id": "7594be660c16",
-    "slug": "how-to-level-up-fast-in-marvels-wolverine-best-xp-farm",
-    "headline": "How to Level Up Fast in Marvel's Wolverine (Best XP Farm)",
-    "summary": "A quick way to level up in Marvel's Wolverine is revealed, helping players reach Level 36 and unlock the Ultimate Predator Trophy.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/marvels-wolverine-best-xp-farm-level-up-fast/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/marvels-wolverine-secret-ending-repressed-memories-trophy/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/marvel-s-wolverine-max-level.jpg",
-    "published_at": "2026-09-17T14:38:46.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "marvels-wolverine",
-    "game_label": "Marvel's Wolverine"
-  },
-  {
-    "id": "60b6e8f097af",
-    "slug": "razer-unveils-affordable-kraken-v4-x-sensa-hd-haptics-headset",
-    "headline": "Razer Unveils Affordable Kraken V4 X Sensa HD Haptics Headset",
-    "summary": "Razer has released a new wired headset with haptics technology at an affordable price, targeting PC gamers with immersive audio and feedback.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/headsets-headphones/razers-new-kraken-v4-x-sensa-hd-headset-can-make-you-literally-buzz-with-excitement-alongside-your-favorite-pc-games/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/pYUPw2BqjYwSpMCqnNSmQS-1920-80.jpg",
-    "published_at": "2026-09-17T14:38:20.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "kraken-v4-x-sensa-hd-haptics",
-    "game_label": "Kraken V4 X Sensa HD Haptics"
-  },
-  {
-    "id": "8c56990eac54",
-    "slug": "hp-omen-35l-2026-review",
-    "headline": "HP Omen 35L (2026) review",
-    "summary": "PC Gamer reviews the HP Omen 35L gaming monitor, discussing its display quality, design, and performance.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/gaming-pcs/hp-omen-35l-2026-review/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/NRiuWJ8YersHWaELvtB9vj-1920-80.jpg",
-    "published_at": "2026-09-17T14:34:51.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2f595335131a",
-    "slug": "baldurs-gate-3s-hunger-system-cracks-me-up",
-    "headline": "Baldur's Gate 3's Hunger System Cracks Me Up",
-    "summary": "The Blood of Dawnwalker's vampiric hunger system in Baldur's Gate 3 has inspired a similar experience in the game, according to IGN.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/the-blood-of-dawnwalkers-hunger-is-a-dark-urge-to-match-baldurs-gate-3"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/17/dark-urge-blog-1789650630385.jpg",
-    "published_at": "2026-09-17T14:30:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "baldurs-gate-3",
-    "game_label": "Baldur's Gate 3"
-  },
-  {
-    "id": "7cc61d8cdf32",
-    "slug": "bloomwalker-joins-ni-no-kuni-universe",
-    "headline": "Bloomwalker Joins Ni no Kuni Universe",
-    "summary": "Netmarble's crafting adventure, Bloomwalker, is part of the Ni no Kuni universe and coming to Switch",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/the-ni-no-kuni-universe-welcomes-a-new-crafting-adventure-and-its-heading-to-switch"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/5c28076cdb829/large.jpg",
-    "published_at": "2026-09-17T14:30:00.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "bloomwalker",
-    "game_label": "Bloomwalker"
-  },
-  {
-    "id": "2e4f73510c1b",
-    "slug": "feature-25-of-the-best-discounted-games-from-xboxs-tokyo-game-show-sal",
-    "headline": "Feature: 25+ Of The Best Discounted Games From Xbox's Tokyo Game Show Sale",
-    "summary": "Ninki gēmu ga ōhaba waribiki! We've got another set of massively discounted games for you to rummage through! We love a proper sale, and right now, there's plenty of top-tier games on offer. As usual, we've been busy browsing through Xbox's current sales to find you the best deals worth nabbing. Tokyo Game Show kicked off this week, which means…",
-    "category": "deals",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/features/25plus-of-the-best-discounted-games-from-xboxs-tokyo-game-show-sale"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/e7d6c52bb652a/large.jpg",
-    "published_at": "2026-09-17T14:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "751b8ede1479",
-    "slug": "eu-commissions-new-kids-act-draft-targets-online-games",
-    "headline": "EU Commission's New KIDS Act Draft Targets Online Games",
-    "summary": "A proposed EU law would restrict online games sold in EU territories, affecting minors and requiring more stringent content controls.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/draft-of-new-eu-law-proposes-sweeping-restrictions-on-online-games"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/alexandre-lallemand-Pcs3mOL14Sk-unsplash.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-17T14:29:58.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "50a2c8f5c6ff",
-    "slug": "all-aniipods-in-aniimo-and-how-to-get-them",
-    "headline": "All Aniipods in Aniimo and How to Get Them",
-    "summary": "Aniipods are tools used to capture Aniimo, and there are 8 different types available in the game. Here’s how they work and how to get them.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/aniimo-aniipod-pro-mega-ultra/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/all-aniipods-in-aniimo-and-how-to-get-them.jpg",
-    "published_at": "2026-09-17T14:28:46.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b34e55770179",
-    "slug": "unlock-free-admin-panel-code-in-fortnite-by-completing-bastian-quests",
-    "headline": "Unlock Free Admin Panel Code in Fortnite by Completing Bastian Quests",
-    "summary": "Fortnite players can earn a free Admin Panel code by completing all of Bastian's Story Quests this week.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/fortnite-bastian-quests-guide/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/fortnite-all-bastian-quests.png",
-    "published_at": "2026-09-17T14:27:32.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "fortnite",
-    "game_label": "Fortnite"
-  },
-  {
-    "id": "d5ccead6f622",
-    "slug": "three-different-4x-strategy-games-three-different-solutions-to-that-in",
-    "headline": "Three different 4X strategy games, three different solutions to \"that inherent problem\" of disappearing exploration",
-    "summary": "There is an issue in 4X games. In fact, it's so persistent, that Amplitude Studios' co-founder and CEO Romain de Waubert de Genlis describes it as an \"inherent problem\", one his team have been attempting to solve since the first Endless Legend released back in 2014. \"One of the X's, 'explore', disappears after a while,\" de Waubert de Genlis explains.…",
-    "category": "industry",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/three-different-4x-strategy-games-three-different-solutions-to-that-inherent-problem-of-disappearing-exploration"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/humankind-2-battle.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-17T14:26:54.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cca5758dc203",
-    "slug": "how-to-earn-driver-xp-in-wardogs",
-    "headline": "How to earn Driver XP in Wardogs",
-    "summary": "Wardogs players are frustrated with the slow rate of earning Driver XP, a key component of the game's progression system.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/fps/wardogs-driver-xp/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/h83udxAHdm97oPKFGVDE34-1920-80.jpg",
-    "published_at": "2026-09-17T14:25:31.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "wardogs",
-    "game_label": "Wardogs"
-  },
-  {
-    "id": "6bb38f55b2f8",
-    "slug": "developer-admits-that-lower-game-prices-may-be-necessary-due-to-overwh",
-    "headline": "Developer Admits That Lower Game Prices May Be Necessary Due to Overwhelming Fall Release Lineup",
-    "summary": "A game developer has acknowledged that game prices might be lower this fall due to the crowded release schedule, which could impact game sales. Valor Mortis may benefit from its competitive pricing and day-one availability on Xbox Game Pass.",
-    "category": "deals",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/games-price-is-lower-because-this-fall-is-so-packed-dev-admits/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4551962-valor-mortis.jpg?w=300",
-    "published_at": "2026-09-17T14:23:19.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "valor-mortis",
-    "game_label": "Valor Mortis"
-  },
-  {
-    "id": "5ad32e0771e5",
-    "slug": "valor-mortis-is-only-40-because-its-developer-knows-youll-be-choosing",
-    "headline": "Valor Mortis is only $40 because its developer knows you'll be choosing from a lot of big games over this \"stacked\" autumn",
-    "summary": "The Valor Mortis developer has announced the game's price and offered an explanation as to why the team picked this particular price point. Valor Mortis costs $40 / €40, which is notably cheaper than other games releasing around the same time. We've asked for clarification on UK price.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/valor-mortis-40-usd-price-stacked-autumn-season"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/valor-mortis-screen-crop-1.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-17T14:22:34.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a87ab264857c",
-    "slug": "metroid-prime-4-beyond-sale",
-    "headline": "Metroid Prime 4: Beyond Sale",
-    "summary": "Nintendo's Customer Appreciation Sale is offering 42% off Metroid Prime 4: Beyond on Switch, now priced at $34.99.",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/metroid-prime-4-beyond-on-switch-drops-to-35-during-nintendos-customer-appreciation-sale"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2025/12/02/prime-4-blogroll-1764652039502.jpg",
-    "published_at": "2026-09-17T14:22:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "metroid-prime-4-beyond",
-    "game_label": "Metroid Prime 4: Beyond"
-  },
-  {
-    "id": "437c2929d9fd",
-    "slug": "nine-months-into-a-rough-year-for-handheld-gaming-pcs-im-reluctantly-t",
-    "headline": " Nine months into a rough year for handheld gaming PCs, I'm reluctantly thankful for the open-box ROG Xbox Ally bones being thrown ",
-    "summary": "You shouldn't have to pay over $500 for a handheld PC right now, and while the open-box ROG Xbox Ally stock isn't an ideal solution, it will keep costs lower.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/handhelds/nine-months-into-a-rough-year-for-handheld-gaming-pcs-im-reluctantly-thankful-for-the-open-box-rog-xbox-ally-bones-being-thrown/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/iCQihk5eqRUUx3w3nvpsR7-1920-80.jpg",
-    "published_at": "2026-09-17T14:21:23.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,

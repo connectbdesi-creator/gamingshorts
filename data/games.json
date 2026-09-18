@@ -13409,5 +13409,65 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-18T09:37:30.668Z"
+  },
+  {
+    "slug": "portal",
+    "name": "Portal",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg",
+    "released": "2007-10-09",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "Puzzle"
+    ],
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "Android",
+      "macOS",
+      "Linux",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/99e/99e94bd55eb75fa6e75c3dcbb1a570b2.jpg",
+      "https://media.rawg.io/media/screenshots/2f0/2f0297a46934d9fa914c626902b1ce20.jpg",
+      "https://media.rawg.io/media/screenshots/3b3/3b3713fbca6194dfc4d6e8a8d006d354.jpg",
+      "https://media.rawg.io/media/screenshots/c6f/c6f9afc3e4dd51068b22f04acbc6ca99.jpg",
+      "https://media.rawg.io/media/screenshots/748/74841207eec76ebc7fc03210168bfb7e.jpg",
+      "https://media.rawg.io/media/screenshots/e72/e7256b4caedf099bcb8ebd332f892334.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-18T15:39:39.425Z"
+  },
+  {
+    "slug": "slay-the-spire-2",
+    "name": "Slay the Spire 2",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/2e4/2e41754acc7e3176f5a2d5eeeeb89132.jpg",
+    "released": "2026-03-06",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Card",
+      "Strategy",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Linux"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/eed/eedc8828ac6af3c20c37255ad81b5f90.jpg",
+      "https://media.rawg.io/media/screenshots/37e/37e6d530cbdbe9a0c4911c5399b22caa.jpg",
+      "https://media.rawg.io/media/screenshots/710/710c9b60d7893f0396e2d3e2ddde7cd0.jpg",
+      "https://media.rawg.io/media/screenshots/6c4/6c4f40a9aa24275054c44e5aad2b119f.jpg",
+      "https://media.rawg.io/media/screenshots/2e4/2e41754acc7e3176f5a2d5eeeeb89132.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-18T15:39:41.710Z"
   }
 ]
