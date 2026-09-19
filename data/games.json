@@ -13729,5 +13729,59 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-19T11:36:54.550Z"
+  },
+  {
+    "slug": "the-witcher",
+    "name": "The Witcher",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/2f7/2f70e8bf43b0d6223823aa644b0a2854.jpg",
+    "released": "2007-10-24",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/0f4/0f4ea1e92cdb4d782af9e68e5841936b.jpg",
+      "https://media.rawg.io/media/screenshots/2a2/2a26e28a4358ab1a28436739249f4514.jpg",
+      "https://media.rawg.io/media/screenshots/3c8/3c87ff09c37349cd26d910543949ea00.jpg",
+      "https://media.rawg.io/media/screenshots/e1d/e1daacbc4a810aa1f58965e0faa0f583.jpg",
+      "https://media.rawg.io/media/screenshots/417/417f1b14e27c45b08c5c640ed351139d.jpg",
+      "https://media.rawg.io/media/screenshots/1ff/1ff324448756ce232037fbcc9808cea8.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-19T15:37:28.368Z"
+  },
+  {
+    "slug": "ea-sports-fc-27",
+    "name": "EA SPORTS FC 27",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/d9b/d9b0ef34a249647310c5bc7577ce68e3.jpg",
+    "released": "2026-09-25",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/8a3/8a362da6053e94416327b211eac26daa.jpg",
+      "https://media.rawg.io/media/screenshots/3d8/3d87b6344f25b392d3315eaf8fd2c24d.jpg",
+      "https://media.rawg.io/media/screenshots/b9d/b9d82085d8d051de495e1241f148e517.jpg",
+      "https://media.rawg.io/media/screenshots/018/018b8d079c88dfa272f06ddaa7ff020b.jpg",
+      "https://media.rawg.io/media/screenshots/d9b/d9b0ef34a249647310c5bc7577ce68e3.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-19T15:37:37.296Z"
   }
 ]
