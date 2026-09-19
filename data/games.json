@@ -13630,5 +13630,52 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-18T23:36:55.097Z"
+  },
+  {
+    "slug": "luminary",
+    "name": "Luminary",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/e33/e3397c79939e59c81361ea13ab016d44.jpg",
+    "released": "2018-11-10",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/cb5/cb5866337de0a7db06c929a91c7b91bb.jpg",
+      "https://media.rawg.io/media/screenshots/010/0103afffcc7a647c5f95eaf65830fd44.jpg",
+      "https://media.rawg.io/media/screenshots/e33/e3397c79939e59c81361ea13ab016d44.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-19T01:37:16.176Z"
+  },
+  {
+    "slug": "call-of-duty-warzone",
+    "name": "Call of Duty: Warzone",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/7e3/7e327a055bedb9b6d1be86593bef473d.jpg",
+    "released": "2020-03-10",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/1e5/1e5bb01930db2db0a1ff409cb5ceec5e.jpg",
+      "https://media.rawg.io/media/screenshots/168/1686b477dc7733abd9a909290a84361f.jpg",
+      "https://media.rawg.io/media/screenshots/bf9/bf92d956d9fc0929d7ca18d134241850.jpg",
+      "https://media.rawg.io/media/screenshots/064/064e6feb9d1e0e412416b0b5fa00ac31.jpg",
+      "https://media.rawg.io/media/screenshots/d70/d70f7b3981a455f22450bad669668e16_EFG4teR.jpg",
+      "https://media.rawg.io/media/screenshots/feb/feb0099763d759c2bf363e2ad4a68897.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-19T01:37:17.132Z"
   }
 ]
