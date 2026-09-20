@@ -13841,5 +13841,64 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-20T07:36:45.613Z"
+  },
+  {
+    "slug": "monster-hunter-world-2",
+    "name": "Monster Hunter: World",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/21c/21cc15d233117c6809ec86870559e105.jpg",
+    "released": "2018-01-26",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c1d/c1d2b3eae58a73518d20c040f783563f.jpg",
+      "https://media.rawg.io/media/screenshots/6af/6af12f47d129237cba6e9a533a55f6d7.jpg",
+      "https://media.rawg.io/media/screenshots/800/80059f527ef16e3cf804628968ece842.jpg",
+      "https://media.rawg.io/media/screenshots/c5f/c5f7d748c1a668c5a5789923aadbe60d.jpg",
+      "https://media.rawg.io/media/screenshots/c56/c56295d86f5b8b56bca3a6c6398a4c70.jpg",
+      "https://media.rawg.io/media/screenshots/d48/d4841fe62e5bf082eff19279f191a917.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-20T13:37:18.677Z"
+  },
+  {
+    "slug": "assassins-creed-brotherhood",
+    "name": "Assassin’s Creed Brotherhood",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/116/116b93c6876a361a96b2eee3ee58ab13.jpg",
+    "released": "2010-11-16",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "macOS",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/0d2/0d22156635a002c37ce9bf7d2769a6ee.jpg",
+      "https://media.rawg.io/media/screenshots/99b/99b3beb99beb663e807b959d2e310832.jpg",
+      "https://media.rawg.io/media/screenshots/ba1/ba178bf7bf726331a168427c1b6085cd.jpg",
+      "https://media.rawg.io/media/screenshots/2e5/2e5f45b6e46a0425e305ce98c4739fae.jpg",
+      "https://media.rawg.io/media/screenshots/c65/c659f0917ca7082c71ba824e7d34b37c.jpg",
+      "https://media.rawg.io/media/screenshots/60f/60ff8d39c22d907bda1165bc2b92bfc5.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-20T13:37:19.526Z"
   }
 ]
