@@ -1,5 +1,124 @@
 [
   {
+    "id": "2cd8c3d017f5",
+    "slug": "wolverine-developer-insomniac-denies-using-generative-ai-after-fans-sp",
+    "headline": "Wolverine developer Insomniac denies using generative AI after fans spot strange restroom sign",
+    "summary": "Wolverine developer Insomniac has denied using generative AI after fans jumped on social media to share screenshots of a bizarre restroom sign.\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-09-20-at-10.09.46.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-20T09:20:36.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9ff74fdcf4ac",
+    "slug": "feature-box-art-brawl-duel-cubivore-survival-of-the-fittest",
+    "headline": "Feature: Box Art Brawl - Duel: Cubivore: Survival Of The Fittest",
+    "summary": "Remember this one?\nHello folks, and welcome back to another edition of Box Art Brawl!\nLast week, our resident Layton fanatic put Spectre's Call under the microscope, pitting Europe against North America and Japan. The latter two nabbed the trophy this time, gaining 66% of the vote. Well done!\nRead the full article on nintendolife.com",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/features/box-art-brawl-duel-cubivore-survival-of-the-fittest"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/0b9f6bce2e9d0/large.jpg",
+    "published_at": "2026-09-20T09:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "1a28ba6dcff0",
+    "slug": "toys-r-us-makes-comeback-with-120-new-stores-thanks-to-pop-culture-and",
+    "headline": "Toys R Us Makes Comeback with 120 New Stores Thanks to Pop Culture and Collectibles",
+    "summary": "Toys R Us is expanding its store count, with a focus on collectibles and pop culture items, marking its return to the retail scene.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/toys-r-us-tcg-collectibles-comeback/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/blurred-people-hurrying-past-a-welcome-to-toys-r-us-sign-in-a-mall.jpg",
+    "published_at": "2026-09-20T08:53:55.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2ee50409c748",
+    "slug": "the-gta-timeline-is-completely-irrelevant",
+    "headline": "The GTA Timeline Is Completely Irrelevant",
+    "summary": "Rockstar's Grand Theft Auto series is not directly connected, allowing each game to stand on its own",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-timeline-doesnt-matter/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lucia_caminos_08.jpg",
+    "published_at": "2026-09-20T08:30:14.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto",
+    "game_label": "Grand Theft Auto"
+  },
+  {
+    "id": "45ad374c19cc",
+    "slug": "konami-releasing-castlevania-belmonts-curse-demo-next-month",
+    "headline": "Konami Releasing Castlevania: Belmont's Curse Demo Next Month",
+    "summary": "Save data will carry over.\n\nKonami is reviving the Castlevania series next month with the release of Castlevania: Belmont's Curse on the Switch.\nRead the full article on nintendolife.com",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/konami-releasing-castlevania-belmonts-curse-demo-next-month"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/9be15c9f1f1ce/large.jpg",
+    "published_at": "2026-09-20T08:05:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "0427539495dd",
     "slug": "persona-is-coming-to-tv-with-a-new-netflix-series",
     "headline": "Persona is Coming to TV with a New Netflix Series",
@@ -4560,120 +4679,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "a707b7ffc001",
-    "slug": "how-to-set-time-of-day-in-aniimo",
-    "headline": "How to Set Time of Day in Aniimo",
-    "summary": "A guide on controlling the time of day in Aniimo to catch specific Wild Aniimo species and complete quests.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/aniimo-how-change-time-of-day-rest-pathfinder/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/aniimo-how-to-change-day-time.jpg",
-    "published_at": "2026-09-18T16:30:11.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "aniimo",
-    "game_label": "Aniimo"
-  },
-  {
-    "id": "c05c628af3f5",
-    "slug": "sony-releases-surprise-ps4-console-update-for-september-2026",
-    "headline": "Sony Releases Surprise PS4 Console Update for September 2026",
-    "summary": "A new update for the PS4 is available for download, despite Sony's focus on the PS5. The update's details and release date are unclear.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/ps4-console-system-software-update-patch-notes-september-2026/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/ps4-console-update-september-2026.jpg",
-    "published_at": "2026-09-18T16:27:03.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7ce3358d6bd0",
-    "slug": "roblox-the-hunt-20-guide-all-items-and-games",
-    "headline": " Roblox The Hunt 20 guide - all items and games ",
-    "summary": "In the latest Roblox the Hunt game, celebrating Roblox's birthday, you can experience the best games of the last 20 years",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/puzzle/roblox-the-hunt-20-guide/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/KtViBuE6RWJ7rrEoiRgAfA-1920-80.jpg",
-    "published_at": "2026-09-18T16:24:21.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "46e0fa378b19",
-    "slug": "the-best-multiplayer-pirate-game-is-free-on-steam",
-    "headline": "The Best Multiplayer Pirate Game Is Free on Steam",
-    "summary": "Steam has made six games free to play for the weekend, including Diablo 4 and Sea of Thieves.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/steam-games-free-to-play-weekend-sea-of-thieves-diablo-4/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24941549/e10a431f_9b13_4ff3_92a1_53ef00b5c052.jpg",
-    "published_at": "2026-09-18T16:24:09.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4538eed70840",
-    "slug": "world-zero-codes-released-for-roblox-the-hunt-20",
-    "headline": "World Zero Codes Released for Roblox the Hunt 20",
-    "summary": "Players of Roblox the Hunt 20 can redeem World Zero codes for in-game rewards, including coins and presents.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/rpg/world-zero-codes/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/57A6MWEHYcawNSeAmq8kAL-1920-80.jpg",
-    "published_at": "2026-09-18T16:23:37.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "roblox-the-hunt-20",
-    "game_label": "Roblox the Hunt 20"
   }
 ]
