@@ -13900,5 +13900,73 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-20T13:37:19.526Z"
+  },
+  {
+    "slug": "wane",
+    "name": "wane",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/262/262eae2f3bf3d8a20d40f6dc2dea6227.jpg",
+    "released": "2018-05-06",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/262/262eae2f3bf3d8a20d40f6dc2dea6227.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-20T17:37:31.537Z"
+  },
+  {
+    "slug": "ace-attorney-trilogy",
+    "name": "Ace Attorney Trilogy",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/05c/05c26277f81ace52299b717c285e7e64_Nbw9pVV.jpg",
+    "released": "2022-06-09",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Simulation"
+    ],
+    "platforms": [
+      "iOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/09b/09b56cb144eb2758de5c1cc2a9344723_U19JV2J.jpg",
+      "https://media.rawg.io/media/screenshots/d36/d36ef761bde476c93f0addb8e8c55e15_eH6P1CA.jpg",
+      "https://media.rawg.io/media/screenshots/d4c/d4c2a4fbc1fdbf73fb11bf2c6e64db23_Sa7isyY.jpg",
+      "https://media.rawg.io/media/screenshots/313/313c5be08c5ade0085515afa5a6a244e_0coCAs8.jpg",
+      "https://media.rawg.io/media/screenshots/05c/05c26277f81ace52299b717c285e7e64_Nbw9pVV.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-20T17:37:32.033Z"
+  },
+  {
+    "slug": "dynasty-warriors-3-complete-edition",
+    "name": "DYNASTY WARRIORS 8: Xtreme Legends Complete Edition",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/637/6370d17534183a7cbcff7bb1878188a6.jpg",
+    "released": "2014-05-13",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/220/220dd00343ad6663ee509f45bb0d65d0.jpg",
+      "https://media.rawg.io/media/screenshots/a88/a88682be2829a61d7b8d56145b9b2618.jpg",
+      "https://media.rawg.io/media/screenshots/4d3/4d3819d16f169f0122cd2d6a3870874c.jpg",
+      "https://media.rawg.io/media/screenshots/114/1143f4318b2262b9a9e202ef5c508621.jpg",
+      "https://media.rawg.io/media/screenshots/d63/d63966e1f9e16791f7d7a7d38d4c2490.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-20T17:37:33.266Z"
   }
 ]
