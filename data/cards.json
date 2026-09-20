@@ -1,5 +1,118 @@
 [
   {
+    "id": "0427539495dd",
+    "slug": "persona-is-coming-to-tv-with-a-new-netflix-series",
+    "headline": "Persona is Coming to TV with a New Netflix Series",
+    "summary": "Atlus role-playing game series Persona is getting a live-action streaming series on Netflix thanks to Sonic the Hedgehog and Stranger Things producers",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/persona-streaming-tv-series-netflix/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23355408/persona_5.jpg",
+    "published_at": "2026-09-20T07:17:39.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "de912dddf91e",
+    "slug": "multiple-switch-games-gain-switch-2-compatibility",
+    "headline": "Multiple Switch Games Gain Switch 2 Compatibility",
+    "summary": "Nintendo has released firmware updates to enable backward compatibility for various Switch games on the Switch 2 console",
+    "category": "patches",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/multiple-switch-games-receive-switch-2-compatibility-fixes"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/e611979dc2cb6/large.jpg",
+    "published_at": "2026-09-20T07:05:00.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "multiple-switch-games",
+    "game_label": "Multiple Switch Games"
+  },
+  {
+    "id": "92beaf0d940d",
+    "slug": "16-years-later-the-best-kingdom-hearts-game-is-more-essential-than-eve",
+    "headline": "16 Years Later, the Best Kingdom Hearts Game Is More Essential Than Ever",
+    "summary": "Polygon praises Kingdom Hearts: Birth by Sleep as a crucial game in the series, explaining the enigmatic Sora and friends, making it a must-play 16 years after its release.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/kingdom-hearts-birth-by-sleep-best-game/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/khddd.jpg",
+    "published_at": "2026-09-20T07:00:15.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "kingdom-hearts-birth-by-sleep",
+    "game_label": "Kingdom Hearts: Birth by Sleep"
+  },
+  {
+    "id": "04495aac05b0",
+    "slug": "stellar-blade-gets-a-switch-2-eshop-demo-today",
+    "headline": "Stellar Blade Gets A Switch 2 eShop Demo Today",
+    "summary": "New Bayonetta collab trailer also released. If you've been eager to get your hands on the Switch 2 version of Stellar Blade, a demo is now available to download on the eShop. Along with this, Shift Up has also published a new trailer, showing off the recently announced Bayonetta collaboration. This will be free when the game is released on…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-gets-a-switch-2-eshop-demo-today"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/3a09dcbb19df1/large.jpg",
+    "published_at": "2026-09-20T06:30:00.000Z",
+    "hype_signal": 95,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "99647b6544f1",
+    "slug": "stellar-blade-bayonetta-collaboration-vignette-trailer-switch-2-demo-n",
+    "headline": "Stellar Blade ‘Bayonetta Collaboration Vignette’ trailer, Switch 2 demo now available",
+    "summary": "SHIFT UP has released a new trailer for Stellar Blade‘s free Bayonetta collaboration update, which …",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/stellar-blade-bayonetta-collaboration-vignette-trailer-switch-2-demo-now-available"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/99647b6544f1/800/600",
+    "published_at": "2026-09-20T05:43:29.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "2c8cd09e1029",
     "slug": "knight-rider-is-free-to-stream-on-all-platforms",
     "headline": "Knight Rider is Free to Stream on All Platforms",
@@ -4562,132 +4675,5 @@
     "comment_count": 0,
     "game": "roblox-the-hunt-20",
     "game_label": "Roblox the Hunt 20"
-  },
-  {
-    "id": "2c99d6a0c7e8",
-    "slug": "control-resonant-review-day",
-    "headline": "Control Resonant Review Day",
-    "summary": "Control Resonant reviews are live ahead of its release next week, with critics weighing in on the next entry in the Control series from Remedy Entertainment.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/roundup-heres-what-the-critics-are-saying-about-control-resonant"
-      },
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/control-resonant-critical-consensus"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/07fb8cda58a14/large.jpg",
-    "published_at": "2026-09-18T16:15:36.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "control-resonant",
-    "game_label": "Control Resonant"
-  },
-  {
-    "id": "1705d5ecd47c",
-    "slug": "gears-of-war-e-day-will-be-incredibly-tough-to-play-on-pc",
-    "headline": "Gears Of War: E-Day Will Be Incredibly Tough To Play On PC",
-    "summary": "Gears Of War's E-Day release may struggle to run smoothly on PC due to demanding hardware requirements, particularly for graphics cards.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/gears-of-war-e-day-ray-tracing-graphics-card-unplayable-pc/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/gears-of-war-marcus-close-up.png",
-    "published_at": "2026-09-18T16:13:49.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gears-of-war",
-    "game_label": "Gears Of War"
-  },
-  {
-    "id": "7b07a00c2ccc",
-    "slug": "fire-emblem-fortunes-weave-secret-location-for-captains-and-popular-dr",
-    "headline": "Fire Emblem Fortune's Weave: Secret Location for Captains' and Popular Drink Recipes Quests Revealed",
-    "summary": "Fire Emblem: Fortune's Weave players can complete two quests at once by finding Bitter Leaves and Pepper Leaves in one location, and the game also includes popular drink recipes",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-pepper-and-bitter-leaves-location-for-captains-and-popular-drink-recipes-quests/"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-wonder-leaves-location-for-elegant-drink-recipes-quest/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/7b07a00c2ccc/800/600",
-    "published_at": "2026-09-18T16:11:24.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "fire-emblem-fortunes-weave",
-    "game_label": "Fire Emblem Fortune's Weave"
-  },
-  {
-    "id": "b949f56c9c8b",
-    "slug": "save-on-forza-horizon-6-skyrim-for-switch-2-and-more-today-only",
-    "headline": "Save on Forza Horizon 6, Skyrim for Switch 2, and More (Today Only)",
-    "summary": "Best Buy has dropped big discounts on Starfield for PS5, Skyrim for Switch 2, and a few more Microsoft-published games, but only for today.",
-    "category": "deals",
-    "platform_tags": [
-      "playstation",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/save-on-forza-horizon-6-skyrim-for-switch-2-and-more-today-only"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/18/best-buy-microsoft-game-deals-1789739681701.jpg",
-    "published_at": "2026-09-18T16:08:46.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b2f493892be8",
-    "slug": "keep-driving-gets-official-mod-support-via-steam-workshop",
-    "headline": "Keep Driving gets official mod support via Steam Workshop",
-    "summary": "Road trip RPG Keep Driving is adding mod support, encouraging players to play the game if they haven't already. The feature is set to launch on September 28th via the Steam Workshop.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/tractor-battling-teenage-road-trip-rpg-keep-driving-is-getting-official-mod-support-via-steam-workshop-later-this-month"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/keep-driving-mod-support-steam-workshop-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-18T16:04:09.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "keep-driving",
-    "game_label": "Keep Driving"
   }
 ]
