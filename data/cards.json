@@ -1,5 +1,204 @@
 [
   {
+    "id": "1b4c3484b8f0",
+    "slug": "persona-4-revival-expands-with-new-social-link-and-anime-crossover",
+    "headline": "Persona 4 Revival Expands with New Social Link and Anime Crossover",
+    "summary": "Persona 4 Revival is introducing a new Social Link with crossover content from the Persona 4 anime, expanding the game's social dynamics and storyline.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/persona-4-revival-anime-aika-social-link/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/persona-4-revival-yu-izanagi.jpg",
+    "published_at": "2026-09-20T19:30:13.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "persona-4-revival",
+    "game_label": "Persona 4 Revival"
+  },
+  {
+    "id": "8a1cecdb30ef",
+    "slug": "tokyo-game-show-cuts-back-to-4-day-format-due-to-typhoon",
+    "headline": "Tokyo Game Show Cuts Back to 4-Day Format Due to Typhoon",
+    "summary": "The Tokyo Game Show will now take place over 4 days instead of 5 due to Typhoon Dujuan's impact on the event's plans.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/first-5-day-tokyo-game-show-in-30-years-cuts-back-to-4-in-face-of-typhoon-dujuan/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/4NFKHwAjysznfuZyZJFbG3-1920-80.jpg",
+    "published_at": "2026-09-20T19:13:08.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d8f2f0589d71",
+    "slug": "this-40-year-old-video-game-is-somehow-more-fun-than-ever",
+    "headline": "This 40-Year-Old Video Game Is Somehow More Fun Than Ever",
+    "summary": "Polygon praises an old game for retaining its charm over time, despite common expectations that classic games decline with age.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/mario-bros-nes-arcade-retrospective/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/jason-leung-zv7lnfyqlma-unsplash.jpg",
+    "published_at": "2026-09-20T19:00:16.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "none",
+    "game_label": "None"
+  },
+  {
+    "id": "a68cd2ba1dc2",
+    "slug": "elden-ring-nightreign-modders-bring-back-the-dead",
+    "headline": "Elden Ring Nightreign Modders Bring Back the Dead",
+    "summary": "PC Gamer reports on modders creating content for the deceased Elden Ring spin-off Elden Ring Nightreign, including a Dark Souls 2 DLC zone, from the community.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/action/elden-ring-nightreign-is-dead-but-modders-are-dabbing-on-its-corpse-with-one-porting-an-entire-dark-souls-2-dlc-zone-as-a-playable-map/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/abua35RXUY97V82GeJ9ktd-1920-80.jpg",
+    "published_at": "2026-09-20T18:38:15.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "elden-ring-nightreign",
+    "game_label": "Elden Ring Nightreign"
+  },
+  {
+    "id": "a77c91d43ebc",
+    "slug": "new-the-walking-dead-release-brings-back-daryl-dixon-and-rick-grimes",
+    "headline": "New The Walking Dead Release Brings Back Daryl Dixon and Rick Grimes",
+    "summary": "A new Walking Dead game release brings back iconic characters Daryl Dixon and Rick Grimes in prominent roles.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/the-walking-dead-streets-survival-daryl-rick/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/the-walking-dead-streets-survival-daryl-rick.jpg",
+    "published_at": "2026-09-20T18:30:13.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-walking-dead",
+    "game_label": "The Walking Dead"
+  },
+  {
+    "id": "db2568e6c972",
+    "slug": "games-that-play-tricks-on-you",
+    "headline": "Games That Play Tricks on You",
+    "summary": "Open-world games often mislead players with their promises, leading to a more engaging experience",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/open-world-games-always-playing-tricks-on-you/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/open-world-games-that-are-always-playing-tricks-on-you.jpg",
+    "published_at": "2026-09-20T18:15:13.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d6972691d37e",
+    "slug": "unreleased-family-guy-game-from-disney-universe-devs-uncovered",
+    "headline": "Unreleased Family Guy Game From Disney Universe Devs Uncovered",
+    "summary": "The team behind Disney Universe once worked on a Family Guy game that let you decapitate Peter Griffin.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/family-guy-game-cancelled-xbox-360-recovered-prototype/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/familyguythevideogamekeyart.jpg",
+    "published_at": "2026-09-20T17:46:51.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c41b84d359b1",
+    "slug": "marvel-tokon-fighting-souls-is-still-fighting-for-its-life-on-steam",
+    "headline": "Marvel Tōkon: Fighting Souls Is Still Fighting For Its Life On Steam",
+    "summary": "Marvel Tōkon: Fighting Souls' has dipped into three-figure player counts on Steam, and it's less-than-impressive sales numbers are likely to blame",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/marvel-tokon-fighting-souls-is-still-fighting-for-its-life-on-steam-2000735883"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/Marvel-Tokon-Wolverine-image-from-Steam-store-page-Sony-1280x720.jpg",
+    "published_at": "2026-09-20T17:31:53.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "338b923edc8d",
     "slug": "game-of-thrones-a-song-of-ice-and-fire-tactics-gets-new-official-updat",
     "headline": "Game of Thrones: A Song of Ice and Fire Tactics Gets New Official Update",
@@ -19,6 +218,29 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "d65ac840bd54",
+    "slug": "poppy-playtime-spinoff-escape-from-playtime-heads-to-steam-early-acces",
+    "headline": "Poppy Playtime Spinoff Escape from Playtime Heads to Steam Early Access",
+    "summary": "Escape from Playtime, a co-op survival horror spinoff of Poppy's Playtime, will launch on Steam Early Access on October 21.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/poppy-playtime-spinoff-escape-from-playtime-gets-early-access-release-date"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/18/efp-screenshot-7-1789758949157.png",
+    "published_at": "2026-09-20T17:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "escape-from-playtime",
+    "game_label": "Escape from Playtime"
   },
   {
     "id": "3be2f9949f40",
@@ -202,6 +424,31 @@
     "game_label": "Loftia"
   },
   {
+    "id": "227017f645be",
+    "slug": "unlock-your-inner-superman-with-a-new-demo-from-undefeated-genesis",
+    "headline": "Unlock Your Inner Superman with a New Demo from Undefeated: Genesis",
+    "summary": "A new demo for Undefeated: Genesis has been released, allowing players to experience the game's superhero mechanics in action.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/action/unlock-your-inner-superman-with-a-new-demo-from-undefeated-genesis/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/KFpJAoM2HQPXCcnD8L9c2b-1920-80.jpg",
+    "published_at": "2026-09-20T16:51:55.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "undefeated-genesis",
+    "game_label": "Undefeated: Genesis"
+  },
+  {
     "id": "e2d9f2712a57",
     "slug": "marked-for-mayhem-multiplayer-action-dungeon-runner-announced-for-pc",
     "headline": "Marked for Mayhem Multiplayer Action Dungeon Runner Announced for PC",
@@ -225,6 +472,29 @@
     "game_label": "Marked for Mayhem"
   },
   {
+    "id": "ef80ab752e58",
+    "slug": "mycopunk-launches-october-20",
+    "headline": "Mycopunk launches October 20",
+    "summary": "Mission-based cooperative first-person shooter Mycopunk will leave Early Access and launch for PlayStation 5 and …",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/mycopunk-launches-october-20"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/ef80ab752e58/800/600",
+    "published_at": "2026-09-20T16:50:54.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "3d0a480f1749",
     "slug": "virtue-and-a-sledgehammer-launches-october-27",
     "headline": "Virtue and a Sledgehammer launches October 27",
@@ -246,6 +516,56 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "bc0c36f25b57",
+    "slug": "robots-versus-fungi-fps-mycopunk-is-leaving-early-access-next-month",
+    "headline": "Robots versus fungi FPS Mycopunk is leaving early access next month",
+    "summary": "Indie FPS Mycopunk is set to exit early access with a full release next month, marking the end of a beta that started in 2022.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/action/robots-versus-fungi-fps-mycopunk-is-leaving-early-access-next-month/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/HZ6WcUZS5FwmMocPY5Ady8-1920-80.jpg",
+    "published_at": "2026-09-20T16:49:54.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "mycopunk",
+    "game_label": "Mycopunk"
+  },
+  {
+    "id": "295f99e309e9",
+    "slug": "cairns-free-dlc-on-the-trail-deep-water-launches-october-29",
+    "headline": "Cairn's Free DLC 'On the Trail: Deep Water' Launches October 29",
+    "summary": "Survival climbing adventure game Cairn is releasing a new free downloadable content called On the Trail: Deep Water on October 29",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/cairn-free-dlc-on-the-trail-deep-water-launches-october-29"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/295f99e309e9/800/600",
+    "published_at": "2026-09-20T16:45:04.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "cairn",
+    "game_label": "Cairn"
   },
   {
     "id": "a9d03df3b00d",
@@ -319,6 +639,79 @@
     "comment_count": 0,
     "game": "wane",
     "game_label": "WANE"
+  },
+  {
+    "id": "c2030b712482",
+    "slug": "neon-abyss-2-launches-on-october-8",
+    "headline": "Neon Abyss 2 Launches on October 8",
+    "summary": "Neon Abyss 2, a side-scrolling roguelike action game sequel, will leave Early Access and launch on October 8",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/neon-abyss-2-launches-october-8"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/c2030b712482/800/600",
+    "published_at": "2026-09-20T16:24:22.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "neon-abyss-2",
+    "game_label": "Neon Abyss 2"
+  },
+  {
+    "id": "e9bbe4eb0c97",
+    "slug": "ball-x-pit-expansion-risen-ballbylon-announced",
+    "headline": "BALL x PIT Expansion 'Risen Ballbylon' Announced",
+    "summary": "Devolver Digital and Kenny Sun have announced the upcoming BALL x PIT expansion, 'Risen Ballbylon'. Details on the expansion are currently scarce.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/ball-x-pit-expansion-risen-ballbylon-announced"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/e9bbe4eb0c97/800/600",
+    "published_at": "2026-09-20T16:19:02.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ball-x-pit-risen-ballbylon",
+    "game_label": "BALL x PIT: Risen Ballbylon"
+  },
+  {
+    "id": "0258a7458557",
+    "slug": "we-were-here-tomorrow-launches-october-20",
+    "headline": "We Were Here Tomorrow launches October 20",
+    "summary": "We Were Here Tomorrow, the next entry in Total Mayhem Games’s cooperative puzzle game series …",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/we-were-here-tomorrow-launches-october-20"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/0258a7458557/800/600",
+    "published_at": "2026-09-20T16:14:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "04d3e28fc42b",
@@ -4238,457 +4631,5 @@
     "comment_count": 0,
     "game": "final-fantasy-7-revelation",
     "game_label": "Final Fantasy 7 Revelation"
-  },
-  {
-    "id": "cf7e4c68c88d",
-    "slug": "fire-emblem-fortunes-weave-review",
-    "headline": "Fire Emblem: Fortune's Weave Review",
-    "summary": "Fire Emblem: Fortune's Weave offers an epic storyline and some of the best gameplay in the series, as players navigate a massive tactical experience",
-    "category": "reviews",
-    "platform_tags": [
-      "switch",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-review-an-embarrassment-of-riches/"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/review/fire-emblem-fortunes-weave/"
-      },
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-review"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/fire-emblem-fortunes-weave-review"
-      },
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-review-scores/"
-      },
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/round-up-the-reviews-for-fire-emblem-fortunes-weave-are-in"
-      },
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-gets-a-day-one-update-here-are-the-patch-notes"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/save-10-on-fire-emblem-fortunes-weave-for-nintendo-switch-2"
-      },
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/fire-emblem-fortunes-weaves-fantastic-reviews-have-me-feeling-fomo/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/video/fire-emblem-fortunes-weave-is-massive-review-roundup/"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-beginner-tips-tricks/"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-chapter-list-how-long-to-beat/"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-recruitable-characters-all-support-level/"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/how-long-to-beat-fire-emblem-fortunes-weave-and-part-lengths/"
-      },
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-beginner-tips-tricks/"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/how-progress-works-in-fire-emblem-fortunes-weave-in-each-part/"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-best-gifts-each-character/"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-should-you-skip-part-2/"
-      },
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-skip-part-2-order/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/fire-emblem-fortunes-weave-how-you-feel-about-insects-question/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/fire-emblem-fortunes-weave-only-1-save-file/"
-      },
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/my-nintendo-fire-emblem-fortunes-weave-heroic-sweepstakes-announced-north-america"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-monster-in-the-night-quest-guide/"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-classes-unlock-secret/"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-war-arc-skip-act-2/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/eshmel-standing-with-a-spear-with-hong-hua-in-the-background-in-fire-emblem-fortune-s-weave.jpg",
-    "published_at": "2026-09-18T21:35:53.000Z",
-    "hype_signal": 90,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "fire-emblem-fortunes-weave",
-    "game_label": "Fire Emblem: Fortune's Weave"
-  },
-  {
-    "id": "6a3c8c36579e",
-    "slug": "industry-vets-behind-dishonored-ultima-online-her-story-and-more-agree",
-    "headline": " Industry vets behind Dishonored, Ultima Online, Her Story and more agree the games industry crisis goes beyond games: 'Ultimately, to fix what’s broken in the videogame industry, we might have to fix reality' ",
-    "summary": "A new Edge report features multiple industry veterans sharing their thoughts on the state of the game industry, and what can be done about it.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/gaming-industry/industry-vets-behind-dishonored-ultima-online-her-story-and-more-agree-the-games-industry-crisis-goes-beyond-games-ultimately-to-fix-whats-broken-in-the-videogame-industry-we-might-have-to-fix-reality/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/zQCvdGXdycYua3QSgDbnNc-1920-80.jpg",
-    "published_at": "2026-09-18T21:35:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9e5dea5cbb71",
-    "slug": "the-blood-of-dawnwalkers-development-costs-revealed",
-    "headline": "The Blood of Dawnwalker's Development Costs Revealed",
-    "summary": "Developer Rebel Wolves spent $40 million to create their September success story, The Blood of Dawnwalker.",
-    "category": "deals",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/the-blood-of-dawnwalker-cost-just-40-million-to-develop"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/18/blood-of-dawnwalker-1789765377097.png",
-    "published_at": "2026-09-18T21:06:26.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-blood-of-dawnwalker",
-    "game_label": "The Blood of Dawnwalker"
-  },
-  {
-    "id": "7ba9fdb9a1fd",
-    "slug": "as-final-fantasy-resonance-drops-its-gacha-baggage-another-jrpg-dev-do",
-    "headline": " As Final Fantasy Resonance drops its gacha baggage, another JRPG dev doing the same thinks it's \"wonderful\" these live-service games will be preserved ",
-    "summary": "Another Eden Begins improves much of the original game and is built to last",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/jrpg/as-final-fantasy-resonance-drops-its-gacha-baggage-another-jrpg-dev-doing-the-same-thinks-its-wonderful-these-live-service-games-will-be-preserved/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/xNsbDpxLDXJ72WKW5MmtZc-1920-80.jpg",
-    "published_at": "2026-09-18T21:04:44.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ac9c22c28414",
-    "slug": "helldivers-movie-in-talks-to-replace-jason-momoa-with-alan-ritchson",
-    "headline": "Helldiver's Movie In Talks To Replace Jason Momoa With Alan Ritchson",
-    "summary": "With Jason Momoa out of the picture, a new star is set to lead the upcoming gaming adaptation.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/helldivers-2-alan-ritchson-actor-rumor/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/alan-ritchson-in-front-of-a-helldiver-from-helldivers-2.jpg",
-    "published_at": "2026-09-18T21:03:24.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "70fc7350e500",
-    "slug": "players-got-better-than-we-expected-monster-hunter-wilds-dlc-director",
-    "headline": " 'Players got better than we expected': Monster Hunter Wilds DLC director says Capcom is retuning its difficulty standards for the expansion's endgame ",
-    "summary": "\"We're working on that balance.\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/action/players-got-better-than-we-expected-monster-hunter-wilds-dlc-director-says-capcom-is-retuning-its-difficulty-standards-for-the-expansions-endgame/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/9YgYzpdDhaVPHByRyxef7e-1920-80.jpg",
-    "published_at": "2026-09-18T21:02:43.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a1c11dbae6fe",
-    "slug": "fable-is-doing-something-open-world-rpgs-have-little-incentive-to-get",
-    "headline": "Fable Is Doing Something Open-World RPGs Have Little Incentive to Get Right",
-    "summary": "Fable is investing in an ending many players may never see, and that says a lot about what Playground thinks an open-world RPG owes its audience.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/fable-open-world-rpg-ending-player-completion-rates/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/isabel-looking-at-the-camera-in-fable.jpg",
-    "published_at": "2026-09-18T21:00:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a113612eab5a",
-    "slug": "after-18-years-an-xbox-360-classic-is-back-on-top-of-the-sales-charts",
-    "headline": "After 18 Years, an Xbox 360 Classic is Back on Top of the Sales Charts",
-    "summary": "One of the most iconic open-world titles of the Xbox 360 era returns to Microsoft's best-selling game charts 18 years after it's initial launch.",
-    "category": "deals",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-4-xbox-360-bc-sales/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/after-18-years-an-xbox-360-classic-is-back-on-top-of-the-sales-charts-gamerant.jpg",
-    "published_at": "2026-09-18T20:59:47.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3de52ccb4201",
-    "slug": "the-5-best-roles-from-debra-wilson-the-actress-in-every-aaa-game-these",
-    "headline": "The 5 Best Roles From Debra Wilson, the Actress in Every AAA Game These Days",
-    "summary": "Actress Debra Wilson has appeared in everything from Destiny 2 to Marvel's Wolverine. Here are 5 best video game roles.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/debra-wilson-best-video-game-roles/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/marvels-wolverine-callisto.jpg",
-    "published_at": "2026-09-18T20:34:06.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a0c9ed8902d1",
-    "slug": "black-clover-officially-announces-new-release-ahead-of-season-2",
-    "headline": "Black Clover Officially Announces New Release Ahead Of Season 2",
-    "summary": "Black Clover is launching a new project before the start of its new season in October.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/black-clover-release-ahead-season-2/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/black-clover-new-release-ahead-season-2.jpeg",
-    "published_at": "2026-09-18T20:30:12.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "black-clover",
-    "game_label": "Black Clover"
-  },
-  {
-    "id": "f80d2b43b18d",
-    "slug": "classic-fps-games-that-arent-as-perfect-as-you-remember",
-    "headline": "Classic FPS Games That Aren't As Perfect As You Remember",
-    "summary": "These first-person shooters are still legendary in their own right, but they might not be quite as great as we remember.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/classic-fps-games-not-as-perfect-remember/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/fps-games-that-aren-t-as-good-as-you-remember-black-on-ps2.jpg",
-    "published_at": "2026-09-18T20:19:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "be1a75900c1e",
-    "slug": "diablo-himself-is-the-reason-diablo-5-is-coming-instead-of-more-diablo",
-    "headline": " Diablo himself is the reason Diablo 5 is coming instead of more Diablo 4 expansions, says project lead: \"We needed to give him his own game\" ",
-    "summary": "There were also some \"deeply structural changes\" Blizzard wanted to make that wouldn't have been possible in a Diablo 4 expansion",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/diablo/diablo-himself-is-the-reason-diablo-5-is-coming-instead-of-more-diablo-4-expansions-says-project-lead-we-needed-to-give-him-his-own-game/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/k5hcMveRsjDzb7WJrG377c-1920-80.jpg",
-    "published_at": "2026-09-18T20:18:28.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a32b3824dd95",
-    "slug": "remedy-honors-the-late-david-lynch-in-control-resonant-with-powerful-t",
-    "headline": "Remedy Honors the Late David Lynch in Control Resonant With Powerful Twin Peaks Quote",
-    "summary": "Remedy's games have always had Lynchian inspirations, including its new open-world action game Control Resonant.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/remedy-honors-the-late-david-lynch-in-control-resonant-with-powerful-twin-peaks-quote"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/18/img-4644-1789758793572.JPG",
-    "published_at": "2026-09-18T20:17:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b2691ac013db",
-    "slug": "the-blood-of-dawnwalker-one-of-the-years-top-rpgs-was-made-on-a-budget",
-    "headline": "The Blood of Dawnwalker, One of the Year's Top RPGs, Was Made on a Budget of $40 Million",
-    "summary": "GamesRadar+ reports that The Blood of Dawnwalker, a highly-regarded RPG, was developed on a budget of $40 million, comparable to Kingdom Come: Deliverance 2",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/rpg/the-blood-of-dawnwalker-one-of-the-years-top-rpgs-was-made-on-a-budget-of-usd40-million-much-like-kingdom-come-deliverance-2/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/qHEzjdACsy5DddWTCpKTwj-1920-80.jpg",
-    "published_at": "2026-09-18T20:08:52.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-blood-of-dawnwalker",
-    "game_label": "The Blood of Dawnwalker"
-  },
-  {
-    "id": "01dbdaf8ae63",
-    "slug": "wow-forever-players-are-gushing-over-lighting-updates-to-a-21-year-old",
-    "headline": "WoW: Forever Players Are Gushing Over Lighting Updates To A 21-Year-Old Game",
-    "summary": "Fans of the 21-year-old game World of Warcraft are expressing their excitement over recent lighting updates, showing the game's enduring popularity and nostalgic appeal.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/wow-forever-players-lighting-updates-2000735656"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/WoWScrnShot_091826_103457-1280x720.jpg",
-    "published_at": "2026-09-18T20:00:21.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "world-of-warcraft",
-    "game_label": "World of Warcraft"
-  },
-  {
-    "id": "2715ce0868d9",
-    "slug": "yoasobi-talks-overwatch-collaboration",
-    "headline": "YOASOBI Talks Overwatch Collaboration",
-    "summary": "YOASOBI, a Japanese musical duo, shares their thoughts on joining Overwatch and their favorite characters.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/video/yoasobi-talks-all-about-their-overwatch-collaboration/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/yoasobi-interview-gamerant-web-b.jpg",
-    "published_at": "2026-09-18T19:59:56.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "overwatch",
-    "game_label": "Overwatch"
   }
 ]

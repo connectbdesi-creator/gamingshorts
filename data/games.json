@@ -13968,5 +13968,82 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-20T17:37:33.266Z"
+  },
+  {
+    "slug": "none",
+    "name": "None",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/4f8/4f85d3453ce0df6498e3653acb5ccefd.jpg",
+    "released": "2020-07-02",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/ba1/ba132a3cc081422e9648fbd570c9e7b3.jpg",
+      "https://media.rawg.io/media/screenshots/7d2/7d2f29b0cf144ed5468f6e612517ea6e.jpg",
+      "https://media.rawg.io/media/screenshots/0e2/0e21a0bb3385ffefd303d2a4795b160f.jpg",
+      "https://media.rawg.io/media/screenshots/4f8/4f85d3453ce0df6498e3653acb5ccefd.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-20T19:38:20.860Z"
+  },
+  {
+    "slug": "the-walking-dead",
+    "name": "The Walking Dead: Season 1",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg",
+    "released": "2012-04-23",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch",
+      "iOS",
+      "Android",
+      "macOS",
+      "Xbox 360",
+      "PlayStation 3",
+      "PS Vita"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d38/d38c78ec9cc707bf42652452235dbe8c.jpg",
+      "https://media.rawg.io/media/screenshots/bdb/bdb7dd4891bfbb0a80cd49b36ffd1a20.jpg",
+      "https://media.rawg.io/media/screenshots/72b/72b67d15b5ae5538734bac2b195f2976.jpg",
+      "https://media.rawg.io/media/screenshots/74d/74d6a18a7b5592777de8f6a7cdbc91f8.jpg",
+      "https://media.rawg.io/media/screenshots/52a/52aca015b4748b1b0bbbacf33110e983.jpg",
+      "https://media.rawg.io/media/screenshots/94b/94b6701276d06b5b562890601fd6abaa.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-20T19:38:21.596Z"
+  },
+  {
+    "slug": "cairn",
+    "name": "Cairn",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/e13/e1395f34907fdcc9da63e72e24d868f8.jpg",
+    "released": "2026-01-28",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "screenshots": [],
+    "stores": [],
+    "fetched_at": "2026-09-20T19:38:23.778Z"
   }
 ]
