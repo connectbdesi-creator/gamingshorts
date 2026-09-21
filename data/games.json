@@ -14075,5 +14075,33 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-20T21:38:46.343Z"
+  },
+  {
+    "slug": "ball-x-pit",
+    "name": "Ball x Pit",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/798/798705b4f25e958e4ab8edf570e215f8.jpg",
+    "released": "2025-10-15",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/592/592546d38aa4b289309d9d506c2c59e4.jpg",
+      "https://media.rawg.io/media/screenshots/f5d/f5dcf68bf10a1035375c362858c0195b.jpg",
+      "https://media.rawg.io/media/screenshots/763/7635d82eaea7ad22e30d07952befabe9.jpg",
+      "https://media.rawg.io/media/screenshots/488/48882fc47c6393a60c6f4441969f05b9.jpg",
+      "https://media.rawg.io/media/screenshots/7bb/7bb0f128f5608cf772d19a336490d6d7.jpg",
+      "https://media.rawg.io/media/screenshots/ea7/ea77ee754498a243179669b3579ea021.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-21T05:36:11.318Z"
   }
 ]
