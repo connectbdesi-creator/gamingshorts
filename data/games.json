@@ -14200,5 +14200,33 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-21T13:39:39.634Z"
+  },
+  {
+    "slug": "arma",
+    "name": "Arma 3",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/7a2/7a2d3c0883f01e43bff02f0d124d4642.jpg",
+    "released": "2013-09-12",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Strategy",
+      "Action",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/df8/df84d6d692620f5050fcbd62dd5b2405.jpg",
+      "https://media.rawg.io/media/screenshots/147/1477934d41453acc72f58f2604e9f469.jpg",
+      "https://media.rawg.io/media/screenshots/08d/08d09db9c336e523e9138479f1531693.jpg",
+      "https://media.rawg.io/media/screenshots/742/742dcea0473e52685b43e4e931967e13.jpg",
+      "https://media.rawg.io/media/screenshots/9a8/9a8d3b5f23623758075244df6883570c.jpg",
+      "https://media.rawg.io/media/screenshots/be2/be2589e5f601040fe9eeb72ed1ca03a6.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-21T21:38:32.898Z"
   }
 ]
