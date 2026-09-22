@@ -13,15 +13,631 @@
       {
         "name": "TheGamer",
         "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-best-cai-build/"
+      },
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-best-dietrich-build/"
       }
     ],
     "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/cai-during-a-cutscene-his-eyes-closed-and-his-hand-up-in-fire-emblem-fortune-s-weave.jpg",
-    "published_at": "2026-09-22T11:30:17.000Z",
+    "published_at": "2026-09-22T13:31:15.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": "fire-emblem-fortunes-weave",
     "game_label": "Fire Emblem: Fortune's Weave"
+  },
+  {
+    "id": "019e635d1414",
+    "slug": "blood-of-dawnwalker-update-coming-with-new-content",
+    "headline": "Blood of Dawnwalker Update Coming with New Content",
+    "summary": "Rebel Wolves co-founder reveals upcoming update for Blood of Dawnwalker with highly requested features",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/the-blood-of-dawnwalker-update-content-new-game-plus-difficulty-combat/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/blood-of-dawnwalker-october-update-tease.jpg",
+    "published_at": "2026-09-22T13:31:12.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "blood-of-dawnwalker",
+    "game_label": "Blood of Dawnwalker"
+  },
+  {
+    "id": "9fab7d25a4dc",
+    "slug": "dragons-dogma-2-dev-says-theres-a-significant-gap-in-what-western-and",
+    "headline": "Dragon's Dogma 2 Dev Says There's a 'Significant Gap' in What Western and Eastern Players Want",
+    "summary": "\"We should give players options\".\nThere's apparently a really big difference in what players enjoy about Dragon's Dogma 2, depending on where they're from.\nThis is according to two of the game's key figures, producer Naoto Oyama and director Kento Kinoshita — the latter being in charge of the soon-to-be-released Dark Arisen expansion.\nRead the full article on pushsquare.com",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-dev-says-theres-a-significant-gap-in-what-western-and-eastern-players-want"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/e8bf766a22b32/large.jpg",
+    "published_at": "2026-09-22T13:30:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0aceb2024a3f",
+    "slug": "sony-tests-playstation-store-credit-offers-with-certain-game-purchases",
+    "headline": "Sony Tests PlayStation Store Credit Offers with Certain Game Purchases",
+    "summary": "Sony is reportedly testing a rewards program that gives players a wallet credit bonus when buying select games from the PlayStation Store.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/playstation-store-wallet-credits-rewards"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/SIE_InnovationHubHMD_BlogHeader_1920x1080.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-22T13:26:17.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d7c111e3b497",
+    "slug": "ace-combat-8-wings-of-theve-pre-orders-now-live",
+    "headline": "Ace Combat 8 Wings of Theve Pre-Orders Now Live",
+    "summary": "Pre-orders for Ace Combat 8 Wings of Theve have started, offering a bonus pack with The Belkan War",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/ace-combat-8-wings-of-theve-pre-orders-have-taken-flight-on-xbox-and-ps5-and-its-your-only-chance-to-grab-the-belkan-war-as-a-bonus/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Qm9YzrisLEooCXCrL3ytQR-1920-80.jpg",
+    "published_at": "2026-09-22T13:25:47.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ace-combat-8-wings-of-theve",
+    "game_label": "Ace Combat 8 Wings of Theve"
+  },
+  {
+    "id": "d2594dd5cee8",
+    "slug": "dancing-with-ghosts-launches-in-early-access-on-october-8",
+    "headline": "Dancing with Ghosts launches in Early Access on October 8",
+    "summary": "Dancing with Ghosts, the life simulation game about finding joy from grief by game developer …",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/dancing-with-ghosts-launches-in-early-access-on-october-8"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/d2594dd5cee8/800/600",
+    "published_at": "2026-09-22T13:24:46.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d994f9763f0e",
+    "slug": "new-injustice-3-evidence-suggests-it-may-bring-back-a-character-who-di",
+    "headline": "New Injustice 3 Evidence Suggests It May Bring Back A Character Who Died A Very Injustice Death",
+    "summary": "Just what has NetherRealm Studios been up to since Mortal Kombat 1? All signs currently suggest that Injustice 3 is in development at the Mortal Kombat developer, and to add more fuel to the rumor-fire, a stuntworker's resume has indicated that they worked on the yet-to-be-announced game. As spotted by MP1st, the stuntworker listed \"Injustice 3\" after performing motion capture…",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/new-injustice-3-evidence-suggests-it-may-bring-back-a-character-who-died-a-very-injustice-death/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Injustice.jpg?w=300",
+    "published_at": "2026-09-22T13:13:27.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "750505b86d7e",
+    "slug": "try-mr-records-demo-on-steam",
+    "headline": "Try Mr. Records Demo on Steam",
+    "summary": "Mr. Records, a rhythm-action game with shop management elements, has a playable demo available on Steam",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/i-taught-an-old-man-new-tunes-in-rhythm-action-shopkeeper-sim-mr-records-and-now-you-can-try-the-demo-yourself"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Mr-Records-George-intro.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-22T13:01:39.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "mr-records",
+    "game_label": "Mr. Records"
+  },
+  {
+    "id": "b336b233924f",
+    "slug": "how-to-fast-travel-in-graveyard-keeper-2",
+    "headline": "How to Fast Travel in Graveyard Keeper 2",
+    "summary": "Graveyard Keeper 2 guide: Learn how to use waypoints to fast travel, and find all locations in the game.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/graveyard-keeper-2-how-fast-travel-all-waypoints-locations/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/graveyard-keeper-2-fast-travel-waypoints-area-around-base.jpg",
+    "published_at": "2026-09-22T13:01:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "graveyard-keeper-2",
+    "game_label": "Graveyard Keeper 2"
+  },
+  {
+    "id": "164b87bd11d4",
+    "slug": "2026s-best-gaming-soundtrack-is-from-a-steam-game-that-isnt-even-out-y",
+    "headline": "2026's Best Gaming Soundtrack Is From a Steam Game That Isn't Even Out Yet",
+    "summary": "Steam game's soundtrack is hailed as the best of 2026, despite the game's release date not being yet",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/mr-records-preview/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mr-records-preview-header.jpg",
+    "published_at": "2026-09-22T13:00:15.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f6ecd76b01e5",
+    "slug": "gears-of-war-e-day-x-liquid-death-unlock-a-legendary-pose-and-more",
+    "headline": "Gears of War: E-Day x Liquid Death – Unlock a Legendary Pose and More",
+    "summary": "Gears of War: E-Day launches with a collab that puts a Legendary pose in your hands. We’re teaming up with Liquid Death from September 22 through November 30, bringing an in-game reward, a limited-edition merch drop, and a new way to gear up for Emergence Day. Unlock Chainsaw Flex Pick up Liquid Death Energy at […] The post Gears of…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/09/22/gears-of-war-e-day-liquid-death/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/f6ecd76b01e5/800/600",
+    "published_at": "2026-09-22T13:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7824b9b0cfcb",
+    "slug": "mr-records-launches-ps5-xbox-series-and-pc",
+    "headline": "MR. RECORDS Launches PS5, Xbox Series, and PC",
+    "summary": "Game developer MR. RECORDS is set to launch for PS5 and Xbox Series, with a PC demo also available. The game was previously announced for the Nintendo Switch.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/mr-records-adds-ps5-and-xbox-series-versions-pc-demo-now-available"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/7824b9b0cfcb/800/600",
+    "published_at": "2026-09-22T12:52:54.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "mr-records",
+    "game_label": "MR. RECORDS"
+  },
+  {
+    "id": "2fd3f49003ab",
+    "slug": "pokemon-tcg-scalper-arrested-after-brawling-with-fan",
+    "headline": "Pokémon TCG Scalper Arrested After Brawling with Fan",
+    "summary": "A Pokémon Trading Card Game scalper was arrested for punching a man, causing harm to a 4-year-old girl in the altercation.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/pokemon-tcg-scalper-reportedly-arrested-for-punching-a-man-in-latest-pathetic-incident"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/0f0574e864e4c/large.jpg",
+    "published_at": "2026-09-22T12:45:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pokemon-tcg",
+    "game_label": "Pokémon TCG"
+  },
+  {
+    "id": "eeb0607c9e04",
+    "slug": "rockstar-asks-fans-to-respect-our-games-as-it-updates-strict-modding-g",
+    "headline": "Rockstar Asks Fans To ‘Respect Our Games’ As It Updates Strict Modding Guidelines",
+    "summary": "Ahead of Grand Theft Auto 6, Rockstar tries to remind modders what it's not okay with",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/rockstar-asks-fans-to-respect-their-games-as-it-updates-strict-modding-guidelines-2000736306"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/IMG_5021-1280x720.jpeg",
+    "published_at": "2026-09-22T12:32:51.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9355d5254750",
+    "slug": "one-of-2026s-best-rated-ps5-games-is-out-today-and-you-probably-dont-e",
+    "headline": "One of 2026's Best-Rated PS5 Games Is Out Today, and You Probably Don't Even Know It",
+    "summary": "Well Dweller opens to 90+ critic reviews. What if I told you a new PS5 game with a Metacritic rating of 91 and an Opencritic score of 90 is coming out today? Silent Hill: Townfall and Control Resonant are not officially releasing until Thursday, so what could it be? Well Dweller is that game, a Metroidvania experience from single developer…",
+    "category": "reviews",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/one-of-2026s-best-rated-ps5-games-is-out-today-and-you-probably-dont-even-know-it"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/df8d61e3a15e3/large.jpg",
+    "published_at": "2026-09-22T12:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e15d5a33b7bb",
+    "slug": "xboxs-second-wave-of-layoffs-imminent-as-microsoft-restructures-gaming",
+    "headline": "Xbox's Second Wave of Layoffs Imminent as Microsoft Restructures Gaming Division",
+    "summary": "Xbox is reportedly preparing to cut more jobs, further restructuring its gaming division amid previously announced plans to cut 3,200 roles, following a July mass layoff of 1,600 employees.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/xbox-layoffs-are-starting-again-report/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/07/xbox-logo-new.webp?w=300",
+    "published_at": "2026-09-22T12:21:26.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ffb021c1695f",
+    "slug": "blizzard-layoffs-are-reportedly-imminent-days-after-an-exciting-blizzc",
+    "headline": "Blizzard layoffs are reportedly imminent,  days after an exciting BlizzCon and a seemingly popular World of Warcraft: Forever beta",
+    "summary": "A week after an announcement-laden BlizzCon 2026, and days after what appears to be an enormously popular beta for World of Warcraft: Forever, cuts at Blizzard by Xbox are said to be \"imminent\".\n Read more",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/blizzard-layoffs-xbox-cuts"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/blizzard-logo_YP7kJpn.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-22T12:10:29.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "bb2bb8b661a4",
+    "slug": "former-doom-developer-could-be-in-trouble-as-bethesda-goes-after-doom",
+    "headline": "Former Doom Developer Could Be in Trouble as Bethesda Goes After Doom Memecoin",
+    "summary": "Bethesda is targeting a memecoin creator who used Doom to promote their cryptocurrency, citing trademark infringement.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/doom-memecoin-sandy-petersen-bethesda-legal-action/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/doom-eternal-enemies.jpg",
+    "published_at": "2026-09-22T12:03:52.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "doom",
+    "game_label": "Doom"
+  },
+  {
+    "id": "16d83e343808",
+    "slug": "exclusive-nintendos-zelda-branded-switch-2-revealed",
+    "headline": "Exclusive: Nintendo's Zelda-Branded Switch 2 Revealed",
+    "summary": "Nintendo is releasing a special edition Switch 2 console to celebrate The Legend of Zelda series' 40th anniversary, featuring a Triforce design and gold accents.",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/features/talking-point-how-do-you-feel-about-series-branded-consoles"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/0d2570a94d4a1/large.jpg",
+    "published_at": "2026-09-22T12:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-legend-of-zelda",
+    "game_label": "The Legend of Zelda"
+  },
+  {
+    "id": "5614d6412eaf",
+    "slug": "bombanana-surpasses-1-million-copies-sold-in-just-10-days",
+    "headline": "Bombanana! Surpasses 1 Million Copies Sold in Just 10 Days",
+    "summary": "Turkish indie game Bombanana! sells over 1 million copies on Steam in its first decade of release, marking a breakout success for the PC game.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/turkiyes-indie-pc-scene-breaks-out-as-bombanana-sells-one-million-copies-in-10-days/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/5614d6412eaf/800/600",
+    "published_at": "2026-09-22T12:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "bombanana",
+    "game_label": "Bombanana!"
+  },
+  {
+    "id": "7fff5086cd93",
+    "slug": "asian-game-industry-puts-regional-strength-on-display-at-tokyo-game-sh",
+    "headline": "Asian game industry puts regional strength on display at Tokyo Game Show 2026",
+    "summary": "Tokyo Game Show 2026 put a spotlight on the Asian game industry with a range of regional pavilions representing markets across the region. This...\nThe post Asian game industry puts regional strength on display at Tokyo Game Show 2026 appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/asian-game-industry-puts-regional-strength-on-display-at-tokyo-game-show-2026/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/7fff5086cd93/800/600",
+    "published_at": "2026-09-22T12:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "adc3a8b51d0d",
+    "slug": "dune-awakening-arrives-on-xbox-with-new-ways-to-play",
+    "headline": "Dune: Awakening Arrives on XBOX With New Ways to Play",
+    "summary": "Dune: Awakening has been out for a while on PC, but today it’s finally on XBOX. This isn’t just a port on a new platform. Over the past year we’ve been making the game more accessible and customizable for a wider group of players. Dune: Awakening is an open-world survival game set on Arrakis, the […] The post Dune: Awakening…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/09/22/dune-awakening-xbox-launch/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/adc3a8b51d0d/800/600",
+    "published_at": "2026-09-22T12:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "362f6d30c0ee",
+    "slug": "genshin-impact-studios-new-pokemon-like-game-has-impressive-creature-d",
+    "headline": "Genshin Impact Studio's New Pokemon-Like Game Has Impressive Creature Designs",
+    "summary": "A new game from the creators of Genshin Impact is praised for its captivating creature designs, drawing comparisons to popular titles like Pokemon.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/rpg/genshin-impact-studios-new-pokemon-like-honkai-nexus-anima-has-some-of-the-best-creature-designs-ive-ever-seen-but-its-battle-format-has-me-concerned/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/HJpNroAMjALwkRs747kd5H-1920-80.jpg",
+    "published_at": "2026-09-22T12:00:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "honkai-nexus-anima",
+    "game_label": "Honkai: Nexus Anima"
+  },
+  {
+    "id": "a8c632257f72",
+    "slug": "fans-want-destiny-3",
+    "headline": "Fans Want Destiny 3",
+    "summary": "Destiny fans are rallying behind the idea of a new Destiny game after Bungie announced no further support for Destiny 2",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/features/reaction-did-fans-just-bring-destiny-back-from-the-dead"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/f1969f78d150c/large.jpg",
+    "published_at": "2026-09-22T12:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "destiny",
+    "game_label": "Destiny"
+  },
+  {
+    "id": "7a5a511267a5",
+    "slug": "secret-modepublisher-embracing-uncertainty-with-two-unique-pillars",
+    "headline": "Secret Modepublisher Embracing Uncertainty with Two Unique Pillars",
+    "summary": "Secret Mode, the newly independent UK publisher, is expanding its strategy by exploring two distinct pillars, shifting away from its Sumo Digital past",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/there-is-no-easy-answer-anymore-theres-no-kind-of-playbook-secret-mode-is-hedging-its-bets-with-two-very-different-pillars"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/star-wars-galactic-racer-headline.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-22T12:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e838c1ac2691",
+    "slug": "ff7-remake-series-boss-says-games-wont-match-scale-of-3-title-series",
+    "headline": "FF7 Remake Series Boss Says Games Won't Match Scale of 3-Title Series",
+    "summary": "A Final Fantasy 7 Remake series boss shares their thoughts on game scaling, stating that no game will ever match the scale of a three-title series",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-remake-series-boss-doesnt-think-a-game-will-ever-compare-in-terms-of-scale-across-3-titles-ever-again/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/rm9xZTEEbw6zLTFKpWavuW-1920-80.jpg",
+    "published_at": "2026-09-22T11:46:20.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-7-remake-series",
+    "game_label": "Final Fantasy 7 Remake series"
+  },
+  {
+    "id": "2296b990430a",
+    "slug": "the-witcher-3-remastered-to-get-play-anywhere-on-xbox-and-pc",
+    "headline": "The Witcher 3 Remastered to get Play Anywhere on Xbox and PC",
+    "summary": "The Xbox version of The Witcher 3 will be made a Play Anywhere title, allowing both PC and Xbox players to access the game",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/the-witcher-3-remastered-will-also-turn-the-xbox-version-into-a-play-anywhere-title-making-the-pc-version-available-too/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/2296b990430a/800/600",
+    "published_at": "2026-09-22T11:33:28.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
   },
   {
     "id": "1e71c59bc65c",
@@ -45,6 +661,30 @@
     "comment_count": 0,
     "game": "kirby-and-the-world-beyond",
     "game_label": "Kirby and the World Beyond"
+  },
+  {
+    "id": "c46b64b4baf2",
+    "slug": "well-dweller-reviews-are-in-critics-call-it-an-all-timer",
+    "headline": "Well Dweller Reviews Are In: Critics Call It An 'All-Timer'",
+    "summary": "Xbox Game Pass subscribers can access new releases, including Well Dweller, which is receiving positive reviews",
+    "category": "reviews",
+    "platform_tags": [
+      "xbox",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/roundup-the-first-reviews-are-going-live-for-well-dweller-and-critics-are-calling-it-an-all-timer"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/11702102cba2c/large.jpg",
+    "published_at": "2026-09-22T11:30:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "well-dweller",
+    "game_label": "Well Dweller"
   },
   {
     "id": "8c6eb3079aaa",
@@ -381,6 +1021,27 @@
     "comment_count": 0,
     "game": "silent-hill-townfall",
     "game_label": "Silent Hill Townfall"
+  },
+  {
+    "id": "63e3245acb05",
+    "slug": "whats-your-back-on-my-bullshit-videogame",
+    "headline": " What's your 'back on my bullshit' videogame? ",
+    "summary": "What's your 'back on my bullshit' videogame?",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/final-fantasy/whats-your-back-on-my-bullshit-videogame/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/tyH4brTWuLFQ7nxLYXAGL4-1920-80.jpg",
+    "published_at": "2026-09-22T10:15:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "5f39e3fc4f8d",
@@ -3991,693 +4652,5 @@
     "comment_count": 0,
     "game": "gengar",
     "game_label": "Gengar"
-  },
-  {
-    "id": "3c8bc8655dc2",
-    "slug": "the-40th-anniversary-zelda-switch-2-case-is-finally-at-amazon-but-i-do",
-    "headline": " The 40th Anniversary Zelda Switch 2 case is finally at Amazon, but I don't think it's worth your hard-earned rupees ",
-    "summary": "The 40th Anniversary Legend of Zelda Switch 2 case is live at Amazon, but I recommend you wield Orzly's more valuable alternative instead this November.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/accessories/the-40th-anniversary-zelda-switch-2-case-is-finally-at-amazon-but-i-dont-think-its-worth-your-hard-earned-rupees/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/pWCAcZyuRyHGpaRCU9aUGD-1920-80.jpg",
-    "published_at": "2026-09-21T13:28:48.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a89e90b4d7dd",
-    "slug": "hideo-kojima-defends-physint-switch-claims-playstation-attempted-to-ca",
-    "headline": "Hideo Kojima Defends Physint Switch, Claims PlayStation Attempted to Cancel Game",
-    "summary": "Kojima Productions' Hideo Kojima responds to Physint's publisher switch, citing PlayStation's alleged attempts to cancel the game and a budget overrun",
-    "category": "industry",
-    "platform_tags": [
-      "xbox",
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/i-thought-people-would-leave-hideo-kojima-offers-his-account-of-physints-switch-from-playstation-to-xbox-as-his-studio-insist-theyre-in-a-healthy-profitable-state"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/physint-kojima-on-switch-studio-statement-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-21T13:28:30.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "physint",
-    "game_label": "Physint"
-  },
-  {
-    "id": "fd1916d54ddc",
-    "slug": "activision-cites-data-claiming-cheating-in-games-is-an-85bn-industry-6",
-    "headline": "Activision cites data claiming cheating in games is an $8.5bn industry; 69% of online multiplayer studios consider cheating \"a significant or very significant problem\"",
-    "summary": "Activision's Team Ricochet, which manages Call of Duty's anti-cheat initiative, recently cited data that claimed cheating in games is an $8.5 billion industry.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/activision-cites-data-claiming-cheating-in-games-is-an-85bn-industry-69-of-online-multiplayer-studios-consider-cheating-a-significant-or-very-significant-problem"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/cod-modern-warfare.webp?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-21T13:27:45.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "28c4203eb00f",
-    "slug": "io-interactive-discusses-007-first-light-switch-2-delay-and-performanc",
-    "headline": "IO Interactive Discusses 007 First Light Switch 2 Delay and Performance",
-    "summary": "Developer IO Interactive explains why 007 First Light's Switch 2 release date has been pushed to March 2027, citing the need for performance improvements.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/some-compromises-are-inevitable-007-first-light-dev-talks-switch-2-delay-performance-and-more"
-      },
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/007-first-light-dev-says-it-had-no-choice-but-to-delay-the-games-switch-2-edition-again/"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/427a6cc768aa5/large.jpg",
-    "published_at": "2026-09-21T13:17:02.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "007-first-light",
-    "game_label": "007 First Light"
-  },
-  {
-    "id": "5b126731cc57",
-    "slug": "ball-x-pits-next-dlc-arrives-this-november-and-its-huge",
-    "headline": "Ball x Pit's Next DLC Arrives This November, And It's Huge",
-    "summary": "Devolver Digital has shared a first look at Ball x Pit's upcoming Risen Ballbylon DLC, featuring four new battlefields, eight new characters, and 24 new balls to expand the game's town.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/ball-x-pits-next-dlc-arrives-this-november-and-its-huge"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/1110190841324/large.jpg",
-    "published_at": "2026-09-21T13:15:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "ball-x-pit",
-    "game_label": "Ball x Pit"
-  },
-  {
-    "id": "4146c4ce1842",
-    "slug": "the-witcher-3-will-be-free-on-pc-for-xbox-players-next-week",
-    "headline": "The Witcher 3 Will Be Free on PC for Xbox Players Next Week",
-    "summary": "CD Projekt Red confirms that The Witcher 3 will be free on PC for Xbox players starting next week, all thanks to the game's new remaster.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-will-be-free-on-pc-for-xbox-players-next-week-cd-projekt-red-confirms-all-thanks-to-the-rpgs-new-remaster/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Hh69GjLGVccz8GGwMXwyB-1920-80.jpg",
-    "published_at": "2026-09-21T13:10:31.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-witcher-3-wild-hunt",
-    "game_label": "The Witcher 3: Wild Hunt"
-  },
-  {
-    "id": "a901917cd544",
-    "slug": "cronos-the-new-dawn-story-dlc-cronos-lazarus-gameplay-presentation-fig",
-    "headline": "Cronos: The New Dawn story DLC ‘Cronos: Lazarus’ gameplay presentation – ‘Fight Like a Pathfinder’",
-    "summary": "Bloober Team has released a four-minute gameplay presentation for Cronos: The New Dawn story downloadable …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/cronos-the-new-dawn-story-dlc-cronos-lazarus-gameplay-presentation-fight-like-a-pathfinder"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a901917cd544/800/600",
-    "published_at": "2026-09-21T13:05:06.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "21d0dfcb49f1",
-    "slug": "sony-unveils-ps5-controller-inspired-by-blackpinks-lisa",
-    "headline": "Sony Unveils PS5 Controller Inspired by Blackpink's Lisa",
-    "summary": "Sony has collaborated with K-pop star Lisa to create a limited-edition PS5 controller featuring a colorful and playful design.",
-    "category": "deals",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/sony-turned-the-dualsense-into-live-laugh-love-for-lisas-new-ps5-controller/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Lisa-4.jpg?w=300",
-    "published_at": "2026-09-21T13:03:48.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "lisa-limited-edition-ps5-controller",
-    "game_label": "Lisa Limited Edition PS5 Controller"
-  },
-  {
-    "id": "d3a3797c5927",
-    "slug": "an-officially-endorsed-box-set-of-manic-miner-creator-matthew-smiths-z",
-    "headline": "An officially endorsed box set of Manic Miner creator Matthew Smith’s ZX Spectrum games is coming",
-    "summary": "The Matthew Smith Collection includes new cassettes of his games",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/an-officially-endorsed-box-set-of-manic-miner-creator-matthew-smiths-zx-spectrum-games-is-coming/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/d3a3797c5927/800/600",
-    "published_at": "2026-09-21T13:03:46.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e311edc3d701",
-    "slug": "valor-mortis-preview",
-    "headline": "Valor Mortis Preview",
-    "summary": "TheGamer previewed Valor Mortis, a new Soulslike game, praising its understanding of slapstick humor and offering a glimpse into the game's unique blend of action and comedy.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/valor-mortis-preview/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/valor-mortis-boss-lunging-with-a-giant-red-hand-towards-the-player.jpg",
-    "published_at": "2026-09-21T13:01:16.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "valor-mortis",
-    "game_label": "Valor Mortis"
-  },
-  {
-    "id": "9b5a7ff9af28",
-    "slug": "marked-for-mayhem-makes-world-premiere-at-pc-gaming-show-tokyo-direct",
-    "headline": "Marked For Mayhem Makes World Premiere at PC Gaming Show Tokyo Direct",
-    "summary": "Bladework Games announced its debut title, Marked for Mayhem, at the PC Gaming Show Tokyo Direct.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/marked-for-mayhem-makes-its-world-premiere-at-pc-gaming-show-tokyo-direct/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/9b5a7ff9af28/800/600",
-    "published_at": "2026-09-21T13:00:00.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "marked-for-mayhem",
-    "game_label": "Marked For Mayhem"
-  },
-  {
-    "id": "8e269e0794ba",
-    "slug": "xboxs-platinum-trophy-equivalent-appears-to-be-called-a-mythic-achieve",
-    "headline": "Xbox's Platinum Trophy Equivalent Appears To Be Called A 'Mythic Achievement'",
-    "summary": "Who's going for the Mythic? We may have caught our first real glimpse at Xbox's new 100% completion achievement, and it appears \"Mythic\" is what they're calling it. This comes from Xbox Insider and overall Achievement Hunter Stallion83, who has a whoppin' total of 3,309,665 gamerscore - sheesh! He posted a screenshot of what looks like an a game completion…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/xboxs-platinum-trophy-equivalent-appears-to-be-called-a-mythic-achievement"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/52872c688ea74/large.jpg",
-    "published_at": "2026-09-21T13:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "fc60d33bd567",
-    "slug": "persona-4-revival-adds-new-social-link",
-    "headline": "Persona 4 Revival Adds New Social Link",
-    "summary": "Atlus has released a second deep dive video for Persona 4 Revival, revealing a new social link feature that allows players to form a bond with a new character through repeated interactions.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/persona-4-revival-seems-to-add-a-whole-new-social-link"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/de9bafd6f5308/large.jpg",
-    "published_at": "2026-09-21T13:00:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "persona-4-revival",
-    "game_label": "Persona 4 Revival"
-  },
-  {
-    "id": "62750457adae",
-    "slug": "gears-of-war-e-day",
-    "headline": "Gears of War: E-Day",
-    "summary": "Xbox Wire invites fans to experience Gears of War ahead of its Early Access launch in Los Angeles on September 30 with exclusive food, drinks, and giveaways.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/09/21/gears-of-war-e-day-emergence-la-event/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/62750457adae/800/600",
-    "published_at": "2026-09-21T13:00:00.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gears-of-war",
-    "game_label": "Gears of War"
-  },
-  {
-    "id": "ee6f643ccd42",
-    "slug": "the-steam-frames-first-post-launch-update-speeds-up-charging-and-ungar",
-    "headline": "The Steam Frame’s first post-launch update speeds up charging and ungarbles a mic bug",
-    "summary": "Having launched though the same system of reservations and waitlists as the Steam Machine, the Steam Frame is still navigating that inscrutable void betixt \"on sale\" and \"actually out.\" Nevertheless, it’s had its first software update, SteamOS 0.3.0, which brings – among other technical tidbits – a microphone bug fix, smoother controller tracking, and \"substantially faster\" charging to the VR…",
-    "category": "patches",
-    "platform_tags": [
-      "pc",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/the-steam-frames-first-post-launch-update-speeds-up-charging-and-ungarbles-a-mic-bug"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Steam-Frame-2.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-21T12:53:27.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "20dd913455da",
-    "slug": "silent-hill-townfall-review-2",
-    "headline": "Silent Hill: Townfall Review",
-    "summary": "Silent Hill: Townfall is a well-crafted first-person survival horror game that effectively captures the series' unsettling atmosphere.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/silent-hill-townfall-review/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/silent-hill-townfall-clinic-scales-puzzle-solution/"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/silent-hill-townfall-review-roundup/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/silent-hill-townfall-electricard-zoe-house-guide/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/silent-hill-townfall-st-amelia-park-door-scalpel/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/silent-hill-townfall-clinic-reception-code-solution/"
-      },
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/silent-hill-townfall-the-kotaku-review-2000736060"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/silent-hill-townfall-review.jpg",
-    "published_at": "2026-09-21T12:30:40.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "silent-hill-townfall",
-    "game_label": "Silent Hill: Townfall"
-  },
-  {
-    "id": "d602ccb34e74",
-    "slug": "oblivion-remastered-update-seems-to-have-borked-the-visuals",
-    "headline": "Oblivion Remastered Update Seems To Have Borked The Visuals",
-    "summary": "Blurred lines. Bethesda recently released an update for The Elder Scrolls IV: Oblivion Remastered for the Switch 2, adding in a bunch of fixes for numerous crashes and other weird little glitches. The problem, however, is that the update seems to have made the visuals noticeably worse. Reports starting trickling in on Reddit, with users stating that the game is…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/oblivion-remastered-update-seems-to-have-borked-the-visuals"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/2dfba9cdc4699/large.jpg",
-    "published_at": "2026-09-21T12:30:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "677dc2523b5a",
-    "slug": "classic-rpgs-lufia-and-lufia-2-are-adventuring-to-ps5-with-enhanced-ga",
-    "headline": "Classic RPGs Lufia and Lufia 2 Are Adventuring to PS5 with 'Enhanced' Gameplay",
-    "summary": "True Luf. Classic SNES RPGs Lufia and Lufia 2 will be reborn on PS5 at some point next year. New publisher Clear River Games, in partnership with original publisher TAITO, is bringing the duology back, and so if you're old enough to remember these relatively ancient adventures, then you're (hopefully) in for a seriously nostalgic treat. Read the full article…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/classic-rpgs-lufia-and-lufia-2-are-adventuring-to-ps5-with-enhanced-gameplay"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/c03b0a33b3686/large.jpg",
-    "published_at": "2026-09-21T12:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f0c1ff3410c7",
-    "slug": "how-many-resident-evil-games-fit-in-the-popcorn-bucket-now-we-know",
-    "headline": "How Many Resident Evil Games Fit In The Popcorn Bucket? Now We Know",
-    "summary": "In the realm of gaming memorabilia, novelty items often serve as little more than dust collectors once the hype fades. However, Capcom's first aid kit popcorn bucket, launched as a collectible for the release of the Resident Evil movie, might actually be more practical than it first appears. Instagram user pokicourtney has discovered the ultimate purpose for the green bag--storing…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/how-many-resident-evil-games-fit-in-the-popcorn-bucket-now-we-know/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Resi-Popcorn-2.jpg?w=300",
-    "published_at": "2026-09-21T12:29:02.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b66b96dc3af6",
-    "slug": "a-hearthstone-players-descent-into-madness",
-    "headline": "A Hearthstone Player's Descent into Madness",
-    "summary": "A WoW player shares a hilarious and relatable story of how a single boulder in Hearthstone drove them to despair and 'mental breakage'.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-mentally-broke-me-with-a-boulder/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/xwdqhCXzPoBBsjyPANezAc-1920-80.png",
-    "published_at": "2026-09-21T12:28:21.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "hearthstone",
-    "game_label": "Hearthstone"
-  },
-  {
-    "id": "c25383d9ec96",
-    "slug": "fire-emblem-fortunes-weave-spinoff-just-fixed-the-games-biggest-issue",
-    "headline": "Fire Emblem Fortune's Weave Spinoff Just Fixed the Game's Biggest Issue",
-    "summary": "Fire Emblem Fortune's Weave new manga expands the game's cast by shining a light on some underdeveloped characters.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-manga-characters-cut/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-class-unlocks.jpg",
-    "published_at": "2026-09-21T12:23:55.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b274c76cb2db",
-    "slug": "microsoft-patents-idea-for-in-game-pc-and-xbox-adverts-shown-during-do",
-    "headline": "Microsoft patents idea for in-game PC and Xbox adverts shown during downtime \"trigger events\"",
-    "summary": "Microsoft has filed a patent for a system that allows PC and Xbox games to serve advertisements during game sessions, seemingly without disrupting gameplay.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/microsoft-patent-ads-in-gameplay"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/A-puppet-in-Clockwork-Revolution.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-21T12:19:43.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4e4c528c5dc9",
-    "slug": "the-witcher-3-is-getting-xbox-play-anywhere-support",
-    "headline": "The Witcher 3 Is Getting Xbox Play Anywhere Support",
-    "summary": "The Witcher 3 will be playable on multiple platforms with Xbox Play Anywhere support upon its remaster release, potentially avoiding the need to rebuy the game",
-    "category": "deals",
-    "platform_tags": [
-      "xbox",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/the-witcher-3-xbox-play-anywhere-support-confirmed/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/collage-of-geralt-yennefer-ciri-triss-and-the-wild-hunt-on-the-cover-of-the-witcher-3-remastered.jpg",
-    "published_at": "2026-09-21T12:16:56.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-witcher-3-wild-hunt",
-    "game_label": "The Witcher 3: Wild Hunt"
-  },
-  {
-    "id": "fd8ea8e4ccf3",
-    "slug": "fire-emblem-fortunes-weave-lost-temple-cat-location-quest-guide",
-    "headline": "Fire Emblem Fortune’s Weave: Lost Temple Cat location quest guide",
-    "summary": "This article provides a quest guide for finding the lost cat in Fire Emblem: Fortune’s Weave, a game on various platforms including PC, PlayStation, Xbox, Switch, and mobile.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-lost-temple-cat-location-quest-guide/"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-paradise-fish-location-to-recruit-ninae/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/fd8ea8e4ccf3/800/600",
-    "published_at": "2026-09-21T12:10:46.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "fire-emblem-fortunes-weave",
-    "game_label": "Fire Emblem: Fortune’s Weave"
-  },
-  {
-    "id": "c583845593c1",
-    "slug": "sony-announces-dualsense-wireless-controller-lisa-limited-edition",
-    "headline": "Sony Announces DualSense Wireless Controller – LISA Limited Edition",
-    "summary": "Sony has revealed a limited-edition version of its DualSense Wireless Controller, the LISA Limited Edition, alongside new merchandise. Details on the special edition have not been provided.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/dualsense-wireless-controller-lisa-limited-edition-announced-alongside-new-merchandise"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/c583845593c1/800/600",
-    "published_at": "2026-09-21T12:05:45.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "dualsense-wireless-controller-lisa-limited-edition",
-    "game_label": "DualSense Wireless Controller – LISA Limited Edition"
-  },
-  {
-    "id": "2a2322746196",
-    "slug": "steam-frames-odd-charging-behaviour-gets-patched",
-    "headline": "Steam Frame's Odd Charging Behaviour Gets Patched",
-    "summary": "Steam Frame's charging behavior has been fixed, with some users seeing a significant reduction in recharge times",
-    "category": "patches",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/vr-hardware/steam-frames-odd-charging-behaviour-gets-patched-could-cut-recharge-times-in-half-in-some-instances/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/jiLHdzoc73jVnA2e3xB92N-1920-80.jpg",
-    "published_at": "2026-09-21T12:02:02.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "31283b719e8d",
-    "slug": "nvidias-next-gen-gpus-may-be-delayed-until-2028",
-    "headline": "Nvidia's Next-Gen GPUs May Be Delayed Until 2028",
-    "summary": "Rumors suggest Nvidia's next-gen GeForce RTX 60-Series GPUs will be pushed back to 2028, marking a significant delay from the company's typical two-year launch window.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/desktop-pc/nvidia-geforce-rtx-60-series-graphics-cards-could-be-sidelined-until-2028-making-it-the-longest-gap-between-gpu-generations-in-20-years/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/8Kcb6E4vDZnoZK3G46wL4B-1920-80.jpg",
-    "published_at": "2026-09-21T12:01:56.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4c12d014f2e3",
-    "slug": "tokyo-game-shows-30th-anniversary-celebrates-past-ponders-ai-future",
-    "headline": "Tokyo Game Show's 30th Anniversary Celebrates Past, Ponders AI Future",
-    "summary": "The Tokyo Game Show marked its 30th anniversary with a nostalgic focus, but also hinted at the uncertainties of AI in gaming",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/tgs-header_bFNmbRK.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-21T12:01:04.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
