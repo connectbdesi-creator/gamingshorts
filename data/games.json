@@ -14642,5 +14642,33 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-22T15:40:17.030Z"
+  },
+  {
+    "slug": "state-of-decay",
+    "name": "State of Decay",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/a34/a34a8c9e1798ef82ee3734719d3c60d3.jpg",
+    "released": "2013-06-06",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox 360"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/5ce/5ce2917aafe4a952131a65449d95aa78.jpg",
+      "https://media.rawg.io/media/screenshots/403/403aab08269f4689faac76560f3e3f3f.jpg",
+      "https://media.rawg.io/media/screenshots/512/512bce8249649c1ee42036620942119e.jpg",
+      "https://media.rawg.io/media/screenshots/c43/c4392d9333dde7b8320a7db122bc9f41.jpg",
+      "https://media.rawg.io/media/screenshots/e69/e69ddd609070321d0f65234e1b90077b.jpg",
+      "https://media.rawg.io/media/screenshots/705/705e26a7ff7da49ddff4e2300a818bee.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-22T18:07:01.655Z"
   }
 ]
