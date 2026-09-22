@@ -14254,5 +14254,30 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-22T01:37:29.627Z"
+  },
+  {
+    "slug": "x-men",
+    "name": "X-Men",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/dae/dae7db129bb1e86f8a1a38cf5362805d.jpg",
+    "released": "1993-03-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "Genesis"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/7e8/7e87a2dd03409e77a54a8f08744e127d.jpg",
+      "https://media.rawg.io/media/screenshots/57f/57f8efefe31fdd413493a8eb4dd83192.jpg",
+      "https://media.rawg.io/media/screenshots/c56/c5677c91da5a92c2e69d884dcd0566d9.jpg",
+      "https://media.rawg.io/media/screenshots/8d9/8d97916e02c11770313d0d2f4aa94529.jpg",
+      "https://media.rawg.io/media/screenshots/182/182afcaf2827ddec083aa1f4de28490a.jpg",
+      "https://media.rawg.io/media/screenshots/22f/22fee86d1a26881a369ca642d900f6ee.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-22T07:36:31.609Z"
   }
 ]
