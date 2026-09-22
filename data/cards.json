@@ -1,5 +1,132 @@
 [
   {
+    "id": "8665e1bb890c",
+    "slug": "blizzard-confirms-starcraft-wont-be-exclusive-to-xbox",
+    "headline": "Blizzard confirms StarCraft won't be exclusive to Xbox",
+    "summary": "Blizzard Entertainment has stated that StarCraft will not be exclusive to the Xbox console, leaving its release on other platforms uncertain.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/third-person-shooter/blizzard-confirms-starcraft-wont-be-exclusive-to-xbox-and-refuses-to-elaborate/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/st8m9FibgqS8vrxByeXwHE-1920-80.jpg",
+    "published_at": "2026-09-22T21:09:05.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "starcraft",
+    "game_label": "StarCraft"
+  },
+  {
+    "id": "b336b233924f",
+    "slug": "how-to-fast-travel-in-graveyard-keeper-2",
+    "headline": "How to Fast Travel in Graveyard Keeper 2",
+    "summary": "Graveyard Keeper 2 guide: Learn how to use waypoints to fast travel, and find all locations in the game.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/graveyard-keeper-2-how-fast-travel-all-waypoints-locations/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/graveyard-keeper-2-zombie-work-guide/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/graveyard-keeper-2-fast-travel-waypoints-area-around-base.jpg",
+    "published_at": "2026-09-22T21:06:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "graveyard-keeper-2",
+    "game_label": "Graveyard Keeper 2"
+  },
+  {
+    "id": "94ce6f056a02",
+    "slug": "halo-cinematic-director-promoted-and-laid-off-in-the-same-week-amid-sw",
+    "headline": " Halo cinematic director \"promoted and laid off in the same week\" amid sweeping Xbox layoffs  ",
+    "summary": "This Xbox reset feels more like a shutdown",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/halo/halo-cinematic-director-promoted-and-laid-off-in-the-same-week-as-microsoft-continues-sweeping-xbox-layoffs/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/cPzS3Bjt7G9jADrtF2hcYe-1920-80.jpg",
+    "published_at": "2026-09-22T21:04:22.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0ef5ec80a56f",
+    "slug": "wardogs-price-to-rise-in-early-access",
+    "headline": "Wardogs Price to Rise in Early Access",
+    "summary": "The development team of Wardogs, a first-person shooter, has announced that the game's early access price will be increasing. The statement includes a stern warning to players who disagree with the decision.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/fps/wardogs-price-will-increase-throughout-steam-early-access-and-if-you-dont-agree-with-that-please-dont-buy-it-ceo-says/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/TvJbRegD7ZdQp6usZvFDSX-1920-80.png",
+    "published_at": "2026-09-22T21:03:11.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "wardogs",
+    "game_label": "Wardogs"
+  },
+  {
+    "id": "4309877f64ef",
+    "slug": "white-knuckle-is-making-my-hands-shake",
+    "headline": "White Knuckle Is Making My Hands Shake",
+    "summary": "A new indie horror game, White Knuckle, is gaining attention for its intense gameplay and ability to evoke fear in players. The game's early access release has sparked interest among gamers.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/this-early-access-indie-horror-game-is-making-my-hands-tremble-2000736521"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/white-knuckle-2-1280x720.jpg",
+    "published_at": "2026-09-22T21:00:22.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "white-knuckle",
+    "game_label": "White Knuckle"
+  },
+  {
     "id": "312955dfed42",
     "slug": "new-co-op-horror-game-on-steam-is-basically-batman-but-you-play-as-the",
     "headline": "New Co-Op Horror Game on Steam Is Basically Batman But You Play as the Bad Guys",
@@ -16,6 +143,30 @@
     ],
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/pon-dead-teammate-screenshot.jpg",
     "published_at": "2026-09-22T21:00:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5ae3580aa7cd",
+    "slug": "halo-studios-cinematic-director-promoted-and-laid-off-within-the-same",
+    "headline": "Halo Studios Cinematic Director Promoted and Laid Off Within the Same Week as Xbox's Brutal Restructuring Continues",
+    "summary": "Halo Studios cinematic director Josh Daniels has confirmed that he was promoted and laid off within the same week amid news that Activision has now taken over the next Halo game.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/halo-studios-cinematic-director-promoted-and-laid-off-within-the-same-week-as-xboxs-brutal-restructuring-continues"
+      }
+    ],
+    "image_url": "http://assets1.ignimgs.com/2018/12/20/7-1545342029649.png",
+    "published_at": "2026-09-22T20:41:47.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -212,6 +363,32 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "bf8195441ec3",
+    "slug": "rockstar-spends-1-million-on-welcome-to-vice-city-signage-for-gta-6",
+    "headline": "Rockstar Spends $1 Million on 'Welcome to Vice City' Signage for GTA 6",
+    "summary": "Rockstar Games has reportedly spent $1 million on a large signage in Miami to promote Grand Theft Auto 6. The sign reads 'Welcome to Vice City', hinting at the game's setting.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/grand-theft-auto-6s-miami-takeover-begins-as-rockstar-spends-nearly-1-million-on-welcome-to-vice-city-signage"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/22/gta-6-vice-city-sign-1790108459424.jpg",
+    "published_at": "2026-09-22T20:26:52.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "0ab4ca841846",
@@ -3918,30 +4095,6 @@
     "game_label": "Mr. Records"
   },
   {
-    "id": "b336b233924f",
-    "slug": "how-to-fast-travel-in-graveyard-keeper-2",
-    "headline": "How to Fast Travel in Graveyard Keeper 2",
-    "summary": "Graveyard Keeper 2 guide: Learn how to use waypoints to fast travel, and find all locations in the game.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/graveyard-keeper-2-how-fast-travel-all-waypoints-locations/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/graveyard-keeper-2-fast-travel-waypoints-area-around-base.jpg",
-    "published_at": "2026-09-22T13:01:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "graveyard-keeper-2",
-    "game_label": "Graveyard Keeper 2"
-  },
-  {
     "id": "164b87bd11d4",
     "slug": "2026s-best-gaming-soundtrack-is-from-a-steam-game-that-isnt-even-out-y",
     "headline": "2026's Best Gaming Soundtrack Is From a Steam Game That Isn't Even Out Yet",
@@ -4567,156 +4720,5 @@
     "comment_count": 0,
     "game": "gta-6",
     "game_label": "GTA 6"
-  },
-  {
-    "id": "dfbae24aea8e",
-    "slug": "monster-hunter-ascendance-developers-reflect-on-lessons-learned-and-ga",
-    "headline": "Monster Hunter: Ascendance Developers Reflect on Lessons Learned and Game Evolution",
-    "summary": "Developers discuss their approach to building upon the success of Monster Hunter: Wilds, including improvements to the Boost Bracers system and updates to returning monsters.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/interviews/monster-hunter-wilds-ascendance-developers-talk-about-revisiting-lessons-learned-from-wilds-making-boost-bracers-work-across-14-weapon-types-and-evolving-returning-monsters/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/dfbae24aea8e/800/600",
-    "published_at": "2026-09-22T11:06:04.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "monster-hunter-ascendance",
-    "game_label": "Monster Hunter: Ascendance"
-  },
-  {
-    "id": "7aa0ac0fa6b3",
-    "slug": "wow-forever-players-argue-against-overly-restrictive-ruleset",
-    "headline": "WoW: Forever Players Argue Against Overly Restrictive Ruleset",
-    "summary": "A long-time World of Warcraft roleplayer suggests the game's new 'Forever' expansion doesn't need a strict ruleset, sparking debate among players.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/ive-been-doing-roleplay-for-15-years-i-dont-think-wow-forever-needs-a-ruleset-for-it/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/hE7JgjVTUoWikKkoXRESbP-1920-80.png",
-    "published_at": "2026-09-22T11:01:51.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "world-of-warcraft-forever",
-    "game_label": "World of Warcraft: Forever"
-  },
-  {
-    "id": "6e20067d27a4",
-    "slug": "steam-profiles-get-a-nostalgic-revival",
-    "headline": "Steam Profiles Get a Nostalgic Revival",
-    "summary": "PC Gamer explores how Steam profiles from the 2000s have been revamped with modern features, bringing back a piece of gaming history.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/steam-profiles-are-beautiful-2000s-era-relics/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/dzsU4bcVv9S59sDW36JcdM-1920-80.jpg",
-    "published_at": "2026-09-22T11:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "48fbbb82645c",
-    "slug": "bungie-reverses-destiny-2-layoffs-vows-to-bring-back-vaulted-campaigns",
-    "headline": "Bungie Reverses Destiny 2 Layoffs, Vows to Bring Back Vaulted Campaigns",
-    "summary": "Bungie has changed its mind about ending Destiny 2 development and layoffs, promising to revive vaulted campaigns and reiterate the series' importance in their future plans.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/bungie-decide-their-destiny-is-to-do-more-destiny-after-all-pledging-to-bring-back-vaulted-destiny-2-campaigns-while-declaring-that-marathon-needs-to-evolve"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/destiny-2-header_WGwvqoj.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-22T10:58:45.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "destiny-2",
-    "game_label": "Destiny 2"
-  },
-  {
-    "id": "e7143fe2e6ad",
-    "slug": "io-interactive-delays-007-first-light-for-switch-2",
-    "headline": "IO Interactive Delays 007 First Light for Switch 2",
-    "summary": "IO Interactive has delayed the release of 007 First Light on Nintendo Switch 2 for a third time, with the game now set to release in March 2027.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/io-interactive-had-no-choice-but-to-delay-switch-2-launch-of-007-first-light-for-a-third-time"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/007FirstLight_05.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-22T10:55:16.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "007-first-light",
-    "game_label": "007 First Light"
-  },
-  {
-    "id": "47a5503ad705",
-    "slug": "marvel-disney-plus-shows-still-in-development",
-    "headline": "Marvel Disney Plus Shows Still in Development",
-    "summary": "Marvel is reportedly working on 3-5 new Disney Plus shows despite the cancellation of Wonder Man and the conclusion of Daredevil: Born Again.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/despite-daredevil-born-again-ending-and-wonder-mans-cancelation-marvel-reportedly-isnt-stopping-its-disney-plus-shows-any-time-soon/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/WK3KZjiJeSk9KgD2YDEUrA-1920-80.jpg",
-    "published_at": "2026-09-22T10:49:25.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
