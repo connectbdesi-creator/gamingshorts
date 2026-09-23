@@ -14895,5 +14895,58 @@
     "screenshots": [],
     "stores": [],
     "fetched_at": "2026-09-23T09:36:41.854Z"
+  },
+  {
+    "slug": "dark-souls-2",
+    "name": "Dark Souls II",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/651/6512783a214618584d144d5d852ba595.jpg",
+    "released": "2014-03-11",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/03e/03e657663de4826fde181d09deeb8791.jpg",
+      "https://media.rawg.io/media/screenshots/0f5/0f5501f44c4331b7a7cfb83bb68e7dca.jpg",
+      "https://media.rawg.io/media/screenshots/d59/d5900bc7b321714aafaa786ead38d70c.jpg",
+      "https://media.rawg.io/media/screenshots/b89/b8915ace5676ab5b88775f3ccc14f45b.jpg",
+      "https://media.rawg.io/media/screenshots/eac/eacaadd819f0c58d9b76fda0291c2aba.jpg",
+      "https://media.rawg.io/media/screenshots/39b/39b601af4d971806d4ba7c2ec75ccc3e.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-23T11:38:05.417Z"
+  },
+  {
+    "slug": "mad-king-redemption",
+    "name": "Mad King Redemption",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/390/390d56b95ecf3ad3307bf613aa1866c8.jpg",
+    "released": "2026-05-13",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/723/723e27f540ccb2438f3ea77b8dffcb62.jpg",
+      "https://media.rawg.io/media/screenshots/d5c/d5c60ee0163ce765b95274efa2ef458f.jpg",
+      "https://media.rawg.io/media/screenshots/e81/e810250c547da27d43c3299cdb41ffba.jpg",
+      "https://media.rawg.io/media/screenshots/5ea/5eaea691eb5b18f287d534d2dfd1d90a.jpg",
+      "https://media.rawg.io/media/screenshots/a0b/a0b211385b4abcc1fbbf9a831635bd08.jpg",
+      "https://media.rawg.io/media/screenshots/86b/86bd06d08accee84842578ceecbfb613.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-23T11:38:06.620Z"
   }
 ]
