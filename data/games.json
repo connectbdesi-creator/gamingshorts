@@ -15174,5 +15174,52 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-23T15:38:25.897Z"
+  },
+  {
+    "slug": "fruit-ninja",
+    "name": "Fruit Ninja (itch)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/eec/eec2973c0e12eec7b332eebb3e3befad.jpg",
+    "released": "2017-10-15",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/0d0/0d0f1880d061231d9a0bdf46ca9e52fc.jpg",
+      "https://media.rawg.io/media/screenshots/6f9/6f99c9e43860d705865e64180777fb9d.jpg",
+      "https://media.rawg.io/media/screenshots/24f/24fe141344e149024cc36c4068fa9cec.jpg",
+      "https://media.rawg.io/media/screenshots/eec/eec2973c0e12eec7b332eebb3e3befad.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-23T17:08:27.237Z"
+  },
+  {
+    "slug": "world-of-warcraft-classic",
+    "name": "World of Warcraft Classic",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/c21/c21aa06fd66da98f2388965be78c8b89.jpg",
+    "released": "2019-08-27",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/359/35937289fd962bd86e72a5c5945ec506.jpg",
+      "https://media.rawg.io/media/screenshots/7e7/7e7c21c2028595a2c3dfac522ddb32a0.jpg",
+      "https://media.rawg.io/media/screenshots/457/4578f7f9898720ed5e6d6d9b0ecc0cb8.jpg",
+      "https://media.rawg.io/media/screenshots/b47/b47921b37bfeb237556d9988b9257db6.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-23T17:08:27.902Z"
   }
 ]
