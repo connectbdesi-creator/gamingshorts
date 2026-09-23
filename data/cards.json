@@ -1,5 +1,428 @@
 [
   {
+    "id": "8ebc5fd6f72a",
+    "slug": "the-first-ace-combat-game-in-seven-years-is-playing-for-keeps",
+    "headline": "The First Ace Combat Game In Seven Years Is Playing For Keeps",
+    "summary": "Ace Combat 8: Wings of the Veil is the latest installment in the iconic fighter jet series, with ambitions bigger than ever.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/the-first-ace-combat-game-in-seven-years-is-playing-for-keeps-2000736801"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/image-2026-09-23T151824.629-1280x720.jpg",
+    "published_at": "2026-09-23T21:09:22.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ace-combat-8-wings-of-the-veil",
+    "game_label": "Ace Combat 8: Wings of the Veil"
+  },
+  {
+    "id": "d7720b9242af",
+    "slug": "genshin-impacts-new-character-vesna-is-one-of-the-best-5-stars-ive-see",
+    "headline": "Genshin Impact's new character Vesna is one of the best 5-stars I've seen in 6 years of this game",
+    "summary": "GamesRadar+ praises Genshin Impact's new 5-star character Vesna, calling her a game-changer with impressive abilities.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/open-world/genshin-impacts-new-character-vesna-is-one-of-the-best-5-stars-ive-seen-in-6-years-of-playing-this-game/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/aDWpfsTnKjGxK76pGmY2NL-1920-80.jpg",
+    "published_at": "2026-09-23T21:06:29.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "genshin-impact",
+    "game_label": "Genshin Impact"
+  },
+  {
+    "id": "2775daba6b47",
+    "slug": "amy-hennig-reveals-uncharted-4-was-a-very-different-game",
+    "headline": "Amy Hennig Reveals Uncharted 4 Was 'A Very Different Game'",
+    "summary": "Former Naughty Dog artist Amy Hennig shares her thoughts on Uncharted 4, describing it as a distinct game from her initial concept.",
+    "category": "reviews",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/adventure/uncharted-4-was-a-very-different-game-under-amy-hennig-says-former-naughty-dog-artist/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/qs3doWTQ5uFpA57NMazJWb-1920-80.jpg",
+    "published_at": "2026-09-23T21:03:14.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "uncharted-4",
+    "game_label": "Uncharted 4"
+  },
+  {
+    "id": "4f864a220ff8",
+    "slug": "stardew-valley-meets-tower-defense-in-new-indie-game",
+    "headline": "Stardew Valley Meets Tower Defense in New Indie Game",
+    "summary": "A new Steam game combines farming simulation with tower defense elements, offering a relaxing experience for fans of Stardew Valley",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/rabbit-haul-steam-stardew-valley-tower-defense-farming-sim/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/rabbit-in-front-of-pile-of-fruits-and-vegetables-in-the-rabbit-haul-key-art.jpg",
+    "published_at": "2026-09-23T21:01:13.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "stardew-valley-meets-tower-defense",
+    "game_label": "Stardew Valley Meets Tower Defense"
+  },
+  {
+    "id": "c18e0ba84997",
+    "slug": "world-of-warcraft-would-never-work-on-ps5-or-xbox",
+    "headline": "World of Warcraft Would Never Work on PS5 or Xbox",
+    "summary": "The official gamepad support in WoW: Forever is about as good as it could be, but it's still a square peg in a round hole",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/world-of-warcraft-wow-forever-gamepad-console/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/wow-forever-crop.jpeg",
+    "published_at": "2026-09-23T21:00:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "863071951158",
+    "slug": "my-first-mmo-character-2-joshua-wolens",
+    "headline": " My first MMO character #2: Joshua Wolens ",
+    "summary": "My first MMO character #2: Joshua Wolens",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/my-first-mmo-character-2-joshua-wolens/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/QXbzZyXRydap5Vd7Mafx3X-1920-80.jpg",
+    "published_at": "2026-09-23T21:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "81332474dec8",
+    "slug": "steam-game-disables-mods-after-malware-outbreak",
+    "headline": "Steam game disables mods after malware outbreak",
+    "summary": "A popular Steam game has temporarily disabled user-created mods due to a malware outbreak, marking the second such incident this year.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/sim/steam-game-disables-mods-after-facing-its-second-workshop-malware-outbreak-this-year/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/nBwao7UrvNE4uxJKrTqiLa-1920-80.jpg",
+    "published_at": "2026-09-23T20:53:49.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "people-playground",
+    "game_label": "People Playground"
+  },
+  {
+    "id": "c90b055c2404",
+    "slug": "final-fantasy-7-revelation-on-ps5-pro-offers-a-bespoke-4k-60fps-mode-t",
+    "headline": "Final Fantasy 7 Revelation on PS5 Pro Offers a Bespoke 4K, 60fps Mode Thanks to PSSR",
+    "summary": "Final Fantastic.\nPS5 Pro users will apparently be spoilt for choice when it comes to picking a graphics mode in Final Fantasy 7 Revelation.\nThe highly anticipated RPG will seemingly feature four different settings on Sony's more expensive system — although one of them is clearly going to be the favourite.\nRead the full article on pushsquare.com",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-on-ps5-pro-offers-a-bespoke-4k-60fps-mode-thanks-to-pssr"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/f8e93477b169d/large.jpg",
+    "published_at": "2026-09-23T20:45:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "faa6d20c1575",
+    "slug": "world-of-warcraft-forever-dev-addresses-authenticity-debate",
+    "headline": "World of Warcraft: Forever Dev Addresses Authenticity Debate",
+    "summary": "World of Warcraft: Forever developer discusses the game's approach to authenticity, clarifying it's not a direct recreation of the past.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-addresses-the-debate-over-who-its-made-for-i-did-not-spend-the-last-year-of-my-life-relearning-and-mastering-how-to-do-things-like-we-did-it-20-years-ago-for-retail-players/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/3yhvmXABMTiUYvTKkm3X27-1920-80.jpg",
+    "published_at": "2026-09-23T20:42:58.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "world-of-warcraft-forever",
+    "game_label": "World of Warcraft: Forever"
+  },
+  {
+    "id": "45fc8f42877b",
+    "slug": "control-resonant-easter-egg-references-evangelions-nerv-headquarters",
+    "headline": "Control Resonant Easter Egg References Evangelion's Nerv Headquarters",
+    "summary": "Early players of Control Resonant have discovered a surprising Easter egg in the game, hinting at a connection to the Evangelion franchise's iconic Nerv headquarters.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/control-resonant-evangelion-easter-egg/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/control22.jpg",
+    "published_at": "2026-09-23T20:40:33.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "control-resonant",
+    "game_label": "Control Resonant"
+  },
+  {
+    "id": "45c8f0287016",
+    "slug": "hunters-seek-fbi-pressure-as-gta-6-leak-case-resurfaces",
+    "headline": "Hunters Seek FBI Pressure as GTA 6 Leak Case Resurfaces",
+    "summary": "Hacking group ShinyHunters threatens FBI amid ongoing GTA 6 leak case, seeking pressure and recognition.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/fbi-hacked-gta-6-leak-shinyhunters-data-agents-jobs/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/jasonrob.jpg",
+    "published_at": "2026-09-23T20:35:48.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
+    "id": "ce6264f1f286",
+    "slug": "fallouts-iconic-vault-boy-exists-because-the-devs-struggled-to-solve-a",
+    "headline": " Fallout's iconic Vault Boy exists because the devs struggled to solve an old-school RPG problem ",
+    "summary": "Vault Boy was also part of why the Fallout devs split with the GURPS system",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/fallout/fallouts-iconic-vault-boy-exists-because-the-devs-were-struggling-to-solve-an-old-school-rpg-problem/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/P76N6CdTYhU8U6WZLrwh93-1920-80.jpg",
+    "published_at": "2026-09-23T20:26:34.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "039407a988ee",
+    "slug": "cd-projekt-red-releases-new-witcher-3-remastered-footage",
+    "headline": "CD Projekt Red Releases New Witcher 3 Remastered Footage",
+    "summary": "CD Projekt Red has released new footage for the remastered version of The Witcher 3, showcasing improved graphics and gameplay, but sparking concerns over potential performance issues.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/the-witcher/cd-projekt-red-releases-new-witcher-3-remastered-footage-side-by-side-and-oh-no-it-looks-worse/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ADYSAqQfGSUu3arn4jLYqC-1920-80.jpg",
+    "published_at": "2026-09-23T20:24:18.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
+    "id": "9e3e6422c67c",
+    "slug": "every-game-of-thrones-return-officially-confirmed",
+    "headline": "Every Game Of Thrones Return Officially Confirmed",
+    "summary": "Game of Thrones is set to have a busy few years, with Warner Bros. and HBO confirming multiple new projects across gaming, TV, and cinema.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/game-of-thrones-new-releases-confirmed-war-for-westeros/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/game-of-thrones-official-releases-confirmed-rhaenyra-from-hotd-on-war-for-westeros-screenshot.jpg",
+    "published_at": "2026-09-23T20:21:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b8232d10a0c0",
+    "slug": "all-aniimo-in-beast-fang-ridge-location-guide",
+    "headline": "All Aniimo in Beast Fang Ridge: Location Guide",
+    "summary": "A comprehensive guide helps players find all 20 Aniimo species in Beast Fang Ridge, including tips on quests and hidden spawns.",
+    "category": "esports",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/aniimo-beast-fang-ridge-all-locations-capture-badge/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/aniimo-all-in-beast-fang-ridge.jpg",
+    "published_at": "2026-09-23T20:19:45.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "elden-ring",
+    "game_label": "Elden Ring"
+  },
+  {
+    "id": "02d0123dd72d",
+    "slug": "digital-ps5-purchases-kick-back-cash-to-more-and-more-players",
+    "headline": "Digital PS5 Purchases Kick Back Cash to More and More Players",
+    "summary": "A growing number of PS5 owners are receiving a cash refund for their digital game purchases due to a change in Sony's policy.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/digital-ps5-purchases-kicking-back-cash-to-more-and-more-players"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/ed4a6e2d3649d/large.jpg",
+    "published_at": "2026-09-23T20:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d89edc7c2566",
+    "slug": "arc-raiders-frozen-trail-everything-added-in-the-new-update",
+    "headline": "Arc Raiders Frozen Trail: Everything Added In The New Update",
+    "summary": "Arc Raiders is receiving a major update with new features and changes, nearly a year after its release.",
+    "category": "patches",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/arc-raiders-frozen-trail-event-update/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/arc-raider-frozen-trails-character-looking-at-screen.jpg",
+    "published_at": "2026-09-23T19:38:49.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "arc-raiders",
+    "game_label": "Arc Raiders"
+  },
+  {
+    "id": "7e6162647c06",
+    "slug": "enter-polygons-point-it-out-x-secretlab-giveaway",
+    "headline": "Enter Polygon's Point It Out x Secretlab Giveaway",
+    "summary": "Polygon and Secretlab are teaming up for a giveaway of a TITAN Evo gaming chair.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/secretlab-polygon-point-it-out-titan-evo-chair-contest-giveaway/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/point-it-out-with-matt-patches-and-simone-de-rochefort.jpg",
+    "published_at": "2026-09-23T19:35:15.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "11158d8ea7a4",
     "slug": "fire-emblem-fortunes-weave-players-asked-to-keep-it-down",
     "headline": "Fire Emblem: Fortune's Weave Players Asked to Keep It Down",
@@ -292,6 +715,10 @@
       {
         "name": "Polygon",
         "url": "https://www.polygon.com/fire-emblem-fortunes-weave-pepper-leaves-location-where-to-find/"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-twisted-metal/"
       }
     ],
     "image_url": "https://picsum.photos/seed/e393d261b8c1/800/600",
@@ -622,6 +1049,27 @@
     "game_label": null
   },
   {
+    "id": "8061b9734608",
+    "slug": "magic-the-gatherings-star-trek-dice-collection-revealed",
+    "headline": "Magic: The Gathering’s Star Trek Dice Collection Revealed",
+    "summary": "Magic: The Gathering has collaborated with Star Trek to create a new set of dice, featuring characters and elements from the popular franchise.",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/magic-the-gathering-star-trek-dice-announced/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/star-trek-treasure-pack-features-25-spindown-d20s-and-20-counter-sheets.jpg",
+    "published_at": "2026-09-23T17:26:39.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "magic-the-gatherings-star-trek-dice-collection",
+    "game_label": "Magic: The Gathering’s Star Trek Dice Collection"
+  },
+  {
     "id": "8d171992a5cd",
     "slug": "33-years-later-a-beloved-pair-of-snes-rpgs-are-finally-getting-remakes",
     "headline": "33 Years Later, a Beloved Pair of SNES RPGs Are Finally Getting Remakes",
@@ -793,6 +1241,32 @@
     "comment_count": 0,
     "game": "arc-raiders-frozen-trail",
     "game_label": "Arc Raiders Frozen Trail"
+  },
+  {
+    "id": "f3078d736466",
+    "slug": "embark-studios-unveils-arc-raiders-ambitious-frozen-trail-update",
+    "headline": "Embark Studios Unveils ARC Raiders' Ambitious Frozen Trail Update",
+    "summary": "Embark Studios has revealed the details of an upcoming update for ARC Raiders, a survival game set in a post-apocalyptic world",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/embark-studios-unveils-arc-raiders-ambitious-frozen-trail-update/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/f3078d736466/800/600",
+    "published_at": "2026-09-23T17:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "arc-raiders",
+    "game_label": "ARC Raiders"
   },
   {
     "id": "a60a2d2a04b7",
@@ -4202,490 +4676,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "08dba7131732",
-    "slug": "esports-tournaments-done-better-in-person",
-    "headline": "Esports Tournaments Done Better in Person",
-    "summary": "Esports tournaments surpass their online counterparts with immersive experiences, citing lighting as a key factor.",
-    "category": "esports",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/esports-tournaments-do-it-better-in-person/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/TSxQmjLe7zyw462LYsP9fg-1920-80.jpg",
-    "published_at": "2026-09-23T08:24:46.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5ffdcd3e166c",
-    "slug": "arcade-archives-2-xevious-3dg-launches-september-24",
-    "headline": "Arcade Archives 2 Xevious 3D/G Launches September 24",
-    "summary": "A new game, Arcade Archives 2 Xevious 3D/G, is set to launch on September 24 for PS5, Xbox Series, and Switch.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/arcade-archives-2-xevious-3d-g-launches-september-24"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/5ffdcd3e166c/800/600",
-    "published_at": "2026-09-23T08:15:35.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "arcade-archives-2-xevious-3dg",
-    "game_label": "Arcade Archives 2 Xevious 3D/G"
-  },
-  {
-    "id": "efadea43d355",
-    "slug": "undead-labs-confirms-it-is-now-an-employee-owned-studio-a-significant",
-    "headline": "Undead Labs confirms it is now an \"employee-owned studio\", a \"significant number\" of employees face layoffs",
-    "summary": "Undead Labs has announced its independence and is now operating as an \"employee-owned game development studio.\"\n Read more",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/undead-labs-confirms-it-is-now-an-employee-owned-studio"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/state-of-decay-3-headline-steam.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-23T07:57:04.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6d437e7d42a1",
-    "slug": "gears-of-war-e-day-story-director-laid-off-just-a-week-before-early-ac",
-    "headline": "Gears of War: E-Day Story Director Laid Off Just a Week Before Early Access Launch",
-    "summary": "Gears of War: E-Day's story director has been laid off, just one week before the game's early access launch.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gears-of-war-e-day-story-director-laid-off-just-a-week-before-early-access-launch"
-      },
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/gears-of-war-e-day-story-director-xbox-layoffs/"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/06/17/gears-thumb-1781708355267.jpg",
-    "published_at": "2026-09-23T07:07:27.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1781990cacca",
-    "slug": "bayonetta-4-when-director-confesses-love-for-bayonetta-series",
-    "headline": "Bayonetta 4 When? Director Confesses Love for Bayonetta Series",
-    "summary": "Stellar Blade director Kim Hyung-tae reveals his love for Bayonetta, citing it as one of his favorite series, and hints at a potential Bayonetta crossover",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/bayonetta-4-when-stellar-blade-director-confesses-his-love-for-the-umbra-witch"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/69a33dcd40d34/large.jpg",
-    "published_at": "2026-09-23T06:55:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "bayonetta-4",
-    "game_label": "Bayonetta 4"
-  },
-  {
-    "id": "6d05f34520a1",
-    "slug": "zelda-ocarina-of-times-limited-edition-switch-2-cover-apparently-had-o",
-    "headline": "Zelda: Ocarina Of Time's Limited Edition Switch 2 Cover Apparently Had One Retailer Trying To Double Its Orders",
-    "summary": "It wasn't prepared for the demand...\n\nWe've heard in recent weeks about the \"limited edition\" 40th Zelda collection (comprised of hardware and accessories) selling out at select locations around the globe.\nRead the full article on nintendolife.com",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-times-limited-edition-switch-2-cover-apparently-had-one-retailer-trying-to-double-its-orders"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/4cdb75fc6f95a/large.jpg",
-    "published_at": "2026-09-23T05:55:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "fcd00ed2a8b6",
-    "slug": "kingdom-of-gaming-event-to-take-place-in-saudi-arabia",
-    "headline": "Kingdom of Gaming Event to Take Place in Saudi Arabia",
-    "summary": "The Kingdom of Gaming event is set to take place in Riyadh, Saudi Arabia, with industry leaders from around the world invited to attend.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/kingdom-of-gaming-event-to-take-place-in-saudi-arabia/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/fcd00ed2a8b6/800/600",
-    "published_at": "2026-09-23T05:45:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7ec00a6681b3",
-    "slug": "well-be-creating-a-whole-new-kind-of-gameplay-experience-iizuka-says-t",
-    "headline": "\"We'll Be Creating A Whole New Kind Of Gameplay Experience\" - Iizuka Says The New Sonic Game Is Now In Development",
-    "summary": "35 years of speed and counting. As we heard in a recent story, there have been \"good times, and there have been bad times\" for blue blur, and right now Sonic the Hedgehog's future seems rather bright with another live-action movie on the horizon and more video games guaranteed to follow. Of course, a bit like Nintendo and Super Mario,…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/well-be-creating-a-whole-new-kind-of-gameplay-experience-iizuka-says-the-new-sonic-game-is-now-in-development"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/00e56437cf8dc/large.jpg",
-    "published_at": "2026-09-23T04:45:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ac9d7a6ae587",
-    "slug": "where-can-australians-buy-r18-pc-games-without-a-credit-card-pretty-mu",
-    "headline": " Where can Australians buy R18+ PC games without a credit card? Pretty much everywhere but Steam ",
-    "summary": "Valve has dropped the ball on implementing reasonable age verification measures, so it's time to look further afield.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/software/platforms/how-to-buy-r18-games-without-a-credit-card/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/DZKZDSWUzBbPNghUTiW3bc-1920-80.jpg",
-    "published_at": "2026-09-23T03:38:59.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b40f0600226a",
-    "slug": "trover-saves-the-universe-has-completely-vanished-from-the-switch-esho",
-    "headline": "Trover Saves The Universe Has Completely Vanished From The Switch eShop",
-    "summary": "In the words of Trover: \"Are you f***ing serious?\". Multiple games have already been delisted from the eShop in 2026, and the latest one to reportedly go missing is the comedy adventure Trover Saves The Universe. Developer Squanch Games (also known for High On Life), founded by Rick & Morty co-creator Justin Roiland, has apparently shared no notice about the…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/trover-saves-the-universe-has-completely-vanished-from-the-switch-eshop"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/d57ee35a369f2/large.jpg",
-    "published_at": "2026-09-23T01:45:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3b4d013d311c",
-    "slug": "new-official-middle-earth-release-confirmed-for-september-30",
-    "headline": "New Official Middle-earth Release Confirmed for September 30",
-    "summary": "An upcoming Middle-earth release has been officially announced for September 30, bringing more details to the table.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/middle-earth-shadow-mordor-war-collection-switch-2/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/new-official-middle-earth-release-confirmed-for-september-30-1.jpg",
-    "published_at": "2026-09-23T01:00:13.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "middle-earth",
-    "game_label": "Middle-earth"
-  },
-  {
-    "id": "d493d6c5ed9d",
-    "slug": "all-active-freebie-codes-and-rewards-in-aniimo",
-    "headline": "All Active Freebie Codes and Rewards In Aniimo",
-    "summary": "A comprehensive guide on how to redeem active freebie codes and rewards for the game Aniimo",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/aniimo-codes-freebies-redemption-guide/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/aniimo-character-in-front-of-a-blue-sky.jpg",
-    "published_at": "2026-09-23T00:57:54.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "aniimo",
-    "game_label": "Aniimo"
-  },
-  {
-    "id": "8c0c1b6e3d96",
-    "slug": "classic-superhero-games-that-are-painful-to-play-today",
-    "headline": "Classic Superhero Games That Are Painful To Play Today",
-    "summary": "It's no secret that the superhero genre is ripe for video game adaptations, but previous years have had more misses than hits in this regard.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/classic-superhero-video-games-that-aged-poorly-painful-to-play/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/hulk-2003-game.jpg",
-    "published_at": "2026-09-23T00:45:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b13d28cedcff",
-    "slug": "thq-nordic-offers-free-upgrade-to-epic-mickey-rebrushed-on-switch-2",
-    "headline": "THQ Nordic Offers Free Upgrade to Epic Mickey: Rebrushed on Switch 2",
-    "summary": "THQ Nordic is providing a free upgrade to Epic Mickey: Rebrushed on the Switch 2 for existing owners on the original Switch",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/thq-nordic-is-treating-existing-epic-mickey-rebrushed-owners-to-a-free-upgrade-on-switch-2"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/5c00758be9c83/large.jpg",
-    "published_at": "2026-09-23T00:30:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "epic-mickey-rebrushed",
-    "game_label": "Epic Mickey: Rebrushed"
-  },
-  {
-    "id": "d8f847058828",
-    "slug": "wolverines-narrative-director-explains-why-logan-needed-to-be-a-short",
-    "headline": "Wolverine's Narrative Director Explains Why Logan Needed to be a Short King in the Game",
-    "summary": "Wolverine's narrative director, Walt Williams, opened up about why it was important to him that Logan was made to be significantly shorter than his hulking counterpart, Sabretooth, and why the emotional aspect of their relationship was essential to portray in the game.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/marvels-wolverine-director-explains-why-logan-needed-to-be-a-short-king-in-the-game"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/07/23/marvelswolverinestorytrailer-ign-blogroll-1784831835300.jpg",
-    "published_at": "2026-09-23T00:18:16.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "acde7157cec1",
-    "slug": "undead-labs-responds-to-layoffs-after-independence-from-xbox",
-    "headline": "Undead Labs Responds to Layoffs After Independence from Xbox",
-    "summary": "Undead Labs, the developer of State of Decay 3, confirmed significant layoffs after its independence from Xbox. The developer hasn't specified details on the number of employees laid off or any plans for the studio's future.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/state-of-decay-developer-undead-labs-confirms-significant-layoffs-following-independence-from-xbox"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2024/06/09/sod2-1717953324498.png",
-    "published_at": "2026-09-22T23:19:27.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "state-of-decay-3",
-    "game_label": "State of Decay 3"
-  },
-  {
-    "id": "fa48eb1e08bc",
-    "slug": "save-27-off-kirby-air-riders-for-nintendo-switch",
-    "headline": "Save 27% Off Kirby Air Riders for Nintendo Switch",
-    "summary": "Kirby Air Riders for the Nintendo Switch is currently on sale, offering 27% off the original price",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/kirby-air-riders-switch-2-game-deal-september-2026-updated"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/02/kirbyairriders-1788391942553.jpg",
-    "published_at": "2026-09-22T23:15:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "kirby-air-riders",
-    "game_label": "Kirby Air Riders"
-  },
-  {
-    "id": "70f80cdb030f",
-    "slug": "state-of-decay-dev-becomes-independent-after-xbox-layoffs",
-    "headline": "State of Decay Dev Becomes Independent After Xbox Layoffs",
-    "summary": "Undead Labs, developer of State of Decay, has survived the latest Xbox layoffs and is now operating independently as it prepares for its third game, targeting the PS5.",
-    "category": "deals",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/state-of-decay-dev-survives-xbox-layoffs-goes-independent-as-third-game-targets-ps5"
-      },
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/state-of-decay-3-dev-hit-with-significant-layoffs-after-going-independent"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/caf89678da135/large.jpg",
-    "published_at": "2026-09-22T22:45:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "state-of-decay",
-    "game_label": "State of Decay"
-  },
-  {
-    "id": "c299d9c3010a",
-    "slug": "fallouts-official-2027-return-5-open-world-rpgs-locked-in",
-    "headline": "Fallout's Official 2027 Return & 5 Open-World RPGs Locked In",
-    "summary": "Bethesda has confirmed a Fallout release in 2027, alongside five other open-world RPGs",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/fallout-open-world-rpgs-confirm-2027-releases/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/fallout-76-raven-rock-and-other-open-world-rpgs-locked-in-for-2027-releases-fable-with-fallout-helmet.jpg",
-    "published_at": "2026-09-22T22:38:13.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "fallout",
-    "game_label": "Fallout"
-  },
-  {
-    "id": "ece65e1efc71",
-    "slug": "destiny-2-players-and-creators-celebrate-bungies-u-turn",
-    "headline": "Destiny 2 Players and Creators Celebrate Bungie's U-Turn",
-    "summary": "Bungie has reversed its plans to limit Destiny 2 player-created content, citing the importance of community feedback. Players and developers are celebrating the decision, with the studio acknowledging the impact of community voices.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/guardians-make-their-own-fate-destiny-2-players-and-creators-celebrate-following-bungies-shock-u-turn-as-the-studio-admits-your-voices-mattered/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/jQbKkvsjUmWB4kZbsmhEXi-1920-80.jpg",
-    "published_at": "2026-09-22T22:25:32.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "destiny-2",
-    "game_label": "Destiny 2"
   }
 ]
