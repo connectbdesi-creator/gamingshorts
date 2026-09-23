@@ -1,5 +1,197 @@
 [
   {
+    "id": "b93f466fcb3e",
+    "slug": "dragon-age-director-reveals-changes-to-series",
+    "headline": "Dragon Age Director Reveals Changes to Series",
+    "summary": "Mark Darrah shares thoughts on The Fade and other Dragon Age games",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/dragon-age-origins-the-fade-mark-darrah-2000736731"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/the-fade-1280x720.jpg",
+    "published_at": "2026-09-23T15:30:53.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dragon-age",
+    "game_label": "Dragon Age"
+  },
+  {
+    "id": "e393d261b8c1",
+    "slug": "fire-emblem-fortunes-weave-alexandra-location-guide",
+    "headline": "Fire Emblem Fortune’s Weave: Alexandra location guide",
+    "summary": "A guide to finding Alexandra and recruiting her in Fire Emblem: Fortune’s Weave, specifically during Cai’s Part 1",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-alexandra-location-help-my-feelings-take-wing-quest-guide/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/e393d261b8c1/800/600",
+    "published_at": "2026-09-23T15:22:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fire-emblem-fortunes-weave",
+    "game_label": "Fire Emblem: Fortune’s Weave"
+  },
+  {
+    "id": "cb3d765b5810",
+    "slug": "netflix-announces-the-conjuring-unspoken-as-horror-franchises-first-fu",
+    "headline": "Netflix Announces The Conjuring: Unspoken as Horror Franchise's First Full Video Game",
+    "summary": "Netflix is releasing a video game based on The Conjuring horror franchise, titled The Conjuring: Unspoken, set to arrive next month.",
+    "category": "deals",
+    "platform_tags": [
+      "mobile",
+      "pc",
+      "switch",
+      "xbox",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/conjuring-unspoken-netflix-horror-game-announced/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/conjuring-4-body.jpg",
+    "published_at": "2026-09-23T15:15:27.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-conjuring-unspoken",
+    "game_label": "The Conjuring: Unspoken"
+  },
+  {
+    "id": "d13412df2e27",
+    "slug": "looks-like-xbox-is-adding-its-own-version-of-playstations-platinum-tro",
+    "headline": " Looks like Xbox is adding its own version of PlayStation's Platinum Trophy: the Mythic Achievement ",
+    "summary": "The new achievement has been spotted on the Xbox PC app",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/looks-like-xbox-is-about-to-add-its-own-version-of-playstations-platinum-trophy-the-mythic-achievement/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ankPAaY9vQR2NPsZRyyDCU-1920-80.jpg",
+    "published_at": "2026-09-23T15:12:55.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a0ced5e2a49f",
+    "slug": "theos-cities-of-myth-launches-november-4",
+    "headline": "Theos: Cities of Myth launches November 4",
+    "summary": "Pantheon-themed strategic city builder Theos: Cities of Myth will launch for PC via Steam on …",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/theos-cities-of-myth-launches-november-4"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/a0ced5e2a49f/800/600",
+    "published_at": "2026-09-23T15:09:32.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b5154e268984",
+    "slug": "this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffe",
+    "headline": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year",
+    "summary": "People Playground, a Steam sandbox game about torturing or otherwise messing with innocent ragdolls that work like crash test dummies, has had its Steam Workshop disabled over a \"malicious mod\" peddling malware. That's according to the game's developer Mestiez, who's urging anyone who played the game with mods on September 21st to run virus scans and has told everyone not…",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffers-second-bout-of-mod-based-malware-this-year"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/people-playground-mod-malware-attack-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-23T15:09:11.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b93d9f4d2adb",
+    "slug": "heartworm-coming-to-ps5-xbox-series-switch-2-ps4-xbox-one-and-switch-o",
+    "headline": "Heartworm coming to PS5, Xbox Series, Switch 2, PS4, Xbox One, and Switch on October 1",
+    "summary": "Publisher DreadXP and developer Vincent Adinolfi will release retro-inspired survival horror game Heartworm for PlayStation …",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/heartworm-coming-to-ps5-xbox-series-switch-2-ps4-xbox-one-and-switch-on-october-1"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/b93d9f4d2adb/800/600",
+    "published_at": "2026-09-23T15:05:22.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a42820377614",
+    "slug": "game-of-thrones-officially-unveils-new-dragon",
+    "headline": "Game of Thrones Officially Unveils New Dragon",
+    "summary": "A popular Game of Thrones release confirms the addition of a brand-new dragon to its roster.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/game-thrones-dragonfire-new-dragon-meleys-september-24/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/wltw_meleys_and_seasmoke_still_1920x1080.jpg",
+    "published_at": "2026-09-23T15:02:11.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "536a50a6e1dc",
     "slug": "game-changer-season-8-episodes-ranked-from-worst-to-best",
     "headline": "'Game Changer' Season 8 Episodes, Ranked From Worst to Best",
@@ -36,6 +228,81 @@
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/witcher-3-remastered-this-changed-everything-site.jpg",
     "published_at": "2026-09-23T15:00:14.000Z",
     "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "36b37144cb6a",
+    "slug": "former-xbox-studio-suffers-significant-layoffs-hours-after-going-indep",
+    "headline": "Former Xbox Studio Suffers 'Significant' Layoffs Hours After Going Independent",
+    "summary": "\"Development of State of Decay 3 remains actively underway at Undead Labs\". Yesterday, Undead Labs announced it had completed its separation from Xbox and was now a fully independent operation. Just mere hours later, however, the State of Decay developer returned with news that a significant number of employees had been let go. In the same message from Xbox CCO…",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/former-xbox-studio-suffers-significant-layoffs-hours-after-going-independent"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/d3fd713752983/large.jpg",
+    "published_at": "2026-09-23T15:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "905a8ed4289f",
+    "slug": "how-to-recruit-creek-and-nathan-fire-emblem-fortunes-weave",
+    "headline": "How To Recruit Creek And Nathan -- Fire Emblem: Fortune's Weave",
+    "summary": "TheGamer reveals strategies for recruiting Creek and Nathan in Fire Emblem: Fortune's Weave, highlighting the unique approach for each character compared to others in the game.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-how-to-recruit-creek-and-nathan/"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/features/poll-whos-your-favourite-fire-emblem-fortunes-weave-character"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/creek-and-nathan-from-fire-emblem-fortunes-weave-on-an-orange-background.jpg",
+    "published_at": "2026-09-23T15:00:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fire-emblem-fortunes-weave",
+    "game_label": "Fire Emblem: Fortune's Weave"
+  },
+  {
+    "id": "814eb2b1c49b",
+    "slug": "the-robloxification-of-steam-creator-of-viral-game-apologizes-after-ri",
+    "headline": " \"The Robloxification of Steam\": Creator of viral game apologizes after rip-offs flood Valve's store ",
+    "summary": "Needle In A Haystack Simulator is overtaking the platform",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/simulation/the-robloxification-of-steam-creator-of-viral-game-apologizes-after-slop-rip-offs-flood-valves-store/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/8MS8qtiT2U3ffFTuqyXu3f-1920-80.jpg",
+    "published_at": "2026-09-23T14:59:17.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -277,6 +544,29 @@
     "game_label": "Diablo 4"
   },
   {
+    "id": "ece64a5de1ee",
+    "slug": "ghostpia-season-one-is-a-denshi-graphic-novel-that-leverages-video-gam",
+    "headline": "ghostpia Season One is a “denshi” graphic novel that leverages video game techniques to deliver a story of eternal loneliness:  Steam gems from Japan you might be missing out on",
+    "summary": "With countless games released on Steam every single day, Japanese games from smaller independent devs tend to get lost in the shuffle, but there’s no shortage of unique titles featuring original ideas with their own distinct identity. So, AUTOMATON has recently decided to start “Steam gems from Japan you might be missing out on”, a new series which aims to…",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/ghostpia-season-one-is-a-denshi-graphic-novel-that-leverages-video-game-techniques-to-deliver-a-story-of-eternal-loneliness-steam-gems-from-japan-you-might-be-missing-out-on/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/ece64a5de1ee/800/600",
+    "published_at": "2026-09-23T14:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "50db78476a4c",
     "slug": "total-war-warhammers-biggest-campaign-now-9",
     "headline": "Total War: Warhammer's Biggest Campaign Now $9",
@@ -498,31 +788,6 @@
     "comment_count": 0,
     "game": "order-of-the-sinking-star",
     "game_label": "Order of the Sinking Star"
-  },
-  {
-    "id": "905a8ed4289f",
-    "slug": "how-to-recruit-creek-and-nathan-fire-emblem-fortunes-weave",
-    "headline": "How To Recruit Creek And Nathan -- Fire Emblem: Fortune's Weave",
-    "summary": "TheGamer reveals strategies for recruiting Creek and Nathan in Fire Emblem: Fortune's Weave, highlighting the unique approach for each character compared to others in the game.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-how-to-recruit-creek-and-nathan/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/creek-and-nathan-from-fire-emblem-fortunes-weave-on-an-orange-background.jpg",
-    "published_at": "2026-09-23T13:30:16.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "fire-emblem-fortunes-weave",
-    "game_label": "Fire Emblem: Fortune's Weave"
   },
   {
     "id": "ca858345550b",
@@ -864,6 +1129,27 @@
     "comment_count": 0,
     "game": "twin-oaks",
     "game_label": "Twin Oaks"
+  },
+  {
+    "id": "7cc8dc37f5f0",
+    "slug": "graffiti-kingdom-spiritual-successor-in-development",
+    "headline": "Graffiti Kingdom Spiritual Successor in Development",
+    "summary": "Developer Yuichi Tanzawa is working on a spiritual successor to the classic monster creator game Graffiti Kingdom after years of rejections.",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/graffiti-kingdom-developer-is-working-on-a-spiritual-successor-after-22-years-of-rejected-proposals-for-a-sequel-project/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/7cc8dc37f5f0/800/600",
+    "published_at": "2026-09-23T13:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "graffiti-kingdom",
+    "game_label": "Graffiti Kingdom"
   },
   {
     "id": "633777ac5804",
@@ -2242,6 +2528,29 @@
     ],
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/steam-game-mechabellum-free-edition-released-gamerant.jpg",
     "published_at": "2026-09-23T08:34:21.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6e3f11ff0941",
+    "slug": "open-world-detective-rpg-silver-palace-is-accepting-playtest-applicati",
+    "headline": "Open-world detective RPG Silver Palace is accepting playtest applications for a new technical test, open until October 10",
+    "summary": "Accepted applicants for the new Silver Palace technical test will have a chance to play the game on Windows, Android, and iOS.",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/open-world-detective-rpg-silver-palace-is-accepting-playtest-applications-for-a-new-technical-test-open-until-october-10/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/6e3f11ff0941/800/600",
+    "published_at": "2026-09-23T08:30:29.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -4388,299 +4697,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "3976e9627b83",
-    "slug": "arkane-studios-future-with-xbox-remains-a-total-mystery",
-    "headline": "Arkane Studios' Future With Xbox Remains A Total Mystery",
-    "summary": "Will Marvel's Blade ever see the light of day? Xbox has revealed its next steps in the company's continued reset, but it's still uncertain what the future holds for Marvel's Blade developer Arkane Studios. In a company-wide message, Xbox CCO Matt Booty detailed the next wave of layoffs, the future of Halo, Forza and Fable, as well as restructuring Activision,…",
-    "category": "industry",
-    "platform_tags": [
-      "xbox",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/arkane-studios-future-with-xbox-remains-a-total-mystery"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/2323f06f50902/large.jpg",
-    "published_at": "2026-09-22T17:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b2eec12698e1",
-    "slug": "minecraft-beat-itself-after-nearly-two-billion-simulated-years",
-    "headline": "Minecraft Beat Itself After Nearly Two Billion Simulated Years",
-    "summary": "Minecraft is no stranger to simulations, but it turns out that under the right conditions, the game can beat itself if given billions of years.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/minecraft-beat-itself-after-nearly-two-billion-simulated-years"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/07/01/new-key-art-01-1782922658372.jpg",
-    "published_at": "2026-09-22T16:58:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a2e00833cada",
-    "slug": "the-internet-reacts-to-even-more-xbox-layoffs-and-studio-shakeups-i-lo",
-    "headline": "The Internet Reacts To Even More Xbox Layoffs And Studio Shakeups: ‘I Loathe Those Responsible’",
-    "summary": "'The next time you see Banjo Kazooie will be in heaven'",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/internet-reacts-xbox-layoffs-halo-activision-physint-hideo-kojima-2000736479"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/haloreach-1280x720.jpg",
-    "published_at": "2026-09-22T16:50:25.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "574084da00e6",
-    "slug": "woodo-review-tiny-monks-tales-debut-game-is-a-gorgeous-puzzling-triump",
-    "headline": "Woodo Review: Tiny Monks Tales Debut Game Is A Gorgeous Puzzling Triumph",
-    "summary": "Woodo is an adorable puzzle game with beautiful visuals and a touching story to match.",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/woodo-review-wooden-3d-puzzle-game/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/new-project-2026-09-22t165444-822.jpg",
-    "published_at": "2026-09-22T16:42:03.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5ba1c81c618d",
-    "slug": "obsidian-is-now-under-the-bethesda-umbrella",
-    "headline": "Obsidian is Now Under the Bethesda Umbrella",
-    "summary": "As Microsoft continues its Xbox reset, the company reveals a number of big reorganization efforts including a reunion of Obsidian and Bethesda.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/bethesda-obsidian-combined/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/obsidian-is-now-under-the-bethesda-umbrella-gamerant-feature.jpg",
-    "published_at": "2026-09-22T16:32:15.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e9ca78e22494",
-    "slug": "following-a-strong-start-rebel-wolves-line-up-the-blood-of-dawnwalkers",
-    "headline": "Following a strong start, Rebel Wolves line up The Blood of Dawnwalker's first big patch for next month, adding in a new, easier difficulty mode and more",
-    "summary": "After a rip-roaring start for The Blood of Dawnwalker (one that has seen a bit of pushback against its timer mechanic, and an apparent confirmation of a sequel being in the works), developer Rebel Wolves are gearing up for the game's first big update, one that'll introduce a new difficult mode and a suite of improvement, most likely arriving early…",
-    "category": "patches",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/following-a-strong-start-rebel-wolves-line-up-the-blood-of-dawnwalkers-first-big-patch-for-next-month-adding-in-a-new-easier-difficulty-mode-and-more"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/blood-of-dawnwalker_ryLHfgu.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-22T16:32:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5141887f7161",
-    "slug": "undead-labs-becomes-independent-after-xbox-separation",
-    "headline": "Undead Labs Becomes Independent After Xbox Separation",
-    "summary": "Undead Labs, the developer of State of Decay 3, has confirmed its independence following its separation from Xbox, ensuring the game's development continues",
-    "category": "industry",
-    "platform_tags": [
-      "xbox",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/undead-labs-goes-independent-after-xbox-separation-confirms-state-of-decay-3-is-still-in-development"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/06/07/state-of-decay-3-ps5-2027-1780874442109.png",
-    "published_at": "2026-09-22T16:31:53.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "state-of-decay-3",
-    "game_label": "State of Decay 3"
-  },
-  {
-    "id": "2e355ab8a03e",
-    "slug": "destiny-2-and-wow-forever-are-solving-the-same-problem-with-live-servi",
-    "headline": "Destiny 2 and WoW Forever Are Solving the Same Problem With Live-Service Games in Different Ways",
-    "summary": "Destiny 2 and WoW Forever are taking opposite approaches to the same live-service problem, and both show why the past still matters.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/destiny-2-wow-forever-live-service-games-content-preservation/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/dwarf-from-world-of-warcraft-forever-and-ghaul-from-destiny-2-in-front-of-field-from-wow-forever.jpg",
-    "published_at": "2026-09-22T16:30:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "874fd3071444",
-    "slug": "rumour-next-halo-game-will-be-a-new-mainline-instalment-casting-doubt",
-    "headline": "Rumour: Next Halo Game Will Be a New 'Mainline Instalment', Casting Doubt on More Remakes",
-    "summary": "Campaign devolved. Given that Halo: Campaign Evolved basically confirms plans for another remake in an unlockable ending scene, it's surprising to hear that the series' next game will apparently be a brand new, mainline title. This fresh rumour comes from The Hollywood Reporter, who credit an unnamed source in their coverage of the newly announced job losses at Xbox. Read…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/rumour-next-halo-game-will-be-a-new-mainline-instalment-casting-doubt-on-more-remakes"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/9aa64e9e6aee4/large.jpg",
-    "published_at": "2026-09-22T16:30:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "787acf981612",
-    "slug": "new-overwhelmingly-positive-steam-hit-and-dressmaking-sim-overtakes-di",
-    "headline": " New \"Overwhelmingly Positive\" Steam hit and dressmaking sim overtakes Diablo 4 on top sellers chart ",
-    "summary": "Dressmaker \"is everything I wanted it to be,\" fans say",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/simulation/new-96-percent-overwhelmingly-positive-steam-hit-and-cozy-dressmaking-sim-overtakes-diablo-4-control-resonant-and-more-on-the-top-selling-chart/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/VpMpMWw3CAsXLbNXDVgfwV-1920-80.jpg",
-    "published_at": "2026-09-22T16:29:57.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "150068f0e7aa",
-    "slug": "complete-aniimo-capture-guide-for-forest-of-falling-stars",
-    "headline": "Complete Aniimo Capture Guide for Forest of Falling Stars",
-    "summary": "A comprehensive guide to capturing Aniimo species in the Forest of Falling Stars, offering helpful tips and strategies.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/all-aniimo-forest-of-falling-stars-location/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/aniimo-all-in-forest-of-falling-stars.jpg",
-    "published_at": "2026-09-22T16:27:19.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "forest-of-falling-stars",
-    "game_label": "Forest of Falling Stars"
-  },
-  {
-    "id": "6ab97a04db00",
-    "slug": "activision-lost-a-bidding-war-to-acquire-rare-over-20-years-ago-and-no",
-    "headline": " Activision lost a bidding war to acquire Rare over 20 years ago, and now it's overseeing the studio ",
-    "summary": "Xbox announced the studio's move under Activision as part of its latest reshuffling",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/platformer/activision-was-playing-the-long-game-the-call-of-duty-dev-lost-a-bidding-war-to-acquire-rare-over-20-years-ago-and-now-its-overseeing-the-studio/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/rGPP2Psqjimaf2hVYsviJH-1920-80.png",
-    "published_at": "2026-09-22T16:25:04.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e362057980f0",
-    "slug": "stellar-blade-almost-out-of-funding-secures-deal-with-sony",
-    "headline": "Stellar Blade Almost Out of Funding, Secures Deal with Sony",
-    "summary": "Developer of Stellar Blade had only three months to secure an investor, but managed to find a deal with Sony",
-    "category": "deals",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/stellar-blade-saved-playstation-sony/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/11/mixcollage-27-nov-2025-10-55-am-9055.jpg",
-    "published_at": "2026-09-22T16:22:48.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "stellar-blade",
-    "game_label": "Stellar Blade"
   }
 ]
