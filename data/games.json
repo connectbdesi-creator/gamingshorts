@@ -14841,5 +14841,37 @@
     "screenshots": [],
     "stores": [],
     "fetched_at": "2026-09-23T01:36:38.244Z"
+  },
+  {
+    "slug": "bayonetta-4",
+    "name": "Bayonetta",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/bee/bee483efadcf9d7e657e52184316a34e.jpg",
+    "released": "2009-06-23",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch",
+      "Xbox 360",
+      "PlayStation 3",
+      "Wii U"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f6a/f6a75633a2e5ffd281ce7d5fb41ffba7.jpg",
+      "https://media.rawg.io/media/screenshots/e18/e18750c1ec5ebfad2ba8222b04d0f469.jpg",
+      "https://media.rawg.io/media/screenshots/573/57348b88f0755d343127c4951db0dad5.jpg",
+      "https://media.rawg.io/media/screenshots/2d6/2d6caebf606d2d153e61716b260bd9d9.jpg",
+      "https://media.rawg.io/media/screenshots/262/2628dacce5bf8a5ca384ff3b9a47acac.jpg",
+      "https://media.rawg.io/media/screenshots/fb0/fb068001f510fbeae587c81a3398066f.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-23T07:35:32.531Z"
   }
 ]

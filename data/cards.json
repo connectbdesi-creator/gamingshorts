@@ -1,5 +1,106 @@
 [
   {
+    "id": "6d437e7d42a1",
+    "slug": "gears-of-war-e-day-story-director-laid-off-just-a-week-before-early-ac",
+    "headline": "Gears of War: E-Day Story Director Laid Off Just a Week Before Early Access Launch",
+    "summary": "Gears of War: E-Day's story director has been laid off, just one week before the game's early access launch.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gears-of-war-e-day-story-director-laid-off-just-a-week-before-early-access-launch"
+      },
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/gears-of-war-e-day-story-director-xbox-layoffs/"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/06/17/gears-thumb-1781708355267.jpg",
+    "published_at": "2026-09-23T07:07:27.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "1781990cacca",
+    "slug": "bayonetta-4-when-director-confesses-love-for-bayonetta-series",
+    "headline": "Bayonetta 4 When? Director Confesses Love for Bayonetta Series",
+    "summary": "Stellar Blade director Kim Hyung-tae reveals his love for Bayonetta, citing it as one of his favorite series, and hints at a potential Bayonetta crossover",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/bayonetta-4-when-stellar-blade-director-confesses-his-love-for-the-umbra-witch"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/69a33dcd40d34/large.jpg",
+    "published_at": "2026-09-23T06:55:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "bayonetta-4",
+    "game_label": "Bayonetta 4"
+  },
+  {
+    "id": "6d05f34520a1",
+    "slug": "zelda-ocarina-of-times-limited-edition-switch-2-cover-apparently-had-o",
+    "headline": "Zelda: Ocarina Of Time's Limited Edition Switch 2 Cover Apparently Had One Retailer Trying To Double Its Orders",
+    "summary": "It wasn't prepared for the demand...\n\nWe've heard in recent weeks about the \"limited edition\" 40th Zelda collection (comprised of hardware and accessories) selling out at select locations around the globe.\nRead the full article on nintendolife.com",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-times-limited-edition-switch-2-cover-apparently-had-one-retailer-trying-to-double-its-orders"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/4cdb75fc6f95a/large.jpg",
+    "published_at": "2026-09-23T05:55:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "fcd00ed2a8b6",
+    "slug": "kingdom-of-gaming-event-to-take-place-in-saudi-arabia",
+    "headline": "Kingdom of Gaming Event to Take Place in Saudi Arabia",
+    "summary": "The Kingdom of Gaming event is set to take place in Riyadh, Saudi Arabia, with industry leaders from around the world invited to attend.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/kingdom-of-gaming-event-to-take-place-in-saudi-arabia/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/fcd00ed2a8b6/800/600",
+    "published_at": "2026-09-23T05:45:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "7ec00a6681b3",
     "slug": "well-be-creating-a-whole-new-kind-of-gameplay-experience-iizuka-says-t",
     "headline": "\"We'll Be Creating A Whole New Kind Of Gameplay Experience\" - Iizuka Says The New Sonic Game Is Now In Development",
@@ -163,27 +264,6 @@
     "comment_count": 0,
     "game": "epic-mickey-rebrushed",
     "game_label": "Epic Mickey: Rebrushed"
-  },
-  {
-    "id": "6d437e7d42a1",
-    "slug": "gears-of-war-e-day-story-director-laid-off-just-a-week-before-early-ac",
-    "headline": "Gears of War: E-Day Story Director Laid Off Just a Week Before Early Access Launch",
-    "summary": "Gears of War: E-Day's story director has been laid off, just one week before the game's early access launch.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gears-of-war-e-day-story-director-laid-off-just-a-week-before-early-access-launch"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/06/17/gears-thumb-1781708355267.jpg",
-    "published_at": "2026-09-23T00:22:16.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   },
   {
     "id": "d8f847058828",
@@ -4635,74 +4715,6 @@
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mr-records-preview-header.jpg",
     "published_at": "2026-09-22T13:00:15.000Z",
     "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e6ffc1b604d1",
-    "slug": "demeo-x-dungeons-dragons-battlemarked-welcomes-xbox-players-as-new-cam",
-    "headline": "Demeo x Dungeons & Dragons: Battlemarked welcomes Xbox Players as new Campaign III launches",
-    "summary": "Resolution Games has launched Campaign III: Twilight’s End, the newest premium adventure for Demeo x Dungeons & Dragons: Battlemarked.\nThe post Demeo x Dungeons & Dragons: Battlemarked welcomes Xbox Players as new Campaign III launches appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/demeo-x-dungeons-dragons-battlemarked-welcomes-xbox-players-campaign-iii/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/e6ffc1b604d1/800/600",
-    "published_at": "2026-09-22T13:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ca4402230681",
-    "slug": "greg-johnsons-dancing-with-ghosts-early-access-date-confirmed",
-    "headline": "Greg Johnson’s Dancing With Ghosts Early Access date confirmed",
-    "summary": "Dancing with Ghosts, the life-sim about finding joy from grief, by HumaNature Studios, enters Early Access on PC on October 8, 2026.\nThe post Greg Johnson’s Dancing With Ghosts Early Access date confirmed appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/greg-johnsons-dancing-with-ghosts-early-access-date-confirmed/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/ca4402230681/800/600",
-    "published_at": "2026-09-22T13:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f6ecd76b01e5",
-    "slug": "gears-of-war-e-day-x-liquid-death-unlock-a-legendary-pose-and-more",
-    "headline": "Gears of War: E-Day x Liquid Death – Unlock a Legendary Pose and More",
-    "summary": "Gears of War: E-Day launches with a collab that puts a Legendary pose in your hands. We’re teaming up with Liquid Death from September 22 through November 30, bringing an in-game reward, a limited-edition merch drop, and a new way to gear up for Emergence Day. Unlock Chainsaw Flex Pick up Liquid Death Energy at […] The post Gears of…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/09/22/gears-of-war-e-day-liquid-death/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/f6ecd76b01e5/800/600",
-    "published_at": "2026-09-22T13:00:00.000Z",
-    "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
