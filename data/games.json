@@ -14759,5 +14759,87 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-22T21:32:01.352Z"
+  },
+  {
+    "slug": "middle-earth",
+    "name": "Middle-earth: Shadow of Mordor",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg",
+    "released": "2014-09-30",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "macOS",
+      "Linux",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/123/1239cbfc3e25664170e8c1d5049a6d91.jpg",
+      "https://media.rawg.io/media/screenshots/47c/47cf2d5a0c37a6262a431a490a57d58d.jpg",
+      "https://media.rawg.io/media/screenshots/9e7/9e7f6fad3ee317a7edf7f3bc6001ba9d.jpg",
+      "https://media.rawg.io/media/screenshots/97f/97fdbb526196705e25ee503bc248b63f.jpg",
+      "https://media.rawg.io/media/screenshots/770/77011e668d64fe192691d56f364fb561.jpg",
+      "https://media.rawg.io/media/screenshots/1f2/1f2851c47112ca8e1edf7c2c377632a9.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-23T01:36:37.329Z"
+  },
+  {
+    "slug": "epic-mickey-rebrushed",
+    "name": "Disney Epic Mickey: Rebrushed",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/956/9562d5a4a9f9edd50c78e812a74c4faf.jpg",
+    "released": "2024-09-24",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/9aa/9aa2afb8a609dce233faf1a489a57c0d.jpg",
+      "https://media.rawg.io/media/screenshots/c85/c850f4de57ad1089c1de2438dd3c836f.jpg",
+      "https://media.rawg.io/media/screenshots/7b7/7b791b3d9f2601a9791d1de0e00757d5.jpg",
+      "https://media.rawg.io/media/screenshots/5a7/5a79902892c21eccd83ed8936f10f88c.jpg",
+      "https://media.rawg.io/media/screenshots/cee/ceed8dec4425718b81251f51d8516995.jpg",
+      "https://media.rawg.io/media/screenshots/92b/92b782d375b6dc979b2470d50782cda5.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-23T01:36:37.844Z"
+  },
+  {
+    "slug": "kirby-air-riders",
+    "name": "Kirby Air Riders",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/083/0839770a3c15e3e6edf658fe2a5cc830.jpg",
+    "released": "2025-11-20",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "screenshots": [],
+    "stores": [],
+    "fetched_at": "2026-09-23T01:36:38.244Z"
   }
 ]
