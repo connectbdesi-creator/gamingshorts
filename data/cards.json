@@ -1,5 +1,73 @@
 [
   {
+    "id": "1d107dfa0cc5",
+    "slug": "zelda-ocarina-of-time-remake-just-proved-gta-6s-release-date-is-a-thre",
+    "headline": "Zelda: Ocarina of Time Remake Just Proved GTA 6's Release Date Is a Threat Nintendo Can't Ignore",
+    "summary": "Ocarina of Time Remake has a head start on GTA 6, and that gap may matter far more than Nintendo fans initially expected.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/zelda-ocarina-of-time-remake-gta-6-release-date-gap/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/jason-and-lucia-from-gta-6-towering-over-young-link-from-the-zelda-ocarina-of-time-remake-on-switch-2.jpg",
+    "published_at": "2026-09-23T17:27:18.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8d171992a5cd",
+    "slug": "33-years-later-a-beloved-pair-of-snes-rpgs-are-finally-getting-remakes",
+    "headline": "33 Years Later, a Beloved Pair of SNES RPGs Are Finally Getting Remakes",
+    "summary": "Lufia 1 and 2, first released back in the mid-'90s for the Super Nintendo, will get a PC and console port sometime in 2027.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/lufia-1-2-port-2027-consoles-pc/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/screenshot-2026-09-23-at-11-33-12-am.jpg",
+    "published_at": "2026-09-23T17:26:29.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9ed175325463",
+    "slug": "the-arc-raiders-frozen-trail-update-is-bigger-than-anyone-expected-new",
+    "headline": " The Arc Raiders Frozen Trail update is bigger than anyone expected: new ARC, gun upgrades, a map, and personal outposts you can decorate ",
+    "summary": "The 2.0 patch is comprehensive.",
+    "category": "patches",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/third-person-shooter/the-arc-raiders-frozen-trail-update-is-bigger-than-anyone-expected-new-arc-gun-upgrades-a-map-and-personal-outposts-you-can-decorate/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/wyxBfZ3jU4wzKAoJt8SEaT-1920-80.jpg",
+    "published_at": "2026-09-23T17:03:48.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "3c8869485c05",
     "slug": "new-soulslike-game-on-steam-has-serious-ps2-era-prince-of-persia-vibes",
     "headline": "New Soulslike Game on Steam Has Serious PS2-Era Prince of Persia Vibes",
@@ -126,6 +194,48 @@
     "comment_count": 0,
     "game": "arc-raiders-frozen-trail",
     "game_label": "Arc Raiders Frozen Trail"
+  },
+  {
+    "id": "a60a2d2a04b7",
+    "slug": "arc-raiders-battle-pass-wont-be-totally-free-anymore-but-itll-pay-for",
+    "headline": "Arc Raiders’ Battle Pass Won’t Be Totally Free Anymore, But It’ll Pay For Itself",
+    "summary": "When Arc Raiders' next major update, Frozen Trail, goes live on October 8, it'll introduce lots of changes and additions, and while the update itself will be free, the new battle pass system that comes with it won't be--at least not entirely. To date, Arc Raiders has featured three battle pass-like Raider Decks in the game. Players could complete dailies…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/arc-raiders-battle-pass-wont-be-totally-free-anymore-but-itll-pay-for-itself/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/ArcRaiders_FrozenTrail_Keyart_16-9.jpg?w=300",
+    "published_at": "2026-09-23T17:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "569c1b48bc6f",
+    "slug": "frozen-trail-is-a-20-moment-for-arc-raiders-almost-feels-like-were-shi",
+    "headline": " Frozen Trail is a \"2.0\" moment for Arc Raiders: \"Almost feels like we're shipping the game again\" ",
+    "summary": "\"We haven't really set the dates for our next update yet, but we have planned it out\"",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/third-person-shooter/frozen-trail-is-a-2-0-moment-for-arc-raiders-after-months-of-decline-it-almost-feels-like-were-shipping-the-game-again/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/aK7YGWcivW52w7edxDshPS-1920-80.jpg",
+    "published_at": "2026-09-23T17:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "74cb11c3eef2",
@@ -303,6 +413,27 @@
     "game_label": "Lollipop Chainsaw 2: Back2Back"
   },
   {
+    "id": "fd55fddb85cc",
+    "slug": "after-asking-very-nicely-for-a-skin-madison-beer-joins-fortnite-tomorr",
+    "headline": "After Asking Very Nicely For a Skin, Madison Beer Joins Fortnite Tomorrow",
+    "summary": "Madison Beer is the latest music icon to join the world of Fortnite, after previously issuing a public call to Epic Games for her to become a skin.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/after-asking-very-nicely-for-a-skin-madison-beer-joins-fortnite-tomorrow"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/23/madison-beer-is-our-new-fortnite-icon-00-00-21-1790179657533.png",
+    "published_at": "2026-09-23T16:30:41.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "af9f17d26ab0",
     "slug": "its-officially-the-end-of-an-era-for-halo-and-activision-is-already-on",
     "headline": "It's Officially the End of an Era for Halo, and Activision Is Already on the Clock",
@@ -408,6 +539,27 @@
     ],
     "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/new-project-1-5.png",
     "published_at": "2026-09-23T16:25:42.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "02c306d1dec8",
+    "slug": "scrapped-gta-5-story-dlc-might-have-taken-the-series-overseas-for-the",
+    "headline": "Scrapped GTA 5 Story DLC Might Have Taken the Series Overseas for the First Time in 15 Years",
+    "summary": "Grand Theft Auto 5's story DLC was seemingly going to take players to Paris, if leaked footage is anything to go by.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/scrapped-gta-5-story-dlc-might-have-taken-the-series-overseas-for-the-first-time-in-15-years"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2024/12/03/gta-5-world-blog-1733224118837.jpg",
+    "published_at": "2026-09-23T16:20:41.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -4535,179 +4687,6 @@
     "image_url": "https://images.purexbox.com/164ad75385eee/large.jpg",
     "published_at": "2026-09-22T20:30:00.000Z",
     "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "bf8195441ec3",
-    "slug": "rockstar-spends-1-million-on-welcome-to-vice-city-signage-for-gta-6",
-    "headline": "Rockstar Spends $1 Million on 'Welcome to Vice City' Signage for GTA 6",
-    "summary": "Rockstar Games has reportedly spent $1 million on a large signage in Miami to promote Grand Theft Auto 6. The sign reads 'Welcome to Vice City', hinting at the game's setting.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/grand-theft-auto-6s-miami-takeover-begins-as-rockstar-spends-nearly-1-million-on-welcome-to-vice-city-signage"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/22/gta-6-vice-city-sign-1790108459424.jpg",
-    "published_at": "2026-09-22T20:26:52.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "0ab4ca841846",
-    "slug": "two-near-perfect-lord-of-the-rings-games-finally-come-to-switch-2",
-    "headline": "Two Near-Perfect Lord of the Rings Games Finally Come to Switch 2",
-    "summary": "Shadow of Mordor and Shadow of War are coming to Switch 2 on September 30, bringing their open-world action and Nemesis System to Nintendo.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/lord-of-the-rings-shadow-of-mordor-games-switch-2/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/8116303/middle_earth_Shadow_of_war_screen3.jpg",
-    "published_at": "2026-09-22T20:22:06.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3368ce96bdbe",
-    "slug": "forgotten-fps-games-that-refused-to-play-it-safe",
-    "headline": "Forgotten FPS Games That Refused To Play It Safe",
-    "summary": "These overlooked FPS games dared to innovate on the genre formula. From creative weapons to innovative traversal, these games never played it safe.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/forgotten-fps-games-creative-refused-to-play-it-safe/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/forgotten-fps-games-that-refused-to-play-safe.jpg",
-    "published_at": "2026-09-22T20:15:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a4f6e15ce571",
-    "slug": "best-build-for-cai-in-fire-emblem-fortunes-weave",
-    "headline": "Best Build For Cai In Fire Emblem: Fortune's Weave",
-    "summary": "A Fire Emblem: Fortune's Weave player shares their preferred class build for Cai, recommending a hybrid class route with magic training, combat, and spear skills.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-best-cai-build/"
-      },
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-best-dietrich-build/"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-complete-walkthrough-hub/"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-how-to-make-gold-money/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/cai-during-a-cutscene-his-eyes-closed-and-his-hand-up-in-fire-emblem-fortune-s-weave.jpg",
-    "published_at": "2026-09-22T20:08:24.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "fire-emblem-fortunes-weave",
-    "game_label": "Fire Emblem: Fortune's Weave"
-  },
-  {
-    "id": "e90c06270456",
-    "slug": "monopoly-go-celebrates-halloween-with-kpop-and-ghostbusters-crossovers",
-    "headline": "Monopoly Go Celebrates Halloween with KPop and Ghostbusters Crossovers",
-    "summary": "Mobile game Monopoly Go is getting a spooky season with KPop Demon Hunters and Ghostbusters crossover, starting September 23",
-    "category": "esports",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/kpop-demon-hunters-and-ghostbusters-come-to-monopoly-go-for-spooky-season/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/monopolygo-Large.jpeg?w=300",
-    "published_at": "2026-09-22T19:57:22.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "monopoly-go",
-    "game_label": "Monopoly Go"
-  },
-  {
-    "id": "2e1c913be7f3",
-    "slug": "starcraft-doesnt-sound-like-an-xbox-exclusive",
-    "headline": "StarCraft Doesn’t Sound Like An Xbox Exclusive",
-    "summary": "StarCraft won't be an Xbox exclusive, though Blizzard isn't exactly making it clear what platforms the newly announced shooter will launch on. Announced during BlizzCon 2026 with a 2030 release date, Blizzard's StarCraft reboot won't \"be exclusive,\" according to Kotaku, who received a comment from a Blizzard spokesperson. What exactly that means, however, is still up for debate. When asked…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/starcraft-doesnt-sound-like-an-xbox-exclusive/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/StarCraft-Not-Xbox-Exclusive.jpg?w=300",
-    "published_at": "2026-09-22T19:54:28.000Z",
-    "hype_signal": 95,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1272549cf529",
-    "slug": "world-of-warcraft-forever-players-find-rule-breaking-new-items-that-de",
-    "headline": " World of Warcraft: Forever players find rule-breaking new items that defy 22 years of experience with the classic MMO ",
-    "summary": "Blizzard snuck in an item that finally gives mages a reason to swing a sword.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-find-rule-breaking-new-items-that-defy-22-years-of-experience-with-the-classic-mmo/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/DRAvip4buV4DMD7biWSmJ6-1920-80.jpg",
-    "published_at": "2026-09-22T19:50:47.000Z",
-    "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
