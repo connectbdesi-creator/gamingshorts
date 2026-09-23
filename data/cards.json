@@ -1,5 +1,73 @@
 [
   {
+    "id": "1fda9d73761f",
+    "slug": "wwe-ends-trademark-pursuit-due-to-gta-6",
+    "headline": "WWE Ends Trademark Pursuit Due to GTA 6",
+    "summary": "WWE dropped its trademark attempt due to concerns over Grand Theft Auto 6",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-vice-city-wwe-trademark/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_03-2.jpg",
+    "published_at": "2026-09-23T12:30:13.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0591e2e23313",
+    "slug": "ckrd-releases-tiny-keychain-controller-with-no-stick-drift",
+    "headline": "CKRD Releases Tiny Keychain Controller with No Stick Drift",
+    "summary": "Controller maker CKRD has launched a small Bluetooth controller called the Atom+, which promises not to suffer from stick drift and works on Switch, PC, mobiles, and tablets.",
+    "category": "releases",
+    "platform_tags": [
+      "switch",
+      "pc",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/controller-maker-ckrd-releases-the-atom-a-keychain-sized-controller-promising-no-stick-drift/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/0591e2e23313/800/600",
+    "published_at": "2026-09-23T12:24:36.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "015b1f409c27",
+    "slug": "microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-tell",
+    "headline": "Microsoft want to record your face and feed it to a generative AI, telling it to go off and design a game from your frown",
+    "summary": "A new patent from Microsoft shows how they want to record your facial expressions, show them to an AI, and have it redesign the game you're playing. It's not only your face they want, but also any words you might be muttering, growls you might be making, or, dare I say, even purrs. The broader technology described in the patent…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-telling-it-to-go-off-and-design-a-game-from-your-frown"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/helldivers-2-major-order-citizen-nightmares-arg-cape-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-23T12:17:21.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "28511148ef30",
     "slug": "steams-free-to-keep-promotion-confirms-yet-another-free-giveaway-for-o",
     "headline": "Steam's Free-to-Keep Promotion Confirms Yet Another Free Giveaway for October 2026",
@@ -44,6 +112,29 @@
     "game_label": null
   },
   {
+    "id": "44403a107edc",
+    "slug": "review-ea-sports-fc-27-switch-2-still-the-best-football-option-even-wi",
+    "headline": "Review: EA Sports FC 27 (Switch 2) - Still The Best Football Option, Even With Caveats",
+    "summary": "Zidane and shurrup, EA FC's back. If you’ve been following the Odyssey-like epic (Homer’s, that is, not Mario’s or Abe’s) that is EA FC’s relationship with Nintendo consoles, you’ll know that we’ve been out of the rut for a few years now. After it emerged that the Switch version of FIFA 18 was essentially an updated port of FIFA 13,…",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/ea-sports-fc-27"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/7e936c8dcdf3e/large.jpg",
+    "published_at": "2026-09-23T12:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "6e3f4aef2f53",
     "slug": "complete-silent-hill-townfall-in-under-2-hours",
     "headline": "Complete Silent Hill Townfall in Under 2 Hours",
@@ -68,6 +159,29 @@
     "comment_count": 0,
     "game": "silent-hill-townfall",
     "game_label": "Silent Hill Townfall"
+  },
+  {
+    "id": "f1580a5fa160",
+    "slug": "halo-co-creator-reacts-to-franchise-moving-to-activision",
+    "headline": "Halo Co-Creator Reacts To Franchise Moving To Activision",
+    "summary": "Halo co-creator Marcus Lehto comments on the series' move to Activision after Microsoft announced changes to its Xbox games division.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/halo-co-creator-reacts-to-franchise-moving-to-activision-shocked-but-not-entirely-surprised/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Halo-CE.jpg?w=300",
+    "published_at": "2026-09-23T11:43:25.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "halo",
+    "game_label": "Halo"
   },
   {
     "id": "150f011155ec",
@@ -135,6 +249,32 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "61f9f4a07425",
+    "slug": "wwe-abandons-trademark-attempt-for-gta-6-reveal-of-vice-city-delayed",
+    "headline": "WWE Abandons Trademark Attempt for GTA 6, Reveal of 'Vice City' Delayed",
+    "summary": "As Grand Theft Auto 6 is set to launch, WWE has abandoned a trademark attempt for 'Vice City', likely due to the game's release.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/vice-city-trademark-abandoned-by-wwe-ahead-of-gta-6-launch"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/23/lola-gta-1790163051974.jpg",
+    "published_at": "2026-09-23T11:33:38.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "27375a3126ff",
@@ -484,6 +624,30 @@
     "game_label": null
   },
   {
+    "id": "ef5999038d33",
+    "slug": "unlock-more-horse-girls-with-kick-an-uma-codes",
+    "headline": "Unlock More Horse Girls with Kick an Uma Codes",
+    "summary": "Get an edge in the stables or boost your Carats with the latest Kick an Uma codes, available now.",
+    "category": "deals",
+    "platform_tags": [
+      "mobile",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/simulation/kick-an-uma-codes/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/AZx4eZgE3kFoXuyYpmUBXG-1920-80.jpg",
+    "published_at": "2026-09-23T10:21:51.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "kick-an-uma",
+    "game_label": "Kick an Uma"
+  },
+  {
     "id": "704c32cc79af",
     "slug": "wardogs-honeymoon-period-ends",
     "headline": "Wardogs' Honeymoon Period Ends",
@@ -508,6 +672,53 @@
     "comment_count": 0,
     "game": "wardogs",
     "game_label": "Wardogs"
+  },
+  {
+    "id": "ec9e963aac98",
+    "slug": "disneys-dreamlight-valley-switch-2-cozy-edition-is-up-for-pre-order-bu",
+    "headline": " Disney's Dreamlight Valley Switch 2 Cozy Edition is up for pre-order, but it's cheaper to stick with the magic of the OG ",
+    "summary": "Disney Dreamlight Valley Switch 2 Cozy Edition is up for pre-order, but it's better (and cheaper) for you to stick with the original.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/disneys-dreamlight-valley-switch-2-cozy-edition-is-up-for-pre-order-but-its-cheaper-to-stick-with-the-magic-of-the-og/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/KYAtbgN9zCiA8stDQMcYA5-1920-80.jpg",
+    "published_at": "2026-09-23T10:06:27.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d4984a2f63c9",
+    "slug": "console-archives-karate-champ-launches-september-24",
+    "headline": "Console Archives Karate Champ Launches September 24",
+    "summary": "Console Archives Karate Champ is coming to PS5 and Switch on September 24",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/console-archives-karate-champ-launches-september-24"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/d4984a2f63c9/800/600",
+    "published_at": "2026-09-23T10:05:35.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "console-archives-karate-champ",
+    "game_label": "Console Archives Karate Champ"
   },
   {
     "id": "8052dc1455dc",
@@ -922,6 +1133,31 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "5ffdcd3e166c",
+    "slug": "arcade-archives-2-xevious-3dg-launches-september-24",
+    "headline": "Arcade Archives 2 Xevious 3D/G Launches September 24",
+    "summary": "A new game, Arcade Archives 2 Xevious 3D/G, is set to launch on September 24 for PS5, Xbox Series, and Switch.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/arcade-archives-2-xevious-3d-g-launches-september-24"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/5ffdcd3e166c/800/600",
+    "published_at": "2026-09-23T08:15:35.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "arcade-archives-2-xevious-3dg",
+    "game_label": "Arcade Archives 2 Xevious 3D/G"
   },
   {
     "id": "efadea43d355",
@@ -4475,240 +4711,6 @@
     "image_url": "https://images.purexbox.com/5170d15e97757/large.jpg",
     "published_at": "2026-09-22T14:50:00.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a03267dad2ff",
-    "slug": "blizzard-reveals-the-world-of-warcraft-forever-feature-we-simply-must",
-    "headline": "Blizzard Reveals the World of Warcraft Forever Feature 'We Simply Must Hold the Line On'",
-    "summary": "Ever since Blizzard revealed World of Warcraft: Forever at Blizzcon 2026, the company has been laser-focused on maintaining its Classic+ identity, even if that means not implementing some quality-of-life features the game's retail version has had for years.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/blizzard-reveals-the-world-of-warcraft-forever-feature-we-simply-must-hold-the-line-on"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/19/forever-1789805930640.png",
-    "published_at": "2026-09-22T14:46:05.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "53188c4b9cfc",
-    "slug": "what-is-the-best-beginner-build-in-control-resonant",
-    "headline": "What Is The Best Beginner Build In Control Resonant",
-    "summary": "A beginner-friendly build for playing Control: Resonant in New York City, helping new players survive the game's challenges.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/control-resonant-best-beginner-build-early-skill-primary-secondary-combo-finisher-combat-ability-guide/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/3669870_5381.jpg",
-    "published_at": "2026-09-22T14:45:16.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "control-resonant",
-    "game_label": "Control: Resonant"
-  },
-  {
-    "id": "ff0585b65239",
-    "slug": "amds-market-cap-hits-1-trillion",
-    "headline": "AMD's Market Cap Hits $1 Trillion",
-    "summary": "AMD's market capitalization has surpassed $1 trillion, surpassing Nvidia's value for the first time",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/processors/amds-market-cap-just-blasted-through-the-usd1-trillion-barrier/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/qDK99x7KtDSDHFZjKX9dj3-1920-80.jpg",
-    "published_at": "2026-09-22T14:45:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "70f5f5290299",
-    "slug": "activision-acquisition-xbox-consolidates-power-with-rare-halo-studios",
-    "headline": "Activision Acquisition: Xbox Consolidates Power with Rare, Halo Studios",
-    "summary": "Xbox is consolidating power under its Activision acquisition, with key teams including Rare and Halo Studios reporting directly to the company.",
-    "category": "industry",
-    "platform_tags": [
-      "xbox",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/banjo-kazooie-developer-rare-is-now-reporting-directly-to-activision"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/aa2d658819368/large.jpg",
-    "published_at": "2026-09-22T14:45:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "rare",
-    "game_label": "Rare"
-  },
-  {
-    "id": "0dd4b0bf08f3",
-    "slug": "xbox-confirms-mass-layoffs-studio-closures-and-obsidian-shift",
-    "headline": "Xbox Confirms Mass Layoffs, Studio Closures, and Obsidian Shift",
-    "summary": "Xbox is making significant restructuring changes, including combining studios, closing others, and laying off 268 more employees. This move comes amid rumors of further job cuts and further studio closures.",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/xbox-layoffs-activision-rare-halo-ninja-theory"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/grounded-1.2-wasps-screen.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-22T14:44:43.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "03fa45eecb61",
-    "slug": "xbox-warns-ninja-theory-could-be-closed-as-two-agreements-fall-through",
-    "headline": "Xbox Warns Ninja Theory Could Be Closed As Two Agreements Fall Through",
-    "summary": "But they're \"continuing to explore other paths forward\". A couple of months ago, Xbox announced that it would be saying goodbye to four studios in Compulsion Games, Double Fine, Ninja Theory and Undead Labs, with the latter two being sold off. Hellblade developer Ninja Theory is apparently in particularly dire straits though, with Xbox warning that the studio could be…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/xbox-warns-ninja-theory-could-be-closed-as-two-agreements-fall-through"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/a5438af467ca6/large.jpg",
-    "published_at": "2026-09-22T14:40:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "88fab34c1f81",
-    "slug": "xbox-cautions-on-ninja-theorys-future-amidst-fallen-agreements",
-    "headline": "Xbox Cautions on Ninja Theory's Future Amidst Fallen Agreements",
-    "summary": "Xbox warns that Ninja Theory could close due to unfulfilled agreements, amid the sale of Double Fine and Undead Labs.",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/xbox-warns-that-ninja-theory-could-be-closed-as-two-agreements-fall-through"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/a5438af467ca6/large.jpg",
-    "published_at": "2026-09-22T14:40:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "ninja-theory",
-    "game_label": "Ninja Theory"
-  },
-  {
-    "id": "2b99bbf9c0bf",
-    "slug": "xbox-shakes-up-studios-announces-major-layoffs",
-    "headline": "Xbox Shakes Up Studios, Announces Major Layoffs",
-    "summary": "Xbox is reorganizing several studios, including Obsidian, Playground, and Turn 10, amidst further layoffs. The changes are part of a broader effort to reshape the Xbox brand.",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/xbox-game-studios-halo-fallout-obsidian-activision-layoffs-series-x/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24592007/halo_infinite_s3.jpg",
-    "published_at": "2026-09-22T14:37:24.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0098f5e62270",
-    "slug": "apples-new-m6-soc-sets-stage-for-next-gen-2nm-pc-chips",
-    "headline": "Apple's New M6 SoC Sets Stage for Next-Gen 2nm PC Chips",
-    "summary": "Apple's latest chip design hints at a future of improved PC performance, potentially leading to better gaming experiences",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/processors/if-apples-new-m6-soc-is-anything-to-go-by-next-gen-2nm-pc-chips-are-going-to-be-awesome/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/FPKNgvQL9bYQ9YPP9m5atZ-1920-80.jpg",
-    "published_at": "2026-09-22T14:32:57.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "64531eb8cfda",
-    "slug": "xbox-faces-another-round-of-layoffs-with-268-roles-across-halo-studios",
-    "headline": "Xbox faces another round of layoffs with 268 roles across Halo Studios and others",
-    "summary": "Following on from the structural changes announced over the summer, Xbox has now confirmed that a further 268 roles will be made redundant. \nThe post Xbox faces another round of layoffs with 268 roles across Halo Studios and others appeared first on GamesBeat.",
-    "category": "industry",
-    "platform_tags": [
-      "xbox",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/xbox-faces-another-round-of-layoffs-with-268-roles-across-halo-studios-and-others/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/64531eb8cfda/800/600",
-    "published_at": "2026-09-22T14:31:41.000Z",
-    "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
