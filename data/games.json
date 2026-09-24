@@ -15583,5 +15583,108 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-24T17:09:50.915Z"
+  },
+  {
+    "slug": "pokopia",
+    "name": "Pokémon Pokopia",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/67a/67a161425e620772ba69c3caa8f48a95.jpg",
+    "released": "2026-03-05",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/51c/51c97506ad55ad07b79dbb04381420cb.jpg",
+      "https://media.rawg.io/media/screenshots/22d/22d74fc7317a15b346732547b28cf203.jpg",
+      "https://media.rawg.io/media/screenshots/278/2781cac3afa6bde1523d31ce92ce480c.jpg",
+      "https://media.rawg.io/media/screenshots/6f8/6f8dab81783d74bc8560dfcf3153cd14.jpg",
+      "https://media.rawg.io/media/screenshots/3ea/3ead2945a59daef5e3623b8113f09a14.jpg",
+      "https://media.rawg.io/media/screenshots/2a0/2a0b29c32b97025bc0c892c083cceb07.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-24T17:37:42.765Z"
+  },
+  {
+    "slug": "doctor-who",
+    "name": "Doctor Who: The Adventure Games",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/c86/c8672cef47612087cd9020ca2398ae7b.jpg",
+    "released": "2014-03-17",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/b77/b7722478c8a55aba8d943bc3d826145e.jpg",
+      "https://media.rawg.io/media/screenshots/dfe/dfef94fc799ae46e597f0ac459986076.jpg",
+      "https://media.rawg.io/media/screenshots/ae2/ae20693ccd0cd18b9fc8d225828ed1ac.jpg",
+      "https://media.rawg.io/media/screenshots/ead/ead6f876a6ed38afff88302e85bb1c26.jpg",
+      "https://media.rawg.io/media/screenshots/ad7/ad732afb2e989a406240b820eb27f4cb.jpg",
+      "https://media.rawg.io/media/screenshots/d27/d27e44c78395fad5cef818d777e8516c.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-24T17:37:43.471Z"
+  },
+  {
+    "slug": "forza",
+    "name": "Forza Motorsport",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/e9e/e9ecc560712ebfa6761e45d2523b0fb9.jpg",
+    "released": "2023-10-10",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/3a1/3a1ac6fc1d4b0c38d563227e63a387ec.jpg",
+      "https://media.rawg.io/media/screenshots/df1/df1b9db351a4b69ff32d73f2cb1ddc8b_kQGt82C.jpg",
+      "https://media.rawg.io/media/screenshots/efc/efc2ca3cb72dc54e647461ac6bc767df.jpg",
+      "https://media.rawg.io/media/screenshots/718/71894804e5cc467be8da04e51a9ca364.jpg",
+      "https://media.rawg.io/media/screenshots/e2f/e2f5f29093157a520117d7efb73f509b.jpg",
+      "https://media.rawg.io/media/screenshots/fbf/fbf3da19d3046a3fdda9e9ccc2881f97.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-24T17:37:43.969Z"
+  },
+  {
+    "slug": "total-war-warhammer-iii",
+    "name": "Total War: WARHAMMER III",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/0fc/0fcb485572f6074c611521984a033a5c.jpg",
+    "released": "2022-02-17",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Linux"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/659/65906a8cb5a4b9bb5cf662c0a9bd0b2b.jpg",
+      "https://media.rawg.io/media/screenshots/6b6/6b6147670d7cefb5830da18255e8e15d.jpg",
+      "https://media.rawg.io/media/screenshots/a3f/a3f91eccbe8b7b6b347fae82b2e962a0.jpg",
+      "https://media.rawg.io/media/screenshots/bf7/bf782445a074722b62c54919476c85d6.jpg",
+      "https://media.rawg.io/media/screenshots/d2e/d2e785c9a3afa37f0b225b5892aba64a.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-24T17:37:45.199Z"
   }
 ]
