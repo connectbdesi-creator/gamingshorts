@@ -15360,5 +15360,78 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-24T11:37:40.883Z"
+  },
+  {
+    "slug": "obsidian",
+    "name": "Obsidian",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/abe/abe3abbc4458ff94515e7d0aae8edd0f.jpg",
+    "released": "1997-01-13",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PC",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/65d/65dd3aadd24d512e88c8f64ec49cb970.jpg",
+      "https://media.rawg.io/media/screenshots/912/912ba26d3fa4d6d479bf7e685889e628.jpg",
+      "https://media.rawg.io/media/screenshots/1c3/1c3d666b4d83416a57ff466de5a0f696.jpg",
+      "https://media.rawg.io/media/screenshots/abe/abe3abbc4458ff94515e7d0aae8edd0f.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-24T13:39:48.796Z"
+  },
+  {
+    "slug": "age-of-empires",
+    "name": "Age of Empires",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/323/323dac3cdfdc40cd87dd4b2582578afe.jpg",
+    "released": "1997-10-15",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/6b5/6b5960c5ffadbb4a96a2462e85675a8c_ykEwcA0.jpg",
+      "https://media.rawg.io/media/screenshots/ae2/ae27f06464db9da5edcedbee127ef6d1_RYcZ1FA.jpg",
+      "https://media.rawg.io/media/screenshots/732/732fb55aac7a57c5b3a312db1327cfff_pn3OP4a.jpg",
+      "https://media.rawg.io/media/screenshots/caa/caacd02567a6864f129ef3ed3bdf2258_ihlr6LD.jpg",
+      "https://media.rawg.io/media/screenshots/4d2/4d2a3423eb5f57e3874ee3c2e2a8fe06.jpg",
+      "https://media.rawg.io/media/screenshots/2c7/2c7957f597420955756d256882436ee5.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-24T13:39:49.371Z"
+  },
+  {
+    "slug": "sengoku-rance",
+    "name": "Sengoku Rance",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/d96/d96e3a71c63ac0cef0550c6c2777acbb.jpg",
+    "released": "2006-12-15",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "RPG"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/ff7/ff782f36b087ce7ce91a4b3da48fafc6.jpg",
+      "https://media.rawg.io/media/screenshots/373/373f1d6cb57552da8504b6b4dcfb8cee.jpg",
+      "https://media.rawg.io/media/screenshots/d66/d66e57c5e21cb451c9d496b5f60cfedf.jpg",
+      "https://media.rawg.io/media/screenshots/d96/d96e3a71c63ac0cef0550c6c2777acbb.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-24T13:39:51.223Z"
   }
 ]
