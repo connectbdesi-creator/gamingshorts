@@ -1,5 +1,241 @@
 [
   {
+    "id": "5602a3d2d82d",
+    "slug": "danganronpa-22-reveals-slayhem-mode-new-character-sakutaro-higashi",
+    "headline": "Danganronpa 2×2 reveals Slayhem Mode new character Sakutaro Higashi",
+    "summary": "Publisher Spike Chunsoft and developer Gemdrops have revealed Danganronpa 2×2 new character Sakutaro Higashi, who …",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/danganronpa-2x2-reveals-slayhem-mode-new-character-sakutaro-higashi"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/5602a3d2d82d/800/600",
+    "published_at": "2026-09-24T01:18:57.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3027b967f94b",
+    "slug": "heres-a-first-look-at-cyberpunk-2077-running-on-an-iphone",
+    "headline": "Here's a First Look at Cyberpunk 2077 Running on an iPhone",
+    "summary": "An astonishing project has Cyberpunk 2077 running on last year's iPhone, with graphics settings and performance that surpass the Switch 2 version.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/cyberpunk-2077-iphone-vs-switch-2-ios-translation-layer-project/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/cyberpunk-2077-driving-across-night-city-bridge-at-daytime-screenshot.jpg",
+    "published_at": "2026-09-24T01:00:13.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "4e85288d7b84",
+    "slug": "tetris-effect-mixed-realities-announced-for-quest-3-meta-vr-glasses",
+    "headline": "Tetris Effect: Mixed Realities announced for Quest 3, Meta VR Glasses",
+    "summary": "Enhance and Resonair are bringing Tetris Effect: Mixed Realities to Quest 3 and Meta VR Glasses, a new VR experience that combines Tetris with mixed reality elements.",
+    "category": "releases",
+    "platform_tags": [
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/tetris-effect-mixed-realities-announced-for-quest-3-meta-vr-glasses"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/4e85288d7b84/800/600",
+    "published_at": "2026-09-24T00:53:30.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "tetris-effect-mixed-realities",
+    "game_label": "Tetris Effect: Mixed Realities"
+  },
+  {
+    "id": "24d940a24129",
+    "slug": "fire-emblem-fortunes-weave-challenges-modern-rpg-design-assumptions",
+    "headline": "Fire Emblem: Fortune's Weave Challenges Modern RPG Design Assumptions",
+    "summary": "The new Fire Emblem game proves that open worlds aren't the only path to making games feel grand and meaningful",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/fire-emblem-fortunes-weave-open-world-rpg-exploration-time-management/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortune-s-weave-non-traditional-open-worlds-work.jpg",
+    "published_at": "2026-09-24T00:45:13.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fire-emblem-fortunes-weave",
+    "game_label": "Fire Emblem: Fortune's Weave"
+  },
+  {
+    "id": "4b73e3b5bc90",
+    "slug": "metroid-ravenous-teaser-ignites-demand-for-physical-copies-of-metroid",
+    "headline": "Metroid Ravenous Teaser Ignites Demand for Physical Copies of Metroid Dread",
+    "summary": "A new Metroid game is coming to the Switch in 2027, and its announcement has sparked a surge in demand for physical copies of Metroid Dread.",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/metroid-ravenous-announcement-sees-demand-for-physical-copies-of-metroid-dread-spike"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/839f2fccbec1f/large.jpg",
+    "published_at": "2026-09-24T00:45:00.000Z",
+    "hype_signal": 85,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "metroid-ravenous",
+    "game_label": "Metroid Ravenous"
+  },
+  {
+    "id": "6756c865cc29",
+    "slug": "phoenix-wright-ace-attorney-dual-destinies-vr-announced-for-quest-meta",
+    "headline": "Phoenix Wright: Ace Attorney – Dual Destinies VR announced for Quest, Meta VR Glasses",
+    "summary": "AMATA Games, under licensing from Capcom, has announced Phoenix Wright: Ace Attorney – Dual Destinies …",
+    "category": "releases",
+    "platform_tags": [
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/phoenix-wright-ace-attorney-dual-destinies-vr-announced-for-quest-meta-vr-glasses"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/6756c865cc29/800/600",
+    "published_at": "2026-09-24T00:26:23.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "32b483329263",
+    "slug": "quake-champions-takes-a-shower-shedding-all-its-2017-live-service-grim",
+    "headline": " Quake Champions takes a shower, shedding all its 2017 live-service grime and becoming a $10 game ",
+    "summary": "If you ever played it on Steam, it's yours to keep.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/fps/quake-champions-takes-a-shower-shedding-all-its-2017-live-service-grime-and-becoming-a-usd10-game/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/htq9zhXTVc6938Mzz4Hj9L-1920-80.jpg",
+    "published_at": "2026-09-23T23:48:24.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "1df2576664dc",
+    "slug": "microsofts-age-verification-policy-sparks-controversy",
+    "headline": "Microsoft's Age Verification Policy Sparks Controversy",
+    "summary": "Valve criticizes Microsoft's age verification policy in Australia, claiming it is overly restrictive and stifling innovation",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/microsofts-approach-to-age-verification-in-australia-is-further-proof-that-valve-is-taking-the-everloving-piss/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/iecqziaKCP3TKSmEUnnKXm-1920-80.jpg",
+    "published_at": "2026-09-23T23:31:23.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "59aa95502288",
+    "slug": "stellar-blades-switch-2-release-will-include-a-frame-generation-toggle",
+    "headline": "Stellar Blade's Switch 2 Release Will Include A Frame Generation Toggle",
+    "summary": "Shift Up has been listening to feedback. In case you missed it, a few upcoming Switch 2 releases will experiment with frame generation to help lift the action to 60fps. For Dragon's Dogma 2, the game's producer recently revealed there would be a toggle option to turn this feature on or off. Stellar Blade is the other game making use…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/stellar-blades-switch-2-release-will-include-a-frame-generation-toggle"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/843d58d63665a/large.jpg",
+    "published_at": "2026-09-23T23:30:00.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "1257efeda5c8",
+    "slug": "skild-ai-achieves-breakthrough-in-teaching-robot-to-play-soccer",
+    "headline": "Skild AI Achieves Breakthrough in Teaching Robot to Play Soccer",
+    "summary": "AI developer Skild AI announced a success in teaching its robot to play soccer through self-play and post-training results.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/skild-ai-teaches-s1-robot-to-play-soccer/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/1257efeda5c8/800/600",
+    "published_at": "2026-09-23T23:20:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "6ad32f8c94a0",
     "slug": "nba-star-issues-warning-about-gta-6",
     "headline": "NBA Star Issues Warning About GTA 6",
@@ -4438,233 +4674,6 @@
     "image_url": "https://cdn.mos.cms.futurecdn.net/DRAvip4buV4DMD7biWSmJ6-1920-80.jpg",
     "published_at": "2026-09-23T09:57:17.000Z",
     "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "018f5e58f64e",
-    "slug": "reaction-to-worst-graphical-effect-poll",
-    "headline": "Reaction to Worst Graphical Effect Poll",
-    "summary": "PC Gamer readers share their reactions to the outlet's poll on the worst graphical effects in video games, with many expressing surprise and amusement.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/micropost-this-is-crazytown-reaction-to-our-worst-graphical-effect-poll/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/9FB5g7znEw8ipnarqbufQT-1920-80.jpg",
-    "published_at": "2026-09-23T09:53:07.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8fa675beb4dc",
-    "slug": "psa-sorry-argos-deep-discounts-on-some-top-tier-switch-2-games-sold-ou",
-    "headline": "PSA: Sorry, Argos' Deep Discounts On Some Top-Tier Switch 2 Games Sold Out Like Hot Cakes",
-    "summary": "Blink and you'll miss it. Big discounts on quality physical titles are such a rarity these days that, much like us, you may have got a little excited this morning if you clocked that Argos had delivered deep discounts on some of Switch 2's best games. Alas, we should have known that it was too good to be true, as…",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/psa-sorry-argos-deep-discounts-on-some-top-tier-switch-2-games-sold-out-like-hot-cakes"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/2089b07836fea/large.jpg",
-    "published_at": "2026-09-23T09:45:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0327cc379943",
-    "slug": "state-of-decay-3-studio-undead-labs-lay-off-a-significant-number-of-ex",
-    "headline": "State of Decay 3 studio Undead Labs lay off \"a significant number\" of \"exceptionally talented developers\" after gaining independence from Xbox",
-    "summary": "Less than 24 hours after confirming they've managed to secure a future outside of Xbox by going independent, State of Decay 3 studio Undead Labs have announced that they've had to lay off \"a significant number\" of staff as part of that transition. The news follows a second round of mass layoffs this year at the studios still under Microsoft's…",
-    "category": "industry",
-    "platform_tags": [
-      "xbox",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/state-of-decay-3-studio-undead-labs-lay-off-a-significant-number-of-exceptionally-talented-developers-after-gaining-independence-from-xbox"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/undead-labs-layoffs-post-independence-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-23T09:45:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "677d5ee5f26a",
-    "slug": "counter-strike-2-rush-hour-update-adds-silent-reloading",
-    "headline": "Counter-Strike 2 Rush Hour Update Adds Silent Reloading",
-    "summary": "Counter-Strike 2 has received an update that introduces silent reloading, allowing players to reload their guns without making noise",
-    "category": "patches",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/counter-strike-2-rush-hour-update-silent-reloading/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/03/counter-strike-2-counter-terrorists-1.jpg",
-    "published_at": "2026-09-23T09:38:30.000Z",
-    "hype_signal": 10,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "counter-strike-2",
-    "game_label": "Counter-Strike 2"
-  },
-  {
-    "id": "e7871774008d",
-    "slug": "avengers-endgame-encore-leaks-reveal-massive-doomsday-plot-details",
-    "headline": "Avengers: Endgame Encore Leaks Reveal Massive Doomsday Plot Details",
-    "summary": "The additional scenes from Avengers: Endgame Encore have begun to surface online, and they reveal massive Doomsday details.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/avengers-endgame-encore-leaks-doomsday-spoilers/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24440040/5077cad6c78617c0f3c784e18391dcb806_captain_america.jpg",
-    "published_at": "2026-09-23T09:21:45.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "47c79f4cc0a3",
-    "slug": "age-of-empires-studio-worlds-edge-reportedly-lose-nearly-half-their-st",
-    "headline": "Age of Empires studio World's Edge reportedly lose nearly half their staff and a new game project in mass Xbox layoffs",
-    "summary": "Further details have emerged of the impact that Microsoft’s Xbox consolidation and job cuts programme is having on affected workers. World’s Edge, the studio that effectively manages strategy megaseries Age of Empires, has allegedly been hit hard, with an unnamed but verified creative director posting on industry forum ResetEra that \"just under half\" of all staff had been let go…",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/age-of-empires-studio-worlds-edge-reportedly-lose-nearly-half-their-staff-and-a-new-game-project-in-mass-xbox-layoffs"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Age-Of-Empires-2-supporter-post_cOigFO4.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-23T09:13:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5e634e9f9f5e",
-    "slug": "xbox-lays-off-gears-of-war-e-days-story-director-barely-two-weeks-befo",
-    "headline": "Xbox lays off Gears of War: E-Day's story director barely two weeks before the game's launch",
-    "summary": "The story director for Gears of War: E-Day has been laid off as part of yesterday's Xbox cuts, barely two weeks before the game he's worked on for more than four years is released.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/gears-of-war-e-day-story-director-laid-off-xbox-cuts"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/gears-of-war-e-day-june-2026-screen-4.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-23T09:00:12.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "536468ff4cdd",
-    "slug": "resident-evil-movie-review-the-best-video-game-adaptation-of-playing-a",
-    "headline": "Resident Evil movie review - the best video game adaptation of playing a video game",
-    "summary": "There's a bit somewhere in the middle of the rubbish Doom movie, where the perspective suddenly switches to first-person. Look, it seems to say, it's just like you playing the video game! But what Zach Cregger's new Resident Evil movie gets is that, really, it's nothing like me playing the video game. Back on my side of the screen, I…",
-    "category": "reviews",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/resident-evil-movie-review"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/resident-evil-movie-header.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-23T09:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "de114796318b",
-    "slug": "rayman-legends-retold-overview-trailer-banishes-any-lingering-doubts",
-    "headline": "Rayman Legends Retold Overview Trailer Banishes Any Lingering Doubts",
-    "summary": "Rad, man. Ubisoft has published a new overview trailer for Rayman Legends Retold ahead of its launch on 3rd December 2026. Honestly, we've been questioning why this game needed to be made in the first place – Rayman Legends: Definitive Edition is still available on Switch, and it's still great – but this latest release has completely banished any lingering…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/rayman-legends-retold-overview-trailer-banishes-any-lingering-doubts"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/2ddd682fcde05/large.jpg",
-    "published_at": "2026-09-23T09:00:00.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "888245123318",
-    "slug": "the-new-avengers-endgame-encore-footage-has-leaked-revealing-how-the-m",
-    "headline": " The new Avengers: Endgame Encore footage has leaked, revealing how the Marvel re-release connects to Avengers: Doomsday ",
-    "summary": "The new release features several post-credits scenes",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/entertainment/marvel-movies/the-new-avengers-endgame-encore-footage-has-leaked-revealing-how-the-marvel-re-release-connects-to-avengers-doomsday/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ZSxQTASovYYVMBizNSSbQF-1920-80.jpg",
-    "published_at": "2026-09-23T08:43:38.000Z",
-    "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
