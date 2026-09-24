@@ -15275,5 +15275,36 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-23T21:39:03.444Z"
+  },
+  {
+    "slug": "phoenix-wright",
+    "name": "Phoenix Wright: Ace Attorney",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/02d/02da3c4a7c5cd335a9d45e24cdf1df6f.jpg",
+    "released": "2001-10-12",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PC",
+      "iOS",
+      "Android",
+      "Nintendo 3DS",
+      "Nintendo DS",
+      "Wii",
+      "Game Boy Advance"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/33b/33b43c6c51f1dd24de535bc374f9fff0.jpg",
+      "https://media.rawg.io/media/screenshots/993/99344fde62a07a5baa2a5e3adc2f0bdc.jpg",
+      "https://media.rawg.io/media/screenshots/8b3/8b331a89e3466099d41b2ab0461d3bfb.jpg",
+      "https://media.rawg.io/media/screenshots/26d/26d8c81b558e889335d4fd5a7d0daf84.jpg",
+      "https://media.rawg.io/media/screenshots/e2b/e2baf0743d6e67b987bd87293f9a6d32.jpg",
+      "https://media.rawg.io/media/screenshots/239/2394b51ac03fa711b6219a8f587a04ba.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-24T03:36:32.454Z"
   }
 ]
