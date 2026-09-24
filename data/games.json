@@ -15561,5 +15561,27 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-24T15:08:47.058Z"
+  },
+  {
+    "slug": "batgirl",
+    "name": "Batgirl",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/835/835c201134d1f24e9abb3336ef93fb9a.jpg",
+    "released": "2022-05-05",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a3e/a3edd13e9c0daf17e3471b0dd6b5d72c.jpg",
+      "https://media.rawg.io/media/screenshots/113/11367ed5fab0fa4ff94ebaf1c8aa5f52.jpg",
+      "https://media.rawg.io/media/screenshots/835/835c201134d1f24e9abb3336ef93fb9a.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-24T17:09:50.915Z"
   }
 ]
