@@ -15433,5 +15433,61 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-24T13:39:51.223Z"
+  },
+  {
+    "slug": "deck-of-haunts",
+    "name": "Deck of Haunts",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/aff/aff80d0720fb1f331587d69a30b78764.jpg",
+    "released": "2025-05-07",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "Indie",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/8e4/8e4d30773ec0d433589d9da503361a75.jpg",
+      "https://media.rawg.io/media/screenshots/db9/db9a0ff1ac545a061720d8a0c6411563.jpg",
+      "https://media.rawg.io/media/screenshots/753/7538eefad970b6c9a43a5079106829e7.jpg",
+      "https://media.rawg.io/media/screenshots/90d/90df3bdacc1d2a700ff4a3082ec2ccfa.jpg",
+      "https://media.rawg.io/media/screenshots/133/133550cb3640308f9c0976f83af34e85.jpg",
+      "https://media.rawg.io/media/screenshots/188/18852c583a90f3948438a2becf96fb1e.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-24T14:08:08.425Z"
+  },
+  {
+    "slug": "ace-attorney-dual-destinies",
+    "name": "Phoenix Wright: Ace Attorney - Dual Destinies",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/17e/17e8714b2ba73dd7594b68e2d76ab083.jpg",
+    "released": "2013-07-25",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Simulation"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Nintendo 3DS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/70d/70ddc5541993884463cd478abacaa28c.jpg",
+      "https://media.rawg.io/media/screenshots/40a/40a86c1b8d5725e89cdc8a9f7b394962.jpg",
+      "https://media.rawg.io/media/screenshots/ffb/ffb5020422f6fc16dd1ddfa33f1a3838_0WImW6J.jpg",
+      "https://media.rawg.io/media/screenshots/4d1/4d123187b802907219745cc31da88265.jpg",
+      "https://media.rawg.io/media/screenshots/2c8/2c82b0809550fbfb8ee1e4d984932ca3.jpg",
+      "https://media.rawg.io/media/screenshots/c19/c1957f023143fc5f42878d4306166ff7.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-24T14:08:11.825Z"
   }
 ]
