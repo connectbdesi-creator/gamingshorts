@@ -1,5 +1,160 @@
 [
   {
+    "id": "440c91272991",
+    "slug": "gta-6-fans-need-to-mark-september-30-for-a-reason",
+    "headline": "GTA 6 Fans Need to Mark September 30 for a Reason",
+    "summary": "GTA 6 fans are advised to note September 30 as a significant date, in relation to the game's release on November 19. No further details are provided about the connection between the two dates.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-release-date-countdown-50-days/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_13-1.jpg",
+    "published_at": "2026-09-24T19:00:13.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "059026f059d2",
+    "slug": "pc-gamers-hyperfeed-beta-is-live",
+    "headline": " PC Gamer's Hyperfeed beta is live ",
+    "summary": "We're testing a beta version of our homepage. Let us know what you think!",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/pc-gamer-hyperfeed-beta-is-live/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/apukTmNubrJpswAkhdMUdZ-1920-80.jpg",
+    "published_at": "2026-09-24T18:43:52.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "90ab40eb5c4e",
+    "slug": "marvel-finally-releases-spider-man-brand-new-days-post-credits-scene",
+    "headline": "Marvel Finally Releases Spider-Man: Brand New Day's Post-Credits Scene",
+    "summary": "Marvel has revealed the fate of Bruce Banner after the events of Spider-Man: Brand New Day",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/avengers-endgame-encore-post-credit-scene-hulk-mystery/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/bruce-banner-spider-man-brand-new-day.jpg",
+    "published_at": "2026-09-24T18:43:29.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "spider-man-brand-new-day",
+    "game_label": "Spider-Man: Brand New Day"
+  },
+  {
+    "id": "0c4d3c9e15aa",
+    "slug": "ex-dragon-age-lead-admits-origins-fade-sequence-is-filler-and-not-very",
+    "headline": "Ex-Dragon Age lead admits Origins' Fade sequence is 'filler' and 'not very good content'",
+    "summary": "Former Dragon Age lead Mark Darrah criticizes the game's Fade sequence, calling it 'filler' and 'not very good content'",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/dragon-age/ex-dragon-age-lead-settles-the-score-on-origins-most-controversial-sequence-the-fade-is-filler-and-not-very-good-content/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/AoKERtDa8Pz6pCBBWumCYH-1920-80.jpg",
+    "published_at": "2026-09-24T18:40:43.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dragon-age-origins",
+    "game_label": "Dragon Age: Origins"
+  },
+  {
+    "id": "14a1a6636717",
+    "slug": "control-resonant-takes-shots-at-generative-ai",
+    "headline": "Control Resonant Takes Shots At Generative AI",
+    "summary": "Control Resonant developer Coda Systems critiques the use of generative AI in game development, emphasizing the importance of human creativity and originality.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/control-resonant-calls-out-generative-ai-collectible/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/controlresonantdylanintro.jpg",
+    "published_at": "2026-09-24T18:40:15.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "control-resonant",
+    "game_label": "Control Resonant"
+  },
+  {
+    "id": "8aaf5fb758e3",
+    "slug": "bungie-officially-reveals-massive-marathon-revamp",
+    "headline": "Bungie Officially Reveals Massive Marathon Revamp",
+    "summary": "Bungie is reworking its extraction shooter game Marathon with a new PvE mode, set to be completed by 2027",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/bungie-marathon-symbiosis-changes-pve-new-modes/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jb_mar_symbiosis_sunken_reservoir_28-1.jpg",
+    "published_at": "2026-09-24T18:38:24.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "marathon",
+    "game_label": "Marathon"
+  },
+  {
     "id": "35425a046961",
     "slug": "beyond-good-and-evil-2-gets-encouraging-update",
     "headline": "Beyond Good and Evil 2 Gets Encouraging Update",
@@ -40,6 +195,32 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "864f0bd1fe29",
+    "slug": "bungie-plans-big-update-for-marathon-in-march-2027",
+    "headline": "Bungie Plans Big Update for Marathon in March 2027",
+    "summary": "Bungie is reviving Marathon and will evolve the experience with a major update in March 2027, following community feedback.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/march-2027-could-be-make-or-break-for-marathon/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Marathon-runner.jpg?w=300",
+    "published_at": "2026-09-24T18:20:49.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "marathon",
+    "game_label": "Marathon"
   },
   {
     "id": "a4e16b5864f8",
@@ -2697,6 +2878,29 @@
     "game_label": "GTA 6"
   },
   {
+    "id": "f8628d981891",
+    "slug": "wonderpaws",
+    "headline": "WonderPaws",
+    "summary": "Lilith's Cat Paw Latte announces multiplayer life sim WonderPaws, where players build their own life in a bustling animal city, for PC.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/wonderpaws-a-cozy-life-sim-set-in-a-city-of-animals-announced-for-pc"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/23/wonderpaws-blogroll-1790185429422.jpg",
+    "published_at": "2026-09-24T14:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "wonderpaws",
+    "game_label": "WonderPaws"
+  },
+  {
     "id": "9d4171b98545",
     "slug": "silent-hill-townfalls-crtv-vision-brings-hope-to-horror-fans",
     "headline": "Silent Hill Townfall's CRTV Vision Brings Hope to Horror Fans",
@@ -4499,196 +4703,5 @@
     "comment_count": 0,
     "game": "tetris-effect-mixed-realities",
     "game_label": "Tetris Effect: Mixed Realities"
-  },
-  {
-    "id": "711002cc0b01",
-    "slug": "grand-theft-auto-5-canceled-story-dlc-location-revealed",
-    "headline": "Grand Theft Auto 5 Canceled Story DLC Location Revealed",
-    "summary": "A recent leak suggests a previously canceled Grand Theft Auto 5 DLC expansion might have taken players to a surprise location, sparking renewed interest in the game's story.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-5-story-dlc-canceled-why-paris/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/canceled-gta-5-story-dlc-was-set-in-surprise-location-gamerant-feature.jpg",
-    "published_at": "2026-09-24T09:00:13.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-5",
-    "game_label": "Grand Theft Auto 5"
-  },
-  {
-    "id": "299ee4846301",
-    "slug": "my-first-mmo-character-3-steve-haines",
-    "headline": " My first MMO character #3: Steve Haines ",
-    "summary": "My first MMO character #3: Steve Haines",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-3-steve-haines/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/QXbzZyXRydap5Vd7Mafx3X-1920-80.jpg",
-    "published_at": "2026-09-24T09:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "442111a01628",
-    "slug": "bungie-reunites-destiny-2-campaigns-raids-and-destinations-after-unvau",
-    "headline": "Bungie Reunites Destiny 2 Campaigns, Raids, and Destinations After 'Unvaulting' Surprise",
-    "summary": "Bungie has announced plans to reintroduce removed Destiny 2 content, including campaigns, raids, and destinations, following a surprise 'unvaulting' announcement earlier this week.",
-    "category": "esports",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/destiny-2-unvaulted-content-details-report"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/destiny-2-cayde-6_1596993179.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-24T08:52:40.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "destiny-2",
-    "game_label": "Destiny 2"
-  },
-  {
-    "id": "a4ffaa07802a",
-    "slug": "playstation-reportedly-reaching-out-to-studios-about-its-decision-to-k",
-    "headline": "PlayStation Reportedly Reaching Out To Studios About Its Decision To Kill Discs",
-    "summary": "An insider has claimed PlayStation has sent a survey to developers to gauge whether they have a problem with its plans for physical releases.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/playstation-studio-survey-killing-physical-games-feedback/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/07/close-up-of-two-dualsense-controllers-lit-up-in-blue-and-purple.jpg",
-    "published_at": "2026-09-24T08:44:41.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cbbda43463e5",
-    "slug": "this-has-to-be-a-sick-joke-the-next-ace-attorney-game-is-a-vr-exclusiv",
-    "headline": "'This Has to Be a Sick Joke' — the Next Ace Attorney Game Is a VR Exclusive and Fans Can't Quite Believe It",
-    "summary": "Finally! A new Ace Attorney game was announced! But hold on, it’s not actually a brand new Ace Attorney game. Oh, and it’s VR exclusive.",
-    "category": "releases",
-    "platform_tags": [
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/this-has-to-be-a-sick-joke-the-next-ace-attorney-game-is-a-vr-exclusive-and-fans-cant-quite-believe-it"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/24/image-01-ja-1790239119098.jpg",
-    "published_at": "2026-09-24T08:42:35.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f11b3140effd",
-    "slug": "minecraft-live-returns-this-saturday",
-    "headline": "Minecraft LIVE Returns This Saturday",
-    "summary": "The post Minecraft LIVE Returns This Saturday appeared first on XBOX Wire.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/09/24/minecraft-live-returns-this-saturday/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/f11b3140effd/800/600",
-    "published_at": "2026-09-24T08:37:50.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3af299bb47fa",
-    "slug": "microsoft-files-patent-for-ad-credit-system-to-display-ads-during-pc-a",
-    "headline": "Microsoft Files Patent for 'Ad-Credit' System to Display Ads During PC and Xbox Gameplay",
-    "summary": "Microsoft has patented a system to display ads during PC and Xbox gameplay without disrupting the gaming experience.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/xbox-controller-sam-pak-unsplash-(1).jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-24T07:56:51.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "721b55b892c4",
-    "slug": "pokemon-go-tour-2027-dates-revealed-teases-strongest-pokemon-yet",
-    "headline": "Pokémon GO Tour 2027 Dates Revealed, Teases Strongest Pokemon Yet",
-    "summary": "Pokémon GO has announced the dates for its 2027 tour, which includes both in-person and Global events, hinting at the inclusion of a powerful new Pokémon.",
-    "category": "deals",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/pokemon-go-tour-2027-date-location-necrozma/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/pokemon-go-tour-2027-dates.jpg",
-    "published_at": "2026-09-24T07:29:22.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "pokemon-go",
-    "game_label": "Pokémon GO"
   }
 ]
