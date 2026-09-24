@@ -15686,5 +15686,54 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-24T17:37:45.199Z"
+  },
+  {
+    "slug": "wild-west-pioneers",
+    "name": "Wild West Pioneers",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/e9c/e9ca169ff83e253d32ce61170043e27e.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/67d/67d566a8789d6364f9ab0b105f20de93.jpg",
+      "https://media.rawg.io/media/screenshots/368/36898b467e9aa65c30cfdf8df8e71a7b.jpg",
+      "https://media.rawg.io/media/screenshots/557/5573d2b79a9c3680a917f73fcab499f4.jpg",
+      "https://media.rawg.io/media/screenshots/c37/c3775bc7bd118dd151bfaf67c88fc9f4.jpg",
+      "https://media.rawg.io/media/screenshots/e9c/e9ca169ff83e253d32ce61170043e27e.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-24T21:38:46.211Z"
+  },
+  {
+    "slug": "star-wars-galactic-racer",
+    "name": "Star Wars: Galactic Racer",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/553/5536c25da9711a39a5c4d752361de551.jpg",
+    "released": "2026-10-06",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/1af/1afb15dc670cec686e060ce6916ba2d5_3woE0tY.jpg",
+      "https://media.rawg.io/media/screenshots/c16/c168d53905c39756eafaf28ae2b113f5.jpg",
+      "https://media.rawg.io/media/screenshots/3b0/3b08e5073f8de54278c3ec6c3020aed0.jpg",
+      "https://media.rawg.io/media/screenshots/d7d/d7d7e08f9192f4294a1b94a7069f7720.jpg",
+      "https://media.rawg.io/media/screenshots/2f2/2f21fd7b7efea66883443e2ba848dcd4.jpg",
+      "https://media.rawg.io/media/screenshots/1c1/1c147e800bd6964bc8afc3c9f238ac99.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-24T21:38:46.797Z"
   }
 ]
