@@ -15306,5 +15306,59 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-24T03:36:32.454Z"
+  },
+  {
+    "slug": "prince-of-persia-the-lost-crown",
+    "name": "Prince of Persia: The Lost Crown",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/cca/ccaa933775fe1ffcebe40a01f52545db.jpg",
+    "released": "2024-01-18",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Platformer",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/fc0/fc03983d06ff39095176e4d44535e3ad.jpg",
+      "https://media.rawg.io/media/screenshots/9b2/9b2c52dd3c53675e5fa3682562f33c5a.jpg",
+      "https://media.rawg.io/media/screenshots/1c5/1c598576f67907fa7a9dcfb66afe7a94.jpg",
+      "https://media.rawg.io/media/screenshots/47b/47b8b8afa6e01da69206a06f1f9f7af9.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-24T11:37:40.485Z"
+  },
+  {
+    "slug": "quake-champions",
+    "name": "Quake Champions",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/fba/fbae1bcfae1feffda6a11fbc1c939420.jpg",
+    "released": "2017-08-22",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/cbd/cbd0b3115423fb6d25f13fa6091ffbf2.jpg",
+      "https://media.rawg.io/media/screenshots/3ac/3acb0f27dd74d72b9a3d766feeb22f57.jpg",
+      "https://media.rawg.io/media/screenshots/7cf/7cf07d07616c4c5397ad53c4c2c14901.jpg",
+      "https://media.rawg.io/media/screenshots/131/131705ecac72690598938c0dd6f83723.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-24T11:37:40.883Z"
   }
 ]
