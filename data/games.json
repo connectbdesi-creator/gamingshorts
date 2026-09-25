@@ -16138,5 +16138,51 @@
     "screenshots": [],
     "stores": [],
     "fetched_at": "2026-09-25T19:07:58.477Z"
+  },
+  {
+    "slug": "hell-is-us",
+    "name": "Hell is Us",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/60b/60b7561ab47a7c0853ae983d419b47cb.jpg",
+    "released": "2025-09-04",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/746/74649954ceef11c460866e908e95cd49.jpg",
+      "https://media.rawg.io/media/screenshots/431/431ef69b2a22271f4da549b3493d46e6.jpg",
+      "https://media.rawg.io/media/screenshots/744/7449654ec8431d7e6565429b9416c993.jpg",
+      "https://media.rawg.io/media/screenshots/be9/be969c310593270bd1589ef86175dc7d.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-25T23:37:25.086Z"
+  },
+  {
+    "slug": "valve",
+    "name": "Valve Turner",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/15e/15e941f0e9a05de9b0fd0c3cf57a9e2a.jpg",
+    "released": "2022-04-04",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/595/595afac99a75ab9ac7e913c22d632e19.jpg",
+      "https://media.rawg.io/media/screenshots/336/3362cb6f555e6f0ba96b802e3ab4ee9f.jpg",
+      "https://media.rawg.io/media/screenshots/15e/15e941f0e9a05de9b0fd0c3cf57a9e2a.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-25T23:37:25.379Z"
   }
 ]
