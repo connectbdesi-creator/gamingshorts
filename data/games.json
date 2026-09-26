@@ -16260,5 +16260,58 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-26T03:37:07.650Z"
+  },
+  {
+    "slug": "forgotten-island",
+    "name": "Forgotten Island",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/e80/e802763d17ebd1ea7564e29b7c876fa2.jpg",
+    "released": "2015-12-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/8f4/8f4f90baa9b479a30c68a1a2163a3504.jpg",
+      "https://media.rawg.io/media/screenshots/fce/fcee3626cc27b11097c7bcee371af7b0_XdSlPpg.jpg",
+      "https://media.rawg.io/media/screenshots/008/0084fd03efa2cd03511c8ba795983f04.jpg",
+      "https://media.rawg.io/media/screenshots/2d8/2d837341632c54cfbe6406f79b6244da.jpg",
+      "https://media.rawg.io/media/screenshots/ade/adeac70bc2071983256e10a5e678b9c4.jpg",
+      "https://media.rawg.io/media/screenshots/1c5/1c5eb4bf308913750bc5b25531ca8253.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-26T13:37:21.610Z"
+  },
+  {
+    "slug": "blacksmith-master",
+    "name": "Blacksmith Master",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/ef3/ef31683bc00754b1662b8d91a18df279.jpg",
+    "released": "2025-05-15",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Linux"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/825/82576ba1943f777bf648e5dfa6397e57.jpg",
+      "https://media.rawg.io/media/screenshots/487/4874ecf1416514e75ec2be33c70eb0ca.jpg",
+      "https://media.rawg.io/media/screenshots/06c/06c33df145049f53cf41c632a6ba5437.jpg",
+      "https://media.rawg.io/media/screenshots/124/12451b97d3ec9cc77c786e64b62ea3bc.jpg",
+      "https://media.rawg.io/media/screenshots/1f1/1f14bb4a1c573f18e7ca02171b0378f8.jpg",
+      "https://media.rawg.io/media/screenshots/e70/e705f663dd52013f81c582cfeb28e93e.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-26T13:37:28.633Z"
   }
 ]
