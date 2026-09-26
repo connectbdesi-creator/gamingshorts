@@ -1,5 +1,178 @@
 [
   {
+    "id": "0e8497144d8b",
+    "slug": "this-35-year-old-video-game-is-somehow-more-fun-than-ever",
+    "headline": "This 35-Year-Old Video Game Is Somehow More Fun Than Ever",
+    "summary": "A lot of 35-year-old games didn't age well, but one Super Nintendo classic remains every bit as much fun to play as it was at launch.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/zelda-link-to-the-past-snes-35th-anniversary/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/devin-berko-dvrtk5en9em-unsplash.jpg",
+    "published_at": "2026-09-26T23:00:15.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b1d6ed29142d",
+    "slug": "minecraft-is-getting-its-first-new-dimension-in-over-14-years",
+    "headline": "Minecraft Is Getting Its First New Dimension in Over 14 Years",
+    "summary": "Mojang is adding the Sift, a new dimension, to Minecraft in 2027, marking the first new dimension in over 14 years.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/minecraft-is-getting-its-first-new-dimension-in-over-15-years/"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/minecraft-is-getting-its-first-new-dimension-in-over-14-years"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/surprise-minecraft-is-getting-its-first-new-dimension-in-over-14-years"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/26/screenshot-2026-09-26-182752-1790443689989.png",
+    "published_at": "2026-09-26T23:00:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "minecraft",
+    "game_label": "Minecraft"
+  },
+  {
+    "id": "24fe15c605e2",
+    "slug": "longest-nes-games-that-take-forever-to-complete",
+    "headline": "Longest NES Games That Take Forever To Complete",
+    "summary": "NES games aren't known for being extremely long, but not every title was Super Mario Bros. Some NES RPGs last a lifetime.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/nes-rpgs-long-games-take-forever-complete/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/longest-nes-games-to-complete-might-and-magic-book-one-with-console.jpg",
+    "published_at": "2026-09-26T22:42:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8cafe64437cd",
+    "slug": "lego-and-playstation-unveil-astro-bot-set-ahead-of-release",
+    "headline": "LEGO and PlayStation Unveil Astro Bot Set Ahead of Release",
+    "summary": "LEGO and PlayStation are teaming up to release a new Astro Bot set next month, giving fans their first official look at the toy.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/lego-astro-bot-set-revealed/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/lego-astro-bot-set-revealed.jpg",
+    "published_at": "2026-09-26T22:07:42.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "astro-bot",
+    "game_label": "Astro Bot"
+  },
+  {
+    "id": "f57cd8960f3b",
+    "slug": "the-best-deals-today-fire-emblem-fortunes-weave-metroid-prime-4-ninten",
+    "headline": "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More",
+    "summary": "IGN highlights various deals available today, including Fire Emblem: Fortune's Weave and Metroid Prime 4, as well as the upcoming Nintendo Switch 2 console.",
+    "category": "deals",
+    "platform_tags": [
+      "switch",
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/best-deals-for-september-26-2026"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/16/screenshot-19824-1789531647050.png",
+    "published_at": "2026-09-26T22:04:18.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fire-emblem-fortunes-weave",
+    "game_label": "Fire Emblem: Fortune's Weave"
+  },
+  {
+    "id": "2ce048c3b5e5",
+    "slug": "pokemon-fans-are-split-over-new-pokemon-emerald-release",
+    "headline": "Pokemon Fans Are Split Over New Pokemon Emerald Release",
+    "summary": "An ambitious new Pokemon release has fans divided over the Hoenn Region ahead of the rumored Nintendo Switch 2 ports of Ruby, Sapphire, and Emerald.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/pokemon-emerald-rotate-hoenn-region/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/pokemon-emerald-rotate.jpg",
+    "published_at": "2026-09-26T22:00:13.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8a9e2074ac86",
+    "slug": "rockpaper-shotgun-talon-towers-parkour-platformer-inspired-by-fumito-u",
+    "headline": "RockPaper Shotgun: TALON TOWERS Parkour Platformer Inspired by Fumito Ueda",
+    "summary": "TALON TOWERS is a parkour platformer that pays homage to Fumito Ueda's style, featuring massive structures to navigate and avoid falling to one's doom.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/talon-towers-is-a-fumito-ueda-coded-parkour-platformer-about-hopping-around-massive-structures-while-avoiding-falling-to-your-foggy-doom"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/talon-towers.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-26T21:55:08.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "talon-towers",
+    "game_label": "TALON TOWERS"
+  },
+  {
     "id": "d04cd431aaf9",
     "slug": "ubisofts-canceled-zelda-game-makes-ocarina-of-time-remake-look-even-mo",
     "headline": "Ubisoft's Canceled Zelda Game Makes Ocarina of Time Remake Look Even More Conservative",
@@ -438,33 +611,6 @@
     "comment_count": 0,
     "game": "minecraft-dungeons-ii-the-sift",
     "game_label": "Minecraft Dungeons II: The Sift"
-  },
-  {
-    "id": "b1d6ed29142d",
-    "slug": "minecraft-is-getting-its-first-new-dimension-in-over-14-years",
-    "headline": "Minecraft Is Getting Its First New Dimension in Over 14 Years",
-    "summary": "Mojang is adding the Sift, a new dimension, to Minecraft in 2027, marking the first new dimension in over 14 years.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/minecraft-is-getting-its-first-new-dimension-in-over-15-years/"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/minecraft-is-getting-its-first-new-dimension-in-over-14-years"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/26/screenshot-2026-09-26-182752-1790443689989.png",
-    "published_at": "2026-09-26T18:00:00.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "minecraft",
-    "game_label": "Minecraft"
   },
   {
     "id": "98866c25e844",
@@ -4487,143 +4633,5 @@
     "comment_count": 0,
     "game": "one-piece",
     "game_label": "One Piece"
-  },
-  {
-    "id": "e1c4b66ca0bc",
-    "slug": "ace-combat-8-reviews-officially-make-it-one-of-2026s-best-reviewed-gam",
-    "headline": "Ace Combat 8 Reviews Officially Make It One of 2026’s Best-Reviewed Games",
-    "summary": "Ace Combat 8: Wings of Theve critics had high praise for the thrilling aerial combat, dynamic weather, and soaring soundtrack.",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/ace-combat-8-review-roundup/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ace-combat-8-wings-of-theve-jet-close-up.png",
-    "published_at": "2026-09-25T15:23:02.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1f4a3f11a10a",
-    "slug": "arc-raiders-announces-a-new-pve-test-to-accommodate-its-surprisingly-f",
-    "headline": "Arc Raiders announces a new PvE \"test\" to accommodate its surprisingly friendly players",
-    "summary": "Embark Studios has announced a new matchmaking test for Arc Raiders that'll allow players to opt into a PvE version featuring none of the usual player-versus-player violence. It's the developer's  response to a growing portion of the playerbase apparently uninterested in hurting their raiders-in-arms.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/arc-raiders-pve-matchmaking-test"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Pre-Order-Trailer-_-ARC-Raiders-0-35-screenshot-(1).png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-25T15:21:44.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c5a68f7852f3",
-    "slug": "ive-worked-at-pc-gamer-for-18-years-these-are-the-13-games-on-my-steam",
-    "headline": " I've worked at PC Gamer for 18 years. These are the 13 games on my Steam Wishlist ",
-    "summary": "If Steam is an ocean rising at a rate of 110 new games per day, this article is a snorkel.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/ive-worked-at-pc-gamer-for-18-years-these-are-the-13-games-on-my-steam-wishlist/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/sUMLyZQTNesGKoekFcLub4-1920-80.webp",
-    "published_at": "2026-09-25T15:18:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3b775a774809",
-    "slug": "infinite-new-game-photo-mode-on-the-way-to-contol-resonant-no-word-on",
-    "headline": "Infinite New Game+, Photo Mode on the Way to Contol Resonant, No Word on Proper PS5 DLC",
-    "summary": "Updates in October and November. Remedy will add an infinite New Game+ option and a Photo Mode to Control Resonant in the coming months, the studio has confirmed today. These additions form part of the team's post-launch plans now the PS5 sequel is out, as detailed in a blog post. There is no mention of any actual story expansions, though,…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/infinite-new-gameplus-photo-mode-on-the-way-to-contol-resonant-no-word-on-proper-ps5-dlc"
-      },
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/infinite-new-gameplus-photo-mode-on-the-way-to-control-resonant-no-word-on-proper-ps5-dlc"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/5937393728359/large.jpg",
-    "published_at": "2026-09-25T15:15:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8fa57c4f6318",
-    "slug": "beyond-good-and-evil-2-shows-surprising-new-signs-of-life",
-    "headline": "Beyond Good and Evil 2 Shows Surprising New Signs of Life",
-    "summary": "A long-developing video game, Beyond Good and Evil 2, has revealed some signs of progress in its development",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/beyond-good-and-evil-2-update-developer-working/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/beyond-good-and-evil-2.jpg",
-    "published_at": "2026-09-25T15:12:42.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "beyond-good-and-evil-2",
-    "game_label": "Beyond Good and Evil 2"
-  },
-  {
-    "id": "507db42cca49",
-    "slug": "gogs-big-fall-sale-includes-a-bunch-of-great-pc-games-for-15-or-less",
-    "headline": "GOG's Big Fall Sale Includes A Bunch Of Great PC Games For $15 Or Less",
-    "summary": "GOG is hosting a sale with popular PC games like Control, Doom, and Mafia on sale for $15 or less for the next two weeks.",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/gogs-big-fall-sale-includes-a-bunch-of-great-pc-games-for-15-or-less-2000737166"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/GOg-sale2026-1280x720.jpg",
-    "published_at": "2026-09-25T15:11:40.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
