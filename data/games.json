@@ -16343,5 +16343,63 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-26T17:37:50.206Z"
+  },
+  {
+    "slug": "sonic-origins",
+    "name": "Sonic Origins",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/8d0/8d0d4ee64321119d37ef8d140184a639.jpg",
+    "released": "2022-06-23",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Casual",
+      "Platformer",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/1cc/1cc31407aced097235aa9f78440073f6.jpg",
+      "https://media.rawg.io/media/screenshots/fcf/fcf5bd8164ceff7b74b41f4c39046a52.jpg",
+      "https://media.rawg.io/media/screenshots/a78/a785d13f62683c104ae631b0f5662257.jpg",
+      "https://media.rawg.io/media/screenshots/a8a/a8a3e21000d6bd2660d23155b591da91.jpg",
+      "https://media.rawg.io/media/screenshots/b28/b2849a752d279ac3002c274e3aaa652c.jpg",
+      "https://media.rawg.io/media/screenshots/bb1/bb13beff5f68409000a326305c61d23a.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-26T19:38:24.204Z"
+  },
+  {
+    "slug": "synduality-echo-of-ada",
+    "name": "SYNDUALITY Echo of Ada",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/a3d/a3d3f9671b737eb0999f20426d587ce1.jpg",
+    "released": "2025-01-23",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/766/7664aa774ef6d4ded51584673d6ffddb.jpg",
+      "https://media.rawg.io/media/screenshots/071/07158278bd72ff7c50df027d3b921574.jpg",
+      "https://media.rawg.io/media/screenshots/aa5/aa509c8c84254d302517ecee8b99b5df.jpg",
+      "https://media.rawg.io/media/screenshots/601/601c872c854308568b4002cf560e8a63.jpg",
+      "https://media.rawg.io/media/screenshots/58a/58a4723f1efeef27b9ccb5fd23bfb797.jpg",
+      "https://media.rawg.io/media/screenshots/89f/89f1c1bd86039b78b172e3b2edb18aff.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-26T19:38:24.728Z"
   }
 ]
