@@ -1,5 +1,84 @@
 [
   {
+    "id": "fd150ca9b354",
+    "slug": "talking-point-what-are-you-playing-this-weekend-issue-651",
+    "headline": "Talking Point: What Are You Playing This Weekend? - Issue 651",
+    "summary": "What a horrible night to have a curse. After weeks and weeks of crazy gaming stories, I think it was nice to have a slower one this time. Don’t get me wrong, there’s tons of titles coming out, but the news cycle in particular was a lot steadier these past few days. Let’s WAYP. Jamie O’Neill Portable PS1 games on…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-651"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-26th-september"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/3891e5fa8d121/large.jpg",
+    "published_at": "2026-09-26T09:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "52e121827d4e",
+    "slug": "dropout-ceo-sam-reich-on-rueltte-and-spinoffs",
+    "headline": "Dropout CEO Sam Reich on Rueltte and Spinoffs",
+    "summary": "Polygon talks to Sam Reich about his game development decisions and the potential for Rueltte spinoffs",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/dropout-game-changer-sam-reich-interview-rulette-2026/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/game-changer-s8-rulette-2.jpg",
+    "published_at": "2026-09-26T08:00:14.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "rueltte",
+    "game_label": "Rueltte"
+  },
+  {
+    "id": "2ceddf4dcdbd",
+    "slug": "gamesir-tarantula-8k-review-responds-to-every-twitchy-movement-and-ins",
+    "headline": "GameSir Tarantula 8K review: 'Responds to every twitchy movement and instinctive press'",
+    "summary": "GamesRadar+ reviews the GameSir Tarantula 8K controller, praising its responsive feel and accuracy, but ponders whether its upgraded features are worth the upgrade from the original.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/hardware/gaming-controllers/gamesir-tarantula-8k-review/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/RmewfBace3zR44pmPWJQeW-1920-80.jpg",
+    "published_at": "2026-09-26T08:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gamesir-tarantula-8k",
+    "game_label": "GameSir Tarantula 8K"
+  },
+  {
     "id": "c385477d77d1",
     "slug": "what-weve-been-playing-i-curl-up-on-my-sofa-and-breed-my-army-of-battl",
     "headline": "What we've been playing - \"I curl up on my sofa and breed my army of battle cats\"",
@@ -631,27 +710,6 @@
     "comment_count": 0,
     "game": "waltz-and-jam",
     "game_label": "Waltz and Jam"
-  },
-  {
-    "id": "fd150ca9b354",
-    "slug": "talking-point-what-are-you-playing-this-weekend-issue-651",
-    "headline": "Talking Point: What Are You Playing This Weekend? - Issue 651",
-    "summary": "What a horrible night to have a curse. After weeks and weeks of crazy gaming stories, I think it was nice to have a slower one this time. Don’t get me wrong, there’s tons of titles coming out, but the news cycle in particular was a lot steadier these past few days. Let’s WAYP. Jamie O’Neill Portable PS1 games on…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-651"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/3891e5fa8d121/large.jpg",
-    "published_at": "2026-09-25T23:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   },
   {
     "id": "8b88658ceeab",
@@ -4572,50 +4630,6 @@
     ],
     "image_url": "https://cdn.mos.cms.futurecdn.net/z97tu6QgVY7qy5FoGveeGh-1920-80.jpg",
     "published_at": "2026-09-25T11:13:30.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a54bc9dfa725",
-    "slug": "halo-game-from-halo-studios-was-in-development-before-microsofts-acqui",
-    "headline": "Halo Game from Halo Studios Was in Development Before Microsoft's Acquisition of Activision",
-    "summary": "Microsoft canceled a Halo game from Halo Studios before acquiring Activision, leaving the game's future uncertain.",
-    "category": "deals",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/the-next-halo-game-from-halo-studios-was-reportedly-still-years-away-before-microsoft-handed-the-franchise-to-activision"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/25/ss-6773ca4386fb78b10c987902bf2f66a1038d7829-1920x1080-1790334651616.jpg",
-    "published_at": "2026-09-25T11:10:59.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "halo-studios",
-    "game_label": "Halo Studios"
-  },
-  {
-    "id": "24c19e1d8d3d",
-    "slug": "i-got-whomped-by-an-ork-horde-in-total-war-warhammer-40000-definitely",
-    "headline": "I got whomped by an Ork horde in Total War: Warhammer 40,000, definitely on purpose, to teach you a lesson about positioning",
-    "summary": "Demo sessions are often terrible ways to see a game, doubly so at conferences. You want to sink into a game at your own pace (and with unbroken access to fresh cups of tea), not get dropped into the middle of the action, hoisted up again 20 minutes later and plonked into another section of a game. However, that's the…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/i-got-whomped-by-an-ork-horde-in-total-war-warhammer-40000-definitely-on-purpose-to-teach-you-a-lesson-about-positioning"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/totalwar40000.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-25T11:05:00.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
