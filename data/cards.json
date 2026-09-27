@@ -1,5 +1,119 @@
 [
   {
+    "id": "da81e21a51ab",
+    "slug": "silent-hill-townfall-breaks-a-series-rule",
+    "headline": "Silent Hill: Townfall Breaks a Series Rule",
+    "summary": "Silent Hill: Townfall offers a new perspective on the franchise, moving away from its traditional format. This change brings an entirely new experience for players.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/silent-hill-townfall-radio-fog-mechanic-first-person-gameplay/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/silent-hill-townfall-new-format-changes-everything-feature.jpg",
+    "published_at": "2026-09-27T21:30:13.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "silent-hill-townfall",
+    "game_label": "Silent Hill: Townfall"
+  },
+  {
+    "id": "c3e9b28ffda1",
+    "slug": "nintendo-scores-decisive-win-in-massive-lawsuit",
+    "headline": "Nintendo Scores Decisive Win in Massive Lawsuit",
+    "summary": "Nintendo secures a significant win in an ongoing lawsuit related to piracy of Switch games, entitling the company to sizable damages.",
+    "category": "industry",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/nintendo-switch-piracy-lawsuit-win/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/1000020047-1.png",
+    "published_at": "2026-09-27T21:30:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d30f6c270e5d",
+    "slug": "world-of-warcraft-forever-dev-deletes-twitter-account-due-to-threats-a",
+    "headline": "World of Warcraft: Forever Dev Deletes Twitter Account Due to Threats After Name Ban Controversy",
+    "summary": "A World of Warcraft: Forever deleted their Twitter account after doxxing and violent threats were received because of the beta's name ban controversy.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/world-of-warcraft-wow-forever-beta-name-ban-tom-ellis/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/wow-forever-beta-class-tuning-pass-1.jpg",
+    "published_at": "2026-09-27T21:00:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "375c8dede031",
+    "slug": "demon-slayer-infinity-castle-part-2-update-reveal",
+    "headline": "Demon Slayer: Infinity Castle Part 2 Update Reveal",
+    "summary": "Demon Slayer is getting a new update in December 2026 with a major anime event",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/demon-slayer-infinity-castle-part-2-update-reveal/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/demon-slayer-infinity-castle-part-2-update-1.jpg",
+    "published_at": "2026-09-27T20:30:13.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "demon-slayer-infinity-castle-part-2",
+    "game_label": "Demon Slayer: Infinity Castle Part 2"
+  },
+  {
+    "id": "ddea96cc5246",
+    "slug": "dark-souls-2-co-op-mod-released-after-12-years",
+    "headline": "Dark Souls 2 Co-op Mod Released After 12 Years",
+    "summary": "A mod for Dark Souls 2 has been released, allowing co-op play for the first time in over a decade, thanks to community-created modifications.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/dark-souls/after-12-years-dark-souls-2-is-finally-playable-in-co-op-without-interruptions/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/xE6DG35sZvSVNyCzEDCVzG-1920-80.jpg",
+    "published_at": "2026-09-27T19:28:43.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dark-souls-2",
+    "game_label": "Dark Souls 2"
+  },
+  {
     "id": "a54cbc5a262f",
     "slug": "13-years-ago-one-dark-jrpg-proved-atlus-could-still-be-hardcore",
     "headline": "13 Years Ago, One Dark JRPG Proved Atlus Could Still Be Hardcore",
@@ -4486,130 +4600,5 @@
     "comment_count": 0,
     "game": "fortnite",
     "game_label": "Fortnite"
-  },
-  {
-    "id": "84001bdd33a5",
-    "slug": "blizzard-devs-to-manually-review-player-names-in-world-of-warcraft-for",
-    "headline": "Blizzard devs to manually review player names in World of Warcraft: Forever",
-    "summary": "Blizzard is manually reviewing player names in its upcoming World of Warcraft game to ensure they adhere to its guidelines, with devs stating they have 'no sympathy' for those with offensive names",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-has-no-sympathy-for-players-kicked-from-the-beta-for-offensive-names-if-youre-genuinely-confused-remember-that-its-our-database-we-can-see-every-character-youve-created/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/TJXTnMEBeZGYSwDNJNZ4k5-1920-80.jpg",
-    "published_at": "2026-09-25T19:55:45.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "world-of-warcraft-forever",
-    "game_label": "World of Warcraft: Forever"
-  },
-  {
-    "id": "978c2ba374e6",
-    "slug": "how-to-play-mew-ex-in-pokemon-tcg-live",
-    "headline": "How to Play Mew EX in Pokemon TCG Live",
-    "summary": "A tutorial guide for playing the Mew EX deck in Pokemon TCG Live, a popular strategy game for PC and mobile devices.",
-    "category": "esports",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/pokemon-tcg-live-mew-ex-deck-guide/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/untitled-design.jpg",
-    "published_at": "2026-09-25T19:55:27.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "pokemon-tcg-live",
-    "game_label": "Pokemon TCG Live"
-  },
-  {
-    "id": "54648e578d87",
-    "slug": "grand-theft-auto-6-fans-upset-over-collectors-edition",
-    "headline": "Grand Theft Auto 6 Fans Upset Over Collector's Edition",
-    "summary": "Grand Theft Auto 6 fans are outraged by the collector's edition, citing excessive price and content. The edition includes a $400 price tag and various in-game items, sparking heated online discussions.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-collectors-edition-bad/"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6-fans-are-already-3d-printing-items-in-the-games-400-collectors-edition"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/gta-6-collector-s-edition-box-with-character-artwork-horizontal-lines-composite.jpg",
-    "published_at": "2026-09-25T19:44:29.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "645f7a8486e3",
-    "slug": "leveling-guide-for-aniimo",
-    "headline": "Leveling Guide For Aniimo",
-    "summary": "A helpful guide for players looking to level up quickly in Aniimo",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/aniimo-level-up-fast-guide/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/aniimo-level-up-fast-cover.jpg",
-    "published_at": "2026-09-25T19:42:56.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "aniimo",
-    "game_label": "Aniimo"
-  },
-  {
-    "id": "9db1eede74e0",
-    "slug": "what-insiders-say-halo-studios-was-up-to-before-losing-halo-the-next-h",
-    "headline": " What insiders say Halo Studios was up to before losing Halo: 'The next Halo game was years away' ",
-    "summary": "The studio reportedly had big plans, but nothing in production.",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/halo/what-insiders-say-halo-studios-was-up-to-before-losing-halo-the-next-halo-game-was-years-away/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/PpB5Wy4jLxx5RdfZKYbYQV-1920-80.jpg",
-    "published_at": "2026-09-25T19:33:54.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
