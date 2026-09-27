@@ -1,5 +1,329 @@
 [
   {
+    "id": "b2d14fc64b92",
+    "slug": "minecraft-gets-new-dimension-after-14-years",
+    "headline": "Minecraft Gets New Dimension After 14 Years",
+    "summary": "Mojang is adding a new dimension to Minecraft, called The Sift, which will launch in 2027 on Java and Bedrock platforms.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/minecraft-the-sift-new-dimension-2027"
+      },
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/minecraft-new-dimension-the-sift-insider-development-start-2021-timeline/"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/MCL_Dungeons2_sift_1280x720.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-27T17:20:16.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "minecraft",
+    "game_label": "Minecraft"
+  },
+  {
+    "id": "ea15eca7588e",
+    "slug": "control-resonants-completely-ignores-the-most-interesting-character",
+    "headline": "Control Resonant's Completely Ignores The Most Interesting Character",
+    "summary": "Control Resonant takes the next big step in the series, but it leaves the Oldest House behind — and along with it, the first game's scary aura.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/control-resonant-biggest-issue-oldest-house/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/controlresonant_feature_lead2.jpg",
+    "published_at": "2026-09-27T17:00:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "236a5971120d",
+    "slug": "king-of-dragon-pass-creator-wants-you-to-get-the-crew-together",
+    "headline": "King Of Dragon Pass Creator Wants You To Get The Crew Together",
+    "summary": "The game developer for King of Dragon Pass wants to collaborate with players on a mysterious project called Thousand Hells: The Underworld Heists",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/king-of-dragon-pass-creator-wants-you-to-get-the-crew-together-2000733582"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/ss_8ad5c9ab448b43bcc65350898e50ddefcb5c9ad4.1920x1080-1-1280x720.jpg",
+    "published_at": "2026-09-27T17:00:09.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "thousand-hells-the-underworld-heists",
+    "game_label": "Thousand Hells: The Underworld Heists"
+  },
+  {
+    "id": "31c2014ac6d3",
+    "slug": "im-loving-wow-forever-but-i-cant-help-but-miss-the-music-of-my-other-b",
+    "headline": " I'm loving WoW: Forever, but I can't help but miss the music of my other beloved MMO ",
+    "summary": "My brain requires musical stimulation.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/im-loving-wow-forever-but-i-cant-help-but-miss-the-music-of-my-other-beloved-mmo/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/fouT8RfEVh8SxqiDuXyuvV-1920-80.jpg",
+    "published_at": "2026-09-27T17:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3dcb12184d67",
+    "slug": "shadow-the-hedgehog-is-supposed-to-be-dead",
+    "headline": "Shadow the Hedgehog is Supposed to Be Dead",
+    "summary": "A mysterious power source is at the center of a potential Shadow the Hedgehog game revival, leaving fans wondering if the classic Sonic rival is truly dead",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/action/shadow-the-hedgehog-is-supposed-to-be-dead/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/B43ZHEx4rftyW6w9RwQZzh-1920-80.jpg",
+    "published_at": "2026-09-27T16:44:32.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "shadow-the-hedgehog",
+    "game_label": "Shadow the Hedgehog"
+  },
+  {
+    "id": "ce84506c2222",
+    "slug": "control-resonant-hides-easter-egg-for-time-wasters",
+    "headline": "Control Resonant Hides Easter Egg for Time Wasters",
+    "summary": "Control Resonant features a hidden Easter egg for players who get distracted during the game's main story, as indicated by the game's narrative hinting at punishment for those who fail to focus.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/control-resonant-the-board-tells-you-off-wasting-time-side-missions/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/controlresonanttheboard.jpg",
+    "published_at": "2026-09-27T16:42:34.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "control-resonant",
+    "game_label": "Control Resonant"
+  },
+  {
+    "id": "c069e6b36bf7",
+    "slug": "the-witcher-3-every-alternative-look-ranked-from-worst-to-best",
+    "headline": "The Witcher 3: Every Alternative Look, Ranked From Worst To Best",
+    "summary": "Game Rant ranks alternative looks for main characters in The Witcher 3, determining the worst and best options.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/witcher-3-alternative-look-best-worst/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/01/the-witcher-3-temerian-armor.jpg",
+    "published_at": "2026-09-27T16:38:13.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
+    "id": "c04a092956d7",
+    "slug": "cd-projekt-red-reveals-no-diablo-crossovers-in-the-witcher-3-remastere",
+    "headline": "CD Projekt Red Reveals No Diablo Crossovers in The Witcher 3 Remastered",
+    "summary": "CD Projekt Red developer discusses upcoming Geralt-inspired skin in Diablo 4, but confirms no Diablo characters will appear in The Witcher 3 Remastered",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/the-witcher-cyberpunk-no-crossover-content/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/the-witcher-3-songs-of-the-past-key-art-cropped.png",
+    "published_at": "2026-09-27T16:31:42.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
+    "id": "ae68d94d557d",
+    "slug": "boruto-two-blue-vortex-unveils-new-god-jutsu",
+    "headline": "Boruto: Two Blue Vortex Unveils New God Jutsu",
+    "summary": "The Boruto series has introduced a new jutsu, the God of teleportation, surpassing even the legendary Minato's abilities.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/boruto-god-teleportation-jutsu/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/god-of-teleportation-in-boruto.jpg",
+    "published_at": "2026-09-27T16:30:13.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "boruto-two-blue-vortex",
+    "game_label": "Boruto: Two Blue Vortex"
+  },
+  {
+    "id": "568bb0274cdb",
+    "slug": "xbox-layoffs-devastate-age-of-empires-developer-cancel-next-game",
+    "headline": "Xbox Layoffs Devastate Age of Empires Developer, Cancel Next Game",
+    "summary": "Microsoft has reportedly cut thousands of jobs at its Age of Empires studio, leading to the cancellation of its next game project",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/latest-xbox-layoffs-reportedly-devastated-age-of-empires-developer-and-canceled-its-next-game/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Q2HxaETVRSGNPXwWUWd8K4-1920-80.jpg",
+    "published_at": "2026-09-27T16:14:26.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "age-of-empires",
+    "game_label": "Age of Empires"
+  },
+  {
+    "id": "e4241a2547bf",
+    "slug": "xbox-almost-spoiled-the-best-time-of-year-for-games",
+    "headline": "Xbox Almost Spoiled the Best Time of Year for Games",
+    "summary": "The Xbox layoffs and Halo move to Activision have cast a negative shadow over the gaming industry, but the upcoming fall game season is expected to bring joy and excitement to gamers.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/patch-notes-xbox-layoffs-restructuring-fall-good-games/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/ace-combat-8.jpg",
+    "published_at": "2026-09-27T16:00:18.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "xbox",
+    "game_label": "Xbox"
+  },
+  {
+    "id": "09d2bdbe4a48",
+    "slug": "abby-and-levs-voice-actors-join-john-goodman-in-hbos-third-season-of-t",
+    "headline": "Abby And Lev’s Voice Actors Join John Goodman In HBO’s Third Season Of The Last Of Us",
+    "summary": "While they won’t be reprising their characters from the game, Laura Bailey and Ian Alexander join the rapidly growing cast for the award winning television adaptation",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/abby-and-levs-voice-actors-join-john-goodman-in-hbos-third-season-of-the-last-of-us-2000737425"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/levabbyfred.jpg",
+    "published_at": "2026-09-27T16:00:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "95bce2dc99f8",
+    "slug": "william-pugh-co-designer-of-the-stanley-parable-has-over-1600-hours-in",
+    "headline": " William Pugh, co-designer of The Stanley Parable, has over 1,600 hours in Dota 2: 'It's not a game made of love. It's a game fuelled by hate and a desire to conquer' ",
+    "summary": "The founder of Crows Crows Crows guides us through the games on his PC.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/william-pugh-co-designer-of-the-stanley-parable-has-over-1-600-hours-in-dota-2-its-not-a-game-made-of-love-its-a-game-fuelled-by-hate-and-a-desire-to-conquer/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/iZbP7nktsvYe8ZyhWZDyvN-1920-80.png",
+    "published_at": "2026-09-27T16:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9926f7734efc",
+    "slug": "avengers-endgame-encores-success-sets-the-stage-for-doomsday",
+    "headline": "Avengers: Endgame Encore's Success Sets The Stage For Doomsday",
+    "summary": "Avengers: Endgame Encore beat Resident Evil, Primetime, and Heart of the Beast in theaters this weekend",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/avengers-endgame-encore-box-office/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/steve-and-peggy-avengers-endgame.jpg",
+    "published_at": "2026-09-27T15:42:23.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "c0a00388e511",
     "slug": "the-witcher-3-console-commands",
     "headline": "The Witcher 3 Console Commands",
@@ -463,29 +787,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "b2d14fc64b92",
-    "slug": "minecraft-gets-new-dimension-after-14-years",
-    "headline": "Minecraft Gets New Dimension After 14 Years",
-    "summary": "Mojang is adding a new dimension to Minecraft, called The Sift, which will launch in 2027 on Java and Bedrock platforms.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/minecraft-the-sift-new-dimension-2027"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/MCL_Dungeons2_sift_1280x720.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-27T11:20:18.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "minecraft",
-    "game_label": "Minecraft"
   },
   {
     "id": "136fb06d03c0",
@@ -4309,324 +4610,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "d6deb1ac5062",
-    "slug": "the-witcher-3-remastered-file-sizes-officially-announced",
-    "headline": "The Witcher 3 Remastered File Sizes Officially Announced",
-    "summary": "CD Projekt Red has shared the file size requirements for The Witcher 3: Wild Hunt Remastered, providing gamers with a clearer idea of the storage space needed to play the game.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/witcher-3-remastered-file-sizes/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/the-witcher-3-remastered-file-sizes-officially-announced.jpg",
-    "published_at": "2026-09-25T19:01:13.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-witcher-3-wild-hunt-remastered",
-    "game_label": "The Witcher 3: Wild Hunt Remastered"
-  },
-  {
-    "id": "2dc31a845be1",
-    "slug": "swat-exiles-full-release-schedule-when-every-episode-comes-out",
-    "headline": "S.W.A.T. Exiles Full Release Schedule: When Every Episode Comes Out",
-    "summary": "Game Rant reports on the release schedule for S.W.A.T. Exiles, a newsworthy update about the game's upcoming episodes",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/swat-exiles-episodes-release-date-times-schedule/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/mixcollage-23-sep-2026-11-48-am-8038.jpg",
-    "published_at": "2026-09-25T19:01:13.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "swat-exiles",
-    "game_label": "S.W.A.T. Exiles"
-  },
-  {
-    "id": "16fc6ed7b7e0",
-    "slug": "try-igns-prince-of-persia-the-lost-crown-checklists-for-free-during-ni",
-    "headline": "Try IGN's Prince of Persia: The Lost Crown Checklists for Free During Nintendo's September Game Trial",
-    "summary": "Try IGN's Prince of Persia: The Lost Crown Checklists for Free During Nintendo's September Game Trial",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/try-igns-prince-of-persia-the-lost-crown-checklists-for-free-during-nintendos-september-game-trial"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/24/prince-of-persia-free-checklist-promo-2-1790282946919.png",
-    "published_at": "2026-09-25T19:01:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "01f0c6c8e27a",
-    "slug": "nippon-ichi-and-nis-america-head-discuss-ai-and-game-development",
-    "headline": "Nippon Ichi and NIS America Head Discuss AI and Game Development",
-    "summary": "Nippon Ichi and NIS America's head of game development has discussed the potential of AI in game development, stating that it's about improving game quality rather than speeding up development.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/nippon-ichi-nis-america-head-company-researching-ai-2000737211"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/village-in-the-shade-shot-1280x720.jpg",
-    "published_at": "2026-09-25T19:00:02.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "nippon-ichi",
-    "game_label": "Nippon Ichi"
-  },
-  {
-    "id": "744e8990b3bc",
-    "slug": "xbox-downplays-gta-6s-massive-ps5-pre-order-numbers",
-    "headline": "Xbox Downplays GTA 6's Massive PS5 Pre-Order Numbers",
-    "summary": "Xbox executives are downplaying the massive pre-order numbers of GTA 6 on PS5 compared to the game's performance on Xbox consoles.",
-    "category": "industry",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-preorders-xbox-ps5-sales-matthew-ball-response/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_09.jpg",
-    "published_at": "2026-09-25T18:58:32.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "f20105e4fd93",
-    "slug": "next-official-gta-6-update-confirmed-for-september-29",
-    "headline": "Next Official GTA 6 Update Confirmed for September 29",
-    "summary": "Grand Theft Auto 6 fans are being advised to mark September 29 on their calendars for an upcoming official update.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-game-informer-cover-story/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/gta-6-game-informer-cover-story.jpg",
-    "published_at": "2026-09-25T18:51:59.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "20db1fea1473",
-    "slug": "final-fantasy-7-revelation-platinum-trophies-easier-than-rebirth",
-    "headline": "Final Fantasy 7 Revelation Platinum Trophies Easier Than Rebirth",
-    "summary": "Final Fantasy 7 Revelation's Platinum trophy is expected to be more accessible than its Rebirth counterpart, suggesting a possible change in design to aid in completionism.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/final-fantasy-7-revelation-will-be-easier-to-platinum-than-rebirth"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/20/final-fantasy-7-revelation-sephiroth-beat-1789937430860.png",
-    "published_at": "2026-09-25T18:51:00.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "final-fantasy-7-revelation",
-    "game_label": "Final Fantasy 7 Revelation"
-  },
-  {
-    "id": "96104f100448",
-    "slug": "ps5-ps4-games-will-be-delisted-in-october-2026",
-    "headline": "PS5, PS4 Games Will Be Delisted in October 2026",
-    "summary": "Fortnite is losing Rocket Racing, and the PS4 Warzone will shut down in October 2026, according to an update from PlayStation",
-    "category": "industry",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/reminder-these-3-ps5-ps4-games-will-be-delisted-or-disabled-in-october-2026"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/1637dbc1664df/large.jpg",
-    "published_at": "2026-09-25T18:45:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "06a5717c24b3",
-    "slug": "new-open-world-co-op-rpg-on-steam-releases-to-80-very-positive-reviews",
-    "headline": "New Open-World Co-Op RPG on Steam Releases to 80% Very Positive Reviews",
-    "summary": "A brand-new co-op game with RPG elements and base-building in an open world is out now and has earned great reviews on Steam.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/new-open-world-co-op-games-steam-dimraeth-reviews/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/steam-open-world-soulslike-dimraeth-positive-reviews-september-2026-gamerant.jpg",
-    "published_at": "2026-09-25T18:31:13.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "615513574cfe",
-    "slug": "the-witcher-3-remastered-update-arrives",
-    "headline": "The Witcher 3 Remastered Update Arrives",
-    "summary": "CD Projekt Red is set to release The Witcher 3 Remastered on September 29th, with a free update that will arrive at the same time on all platforms.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/cdpr-announces-release-times-and-update-sizes-for-the-witcher-3-remastered"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/1af56e43349c2/large.jpg",
-    "published_at": "2026-09-25T18:30:00.000Z",
-    "hype_signal": 10,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-witcher-3-wild-hunt",
-    "game_label": "The Witcher 3: Wild Hunt"
-  },
-  {
-    "id": "5c8e660ce941",
-    "slug": "final-fantasy-4-rpgs-permanently-shutting-down",
-    "headline": "Final Fantasy & 4 RPGs Permanently Shutting Down",
-    "summary": "Square Enix has announced that it will be shutting down several Final Fantasy games, including Ever Crisis, in October 2026. The decision marks the end of play for these RPGs.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/final-fantasy-rpgs-shutting-down-october-2026/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/final-fantasy-and-rpgs-permanently-shutting-down-october-2026-cloud-and-young-sephiroth-ever-crisis.jpg",
-    "published_at": "2026-09-25T18:26:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "final-fantasy",
-    "game_label": "Final Fantasy"
-  },
-  {
-    "id": "903c6376a493",
-    "slug": "how-to-get-thornblade-in-aniimo",
-    "headline": "How to Get Thornblade in Aniimo",
-    "summary": "Thornblade is the evolved form of Budsquire in Aniimo and one of the strongest DPS units in the game. Here’s how to get it.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/aniimo-thornblade-location/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/how-to-get-thornblade-in-aniimo.jpg",
-    "published_at": "2026-09-25T18:09:19.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6ab15b23b40c",
-    "slug": "resident-evil-requiem-beats-expectations-despite-film-reboot",
-    "headline": "Resident Evil Requiem Beats Expectations Despite Film Reboot",
-    "summary": "Resident Evil Requiem has generated over $500 million in sales, extending Capcom's success streak, but a recent film reboot failed to have a significant impact on game sales.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/resident-evil-requiem-500-film-capcom-price"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/resident-evil-requiem_tsiPKIM.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-25T18:01:19.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "resident-evil-requiem",
-    "game_label": "Resident Evil Requiem"
   }
 ]
