@@ -1,5 +1,208 @@
 [
   {
+    "id": "321ff6f7f6fb",
+    "slug": "microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-mo",
+    "headline": "Microsoft boss Nadella says Xbox has to invent \"sustainable business model\"",
+    "summary": "The CEO of Microsoft, Satya Nadella, has said that the company's Xbox division needs to \"invent\" the correct \"sustainable business model\" to allow it to reach more and more people with its games.\n Read more",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Satya_Nadella.jpeg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-28T09:05:32.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2d980361c25c",
+    "slug": "steam-free-to-keep-promotion-gives-away-5-games-in-october",
+    "headline": "Steam Free-to-Keep Promotion Gives Away 5 Games in October",
+    "summary": "Steam is promoting its free-to-keep policy in October with a series of giveaways, hinting at upcoming titles",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/steam-free-keep-games-promotion-5-october-2026/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/steam-100-percent-free-add-to-account-lightning-vector-game-rant.jpg",
+    "published_at": "2026-09-28T09:00:13.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2516e6ee3e4f",
+    "slug": "nvidia-launches-open-agent-safety-program-to-secure-agents-from-testin",
+    "headline": "Nvidia launches Open Agent Safety Program to secure agents from testing to launch",
+    "summary": "Nvidia announced Nvidia Open Agent Safety Platform, an open software platform and reference system design to strengthen AI security from agent testing to deployment....\nThe post Nvidia launches Open Agent Safety Program to secure agents from testing to launch appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/nvidia-launches-open-agent-safety-program-to-secure-agents-from-testing-to-launch/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/2516e6ee3e4f/800/600",
+    "published_at": "2026-09-28T09:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d6ef3e5b8d2d",
+    "slug": "fire-emblem-fortunes-weave-falls-to-8th-in-uk-charts",
+    "headline": "Fire Emblem: Fortune's Weave Falls to 8th in UK Charts",
+    "summary": "EA Sports FC 27 has debuted at number one in the UK charts, with the PS5 outpacing other consoles. Fire Emblem: Fortune's Weave has dropped to 8th place after the release of the new football game.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/uk-charts-fire-emblem-fortunes-weave-drops-to-number-8-as-fc-27-tops-the-podium"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/8424f587c09dd/large.jpg",
+    "published_at": "2026-09-28T09:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fire-emblem-fortunes-weave",
+    "game_label": "Fire Emblem: Fortune's Weave"
+  },
+  {
+    "id": "ef07c6227798",
+    "slug": "world-of-warcraft-forever-beta-sees-increased-server-capacity",
+    "headline": "World of Warcraft: Forever Beta Sees Increased Server Capacity",
+    "summary": "Blizzard has had to increase server capacity for World of Warcraft: Forever's beta due to growing popularity, according to one of its leads.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/world-of-warcraft-forever-beta-server-cap-increase"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/world-of-warcraft-skyborne-jpg.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-28T08:56:07.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "world-of-warcraft-forever",
+    "game_label": "World of Warcraft: Forever"
+  },
+  {
+    "id": "8bcf6908e083",
+    "slug": "having-a-hand-in-the-game-etches-you-in-history-how-grand-theft-auto-b",
+    "headline": " \"Having a hand in the game etches you in history\": How Grand Theft Auto became a musical tastemaker ",
+    "summary": "For this week's Saturday Read, join us as we dive into impact of GTA's radio stations - and meet two musicians who have been on them",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/having-a-hand-in-the-game-etches-you-in-history-how-grand-theft-auto-became-a-musical-tastemaker/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/XQnuvvuBRMrQAYbjKieGzm-1920-80.jpg",
+    "published_at": "2026-09-28T08:29:58.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f89fb47f33b6",
+    "slug": "marvels-wolverine-finally-lets-you-turn-off-fart-gas-scent-trails-comp",
+    "headline": "Marvel's Wolverine finally lets you turn off \"fart gas\" scent trails completely, but there's a catch",
+    "summary": "Marvel's Wolverine has received a new update that should hopefully bring an end to the \"fart gas\" scent trails saga. The latest patch, version 1.001.006, includes an option to turn off scent trails for Whiskey Bottle collectibles, Material Crate audio pings as well as Nightmare Door roots using three separate toggles in the Gameplay menu.\n Read more",
+    "category": "patches",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/marvels-wolverine-patch-turn-off-scent-trails"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/wolverine-nathanial-essex-sitting-on-sofa.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-28T08:12:52.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6dd84f37267a",
+    "slug": "psa-the-witcher-3-remastered-file-size-and-release-time-confirmed-sepa",
+    "headline": "PSA: The Witcher 3 Remastered File Size And Release Time Confirmed, Separate Purchase Required",
+    "summary": "The Witcher 3: Wild Hunt - Remastered is coming to Switch, launching on September 29, 2026, and will be free for existing Switch owners. However, this version will require a separate purchase for PS5 and Xbox Series X/S owners.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/psa-the-witcher-3-remastered-file-size-and-release-time-confirmed-separate-purchase-required"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/c21b4b4c6de57/large.jpg",
+    "published_at": "2026-09-28T08:00:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt-remastered",
+    "game_label": "The Witcher 3: Wild Hunt - Remastered"
+  },
+  {
+    "id": "b97de72b82ba",
+    "slug": "a-decompiled-super-mario-galaxy-pc-port-is-now-in-the-works",
+    "headline": "A Decompiled Super Mario Galaxy PC Port Is Now In The Works",
+    "summary": "The work was completed without the use of AI, and opens the door for the game to be extensively modded.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/super-mario-galaxy-100-decompiled-new-pc-port-in-the-works/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/1920x1080-2026-09-28t085616-323.png",
+    "published_at": "2026-09-28T07:58:39.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "5ab29e127547",
     "slug": "erika-ishii-joins-forces-with-double-fine-for-upcoming-game",
     "headline": "Erika Ishii Joins Forces with Double Fine for Upcoming Game",
@@ -4415,207 +4618,6 @@
     "image_url": "https://images.pushsquare.com/82a68dc7ca28d/large.jpg",
     "published_at": "2026-09-26T00:15:00.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b582b995f0d7",
-    "slug": "ai-executives-make-outlandish-comments",
-    "headline": "AI Executives Make Outlandish Comments",
-    "summary": "PC Gamer shares a list of the most bizarre statements made by AI industry leaders, ranging from unclear intentions to unclear statements",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/live/news/what-are-the-ai-guys-saying-now/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/LG2jMDfm3daEZ45MmZEcHS-1920-80.jpg",
-    "published_at": "2026-09-26T00:12:34.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d48dc26607a7",
-    "slug": "pc-gamers-can-score-perfect-1010-games-for-under-10",
-    "headline": "PC Gamers Can Score Perfect 10/10 Games for Under $10",
-    "summary": "GOG's Autumn Sale offers numerous highly-rated PC games at affordable prices, including titles with perfect review scores.",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/best-cheap-pc-games-gog-fall-sale-2026/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/harry-du-bois-disco-elysium-next-to-fallout-new-vegas-uniformed-ranger-dark-room-composite.jpg",
-    "published_at": "2026-09-26T00:00:13.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1973e2a1d7ba",
-    "slug": "gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots",
-    "headline": "GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots",
-    "summary": "Out on 29th September. More information on GTA 6 and new screenshots will be revealed next week as part of a Game Informer issue all about the next Rockstar open worlder. The two protagonists, Jason and Lucia, are on the front cover with yet another stylised image of them in a car equipped with guns. \"Our 14-page cover story features…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/c59f1d6ffce8e/large.jpg",
-    "published_at": "2026-09-26T00:00:00.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "09ca85ef9847",
-    "slug": "hytales-latest-challenge-brings-a-15000-prize",
-    "headline": "Hytale's Latest Challenge Brings a $15,000 Prize",
-    "summary": "Hytale is introducing a new challenge in its upcoming update that rewards $15,000 to the first player to complete it, offering a significant incentive for skilled players to participate.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/rpg/mr-hytale-is-offering-usd15-000-to-the-first-person-to-beat-a-ridiculous-challenge-in-next-months-update-and-hes-sending-out-game-keys-to-prove-hes-serious/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Ho9MUVCAmyJdd2syPkUiYm-1920-80.jpg",
-    "published_at": "2026-09-25T23:59:37.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "hytale",
-    "game_label": "Hytale"
-  },
-  {
-    "id": "9c1e08535a86",
-    "slug": "control-resonants-annoying-level-design-is-exactly-what-open-world-gam",
-    "headline": "Control Resonant's 'Annoying' Level Design Is Exactly What Open-World Games Need More Of",
-    "summary": "Control Resonant shows how open-world games can guide players without holding their hands, making exploration more rewarding in the process.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/control-resonant-level-design-open-world-games-handholding/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/dylan-walking-down-a-red-alley-in-control-resonant-s-twisted-world.jpg",
-    "published_at": "2026-09-25T23:45:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "183b2c78dfd3",
-    "slug": "wolverine-ps5-patch-adds-scent-trail-toggle",
-    "headline": "Wolverine PS5 Patch Adds Scent Trail Toggle",
-    "summary": "A new patch for Marvel's Wolverine on PS5 enables players to turn off scent trails and indicators for collectibles, addressing ongoing complaints.",
-    "category": "patches",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/newest-wolverine-ps5-update-wipes-out-scent-trails-to-collectibles"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/814042911175a/large.jpg",
-    "published_at": "2026-09-25T23:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "marvels-wolverine",
-    "game_label": "Marvel's Wolverine"
-  },
-  {
-    "id": "ef227e6488a9",
-    "slug": "microsoft-ceo-satya-nadella-defends-xbox-layoffs",
-    "headline": "Microsoft CEO Satya Nadella Defends Xbox Layoffs",
-    "summary": "Microsoft CEO Satya Nadella defends the company's recent layoffs and studio closures, praising Xbox CEO Asha Sharma's decision to streamline the team.",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/microsoft-ceo-attempts-to-kill-remaining-xbox-goodwill/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Xbox-1.png?w=300",
-    "published_at": "2026-09-25T23:06:32.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "xbox",
-    "game_label": "Xbox"
-  },
-  {
-    "id": "47e04c055bd9",
-    "slug": "10-free-browser-games-that-are-actually-fun-to-play",
-    "headline": "10 Free Browser Games That are Actually Fun to Play",
-    "summary": "From dice-based deckbuilders to a cat civilization sim, these 10 free browser games rival anything you'd pay for",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/best-free-browser-games/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/loathing-games-universe-browser-games.jpg",
-    "published_at": "2026-09-25T23:00:15.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "73f62354c3d8",
-    "slug": "its-official-gta-6-wont-sweep-the-goty-awards",
-    "headline": "It's Official: GTA 6 Won't Sweep the GOTY Awards",
-    "summary": "GTA 6 officially won't be sweeping the Game of the Year awards later this year for one major reason.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-goty-awards/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/gta-6-goty-awards.jpg",
-    "published_at": "2026-09-25T23:00:13.000Z",
-    "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
