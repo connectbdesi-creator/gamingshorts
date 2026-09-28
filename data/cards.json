@@ -1,5 +1,608 @@
 [
   {
+    "id": "0455d96eaa78",
+    "slug": "dressmakers-dominates-steam-with-chaotic-sabotage-system",
+    "headline": "Dressmaker's Dominates Steam with Chaotic Sabotage System",
+    "summary": "Dressmaker's game features a sabotage system that lets players ruin customers' days, leading to five humorous and unlockable endings",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/dressmaker-sabotage-revenge-customers/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/dressmaker-cozy-dress-up-game-wholesome-direct.jpg",
+    "published_at": "2026-09-28T21:30:17.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dressmakers",
+    "game_label": "Dressmaker's"
+  },
+  {
+    "id": "d0d5197a75ee",
+    "slug": "magic-the-gathering-brings-back-powerful-op-card-after-19-years",
+    "headline": "Magic: The Gathering Brings Back Powerful OP Card After 19 Years",
+    "summary": "Magic: The Gathering's newest set is reviving a highly sought-after card from 2007, making it playable again after nearly two decades of inactivity.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/magic-gathering-mtg-reality-fracture-tarmogoyf/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/magic-the-gathering-quietly-brings-back-op-19-year-old-card-gamerant-feature.jpg",
+    "published_at": "2026-09-28T21:30:14.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "magic-the-gathering",
+    "game_label": "Magic: The Gathering"
+  },
+  {
+    "id": "08220c07c98d",
+    "slug": "double-xp-tokens-fixed-in-modern-warfare-4",
+    "headline": "Double XP Tokens Fixed in Modern Warfare 4",
+    "summary": "Call of Duty: Modern Warfare 4's double XP tokens now work as intended, activating for 30 minutes only when playing matches.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/double-xp-tokens-finally-work-how-youd-think-they-would-in-modern-warfare-4"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/7b037dd36e59e/large.jpg",
+    "published_at": "2026-09-28T21:15:00.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "call-of-duty-modern-warfare-4",
+    "game_label": "Call of Duty: Modern Warfare 4"
+  },
+  {
+    "id": "434500744821",
+    "slug": "mtg-is-getting-more-spider-man-with-this-leaked-commander-deck",
+    "headline": "MTG Is Getting More Spider-Man With This Leaked Commander Deck",
+    "summary": "A leaked deck from Magic: The Gathering hints at an upcoming Spider-Man themed expansion, set for release during the 2026 holiday season.",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/magic-the-gathering-spider-man-commander-deck-leak/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/09/mixcollage-22-sep-2025-01-34-pm-6732.jpg",
+    "published_at": "2026-09-28T21:14:57.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "magic-the-gathering",
+    "game_label": "Magic: The Gathering"
+  },
+  {
+    "id": "e945d340647b",
+    "slug": "sony-implements-lottery-system-to-distribute-ps5-pro-consoles-in-japan",
+    "headline": "Sony Implements Lottery System to Distribute PS5 Pro Consoles in Japan",
+    "summary": "Due to the PS5 Pro shortage, Sony is introducing a lottery system in Japan that requires 60 hours of playtime to qualify for a console.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/amid-ps5-pro-shortage-sony-implements-a-lottery-system-in-japan-that-requires-60-hours-of-playtime/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/vKtkPkRiVfUyKge2eApMeg-1920-80.jpg",
+    "published_at": "2026-09-28T21:09:59.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ps5-pro",
+    "game_label": "PS5 Pro"
+  },
+  {
+    "id": "89b96127a7ae",
+    "slug": "world-of-warcraft-black-market-npc-sells-rare-items",
+    "headline": "World of Warcraft: Black Market NPC Sells Rare Items",
+    "summary": "A black market NPC in World of Warcraft is selling a 15-day movement speed buff and other rare items, raising concerns about price inflation and accessibility.",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-find-black-market-npc-who-sells-a-15-day-movement-speed-buff-and-other-rare-items-that-nobody-can-afford-yet/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/uWEo4ZYPWjBoJMPvS4hyf6-1920-80.jpg",
+    "published_at": "2026-09-28T21:09:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "world-of-warcraft-forever",
+    "game_label": "World of Warcraft: Forever"
+  },
+  {
+    "id": "a5de7560f871",
+    "slug": "starcrafts-open-world-shooter-avoids-live-service-trap",
+    "headline": "StarCraft's Open-World Shooter Avoids Live-Service Trap",
+    "summary": "Blizzard's new StarCraft game is a narrative-driven open-world FPS with a definitive ending, offering a refreshing break from live-service fatigue.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/starcraft-open-world-shooter-single-player-live-service/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/starcraft-dodges-live-shooter.jpg",
+    "published_at": "2026-09-28T21:01:13.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "starcraft",
+    "game_label": "StarCraft"
+  },
+  {
+    "id": "3952955ab69b",
+    "slug": "ps5-emulator-updates-have-6-games-fully-playable-at-60-fps-and-demons",
+    "headline": " PS5 emulator updates have 6 games \"fully playable at 60 FPS,\" and Demon's Souls isn't far behind ",
+    "summary": "PS5 emulation is starting to look like a real possibility",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/ps5-emulator-updates-have-6-games-fully-playable-at-60-fps-and-demons-souls-isnt-far-behind/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/w9AtkafwugJhXgW3sWchCh-1920-80.jpg",
+    "published_at": "2026-09-28T20:51:39.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3d4faf783151",
+    "slug": "the-internet-is-taking-out-its-frustration-on-discords-cartoon-mascot",
+    "headline": "The Internet is Taking Out Its Frustration on Discord's Cartoon Mascot",
+    "summary": "PC Gamer reports that Discord's cartoon mascot, Momo, is being mercilessly trolled online, with users sharing memes and images depicting the character's demise in a humorous yet disturbing display of internet culture.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/software/platforms/the-internet-is-ritualistically-murdering-discords-cartoon-mascot/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/TXSqqDshG3xqYpCUKu6y2T-1920-80.jpg",
+    "published_at": "2026-09-28T20:50:50.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e8a189a2d0ad",
+    "slug": "the-publisher-of-ys-disgaea-trails-wants-to-do-more-worldwide-simultan",
+    "headline": "The Publisher Of Ys, Disgaea, Trails Wants To Do More Worldwide, Simultaneous Game Releases",
+    "summary": "Ys X: Nordics took over a year to make it out of Japan",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/publisher-ys-trails-disgaea-global-simultaneous-releases-2000737996"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/ys-x-nordics-1280x720.jpg",
+    "published_at": "2026-09-28T20:30:36.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d96b7a293e47",
+    "slug": "pokemon-tcgs-next-big-set-available-weeks-before-its-official-release",
+    "headline": "Pokémon TCG's Next Big Set Available Weeks Before Its Official Release",
+    "summary": "A new Pokémon Trading Card Game set is available now, offering collectors and fans a chance to buy it before its official release",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/pokemon-tcg-prerelease-event-delta-reign-where-price-promo-cards/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/pokemon-tcg-pocket-ruler-of-the-skies-rayquaza.png",
+    "published_at": "2026-09-28T20:28:23.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pokemon-tcg",
+    "game_label": "Pokémon TCG"
+  },
+  {
+    "id": "01e5c942960c",
+    "slug": "a-fundamental-update-for-this-34-year-old-survival-game-is-coming-in-o",
+    "headline": " A 'fundamental' update for this 34-year-old survival game is coming in October ",
+    "summary": "Are you ready to make some socks?",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/survival-crafting/a-fundamental-update-for-this-34-year-old-survival-game-is-coming-in-october/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/3ayXte6GYW9KU8yA3cUEqB-1920-80.jpg",
+    "published_at": "2026-09-28T20:28:16.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "84c8a9ed5cbc",
+    "slug": "activision-clarifies-modern-warfare-4-double-xp-token-system",
+    "headline": "Activision Clarifies Modern Warfare 4 Double XP Token System",
+    "summary": "Activision explains the upcoming changes to double XP tokens in Call of Duty: Modern Warfare 4, promising a more streamlined experience",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/activision-keeps-saying-all-the-right-things-about-modern-warfare-4/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/MW4.jpg?w=300",
+    "published_at": "2026-09-28T20:22:41.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "call-of-duty-modern-warfare-4",
+    "game_label": "Call of Duty: Modern Warfare 4"
+  },
+  {
+    "id": "85c6dd69dc65",
+    "slug": "wow-forevers-beta-just-keeps-getting-bigger",
+    "headline": "WoW: Forever’s Beta Just Keeps Getting Bigger",
+    "summary": "World of Warcraft: Forever's beta is in full swing, and if its popularity is any indication of how the full launch might go, it's going to be big, as Blizzard has had to increase the beta's population cap multiple times. Forever was Blizzard's big finale during its BlizzCon 2026 opening ceremony, a modified version of WoW Classic that keeps the…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/wow-forevers-beta-just-keeps-getting-bigger/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/WoW-Forever-Beta-Popularity.jpg?w=300",
+    "published_at": "2026-09-28T20:19:16.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "73cc1f620ccd",
+    "slug": "diablo-5-to-stick-the-landing-says-path-of-exile-co-creator",
+    "headline": "Diablo 5 to Stick the Landing, Says Path of Exile Co-Creator",
+    "summary": "Path of Exile co-creator Jake Solomon expresses hope that Diablo 5 will return to its action RPG roots, hinting at a more authentic experience.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/diablo/path-of-exile-co-creator-is-tentatively-hopeful-diablo-5-will-stick-the-landing/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/QL48GFCCXauUJkh7YNtLTc-1920-80.png",
+    "published_at": "2026-09-28T20:19:13.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "diablo-5",
+    "game_label": "Diablo 5"
+  },
+  {
+    "id": "53fce884d5c2",
+    "slug": "path-of-exile-dev-backs-diablo-5",
+    "headline": "Path of Exile Dev Backs Diablo 5",
+    "summary": "Chris Wilson, Ex-Co-Founder of Grinding Gear Games, expresses optimism about Diablo 5's upcoming release",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/as-far-as-im-concerned-thats-a-step-in-the-right-direction-path-of-exile-dev-optimistic-about-diablo-5"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/12/diablo-v-1789237822781.png",
+    "published_at": "2026-09-28T20:17:09.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "diablo-5",
+    "game_label": "Diablo 5"
+  },
+  {
+    "id": "d3d2c5abace0",
+    "slug": "sony-pulls-out-of-ces-for-first-time-ever",
+    "headline": "Sony Pulls Out of CES for First Time Ever",
+    "summary": "Sony is skipping CES for the first time in its 60-year history, marking a significant shift in its approach to events and communications",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/for-the-first-time-ever-sony-skips-ces-which-was-home-to-one-of-playstations-silliest-announcements/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/ps5logoreveal.png?w=300",
+    "published_at": "2026-09-28T20:16:16.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "94cf65e18a21",
+    "slug": "best-whispering-hillock-choices-in-the-witcher-3",
+    "headline": "Best Whispering Hillock Choices in The Witcher 3",
+    "summary": "In The Witcher 3, the Whispering Hillock quest presents a major choice that affects the story. This guide helps players decide whether to save or kill the tree spirit.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/witcher-3-should-you-save-or-kill-tree-spirit-whispering-hillock/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/witcher-3-battle-of-kaer-morhen-best-choices/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/witcher-3-blood-on-battlefield-best-choices/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/whispering-hillock-walkthrough-in-the-witcher-3-featured-image.jpg",
+    "published_at": "2026-09-28T20:16:16.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
+    "id": "d056714611d8",
+    "slug": "capcom-reveals-scrapped-monster-hunter-wilds-designs",
+    "headline": "Capcom Reveals Scrapped Monster Hunter Wilds Designs",
+    "summary": "Capcom has confirmed that certain designs for Monster Hunter Wilds were cut from the final game, but hasn't explained why. The company has remained quiet about the issue so far.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/monster-hunter-wilds-cut-designs-ascendence/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/araketa-attacking-player-midair-monster-hunter-wilds-ascendance-official-screenshot.jpg",
+    "published_at": "2026-09-28T20:00:13.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "monster-hunter-wilds",
+    "game_label": "Monster Hunter Wilds"
+  },
+  {
+    "id": "6486e1105e05",
+    "slug": "keepsake-county-is-a-nihilistic-delinquency-simulator-where-anything-t",
+    "headline": "Keepsake County Is A Nihilistic Delinquency Simulator Where Anything That Isn’t Bolted Down Is Yours For The Taking",
+    "summary": "Keepsake County is a new game from the creators of Midnight Ultra, a cartoonish immersive sim where players must survive in a world where everything is available for the taking. The game's creators promise an immersive experience with a focus on exploration and delinquency.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/keepsake-county-is-a-nihilistic-delinquency-simulator-where-anything-that-isnt-bolted-down-is-yours-for-the-taking-2000736544"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/KeepSakeFallPrev-1280x720.jpg",
+    "published_at": "2026-09-28T20:00:01.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "keepsake-county",
+    "game_label": "Keepsake County"
+  },
+  {
+    "id": "8599fd82867b",
+    "slug": "gears-of-war-e-day-exclusive-pizza-deal",
+    "headline": "Gears of War: E-Day Exclusive Pizza Deal",
+    "summary": "Xbox partners with Prince St. Pizza to offer a limited-edition 'Emergence Pie' for Gears of War: E-Day, granting in-game access with a unique code.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/gears-of-war-e-day-now-has-its-own-pizza-and-it-even-comes-with-a-special-in-game-item"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/27511a2d10579/large.jpg",
+    "published_at": "2026-09-28T20:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gears-of-war-e-day",
+    "game_label": "Gears of War: E-Day"
+  },
+  {
+    "id": "207763481ef1",
+    "slug": "troy-baker-teases-intergalactic-the-heretic-prophets-ambition",
+    "headline": "Troy Baker Teases Intergalactic: The Heretic Prophet's Ambition",
+    "summary": "Naughty Dog game developer Troy Baker discusses his hopes for the game Intergalactic: The Heretic Prophet, implying a significant creative leap for the studio.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/intergalactic-the-heretic-prophet-is-testing-the-bounds-of-what-naughty-dog-is-capable-of-troy-baker-says"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/28/intergalactic-the-heretic-prophet-1790624421706.png",
+    "published_at": "2026-09-28T19:48:37.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "intergalactic-the-heretic-prophet",
+    "game_label": "Intergalactic: The Heretic Prophet"
+  },
+  {
+    "id": "772971af1e28",
+    "slug": "naughty-dog-celebrates-the-last-of-us-day-with-dlc-and-charity-event",
+    "headline": "Naughty Dog Celebrates The Last of Us Day with DLC and Charity Event",
+    "summary": "Naughty Dog is celebrating The Last of Us Day with new Ghost of Yotei DLC and a charity stream, alongside avatars and other festivities.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/naughty-dog-the-last-of-us-day-2026-ghost-of-yotei-dlc/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23985241/d20220516_TLOUX_Annouce_Stills_6_WM.jpg",
+    "published_at": "2026-09-28T19:40:51.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-last-of-us",
+    "game_label": "The Last of Us"
+  },
+  {
+    "id": "90dfb4ae3ddf",
+    "slug": "why-you-should-play-the-witcher-3-remastered",
+    "headline": "Why You Should Play The Witcher 3 Remastered",
+    "summary": "CD Projekt explains why fans should experience The Witcher 3 Remastered, highlighting its updated features and enhancements.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-lays-out-why-you-should-play-the-witcher-3-remastered/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/JG6brzcCtL4wRDdMBaAvf6-1920-80.jpg",
+    "published_at": "2026-09-28T19:31:01.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
+    "id": "92a56a50d5e0",
+    "slug": "steams-tidying-game-trend-is-about-to-get-the-haunted-meat-its-been-mi",
+    "headline": "Steam's tidying game trend is about to get the haunted meat it's been missing",
+    "summary": "PC Gamer reports that the upcoming game, Something is Wrong with the Library, aims to add texture to organizing Sims games with its unique mechanics and atmosphere.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/sim/steams-tidying-game-trend-is-about-to-get-the-haunted-meat-its-been-missing/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/dLob2vkUPv3TjrM4QAfqyU-1920-80.jpg",
+    "published_at": "2026-09-28T19:30:58.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "something-is-wrong-with-the-library",
+    "game_label": "Something is Wrong with the Library"
+  },
+  {
     "id": "bcb8f96a938a",
     "slug": "2024-rpg-on-steam-is-now-completely-free",
     "headline": "2024 RPG on Steam Is Now Completely Free",
@@ -114,6 +717,35 @@
     "comment_count": 0,
     "game": "fire-emblem-fortunes-weave",
     "game_label": "Fire Emblem: Fortune’s Weave"
+  },
+  {
+    "id": "8a0cdcfa1525",
+    "slug": "early-listen-to-the-witcher-3-songs-of-the-past-expansion",
+    "headline": "Early Listen to The Witcher 3: Songs of the Past Expansion",
+    "summary": "CD Projekt Red shares exclusive preview of upcoming Witcher 3 expansion, allowing fans to listen to five tracks from the original soundtrack",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/the-witcher-3-songs-of-the-past-expansion-five-tracks-ost"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/the-witcher-3-songs-of-the-past-ep-drops-giving-first-taste-of-new-music-from-the-expansion"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/witcher-ost-spotify.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-28T18:50:14.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
   },
   {
     "id": "810b724bc537",
@@ -342,6 +974,32 @@
     "comment_count": 0,
     "game": "heroes-of-the-storm",
     "game_label": "Heroes of the Storm"
+  },
+  {
+    "id": "71ede0886a2a",
+    "slug": "control-resonant-proves-everything-is-a-live-service-game-now",
+    "headline": "Control Resonant Proves Everything Is a Live-Service Game Now",
+    "summary": "Control Resonant's day one update overhauled its combat, mirroring a growing trend in modern games becoming more adaptable.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/control-resonant-updates-analysis/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/control-resonant-key-art.png",
+    "published_at": "2026-09-28T18:10:07.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "control-resonant",
+    "game_label": "Control Resonant"
   },
   {
     "id": "3403b584ee44",
@@ -1113,37 +1771,6 @@
     "comment_count": 0,
     "game": "animal-crossing-switch-2",
     "game_label": "Animal Crossing Switch 2"
-  },
-  {
-    "id": "94cf65e18a21",
-    "slug": "best-whispering-hillock-choices-in-the-witcher-3",
-    "headline": "Best Whispering Hillock Choices in The Witcher 3",
-    "summary": "In The Witcher 3, the Whispering Hillock quest presents a major choice that affects the story. This guide helps players decide whether to save or kill the tree spirit.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/witcher-3-should-you-save-or-kill-tree-spirit-whispering-hillock/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/witcher-3-battle-of-kaer-morhen-best-choices/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/whispering-hillock-walkthrough-in-the-witcher-3-featured-image.jpg",
-    "published_at": "2026-09-28T16:26:19.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-witcher-3-wild-hunt",
-    "game_label": "The Witcher 3: Wild Hunt"
   },
   {
     "id": "0aecb93c9c81",
@@ -2540,31 +3167,6 @@
     "comment_count": 0,
     "game": "the-witcher-3-hearts-of-stone",
     "game_label": "The Witcher 3: Hearts of Stone"
-  },
-  {
-    "id": "8a0cdcfa1525",
-    "slug": "early-listen-to-the-witcher-3-songs-of-the-past-expansion",
-    "headline": "Early Listen to The Witcher 3: Songs of the Past Expansion",
-    "summary": "CD Projekt Red shares exclusive preview of upcoming Witcher 3 expansion, allowing fans to listen to five tracks from the original soundtrack",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/the-witcher-3-songs-of-the-past-expansion-five-tracks-ost"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/witcher-ost-spotify.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-28T13:30:05.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-witcher-3-wild-hunt",
-    "game_label": "The Witcher 3: Wild Hunt"
   },
   {
     "id": "c8204c072b8e",
@@ -4181,596 +4783,6 @@
     ],
     "image_url": "https://cdn.mos.cms.futurecdn.net/XQnuvvuBRMrQAYbjKieGzm-1920-80.jpg",
     "published_at": "2026-09-28T08:29:58.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f89fb47f33b6",
-    "slug": "marvels-wolverine-finally-lets-you-turn-off-fart-gas-scent-trails-comp",
-    "headline": "Marvel's Wolverine finally lets you turn off \"fart gas\" scent trails completely, but there's a catch",
-    "summary": "Marvel's Wolverine has received a new update that should hopefully bring an end to the \"fart gas\" scent trails saga. The latest patch, version 1.001.006, includes an option to turn off scent trails for Whiskey Bottle collectibles, Material Crate audio pings as well as Nightmare Door roots using three separate toggles in the Gameplay menu.\n Read more",
-    "category": "patches",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/marvels-wolverine-patch-turn-off-scent-trails"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/wolverine-nathanial-essex-sitting-on-sofa.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-28T08:12:52.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b97de72b82ba",
-    "slug": "a-decompiled-super-mario-galaxy-pc-port-is-now-in-the-works",
-    "headline": "A Decompiled Super Mario Galaxy PC Port Is Now In The Works",
-    "summary": "The work was completed without the use of AI, and opens the door for the game to be extensively modded.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/super-mario-galaxy-100-decompiled-new-pc-port-in-the-works/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/1920x1080-2026-09-28t085616-323.png",
-    "published_at": "2026-09-28T07:58:39.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "12a01af56c21",
-    "slug": "visual-novel-adaptation-of-keys-summer-pockets-to-launch-on-pc",
-    "headline": "Visual Novel Adaptation of Key's Summer Pockets to Launch on PC",
-    "summary": "A visual novel based on Key's Summer Pockets short story collection is set to release for PC on December 18, featuring a new original story and adapted scenarios from print editions.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/keys-summer-pockets-short-story-collection-to-be-adapted-into-a-fully-voiced-visual-novel-releasing-for-pc-on-december-18/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/12a01af56c21/800/600",
-    "published_at": "2026-09-28T07:25:19.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "summer-pockets",
-    "game_label": "Summer Pockets"
-  },
-  {
-    "id": "5ab29e127547",
-    "slug": "erika-ishii-joins-forces-with-double-fine-for-upcoming-game",
-    "headline": "Erika Ishii Joins Forces with Double Fine for Upcoming Game",
-    "summary": "Double Fine's Amnesia Fortnight Kickstarter has reached $600,000, securing a starring role for Erika Ishii in the upcoming game",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/erika-ishii-double-fine-next-game-kickstarter-goal/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/new-project-2026-09-28t080302-963.jpg",
-    "published_at": "2026-09-28T07:06:22.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "amnesia-fortnight",
-    "game_label": "Amnesia Fortnight"
-  },
-  {
-    "id": "0e958a358043",
-    "slug": "atelier-karia-producer-discusses-karias-belly-size",
-    "headline": "Atelier Karia Producer Discusses Karia's Belly Size",
-    "summary": "Atelier Karia producer Junzo Hosoi expresses desire to increase heroine Karia's belly size, but prioritizes player feedback",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/atelier-karia-producer-junzo-hosoi-would-personally-like-to-push-the-size-of-heroine-karias-belly-as-far-as-possible-but-the-team-is-paying-close-attention-to-player-feedba/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/0e958a358043/800/600",
-    "published_at": "2026-09-28T06:58:04.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "atelier-karia",
-    "game_label": "Atelier Karia"
-  },
-  {
-    "id": "2bed66206141",
-    "slug": "bandai-namcos-synduality-echo-of-ada-shuts-down-online-services-with-p",
-    "headline": "Bandai Namco's Synduality: Echo of Ada Shuts Down Online Services with Promise of Offline PvP-Free Mode",
-    "summary": "Bandai Namco's Synduality: Echo of Ada is shutting down its online services, but players are relieved due to the upcoming offline mode, which promises a PvP-free experience.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/bandai-namcos-synduality-echo-of-ada-is-shutting-down-online-services-but-players-are-oddly-happy-about-it-thanks-to-promised-pvp-free-offline-mode/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/2bed66206141/800/600",
-    "published_at": "2026-09-28T05:04:18.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "synduality-echo-of-ada",
-    "game_label": "Synduality: Echo of Ada"
-  },
-  {
-    "id": "a45e5671a346",
-    "slug": "2024s-best-rpg-is-a-must-play-for-fire-emblem-fans",
-    "headline": "2024's Best RPG Is a Must-Play for Fire Emblem Fans",
-    "summary": "Polygon recommends Metaphor ReFantazio as a must-play RPG for fans of Fire Emblem, highlighting similarities with Fortune's Weave.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-metaphor-refantazio/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/metaphor-refantazio-giant-baby.jpg",
-    "published_at": "2026-09-28T03:00:15.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "metaphor-refantazio",
-    "game_label": "Metaphor ReFantazio"
-  },
-  {
-    "id": "c46360fa3a26",
-    "slug": "ea-game-review-bombed-on-steam-despite-being-1",
-    "headline": "EA Game Review Bombed on Steam Despite Being #1",
-    "summary": "A new EA game was released and quickly became the subject of review bombing on Steam, surprising many given its #1 spot on the platform's charts.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/ea-sports-fc-27-sales-review-bombed/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/ea-sports-fc-27-review-bomb-2.jpg",
-    "published_at": "2026-09-28T03:00:13.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "ea-release",
-    "game_label": "EA Release"
-  },
-  {
-    "id": "916ebf600a49",
-    "slug": "this-weeks-japanese-game-releases-ace-combat-8-wings-of-theve-dynasty",
-    "headline": "This Week’s Japanese Game Releases: Ace Combat 8: Wings of Theve, Dynasty Warriors 3: Complete Edition Remastered, more",
-    "summary": "Ace Combat 8: Wings of Theve for PlayStation 5, Xbox Series, and PC, and Dynasty …",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/this-weeks-japanese-game-releases-ace-combat-8-wings-of-theve-dynasty-warriors-3-complete-edition-remastered-more"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/916ebf600a49/800/600",
-    "published_at": "2026-09-28T02:51:57.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "58392529d5cd",
-    "slug": "hsr-pearl-best-team-comps-honkai-star-rail",
-    "headline": "HSR Pearl Best Team Comps (Honkai: Star Rail)",
-    "summary": "A team composition featuring HSR Pearl is optimal for Elation teams in Honkai: Star Rail, but has limitations due to other Path combinations.",
-    "category": "esports",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/honkai-star-rail-hsr-pearl-best-team-comp-composition/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/pearl-best-team-in-honkai-star-rail.jpg",
-    "published_at": "2026-09-28T02:15:03.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "honkai-star-rail",
-    "game_label": "Honkai: Star Rail"
-  },
-  {
-    "id": "8313dc7c687a",
-    "slug": "the-major-easter-eggs-in-the-new-resident-evil-reboot-movie-explained",
-    "headline": "The Major Easter Eggs in the New Resident Evil Reboot Movie, Explained",
-    "summary": "Zach Cregger's first step into the Resident Evil universe is littered with major Easter eggs from Capcom's hit video game series.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/resident-evil-reboot-easter-eggs-explained/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/04/bryan-runs-through-the-streets-in-resident-evil-2026-teaser-trailer.jpg",
-    "published_at": "2026-09-28T02:01:13.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "acea3329ccdf",
-    "slug": "hbo-just-officially-changed-a-fundamental-rule-of-green-lantern-canon",
-    "headline": "HBO Just Officially Changed a Fundamental Rule of Green Lantern Canon",
-    "summary": "HBO has altered the origin of John Stewart, the character who replaced Hal Jordan as Green Lantern, to make him unique from the start. The change impacts the show's narrative and character development.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/hbo-lanterns-episode-7-john-stewart-powers-green-lantern/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/aaron-pierre_2.jpg",
-    "published_at": "2026-09-28T02:00:26.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e819dcbbd13a",
-    "slug": "steam-week-in-review-great-haystack-slop-is-a-thing-now",
-    "headline": " Steam Week in Review: Great, haystack slop is a thing now ",
-    "summary": "All the interesting Steam facts for the week ending September 27.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-great-haystack-slop-is-a-thing-now/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/a8h5r8JXCRb4HF239QdTuJ-1920-80.png",
-    "published_at": "2026-09-28T01:57:44.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f5fc1769d7a1",
-    "slug": "open-world-rpgs-you-wont-be-able-to-put-down",
-    "headline": "Open-World RPGs You Won't Be Able To Put Down",
-    "summary": "Several open-world RPGs are designed to keep players engaged for longer than expected, making them difficult to put down.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/best-open-world-rpg-games-you-cant-stop-playing/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/best-open-world-rpgs-you-can-t-stop-playing.jpg",
-    "published_at": "2026-09-28T01:45:13.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d2eea2570711",
-    "slug": "shinjuku-anomaly-launches-on-september-30",
-    "headline": "Shinjuku Anomaly Launches on September 30",
-    "summary": "A short horror visual novel with multiple endings will be released on PC on September 30",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/horror-visual-novel-shinjuku-anomaly-launches-september-30"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/d2eea2570711/800/600",
-    "published_at": "2026-09-28T01:45:03.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "shinjuku-anomaly",
-    "game_label": "Shinjuku Anomaly"
-  },
-  {
-    "id": "fcab7b063aeb",
-    "slug": "industry-insiders-and-tokyo-gossip-suggest-kojima-is-getting-less-mone",
-    "headline": " Industry insiders and Tokyo gossip suggest Kojima is getting less money from Xbox than original PlayStation budget for Physint ",
-    "summary": "Whatever this game costs, people seem to agree it's in the nine figures.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/industry-insiders-and-tokyo-gossip-suggest-kojima-is-getting-less-money-from-xbox-than-original-playstation-budget-for-physint/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/DexicgJSYh9xBnB9nLdRnb-1920-80.png",
-    "published_at": "2026-09-28T01:19:40.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "fd4895a0e224",
-    "slug": "first-look-at-official-minecraft-hotel",
-    "headline": "First Look at Official Minecraft Hotel",
-    "summary": "Minecraft is getting its own official hotel, featuring a variety of facilities and decor inspired by the beloved Mojang sandbox game.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/minecraft-hotel-2027/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/1000020057.jpg",
-    "published_at": "2026-09-28T01:00:13.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0c4f28a75b97",
-    "slug": "the-witcher-3-remastered-a-45gb-ps5-patch-release-times-revealed",
-    "headline": "The Witcher 3 Remastered a 45GB PS5 Patch, Release Times Revealed",
-    "summary": "An update to current PS5 version. As a quick reminder, the newly remastered version of The Witcher 3 is an update to the current Complete Edition for the RPG, and that patch will be around 45GB in size. CD Projekt Red executive Marcin Momot revealed the download size of the update across all platforms in time for the weekend just…",
-    "category": "patches",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-a-45gb-ps5-patch-release-times-revealed"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/f370621d3522c/large.jpg",
-    "published_at": "2026-09-28T01:00:00.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a0872e2ec671",
-    "slug": "best-free-games-to-claim-right-now-2026",
-    "headline": "Best Free Games To Claim Right Now (2026)",
-    "summary": "Several platforms offer free games that can be claimed immediately, including Steam, Epic Games Store, and Prime Gaming.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "xbox",
-      "playstation",
-      "mobile",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/free-games-right-now-2026-steam-playstation-xbox/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/best-free-games-to-claim-2026-steam-epic-games-amazon-prime-gaming-playstation-xbox.jpg",
-    "published_at": "2026-09-28T00:42:13.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6db6aa3c9ef3",
-    "slug": "solo-leveling-7-characters-sung-jinwoo-has-yet-to-surpass",
-    "headline": "Solo Leveling: 7 Characters Sung Jinwoo Has Yet To Surpass",
-    "summary": "Game Solo Leveling reveals what characters Sung Jinwoo has yet to surpass in terms of power, leaving fans curious about his next move.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/solo-leveling-characters-sung-jinwoo-yet-surpass/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/03/solo-leveling-season-3-threat-jinwoo-cannot-beat-thomas-andre.jpeg",
-    "published_at": "2026-09-28T00:30:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "solo-leveling",
-    "game_label": "Solo Leveling"
-  },
-  {
-    "id": "02c8e2060520",
-    "slug": "former-dragon-age-executive-producer-mark-darrah-explains-what-hed-cha",
-    "headline": "Former Dragon Age Executive Producer Mark Darrah Explains What He'd Change About Each Game",
-    "summary": "PC Gamer spoke with Mark Darrah, former executive producer of the Dragon Age series, about what he'd do differently if he were in charge again.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/dragon-age/former-dragon-age-executive-producer-mark-darrah-explains-what-hed-change-about-each-game-its-kind-of-filler/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/hH9KJHTAQRZMDWEMXBw6iM-1920-80.jpg",
-    "published_at": "2026-09-28T00:15:39.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "dragon-age",
-    "game_label": "Dragon Age"
-  },
-  {
-    "id": "3add35f8817d",
-    "slug": "new-sandbox-steam-game-with-over-750000-wishlists-launches-to-95-posit",
-    "headline": "New Sandbox Steam Game With Over 750,000 Wishlists Launches to 95% Positive Reviews",
-    "summary": "A brand-new sandbox game has just arrived on Steam, and it's already sitting at an 'Overwhelmingly Positive' user score.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/happy-wheels-steam-launch-wishlists-reviews/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/happy-wheels-steam-release.jpg",
-    "published_at": "2026-09-27T23:00:14.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d3870a2bcd4b",
-    "slug": "sonys-hearing-a-lot-of-the-feedback-from-customers-nis-america-boss-we",
-    "headline": "'Sony's Hearing a Lot of the Feedback from Customers': NIS America Boss Weighs in on PS5 Disc Debate",
-    "summary": "\"We'll have to see what happens\".\nBehemoth publishers like SEGA and Capcom have indicated they’re not particularly fussed about Sony’s decision to cease manufacturing physical media in 2028.\nBut it’s interesting to hear from companies like NIS America, who have built elaborate collector’s editions into their business model.\nRead the full article on pushsquare.com",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/sonys-hearing-a-lot-of-the-feedback-from-customers-nis-america-boss-weighs-in-on-ps5-disc-debate"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/b774ac5f1754b/large.jpg",
-    "published_at": "2026-09-27T23:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "dcb7dc2a1221",
-    "slug": "industry-insiders-weigh-in-on-the-future-of-ads-in-gaming",
-    "headline": "Industry Insiders Weigh In on the Future of Ads in Gaming",
-    "summary": "Industry leaders share their thoughts on the direction of advertising in the gaming industry.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/what-do-insiders-think-of-the-state-of-ads-in-gaming/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/gamesbeat-nyc-2-1.png",
-    "published_at": "2026-09-27T22:50:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "033909c4a1cb",
-    "slug": "5-single-player-fps-masterpieces-forgotten-by-time",
-    "headline": "5 Single-Player FPS Masterpieces Forgotten By Time",
-    "summary": "These first-person shooters were, and maybe still are, awesome, but not every FPS game can become an eternal classic.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/fps-games-masterpieces-forgotten-by-time/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/single-player-fps-games-forgotten-by-time-tron-2-1.jpg",
-    "published_at": "2026-09-27T22:44:13.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
