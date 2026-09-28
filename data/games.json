@@ -16593,5 +16593,31 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-28T12:06:33.938Z"
+  },
+  {
+    "slug": "super-mario-galaxy",
+    "name": "Super Mario Galaxy",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/936/936f0ffac0b3c9f5c8d185f610ed2631.jpg",
+    "released": "2007-11-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Platformer"
+    ],
+    "platforms": [
+      "Nintendo Switch",
+      "Wii"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/83f/83f80635904e97cfc4f13708723a058c.jpg",
+      "https://media.rawg.io/media/screenshots/95e/95ed0d6e674b7901cde508c16c5947ad.jpg",
+      "https://media.rawg.io/media/screenshots/78f/78f185aeb72e8be1bb80962653a1fc58.jpg",
+      "https://media.rawg.io/media/screenshots/8a8/8a8368744220217f3702629bb03d15f9.jpg",
+      "https://media.rawg.io/media/screenshots/7b5/7b504c79196501e7afa776492dc5d9fb.jpg",
+      "https://media.rawg.io/media/screenshots/f69/f69710b403ca2a72f5273137cd1fa538.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-28T12:37:10.562Z"
   }
 ]

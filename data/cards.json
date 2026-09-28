@@ -1,5 +1,97 @@
 [
   {
+    "id": "5bbef21555af",
+    "slug": "happy-wheels-now-live-on-steam",
+    "headline": "Happy Wheels Now Live on Steam",
+    "summary": "Steam users overwhelmingly praised Happy Wheels, a classic indie title, upon its release, marking a notable debut on the platform.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/happy-wheels-steam-wishlists-user-reviews/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/new-project-2026-09-28t131300-345.jpg",
+    "published_at": "2026-09-28T12:24:41.000Z",
+    "hype_signal": 95,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "happy-wheels",
+    "game_label": "Happy Wheels"
+  },
+  {
+    "id": "6a47c207cc82",
+    "slug": "call-of-duty-warzone-to-introduce-feature-to-toggle-off-non-modern-war",
+    "headline": "Call of Duty: Warzone to Introduce Feature to Toggle Off Non-Modern Warfare Skins",
+    "summary": "Call of Duty: Modern Warfare 4 is set to add a highly requested feature to Warzone, allowing players to disable character skins from other Call of Duty games in the free-to-play mode.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/call-of-duty-warzone-skin-toggle-modern-warfare-4"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-beta-shot-crop-3.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-28T12:19:33.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "call-of-duty-modern-warfare-4",
+    "game_label": "Call of Duty: Modern Warfare 4"
+  },
+  {
+    "id": "c1dba6294c93",
+    "slug": "god-of-war-digital-deluxe-edition-details",
+    "headline": "God of War Digital Deluxe Edition Details",
+    "summary": "Sony has revealed the contents of the digital deluxe edition of the upcoming God of War game and its pre-order bonus. Pre-orders will begin on Tuesday.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/sony-details-god-of-war-laufeys-digital-deluxe-edition-contents-and-pre-order-bonus/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/c1dba6294c93/800/600",
+    "published_at": "2026-09-28T12:14:49.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "god-of-war",
+    "game_label": "God of War"
+  },
+  {
+    "id": "f6e024feb56d",
+    "slug": "how-power-constraints-are-redefining-ai-infrastructure",
+    "headline": "How Power Constraints Are Redefining AI Infrastructure",
+    "summary": "A writer explores how power constraints are forcing innovators to rethink AI development, from space exploration to backyard AI, and what this shift means for the future of AI",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/from-your-backyard-to-outer-space-how-power-constraints-are-redefining-ai-infrastructure-opinion/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/f6e024feb56d/800/600",
+    "published_at": "2026-09-28T12:03:30.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "5c2a28e99a20",
     "slug": "god-of-war-laufey-pre-orders-live",
     "headline": "God of War Laufey Pre-Orders Live",
@@ -62,6 +154,29 @@
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/mixcollage-28-sep-2026-09-20-am-2102.jpg",
     "published_at": "2026-09-28T12:00:13.000Z",
     "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "30e9d2ec63e4",
+    "slug": "review-runescape-dragonwilds-switch-2-a-slow-burn-survival-crafting-rp",
+    "headline": "Review: RuneScape: Dragonwilds (Switch 2) - A Slow-Burn Survival-Crafting RPG That Underwhelms Visually",
+    "summary": "Phr33 st00f pl0x. A few years ago when I tried Old School RuneScape for the first time, I spent hours puttering around the starting area taking on basic quests, chopping down trees, and slaying goblins in the surrounding wilds. After each lengthy session, I would exit the game, lean back in my chair with a contented smile, and realise that…",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/runescape-dragonwilds"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/e36becf4be26f/large.jpg",
+    "published_at": "2026-09-28T12:00:00.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -177,6 +292,27 @@
     "comment_count": 0,
     "game": "arc-raiders",
     "game_label": "Arc Raiders"
+  },
+  {
+    "id": "ab972f482a62",
+    "slug": "wow-forever-beta-player-dies-to-a-near-perfect-griefing-tactic-that-im",
+    "headline": "WoW Forever Beta Player Dies to a Near Perfect Griefing Tactic That I'm Sure Blizzard Will Patch Out",
+    "summary": "World of Warcraft Forever’s beta marches on, and all evidence points to it being a massive success. But it’s worth remembering this is a beta, and a beta is for reporting issues. Enter one of the best WoW griefing tactics I’ve ever seen.",
+    "category": "patches",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/wow-forever-beta-player-dies-to-a-near-perfect-griefing-tactic-that-im-sure-blizzard-will-patch-out"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/28/wow-1790594365869.jpg",
+    "published_at": "2026-09-28T11:19:42.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "8ad00514c921",
@@ -647,6 +783,50 @@
     "comment_count": 0,
     "game": "the-witcher-3-wild-hunt-remastered",
     "game_label": "The Witcher 3: Wild Hunt - Remastered"
+  },
+  {
+    "id": "e215fdc262a8",
+    "slug": "wow-forever-beta-gets-another-population-cap-increase-as-blizzard-stru",
+    "headline": " WoW: Forever beta gets another population cap increase as Blizzard struggles to fit fans in the MMO ",
+    "summary": "\"The wild ride continues\" for the new World of Warcraft game",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/world-of-warcraft/suffering-from-success-wow-forever-beta-gets-yet-another-population-cap-increase-as-blizzard-struggles-to-fit-everyone-into-its-new-mmo/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/N52gqVJnxH3QTsG6jxGdsf-1920-80.jpg",
+    "published_at": "2026-09-28T10:11:55.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a35bbf4c3651",
+    "slug": "unofficial-super-mario-galaxy-pc-port-in-development",
+    "headline": "Unofficial Super Mario Galaxy PC Port in Development",
+    "summary": "A fan-made PC port of Super Mario Galaxy is reportedly in progress, with developers claiming it is fully hand-coded. An exact release date has not been confirmed.",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/super-mario/an-unofficial-super-mario-galaxy-pc-port-is-in-the-works-with-the-developers-proudly-claiming-its-100-percent-coded-by-humans/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/pEivnkr2qtuo4cjZHWnJtV-1920-80.jpg",
+    "published_at": "2026-09-28T10:06:47.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "super-mario-galaxy",
+    "game_label": "Super Mario Galaxy"
   },
   {
     "id": "2043f17280a8",
@@ -4475,187 +4655,5 @@
     "comment_count": 0,
     "game": "for-honor",
     "game_label": "For Honor"
-  },
-  {
-    "id": "783e2f0f9fb8",
-    "slug": "forgotten-islands-directors-share-personal-anime-references",
-    "headline": "Forgotten Island's Directors Share Personal Anime References",
-    "summary": "Forgotten Island's directors discuss Easter eggs in their anime-inspired game, revealing personal connections to various franchises.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/forgotten-island-anime-references-director-interview/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/saiyan.jpg",
-    "published_at": "2026-09-26T13:00:15.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "forgotten-island",
-    "game_label": "Forgotten Island"
-  },
-  {
-    "id": "cf592bc542bc",
-    "slug": "new-open-world-stardew-valley-like-life-sim-officially-coming-to-ps5",
-    "headline": "New Open-World Stardew Valley-Like Life Sim Officially Coming to PS5",
-    "summary": "An open-world game with Stardew Valley vibes confirms its release on PlayStation 5, and fans of life sim games might want to start saving up.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/new-ps5-games-like-stardew-valley-life-sim-luma-island/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/open-world-games-like-stardew-valley-ps5-release-luma-island-confirmed-official-gamerant.jpg",
-    "published_at": "2026-09-26T13:00:13.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a8491337870b",
-    "slug": "dressmaker-is-a-serious-seamstress-sim-with-a-lot-of-love-stitched-int",
-    "headline": " Dressmaker is a serious seamstress sim with a lot of love stitched into the finer details ",
-    "summary": "Here are my five favorite features from the sewing game.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/sim/dressmaker-is-a-serious-seamstress-sim-with-a-lot-of-love-stitched-into-the-finer-details/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/2XvTwp23VnnFdLn46WtB3S-1920-80.jpg",
-    "published_at": "2026-09-26T13:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "96d9f5f8103b",
-    "slug": "rayman-legends-retold-just-roasted-gta-6s-collectors-edition",
-    "headline": "Rayman Legends Retold Just Roasted GTA 6's Collector's Edition",
-    "summary": "It’s not just gamers calling out GTA 6’s expensive collector’s edition, Rayman is getting in on it too.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/rayman-legends-retold-ubisoft-roasts-gta-6-collectors-edition/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/raymanlegendsretoldraypose.jpg",
-    "published_at": "2026-09-26T12:45:53.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e25ade625ba3",
-    "slug": "blacksmith-master-10-launches-on-november-19",
-    "headline": "Blacksmith Master 1.0 Launches on November 19",
-    "summary": "Blacksmith Master 1.0 has launched on November 19, with no apparent concerns from its publisher about releasing on the same day as GTA 6.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/manor-lords-publisher-isnt-worried-about-launching-a-game-on-gta-6s-release-date-pc-players-looking-to-steal-cars-might-check-out-its-new-management-sim-instead/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/9rQkVf34yeQg2HHfq88d9n-1920-80.jpg",
-    "published_at": "2026-09-26T12:40:12.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "blacksmith-master",
-    "game_label": "Blacksmith Master"
-  },
-  {
-    "id": "6202f3ed75cf",
-    "slug": "nintendo-should-make-more-games-about-people",
-    "headline": "Nintendo Should Make More Games About People",
-    "summary": "Switch 2 exclusive Fire Emblem: Fortune's Weave has more messy humanity, sex, and romance than most Nintendo games",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/switchboard-fire-emblem-fortunes-weave/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-cast.png",
-    "published_at": "2026-09-26T12:00:15.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3a0decc240e9",
-    "slug": "it-took-cd-projekt-two-years-to-design-phantom-libertys-chimera-tank-b",
-    "headline": " It took CD Projekt two years to design Phantom Liberty's Chimera Tank boss fight: 'We were iterating over and over' ",
-    "summary": "The Polish developer believes the tank to be \"one of the most expensive art assets ever.\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/rpg/it-took-cd-projekt-two-years-to-design-phantom-libertys-chimera-tank-boss-fight-we-were-iterating-over-and-over/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/GgkEq6iHNxXBnpeQVXjcNF-1920-80.png",
-    "published_at": "2026-09-26T12:00:01.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "052fd455d02d",
-    "slug": "feature-these-30-games-are-coming-to-xbox-next-week-september-28-octob",
-    "headline": "Feature: These 30+ Games Are Coming To Xbox Next Week (September 28-October 2)",
-    "summary": "Including two huge Xbox first-party releases! Welcome to your Xbox games roundup for September 28 - October 2! We've got a bunch of big releases arriving over the next few days including The Witcher 3: Wild Hunt - Remastered and Ace Combat 8: Wings of Theve, but arguably the biggest from an Xbox perspective are the two first-party titles in…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/features/these-30plus-games-are-coming-to-xbox-next-week-september-28-october-2"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/44f77268205f7/large.jpg",
-    "published_at": "2026-09-26T12:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
