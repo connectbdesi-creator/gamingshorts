@@ -16516,5 +16516,61 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-28T03:37:52.467Z"
+  },
+  {
+    "slug": "lanterns",
+    "name": "Lanterns",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/aaa/aaaf3194ef2ff3c1d87184f6de563136.jpeg",
+    "released": "2012-09-26",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Family",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "iOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/6fa/6fa76e1fc82225ec241a13c3991c12bc.jpg",
+      "https://media.rawg.io/media/screenshots/6cc/6cce4e1ec191cb1c39bf289fe1d31fe5.jpg",
+      "https://media.rawg.io/media/screenshots/e4d/e4d24c6ce9f79ca0198b24607e97a295.jpg",
+      "https://media.rawg.io/media/screenshots/3f3/3f356c5e919f5b28e00bf708986703a8.jpg",
+      "https://media.rawg.io/media/screenshots/537/5373b343af8a9d91a33b3e7760cc73b9.jpg",
+      "https://media.rawg.io/media/screenshots/4c0/4c0e5ea5cbe24529799f25da1bb598d4.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-28T11:38:11.960Z"
+  },
+  {
+    "slug": "hearts-of-iron-4",
+    "name": "Hearts of Iron IV",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/2b6/2b6e8f8efaa2499e9a3a09dc76028d44.jpg",
+    "released": "2016-06-06",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Linux"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f48/f48de3eaec76c0aa679834cb7c49cec1.jpg",
+      "https://media.rawg.io/media/screenshots/1f5/1f5bfd070d4038f5720f362fe8c7ebca.jpg",
+      "https://media.rawg.io/media/screenshots/75e/75e0afe5d41ba58450d9901811f8bc51.jpg",
+      "https://media.rawg.io/media/screenshots/48f/48f7adb3592565b804ed1265eb91c241.jpg",
+      "https://media.rawg.io/media/screenshots/fa5/fa590128b4bdbdfa9c2634ccc8d0759b.jpg",
+      "https://media.rawg.io/media/screenshots/772/772043c729990967daab1666df795cdb.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-28T11:38:17.891Z"
   }
 ]

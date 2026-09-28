@@ -1,5 +1,620 @@
 [
   {
+    "id": "fe788a5d0ef9",
+    "slug": "playstation-controller-may-have-built-in-credit-scanner",
+    "headline": "PlayStation Controller May Have Built-In Credit Scanner",
+    "summary": "Sony patents a built-in credit scanner for PlayStation controllers, suggesting users could tap their credit card to register purchases, including pre-orders",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/playstation-controllers-may-have-built-in-credit-card-scanners-one-day"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/bc2aa2f3b7a5d/large.jpg",
+    "published_at": "2026-09-28T11:30:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "1dd81f8179c2",
+    "slug": "arc-raiders-messes-with-loot-hotspots-to-make-games-more-exciting",
+    "headline": "Arc Raiders Messes with Loot Hotspots to Make Games More Exciting",
+    "summary": "PC Gamer reveals that Arc Raiders is altering loot hotspots to increase game excitement, sparking debate among players and designers.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-messing-with-your-loot-hotspots-to-make-games-more-exciting/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/fvdNe8RV4vTLY9zXgxnufA-1920-80.jpg",
+    "published_at": "2026-09-28T11:27:58.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "arc-raiders",
+    "game_label": "Arc Raiders"
+  },
+  {
+    "id": "8ad00514c921",
+    "slug": "fortnites-spooky-month-kicks-off-with-five-nights-at-freddys-crossover",
+    "headline": "Fortnite's Spooky Month Kicks off With Five Nights at Freddy's Crossover",
+    "summary": "Fortnite is launching its Halloween special, featuring a major crossover with Five Nights at Freddy's, starting October 1st.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/fortnite-five-nights-at-freddys-collab-fortnitemares/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fortnite-five-nights-at-freddy-s-collab-fortnitemare-trailer.png",
+    "published_at": "2026-09-28T11:12:32.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fortnite",
+    "game_label": "Fortnite"
+  },
+  {
+    "id": "3ae52ab67bee",
+    "slug": "hideo-kojimas-physint-isnt-costing-xbox-400-million-after-all-new-repo",
+    "headline": "Hideo Kojima's Physint isn't costing Xbox $400 million after all, new reports suggest",
+    "summary": "New reports contradict earlier claims about Hideo Kojima's Physint project's cost to Xbox, potentially scaling back the deal",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/action/hideo-kojimas-physint-isnt-costing-xbox-usd400-million-after-all-with-new-reports-suggesting-the-metal-gear-successors-actual-budget-is-significantly-less/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/UZ5WWHD35Q77mnsZMgSkCA-1920-80.jpg",
+    "published_at": "2026-09-28T11:11:04.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2c5426fd9561",
+    "slug": "lanterns-writer-reveals-challenges-of-updating-canon",
+    "headline": "Lanterns Writer Reveals Challenges of Updating Canon",
+    "summary": "The creative team behind Lanterns discusses the challenges of changing the game's canon, comparing it to handling plutonium.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/dc-tv-shows/after-changing-hal-jordans-backstory-lanterns-writer-says-changing-canon-is-like-handling-plutonium-but-theres-no-fun-and-creativity-in-playing-it-safe/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/4L9rcgQZJcN98LSjTty3Q7-1920-80.jpg",
+    "published_at": "2026-09-28T11:01:31.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "lanterns",
+    "game_label": "Lanterns"
+  },
+  {
+    "id": "5791959f7e4b",
+    "slug": "new-zelda-release-officially-announced",
+    "headline": "New Zelda Release Officially Announced",
+    "summary": "The Legend of Zelda franchise is celebrating its 40th anniversary with a new game set to launch later this year, priced at $599.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/zelda-tears-of-the-kingdom-decayed-master-sword-2026/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/zelda-tears-of-the-kingdom-new-release.jpg",
+    "published_at": "2026-09-28T11:00:13.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "legend-of-zelda",
+    "game_label": "Legend of Zelda"
+  },
+  {
+    "id": "4ab974baac66",
+    "slug": "lego-star-wars-executor-super-star-destroyer-review",
+    "headline": "Lego Star Wars Executor Super Star Destroyer Review",
+    "summary": "GamesRadar+ reviewer praises the latest Lego Star Wars set, saying it outdoes its predecessor and holds the record for the longest Lego set in history.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/toys-collectibles/lego-star-wars-executor-super-star-destroyer-75457-review/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/jEjqD6NxzYCwssTPeKB7ZA-1920-80.jpg",
+    "published_at": "2026-09-28T11:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "lego-star-wars-executor-super-star-destroyer",
+    "game_label": "Lego Star Wars Executor Super Star Destroyer"
+  },
+  {
+    "id": "9995c39368d0",
+    "slug": "guide-these-21-ps5-and-ps-plus-games-are-coming-out-this-week",
+    "headline": "Guide: These 21+ PS5 and PS Plus Games Are Coming Out This Week",
+    "summary": "The upcoming week features a large number of PS5 game releases, including The Witcher 3: Wild Hunt Remastered and Ace Combat 8: Wings of the Veil.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/guides/these-21plus-ps5-and-ps-plus-games-are-coming-out-this-week-28th-4th-october"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/0996c5fb790cb/large.jpg",
+    "published_at": "2026-09-28T11:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt-remastered",
+    "game_label": "The Witcher 3: Wild Hunt Remastered"
+  },
+  {
+    "id": "5a3397eba6ea",
+    "slug": "developer-reconsiders-xbox-release-for-action-rpg-dawngazer",
+    "headline": "Developer Reconsiders Xbox Release for Action RPG DAWNGAZER",
+    "summary": "A recent announcement for DAWNGAZER on PS5, Switch, and PC has led to Xbox fans expressing disappointment. The developer has since reversed their decision, deciding to also bring the action RPG to Xbox.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox",
+      "pc",
+      "playstation",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/this-new-rpg-wasnt-coming-to-xbox-but-the-devs-have-suddenly-changed-their-minds"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/a216ad3f28837/large.jpg",
+    "published_at": "2026-09-28T11:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dawngazer",
+    "game_label": "DAWNGAZER"
+  },
+  {
+    "id": "562103bd7080",
+    "slug": "as-wardogs-sells-3-million-copies-lead-admits-the-devs-are-overwhelmed",
+    "headline": " As Wardogs sells 3 million copies, lead admits the devs are \"overwhelmed,\" taking forced holidays ",
+    "summary": "Bulkhead's been on the back foot since the game went fully public",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/fps/as-wardogs-sells-3-million-copies-lead-admits-bottom-feeder-cheaters-constant-ddos-attacks-and-much-more-have-left-devs-overwhelmed-so-many-are-taking-mandatory-holiday/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/PvgsEnvfvPoB2JgWqVGBxn-1920-80.png",
+    "published_at": "2026-09-28T10:58:11.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d56e4f0f6e67",
+    "slug": "blizzard-expands-wow-forever-beta-server-size-amid-controversy",
+    "headline": "Blizzard Expands WoW: Forever Beta Server Size Amid Controversy",
+    "summary": "Blizzard has been forced to expand the server size for its new WoW: Forever beta after facing backlash from the community, indicating that the service's pricing model is causing significant player discontent.",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/im-sure-whoever-chose-to-charge-for-wow-forever-beta-access-is-feeling-very-chuffed-given-blizzards-had-to-expand-its-server-size-a-second-time/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/yCF26SfzGQAnST4A9QzDAX-1920-80.png",
+    "published_at": "2026-09-28T10:51:25.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "world-of-warcraft-forever",
+    "game_label": "World of Warcraft: Forever"
+  },
+  {
+    "id": "fde3946d5147",
+    "slug": "fortnite-five-nights-at-freddys-reveal-sets-record",
+    "headline": "Fortnite Five Nights At Freddy's Reveal Sets Record",
+    "summary": "Fortnite's Five Nights At Freddy's reveal has become the most-liked tweet in the game's history, surpassing a record previously held by Dragon Ball Z since 2022.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/fortnite-five-nights-at-freddys-trailer-most-liked-post-ever/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/new-project-2026-09-28t113040-941.jpg",
+    "published_at": "2026-09-28T10:46:53.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "five-nights-at-freddys-fortnite",
+    "game_label": "Five Nights At Freddy's Fortnite"
+  },
+  {
+    "id": "812750cc493b",
+    "slug": "gears-of-war-e-day-now-available-on-steam",
+    "headline": "Gears of War: E-Day Now Available on Steam",
+    "summary": "Gears of War: E-Day is now available on Steam for PC, offering a new option for players to purchase the game. The game is exclusive to PC and Xbox Series X|S, but PC owners can add it to their Steam library.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/is-gears-of-war-e-day-on-steam/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Gears-Steam.jpg?w=300",
+    "published_at": "2026-09-28T10:45:07.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gears-of-war-e-day",
+    "game_label": "Gears of War: E-Day"
+  },
+  {
+    "id": "3886a83568fe",
+    "slug": "how-to-get-aerondight-in-the-witcher-3",
+    "headline": "How to Get Aerondight in The Witcher 3",
+    "summary": "The Witcher 3: Aerondight is the best sword in the game, and it's available in the expansion Blood and Wine. This article provides a guide on how to obtain this legendary weapon.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/witcher-3-aerondight-guide/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/there-can-be-only-one-2.jpg",
+    "published_at": "2026-09-28T10:44:47.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
+    "id": "94cf65e18a21",
+    "slug": "best-whispering-hillock-choices-in-the-witcher-3",
+    "headline": "Best Whispering Hillock Choices in The Witcher 3",
+    "summary": "In The Witcher 3, the Whispering Hillock quest presents a major choice that affects the story. This guide helps players decide whether to save or kill the tree spirit.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/witcher-3-should-you-save-or-kill-tree-spirit-whispering-hillock/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/whispering-hillock-walkthrough-in-the-witcher-3-featured-image.jpg",
+    "published_at": "2026-09-28T10:41:56.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
+    "id": "5f0cfab3c501",
+    "slug": "the-elder-scrolls-never-got-a-spin-off-like-fallout-new-vegas-because",
+    "headline": "The Elder Scrolls never got a spin-off like Fallout: New Vegas because Todd Howard is protective of the IP, former dev says",
+    "summary": "The Elder Scrolls Online \"took the heat off\" fan requests for a spin-off game, he says",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/the-elder-scrolls-never-got-a-spin-off-like-fallout-new-vegas-because-todd-howard-is-protective-of-the-ip-former-dev-says/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/5f0cfab3c501/800/600",
+    "published_at": "2026-09-28T10:40:07.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "27425118bd17",
+    "slug": "fortnite-and-five-nights-at-freddys-crossover-makes-most-liked-reveal",
+    "headline": "Fortnite and Five Nights at Freddy's Crossover Makes Most-Liked Reveal in Fortnite History",
+    "summary": "Fortnite's recent announcement of a crossover with Five Nights at Freddy's has broken records, becoming the game's most-liked post on social media",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/fortnite-five-nights-at-freddys-announcement-is-now-the-games-most-liked-reveal-ever-beating-the-avengers-and-dragon-ball-z"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/28/6b17a3e0-26a6-4b99-a3a2-64aaf4c03d6f-1790591765592.jpg",
+    "published_at": "2026-09-28T10:39:04.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ec969abfe003",
+    "slug": "video-the-witcher-3-remastered-side-by-side-comparison-switch-vs-switc",
+    "headline": "Video: The Witcher 3 Remastered Side-By-Side Comparison, Switch Vs. Switch 2",
+    "summary": "Ciriously. Somehow, The Witcher III: Wild Hunt returned. CD Projekt Red surprised us all earlier this summer with the announcement that it was bringing the beloved RPG to Switch 2, complete with all of its DLC (even the new stuff) and tasty remastered visuals to boot. The game launches this week on 29th September, and to make sure that everyone…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/video-the-witcher-3-remastered-side-by-side-comparison-switch-vs-switch-2"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/ec0239b60a0b9/large.jpg",
+    "published_at": "2026-09-28T10:30:00.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6dd84f37267a",
+    "slug": "psa-the-witcher-3-remastered-file-size-and-release-time-confirmed-sepa",
+    "headline": "PSA: The Witcher 3 Remastered File Size And Release Time Confirmed, Separate Purchase Required",
+    "summary": "The Witcher 3: Wild Hunt - Remastered is coming to Switch, launching on September 29, 2026, and will be free for existing Switch owners. However, this version will require a separate purchase for PS5 and Xbox Series X/S owners.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/psa-the-witcher-3-remastered-file-size-and-release-time-confirmed-separate-purchase-required"
+      },
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-release-times-in-your-time-zone-and-update-file-size/"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/c21b4b4c6de57/large.jpg",
+    "published_at": "2026-09-28T10:19:52.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt-remastered",
+    "game_label": "The Witcher 3: Wild Hunt - Remastered"
+  },
+  {
+    "id": "2043f17280a8",
+    "slug": "how-to-solve-todays-wordle-september-29-2026-answer-1928",
+    "headline": "How To Solve Today's Wordle - September 29 2026 Answer #1928",
+    "summary": "A helpful guide for solving the daily Wordle puzzle, providing the answer to the specific challenge on September 29, 2026.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/wordle-nyt-answer-hints-solution-september-29-2026/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/06/a-wordle-that-says-answers-and-hints.jpg",
+    "published_at": "2026-09-28T10:00:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8fc0cc7acd1b",
+    "slug": "seven-xbox-games-are-out-today-including-early-access-to-the-danger-zo",
+    "headline": "Seven Xbox Games Are Out Today, Including Early Access To The Danger Zone (September 28)",
+    "summary": "Who ordered the Deluxe Edition? Anyone? As we enter into a fresh new week, we're back with another daily fix of new games launching on Xbox today! It's a bit of an odd one, as the main attractions are all primarily deluxe or special editions that provide an Early Access window. In any case, we've got a couple of boppers…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/seven-xbox-games-are-out-today-including-early-access-to-the-danger-zone-september-28"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/1e78d66e44dd5/large.jpg",
+    "published_at": "2026-09-28T10:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9d6394227588",
+    "slug": "baldurs-gate-3-console-version-gets-cheat-menu",
+    "headline": "Baldur's Gate 3 Console Version Gets Cheat Menu",
+    "summary": "Larian Studios has added a cheat menu to the console version of Baldur's Gate 3, allowing players to tweak game settings and playstyles.",
+    "category": "patches",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/baldurs-gate-3-console-version-just-got-way-easier-to-cheat/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/11/untitled-design-40.png",
+    "published_at": "2026-09-28T09:54:55.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "baldurs-gate-3",
+    "game_label": "Baldur's Gate 3"
+  },
+  {
+    "id": "266a63e7efaa",
+    "slug": "paradox-bans-discord-profile-pics-of-historical-figures-born-after-180",
+    "headline": "Paradox Bans Discord Profile Pics of Historical Figures Born After 1800",
+    "summary": "Paradox Interactive has banned Discord profile pictures of historical figures born after 1800 in Hearts of Iron 4 after a moderator's mistake sparked controversy",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/we-clearly-handled-that-responsibility-poorly-paradox-ban-discord-profile-pics-of-historical-figures-born-after-1800-after-bust-up-with-hearts-of-iron-4-players-over-ataturk-banning"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/mustafa-kemal-ataturk.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-28T09:34:25.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "hearts-of-iron-4",
+    "game_label": "Hearts of Iron 4"
+  },
+  {
+    "id": "57cac069e8aa",
+    "slug": "78-year-old-fortnite-streaming-grandmother-sets-world-record",
+    "headline": "78-Year-Old Fortnite Streaming Grandmother Sets World Record",
+    "summary": "A 78-year-old grandmother has broken the record for the oldest person to stream on Fortnite, showcasing her gaming skills and dedication to the community.",
+    "category": "esports",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/78-year-old-fortnite-streaming-grandmother-now-holds-a-world-record"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/28/cath-bowie-gamer-gran-header-1790587782339.jpg",
+    "published_at": "2026-09-28T09:33:54.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fortnite",
+    "game_label": "Fortnite"
+  },
+  {
+    "id": "f728aa146a8f",
+    "slug": "where-to-preorder-magic-the-gatherings-reality-fracture-expansion",
+    "headline": "Where to Preorder Magic: The Gathering's Reality Fracture Expansion",
+    "summary": "Magic: The Gathering's Reality Fracture expansion is launching this week, and a guide is available for preordering booster packs, commander precons, bundles, and sold-out collector boosters.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/magic-the-gathering-reality-fracture-where-to-buy"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/28/reality-fracture-where-to-buy-ign-1790588669382.png",
+    "published_at": "2026-09-28T09:20:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "magic-the-gathering-reality-fracture",
+    "game_label": "Magic: The Gathering Reality Fracture"
+  },
+  {
     "id": "321ff6f7f6fb",
     "slug": "microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-mo",
     "headline": "Microsoft boss Nadella says Xbox has to invent \"sustainable business model\"",
@@ -17,6 +632,33 @@
     "image_url": "https://assetsio.gnwcdn.com/Satya_Nadella.jpeg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-09-28T09:05:32.000Z",
     "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c968c6c8cf8c",
+    "slug": "video-game-release-dates-2026-new-games-coming-in-october-november-dec",
+    "headline": "Video Game Release Dates 2026: New Games Coming in October, November & December",
+    "summary": "The end of 2026 is expected to see new game releases, but exact dates have yet to be confirmed.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/c968c6c8cf8c/800/600",
+    "published_at": "2026-09-28T09:00:27.000Z",
+    "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -155,29 +797,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "6dd84f37267a",
-    "slug": "psa-the-witcher-3-remastered-file-size-and-release-time-confirmed-sepa",
-    "headline": "PSA: The Witcher 3 Remastered File Size And Release Time Confirmed, Separate Purchase Required",
-    "summary": "The Witcher 3: Wild Hunt - Remastered is coming to Switch, launching on September 29, 2026, and will be free for existing Switch owners. However, this version will require a separate purchase for PS5 and Xbox Series X/S owners.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/psa-the-witcher-3-remastered-file-size-and-release-time-confirmed-separate-purchase-required"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/c21b4b4c6de57/large.jpg",
-    "published_at": "2026-09-28T08:00:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-witcher-3-wild-hunt-remastered",
-    "game_label": "The Witcher 3: Wild Hunt - Remastered"
   },
   {
     "id": "b97de72b82ba",
@@ -4034,589 +4653,6 @@
     ],
     "image_url": "https://cdn.mos.cms.futurecdn.net/EacnnGxHdaSRqxmso9vrwC-1920-80.jpg",
     "published_at": "2026-09-26T10:43:02.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3769cdb76132",
-    "slug": "unlocking-the-thunderstorm-scorchhowl-in-aniimo-a-guide",
-    "headline": "Unlocking the Thunderstorm Scorchhowl in Aniimo: A Guide",
-    "summary": "A guide to unlocking the rare Thunderstorm Scorchhowl form in the game Aniimo, including tips and strategies for players.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/thunderstorm-scorchhowl-aniimo-location/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/thunderstorm-scorchhowl-aniimo.png",
-    "published_at": "2026-09-26T10:22:37.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "aniimo",
-    "game_label": "Aniimo"
-  },
-  {
-    "id": "531dac1067b1",
-    "slug": "us-court-orders-redditor-to-pay-nintendo-34m-over-switch-piracy",
-    "headline": "US court orders Redditor to pay Nintendo £3.4m over Switch piracy",
-    "summary": "A US District Judge has granted Nintendo a £3.4 million ($4.5m) default judgment against James Williams, the former Reddit moderator known online as \"Archbox\", after he failed to respond to a lawsuit over alleged Nintendo Switch piracy.\n Read more",
-    "category": "industry",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/nintendo-archbox-reddit-switch-piracy-3-4-million"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Mario-looks-shocked-on-a-grassy-plain-in-Mario-Odyssey.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-26T10:18:58.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4205067cbd7a",
-    "slug": "microsoft-ceo-satya-nadella-officially-comments-on-xbox-layoffs",
-    "headline": "Microsoft CEO Satya Nadella Officially Comments On Xbox Layoffs",
-    "summary": "Satya Nadella doesn't have any words of assurance for those laid off. Instead, he says the \"streamlining\" is \"great to see.\"",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/microsoft-ceo-comments-xbox-layoffs/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/xbox-game-pass-key-art-from-microsoft.jpg",
-    "published_at": "2026-09-26T09:50:30.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9d4b3c57060e",
-    "slug": "delta-force-celebrates-its-second-anniversary-with-new-season-reorient",
-    "headline": "Delta Force Celebrates Its Second Anniversary with New Season Reorientation",
-    "summary": "Popular battle royale game Delta Force is celebrating its second anniversary with the introduction of a new season, bringing changes to the game's gameplay and competitive scene.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/24/anniversary-key-visual-1790261161812.jpg",
-    "published_at": "2026-09-26T09:30:00.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "delta-force",
-    "game_label": "Delta Force"
-  },
-  {
-    "id": "d0f17ebc533a",
-    "slug": "feature-delta-force-celebrates-its-second-anniversary-with-new-season",
-    "headline": "Feature: Delta Force Celebrates Its Second Anniversary with New Season Reorientation",
-    "summary": "Gameplay tweaks, new maps, modes and even more content are coming to Delta Force. Delta Force’s mission has always been to incorporate player feedback to create the best experience possible for its players. As Delta Force players prepare for the free-to-play first-person tactical shooter’s second anniversary, the developers at Team Jade have been hard at work, listening to two years…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/features/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/aa867a028ef34/large.jpg",
-    "published_at": "2026-09-26T09:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "52e121827d4e",
-    "slug": "dropout-ceo-sam-reich-on-rueltte-and-spinoffs",
-    "headline": "Dropout CEO Sam Reich on Rueltte and Spinoffs",
-    "summary": "Polygon talks to Sam Reich about his game development decisions and the potential for Rueltte spinoffs",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/dropout-game-changer-sam-reich-interview-rulette-2026/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/game-changer-s8-rulette-2.jpg",
-    "published_at": "2026-09-26T08:00:14.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "rueltte",
-    "game_label": "Rueltte"
-  },
-  {
-    "id": "2ceddf4dcdbd",
-    "slug": "gamesir-tarantula-8k-review-responds-to-every-twitchy-movement-and-ins",
-    "headline": "GameSir Tarantula 8K review: 'Responds to every twitchy movement and instinctive press'",
-    "summary": "GamesRadar+ reviews the GameSir Tarantula 8K controller, praising its responsive feel and accuracy, but ponders whether its upgraded features are worth the upgrade from the original.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/gaming-controllers/gamesir-tarantula-8k-review/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/RmewfBace3zR44pmPWJQeW-1920-80.jpg",
-    "published_at": "2026-09-26T08:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gamesir-tarantula-8k",
-    "game_label": "GameSir Tarantula 8K"
-  },
-  {
-    "id": "c385477d77d1",
-    "slug": "what-weve-been-playing-i-curl-up-on-my-sofa-and-breed-my-army-of-battl",
-    "headline": "What we've been playing - \"I curl up on my sofa and breed my army of battle cats\"",
-    "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Bertie's still pretending to be a vampire, Kelsey's been breeding an army of cats, Mat's been melting mounted warriors, Marie's been a willing accomplice, and Connor's been smitten all over again.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/what-weve-been-playing-i-curl-up-on-my-sofa-and-breed-my-army-of-battle-cats"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/battle-cats-what-we've-been-playing.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-26T07:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3d54732b220d",
-    "slug": "marvels-wolverine-dev-adds-option-to-turn-off-controversial-scent-trai",
-    "headline": "Marvel's Wolverine Dev Adds Option to Turn Off Controversial Scent Trails and More in New Update",
-    "summary": "Insomniac Games has published a new Marvel's Wolverine update that adds an option to turn off those controversial scent trails for collectibles.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/marvels-wolverine-dev-adds-option-to-turn-off-controversial-scent-trails-and-more-in-new-update"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/26/marvels-wolverine-scent-trail-toggle-1790404061181.png",
-    "published_at": "2026-09-26T06:42:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c478337180ff",
-    "slug": "best-tactical-rpgs-with-deep-character-customization-ranked",
-    "headline": "Best Tactical RPGs With Deep Character Customization, Ranked",
-    "summary": "Those who love to customize their characters to be just the way they like are in for something special in these tactical RPGs.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/best-tactical-rpgs-deep-character-customization-ranked/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/12/best-tactical-rpgs.jpg",
-    "published_at": "2026-09-26T06:35:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1647673b6179",
-    "slug": "clash-royale-final-exam-answers",
-    "headline": "Clash Royale Final Exam Answers",
-    "summary": "A guide providing answers to the ClashRoom Final Exam to help players unlock the Hero Ice Wizard emote in Clash Royale.",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/clash-royale-clashroom-quiz-final-exam-test-answers-minion-ice/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/clashroom-test-final-exam-clash-royale-4.jpg",
-    "published_at": "2026-09-26T03:33:36.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "clash-royale",
-    "game_label": "Clash Royale"
-  },
-  {
-    "id": "fcdb03ba8f31",
-    "slug": "sony-reportedly-surveying-developers-about-the-end-of-playstation-disc",
-    "headline": "Sony Reportedly Surveying Developers About the End of PlayStation Disc Production",
-    "summary": "Sony is reportedly talking to game developers about the company's plan to stop producing discs for new games as player backlash continues.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/sony-playstation-physical-discs-developer-survey/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/playstation-5-digital-edition-console-controller.jpg",
-    "published_at": "2026-09-26T02:47:09.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "519bf90e4844",
-    "slug": "drop-everything-and-grab-the-popcorn-majuulars-45-hour-documentary-on",
-    "headline": "Drop everything and grab the popcorn: Majuular's 4.5-hour documentary on Ultima Online is here to devour your weekend",
-    "summary": "PC Gamer showcases a 4.5-hour documentary on Ultima Online, a classic MMORPG, that promises to be an entertaining and informative watch for fans of the game.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/rpg/drop-everything-and-grab-the-popcorn-majuulars-4-5-hour-documentary-on-ultima-online-is-here-to-devour-your-weekend/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/7cnZSrFQkr8zZb8bDQGUXU-1920-80.jpg",
-    "published_at": "2026-09-26T02:08:31.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "ultima-online",
-    "game_label": "Ultima Online"
-  },
-  {
-    "id": "7a9ffe1f4d32",
-    "slug": "splatoon-3-confirms-brand-new-splatfest-event-coming-in-october",
-    "headline": "Splatoon 3 Confirms Brand-New Splatfest Event Coming in October",
-    "summary": "Splatoon 3 fans should start warming up in Turf War, as a new Splatfest event is announced for the game, which will arrive in October.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/splatoon-3-splatfest-october-2026-spooky/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/splatoon-3-confirms-brand-new-splatfest-event-coming-in-october-gamerant-feature.jpg",
-    "published_at": "2026-09-26T02:00:23.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d4898f54ee63",
-    "slug": "thriller-novel-offers-another-twist-after-se7en",
-    "headline": "Thriller Novel Offers Another Twist After Se7en",
-    "summary": "A new novel shares similarities with Se7en, but with a unique twist, promising fans of the David Fincher classic",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/the-poet-thriller-book-perfect-se7en-fans/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/untitled-1600-x-900-px-2.jpg",
-    "published_at": "2026-09-26T02:00:23.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9c8a517fe990",
-    "slug": "professor-layton-and-the-new-world-of-steam-tgs-2026-demo-gameplay",
-    "headline": "Professor Layton and the New World of Steam TGS 2026 demo gameplay",
-    "summary": "LEVEL-5 has released a full playthrough of the Tokyo Game Show 2026 demo for puzzle …",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/professor-layton-and-the-new-world-of-steam-tgs-2026-demo-gameplay"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/9c8a517fe990/800/600",
-    "published_at": "2026-09-26T01:59:04.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b5211b68a8b9",
-    "slug": "holy-horror-mansion-tgs-2026-demo-gameplay-released-by-level-5",
-    "headline": "Holy Horror Mansion TGS 2026 Demo Gameplay Released by Level-5",
-    "summary": "Level-5 has shared a full playthrough of the Tokyo Game Show 2026 demo for a new game, dubbed Holy Horror Mansion. Details about the game are scarce, but the demo offers a glimpse into its gameplay mechanics.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/holy-horror-mansion-tgs-2026-demo-gameplay"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/b5211b68a8b9/800/600",
-    "published_at": "2026-09-26T01:58:01.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "holy-horror-mansion",
-    "game_label": "Holy Horror Mansion"
-  },
-  {
-    "id": "782abe6524a4",
-    "slug": "lemonade-tgs-2026-demo-gameplay",
-    "headline": "LEMONADE TGS 2026 Demo Gameplay",
-    "summary": "LEVEL-5 has shared a full playthrough of the Tokyo Game Show 2026 demo for the upcoming game LEMONADE.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/decapolice-tgs-2026-demo-gameplay"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/782abe6524a4/800/600",
-    "published_at": "2026-09-26T01:57:24.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "lemonade",
-    "game_label": "LEMONADE"
-  },
-  {
-    "id": "cae01658f4c1",
-    "slug": "snack-world-reloaded-tgs-2026-demo-gameplay",
-    "headline": "Snack World: Reloaded TGS 2026 demo gameplay",
-    "summary": "LEVEL-5 has released a full playthrough of the Tokyo Game Show 2026 demo for action …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/snack-world-reloaded-tgs-2026-demo-gameplay"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/cae01658f4c1/800/600",
-    "published_at": "2026-09-26T01:56:36.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "92c11e72ff21",
-    "slug": "a-closer-look-at-ganondorf-in-zelda-ocarina-of-time",
-    "headline": "A Closer Look at Ganondorf in Zelda: Ocarina of Time",
-    "summary": "Nintendo shares an extended clip featuring Ganondorf from The Legend of Zelda: Ocarina of Time on Switch, with a new trailer already released for the game.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/and-now-an-evil-has-appeared-nintendo-releases-extended-zelda-ocarina-of-time-switch-2-clip"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/60dda0d0c3352/large.jpg",
-    "published_at": "2026-09-26T01:55:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-legend-of-zelda-ocarina-of-time",
-    "game_label": "The Legend of Zelda: Ocarina of Time"
-  },
-  {
-    "id": "d1a53fc3ae45",
-    "slug": "video-digital-foundry-delivers-its-tech-analysis-of-fire-emblem-fortun",
-    "headline": "Video: Digital Foundry Delivers Its Tech Analysis Of Fire Emblem: Fortune's Weave",
-    "summary": "Fire Emblem's dedicated Switch 2 release is here. Intelligent Systems' turn-based tactical RPG Fire Emblem: Fortune's Weave launched on Switch 2 last week and Digital Foundry has now taken a quick look at how it performs on Nintendo's new hybrid system. The new entry runs at a \"locked\" 30fps. Although this falls short of other first-party titles on Switch 2…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/video-digital-foundry-delivers-its-tech-analysis-of-fire-emblem-fortunes-weave"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/a088109578477/large.jpg",
-    "published_at": "2026-09-26T00:55:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3a94ecefe9ce",
-    "slug": "forgotten-ps2-games-that-would-be-perfect-candidates-for-a-modern-rema",
-    "headline": "Forgotten PS2 Games That Would Be Perfect Candidates For A Modern Remake, Ranked",
-    "summary": "Several PS2 games are being considered for a remake due to their unique gameplay mechanics and nostalgic value.",
-    "category": "deals",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/forgotten-playstation-ps2-games-perfect-candidates-for-modern-remake-ranked/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/resident-evil-outbreak-ps2-games-that-deserve-a-remake.jpg",
-    "published_at": "2026-09-26T00:45:13.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2bb46040c00b",
-    "slug": "how-to-play-the-silent-hill-games-in-order",
-    "headline": "How to Play the Silent Hill Games in Order",
-    "summary": "This article provides a guide on how to play the Silent Hill games in the correct order, including remakes and remasters, to get the most out of the series.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/silent-hill-games-in-order"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2025/09/26/shranked-blog-1758871057647.jpg",
-    "published_at": "2026-09-26T00:45:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "silent-hill",
-    "game_label": "Silent Hill"
-  },
-  {
-    "id": "90b903869f1e",
-    "slug": "magic-the-gathering-manga-spinoff-time-shift-release-date-announced",
-    "headline": "Magic: The Gathering Manga Spinoff 'Time Shift' Release Date Announced",
-    "summary": "A new Magic: The Gathering manga series titled 'Time Shift' is coming, although no official translations of the current series have been released yet.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/magic-the-gathering-mtg-time-shift-manga-announcement/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/destroy-all-humans-magic-the-gathering-manga.jpg",
-    "published_at": "2026-09-26T00:17:31.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "magic-the-gathering-manga",
-    "game_label": "Magic: The Gathering Manga"
-  },
-  {
-    "id": "24cf78aa699e",
-    "slug": "guide-all-ps-plus-games-available-now",
-    "headline": "Guide: All PS Plus Games Available Now",
-    "summary": "Every PS Plus game, updated in one place. We’re tracking every PS Plus game available now, so you always know exactly what’s included in your tier of Sony’s subscription service. This page lists all current PS Plus Essential, PS Plus Extra, and PS Plus Premium games across PS5 and PS4, alongside upcoming additions and confirmed expiry dates – so you…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/guides/all-ps-plus-games-available-now"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/82a68dc7ca28d/large.jpg",
-    "published_at": "2026-09-26T00:15:00.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
