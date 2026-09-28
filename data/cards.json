@@ -1,5 +1,279 @@
 [
   {
+    "id": "c4cd173ab8cc",
+    "slug": "toem-2-the-kotaku-review",
+    "headline": "TOEM 2: The Kotaku Review",
+    "summary": "Kotaku reviewer dives into the mysteries of TOEM 2, a game that seems to show more than it says, using a pinhole camera as a metaphor. Review to follow.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/toem-2-the-kotaku-review-2000737082"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/TOEM-6-1-1280x720.jpg",
+    "published_at": "2026-09-28T13:00:56.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "toem-2",
+    "game_label": "TOEM 2"
+  },
+  {
+    "id": "7170c65a8db5",
+    "slug": "minecraft-dungeons-2-goes-from-good-baby-diablo-to-great-junior-diablo",
+    "headline": "Minecraft Dungeons 2 Goes from Good Baby Diablo to Great Junior Diablo",
+    "summary": "Xbox and Mojang's sequel to the Minecraft dungeon-crawler enhances the original's simple action-RPG formula without overcomplicating it",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/minecraft-dungeons-2-review-impressions/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/assets_2026_08_1787161536_dungeons-ii-gameplay-shot-4.png",
+    "published_at": "2026-09-28T13:00:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "08b45584fae8",
+    "slug": "toem-2-is-somehow-even-more-perfect-than-toem",
+    "headline": "Toem 2 Is Somehow Even More Perfect Than Toem",
+    "summary": "Polygon praises Toem 2 as a sequel that improves upon its predecessor's formula with no significant flaws, making it the perfect game.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/toem-2-review/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/toem-2-goats.jpg",
+    "published_at": "2026-09-28T13:00:15.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "toem",
+    "game_label": "Toem"
+  },
+  {
+    "id": "8321c21f6df1",
+    "slug": "when-to-start-hearts-of-stone-in-the-witcher-3-hearts-of-stone",
+    "headline": "When to Start Hearts of Stone in The Witcher 3: Hearts of Stone",
+    "summary": "Game Rant advises on the best time to start The Witcher 3: Hearts of Stone, including recommended level and location.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/witcher-3-hearts-of-stone-dlc-when-how-start/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/witcher-3-hearts-of-stone-olgerd.jpg",
+    "published_at": "2026-09-28T13:00:13.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-hearts-of-stone",
+    "game_label": "The Witcher 3: Hearts of Stone"
+  },
+  {
+    "id": "4f6d85a15434",
+    "slug": "minecraft-dungeons-2-review-a-passable-610-romp",
+    "headline": "Minecraft Dungeons 2 Review - A Passable 6/10 Romp",
+    "summary": "Game Rant reviews Minecraft Dungeons 2, finding it a safe but unremarkable experience that barely exceeds expectations.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/minecraft-dungeons-2-review/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/minecraft-dungeons-2-review-game-rant.jpg",
+    "published_at": "2026-09-28T13:00:13.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "minecraft-dungeons-2",
+    "game_label": "Minecraft Dungeons 2"
+  },
+  {
+    "id": "ed5bacc5a0b8",
+    "slug": "how-minecraft-dungeons-iis-interconnected-world-makes-every-journey-an",
+    "headline": "How Minecraft Dungeons II's Interconnected World Makes Every Journey an Adventure",
+    "summary": "Minecraft Dungeons II offers a revamped ARPG experience with an interconnected world, launching September 29. The game's world is designed to encourage exploration and make every journey feel like an adventure.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/09/28/how-minecraft-dungeons-iis-interconnected-world-makes-every-journey-an-adventure/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/ed5bacc5a0b8/800/600",
+    "published_at": "2026-09-28T13:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "minecraft-dungeons-ii",
+    "game_label": "Minecraft Dungeons II"
+  },
+  {
+    "id": "569298e349d8",
+    "slug": "forgotten-dragon-ball-masterpiece-games-nobody-played",
+    "headline": "Forgotten Dragon Ball Masterpiece Games Nobody Played",
+    "summary": "Dragon Ball games extend far beyond Budokai, Xenoverse, and FighterZ, although some near-perfect titles never got their moment in the sun.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/dragon-ball-games-perfect-masterpieces-nobody-played/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/forgotten-dragon-ball-games-great-vegeta-over-super-dbz.jpg",
+    "published_at": "2026-09-28T12:51:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3791fdb59686",
+    "slug": "the-witcher-3-remastered-gameplay-on-xbox-series-xs",
+    "headline": "The Witcher 3 Remastered Gameplay on Xbox Series X|S",
+    "summary": "Xbox Series X and Series S players will receive a remastered version of The Witcher 3 on September 29th, with early gameplay footage shared by Fuzion Xbox Testing on YouTube.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/heres-what-the-witcher-3-remastered-looks-like-on-xbox-series-xs"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/26d06debf9063/large.jpg",
+    "published_at": "2026-09-28T12:46:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
+    "id": "d6e062c844d1",
+    "slug": "how-to-get-stellarys-in-aniimo",
+    "headline": "How to Get Stellarys in Aniimo",
+    "summary": "Discover locations and strategies for capturing Stellarys in Aniimo, a popular video game. Players can find tips and tricks to increase their chances of success.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/aniimo-how-to-get-stellarys-alpha-location/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/aniimo-how-to-get-stellarys.jpg",
+    "published_at": "2026-09-28T12:42:50.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "aniimo",
+    "game_label": "Aniimo"
+  },
+  {
+    "id": "289740280abd",
+    "slug": "hellraiser-revivals-mature-content-isnt-to-blame-for-player-deaths",
+    "headline": "Hellraiser: Revival's Mature Content Isn't to Blame for Player Deaths",
+    "summary": "Clive Barker's new horror game is facing backlash over player deaths, but the developer argues the game's mature content isn't the reason.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/we-didnt-want-to-demonise-fetish-or-bdsm-people-arent-dying-in-horror-game-clive-barkers-hellraiser-revival-because-of-what-they-do-in-the-bedroom"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/clive-barker's-hellraiser-revival-entry.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-28T12:40:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "clive-barkers-hellraiser-revival",
+    "game_label": "Clive Barker's Hellraiser: Revival"
+  },
+  {
+    "id": "5c2a28e99a20",
+    "slug": "god-of-war-laufey-pre-orders-live",
+    "headline": "God of War Laufey Pre-Orders Live",
+    "summary": "God of War Laufey pre-orders start on September 29 for a February 2027 release on PS5, with bonus content and Digital Deluxe Editions available",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/09/28/god-of-war-laufey-pre-orders-available-starting-september-29-editions-detailed/"
+      },
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/god-of-war-laufey-preorders-go-live-september-29-heres-what-each-edition-includes/"
+      }
+    ],
+    "image_url": "https://blog.playstation.com/uploads/2026/09/254eb34604b011e523c806c3e4b59fc8bc82ba3e.mp4",
+    "published_at": "2026-09-28T12:31:44.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "god-of-war-laufey",
+    "game_label": "God of War Laufey"
+  },
+  {
     "id": "5bbef21555af",
     "slug": "happy-wheels-now-live-on-steam",
     "headline": "Happy Wheels Now Live on Steam",
@@ -90,29 +364,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "5c2a28e99a20",
-    "slug": "god-of-war-laufey-pre-orders-live",
-    "headline": "God of War Laufey Pre-Orders Live",
-    "summary": "God of War Laufey pre-orders start on September 29 for a February 2027 release on PS5, with bonus content and Digital Deluxe Editions available",
-    "category": "deals",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "PlayStation Blog",
-        "url": "https://blog.playstation.com/2026/09/28/god-of-war-laufey-pre-orders-available-starting-september-29-editions-detailed/"
-      }
-    ],
-    "image_url": "https://blog.playstation.com/uploads/2026/09/254eb34604b011e523c806c3e4b59fc8bc82ba3e.mp4",
-    "published_at": "2026-09-28T12:00:14.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "god-of-war-laufey",
-    "game_label": "God of War Laufey"
   },
   {
     "id": "8011dfe133fc",
@@ -871,6 +1122,27 @@
     "image_url": "https://images.purexbox.com/1e78d66e44dd5/large.jpg",
     "published_at": "2026-09-28T10:00:00.000Z",
     "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3d36400ebd10",
+    "slug": "avengers-endgame-to-overtake-avatar-as-highest-grossing-movie",
+    "headline": "Avengers: Endgame to Overtake Avatar as Highest-Grossing Movie",
+    "summary": "Avengers: Endgame is expected to surpass Avatar's box office record in the near future, thanks to strong Encore performances",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-endgame-will-overtake-avatar-as-the-highest-grossing-movie-very-soon-after-encores-bumper-box-office-numbers/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/8aZAJQ6GRkCArLdinmGAh8-1920-80.jpg",
+    "published_at": "2026-09-28T09:59:49.000Z",
+    "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4403,257 +4675,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "fe8c977a6bcb",
-    "slug": "poll-what-do-you-think-of-dune-awakening-on-xbox-game-pass-so-far",
-    "headline": "Poll: What Do You Think Of Dune: Awakening On Xbox Game Pass So Far?",
-    "summary": "Is it a certified banger, or not really? It's been an interesting week for Xbox Game Pass! Well Dweller surprised most with its stellar review scores, and just a few days ago, Dune: Awakening finally joined the subscription service, and we're itching to hear what you make of it. I sat down with a hands-off preview of Dune: Awakening during…",
-    "category": "reviews",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/features/poll-what-do-you-think-of-dune-awakening-on-xbox-game-pass-so-far"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/80713d1b0309a/large.jpg",
-    "published_at": "2026-09-26T15:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9f5ff1895400",
-    "slug": "minecraft-live-september-2026-live-report-all-the-news-as-it-happens",
-    "headline": "Minecraft LIVE September 2026 Live Report — All the News as It Happens",
-    "summary": "It’s time for another Minecraft LIVE, and this one is expected to feature some big reveals as Mojang’s all-conquering sandbox game heads towards the end of 2026 and beyond. Check out out live report for everything announced.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/minecraft-live-september-2026-everything-announced"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/26/minecraftlive-live-blogroll-1790434084403.jpg",
-    "published_at": "2026-09-26T14:59:57.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2e5824b79778",
-    "slug": "after-warcraft-3s-first-new-campaign-in-23-years-lets-normalize-releas",
-    "headline": " After Warcraft 3's first new campaign in 23 years, let's normalize releasing new DLC for ancient RTS games ",
-    "summary": "Age of Empires and Blizzard's RTS offer a playbook for how to keep the nostalgia fires burning.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/rts/after-warcraft-3s-first-new-campaign-in-23-years-lets-normalize-releasing-new-dlc-for-ancient-rts-games/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/SCNkfSVXbzaAAYK7Liot2Y-1920-80.jpg",
-    "published_at": "2026-09-26T14:17:56.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "49ae77d9634b",
-    "slug": "gta-6-game-informer-official-preview-confirmed-for-september-29",
-    "headline": "GTA 6 Game Informer Official Preview Confirmed For September 29",
-    "summary": "Game Informer’s preview will reveal exclusive details about weather, wildlife, traversal, and much more.",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/gta-6-news-drop-september-29-game-informer-preview-exclusive-details/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/gta6gameinformercover.jpg",
-    "published_at": "2026-09-26T14:00:16.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ff66c755a669",
-    "slug": "control-resonant-violates-the-number-one-commandment-of-video-game-lor",
-    "headline": "Control Resonant Violates the Number One Commandment of Video Game Lore",
-    "summary": "Control Resonant is packed with intriguing worldbuilding, but its glut of lore logs go a little overboard.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/control-resonant-lore-logs/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ctrl_r_launch_4k_media_02.png",
-    "published_at": "2026-09-26T14:00:15.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0a4de4f0cfba",
-    "slug": "ghost-town-games-were-not-making-a-party-game",
-    "headline": "Ghost Town Games: We're Not Making a Party Game",
-    "summary": "Ghost Town Games, the developer of Overcooked, says they're moving away from party games and focusing on more serious projects.",
-    "category": "industry",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/features/interview-were-not-making-a-party-game-now-its-more-of-an-evening-thing-ghost-town-is-moving-on-from-overcooked"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/5aa975fd27eeb/large.jpg",
-    "published_at": "2026-09-26T14:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "ghost-town-games",
-    "game_label": "Ghost Town Games"
-  },
-  {
-    "id": "c0984586b548",
-    "slug": "guide-xbox-game-pass-all-games-coming-soon-in-october-2026",
-    "headline": "Guide: Xbox Game Pass: All Games Coming Soon In October 2026",
-    "summary": "All the confirmed reveals so far. Looking for a complete list of games coming to Xbox Game Pass in October 2026? It can be pretty difficult to keep track of all the comings and goings in the world of Xbox Game Pass every month, so we've put together this handy guide to provide an overview of what's coming to the…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/guides/xbox-game-pass-all-games-coming-soon-in-october-2026"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/80dd339537c9a/large.jpg",
-    "published_at": "2026-09-26T13:30:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3334bb868d7c",
-    "slug": "final-fantasy-7-revelation-lead-says-the-original-rpg-is-very-much-ens",
-    "headline": " Final Fantasy 7 Revelation lead says the original RPG \"is very much enshrined within the story\" ",
-    "summary": "\"That might also be a better way of doing it\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-lead-says-the-original-1997-rpg-is-very-much-enshrined-within-the-story-but-newcomers-can-still-jump-in-with-the-remake-trilogy/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/7JnWphNLrmd37bqDDuEwoP-1920-80.jpg",
-    "published_at": "2026-09-26T13:28:42.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "acd9b50cc029",
-    "slug": "gta-6-fans-recreate-400-collectors-edition-figurine-for-free",
-    "headline": "GTA 6 Fans Recreate $400 Collector's Edition Figurine for Free",
-    "summary": "Grand Theft Auto 6 fans have successfully recreated the pricey Collector's Edition figurine, originally worth $400, without spending a dime.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-collectors-edition-macca-gator-figurine-free-3d-print/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/gta-6-macca-3d-print.jpg",
-    "published_at": "2026-09-26T13:26:33.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "05f30b0da472",
-    "slug": "microsoft-ceo-praises-xboxs-streamlining-process-amid-layoffs",
-    "headline": "Microsoft CEO praises Xbox's 'streamlining' process amid layoffs",
-    "summary": "Microsoft CEO Satya Nadella expressed support for the company's efforts to 'streamline' its Xbox business, emphasizing the need to develop a new business model to expand gaming reach",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/gaming-industry/microsoft-ceo-says-xboxs-streamlining-process-is-great-to-see-following-its-most-recent-round-of-layoffs/"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/microsoft-ceo-says-streamlining-of-xbox-business-is-great-to-see/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/05f30b0da472/800/600",
-    "published_at": "2026-09-26T13:21:21.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "89f7503a14f6",
-    "slug": "how-to-claim-ubisoft-connects-free-for-honor-offer",
-    "headline": "How to Claim Ubisoft Connect's Free For Honor Offer",
-    "summary": "Ubisoft Connect is offering a free copy of For Honor to players, a decade after the game's release. This is a great opportunity to check out the game without paying a thing.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/ubisoft-free-game-offering-for-honor/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/01/news-ubisoft-logo-over-a-purple-background.jpg",
-    "published_at": "2026-09-26T13:00:16.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "for-honor",
-    "game_label": "For Honor"
   }
 ]
