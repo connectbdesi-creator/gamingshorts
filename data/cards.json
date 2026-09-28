@@ -1,5 +1,30 @@
 [
   {
+    "id": "5ab29e127547",
+    "slug": "erika-ishii-joins-forces-with-double-fine-for-upcoming-game",
+    "headline": "Erika Ishii Joins Forces with Double Fine for Upcoming Game",
+    "summary": "Double Fine's Amnesia Fortnight Kickstarter has reached $600,000, securing a starring role for Erika Ishii in the upcoming game",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/erika-ishii-double-fine-next-game-kickstarter-goal/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/new-project-2026-09-28t080302-963.jpg",
+    "published_at": "2026-09-28T07:06:22.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "amnesia-fortnight",
+    "game_label": "Amnesia Fortnight"
+  },
+  {
     "id": "a45e5671a346",
     "slug": "2024s-best-rpg-is-a-must-play-for-fire-emblem-fans",
     "headline": "2024's Best RPG Is a Must-Play for Fire Emblem Fans",
@@ -4595,30 +4620,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "a5a395320612",
-    "slug": "waltz-and-jam-unveils-new-gameplay-trailer",
-    "headline": "Waltz and Jam Unveils New Gameplay Trailer",
-    "summary": "Flyway Games has released a new trailer for their hand-drawn action-adventure platformer Waltz and Jam at the Game Devs of Color Expo Direct.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/waltz-and-jam-debuts-new-gameplay-trailer-at-game-devs-of-color-expo-direct/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a5a395320612/800/600",
-    "published_at": "2026-09-25T23:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "waltz-and-jam",
-    "game_label": "Waltz and Jam"
   }
 ]
