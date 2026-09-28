@@ -1,5 +1,305 @@
 [
   {
+    "id": "81af09ce3a6a",
+    "slug": "screenshot-for-ubisofts-canceled-project-u-leaks-online",
+    "headline": "Screenshot for Ubisoft's Canceled 'Project U' Leaks Online",
+    "summary": "Following the cancellation of Ubisoft's Project U, a new leaked image unveils further details on what the game would have looked like.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/ubisoft-project-u-screenshot-leak/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/ubisoft-icon-over-project-u-official-art-montage.jpg",
+    "published_at": "2026-09-28T17:30:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d6ef3e5b8d2d",
+    "slug": "fire-emblem-fortunes-weave-falls-to-8th-in-uk-charts",
+    "headline": "Fire Emblem: Fortune's Weave Falls to 8th in UK Charts",
+    "summary": "EA Sports FC 27 has debuted at number one in the UK charts, with the PS5 outpacing other consoles. Fire Emblem: Fortune's Weave has dropped to 8th place after the release of the new football game.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/uk-charts-fire-emblem-fortunes-weave-drops-to-number-8-as-fc-27-tops-the-podium"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/japanese-charts-fire-emblem-fortunes-weave-shifts-over-120000-physical-copies"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-legacy-legendary-sculptor-walkthrough-statue-locations/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/fire-emblem-fortunes-weave-all-fish-locations/"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-sandworm-meat-location-where-to-find/"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/8424f587c09dd/large.jpg",
+    "published_at": "2026-09-28T17:29:47.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fire-emblem-fortunes-weave",
+    "game_label": "Fire Emblem: Fortune's Weave"
+  },
+  {
+    "id": "4fc8ad0ce063",
+    "slug": "the-writer-of-the-witcher-3s-best-quest-has-returned-to-cd-projekt-aft",
+    "headline": " The writer of The Witcher 3's best quest has returned to CD Projekt after a decade away ",
+    "summary": "After stops at Techland and GSC Game World, Karolina Stachyra is back to where it all began.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/the-witcher/the-writer-of-the-witcher-3s-best-quest-has-returned-to-cd-projekt-after-a-decade-away/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/r4YEJkGdgjTDBqwW5SwbUW-1920-80.jpg",
+    "published_at": "2026-09-28T17:22:38.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a228b36735ba",
+    "slug": "heres-every-change-in-the-witcher-3-remastered",
+    "headline": "Here’s Every Change in the Witcher 3 Remastered",
+    "summary": "CD Projekt Red revealed the full list of changes in The Witcher 3 Remastered patch notes before launch.",
+    "category": "patches",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/witcher-3-remastered-rpg-full-patch-notes/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/the-witcher-3-yen-screenshot.jpg",
+    "published_at": "2026-09-28T17:22:06.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8b31057e4980",
+    "slug": "ps5-survival-horror-game-abandoned-returns-to-playstation-store",
+    "headline": "PS5 survival horror game Abandoned returns to PlayStation Store",
+    "summary": "Abandoned, a PS5 survival horror game that was initially abandoned by developer Studio Aardwolf, has been re-released on the PlayStation Store",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/survival-horror/after-5-controversial-years-ps5-survival-horror-everyone-thought-hideo-kojima-was-working-on-returns-to-the-playstation-store-with-death-stranding-references-intact/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/GsKgj8kbTnFx8VXVvS2o3F-1920-80.png",
+    "published_at": "2026-09-28T17:13:00.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "abandoned",
+    "game_label": "Abandoned"
+  },
+  {
+    "id": "4f6d85a15434",
+    "slug": "minecraft-dungeons-2-review-a-passable-610-romp",
+    "headline": "Minecraft Dungeons 2 Review - A Passable 6/10 Romp",
+    "summary": "Game Rant reviews Minecraft Dungeons 2, finding it a safe but unremarkable experience that barely exceeds expectations.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/minecraft-dungeons-2-review/"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/minecraft-dungeons-2-review"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/video/minecraft-dungeons-2-video-review/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/minecraft-dungeons-2-review-game-rant.jpg",
+    "published_at": "2026-09-28T17:07:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "minecraft-dungeons-2",
+    "game_label": "Minecraft Dungeons 2"
+  },
+  {
+    "id": "166efd2a2735",
+    "slug": "arc-raiders-devs-regret-not-adding-pve-mode",
+    "headline": "Arc Raiders' Devs Regret Not Adding PvE Mode",
+    "summary": "PC Gamer criticizes Embark's decision not to include a player versus environment mode in Arc Raiders, a game that already features a competitive PvP mode.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/third-person-shooter/embark-shouldve-implemented-a-pve-mode-into-arc-raiders-a-long-time-ago/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/t5dcUCAoakhtK9moWeExiN-1920-80.jpg",
+    "published_at": "2026-09-28T17:02:07.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "arc-raiders",
+    "game_label": "Arc Raiders"
+  },
+  {
+    "id": "02c56a0ea977",
+    "slug": "i-am-not-ready-to-start-losing-my-generation-of-pro-wrestling-icons",
+    "headline": "I Am Not Ready To Start Losing My Generation Of Pro Wrestling Icons",
+    "summary": "Writer reflects on the loss of wrestling generation icons, calling out those who aren't paying attention to the sport's decline.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/pro-wrestler-benjamin-satterley-bastard-pac-dies-2000737921"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/bastard-pac-1280x720.jpg",
+    "published_at": "2026-09-28T17:00:32.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5a51a03a3cbf",
+    "slug": "feature-okay-lets-talk-about-the-new-resident-evil-movie",
+    "headline": "Feature: Okay, Let's Talk About The New Resident Evil Movie",
+    "summary": "5/5 STARRRRRS.\nThis write-up contains FULL SPOILERS for the new Resident Evil movie, including its ending. If you don't want to find out what happens, come back later after you've seen it for yourself.\n\nI’m a little late to the party with this, but I finally saw Zach Cregger’s Resident Evil over the weekend.\nRead the full article on nintendolife.com",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/features/okay-lets-talk-about-the-new-resident-evil-movie"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/d573ffa65d948/large.jpg",
+    "published_at": "2026-09-28T17:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7eeb5b288240",
+    "slug": "sony-battles-ps5-pro-scalpers-with-60-hour-gameplay-requirement",
+    "headline": "Sony Battles PS5 Pro Scalpers with 60 Hour Gameplay Requirement",
+    "summary": "Sony is limiting PS5 Pro sales in Japan to fans with 60 hours of gameplay experience, requiring applicants to apply for a ticket to purchase the console for ¥137,980.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/sony-fighting-ps5-pro-scalpers-in-japan-with-60-hour-gameplay-requirement"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/ccc02150fda4a/large.jpg",
+    "published_at": "2026-09-28T17:00:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ps5-pro",
+    "game_label": "PS5 Pro"
+  },
+  {
+    "id": "cbc35c9c844c",
+    "slug": "xboxs-25th-anniversary-fanfest-london-event",
+    "headline": "Xbox's 25th Anniversary FanFest London Event",
+    "summary": "Xbox hosted a 25th anniversary celebration in London, inviting 500 fans for a special event, with the Pure Xbox team in attendance.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/xbox-pulled-out-all-the-stops-to-deliver-a-really-memorable-fanfest-london-event"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/35e4be3629462/large.jpg",
+    "published_at": "2026-09-28T17:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "336ff6911ac1",
+    "slug": "forest-of-deceit-why-localisation-matters-when-everyone-is-lying",
+    "headline": "Forest of Deceit: Why Localisation Matters When Everyone is Lying",
+    "summary": "The last thing you want in a game about lying is to look suspicious just because you didn’t understand what exactly was happening. Forest of Deceit, the social deduction party game created by Ghost Camp and Thomas Mackinnon (The Corridor, It Takes a War) and narrated by Sylvester McCoy (“Doctor Who”, “The Hobbit”) is now […] The post Forest of…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/09/28/forest-of-deceit-why-localisation-matters/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/336ff6911ac1/800/600",
+    "published_at": "2026-09-28T17:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "311658d36b41",
     "slug": "ubisofts-calling-its-next-push-into-gen-ai-game-development-motherbrai",
     "headline": "Ubisoft's calling its next push into gen-AI game development Motherbrain",
@@ -70,39 +370,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "d6ef3e5b8d2d",
-    "slug": "fire-emblem-fortunes-weave-falls-to-8th-in-uk-charts",
-    "headline": "Fire Emblem: Fortune's Weave Falls to 8th in UK Charts",
-    "summary": "EA Sports FC 27 has debuted at number one in the UK charts, with the PS5 outpacing other consoles. Fire Emblem: Fortune's Weave has dropped to 8th place after the release of the new football game.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/uk-charts-fire-emblem-fortunes-weave-drops-to-number-8-as-fc-27-tops-the-podium"
-      },
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/japanese-charts-fire-emblem-fortunes-weave-shifts-over-120000-physical-copies"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-legacy-legendary-sculptor-walkthrough-statue-locations/"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/8424f587c09dd/large.jpg",
-    "published_at": "2026-09-28T16:43:46.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "fire-emblem-fortunes-weave",
-    "game_label": "Fire Emblem: Fortune's Weave"
   },
   {
     "id": "0d6cce9f5f9b",
@@ -2109,36 +2376,6 @@
     "comment_count": 0,
     "game": "the-witcher-3-hearts-of-stone",
     "game_label": "The Witcher 3: Hearts of Stone"
-  },
-  {
-    "id": "4f6d85a15434",
-    "slug": "minecraft-dungeons-2-review-a-passable-610-romp",
-    "headline": "Minecraft Dungeons 2 Review - A Passable 6/10 Romp",
-    "summary": "Game Rant reviews Minecraft Dungeons 2, finding it a safe but unremarkable experience that barely exceeds expectations.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/minecraft-dungeons-2-review/"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/minecraft-dungeons-2-review"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/minecraft-dungeons-2-review-game-rant.jpg",
-    "published_at": "2026-09-28T13:00:13.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "minecraft-dungeons-2",
-    "game_label": "Minecraft Dungeons 2"
   },
   {
     "id": "d64b497ec532",
@@ -4544,235 +4781,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "9926f7734efc",
-    "slug": "avengers-endgame-encores-success-sets-the-stage-for-doomsday",
-    "headline": "Avengers: Endgame Encore's Success Sets The Stage For Doomsday",
-    "summary": "Avengers: Endgame Encore beat Resident Evil, Primetime, and Heart of the Beast in theaters this weekend",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/avengers-endgame-encore-box-office/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/steve-and-peggy-avengers-endgame.jpg",
-    "published_at": "2026-09-27T15:42:23.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c0a00388e511",
-    "slug": "the-witcher-3-console-commands",
-    "headline": "The Witcher 3 Console Commands",
-    "summary": "If you're playing The Witcher 3 on PC, then you have a bunch of useful console commands to use, including one that can turn you into Ciri!",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/witcher-3-console-commands/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/console-commands-3.jpg",
-    "published_at": "2026-09-27T15:20:16.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "57dbe977e8f7",
-    "slug": "the-witcher-3-best-cards-in-the-skellige-gwent-deck",
-    "headline": "The Witcher 3: Best Cards In The Skellige Gwent Deck",
-    "summary": "Game Rant offers suggestions for the strongest cards to include in the Skellige Gwent deck in The Witcher 3: Wild Hunt.",
-    "category": "esports",
-    "platform_tags": [
-      "pc",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/witcher-3-best-cards-skellige-gwent-deck/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/the-witcher-3-best-skellige-gwent-deck.jpg",
-    "published_at": "2026-09-27T15:00:14.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-witcher-3-wild-hunt",
-    "game_label": "The Witcher 3: Wild Hunt"
-  },
-  {
-    "id": "3c3995bf8c9c",
-    "slug": "new-life-sim-releasing-on-ps5-with-stardew-valley-vibe",
-    "headline": "New Life Sim Releasing on PS5 with Stardew Valley Vibe",
-    "summary": "A new life simulation game similar to Stardew Valley is coming to the PS5 in October, having received positive reviews on PC.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/new-ps5-life-sim-like-stardew-valley-village-in-the-shade/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/ps5-new-life-sim-like-stardew-valley-release-october-village-in-the-shade-gamerant.jpg",
-    "published_at": "2026-09-27T15:00:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "new-life-sim",
-    "game_label": "New Life Sim"
-  },
-  {
-    "id": "79554c7059bc",
-    "slug": "lords-of-the-end-times-greatest-fantasy-is-letting-us-rewrite-the-most",
-    "headline": "Lords of the End Times' greatest fantasy is letting us rewrite the most hated lore in Warhammer's history",
-    "summary": "PC Gamer discusses how a new Warhammer game is allowing fans to rework the most unpopular lore from The End Times",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/strategy/lords-of-the-end-times-greatest-fantasy-is-letting-us-rewrite-the-most-hated-lore-in-warhammers-history/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/qAquXxiW4Cah9xamfr77oP-1920-80.jpg",
-    "published_at": "2026-09-27T15:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "warhammers-end-times",
-    "game_label": "Warhammer's End Times"
-  },
-  {
-    "id": "f2dbc09cf6e4",
-    "slug": "opinion-i-played-mario-kart-tour-every-day-for-seven-years-and-what-am",
-    "headline": "Opinion: I Played Mario Kart Tour Every Day For Seven Years, And What Am I Left With?",
-    "summary": "Chequered flag. On 24th September 2019, Nintendo launched Mario Kart Tour for mobile devices. This was Mario’s second outing in mobile gaming, following 2016’s Super Mario Run, which had an impressive initial reception but seemingly failed to generate much revenue (compared with other big mobile games, including Nintendo’s own Fire Emblem Heroes). Mario Kart Tour aimed to change that, built…",
-    "category": "releases",
-    "platform_tags": [
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/features/opinion-i-played-mario-kart-tour-every-day-for-seven-years-and-what-am-i-left-with"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/8f61343e9569b/large.jpg",
-    "published_at": "2026-09-27T15:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "33ddd205af88",
-    "slug": "two-xbox-games-are-shutting-down-their-servers-across-october-november",
-    "headline": "Two Xbox Games Are Shutting Down Their Servers Across October & November 2026",
-    "summary": "1 of them for ALL Xbox consoles, and 1 just for the Xbox One. As we rapidly approach the month of October, we've got some server shutdowns on Xbox to talk about! Fortunately though, it's a very small list as things stand, with just two games set to be affected across October and November. The big one for all Xbox…",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/two-xbox-games-are-shutting-down-their-servers-across-october-and-november-2026"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/4c215ce2a6f67/large.jpg",
-    "published_at": "2026-09-27T15:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3b3a38413e59",
-    "slug": "double-fine-announces-thank-you-bus-driver-release-date",
-    "headline": "Double Fine Announces Thank You Bus Driver Release Date",
-    "summary": "Described as Crazy Taxi meets Papers, Please!, Double Fine's first post-Xbox game is out in just over two weeks.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/double-fine-thank-you-bus-driver-release-date/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/thank-you-bus-driver-player-stretching-their-arm-to-the-back-of-the-bus.jpg",
-    "published_at": "2026-09-27T14:49:36.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e902e0d683a0",
-    "slug": "the-real-budget-of-hideo-kojimas-physint-remains-a-mystery",
-    "headline": "The Real Budget Of Hideo Kojima's Physint Remains A Mystery",
-    "summary": "Polygon investigates Kojima Productions' Physint, a game reportedly on the way to Xbox, and its rumored budget, which may be lower than initially thought.",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/physint-budget-controversy/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/physint.jpg",
-    "published_at": "2026-09-27T14:43:45.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "physint",
-    "game_label": "Physint"
-  },
-  {
-    "id": "0bb801d9d866",
-    "slug": "xbox-reportedly-pays-tiny-fraction-of-kojimas-physint-budget",
-    "headline": "Xbox reportedly pays tiny fraction of Kojima's Physint budget",
-    "summary": "Xbox is paying significantly less than the initially reported $400 million for Hideo Kojima's Physint, according to multiple outlets.",
-    "category": "deals",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/xbox-kojima-physint-budget-fraction-400-million"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/physint-skasgard.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-27T14:25:52.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "physint",
-    "game_label": "Physint"
   }
 ]

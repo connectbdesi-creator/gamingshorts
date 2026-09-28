@@ -16914,5 +16914,32 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-28T16:36:50.977Z"
+  },
+  {
+    "slug": "abandoned",
+    "name": "Abandoned",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/605/6059a513427a690f469d57f0821cd4fe.jpg",
+    "released": "2018-12-28",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "Indie",
+      "Action"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f3f/f3f6a0f427fae238f15edd18b7a39bf1.jpg",
+      "https://media.rawg.io/media/screenshots/117/117f6a72a2d41bd485345909c288340f.jpg",
+      "https://media.rawg.io/media/screenshots/b0a/b0abf7b0f99d5995a8d1b798799c0c49.jpg",
+      "https://media.rawg.io/media/screenshots/8c9/8c90b911acfdee9dab92640968a046c1.jpg",
+      "https://media.rawg.io/media/screenshots/5ce/5ceb6dad889951d93c099678b2e11261.jpg",
+      "https://media.rawg.io/media/screenshots/605/6059a513427a690f469d57f0821cd4fe.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-28T17:36:40.482Z"
   }
 ]
