@@ -16993,5 +16993,84 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-28T21:38:04.716Z"
+  },
+  {
+    "slug": "the-last-of-us-part-3",
+    "name": "The Last of Us Part II",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/909/909974d1c7863c2027241e265fe7011f.jpg",
+    "released": "2020-06-19",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PlayStation 5",
+      "PlayStation 4"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/5a8/5a8f06949b0264aa27374d3f005a2842.jpg",
+      "https://media.rawg.io/media/screenshots/160/1603055e1fc4fbbea395809242d23c67_CDpXDx3.jpg",
+      "https://media.rawg.io/media/screenshots/e9c/e9cfbbc7821827e04c890ecf087c246c.jpg",
+      "https://media.rawg.io/media/screenshots/e58/e58f17219570ca451356f6eec746e697.jpg",
+      "https://media.rawg.io/media/screenshots/02a/02aede3e5e6738e37ff1240c1c2fcee8.jpg",
+      "https://media.rawg.io/media/screenshots/5ea/5ea913f25ebb5454571e8d92deddebcc.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-29T11:38:20.954Z"
+  },
+  {
+    "slug": "the-elder-scrolls-5-skyrim",
+    "name": "The Elder Scrolls V: Skyrim",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg",
+    "released": "2011-11-11",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/3bd/3bd2710bd1ffb6664fdea7b83afd067e.jpg",
+      "https://media.rawg.io/media/screenshots/d4e/d4e9b13f54748584ccbd6f998094dade.jpg",
+      "https://media.rawg.io/media/screenshots/599/59946a630e9c7871003763d63184404a.jpg",
+      "https://media.rawg.io/media/screenshots/c5d/c5dad426038d7d12f933eedbeab48ff3.jpg",
+      "https://media.rawg.io/media/screenshots/b32/b326fa01c82db82edd41ed299886ee44.jpg",
+      "https://media.rawg.io/media/screenshots/091/091e95b49d5a22de036698fc731395a2.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-29T11:38:21.626Z"
+  },
+  {
+    "slug": "sonic",
+    "name": "SONIC",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/f84/f84eff0df81802ee885018eb4395e352.jpg",
+    "released": "2019-04-13",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f84/f84eff0df81802ee885018eb4395e352.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-29T11:38:22.648Z"
   }
 ]
