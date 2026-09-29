@@ -17219,5 +17219,63 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-29T15:38:26.490Z"
+  },
+  {
+    "slug": "lightyear-frontier",
+    "name": "Lightyear Frontier",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/997/997d5c1f1a0c9f7b508ace8f1218f845.jpg",
+    "released": "2024-03-19",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "Casual",
+      "Simulation",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f66/f660605ddb7e0f1a9dc3b1e95079fb68.jpg",
+      "https://media.rawg.io/media/screenshots/128/128b10ada44ba4cc4f739ca8d430b436.jpg",
+      "https://media.rawg.io/media/screenshots/049/0497833883fa4dd057a7a1a1485752da.jpg",
+      "https://media.rawg.io/media/screenshots/3f7/3f70cea8f20e002b03464d8d29d8a4e9.jpg",
+      "https://media.rawg.io/media/screenshots/cf2/cf24a09c4d20723b073de7e034f2755f.jpg",
+      "https://media.rawg.io/media/screenshots/209/20990018f34716184ff204dc4914e251.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-29T17:38:41.123Z"
+  },
+  {
+    "slug": "the-precinct",
+    "name": "The Precinct",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/5c4/5c45b0255e1bc2b89c44b114278a6891.jpg",
+    "released": "2025-05-13",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "Arcade",
+      "Simulation",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/471/47181be2090d55e22bb5a728c6913e00.jpg",
+      "https://media.rawg.io/media/screenshots/8f5/8f5066a9c26d170d94ccd6e8e6d61e24.jpg",
+      "https://media.rawg.io/media/screenshots/93e/93e2e0505145a585e28e72dd0de0532a.jpg",
+      "https://media.rawg.io/media/screenshots/27e/27eaa64713c3f258c13a585e8b2e99d6.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-29T17:38:43.425Z"
   }
 ]
