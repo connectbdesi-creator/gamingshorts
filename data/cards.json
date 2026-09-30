@@ -1,5 +1,128 @@
 [
   {
+    "id": "a2ebe86577fb",
+    "slug": "try-these-two-things-to-fix-witcher-3-remastered-performance-on-pc",
+    "headline": "Try These Two Things To Fix Witcher 3 Remastered Performance On PC",
+    "summary": "A settings tweak and new mod can make the game run much better",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/try-these-two-things-to-fix-witcher-3-remastered-performance-on-pc-2000738713"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/ss_f62c314f6695b6e2b4dc2e0c94101482c9edf6ac.1920x1080-1280x720.jpg",
+    "published_at": "2026-09-30T19:00:01.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b4912b595f31",
+    "slug": "xbox-is-not-for-sale-says-ceo-despite-rumors",
+    "headline": "Xbox is Not for Sale, Says CEO Despite Rumors",
+    "summary": "Microsoft's Xbox division is not for sale, according to its CEO, who says the company will take drastic measures to protect its interests.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/xbox-is-not-for-sale-says-ceo-despite-rumors-we-will-do-whatever-it-takes-to-set-the-company-up-for-success/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Lq77swCoo8d62kgE4VNwM7-1920-80.jpg",
+    "published_at": "2026-09-30T18:47:32.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "73310047c85d",
+    "slug": "modern-warfare-4s-new-collateral-mode-officially-announced",
+    "headline": "Modern Warfare 4's New 'Collateral' Mode Officially Announced",
+    "summary": "Call of Duty's Modern Warfare 4 is getting a new game mode called Collateral, which allows players to earn and spend money between rounds, mimicking the cash economy found in Counter-Strike",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/modern-warfare-4-collateral-mode-counter-strike/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/screenshot-2026-06-07-at-2-17-53-pm.png",
+    "published_at": "2026-09-30T18:46:56.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "modern-warfare-4",
+    "game_label": "Modern Warfare 4"
+  },
+  {
+    "id": "be0c27bd9f6d",
+    "slug": "a-complete-guide-to-the-corn-maze-secret-lair-in-mtg",
+    "headline": "A Complete Guide To The Corn Maze Secret Lair In MTG",
+    "summary": "TheGamer reveals details about a new MTG Secret Lair featuring a Corn Maze, KPop Demon Hunters, Marvel, and artist spotlights, making for an impressive Superdrop.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/magic-the-gathering-the-corn-maze-secret-lair-superdrop-guide/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/cards-from-the-corn-maze-secret-lair-mtg-superdrop.jpg",
+    "published_at": "2026-09-30T18:35:29.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "magic-the-gathering",
+    "game_label": "Magic: The Gathering"
+  },
+  {
+    "id": "cce1d98181ee",
+    "slug": "xbox-is-not-for-sale-ceo-asha-sharma-says-we-will-do-whatever-it-takes",
+    "headline": "\"Xbox is not for sale\": CEO Asha Sharma says \"we will do whatever it takes\" to turn the console maker's fortunes around",
+    "summary": "Despite mass layoffs at multiple first-party studios and major internal shakeups, CEO Asha Sharma has shot down speculation about a potential Xbox buyout.\n Read more",
+    "category": "industry",
+    "platform_tags": [
+      "xbox",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/xbox-not-for-sale-ceo-asha-sharma-console"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/asha-sharma-xbox_ETUJlFF.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-30T18:35:09.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "c1c8f671ab11",
     "slug": "most-anticipated-ps5-games-releasing-in-october-2026",
     "headline": "Most Anticipated PS5 Games Releasing In October 2026",
@@ -16,6 +139,33 @@
     ],
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/albion-gameplay-2-1.jpg",
     "published_at": "2026-09-30T18:13:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "10aa57cb0f75",
+    "slug": "xbox-ceo-asha-sharma-insists-xbox-is-not-for-sale",
+    "headline": "Xbox CEO Asha Sharma insists \"Xbox is not for sale\"",
+    "summary": "Xbox CEO Asha Sharma has pushed back on speculation that Microsoft could spin off its games division, telling the New York Times: \"Xbox is not for sale.\"\n Read more",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/xbox-ceo-asha-sharma-insists-xbox-is-not-for-sale"
+      },
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/xbox-ceo-insists-its-not-for-sale-amid-studio-closures-layoffs/"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/billy-freeman-5O5oJGOnj20-unsplash-copy.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-30T18:11:12.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -230,29 +380,6 @@
     "comment_count": 0,
     "game": "sonic",
     "game_label": "Sonic"
-  },
-  {
-    "id": "10aa57cb0f75",
-    "slug": "xbox-ceo-asha-sharma-insists-xbox-is-not-for-sale",
-    "headline": "Xbox CEO Asha Sharma insists \"Xbox is not for sale\"",
-    "summary": "Xbox CEO Asha Sharma has pushed back on speculation that Microsoft could spin off its games division, telling the New York Times: \"Xbox is not for sale.\"\n Read more",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/xbox-ceo-asha-sharma-insists-xbox-is-not-for-sale"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/billy-freeman-5O5oJGOnj20-unsplash-copy.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-30T17:43:08.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   },
   {
     "id": "4bad47438896",
@@ -4627,123 +4754,5 @@
     "comment_count": 0,
     "game": "final-fantasy-14",
     "game_label": "Final Fantasy 14"
-  },
-  {
-    "id": "a02ba3476e3a",
-    "slug": "elins-official-newsletter-released",
-    "headline": "Elin's Official Newsletter Released",
-    "summary": "Steam's chaotic roguelike Elin has published its seventh official newsletter, marking a shift towards more relaxed gameplay, as players can now take a break from the game's intense hamster wheel mechanics.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/the-official-september-newsletter-for-steams-chaotic-roguelike-elin-has-been-released-the-hamsters-have-been-freed-farewell-to-the-hamster-wheel/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a02ba3476e3a/800/600",
-    "published_at": "2026-09-30T09:10:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "elin",
-    "game_label": "Elin"
-  },
-  {
-    "id": "a73567f37dce",
-    "slug": "xboxs-disc-to-digital-is-rolling-out-now-to-all-users",
-    "headline": "Xbox’s Disc-To-Digital Is Rolling Out Now To All Users",
-    "summary": "Dust off your boxes, folks, it's time to claim those licenses",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/xboxs-disc-to-digital-is-rolling-out-now-to-all-users-2000738475"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/after-being-tested-by-insider-members-xboxs-disc-to-digital-feature-is-now-rolling-out-to-all-players/"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/xbox-disc-stack-1280x720.jpg",
-    "published_at": "2026-09-30T09:02:35.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e0d4a9e520ff",
-    "slug": "ghost-of-yotei-gets-official-helldivers-2-and-astro-bot-armor",
-    "headline": "Ghost Of Yotei Gets Official Helldivers 2 And Astro Bot Armor",
-    "summary": "Sucker Punch has shared first looks at armor sets inspired by other PlayStation games coming to Ghost of Yotei.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/ghost-of-yotei-most-wanted-astro-bot-helldivers-journey-armor/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/54568087779_d0519568e9_o.jpg",
-    "published_at": "2026-09-30T09:00:17.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d3ff396a6004",
-    "slug": "does-turning-sonic-into-movies-and-anime-benefit-gamers-producer-takas",
-    "headline": "Does turning Sonic into movies and anime benefit gamers? Producer Takashi Iizuka talks about how the transmedia strategy feeds back into game development resources",
-    "summary": "Interview with Sonic the Hedgehog series producer Takashi Iizuka.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/interviews/does-turning-sonic-into-movies-and-anime-benefit-gamers-producer-takashi-iizuka-talks-about-how-the-transmedia-strategy-feeds-back-into-game-development-resources/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/d3ff396a6004/800/600",
-    "published_at": "2026-09-30T09:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "76bbd391ad6c",
-    "slug": "danganronpa-2x2-preview-ps5-remake-adds-a-shocking-new-mode",
-    "headline": "Danganronpa 2x2 Preview: PS5 Remake Adds a Shocking New Mode",
-    "summary": "Danganronpa 2x2 is getting a PS5 remake, featuring a new mode that promises to revitalize the cult series. The remake is currently in development for the PS5 console.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/previews/ps5-remake-danganronpa-2x2-revives-the-cult-series-with-a-shocking-new-mode"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/37ff6d5f88bb6/large.jpg",
-    "published_at": "2026-09-30T09:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "danganronpa-2x2",
-    "game_label": "Danganronpa 2x2"
   }
 ]
