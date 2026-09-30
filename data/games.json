@@ -17326,5 +17326,111 @@
     ],
     "stores": [],
     "fetched_at": "2026-09-30T05:37:29.402Z"
+  },
+  {
+    "slug": "satisfactory",
+    "name": "Satisfactory",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/9b0/9b03581c1ba7df63e221eb0828f8bb52.jpg",
+    "released": "2024-09-11",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Strategy",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f0e/f0e9306f7e943df673b069e757068ad2.jpg",
+      "https://media.rawg.io/media/screenshots/b5b/b5b63069fb5ea1c580b59a8bfe46c80d.jpg",
+      "https://media.rawg.io/media/screenshots/2eb/2eb76c8a6803a630e7f710e4502abbac.jpg",
+      "https://media.rawg.io/media/screenshots/262/262f3ea08a5449be81be9054dd01ddf3.jpg",
+      "https://media.rawg.io/media/screenshots/07d/07d1da3af727e0ab836d9ba707f62054.jpg",
+      "https://media.rawg.io/media/screenshots/117/117cc08e3673fec4ced49d3815696f99.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-30T11:39:03.999Z"
+  },
+  {
+    "slug": "deadlock",
+    "name": "DEADLOCK",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/f46/f4658add0a9aae824f438ccfafa73eb7.jpg",
+    "released": "2016-08-15",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/7e7/7e761f8bb5f8c482bc5a731960a7c4be.jpg",
+      "https://media.rawg.io/media/screenshots/9ac/9acd30887236f20ef16b45e8c3380494.jpg",
+      "https://media.rawg.io/media/screenshots/b15/b15b9bd2011c25609fb535fc2ff72e57.jpg",
+      "https://media.rawg.io/media/screenshots/b76/b763052bf6c03d230914022182a55f31.jpg",
+      "https://media.rawg.io/media/screenshots/551/55185f4d72ac6620194b0622039e5e79.jpg",
+      "https://media.rawg.io/media/screenshots/eee/eee217fa868c65439009306915eb2fe2.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-30T11:39:04.841Z"
+  },
+  {
+    "slug": "deep-rock-galactic-survivor",
+    "name": "Deep Rock Galactic: Survivor",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/1eb/1ebae240bdf6275a169e81b551e44e67.jpg",
+    "released": "2024-02-14",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Arcade",
+      "Action"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/8ea/8ea937e84d4fcb162f586495a2c77a67.jpg",
+      "https://media.rawg.io/media/screenshots/f8f/f8f97ef7f15a36dc77dc9b1e41424a71.jpg",
+      "https://media.rawg.io/media/screenshots/ba3/ba37749cb2daff2558aedcd0834f7401.jpg",
+      "https://media.rawg.io/media/screenshots/0bc/0bcda631a506da16585704e673c312a3.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-30T11:39:06.970Z"
+  },
+  {
+    "slug": "phantom-blade-zero",
+    "name": "Phantom Blade Zero",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/25f/25f536a977488f12ef8a6d013e50fda1.jpg",
+    "released": "2026-10-29",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/908/9082f658383685fc50abb03a260c424c.jpg",
+      "https://media.rawg.io/media/screenshots/2f6/2f6a17ad1a8133fd19f3eb99dd634ca9.jpg",
+      "https://media.rawg.io/media/screenshots/186/186b4516cf7a774988604628294845ed.jpg",
+      "https://media.rawg.io/media/screenshots/2c4/2c4dcc8fe3fcfc9438a7bd99f5f39c7b.jpg",
+      "https://media.rawg.io/media/screenshots/cde/cde13fc895b2c74917bf3a551cdb2fee.jpg",
+      "https://media.rawg.io/media/screenshots/aec/aec12da6a34d07a413ce91ed7e32976b.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-09-30T11:39:08.039Z"
   }
 ]

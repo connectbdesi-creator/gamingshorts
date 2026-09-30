@@ -1,5 +1,691 @@
 [
   {
+    "id": "8443181f8870",
+    "slug": "crimson-deserts-first-big-paid-dlc-is-slightly-delayed",
+    "headline": "Crimson Desert's First Big Paid DLC Is Slightly Delayed",
+    "summary": "Charting the Unknown's first major paid DLC is now scheduled for release at the end of October, following a brief delay from its original planned release date.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/crimson-desert-charting-the-unknown-dlc-delay-pearl-abyss-ships-2000738599"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/crimson-boat-1280x720.jpg",
+    "published_at": "2026-09-30T11:25:57.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "crimson-desert",
+    "game_label": "Crimson Desert"
+  },
+  {
+    "id": "1a1f18480d45",
+    "slug": "witcher-3-remastered-how-loot-merge-works-if-you-should-use-it",
+    "headline": "Witcher 3 Remastered: How Loot Merge works, if you should use it",
+    "summary": "The Witcher 3 Remastered explains the Loot Merge feature, a system that allows players to combine duplicate items, and offers guidance on whether or not to use it.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-how-loot-merge-works-if-you-should-use-it/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/1a1f18480d45/800/600",
+    "published_at": "2026-09-30T11:24:08.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt-remastered",
+    "game_label": "The Witcher 3: Wild Hunt Remastered"
+  },
+  {
+    "id": "761ae418b06d",
+    "slug": "resident-evil-remakes-will-eventually-catch-up-with-the-main-series",
+    "headline": "Resident Evil Remakes Will Eventually Catch Up With The Main Series",
+    "summary": "Capcom plans for its remakes to match the quality of its new numbered games, starting with Biohazard. The company has been working towards this goal since the remakes' release.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/resident-evil-remakes-catch-up-new-games/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/new-project-2026-09-30t120056-481.jpg",
+    "published_at": "2026-09-30T11:18:04.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "resident-evil",
+    "game_label": "Resident Evil"
+  },
+  {
+    "id": "1162cb8475e6",
+    "slug": "making-the-perfect-cave-in-satisfactory-expansion-core-values",
+    "headline": "Making the Perfect Cave in Satisfactory Expansion Core Values",
+    "summary": "Rock Paper Shotgun discusses the challenge of creating the ideal cave layout in Satisfactory's Core Values expansion",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/i-always-see-it-kind-of-like-a-triangle-the-surprising-challenge-of-making-the-perfectly-sized-cave-in-satisfactory-expansion-core-values"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/satisfactory-core-values-cat-creature_vibR3ac.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-30T11:15:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "satisfactory",
+    "game_label": "Satisfactory"
+  },
+  {
+    "id": "e6755fcd977b",
+    "slug": "how-to-transmog-your-equipment-in-the-witcher-3-remastered",
+    "headline": "How to Transmog Your Equipment in The Witcher 3 Remastered",
+    "summary": "A new feature in The Witcher 3 Remastered allows players to reforge equipment into a new look, offering a fresh aesthetic for Geralt of Rivia.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/the-witcher/witcher-3-transmog/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/VsPXs2CPDAboUx5Lbri7aH-1920-80.jpg",
+    "published_at": "2026-09-30T11:14:20.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-remastered",
+    "game_label": "The Witcher 3 Remastered"
+  },
+  {
+    "id": "7efa54cf9d3b",
+    "slug": "deadlock-fans-are-divided-over-latest-updates",
+    "headline": "Deadlock Fans Are Divided Over Latest Updates",
+    "summary": "PC Gamer discusses the latest Deadlock updates, sparking mixed reactions from fans who are both hyped for new heroes and map changes, as well as disappointed by the limited additional content, particularly the lack of a new game mode.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/moba/youre-hyped-for-deadlocks-new-heroes-and-map-updates-im-hyped-because-of-the-800-extra-pre-match-conversations-we-are-not-the-same/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/nfd6zhdsBqYg9Z24hFgFuA-1920-80.jpg",
+    "published_at": "2026-09-30T11:13:07.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "deadlock",
+    "game_label": "Deadlock"
+  },
+  {
+    "id": "a22c2a80d3e7",
+    "slug": "crimson-desert-dlc-charting-the-unknown-delayed-as-devs-focus-on-polis",
+    "headline": "Crimson Desert DLC Charting the Unknown Delayed as Devs Focus on Polished Gameplay",
+    "summary": "The upcoming DLC for Crimson Desert is delayed by two weeks, with developers citing a desire for a more polished and stable gameplay experience.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/open-world/crimson-desert-dlc-charting-the-unknown-delayed-2-weeks-as-pearl-abyss-seeks-a-more-polished-and-stable-gameplay-experience/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/UYTKVd992SzztXpgq2JhUV-1920-80.jpg",
+    "published_at": "2026-09-30T11:10:24.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "crimson-desert",
+    "game_label": "Crimson Desert"
+  },
+  {
+    "id": "6f947578e6f5",
+    "slug": "nte-perfectly-common-dreams-anomaly-commission-guide",
+    "headline": "NTE Perfectly Common Dreams Anomaly Commission Guide",
+    "summary": "Game Rant provides a walkthrough guide for the Perfectly Common Dreams Anomaly Commission in NTE, offering tips on how to complete the task without drawing attention to oneself.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/neverness-to-everness-nte-perfectly-common-dreams-anomaly-commission-guide/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/nte-perfectly-common-dreams-anomaly-guide-dreamaway-pillow.png",
+    "published_at": "2026-09-30T11:06:27.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "nte",
+    "game_label": "NTE"
+  },
+  {
+    "id": "b76e55a4a7b7",
+    "slug": "mario-kart-tour-shut-down-earns-nintendo-270m",
+    "headline": "Mario Kart Tour Shut Down Earns Nintendo $270M",
+    "summary": "Nintendo's mobile racing game, Mario Kart Tour, has officially closed, with over 276 million downloads, generating an estimated $270 million for the company.",
+    "category": "deals",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/mario-kart-tour-has-now-officially-shut-down-after-earning-nintendo-an-estimated-270-million/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/b76e55a4a7b7/800/600",
+    "published_at": "2026-09-30T11:00:56.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "mario-kart-tour",
+    "game_label": "Mario Kart Tour"
+  },
+  {
+    "id": "bfad9a2b8e3b",
+    "slug": "xbox-mythic-achievements-officially-announced",
+    "headline": "Xbox Mythic Achievements Officially Announced",
+    "summary": "Xbox has confirmed the existence of its own equivalent to PlayStation's Platinum Trophies, called Mythic Achievements, and has started rolling them out for Xbox Insiders, including retroactive awards for older Xbox games.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/xbox-mythic-achievements-playstation-trophies"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/xbox-insider.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-30T11:00:01.000Z",
+    "hype_signal": 75,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "xbox-mythic-achievements",
+    "game_label": "Xbox Mythic Achievements"
+  },
+  {
+    "id": "57e4d9813649",
+    "slug": "zelda-40th-anniversary-concert-tickets-now-available",
+    "headline": "Zelda 40th Anniversary Concert Tickets Now Available",
+    "summary": "Tickets for the European leg of the Zelda 40th Anniversary concert are now on sale, with sales starting at 12pm BST on September 30th for shows taking place on select dates.",
+    "category": "deals",
+    "platform_tags": [
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/zelda-40th-anniversary-concert-tickets-are-now-live-across-europe"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/6ad2c3ba7ec28/large.jpg",
+    "published_at": "2026-09-30T11:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-legend-of-zelda",
+    "game_label": "The Legend of Zelda"
+  },
+  {
+    "id": "1dcd5967b187",
+    "slug": "mini-review-dynasty-warriors-3-complete-edition-remastered",
+    "headline": "Mini Review: Dynasty Warriors 3: Complete Edition Remastered",
+    "summary": "Push Square reviews Dynasty Warriors 3: Complete Edition Remastered, a remastered version of the classic PS2 game, and concludes it's a strong case for more Musou revivals.",
+    "category": "reviews",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/reviews/ps5/dynasty-warriors-3-complete-edition-remastered"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/6cd0d3f5a558a/large.jpg",
+    "published_at": "2026-09-30T11:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dynasty-warriors-3-complete-edition-remastered",
+    "game_label": "Dynasty Warriors 3: Complete Edition Remastered"
+  },
+  {
+    "id": "f5ccc984483e",
+    "slug": "the-witcher-3-all-mods-now-available-on-console",
+    "headline": "The Witcher 3: All Mods Now Available On Console",
+    "summary": "The Witcher 3 game now supports over 100 console mods on PS5, Switch 2, and Xbox Series X/S, enhancing gameplay with new content and features.",
+    "category": "releases",
+    "platform_tags": [
+      "switch",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/the-witcher-3-every-console-mod-september-30/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/the-witcher-3-modded-screenshot-of-geralt-in-a-sleeveless-jerkin-in-a-field.jpg",
+    "published_at": "2026-09-30T10:59:23.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
+    "id": "c1400048bb47",
+    "slug": "avengers-endgame-writers-planned-for-hawkeye-to-die-until-marvel-emplo",
+    "headline": "Avengers: Endgame writers planned for Hawkeye to die until Marvel employees protested",
+    "summary": "Marvel employees intervened, preventing Clint Barton's on-screen demise in the MCU",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-endgame-writers-planned-for-hawkeye-to-die-until-marvel-employees-protested/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/HYWzp7ZhRDtzjsjtoSZ2PF-1920-80.jpg",
+    "published_at": "2026-09-30T10:58:37.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3a29343b7fc3",
+    "slug": "xboxs-disc-to-digital-feature-now-available",
+    "headline": "Xbox's disc-to-digital feature now available",
+    "summary": "Xbox's disc-to-digital feature is now live, allowing users to digitize their Xbox One and Xbox Series X game-disc collections.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/xbox-disc-to-digital-convert-ownership-release"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/GoW-Reloaded_COG-squad.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-30T10:53:43.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "52007d7ff11e",
+    "slug": "housemarque-and-bithell-games-join-game-republic-new-horizons",
+    "headline": "Housemarque and Bithell Games Join Game Republic New Horizons",
+    "summary": "Developer studios Housemarque and Bithell Games will be part of the Game Republic New Horizons conference, alongside an open Q&A session with Nintendo representatives. The event aims to bring developers and publishers together.",
+    "category": "industry",
+    "platform_tags": [
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/housemarque-and-bithell-games-join-game-republic-new-horizons-speaker-lineup-nintendo-to-host-open-session-for-developers-and-publishers"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/robbert-groenendijk-mike-bithell.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-30T10:53:37.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c9878cfd48b6",
+    "slug": "rare-pikachu-card-sells-for-record-breaking-price",
+    "headline": "Rare Pikachu Card Sells for Record-Breaking Price",
+    "summary": "A highly sought-after Pikachu card has sold for $8.4 million, becoming the second most expensive Pokémon card in existence due to its extreme rarity.",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/tabletop-gaming/absurdly-rare-raincoat-pikachu-pokemon-card-sells-for-usd8-4-million-and-its-cute-enough-that-i-kinda-get-it/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/bzsawf93TLGNit5HqizUMF-1920-80.jpg",
+    "published_at": "2026-09-30T10:53:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f3506e4a09f5",
+    "slug": "xboxs-disc-to-digital-feature-is-officially-out",
+    "headline": "Xbox's Disc-to-Digital Feature Is Officially Out",
+    "summary": "Xbox has launched a program allowing users to digitize their physical discs, making it easier to store and access games on their consoles.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/xbox-disc-to-digital-full-release/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/08/gears-of-war-reloaded-marcus-fenix.jpg",
+    "published_at": "2026-09-30T10:43:47.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "381eb5d27bfb",
+    "slug": "you-can-get-a-free-digital-copy-of-the-witcher-3-remastered-on-switch",
+    "headline": "You Can Get A Free Digital Copy Of The Witcher 3 Remastered  On Switch 2 If You Just Borrow An Old Physical Switch Copy Of The RPG",
+    "summary": "And you don't even need to keep the old version of the cart to play the remastered RPG",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/you-can-get-a-free-digital-copy-of-the-witcher-3-remastered-on-switch-2-if-you-just-borrow-an-old-physical-switch-copy-of-the-rpg-2000738492"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/the-witcher-3-remastered-nintendo-switch-2-can-be-unlocked-for-free-even-if-you-borrow-a-switch-physical-copy-from-a-friend"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/witchers-song-past-3-1280x720.jpg",
+    "published_at": "2026-09-30T10:35:22.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "19434da609ed",
+    "slug": "dragon-ball-super-2-brings-back-frieza-in-black-frieza-form",
+    "headline": "Dragon Ball Super 2 Brings Back Frieza in Black Frieza Form",
+    "summary": "Dragon Ball Super 2 is reviving Frieza with his most powerful form, Black Frieza, in the upcoming anime sequel.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/dragon-ball-super-2-black-frieza-strongest-form/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/super-saiyan-blue-gogeta-black-frieza-gohan-beast.png",
+    "published_at": "2026-09-30T10:30:14.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dragon-ball-super-2",
+    "game_label": "Dragon Ball Super 2"
+  },
+  {
+    "id": "18c61112f2f2",
+    "slug": "deep-rock-galactic-survivor-launches-on-switch-next-month",
+    "headline": "Deep Rock Galactic: Survivor Launches on Switch Next Month",
+    "summary": "A new survival game inspired by Vampire Survivors is coming to Switch, developed by Funday Games and previously released on PC and Xbox. The game launches on October 9th, 2026.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/acclaimed-vampire-survivors-inspired-survival-game-hits-switch-next-month"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/812472457a3df/large.jpg",
+    "published_at": "2026-09-30T10:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "deep-rock-galactic-survivor",
+    "game_label": "Deep Rock Galactic: Survivor"
+  },
+  {
+    "id": "4f498acd8e63",
+    "slug": "vampire-survivors-fans-take-note-deep-rock-galactic-spin-off-to-hit-ps",
+    "headline": "Vampire Survivors Fans, Take Note: Deep Rock Galactic Spin-Off to Hit PS5",
+    "summary": "A spin-off of Deep Rock Galactic, a co-op mining game, is set to release on PS5, promising more of the bullet heaven genre excitement.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/vampire-survivors-fans-take-note-one-of-its-best-clones-is-heading-to-ps5-next-month"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/b572010154763/large.jpg",
+    "published_at": "2026-09-30T10:30:00.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "deep-rock-galactic-survivor",
+    "game_label": "Deep Rock Galactic: Survivor"
+  },
+  {
+    "id": "6e18ecb41674",
+    "slug": "gta-6-rockstars-unconventional-research-methods",
+    "headline": "GTA 6: Rockstar's Unconventional Research Methods",
+    "summary": "Rockstar Games has shared details on its research process for GTA 6, which involved visiting strip clubs and riding at night with former cops to gather authentic Florida experience.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-rockstar-developers-visited-strip-clubs-and-rode-around-at-night-with-ex-cops-to-get-first-hand-florida-experience"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/30/gta-6-1790763356629.png",
+    "published_at": "2026-09-30T10:18:17.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
+    "id": "a9d714de5e97",
+    "slug": "players-can-claim-free-2025-horror-game",
+    "headline": "Players Can Claim Free 2025 Horror Game",
+    "summary": "PC users can claim a free 2025 horror game with positive reviews",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/free-pc-games-promotions-october-express-no-6/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/2025-horror-game-express-no-6-free-to-keep-october-gamerant.jpg",
+    "published_at": "2026-09-30T10:15:23.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c565aad2ef30",
+    "slug": "shuhei-yoshida-xbox-has-the-advantage-now",
+    "headline": "Shuhei Yoshida: Xbox Has the Advantage Now",
+    "summary": "Shuhei Yoshida believes Xbox is poised to take the lead, citing the PS5 and Switch 2's popularity, and thinks Sony and Nintendo should prolong the current generation as long as possible.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/shuhei-yoshida-says-sony-and-nintendo-should-keep-the-current-generation-as-long-as-possible-as-xbox-goes-next-gen/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/c565aad2ef30/800/600",
+    "published_at": "2026-09-30T10:14:26.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "1a75864b4893",
+    "slug": "seamless-detour-in-baldurs-gate-3",
+    "headline": "Seamless Detour in Baldur's Gate 3",
+    "summary": "A Baldur's Gate 3 modder has created a custom campaign for Act Two that seamlessly integrates a detour into the main story, adding a new chapter to the RPG's narrative.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/getting-sidetracked-doesnt-feel-too-unnatural-baldurs-gate-3-act-two-expansion-modder-on-how-they-seamlessly-fit-a-detour-to-fight-an-army-into-the-rpgs-plot"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/baldurs-gate-3-act-two-expansion-modder-nexus-interview-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-30T10:09:42.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "baldurs-gate-3-act-two-expansion",
+    "game_label": "Baldur's Gate 3: Act Two Expansion"
+  },
+  {
+    "id": "420628a59162",
+    "slug": "how-to-solve-todays-wordle-october-1-2026-answer-1930",
+    "headline": "How To Solve Today's Wordle - October 1 2026 Answer #1930",
+    "summary": "The article provides a solution to today's Wordle puzzle with the answer #1930.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/wordle-nyt-answer-hints-solution-october-1-2026/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/06/a-wordle-that-says-answers-and-hints.jpg",
+    "published_at": "2026-09-30T10:01:16.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d528b635757f",
+    "slug": "ps5-games-to-play-in-october",
+    "headline": "PS5 Games to Play in October",
+    "summary": "Several new PS5 games are set to release in October, including new DLC and a new game titled Phantom Blade Zero.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/new-ps5-games-october-2026/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/valor-mortis-release-date-delay.jpg",
+    "published_at": "2026-09-30T10:00:15.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "phantom-blade-zero",
+    "game_label": "Phantom Blade Zero"
+  },
+  {
+    "id": "04d3d1bf669d",
+    "slug": "five-new-xbox-games-are-finishing-off-the-month",
+    "headline": "Five New Xbox Games Are Finishing Off The Month",
+    "summary": "Xbox Store releases indie titles and a free-to-play game before the end of September.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/five-new-xbox-games-are-finishing-off-the-month-including-a-free-to-play-shadow-drop-september-30"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/1428487ba0ec6/large.jpg",
+    "published_at": "2026-09-30T10:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "e2c6f8b6d27c",
     "slug": "grand-theft-auto-6-to-feature-realistic-weather",
     "headline": "Grand Theft Auto 6 to Feature Realistic Weather",
@@ -702,29 +1388,6 @@
     "image_url": "https://images.nintendolife.com/670087004e318/large.jpg",
     "published_at": "2026-09-30T00:30:00.000Z",
     "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "381eb5d27bfb",
-    "slug": "you-can-get-a-free-digital-copy-of-the-witcher-3-remastered-on-switch",
-    "headline": "You Can Get A Free Digital Copy Of The Witcher 3 Remastered  On Switch 2 If You Just Borrow An Old Physical Switch Copy Of The RPG",
-    "summary": "And you don't even need to keep the old version of the cart to play the remastered RPG",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/you-can-get-a-free-digital-copy-of-the-witcher-3-remastered-on-switch-2-if-you-just-borrow-an-old-physical-switch-copy-of-the-rpg-2000738492"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/witchers-song-past-3-1280x720.jpg",
-    "published_at": "2026-09-30T00:07:06.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -3980,664 +4643,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "0c4e98fee309",
-    "slug": "the-witcher-3-remastereds-humor-remains-unchanged",
-    "headline": "The Witcher 3 Remastered's Humor Remains Unchanged",
-    "summary": "The Witcher 3: Wild Hunt Remastered's path tracing feature doesn't alter its comedic pigeons, delighting fans.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-remastered-did-not-in-fact-change-the-rpgs-hilarious-low-poly-pigeons-much-to-fans-delight-glory-to-low-poly/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/s59PQgab3kH37ZWZjZDgw6-1920-80.jpg",
-    "published_at": "2026-09-29T14:18:04.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-witcher-3-wild-hunt",
-    "game_label": "The Witcher 3: Wild Hunt"
-  },
-  {
-    "id": "d0deb671ded1",
-    "slug": "ex-playstation-lead-says-sony-and-nintendo-should-keep-the-current-gen",
-    "headline": " Ex-PlayStation lead says Sony and Nintendo should \"keep the current generation as long as possible\" ",
-    "summary": "Shuhei Yoshida notes that players only have a \"finite budget\"",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/ex-playstation-lead-thinks-sony-and-nintendo-should-try-to-keep-the-current-generation-as-long-as-possible-amid-hardware-price-hikes-people-are-very-happy-using-ps5-and-switch-2/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/HeKahFgtEdEDNPF8tadfx7-1920-80.jpg",
-    "published_at": "2026-09-29T14:13:01.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "766541a2d894",
-    "slug": "hades-2-devs-say-sequel-wasn",
-    "headline": "Hades 2 Devs Say Sequel Wasn",
-    "summary": "Supergiant Games approached Hades 2 with a skeptical mindset, prioritizing creative vision over business considerations.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/hades/hades-2-devs-say-the-sequel-wasnt-about-the-smart-business-choice-we-have-made-the-dumb-decision-many-times-in-a-row/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/xeSg9Zp9W3DUKZNYRSFqbT-1920-80.jpg",
-    "published_at": "2026-09-29T14:08:58.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "hades-2",
-    "game_label": "Hades 2"
-  },
-  {
-    "id": "6d03bff56299",
-    "slug": "witcher-3-remastered-best-console-graphics-mode-performance-vs-ray-tra",
-    "headline": "Witcher 3 Remastered best console graphics mode: Performance vs Ray Tracing",
-    "summary": "The best console graphics mode to use while playing The Witcher 3: Wild Hunt Remastered on every platform",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/the-witcher-3-remastered-best-console-graphics-mode-performance-vs-ray-tracing/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/6d03bff56299/800/600",
-    "published_at": "2026-09-29T14:02:49.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "26caff02a56a",
-    "slug": "dont-worry-if-youre-struggling-in-human-form-in-the-blood-of-dawnwalke",
-    "headline": "Don't worry if you're struggling in human form in The Blood of Dawnwalker - \"it should be harder\" playing that way",
-    "summary": "If you've been playing Medieval vampire RPG The Blood of Dawnwalker and you're wondering why you're having a hard time during the day, as a human, versus as at night as a vampire, then don't worry: you're experiencing the game as intended. It's not supposed to be balanced, apparently.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/blood-of-dawnwalker-harder-as-human-easier-as-vampire"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/lacra-dawnawlker.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-29T14:02:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "deda3a76ad4e",
-    "slug": "playing-the-blood-of-dawnwalker-as-a-power-hungry-vampire-gave-me-a-su",
-    "headline": " Playing The Blood of Dawnwalker as a power-hungry vampire gave me a surprisingly wholesome ending ",
-    "summary": "In our fourth and final RPG Club gathering for September, we take on Brencis and discover the consequences of our month-long adventure",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/action-rpg/playing-the-blood-of-dawnwalker-as-a-power-hungry-vampire-gave-me-a-surprisingly-wholesome-ending/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/H247pQoc3FW6iDNZASGXKR-1920-80.jpg",
-    "published_at": "2026-09-29T14:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "23f913c131c3",
-    "slug": "gears-of-war-e-day-download-sizes-revealed",
-    "headline": "Gears of War: E-Day Download Sizes Revealed",
-    "summary": "Gears of War: E-Day is set to begin pre-installs on Xbox and PC, with download sizes revealed, prompting players to clear their SSDs.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/gears-of-war-e-day-download-sizes-revealed-on-xbox-and-pc-and-theyre-as-big-as-a-brumak"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/765ad47c9dc8a/large.jpg",
-    "published_at": "2026-09-29T14:00:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gears-of-war-e-day",
-    "game_label": "Gears of War: E-Day"
-  },
-  {
-    "id": "2a66ae45bb12",
-    "slug": "psa-ace-combat-8-comes-with-a-whole-other-game-but-only-if-you-pre-ord",
-    "headline": "PSA: Ace Combat 8 Comes with a Whole Other Game, But Only if You Pre-Order, and You Don't Have Long",
-    "summary": "Ace Combat Zero won't be available forever. The brilliant Ace Combat 8: Wings of Theve makes its official launch on 2nd October, 2026, and if you're considering buying it, I'd highly recommend pre-ordering on this occasion. That's not only because the new game is another fantastic entry in Bandai Namco's longstanding series, but because it comes with an awesome bonus…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/psa-ace-combat-8-comes-with-a-whole-other-game-but-only-if-you-pre-order-and-you-dont-have-long"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/5fa5c507fceca/large.jpg",
-    "published_at": "2026-09-29T14:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ac47b97b42d5",
-    "slug": "steelseries-rival-pro-gaming-mouse-review",
-    "headline": " SteelSeries Rival Pro gaming mouse review ",
-    "summary": "SteelSeries is back, baby.",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/gaming-mice/steelseries-rival-pro-gaming-mouse-review/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/CsuU59BnMsSqEweGvn8jrj-1920-80.jpg",
-    "published_at": "2026-09-29T14:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cc5c93c034ea",
-    "slug": "otomates-upcoming-retro-romance-visual-novel-depicts-games-of-love-and",
-    "headline": "Otomate’s upcoming retro romance visual novel depicts games of “love and deception” in a turbulent post-war Japan",
-    "summary": "The game is directed by Aoki Hiroe (Sympathy Kiss, Lover Pretend), with Fate/Grand Order artist Makoto Senzaki designing the characters.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/otomates-upcoming-retro-romance-visual-novel-depicts-games-of-love-and-deception-in-a-turbulent-post-war-japan/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/cc5c93c034ea/800/600",
-    "published_at": "2026-09-29T14:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "14817e7a7aae",
-    "slug": "sturmjager",
-    "headline": "Sturmjager",
-    "summary": "Byteproduct, a Germany-based studio, has announced Sturmjager, a sci-fi shoot 'em up game, for PS5, Xbox Series, Switch, and PC.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/sci-fi-shoot-em-up-sturmjager-announced-for-ps5-xbox-series-switch-and-pc"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/14817e7a7aae/800/600",
-    "published_at": "2026-09-29T13:50:53.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "sturmjager",
-    "game_label": "Sturmjager"
-  },
-  {
-    "id": "1278d87bf824",
-    "slug": "warhammer-40000-space-marine-2-dev-reveals-the-most-played-class-and-w",
-    "headline": "Warhammer 40,000: Space Marine 2 Dev Reveals the Most-Played Class — and Who's Bringing Up the Rear",
-    "summary": "If you’ve played Warhammer 40,000: Space Marine 2 beyond the campaign, perhaps dabbling in the superb PvE Operations, you might be wondering which of the seven available classes is the most popular. Well, wonder no more, because to coincide with the game’s two-year anniversary, publisher Focus Entertainment has revealed all the juicy details.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/warhammer-40000-space-marine-2-dev-reveals-the-most-played-class-and-whos-bringing-up-the-rear"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/25/ss-66a8bc13bf868d0e2a76e4d797e6408c271065d7-1920x1080-1790346556482.jpg",
-    "published_at": "2026-09-29T13:47:49.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b5f1d8e9e387",
-    "slug": "diablo-4-seasonal-content-coming-post-diablo-5-launch",
-    "headline": "Diablo 4 Seasonal Content Coming Post-Diablo 5 Launch",
-    "summary": "Brent Gibson, game director, assures fans that Diablo 4 will continue to receive seasonal content after the release of Diablo 5, following the same pattern as Diablo 2 and 3.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/diablo-4-will-still-get-seasonal-content-once-diablo-5s-out-just-like-diablo-2-and-3-do-game-director-says/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/b5f1d8e9e387/800/600",
-    "published_at": "2026-09-29T13:42:09.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "diablo-4",
-    "game_label": "Diablo 4"
-  },
-  {
-    "id": "285a3daf5296",
-    "slug": "the-witcher-3-remaster-surpasses-originals-record-on-steam",
-    "headline": "The Witcher 3 Remaster Surpasses Original's Record on Steam",
-    "summary": "The Witcher 3 Remastered has reached 100,000 concurrent players on Steam, surpassing the original game's record in just three hours.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/the-witcher-3-remastered-new-steam-player-record/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/new-project-2026-09-29t141802-374.jpg",
-    "published_at": "2026-09-29T13:32:11.000Z",
-    "hype_signal": 90,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-witcher-3-wild-hunt",
-    "game_label": "The Witcher 3: Wild Hunt"
-  },
-  {
-    "id": "67e3f71fe676",
-    "slug": "fallout-76-and-final-fantasy-14-are-showing-why-old-live-service-games",
-    "headline": "Fallout 76 and Final Fantasy 14 Are Showing Why Old Live-Service Games Are Harder to Replace Than Ever",
-    "summary": "Fallout 76 and Final Fantasy 14 continue thriving, and beating this kind of longevity seems more and more impossible for new live-service games.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/fallout-76-final-fantasy-14-live-service-games-longevity/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/bazaart_2026-09-28_100415.jpeg",
-    "published_at": "2026-09-29T13:31:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a85972c2baf8",
-    "slug": "nintendo-officially-reveals-brand-new-feature-in-upcoming-zelda-ocarin",
-    "headline": "Nintendo Officially Reveals Brand-New Feature in Upcoming Zelda: Ocarina of Time Remake",
-    "summary": "Nintendo has confirmed a new feature in its upcoming remake of The Legend of Zelda: Ocarina of Time, marking an update to the classic game's original design.",
-    "category": "releases",
-    "platform_tags": [
-      "switch",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/zelda-ocarina-time-remake-new-features-trails/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/zelda_ocarina_of_time_3840x2160.jpg",
-    "published_at": "2026-09-29T13:31:13.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-legend-of-zelda-ocarina-of-time",
-    "game_label": "The Legend of Zelda: Ocarina of Time"
-  },
-  {
-    "id": "12ac8502cf42",
-    "slug": "how-to-heal-in-aniimo",
-    "headline": "How To Heal In Aniimo",
-    "summary": "This article provides tips and strategies for healing in Aniimo, a video game. It likely includes gameplay mechanics and strategies for effective healing.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/aniimo-healing-guide/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/aniimo-healing-cover.jpg",
-    "published_at": "2026-09-29T13:30:16.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "aniimo",
-    "game_label": "Aniimo"
-  },
-  {
-    "id": "2a7eff4afe1c",
-    "slug": "how-nex-playground-winning-over-brands-like-pac-man-nfl-nhl-and-sonic",
-    "headline": "How Nex Playground winning over brands like Pac-Man, NFL, NHL and Sonic | exclusive interview",
-    "summary": "At the recent Gamescom expo in Germany, I played a motion-controlled version of Pac-Man that had never seen the light day before. It was...\nThe post How Nex Playground winning over brands like Pac-Man, NFL, NHL and Sonic | exclusive interview appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/how-nex-playground-winning-over-brands-like-pac-man-nfl-nhl-and-sonic-exclusive-interview/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/2a7eff4afe1c/800/600",
-    "published_at": "2026-09-29T13:30:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d259b74150c2",
-    "slug": "naughty-dog-works-on-two-new-the-last-of-us-projects-in-very-early-sta",
-    "headline": "Naughty Dog Works on Two New The Last of Us Projects in 'Very Early Stages'",
-    "summary": "Naughty Dog is developing multiple new The Last of Us projects, according to Neil Druckmann, with the development already underway.",
-    "category": "industry",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/new-the-last-of-us-projects-in-very-early-stages-of-development"
-      },
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/two-new-the-last-of-us-projects-in-very-early-stages-at-naughty-dog"
-      },
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/naughty-dog-is-working-on-two-new-the-last-of-us-projects/"
-      },
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/naughty-dog-confirms-two-more-the-last-of-us-projects-are-in-the-works-wont-show-off-intergalactic-the-heretic-prophet-until-2027"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/naughty-dog-the-last-of-us-two-new-projects-intergalactic-update-2027/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/d259b74150c2/800/600",
-    "published_at": "2026-09-29T13:24:55.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-last-of-us",
-    "game_label": "The Last of Us"
-  },
-  {
-    "id": "8507d4ce9708",
-    "slug": "stop-trying-to-make-a-console-war-out-of-which-wow-is-better-youre-all",
-    "headline": " Stop trying to make a console war out of which WoW is better, you're all exhausting ",
-    "summary": "We should not be this kind of orc.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/stop-trying-to-make-a-console-war-out-of-which-wow-is-better-youre-all-exhausting/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Qd2sfGzohmMiYmGvaFfx8P-1920-80.png",
-    "published_at": "2026-09-29T13:22:40.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "17abba1276bd",
-    "slug": "teenage-mutant-ninja-turtles-splintered-fate-sales-top-15-million",
-    "headline": "Teenage Mutant Ninja Turtles: Splintered Fate sales top 1.5 million",
-    "summary": "Total sales for Teenage Mutant Ninja Turtles: Splintered Fate have surpassed 1.5 million units, developer …",
-    "category": "deals",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/teenage-mutant-ninja-turtles-splintered-fate-sales-top-1-5-million"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/17abba1276bd/800/600",
-    "published_at": "2026-09-29T13:22:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c810b3c8e99d",
-    "slug": "remothered-tormented-fathers-remastered-and-remothered-broken-porcelai",
-    "headline": "Remothered: Tormented Fathers Remastered and Remothered: Broken Porcelain Remastered launch in Q1 2027",
-    "summary": "Remothered: Tormented Fathers Remastered and Remothered: Broken Porcelain Remastered will launch for PlayStation 5, Xbox …",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/remothered-tormented-fathers-remastered-and-remothered-broken-porcelain-remastered-launch-in-q1-2027"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/c810b3c8e99d/800/600",
-    "published_at": "2026-09-29T13:21:05.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6c0508f67311",
-    "slug": "utility-makes-tracking-wireless-kit-battery-levels-easier-in-windows",
-    "headline": "Utility Makes Tracking Wireless Kit Battery Levels Easier in Windows",
-    "summary": "A new Windows tray utility simplifies tracking wireless kit battery levels, offering an efficient solution for users.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/software/windows/this-neat-home-brew-vibe-coded-windows-tray-utility-makes-it-so-much-easier-and-more-efficient-to-track-wireless-kit-battery-levels/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/iUnMn2mJTFqevmYBCzD3jn-1920-80.png",
-    "published_at": "2026-09-29T13:19:29.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "09d3608f73f5",
-    "slug": "ace-combat-8s-pc-launch-marred-by-bundled-war-game",
-    "headline": "Ace Combat 8's PC Launch Marred by Bundled War Game",
-    "summary": "Ace Combat 8's PC launch has been affected by the inclusion of a problematic re-release of the Belkan War, which is separate on console versions.",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/ace-combat-8-the-belkan-war-pre-order-bonus-steam-community-reaction"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/ace-combat-8-character-shot-crop-1.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-29T13:15:16.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "ace-combat-8-wings-of-theve",
-    "game_label": "Ace Combat 8: Wings of Theve"
-  },
-  {
-    "id": "81394ad0b297",
-    "slug": "gta-5-for-switch-mod-project-shuts-down-dev-thanks-take-two-for-its-me",
-    "headline": "GTA 5 For Switch Mod Project Shuts Down, Dev Thanks Take-Two For Its “Mercy”",
-    "summary": "The creator of a mod project that sought to bring Rockstar's Grand Theft Auto 5 to Switch is closing up shop, apparently at the request of rights owner Take-Two. This action comes in the same month that Rockstar published a new \"Mod Guidelines\" notice informing people they need to \"respect our games\" and are not allowed to modify its games…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gta-5-for-switch-mod-project-shuts-down-dev-thanks-take-two-for-its-mercy/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/GTA.jpg?w=300",
-    "published_at": "2026-09-29T13:07:36.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e555b7379ae0",
-    "slug": "control-resonants-art-design-and-tech-influenced-its-world-building",
-    "headline": "Control Resonant's Art Design and Tech Influenced Its World-Building",
-    "summary": "Control Resonant's developers discuss how their art design and tech choices shaped the game's world, boss battles, and overall experience.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PlayStation Blog",
-        "url": "https://blog.playstation.com/2026/09/29/how-control-resonants-art-design-and-tech-shaped-its-bosses-paranaturally-twisted-manhattan-and-more/"
-      }
-    ],
-    "image_url": "https://blog.playstation.com/uploads/2028/09/ff3d88b774dccf309c5bb5326a2338a348890d9e.mp4",
-    "published_at": "2026-09-29T13:00:09.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "control-resonant",
-    "game_label": "Control Resonant"
-  },
-  {
-    "id": "a1d20e951871",
-    "slug": "discord-expands-ad-business-with-new-ads-manager-and-mobile-first-vide",
-    "headline": "Discord expands ad business with new Ads Manager and mobile-first Video Quests",
-    "summary": "Discord is rolling out new ad products in a bid to expand the scale and measurement capabilities of its network. Today, Sept. 29, Discord...\nThe post Discord expands ad business with new Ads Manager and mobile-first Video Quests appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/discord-expands-ad-business-with-new-ads-manager-and-mobile-first-video-quests/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a1d20e951871/800/600",
-    "published_at": "2026-09-29T13:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "23e155313e75",
-    "slug": "tmnt-splintered-fate-shreds-past-another-sales-milestone-dev-reveals-m",
-    "headline": "TMNT: Splintered Fate Shreds Past Another Sales Milestone, Dev Reveals Most-Played Characters",
-    "summary": "Teenage Mutant Ninja Turtles: Splintered Fate has sold over 1.5 million copies, with developer Super Evil Megacorp revealing the top-selling characters in the game",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/tmnt-splintered-fate-shreds-past-another-sales-milestone-dev-reveals-most-played-characters"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/720c74f2f7c85/large.jpg",
-    "published_at": "2026-09-29T13:00:00.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "teenage-mutant-ninja-turtles-splintered-fate",
-    "game_label": "Teenage Mutant Ninja Turtles: Splintered Fate"
   }
 ]
