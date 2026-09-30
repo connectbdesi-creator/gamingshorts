@@ -1,5 +1,265 @@
 [
   {
+    "id": "e2c6f8b6d27c",
+    "slug": "grand-theft-auto-6-to-feature-realistic-weather",
+    "headline": "Grand Theft Auto 6 to Feature Realistic Weather",
+    "summary": "Rockstar is overhauling the GTA series' weather system, with realistic rainbows and hurricanes among the new features",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/gta-6-will-simulate-hurricanes-rainbows-and-persistent-dynamic-clouds-among-other-efforts-to-make-you-stop-doing-crime-and-become-a-weather-nerd"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/lucia-leaning-out-of-a-car.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-30T09:30:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "a56c52a94db5",
+    "slug": "valve-is-updating-steams-discount-events-section-to-become-more-dynami",
+    "headline": "Valve is updating Steam's Discount & Events section to become more \"dynamic and personalised\"",
+    "summary": "Valve is updating Steam's Discount & Events section, shifting from manual, calendar-based listings to a more \"dynamic and personalised\" system to improve discoverability.\n Read more",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/valve-is-updating-steams-discount-events-section-to-become-more-dynamic-and-personalised"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/steam-discover-page.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-30T09:25:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9cc77156a892",
+    "slug": "pokopia-celebrates-its-first-halloween-with-themed-event",
+    "headline": "Pokopia Celebrates Its First Halloween with Themed Event",
+    "summary": "Pokopia is hosting a Halloween-themed event featuring Pumpkaboo and candy, marking its first celebration of the holiday.",
+    "category": "industry",
+    "platform_tags": [
+      "mobile",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/pokemon-pokopia-halloween-event-announced/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/pok-mon-pokopia-halloween-event.jpg",
+    "published_at": "2026-09-30T09:21:37.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "58646150a71f",
+    "slug": "final-fantasy-14-mobile-shut-down-today",
+    "headline": "Final Fantasy 14 Mobile Shut Down Today",
+    "summary": "Final Fantasy 14's mobile version has been shut down due to its never materializing, despite its global release announcement in 2015. The game's global release never occurred, and the mobile version is now closed.",
+    "category": "deals",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/final-fantasy-14-mobile-shuts-down-today-september-30/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ff14-mobile-party-gearing-up-to-fight-a-giant-monster.jpg",
+    "published_at": "2026-09-30T09:18:50.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-14",
+    "game_label": "Final Fantasy 14"
+  },
+  {
+    "id": "a73567f37dce",
+    "slug": "xboxs-disc-to-digital-is-rolling-out-now-to-all-users",
+    "headline": "Xbox’s Disc-To-Digital Is Rolling Out Now To All Users",
+    "summary": "Dust off your boxes, folks, it's time to claim those licenses",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/xboxs-disc-to-digital-is-rolling-out-now-to-all-users-2000738475"
+      },
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/after-being-tested-by-insider-members-xboxs-disc-to-digital-feature-is-now-rolling-out-to-all-players/"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/xbox-disc-stack-1280x720.jpg",
+    "published_at": "2026-09-30T09:02:35.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e0d4a9e520ff",
+    "slug": "ghost-of-yotei-gets-official-helldivers-2-and-astro-bot-armor",
+    "headline": "Ghost Of Yotei Gets Official Helldivers 2 And Astro Bot Armor",
+    "summary": "Sucker Punch has shared first looks at armor sets inspired by other PlayStation games coming to Ghost of Yotei.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/ghost-of-yotei-most-wanted-astro-bot-helldivers-journey-armor/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/54568087779_d0519568e9_o.jpg",
+    "published_at": "2026-09-30T09:00:17.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "76bbd391ad6c",
+    "slug": "danganronpa-2x2-preview-ps5-remake-adds-a-shocking-new-mode",
+    "headline": "Danganronpa 2x2 Preview: PS5 Remake Adds a Shocking New Mode",
+    "summary": "Danganronpa 2x2 is getting a PS5 remake, featuring a new mode that promises to revitalize the cult series. The remake is currently in development for the PS5 console.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/previews/ps5-remake-danganronpa-2x2-revives-the-cult-series-with-a-shocking-new-mode"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/37ff6d5f88bb6/large.jpg",
+    "published_at": "2026-09-30T09:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "danganronpa-2x2",
+    "game_label": "Danganronpa 2x2"
+  },
+  {
+    "id": "a220b1d5b406",
+    "slug": "huge-deadlock-update-propels-valves-moba-hero-shooter-to-the-top-of-th",
+    "headline": "Huge Deadlock Update Propels Valve's MOBA Hero Shooter to the Top of the Steam Charts, Smashes Peak Concurrent Player Record",
+    "summary": "Valve has issued a huge update to its in-development MOBA hero shooter Deadlock, propelling it to the top of Steam’s most-played games chart.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/huge-deadlock-update-propels-valves-moba-hero-shooter-to-the-top-of-the-steam-charts-smashes-peak-concurrent-player-record"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/30/times-square-05-1790757839019.jpg",
+    "published_at": "2026-09-30T08:49:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a42dae848ae6",
+    "slug": "call-of-duty-modern-warfare-4-is-getting-a-counter-strike-inspired-gam",
+    "headline": "Call of Duty: Modern Warfare 4 is getting a Counter-Strike-inspired game mode that I can't believe it never had before",
+    "summary": "On top of featuring all the game modes you expect from a Call of Duty game, Modern Warfare 4 is courting the competitive scene with something entirely new for the series: a game mode called Collateral.\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-counter-strike-collateral"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-pc-shot-crop-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-30T08:16:08.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "62478258daa7",
+    "slug": "global-game-content-revenue-forecast-to-rise-23-to-2291bn-in-2030-supp",
+    "headline": "Global game content revenue forecast to rise 2.3% to $229.1bn in 2030, supported by PC and Asia-Pacific market",
+    "summary": "Global game content revenue is projected to increase from $204.4 billion in 2025 to $229.1 billion in 2030, representing a 2.3% compound annual growth rate (CAGR), according to S&P Global Market Intelligence Kagan.\n Read more",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/global-game-content-revenue-forecast-to-rise-23-to-2291bn-in-2030-supported-by-pc-and-asia-pacific-market"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/two-people-playing-game-in-front-of-monitors-unsplash-alex-haney.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-30T07:48:33.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6974e292be30",
+    "slug": "bend-studios-job-advert-suggests-new-game-announcement-soon",
+    "headline": "Bend Studios Job Advert Suggests New Game Announcement Soon",
+    "summary": "The successful applicant will \"Engage with the community daily through our official social media channels.\"",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/days-gone-studio-bend-could-be-gearing-up-to-announce-next-title/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/days-gone-remastered-launch-trailer-0-47-screenshot.png",
+    "published_at": "2026-09-30T07:41:18.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "e1e2fd1acccd",
     "slug": "xbox-disc-to-digital-is-now-available-for-everyone",
     "headline": "Xbox Disc-To-Digital Is Now Available For Everyone",
@@ -594,29 +854,6 @@
     ],
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/moonfrost-press-screenshot-6.jpg",
     "published_at": "2026-09-29T23:11:55.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a73567f37dce",
-    "slug": "xboxs-disc-to-digital-is-rolling-out-now-to-all-users",
-    "headline": "Xbox’s Disc-To-Digital Is Rolling Out Now To All Users",
-    "summary": "Dust off your boxes, folks, it's time to claim those licenses",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/xboxs-disc-to-digital-is-rolling-out-now-to-all-users-2000738475"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/xbox-disc-stack-1280x720.jpg",
-    "published_at": "2026-09-29T23:01:23.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -4402,226 +4639,5 @@
     "comment_count": 0,
     "game": "teenage-mutant-ninja-turtles-splintered-fate",
     "game_label": "Teenage Mutant Ninja Turtles: Splintered Fate"
-  },
-  {
-    "id": "66ec4cbd3504",
-    "slug": "windup-minds-launches-stay-your-forever-pet-and-stay-embers-desktop-ad",
-    "headline": "Windup Minds Launches Stay: Your Forever Pet and Stay: Ember's Desktop Adventures on Steam",
-    "summary": "Developer Windup Minds has released Stay: Your Forever Pet and Stay: Ember's Desktop Adventures on Steam Early Access",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/windup-minds-launches-stay-your-forever-pet-alongside-stay-embers-desktop-adventures/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/66ec4cbd3504/800/600",
-    "published_at": "2026-09-29T12:58:19.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "stay-your-forever-pet",
-    "game_label": "Stay: Your Forever Pet"
-  },
-  {
-    "id": "1b9c973fa634",
-    "slug": "mexican-lawmakers-join-the-fight-for-digital-games-ownership-with-a-ne",
-    "headline": "Mexican lawmakers join the fight for digital games ownership with a new consumer rights initiative",
-    "summary": "Another country has entered the fray as ongoing debates around digital video game ownership ignite across the world.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/mexican-lawmakers-join-fight-digital-games-ownership"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/mexican-digital-rights-header-fixed.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-29T12:54:23.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "bb757601908d",
-    "slug": "troy-baker-promises-intergalactic-the-heretic-prophet-will-blow-player",
-    "headline": "Troy Baker Promises Intergalactic: The Heretic Prophet Will Blow Players’ Minds As Naughty Dog Confirms No New Reveal Until 2027: ‘We Need To Cook For Just A Little Bit Longer’",
-    "summary": "Naughty Dog's next game is staying dark for the rest of this year",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/troy-baker-promises-intergalactic-the-heretic-prophet-will-blow-players-minds-as-naughty-dog-confirms-no-new-reveal-until-2027-we-need-to-cook-for-just-a-little-bit-longer-2000738266"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/intergalactic-1280x716.jpg",
-    "published_at": "2026-09-29T12:47:12.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7bf5b346d1a8",
-    "slug": "oh-no-ps5-vapourware-abandoned-appears-to-be-coming-back",
-    "headline": "Oh No: PS5 Vapourware Abandoned Appears to Be Coming Back",
-    "summary": "Not so abandoned? Remember Abandoned, the upcoming PS5 game that sent everyone insane a few years ago? Well, it looks like it might be making a return. As pointed out on X, the PS Store page for Abandoned — which never went away, by the way — has recently been updated, suggesting developer Blue Box Game Studios is preparing to…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/oh-no-ps5-vapourware-abandoned-appears-to-be-coming-back"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/9d33ca91f9142/large.jpg",
-    "published_at": "2026-09-29T12:45:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "322edc3b3af3",
-    "slug": "the-witcher-3-developers-talk-remastering-a-classic-and-creating-songs",
-    "headline": "The Witcher 3: Developers talk remastering a classic and creating Songs of the Past",
-    "summary": "Witcher 3 developers discuss Songs of the Past, the remaster's combat overhaul, and why Dandelion's story deserved more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/features/interviews/the-witcher-3-developers-talk-remastering-a-classic-and-creating-songs-of-the-past/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/322edc3b3af3/800/600",
-    "published_at": "2026-09-29T12:43:45.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6641c582b999",
-    "slug": "the-tower-of-zeldaga-is-a-free-retro-mash-up-of-zelda-and-druaga-in-wh",
-    "headline": "The Tower of Zeldaga is a free retro mash-up of Zelda and Druaga in which you rescue Ganondorf from some evil blonde queen",
-    "summary": "The recent screening of Nintendo's The Legend of Zelda: Ocarina of Time remake has proven a thing of existential horror for many grey-haired Zeldenthusiasts. Is that you, Link? What have they done to you, boy? Why do you look like a possessed doll? Where have all your sharp edges gone? Eek, I can see individual divots on Epona's neck. Rest…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/the-tower-of-zeldaga-is-a-free-retro-mash-up-of-zelda-and-druaga-in-which-you-rescue-ganondorf-from-some-evil-blonde-queen"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-09-29-133458.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-29T12:40:37.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "dde7719606cd",
-    "slug": "mario-kart-tour-shuts-down-forever-later-today",
-    "headline": "Mario Kart Tour Shuts Down Forever Later Today",
-    "summary": "Nintendo will shut down Mario Kart Tour today. There are no plans for an offline version, which means the game will be unplayable.",
-    "category": "industry",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/mario-kart-tour-shut-down-today-september-29-2026/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/new-project-2026-09-29t131521-723.jpg",
-    "published_at": "2026-09-29T12:31:21.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b7b2eba133e4",
-    "slug": "why-should-we-just-give-up-the-entire-month-of-november-the-indie-game",
-    "headline": "\"Why should we just give up the entire month of November?\" – The indie games going head to head with GTA 6",
-    "summary": "Grand Theft Auto 6 is set to launch on November 19, and it's a fairly safe bet that it will be the biggest game launch of all time.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/why-should-we-just-give-up-the-entire-month-of-november-the-indie-games-going-head-to-head-with-gta-6"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Ambrosia_06.0j9c7-8nfb_xf.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-29T12:30:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e807845702f5",
-    "slug": "the-witcher-3-remastered-is-out-now-on-xbox-series-xs-and-heres-how-to",
-    "headline": "The Witcher 3 Remastered Is Out Now On Xbox Series X|S, And Here's How To Download It",
-    "summary": "Time to go back to Witcher school? In case you somehow missed it, the freshly remastered version of The Witcher 3: Wild Hunt is out now on Xbox, and is a free update for all those who already own the critically acclaimed RPG. On the Xbox Store, we've already noticed the Witcher 3 Complete Edition's page has been updated, and…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/the-witcher-3-remastered-is-out-now-on-xbox-series-xs-and-heres-how-to-download-it"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/d625396e44157/large.jpg",
-    "published_at": "2026-09-29T12:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "bde500ecb7a9",
-    "slug": "apothecary-diaries-returns-this-october",
-    "headline": "Apothecary Diaries Returns This October",
-    "summary": "The Apothecary Diaries is making a comeback with a new season premiering in October, and the creator is stockpiling merchandise for the occasion.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/toys-collectibles/the-apothecary-diaries-is-making-a-comeback-and-im-preparing-the-only-way-i-know-how-buying-all-this-merch/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/vxjf3wdzfLYzwLMDPBNoHf-1920-80.jpg",
-    "published_at": "2026-09-29T12:18:20.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "apothecary-diaries",
-    "game_label": "Apothecary Diaries"
   }
 ]
