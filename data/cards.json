@@ -1,5 +1,51 @@
 [
   {
+    "id": "e1e2fd1acccd",
+    "slug": "xbox-disc-to-digital-is-now-available-for-everyone",
+    "headline": "Xbox Disc-To-Digital Is Now Available For Everyone",
+    "summary": "The Xbox disc-to-digital program, which lets you claim digital versions of your physical games, is now available to all users.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/xbox-disc-to-digital-now-available-everyone/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/new-project-2026-09-30t072555-620.jpg",
+    "published_at": "2026-09-30T06:54:30.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5774f36ea39d",
+    "slug": "pokemon-firered-and-leafgreen-lock-in-pokemon-home-launch",
+    "headline": "Pokemon FireRed and LeafGreen Lock In Pokemon Home Launch",
+    "summary": "After months of waiting after their Switch release, Pokemon FireRed and LeafGreen are finally being made compatible with Pokemon Home.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/pokemon-firered-leafgreen-pokemon-home-release-date/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/pokemon-home-pokemon-firered-overlay.jpg",
+    "published_at": "2026-09-30T05:43:27.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "4a64af6ea6d9",
     "slug": "isles-of-sea-sky-coming-to-switch",
     "headline": "Isles of Sea & Sky Coming to Switch",
@@ -4577,51 +4623,5 @@
     "comment_count": 0,
     "game": "apothecary-diaries",
     "game_label": "Apothecary Diaries"
-  },
-  {
-    "id": "ee40989bd5dd",
-    "slug": "sony-makes-japanese-players-prove-theyre-gamers-to-get-a-ps5-pro",
-    "headline": "Sony Makes Japanese Players Prove They’re Gamers To Get A PS5 Pro",
-    "summary": "The demand for PlayStation 5 Pro consoles is currently outpacing supply in Japan, due to ongoing memory shortages that have yet to be resolved. Now, Sony is offering Japanese players a unique way to earn their way into a PS5 Pro lottery system, but only if they can demonstrate that they've already been gaming at a certain level. Sony's Japanese…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/sony-makes-japanese-players-prove-theyre-gamers-to-get-a-ps5-pro/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4667152-ps5pro.jpg?w=300",
-    "published_at": "2026-09-29T12:05:33.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a5ea675cb751",
-    "slug": "zelda-40th-anniversary-concert-tickets-go-on-sale-in-europe-this-week",
-    "headline": "Zelda 40th Anniversary Concert tickets go on sale in Europe this week, as Nintendo says more countries are coming",
-    "summary": "Ticket sales for the London, Stockholm, Edinburgh and Glasgow shows start on Wednesday",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/zelda-40th-anniversary-concert-tickets-go-on-sale-in-europe-this-week-as-nintendo-says-more-countries-are-coming/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a5ea675cb751/800/600",
-    "published_at": "2026-09-29T12:04:31.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
