@@ -1,5 +1,239 @@
 [
   {
+    "id": "4d2ea1e1a542",
+    "slug": "today-is-officially-the-end-of-an-era-for-nintendo",
+    "headline": "Today is Officially the End of an Era for Nintendo",
+    "summary": "Unfortunately for Nintendo fans, September 30 marks the end of an era for one of the company's biggest franchises.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/mario-kart-tour-shut-down-service-end-not-working-why/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/mario-kart-tour-shutdown.jpg",
+    "published_at": "2026-09-30T16:30:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "979ceb086dbb",
+    "slug": "xbox-is-not-for-sale",
+    "headline": "Xbox Is Not For Sale",
+    "summary": "Asha Sharma, the new head of Xbox, issues a confident statement denying any plans to sell the Xbox brand, amid speculation about the company's gaming division",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/xbox-is-not-for-sale-asha-sharma-issues-confident-statement-on-the-future-of-the-brand"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/56bf302986ece/large.jpg",
+    "published_at": "2026-09-30T16:30:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "xbox",
+    "game_label": "Xbox"
+  },
+  {
+    "id": "36978e3fb815",
+    "slug": "troy-baker-says-naughty-dogs-next-game-is-going-to-be-incredible",
+    "headline": "Troy Baker Says Naughty Dog's Next Game Is 'Going to Be Incredible'",
+    "summary": "Troy Baker expressed his excitement for Naughty Dog's upcoming game, calling it 'incredible', in a statement that hints at the game's potential scope and impact.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/adventure/intergalactic-the-heretic-prophet-is-testing-the-bounds-of-what-naughty-dog-is-capable-of-teases-the-last-of-us-star-you-are-not-ready/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/RY7b5eee4osmEBUTzrx9jd-1920-80.jpg",
+    "published_at": "2026-09-30T16:29:30.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-last-of-us",
+    "game_label": "The Last of Us"
+  },
+  {
+    "id": "d7ec7fe031d2",
+    "slug": "how-to-find-all-shum-arcade-machines-in-control-resonant",
+    "headline": " How to find all Shum Arcade machines in Control Resonant ",
+    "summary": "The arcade machines around Control Resonant are all Shum III, but in actuality they're all endgame challenges",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/action-rpg/control-resonant-shum-arcade/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/b9DWwkW67T74PdRqDxx6QR-1920-80.jpg",
+    "published_at": "2026-09-30T16:20:20.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "dab098c3c1f0",
+    "slug": "octobers-free-playstation-plus-games-include-f1-25",
+    "headline": "October’s ‘free’ PlayStation Plus games include F1 25",
+    "summary": "Sony has revealed the next three games coming to PS Plus",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/octobers-free-playstation-plus-games-include-f1-25/"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/playstation-plus-october-2026-games-announced-ps4-ps5-free-essential/"
+      },
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-october-2026/"
+      },
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/playstations-free-ps-plus-games-for-october-arent-really-scary-at-all-2000738654"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/dab098c3c1f0/800/600",
+    "published_at": "2026-09-30T16:16:10.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "175b5ce5dd8f",
+    "slug": "8bitdo-flippad-review",
+    "headline": "8Bitdo FlipPad review",
+    "summary": "The 8Bitdo FlipPad is a device that converts phones into Game Boys, with sleek buttons and a hinge. While it has minor flaws, it achieves its goal effectively.",
+    "category": "reviews",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/hardware/retro/8bitdo-flippad-review/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/jQFsJt6L3ZhQBqDadvLpaV-1920-80.jpg",
+    "published_at": "2026-09-30T16:15:13.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "flippad",
+    "game_label": "FlipPad"
+  },
+  {
+    "id": "347dbadab957",
+    "slug": "elta-defy-all-gods-metroid-prime-meets-god-of-war-hands-on-preview",
+    "headline": "Elta: Defy All Gods: Metroid Prime Meets God of War - Hands-On Preview ",
+    "summary": "Having no idea what we signed up when checking this game out at Gamescom, Elta: Defy All Gods turned out to be our fave game on the show floor. Fusing elements from the Metroid Prime series with God of War combat, the final result is an exciting experience that we're excited to try more of.",
+    "category": "reviews",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/video/elta-defy-all-gods-metroid-god-of-war-preview-good-underrated/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/elta-defy-all-gods-we-played-site.jpg",
+    "published_at": "2026-09-30T16:12:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "29a9ab6fb15e",
+    "slug": "should-you-take-or-turn-down-the-coin",
+    "headline": "Should You Take or Turn Down the Coin?",
+    "summary": "In The Witcher 3, players must decide whether to collect or reject their reward from the Nilfgaardians after defeating the griffin in White Orchard.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/the-witcher-3-take-or-leave-coin-decision-griffin-kill/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/the-witcher-3-should-you-take-the-coin-or-not-the-beast-of-white-orchard.jpg",
+    "published_at": "2026-09-30T16:07:41.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
+    "id": "1dd24ab4b6de",
+    "slug": "first-person-rpg-queens-domain-pitches-you-against-an-island-of-gorgeo",
+    "headline": "First-person RPG Queen's Domain pitches you against an island of gorgeous freaks with naught but a flying sword and infinite throwing daggers",
+    "summary": "Fantasy RPG Queen's Domain is frequently likened by certain other websites to From Software's King's Field games and The Elder Scrolls 3: Morrowind, so I'm going to put my nose in the air and forcibly compare it to something else. Looks like, errrrrr, a first-person Ico with Mayan architectural influences, maybe a touch of Final Fantasy's Ivalice period here and…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/first-person-rpg-queens-domain-pitches-you-against-an-island-of-gorgeous-freaks-with-naught-but-a-flying-sword-and-infinite-throwing-daggers"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/queens-domain.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-09-30T16:07:02.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "1bdd2eab2a58",
+    "slug": "stardew-valley-with-a-serial-killer-game-grave-seasons-finally-announc",
+    "headline": "\"Stardew Valley With a Serial Killer Game\" Grave Seasons Finally Announces Release Date",
+    "summary": "Grave Seasons, the dark Stardew Valley-inspired farming sim, has finally been given an official release date.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/grave-seasons-release-date-announced-2027/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/grave-seasons-key-art.jpg",
+    "published_at": "2026-09-30T16:01:38.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "4cfb8ba28cfd",
     "slug": "control-resonant-hides-its-best-part-15-hours-into-the-game",
     "headline": "Control Resonant Hides Its Best Part 15 Hours Into the Game",
@@ -89,23 +323,68 @@
     "game_label": null
   },
   {
-    "id": "dab098c3c1f0",
-    "slug": "octobers-free-playstation-plus-games-include-f1-25",
-    "headline": "October’s ‘free’ PlayStation Plus games include F1 25",
-    "summary": "Sony has revealed the next three games coming to PS Plus",
-    "category": "releases",
+    "id": "7eb6d92f52a4",
+    "slug": "logitechs-ai-fueled-game-clipping-software-makes-author-look-bad-at-co",
+    "headline": "Logitech's AI-Fueled Game Clipping Software Makes Author Look Bad at Counter-Strike",
+    "summary": "Logitech's new AI-powered game clipping software is reviewed by PC Gamer, with the author concluding it works well as a simple recording tool but doesn't improve their gaming performance.",
+    "category": "reviews",
     "platform_tags": [
-      "playstation"
+      "pc"
     ],
     "sources": [
       {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/octobers-free-playstation-plus-games-include-f1-25/"
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/software/ai/thanks-logitech-your-new-ai-fueled-game-clipping-software-makes-me-look-trash-at-counter-strike-but-imma-keep-it-installed/"
       }
     ],
-    "image_url": "https://picsum.photos/seed/dab098c3c1f0/800/600",
-    "published_at": "2026-09-30T15:53:39.000Z",
-    "hype_signal": 50,
+    "image_url": "https://cdn.mos.cms.futurecdn.net/upL4hKeyXzbpXXZJTed3SX-1920-80.jpg",
+    "published_at": "2026-09-30T15:58:32.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6bdbc3dee86b",
+    "slug": "pokemon-pokopia-announces-halloween-event",
+    "headline": "Pokémon Pokopia Announces Halloween Event",
+    "summary": "Pokémon Pokopia is hosting a Halloween-themed event with spooky new items and habitats.",
+    "category": "deals",
+    "platform_tags": [
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/pokemon-pokopia-pumpkaboos-sweet-surprises-halloween-event-date-how-it-works"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/30/hallopokopia-1790782267962.png",
+    "published_at": "2026-09-30T15:58:08.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pokemon-pokopia",
+    "game_label": "Pokémon Pokopia"
+  },
+  {
+    "id": "079b9f7c242d",
+    "slug": "diablo-5-game-director-promises-a-return-to-methodical-character-build",
+    "headline": "Diablo 5 Game Director Promises a Return to Methodical Character Builds, But Players Don't Believe Him",
+    "summary": "Diablo 5 game director Joe Shely has suggested a return to more methodical gameplay.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/diablo-5-game-director-promises-a-return-to-methodical-character-builds-but-players-dont-believe-him"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/12/diablo-v-1789237822781.png",
+    "published_at": "2026-09-30T15:56:37.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -199,6 +478,27 @@
     ],
     "image_url": "https://cdn.mos.cms.futurecdn.net/29pFDaXVUj4Kb8PkUqu6uJ-1920-80.jpg",
     "published_at": "2026-09-30T15:42:40.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c0e1640a183d",
+    "slug": "activision-should-hire-former-halo-devs-for-next-mainline-game-former",
+    "headline": "Activision Should Hire Former Halo Devs For Next Mainline Game, Former Franchise Director Says",
+    "summary": "Now that development of future Halo games is being handled by Activision Blizzard's hands, some former developers of the series have spoken out to share their thoughts on the shocking but not entirely surprising mix-up. This includes the former franchise creative director, who has provided some salient advice to the Call of Duty publisher. Frank O’Connor has worked on Halo…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/activision-should-hire-former-halo-devs-for-next-mainline-game-former-franchise-director-says/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/halo-image.jpg?w=300",
+    "published_at": "2026-09-30T15:37:31.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -323,6 +623,34 @@
     "comment_count": 0,
     "game": "grand-theft-auto-online",
     "game_label": "Grand Theft Auto Online"
+  },
+  {
+    "id": "c53361f0be74",
+    "slug": "the-best-worst-and-weirdest-star-wars-prequel-trilogy-games",
+    "headline": "The Best, Worst, and Weirdest Star Wars Prequel Trilogy Games",
+    "summary": "A look at the various Star Wars games released during the prequel era, highlighting both the good and the bad, as well as the unusual ones.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/the-best-worst-and-weirdest-star-wars-prequel-trilogy-games"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/30/starwars-prequel-best-worst-weirdest-1790770232959.jpeg",
+    "published_at": "2026-09-30T15:30:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "1898b908caa3",
@@ -1048,6 +1376,10 @@
       {
         "name": "Gematsu",
         "url": "https://www.gematsu.com/2026/09/antonblast-for-ps5-ps4-launches-october-1"
+      },
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/09/antonblast-for-ps5-ps4-launches-october-1-in-australia-and-new-zealand-in-mid-october-worldwide"
       }
     ],
     "image_url": "https://picsum.photos/seed/dde3dabaf911/800/600",
@@ -1177,6 +1509,27 @@
     "game_label": "The Witcher 3: Wild Hunt - Remastered Edition"
   },
   {
+    "id": "6a14d0f44abf",
+    "slug": "the-witcher-3-songs-of-the-past-plays-out-differently-if-youve-finishe",
+    "headline": " The Witcher 3: Songs of the Past plays out differently if you've finished the RPG's second expansion ",
+    "summary": "CD Projekt Red's new content works around what you've done",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-songs-of-the-past-plays-out-differently-if-youve-finished-the-rpgs-second-expansion-but-devs-say-that-doesnt-mean-you-have-to/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/AcZdhS9PLgeY7sVyvag5Yk-1920-80.jpg",
+    "published_at": "2026-09-30T14:12:56.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "00c44a9864b4",
     "slug": "sega-and-rgg-studio-reveal-new-gameplay-for-50-year-action-game",
     "headline": "SEGA and RGG Studio Reveal New Gameplay for 50-Year Action Game",
@@ -1226,6 +1579,31 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "97931c4f29ec",
+    "slug": "how-to-complete-new-growth-quest-and-doctor-underhill-in-control-reson",
+    "headline": "How to Complete New Growth Quest and Doctor Underhill in Control Resonant",
+    "summary": "Players need help Doctor Underhill in Control Resonant and make a choice about her fate",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/action-rpg/control-resonant-new-growth-underhill/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/U5pdSonjj75z5FgUUhNTzc-1920-80.jpg",
+    "published_at": "2026-09-30T14:04:01.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "control-resonant",
+    "game_label": "Control Resonant"
   },
   {
     "id": "225009120246",
@@ -4343,356 +4721,6 @@
     ],
     "image_url": "https://images.purexbox.com/64d3d2b1ad384/large.jpg",
     "published_at": "2026-09-29T23:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "091a5b996c06",
-    "slug": "gta-6s-game-of-the-year-chances-have-been-called-into-question",
-    "headline": "GTA 6's Game of the Year Chances Have Been Called Into Question",
-    "summary": "GTA 6 may not even be eligible for Game of the Year at The Game Awards this year.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6s-game-of-the-year-chances-have-been-called-into-question"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/29/9245b6dd45a143b26a7877ec5a29bb5c3fc00eda-1790721291674.webp",
-    "published_at": "2026-09-29T22:55:18.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7ac3a804a45d",
-    "slug": "10-game-cancellations-that-are-still-devastating-years-later",
-    "headline": "10 Game Cancellations That Are Still Devastating Years Later",
-    "summary": "Canceled games are nothing new, but 10 exciting games were taken out of action before they could deliver on their promise.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/canceled-games/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/3945830/scalebound-gamescom-2015-comrades.0.jpg",
-    "published_at": "2026-09-29T22:52:38.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "349c1117ca48",
-    "slug": "10-most-anticipated-nintendo-switch-2-games-releasing-in-october-2026",
-    "headline": "10 Most Anticipated Nintendo Switch 2 Games Releasing in October 2026",
-    "summary": "From Final Fantasy and Call of Duty to horror games and RPGs, October 2026 is shaping up to be a huge month for Nintendo Switch 2 players everywhere.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/nintendo-switch-2-games-october-2026/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/dragon-s-dogma-2-dark-arisen-dragon-behind-a-soldier-from-call-of-duty-modern-warfare-4-1.jpg",
-    "published_at": "2026-09-29T22:45:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8cea823820b3",
-    "slug": "deadlocks-gigantic-new-update-gives-its-city-a-spooky-new-coat-of-pain",
-    "headline": " Deadlock's gigantic new update gives its city a spooky new coat of paint and debuts 6 new heroes, including the one and only Rat King ",
-    "summary": "Valve continues to polish the game into one of the moodiest MOBAs out there.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/moba/deadlocks-gigantic-new-update-gives-its-city-a-spooky-new-coat-of-paint-and-debuts-6-new-heroes-including-the-one-and-only-rat-king/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/PSXgeqU4ZBVEnwaLVB45RJ-1920-80.jpg",
-    "published_at": "2026-09-29T22:19:27.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "195f5132bcba",
-    "slug": "valve-rolls-out-huge-update-for-hero-shooter-deadlock-as-game-hits-all",
-    "headline": "Valve Rolls Out Huge Update for Hero Shooter Deadlock as Game Hits All-Time Peak",
-    "summary": "Deadlock's City Never Sleeps update is huge and pushes the PC multiplayer hero shooter to an all-time peak concurrent player count on Steam.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/valve-deadlock-update-september-2026-development/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/deadlock.jpeg",
-    "published_at": "2026-09-29T22:18:41.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d828772d443e",
-    "slug": "007-first-light-is-getting-free-dlc-later-this-week",
-    "headline": "007 First Light Is Getting Free DLC Later This Week",
-    "summary": "007 First Light is getting new, free DLC later this week.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/007-first-light-is-getting-free-dlc-later-this-week"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/05/24/007-first-light-1-1779638838516.png",
-    "published_at": "2026-09-29T22:15:38.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6fdb04b8b4a6",
-    "slug": "american-truck-simulator-adds-dlc-where-you-dont-have-to-drive-a-truck",
-    "headline": " American Truck Simulator adds DLC where you don't have to drive a truck, sets a new Steam record ",
-    "summary": "\"We cannot thank you enough for your support over the years\"",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/simulation/american-truck-simulator-adds-dlc-where-you-dont-have-to-drive-a-truck-suddenly-sets-a-new-all-time-steam-player-record/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/hcD9qqwfn4y5wCxZYMrVfL-1920-80.jpg",
-    "published_at": "2026-09-29T22:13:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "555a30f8ece2",
-    "slug": "diablo-5-director-promises-diablo-2-style-combat-where-the-right-build",
-    "headline": " Diablo 5 director promises Diablo 2-style combat where 'the right build' matters more than Diablo 4's action-heavy approach ",
-    "summary": "Blizzard wants some classic action RPG DNA in the next Diablo game.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/rpg/diablo-5-director-promises-diablo-2-style-combat-where-the-right-build-matters-more-than-diablo-4s-action-heavy-approach/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/kXfb9Brr8xCrwARHpLQxdK-1920-80.jpg",
-    "published_at": "2026-09-29T22:10:46.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0c970639dd6a",
-    "slug": "ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre-order-bonu",
-    "headline": " Ace Combat 8 Steam reviewers are steaming mad about its pre-order bonus not being a standalone app ",
-    "summary": "The fine print for freebie Ace Combat Zero changed before launch.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/sim/ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre-order-bonus-not-being-a-standalone-app/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/vUcRCJgzRvvAHczNjkUV3a-1920-80.jpg",
-    "published_at": "2026-09-29T22:05:43.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "59dae103ac8a",
-    "slug": "little-nightmares-iii-dlc-the-shores-now-available",
-    "headline": "Little Nightmares III DLC ‘The Shores’ now available",
-    "summary": "Little Nightmares III downloadable content “The Shores” is now available as part of the “Secrets …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/little-nightmares-iii-dlc-the-shores-now-available"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/59dae103ac8a/800/600",
-    "published_at": "2026-09-29T22:00:59.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0a9d6475cef0",
-    "slug": "dune-awakening-on-ps5-is-making-me-break-my-rule-against-playing-survi",
-    "headline": "Dune: Awakening On PS5 Is Making Me Break My Rule Against Playing Survival Games",
-    "summary": "I'm getting lost in the sands of Arrakis and I'm enjoying every minute of it",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/dune-awakening-on-ps5-is-making-me-break-my-rule-against-playing-survival-games-2000738431"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/Dune-ps5-2-1280x720.jpg",
-    "published_at": "2026-09-29T22:00:24.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9e656a42aaf6",
-    "slug": "reality-fracture-is-the-best-magic-the-gathering-set-in-a-very-long-ti",
-    "headline": "Reality Fracture Is the best Magic: The Gathering Set In a Very Long Time",
-    "summary": "Here's why Reality Fracture is a game-changing Magic: The Gathering set for Commander players.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/mtg-reality-fracture-magic-the-gathering-set-review-commander-staples/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/two-garruks-fighting-mtg.jpg",
-    "published_at": "2026-09-29T22:00:15.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "541505ee680b",
-    "slug": "with-deadlocks-latest-updating-promising-six-new-heroes-over-10000-new",
-    "headline": "With Deadlock's latest updating promising six new heroes, over 10,000 new voice lines and too much more to mention, it's clear Valve are still pretty committed to it",
-    "summary": "It feels weird that Deadlock is technically a game that isn't out yet, doesn't it? You can't even just play it as someone that's never done so, you have to have someone that's already got access to send you an invite. Valve didn't even really acknowledge its existence publicly, and they still sort of treat it as this little secret…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/with-deadlocks-latest-updating-promising-six-new-heroes-over-10000-new-voice-lines-and-too-much-more-to-mention-its-clear-valve-are-still-pretty-committed-to-it"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/deadlock-city-never-sleeps.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-09-29T21:52:15.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "aae0bf5734ab",
-    "slug": "capcom-says-porting-monster-hunter-wilds-to-switch-2-was-a-painstaking",
-    "headline": "Capcom Says Porting Monster Hunter Wilds To Switch 2 Was A ‘Painstaking And At Times Seemingly Endless Process’",
-    "summary": "A monster of a Switch 2 port",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/capcom-says-porting-monster-hunter-wilds-to-switch-2-was-a-painstaking-and-at-times-seemingly-endless-process-2000736836"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/monster-hunter-wilds-1280x667.jpg",
-    "published_at": "2026-09-29T21:30:15.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "12ab8c565220",
-    "slug": "xbox-disc-to-digital-is-now-live-for-everyone-but-you-may-need-to-forc",
-    "headline": "Xbox Disc To Digital Is Now Live For Everyone, But You May Need To Force It Through",
-    "summary": "The time has come. Here we go, folks! Xbox has announced out of the blue this evening that all Xbox console users are getting access to the disc to digital feature today, following its brief period of testing for Xbox Insiders over the past few weeks. The news was announced by the official Xbox account on social media, and Xbox…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/xbox-disc-to-digital-is-now-live-for-everyone-but-you-may-need-to-force-it-through"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/eb2445b54788b/large.jpg",
-    "published_at": "2026-09-29T21:30:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0741f155b45d",
-    "slug": "everything-added-in-deadlocks-new-city-never-sleeps-patch",
-    "headline": "Everything Added In Deadlock's New City Never Sleeps Patch",
-    "summary": "After weeks of teases, Deadlock's newest patch is finally here and definitely worth the wait.",
-    "category": "patches",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/deadlokc-city-new-sleeps-patch-new-additions/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/deadlock-city-never-sleeps-major-update-cover-art.png",
-    "published_at": "2026-09-29T21:23:05.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
