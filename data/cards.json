@@ -1,5 +1,435 @@
 [
   {
+    "id": "f599ca21f314",
+    "slug": "destiny-2-is-taking-the-right-first-step-but-bungies-biggest-challenge",
+    "headline": "Destiny 2 Is Taking the Right First Step, but Bungie's Biggest Challenge Is What Comes Next",
+    "summary": "Bungie's unvaulting strategy is a step in the right direction for Destiny 2, but the franchise must continue to evolve to rebuild trust and move forward.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/destiny-2-unvaulted-content-bungie-future/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/the-traveler-in-the-midst-of-the-red-war-in-destiny-2.jpg",
+    "published_at": "2026-10-01T19:15:14.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "destiny-2",
+    "game_label": "Destiny 2"
+  },
+  {
+    "id": "8ea0bbdfb54f",
+    "slug": "thats-some-fiiiiine-lookin-milk-but-rust-devs-warn-that-cream-is-a-mor",
+    "headline": " That's some fiiiiine lookin' milk, but Rust devs warn that 'cream is a more powerful consumable' ",
+    "summary": "Rust's October update brings livestock and their various excretions to the survival game.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/survival-crafting/thats-some-fiiiiine-lookin-milk-but-rust-devs-warn-that-cream-is-a-more-powerful-consumable/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/LcH28gvcG6PtvSReSpamAg-1920-80.jpg",
+    "published_at": "2026-10-01T19:09:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b65401f3159f",
+    "slug": "brand-new-pve-co-op-survival-game-officially-unveiled",
+    "headline": "Brand-New PvE Co-Op Survival Game Officially Unveiled",
+    "summary": "A new PvE co-op survival game is revealed, and gamers may want to keep an eye on it because it draws inspiration from some popular FPS titles.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/new-pve-co-op-games-steam-nightrunner/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/nightrunner-gameplay-2.jpg",
+    "published_at": "2026-10-01T19:00:13.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f8c470b33cf9",
+    "slug": "sony-purportedly-plotting-new-ape-escape-game",
+    "headline": "Sony Purportedly Plotting New Ape Escape Game",
+    "summary": "Sony may be working on a new Ape Escape game, according to rumors, as the company continues to refresh its PlayStation lineup with new titles and technology updates.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/sony-purportedly-plotting-new-ape-escape-as-redemption-arc-starts"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/c8947f7ecc4f8/large.jpg",
+    "published_at": "2026-10-01T19:00:00.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ape-escape",
+    "game_label": "Ape Escape"
+  },
+  {
+    "id": "02706c603ab8",
+    "slug": "gears-of-war-e-day-playthrough-time-revealed",
+    "headline": "Gears of War E-Day Playthrough Time Revealed",
+    "summary": "A playthrough of Gears of War E-Day has been shared, providing details on playtime, completion percentage, and chapter lists.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gears-of-war-e-day-how-long-all-acts-chapters-list/"
+      },
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/the-gears-of-war-e-day-campaign-is-full-of-highs-and-lows-2000738923"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gears-of-war-e-day-all-act-1-collectible-locations/"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gears-of-war-eday-how-long-length-missions-acts-chapters-list/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/gears-of-war-e-day-how-long-to-beat-all-chapters-main-missions.jpg",
+    "published_at": "2026-10-01T18:42:22.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gears-of-war-e-day",
+    "game_label": "Gears of War E-Day"
+  },
+  {
+    "id": "310a083a7447",
+    "slug": "wind-waker-decomp-brings-native-ports-and-modern-enhancements",
+    "headline": "Wind Waker Decomp Brings Native Ports And Modern Enhancements",
+    "summary": "The Legend of Zelda: Wind Waker’s decomp brings native ports, modern enhancements, and climbing mechanics to the GameCube classic for the first time.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/wind-waker-decomp-lets-fans-play-it-like-never-before/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/04/link-and-several-characters-from-wind-waker-stood-on-a-globe.jpg",
+    "published_at": "2026-10-01T18:38:20.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2388f9bbec96",
+    "slug": "ps5s-new-qssr-ai-upscaling-tech-should-make-for-some-interesting-xbox",
+    "headline": "PS5's New QSSR AI Upscaling Tech Should Make For Some Interesting Xbox Comparisons",
+    "summary": "And it may indicate where Xbox is heading in the future as well. As you may have seen over at our sister site Push Square today, Sony has announced that AI upscaling is coming to the base PS5 in the form of something called QSSR, which is very similar to the PSSR upscaling on the PS5 Pro. In a nutshell,…",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/ps5s-new-qssr-ai-upscaling-tech-should-make-for-some-interesting-xbox-comparisons"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/eed9604a8aea3/large.jpg",
+    "published_at": "2026-10-01T18:37:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e7ff54553614",
+    "slug": "gta-6s-weather-system-sounds-like-a-big-step-up",
+    "headline": "GTA 6's Weather System Sounds Like A Big Step Up",
+    "summary": "Rockstar's upcoming Grand Theft Auto 6 features a revamped weather system, aiming to create a more immersive experience with localized and persistent weather effects.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6s-weather-system-sounds-like-a-big-step-up/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Vice_City_11.jpg?w=300",
+    "published_at": "2026-10-01T18:30:55.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "38e7f5d89ef4",
+    "slug": "steams-giant-autumn-sale-is-officially-here-to-destroy-everyones-walle",
+    "headline": "Steam's Giant Autumn Sale Is Officially Here To Destroy Everyone's Wallet",
+    "summary": "Valve's PC gaming platform is brimming with discounts on major new releases and old classics players can enjoy on top-of-the-line rigs and Steam Deck",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/steam-sale-autumn-2026-best-game-discounts-pc-gaming/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22688609/InkeeWang_210625_ecl1087_Steam_0001.jpg",
+    "published_at": "2026-10-01T18:20:13.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a3cc21434e40",
+    "slug": "perfect-fps-trilogies-where-every-game-is-a-masterpiece",
+    "headline": "Perfect FPS Trilogies Where Every Game Is A Masterpiece",
+    "summary": "A gaming outlet discusses exemplary first-person shooter (FPS) trilogies, highlighting their cohesive narratives and masterful gameplay.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/perfect-fps-trilogies-every-game-is-a-masterpiece/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/perfect-fps-trilogies-where-every-game-is-a-masterpiece.jpg",
+    "published_at": "2026-10-01T18:16:13.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0f3e52cdd802",
+    "slug": "theres-no-doubt-about-it-anime-rpg-litgirls-was-made-for-me",
+    "headline": "There's No Doubt About It, Anime RPG LitGirls Was Made for Me",
+    "summary": "Ascendance of a bookworm.\nWho the hell is responsible for this, and why have they been rummaging around in my brain?\nWe often joke about so-called Sammy Games™ here at Push Square Towers, but never has a title quite fit the bill like LitGirls: Bookbound Dungeon.\nRead the full article on pushsquare.com",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/theres-no-doubt-about-it-anime-rpg-litgirls-was-made-for-me"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/dbaac908df096/large.jpg",
+    "published_at": "2026-10-01T18:15:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3b67e8ce97b2",
+    "slug": "looking-to-play-pokemon-near-you",
+    "headline": "Looking to Play Pokémon Near You?",
+    "summary": "Step into the exciting world of the Pokémon Trading Card Game, where players of all skill levels come together! Whether you're a seasoned Trainer or completely new to the game, there is always a seat at the table for you. Connect with fellow fans over your favorite Pokémon, learn the ropes from friendly opponents, and jump right into the action.…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/video/pokemon-trading-card-game-tcg-near-you/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/pokemon-trading-card-game.png",
+    "published_at": "2026-10-01T18:13:24.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "20c2fe1e5aae",
+    "slug": "playstation-is-reportedly-planning-to-bring-back-ape-escape",
+    "headline": "PlayStation Is Reportedly Planning To Bring Back Ape Escape",
+    "summary": "An insider has claimed that Ape Escape is one of the dormant franchises PlayStation wants to bring back, but its developer isn't who you'd expect.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/ape-escape-reportedly-returning-team-asobi/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2022/01/teahubio-twisted-metal-wallpaper-3389974.png",
+    "published_at": "2026-10-01T18:00:16.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ba4435f22a2e",
+    "slug": "voidbreaker-launches-november-4",
+    "headline": "VOID/BREAKER Launches November 4",
+    "summary": "Fast-paced roguelite FPS game Void/Breaker is leaving Early Access and launching on PS5, Xbox, and other platforms.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/void-breaker-launches-november-4"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/ba4435f22a2e/800/600",
+    "published_at": "2026-10-01T17:35:35.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "voidbreaker",
+    "game_label": "VOID/BREAKER"
+  },
+  {
+    "id": "072003fa76d0",
+    "slug": "2026-steam-autumn-sale-now-live",
+    "headline": "2026 Steam Autumn Sale Now Live",
+    "summary": "Steam has kicked off its 2026 Autumn Sale, offering discounts on over 2,000 games for $5 or less",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/steam-autumn-sale-2026/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/JmxgAs8TWiW28gT39oo455-1920-80.jpg",
+    "published_at": "2026-10-01T17:21:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b6f2c4e72dfb",
+    "slug": "wolverine-adds-sonys-new-qssr-tech-as-default-on-base-ps5-in-latest-pa",
+    "headline": "Wolverine Adds Sony's New QSSR Tech as Default on Base PS5 in Latest Patch",
+    "summary": "Insomniac living up to its name. As announced moments ago, base PS5 hardware is getting a big update, with the introduction of QSSR – a simplified version of Sony’s proprietary upscaler, better known as PSSR. And one of the first games to take advantage of the feature is Marvel’s Wolverine, enabled by default with v1.002, available now. Read the full…",
+    "category": "patches",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/wolverine-adds-sonys-new-qssr-tech-as-default-on-base-ps5-in-latest-patch"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/7f07969bd966c/large.jpg",
+    "published_at": "2026-10-01T17:15:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2c8b420ae556",
+    "slug": "xbox-ceo-says-working-with-playstation-is-on-the-table-even-after-koji",
+    "headline": " Xbox CEO says working with PlayStation is on the table even after Kojima's Physint swaps publishers ",
+    "summary": "Xbox's on-again, off-again relationship with exclusives isn't getting any less confusing",
+    "category": "industry",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/xbox-ceo-says-working-with-playstation-is-on-the-table-even-after-hideo-kojimas-metal-gear-successor-physint-swaps-publishers-competition-and-collaboration-can-coexist/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/4fEJGyJLjBXwaBpoANtKbi-1920-80.jpg",
+    "published_at": "2026-10-01T17:13:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "fb223806e288",
+    "slug": "ps5-just-got-a-ps5-pro-like-ai-upgrade-but-dont-expect-it-everywhere-y",
+    "headline": "PS5 Just Got A PS5 Pro-Like AI Upgrade, But Don’t Expect It Everywhere Yet",
+    "summary": "The base PS5 console is no slouch when it comes to games, but compared to the PS5 Pro, it doesn't pack the same visual punch. That could change soon, as Sony has unveiled a new AI-upscaling upgrade for the older machine called Spectral Super Resolution (QSSR). Like PlayStation Spectral Super Resolution (PSSR), it is designed to make games look sharper…",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/ps5-just-got-a-ps5-pro-like-ai-upgrade-but-dont-expect-it-everywhere-yet/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/PS5-Console.jpg?w=300",
+    "published_at": "2026-10-01T17:04:53.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "9edb83bf2ac5",
     "slug": "24-year-old-final-fantasy-mmorpg-finally-gets-a-generous-free-trial",
     "headline": "24-Year-Old Final Fantasy MMORPG Finally Gets A Generous Free Trial",
@@ -334,6 +764,35 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "31961a2fbf64",
+    "slug": "007-first-light-gets-free-dlc-today",
+    "headline": "007 First Light Gets Free DLC Today",
+    "summary": "Eurogamer reports that 007 First Light is receiving a free DLC update, adding New Game Plus, photo modes, and new TacSim missions to the game.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/007-james-bond-first-light-free-dlc"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/007-first-lights-first-dlc-out-now-adds-new-game-plus"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/bond-extended-operations.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-01T16:23:12.000Z",
+    "hype_signal": 75,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "007-first-light",
+    "game_label": "007 First Light"
   },
   {
     "id": "dddc6bf676f7",
@@ -1061,38 +1520,6 @@
     "comment_count": 0,
     "game": "grand-theft-auto-6",
     "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "02706c603ab8",
-    "slug": "gears-of-war-e-day-playthrough-time-revealed",
-    "headline": "Gears of War E-Day Playthrough Time Revealed",
-    "summary": "A playthrough of Gears of War E-Day has been shared, providing details on playtime, completion percentage, and chapter lists.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gears-of-war-e-day-how-long-all-acts-chapters-list/"
-      },
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/the-gears-of-war-e-day-campaign-is-full-of-highs-and-lows-2000738923"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gears-of-war-e-day-all-act-1-collectible-locations/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/gears-of-war-e-day-how-long-to-beat-all-chapters-main-missions.jpg",
-    "published_at": "2026-10-01T15:36:44.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gears-of-war-e-day",
-    "game_label": "Gears of War E-Day"
   },
   {
     "id": "706ba86d3ba2",
@@ -1873,31 +2300,6 @@
     "comment_count": 0,
     "game": "metro-2033-and-metro-last-light",
     "game_label": "Metro 2033 and Metro: Last Light"
-  },
-  {
-    "id": "31961a2fbf64",
-    "slug": "007-first-light-gets-free-dlc-today",
-    "headline": "007 First Light Gets Free DLC Today",
-    "summary": "Eurogamer reports that 007 First Light is receiving a free DLC update, adding New Game Plus, photo modes, and new TacSim missions to the game.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/007-james-bond-first-light-free-dlc"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/bond-extended-operations.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-01T14:28:56.000Z",
-    "hype_signal": 75,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "007-first-light",
-    "game_label": "007 First Light"
   },
   {
     "id": "5986fdae5438",
@@ -4201,402 +4603,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "2512d34b5313",
-    "slug": "sega-is-teasing-a-new-house-of-the-dead-arcade-game-with-vr-headsets-a",
-    "headline": "Sega is teasing a new House of the Dead arcade game with VR headsets and an 85-inch screen for a ‘front door’",
-    "summary": "House of the Dead: Reawakened's cabinet is designed to look like a Gothic manor",
-    "category": "releases",
-    "platform_tags": [
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/sega-is-teasing-a-new-house-of-the-dead-arcade-game-with-vr-headsets-and-an-85-inch-screen-for-a-front-door/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/2512d34b5313/800/600",
-    "published_at": "2026-10-01T09:23:48.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6ebbef06ecb1",
-    "slug": "the-lego-playstation-is-now-available-for-insiders-and-that-free-astro",
-    "headline": " The Lego PlayStation is now available for Insiders, and that free Astro Bot figure is sealing the deal ",
-    "summary": "The Lego PlayStation has just dropped into stock, but you'll need to be an Insider to get early access to this and that adorable free Astro Bot figure.",
-    "category": "deals",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/toys-collectibles/the-lego-playstation-is-now-available-for-insiders-and-that-free-astro-bot-figure-is-sealing-the-deal/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/vCsXJ4EE9CU4MaJRFFHT4Y-1920-80.jpg",
-    "published_at": "2026-10-01T09:20:23.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "702b76ebfff2",
-    "slug": "the-legend-of-zelda-master-collection-officially-announced",
-    "headline": "The Legend of Zelda: Master Collection Officially Announced",
-    "summary": "Nintendo and its partner reveal official new box art for The Legend of Zelda: Master Collection.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/legend-zelda-master-collection-tcg-announcement-box-art/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/wind_waker_1920x1080.jpg",
-    "published_at": "2026-10-01T09:03:13.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "59a808ba697b",
-    "slug": "the-division-studio-massive-expands-to-take-control-of-splinter-cell-a",
-    "headline": "The Division studio Massive expands to take control of Splinter Cell and Ghost Recon, and a new IP, in Ubisoft's most recent reorganisation",
-    "summary": "Ubisoft has expanded the remit of Swedish studio Massive Entertainment - responsible for The Division series, Star Wars Outlaws and Avatar: Frontiers of Pandora - to become a second major part of the company and include more of its studios and game brands. Ubisoft also revealed Massive's work on a brand new, original game called March of Giants.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/massive-entertainment-the-division-splinter-cell-ghost-recon"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/massive-entertainment-splinter-cell-the-division-ghost-recon.jpeg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-01T09:02:25.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f3c71ad6aca3",
-    "slug": "capcom-has-an-intriguing-plan-for-when-its-resident-evil-remakes-catch",
-    "headline": "Capcom Has An Intriguing Plan For When Its Resident Evil Remakes Catch Up With The New Games",
-    "summary": "\"we have been gradually preparing\". Capcom has been proper busy over the last decade or so, pumping out a delightful mix of new Resident Evil titles alongside critically-acclaimed remake of its older entries. There's a lingering sense amongst fans, however, that at some point there will simply be no more remakes. The older games will eventually catch up with the…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/10/capcom-has-an-intriguing-plan-for-when-its-resident-evil-remakes-catch-up-with-the-new-games"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/c8966f3e621f3/large.jpg",
-    "published_at": "2026-10-01T09:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ef4e611c406d",
-    "slug": "nvidia-rtx-4070-supers-multi-frame-gen-limitation",
-    "headline": "Nvidia RTX 4070 Super's Multi Frame Gen Limitation",
-    "summary": "A user shares their experience with an unofficial unlock of the Nvidia RTX 4070 Super's Multi Frame Gen feature, finding it surprisingly smooth despite its limitation.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-says-my-rtx-4070-super-isnt-capable-of-multi-frame-gen-but-im-surprised-by-how-smooth-this-unofficial-unlock-actually-feels/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/eexQizhxGdny87wQtfrswd-1920-80.jpg",
-    "published_at": "2026-10-01T08:59:40.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "954e83b487bf",
-    "slug": "dynasty-warriors-producers-struggle-with-remasters",
-    "headline": "Dynasty Warriors Producers Struggle with Remasters",
-    "summary": "Dynasty Warriors series producer Tomohiko Sho expresses concerns about leading remasters, but also desires to work on new games",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/dynasty-warriors-series-producer-tomohiko-sho-is-conflicted-about-leading-future-remasters-im-in-my-fifties-i-sometimes-wonder-how-many-games-i-can-make-before-i-retire/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/954e83b487bf/800/600",
-    "published_at": "2026-10-01T08:52:06.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "dynasty-warriors",
-    "game_label": "Dynasty Warriors"
-  },
-  {
-    "id": "07c21a891df2",
-    "slug": "sony-is-selling-the-lego-astro-bot-separately-with-no-need-to-also-buy",
-    "headline": "Sony is selling the Lego Astro Bot separately, with no need to also buy the Lego PlayStation",
-    "summary": "Lego's site only makes Astro Bot available as a free gift if you spend a certain amount",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/sony-is-selling-the-lego-astro-bot-separately-with-no-need-to-also-buy-the-lego-playstation/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/07c21a891df2/800/600",
-    "published_at": "2026-10-01T08:29:19.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b3676f036edc",
-    "slug": "pc-and-console-revenue-charts-led-by-new-releases-in-august-newzoo-cha",
-    "headline": "PC and console revenue charts led by new releases in August | Newzoo charts",
-    "summary": "Several new releases entered Newzoo's Top 20 revenue charts in August, with EA Sports Madden NFL 27 debuting at No. 2 on console and House House's co-op title Big Walk ranking No. 3 on PC.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/pc-and-console-revenue-charts-led-by-new-releases-in-august-newzoo-charts"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/big-walk_WjHYVBm.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-01T08:25:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a4911902aa36",
-    "slug": "former-sony-exec-predicts-nintendo-will-dominate-switch-2-market",
-    "headline": "Former Sony Exec Predicts Nintendo Will Dominate Switch 2 Market",
-    "summary": "Former Sony executive Shuhei Yoshida believes Nintendo will maintain its strong position in the gaming market with the Switch 2, citing the importance of extending the current hardware generation.",
-    "category": "industry",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/10/former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to-do-pretty-well-with-switch-2-for-many-years-to-come"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/ead528c3293c2/large.jpg",
-    "published_at": "2026-10-01T08:00:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "switch",
-    "game_label": "Switch"
-  },
-  {
-    "id": "9a5deb038d62",
-    "slug": "you-can-start-playing-castlevania-belmonts-curse-early-with-free-demo",
-    "headline": "You Can Start Playing Castlevania: Belmont's Curse Early with Free Demo, Out Now on PS5",
-    "summary": "Belmont's blessing.\nAs promised, publisher Konami has released a playable demo for the first mainline entry in the Castlevania series in over a decade.\nAvailable right now on PS Store, you can dip your toes into Castlevania: Belmont's Curse on PS5.\nRead the full article on pushsquare.com",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/you-can-start-playing-castlevania-belmonts-curse-early-with-free-demo-out-now-on-ps5"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/82fa6e9adbb05/large.jpg",
-    "published_at": "2026-10-01T08:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "68fff48ad970",
-    "slug": "eu-issues-official-new-statement-on-call-of-duty-and-10-other-games",
-    "headline": "EU Issues Official New Statement on Call of Duty and 10 Other Games",
-    "summary": "The European Commission has spoken out about video games, including Call of Duty, and their need to comply with new regulations. The commission has largely ignored the games industry's response to these regulations until now.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/eu-comments-microtransaction-call-of-duty-minecraft/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/eu-comments-call-of-duty-minecraft-legal-action-gamerant.jpg",
-    "published_at": "2026-10-01T07:44:36.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a671a5d21ddd",
-    "slug": "morpho-reverie-reveal",
-    "headline": "Morpho Reverie Reveal",
-    "summary": "Morpho Reverie combines rhythm gameplay and visual novel elements to explore the impact of AI on musicians. A new story trailer and demo are coming this fall.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/morpho-reverie-combines-rhythm-gameplay-and-a-visual-novel-in-a-narrative-exploring-musicians-being-replaced-by-ai/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a671a5d21ddd/800/600",
-    "published_at": "2026-10-01T07:08:32.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "morpho-reverie",
-    "game_label": "Morpho Reverie"
-  },
-  {
-    "id": "bca88c8c82d1",
-    "slug": "moadra-launches-october-22",
-    "headline": "Moadra launches October 22",
-    "summary": "Alien-inspired science-fiction Metroidvania game Moadra will launch for PlayStation 5, Xbox Series, Switch, and PC …",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/moadra-launches-october-22"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/bca88c8c82d1/800/600",
-    "published_at": "2026-10-01T07:05:33.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "baa4c7186e21",
-    "slug": "dungeon-crawler-rpg-litgirls-bookbound-dungeons-announced-for-consoles",
-    "headline": "Dungeon crawler RPG LitGirls: Bookbound Dungeons announced for consoles, PC",
-    "summary": "Publisher DANGEN Entertainment and TurretGirls developer NANAIRO ENTERPRISE have announced LitGirls: Bookbound Dungeons, a dungeon …",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/dungeon-crawler-rpg-litgirls-bookbound-dungeons-announced-for-consoles-pc"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/baa4c7186e21/800/600",
-    "published_at": "2026-10-01T07:00:12.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "fa844417bbc4",
-    "slug": "lego-ps1-set-free-gift-now-available-for-purchase",
-    "headline": "Lego PS1 Set Free Gift Now Available for Purchase",
-    "summary": "The free gift included with a new Lego PS1 set can be bought separately for $24.99",
-    "category": "deals",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/lego-astro-bot-available-buy-without-ps1/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/10/new-project-2026-10-01t070115-737.jpg",
-    "published_at": "2026-10-01T06:19:38.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "lego-ps1",
-    "game_label": "Lego PS1"
-  },
-  {
-    "id": "1f8fcedca9ba",
-    "slug": "no-fallout-game-in-sight-until-2030s",
-    "headline": "No Fallout Game in Sight Until 2030s",
-    "summary": "PC Gamer suggests that a new Fallout game may not arrive until the 2030s, but the author believes it's still worth discussing the franchise",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/fallout/were-probably-not-getting-a-new-fallout-game-until-well-into-the-2030s-but-thats-no-reason-to-stop-talking-about-them/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/TxPLTFNUbWPRLUQ6DhUZK9-1920-80.jpg",
-    "published_at": "2026-10-01T04:53:31.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "fallout",
-    "game_label": "Fallout"
   }
 ]

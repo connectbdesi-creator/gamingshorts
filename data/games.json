@@ -17974,5 +17974,57 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-01T15:52:22.997Z"
+  },
+  {
+    "slug": "ape-escape",
+    "name": "Ape Escape",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/eb7/eb752b66d0060b832e5037c743850ab7.jpg",
+    "released": "1999-05-31",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Platformer"
+    ],
+    "platforms": [
+      "PlayStation 5",
+      "PlayStation 4",
+      "PlayStation"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/006/00665d730fa57d111e8ccf9a1a64f909.jpg",
+      "https://media.rawg.io/media/screenshots/472/472e63daef3ea2b87b87e83a5ac0753c.jpg",
+      "https://media.rawg.io/media/screenshots/90d/90daa22de16e38d3562c742178752d35.jpg",
+      "https://media.rawg.io/media/screenshots/5d6/5d6c63685e18c908bbc0e0a27cfccc96.jpg",
+      "https://media.rawg.io/media/screenshots/8e9/8e98db58799ec74cf27dfdb4cee466b8.jpg",
+      "https://media.rawg.io/media/screenshots/b5e/b5edec7c1319dbe905ca8501e92fe7ae.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-01T19:23:18.643Z"
+  },
+  {
+    "slug": "voidbreaker",
+    "name": "VOID/BREAKER",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/231/231dc740c1a005a7dc2175716cd2ecec.jpg",
+    "released": "2025-08-19",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/41d/41d70d22f904d164e734de12d7f679ba.jpg",
+      "https://media.rawg.io/media/screenshots/1a0/1a01d20b5615084f9c260a73363924b1.jpg",
+      "https://media.rawg.io/media/screenshots/81b/81b5af400b5ea872b2cc079da8d57b8c.jpg",
+      "https://media.rawg.io/media/screenshots/8cb/8cbbdc53d17ea89ae894c11e60c6eb3e.jpg",
+      "https://media.rawg.io/media/screenshots/298/2983a54ad6c111ec32cf1b70dbb9e97f.jpg",
+      "https://media.rawg.io/media/screenshots/69f/69f93106bad48134198bdcd162afd986.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-01T19:23:30.724Z"
   }
 ]
