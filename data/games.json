@@ -17783,5 +17783,31 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-01T11:38:29.777Z"
+  },
+  {
+    "slug": "warioware",
+    "name": "WarioWare: Twisted!",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/eb8/eb8df5fc548f499abd774253b85db194.jpg",
+    "released": "2004-10-14",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "Puzzle"
+    ],
+    "platforms": [
+      "Game Boy Advance"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/ca3/ca364b3c0c5eaa93c70d1b264f46146a.jpg",
+      "https://media.rawg.io/media/screenshots/95f/95f7de7494e80dc8bf6a34bb7f2e2a93.jpg",
+      "https://media.rawg.io/media/screenshots/964/964d322ac843e0900c92a422bc6eb556.jpg",
+      "https://media.rawg.io/media/screenshots/01f/01f1777f8815a831ec5f175b9e898794.jpg",
+      "https://media.rawg.io/media/screenshots/de6/de6682954a842b27ccd34e7d1284d5a7.jpg",
+      "https://media.rawg.io/media/screenshots/e9b/e9b61cb13b31b1ced9439ddf897b7cf8.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-01T12:06:59.164Z"
   }
 ]
