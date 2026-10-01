@@ -17833,5 +17833,38 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-01T12:38:22.163Z"
+  },
+  {
+    "slug": "reigns",
+    "name": "Reigns",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/69e/69ecbe81dd11f76c97d4b7c0a256429d.jpg",
+    "released": "2016-08-10",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Simulation",
+      "Card",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "iOS",
+      "Android",
+      "macOS",
+      "Linux"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/4a9/4a9b7e8273879f80155f46108ce189b0.jpg",
+      "https://media.rawg.io/media/screenshots/5db/5db6aef19583608067a075b256bc53d9.jpg",
+      "https://media.rawg.io/media/screenshots/d5f/d5ff7f998408fb736325b145d221ea84.jpg",
+      "https://media.rawg.io/media/screenshots/3f1/3f15029285945b73309a8a697469b0f7.jpg",
+      "https://media.rawg.io/media/screenshots/07a/07abdef051c4a0b88e462a0ac17ad45e.jpg",
+      "https://media.rawg.io/media/screenshots/a5b/a5b7ba35ab19e7ed466c7926184ad807.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-01T13:09:36.732Z"
   }
 ]
