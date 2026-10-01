@@ -1,5 +1,51 @@
 [
   {
+    "id": "baa4c7186e21",
+    "slug": "dungeon-crawler-rpg-litgirls-bookbound-dungeons-announced-for-consoles",
+    "headline": "Dungeon crawler RPG LitGirls: Bookbound Dungeons announced for consoles, PC",
+    "summary": "Publisher DANGEN Entertainment and TurretGirls developer NANAIRO ENTERPRISE have announced LitGirls: Bookbound Dungeons, a dungeon …",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/dungeon-crawler-rpg-litgirls-bookbound-dungeons-announced-for-consoles-pc"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/baa4c7186e21/800/600",
+    "published_at": "2026-10-01T07:00:12.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "fa844417bbc4",
+    "slug": "lego-ps1-set-free-gift-now-available-for-purchase",
+    "headline": "Lego PS1 Set Free Gift Now Available for Purchase",
+    "summary": "The free gift included with a new Lego PS1 set can be bought separately for $24.99",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/lego-astro-bot-available-buy-without-ps1/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/10/new-project-2026-10-01t070115-737.jpg",
+    "published_at": "2026-10-01T06:19:38.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "lego-ps1",
+    "game_label": "Lego PS1"
+  },
+  {
     "id": "1f8fcedca9ba",
     "slug": "no-fallout-game-in-sight-until-2030s",
     "headline": "No Fallout Game in Sight Until 2030s",
@@ -4659,47 +4705,5 @@
     "comment_count": 0,
     "game": "pokemon-tcg",
     "game_label": "Pokémon TCG"
-  },
-  {
-    "id": "1ea8b35faa08",
-    "slug": "video-heres-gameplay-of-ghost-of-yoteis-new-roguelike-mode-featuring-t",
-    "headline": "Video: Here’s gameplay of Ghost of Yotei’s new roguelike mode, featuring the return of Jin Sakai",
-    "summary": "We've got 27 minutes of footage from the game's Most Wanted mode",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/features/video-heres-gameplay-of-ghost-of-yoteis-new-roguelike-mode-featuring-the-return-of-jin-sakai/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/1ea8b35faa08/800/600",
-    "published_at": "2026-09-30T13:00:07.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c3310ca64fe5",
-    "slug": "cscale-comes-out-of-stealth-with-145m-to-build-interconnect-for-gigawa",
-    "headline": "CScale comes out of stealth with $145M to build interconnect for gigawatt-scale AI",
-    "summary": "CScale exited stealth today and announced $145 million in funding to accelerate development and commercialization of optical interconnect for gigawatt-scale AI. CScale is focused...\nThe post CScale comes out of stealth with $145M to build interconnect for gigawatt-scale AI appeared first on GamesBeat.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/cscale-comes-out-of-stealth-with-145m-to-build-interconnect-for-gigawatt-scale-ai/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/c3310ca64fe5/800/600",
-    "published_at": "2026-09-30T13:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
