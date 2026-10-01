@@ -1,5 +1,100 @@
 [
   {
+    "id": "1f8fcedca9ba",
+    "slug": "no-fallout-game-in-sight-until-2030s",
+    "headline": "No Fallout Game in Sight Until 2030s",
+    "summary": "PC Gamer suggests that a new Fallout game may not arrive until the 2030s, but the author believes it's still worth discussing the franchise",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/fallout/were-probably-not-getting-a-new-fallout-game-until-well-into-the-2030s-but-thats-no-reason-to-stop-talking-about-them/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/TxPLTFNUbWPRLUQ6DhUZK9-1920-80.jpg",
+    "published_at": "2026-10-01T04:53:31.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fallout",
+    "game_label": "Fallout"
+  },
+  {
+    "id": "55db57150089",
+    "slug": "control-resonant",
+    "headline": "Control Resonant",
+    "summary": "Kotaku praises Control Resonant's audio design, calling it the 'coolest bit of video game audio' in 2026.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/control-resonant-has-the-coolest-bit-of-video-game-audio-in-2026-2000738650"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/control-resonant-spaceship-landing-puzzle-solution/"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/09/control-board-voice-1280x720.jpg",
+    "published_at": "2026-10-01T03:57:40.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "control-resonant",
+    "game_label": "Control Resonant"
+  },
+  {
+    "id": "cac39613a40c",
+    "slug": "game-night-puzzle-solution-in-control-resonant",
+    "headline": "Game Night Puzzle Solution in Control Resonant",
+    "summary": "Game Night in Control Resonant is one of the Dylan Sketchbook puzzles that you'll come across in the Unknown zone, here's how to solve it.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/control-resonant-game-night-puzzle-solution/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/game-night-puzzle-control-resonant.jpg",
+    "published_at": "2026-10-01T03:57:33.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "32af8b08bbd0",
+    "slug": "nintendo-has-now-shut-down-mario-kart-tour",
+    "headline": "Nintendo Has Now Shut Down Mario Kart Tour",
+    "summary": "\"Thank you for playing\".\n\nIf you weren't already aware, Nintendo has now officially shut down its free-to-play mobile game Mario Kart Tour.\nRead the full article on nintendolife.com",
+    "category": "industry",
+    "platform_tags": [
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-now-shut-down-mario-kart-tour"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/d6d5b1f6078d1/large.jpg",
+    "published_at": "2026-10-01T03:45:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "c8d7ff3e29bd",
     "slug": "valve-reveals-steam-store-changes-coming-in-2027",
     "headline": "Valve Reveals Steam Store Changes Coming in 2027",
@@ -737,29 +832,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "55db57150089",
-    "slug": "control-resonant",
-    "headline": "Control Resonant",
-    "summary": "Kotaku praises Control Resonant's audio design, calling it the 'coolest bit of video game audio' in 2026.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/control-resonant-has-the-coolest-bit-of-video-game-audio-in-2026-2000738650"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/control-board-voice-1280x720.jpg",
-    "published_at": "2026-09-30T20:13:38.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "control-resonant",
-    "game_label": "Control Resonant"
   },
   {
     "id": "6f635e7405b4",
@@ -4625,73 +4697,6 @@
     "image_url": "https://picsum.photos/seed/c3310ca64fe5/800/600",
     "published_at": "2026-09-30T13:00:00.000Z",
     "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "465a6c14a216",
-    "slug": "queens-domain-brings-retro-fromsoft-soul-to-switch",
-    "headline": "Queen's Domain Brings Retro FromSoft Soul to Switch",
-    "summary": "Indie dev Freshly Baked Games' first-person RPG Queen's Domain draws inspiration from classic King's Field games, offering a retro FromSoft experience on the Nintendo Switch.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/this-fromsoft-inspired-rpg-is-packed-with-retro-kings-field-soul"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/2a1257f132f02/large.jpg",
-    "published_at": "2026-09-30T13:00:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "queens-domain",
-    "game_label": "Queen's Domain"
-  },
-  {
-    "id": "5897f64a4e15",
-    "slug": "a-new-indie-take-on-kings-field-arrives-on-steam-and-consoles-in-time",
-    "headline": " A new indie take on King's Field arrives on Steam and consoles in time for Halloween ",
-    "summary": "Queen's Domain is making no bones about its inspiration, but I'm not complaining",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/action-rpg/32-years-after-fromsoftware-redefined-dark-action-rpgs-on-ps1-a-new-indie-take-on-kings-field-is-doing-the-same-on-steam-and-consoles-in-time-for-halloween/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/NRbctDiJjMx75TahbmGz2d-1920-80.jpg",
-    "published_at": "2026-09-30T13:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0e605b2ee15a",
-    "slug": "trails-in-the-sky-2nd-chapter-is-rated-top-3-of-2026-and-is-the-highes",
-    "headline": "Trails in the Sky 2nd Chapter Is Rated Top 3 of 2026, and Is the Highest Rated Trails Game Ever",
-    "summary": "2nd time's a charm.\nFalcom seems to have struck gold with these Trails in the Sky remakes.\nLast year's Trails in the Sky 1st Chapter was almost immediately crowned the highest rated Trails title ever, but its top dog status has now been undone by its successor, Trails in the Sky 2nd Chapter.\nRead the full article on pushsquare.com",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/trails-in-the-sky-2nd-chapter-is-rated-top-3-of-2026-and-is-the-highest-rated-trails-game-ever"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/6008713af4ba2/large.jpg",
-    "published_at": "2026-09-30T13:00:00.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
