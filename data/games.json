@@ -18026,5 +18026,53 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-01T19:23:30.724Z"
+  },
+  {
+    "slug": "invincible-vs",
+    "name": "Invincible VS",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/fdf/fdfec2a343d751fec655f551146976cb.jpg",
+    "released": "2026-04-30",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/ffd/ffd0313eff5575244dc6163759293012.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-01T23:22:07.226Z"
+  },
+  {
+    "slug": "masters-of-albion",
+    "name": "Masters of Albion",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/fb2/fb2dd7c9442fd254eddfe4233f43eacc.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/91f/91f4a628ea5eee326f706ac0a16a9df6.jpg",
+      "https://media.rawg.io/media/screenshots/3d6/3d6faacd3f869ba610dbe06579a975fc.jpg",
+      "https://media.rawg.io/media/screenshots/31f/31f29cc7a19eac70399a8b7c29d35f00.jpg",
+      "https://media.rawg.io/media/screenshots/c75/c753b500239738fa1cdbd446e6aa2115.jpg",
+      "https://media.rawg.io/media/screenshots/70a/70a2968784650af5be35ac9c0e71ea08.jpg",
+      "https://media.rawg.io/media/screenshots/52b/52b112d90cab4ec3b93365cc2ac09cb4.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-01T23:22:08.366Z"
   }
 ]
