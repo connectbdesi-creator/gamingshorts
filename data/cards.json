@@ -1,5 +1,99 @@
 [
   {
+    "id": "44b02dce4507",
+    "slug": "capcom-admits-its-been-a-painstaking-process-porting-monster-hunter-wi",
+    "headline": "Capcom Admits It's Been A \"Painstaking\" Process Porting Monster Hunter Wilds To Switch 2",
+    "summary": "The team made decisions and optimisations \"one by one\". If you've experienced Monster Hunter Wilds on other platforms, especially during its launch window, you might already be aware of the game's technical woes. Despite this, these troubles hasn't stopped Capcom from bringing the game to Switch 2. We already know the game's performance and resolution, but to get the latest…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/capcom-admits-its-been-a-painstaking-process-porting-monster-hunter-wilds-to-switch-2"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/a7b06fd7c158d/large.jpg",
+    "published_at": "2026-10-02T04:55:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "eefc4f763258",
+    "slug": "project-aces-apologizes-to-ace-combat-8-owners",
+    "headline": "Project Aces Apologizes to Ace Combat 8 Owners",
+    "summary": "Ace Combat 8 owners are upset due to limited access to Ace Combat Zero, prompting a developer apology and promise to explore solutions.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/project-aces-apologizes-to-ace-combat-8-owners-on-steam-over-ace-combat-zeros-limited-launch-options-says-its-looking-into-potential-solutions/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/eefc4f763258/800/600",
+    "published_at": "2026-10-02T04:51:55.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ace-combat-zero",
+    "game_label": "Ace Combat Zero"
+  },
+  {
+    "id": "bef1d3c8e087",
+    "slug": "007-first-light-unveils-extended-operations-free-dlc-adds-new-game-pho",
+    "headline": "007 First Light Unveils Extended Operations Free DLC - Adds New Game+, Photo Mode And Much More",
+    "summary": "The Switch 2 port arrives next March. Although the Switch 2 port of 007 First Light has been delayed until next year, IO Interactive is still pushing out new content for the game on other platforms. With this mind, this week it's launched \"extended operations free DLC\", which comes with new missions, a photo mode, new game+, new weapons, outfits…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/007-first-light-unveils-extended-operations-free-dlc-adds-new-gameplus-photo-mode-and-much-more"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/2ef0beade345d/large.jpg",
+    "published_at": "2026-10-02T03:55:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "22124e393e5f",
+    "slug": "surreal-narrative-adventure-game-afantasia-to-be-published-by-studio-s",
+    "headline": "Surreal narrative adventure game [AFANTASIA] to be published by Studio Sasanqua",
+    "summary": "Studio Sasanqua, which was established by Visions of Mana director Kenji Ozawa following the closure …",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/surreal-narrative-adventure-game-afantasia-to-be-published-by-studio-sasanqua"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/22124e393e5f/800/600",
+    "published_at": "2026-10-02T03:38:59.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "b5a60b86ff37",
     "slug": "after-a-record-breaking-september-its-safe-to-say-steams-yearly-revenu",
     "headline": " After a record-breaking September, 'it's safe to say Steam's yearly revenue will blow past $20B for the first time' ",
@@ -260,6 +354,29 @@
     "comment_count": 0,
     "game": "fortnite",
     "game_label": "Fortnite"
+  },
+  {
+    "id": "89396f331783",
+    "slug": "gacha-rpgs-fuel-pc-live-service-growth",
+    "headline": "Gacha RPGs Fuel PC Live-Service Growth",
+    "summary": "A report from Newzoo reveals that gacha RPGs are driving the growth of live-service gaming on PC, indicating a shift away from dying out models.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/gacha-rpgs-are-driving-live-service-growth-on-pc-newzoo/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/89396f331783/800/600",
+    "published_at": "2026-10-01T23:32:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "54a0987f4b28",
@@ -4504,127 +4621,6 @@
     "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Control-Resin-Ants.jpg?w=300",
     "published_at": "2026-10-01T12:45:15.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "94c9fe9056c6",
-    "slug": "ubisofts-massive-entertainment-rebrand-has-made-the-name-much-more-lit",
-    "headline": "Ubisoft’s Massive Entertainment Rebrand Has Made The Name Much More Literal And Slightly Confusing",
-    "summary": "After folding several of its studios into \"Creative Houses\" earlier this year, Ubisoft has announced a rebranding for Creative House 2, which might be slightly confusing. The branch that is home to almost all of Ubisoft's Tom Clancy-branded games, Creative House 2 will now be known as Massive Entertainment, which is also the name of one of Ubisoft's longest-serving studios.…",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/ubisofts-massive-entertainment-rebrand-has-made-the-name-much-more-literal-and-slightly-confusing/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Massive-Entertainment.jpg?w=300",
-    "published_at": "2026-10-01T12:44:27.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e91a01ab4cae",
-    "slug": "capcoms-resident-evil-crossover-plan-revealed",
-    "headline": "Capcom's Resident Evil Crossover Plan Revealed",
-    "summary": "Capcom plans a mysterious crossover between the timelines of various Resident Evil games, with a new game due in 2027",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/capcom-arent-just-running-out-of-resident-evil-games-to-remake-theyre-banking-on-it-with-a-mysterious-crossover-planned-when-the-timelines-collide"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/claire-redfield-remake-original.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-01T12:40:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "resident-evil",
-    "game_label": "Resident Evil"
-  },
-  {
-    "id": "41bf6cb80a35",
-    "slug": "freddy-krueger-joins-fortnite-season-7-with-new-weapon",
-    "headline": "Freddy Krueger Joins Fortnite Season 7 with New Weapon",
-    "summary": "Fortnite has added Freddy Krueger as a boss in its latest season, along with a new weapon that players won't want to miss",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/fortnite-freddy-krueger-mythic-weapon-location/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/where-to-find-freddy-s-nightmare-in-fortnite-how-to-use-it.png",
-    "published_at": "2026-10-01T12:31:27.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "fortnite",
-    "game_label": "Fortnite"
-  },
-  {
-    "id": "06d16f31374c",
-    "slug": "maingear-launches-new-trade-in-service-for-old-tech-with-sellit9",
-    "headline": "Maingear launches new trade-in service for old tech with SellIt9",
-    "summary": "Maingear now offers instant trade-in through SellIt9, allowing customers to turn old tech into a Maingear gift card.\nThe post Maingear launches new trade-in service for old tech with SellIt9 appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/maingear-launches-new-trade-in-service-for-old-tech/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/06d16f31374c/800/600",
-    "published_at": "2026-10-01T12:30:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0ceefa3e9ccc",
-    "slug": "talking-point-so-how-are-you-liking-the-castlevania-belmonts-curse-dem",
-    "headline": "Talking Point: So, How Are You Liking The Castlevania: Belmont's Curse Demo?",
-    "summary": "Dracu-lotta fun?\n\nSo, ahead of its full release on 15th October 2026, Castlevania: Belmont's Curse just got a free demo on Switch, so you can try out the opening section of the game and see if it's up to scratch.\nRead the full article on nintendolife.com",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/features/talking-point-so-how-are-you-liking-the-castlevania-belmonts-curse-demo"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/a973583cab35d/large.jpg",
-    "published_at": "2026-10-01T12:30:00.000Z",
-    "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
