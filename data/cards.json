@@ -1,5 +1,33 @@
 [
   {
+    "id": "97db23f4776e",
+    "slug": "the-most-promising-horror-games-releasing-this-october-ranked",
+    "headline": "The Most Promising Horror Games Releasing This October, Ranked",
+    "summary": "Several horror games are releasing in October, including new titles from well-known developers and newcomers. The article ranks these games based on their potential scares and gameplay.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/most-promising-scariest-horror-games-releasing-october-2026-ranked/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/albion-gameplay-5.jpg",
+    "published_at": "2026-10-02T20:15:13.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "480c02ef66a7",
     "slug": "polygon-why-x-men-the-animated-series-deserves-more-recognition",
     "headline": "Polygon: Why X-Men: The Animated Series Deserves More Recognition",
@@ -4571,31 +4599,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "956cc433f125",
-    "slug": "gta-6-age-rating-confirms-explicit-content",
-    "headline": "GTA 6 Age Rating Confirms Explicit Content",
-    "summary": "The new GTA 6 age rating listing reveals the game will include mature themes and explicit content",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/new-gta-6-age-rating-confirms-game-will-feature-sex-scenes"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/27/gta6-romance-feature-blog-1787862386845.jpg",
-    "published_at": "2026-10-01T22:14:08.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   }
 ]
