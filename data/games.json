@@ -18156,5 +18156,82 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-02T11:22:41.069Z"
+  },
+  {
+    "slug": "halo-combat-evolved",
+    "name": "Halo: Combat Evolved",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/abf/abffd94ed6fe34027c720bee593c06d2.jpg",
+    "released": "2001-11-15",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Xbox"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d46/d469ecca7635747decf8f4663e8c61b5.jpg",
+      "https://media.rawg.io/media/screenshots/9ff/9ff77cd572bc3714a5712f8191e94efc.jpg",
+      "https://media.rawg.io/media/screenshots/a7e/a7eb6d1401b4b5f9e3eb7aa5e0dc2753.jpg",
+      "https://media.rawg.io/media/screenshots/3e9/3e9b5862ef2a694f5a5962f9b6a54d57.jpg",
+      "https://media.rawg.io/media/screenshots/1ca/1ca6e7541b146c6b55b7a1ca108062b0.jpg",
+      "https://media.rawg.io/media/screenshots/e49/e4951b16fe44d838e96597aba527abd0.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-02T13:24:08.169Z"
+  },
+  {
+    "slug": "valorant",
+    "name": "Valorant",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/b11/b11127b9ee3c3701bd15b9af3286d20e.jpg",
+    "released": "2020-06-02",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Strategy",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/44e/44ee071065eaf9b8ff12a6f605a21b9e.jpg",
+      "https://media.rawg.io/media/screenshots/4a3/4a387032daa1c9c38d8998183b583de6.jpg",
+      "https://media.rawg.io/media/screenshots/834/834b26b819343ceff1ab7ae187b79492.jpg",
+      "https://media.rawg.io/media/screenshots/28b/28b4a9a7aa79803c1831ef2f3fff4566.jpg",
+      "https://media.rawg.io/media/screenshots/535/535edb2ee1fa8453e51adfc24d0ac392.jpg",
+      "https://media.rawg.io/media/screenshots/cb6/cb6a27d36bc5716ffbdec90cba9f1eaf_fEUPxPV.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-02T13:24:09.486Z"
+  },
+  {
+    "slug": "2xko",
+    "name": "2XKO",
+    "description": null,
+    "background_image": null,
+    "released": "2026-01-20",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [],
+    "stores": [],
+    "fetched_at": "2026-10-02T13:24:10.564Z"
   }
 ]
