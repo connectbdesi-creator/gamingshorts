@@ -18099,5 +18099,62 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-02T05:21:43.519Z"
+  },
+  {
+    "slug": "lisa",
+    "name": "LISA",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/8ce/8cebeed933d324407ee4544c14a64ebf.jpg",
+    "released": "2014-12-14",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Linux"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f50/f506e8f661de1d2abb04be7aa172d5f4.jpg",
+      "https://media.rawg.io/media/screenshots/eb1/eb18ab27e58140070498dfcf2d728b54.jpg",
+      "https://media.rawg.io/media/screenshots/c95/c9546ebddc45c916ae30aaf78f700fb8.jpg",
+      "https://media.rawg.io/media/screenshots/cb8/cb88c70920dc1ce809af48bf6f95385b.jpg",
+      "https://media.rawg.io/media/screenshots/5a4/5a4e4b909ce79c1365b9855c17227a37.jpg",
+      "https://media.rawg.io/media/screenshots/d37/d37b67b008893f5f5d269a8a6e4fccc6.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-02T11:22:40.302Z"
+  },
+  {
+    "slug": "doctor-who-infinity",
+    "name": "Doctor Who Infinity",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/de5/de5a57b3ec8031eae1796ef209928cf7.jpg",
+    "released": "2018-08-07",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Casual",
+      "Strategy",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a0f/a0fe65ffcd7e535c5d84fb467da8bcbc.jpg",
+      "https://media.rawg.io/media/screenshots/116/11695cd2bd4b11e700fbafc3254ea8a5.jpg",
+      "https://media.rawg.io/media/screenshots/01a/01a8e90a5ce9f9d9572ee49fa4464d78.jpg",
+      "https://media.rawg.io/media/screenshots/4e0/4e0996beca2b7bc577e304847615a821.jpg",
+      "https://media.rawg.io/media/screenshots/81a/81acbd63dcb8caf87828344d2f732671.jpg",
+      "https://media.rawg.io/media/screenshots/d0b/d0b3ad221867fb750c8df471df908e9d.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-02T11:22:41.069Z"
   }
 ]
