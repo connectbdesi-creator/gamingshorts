@@ -18233,5 +18233,32 @@
     "screenshots": [],
     "stores": [],
     "fetched_at": "2026-10-02T13:24:10.564Z"
+  },
+  {
+    "slug": "halo-5-guardians",
+    "name": "Halo 5: Guardians",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/77f/77fb27e5b7ec6984f43a70a289376e6a.jpg",
+    "released": "2015-10-27",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "Xbox One"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/e59/e5996dd948edc8af4abf802a4b8f357e.jpg",
+      "https://media.rawg.io/media/screenshots/500/500d779a2aa2b0f9cdf8683c9cb79252.jpg",
+      "https://media.rawg.io/media/screenshots/339/33932fd0f57ae486a9aef36f5ba177e7.jpg",
+      "https://media.rawg.io/media/screenshots/0cc/0cc37ff90a0c7253d8b1f12c86fd0198.jpg",
+      "https://media.rawg.io/media/screenshots/e7d/e7d091a6dc536cfa687baa342d726d46.jpg",
+      "https://media.rawg.io/media/screenshots/021/021920e9ad6864c67047fae4082db049.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-02T15:23:49.919Z"
   }
 ]
