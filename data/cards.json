@@ -1,5 +1,53 @@
 [
   {
+    "id": "b9f00300b275",
+    "slug": "everything-you-need-to-know-about-honkai-star-rails-active-warp-banner",
+    "headline": "Everything You Need to Know About Honkai: Star Rail's Active Warp Banners",
+    "summary": "Honkai: Star Rail has two active Warp Banners with two cycles each, providing valuable rewards for players.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/honkai-star-rail-hsr-current-next-past-banner-history-schedule/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/05/honkai-star-rail-honkai-star-rail-current-next-past-banner-history-schedule-1.jpg",
+    "published_at": "2026-10-03T02:46:30.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "honkai-star-rail",
+    "game_label": "Honkai: Star Rail"
+  },
+  {
+    "id": "e09d70090786",
+    "slug": "nintendo-has-renewed-multiple-game-trademarks",
+    "headline": "Nintendo Has Renewed Multiple Game Trademarks",
+    "summary": "Blasting back.\nNintendo has recently renewed some more video game trademarks, this time for multiple titles on 3DS and Wii U.\nThe first game on the list is Next Level's 2016 Metroid Prime multiplayer spin-off Federation Force. Along with this is the included title Blast Ball (which was also available as a standalone game).\nRead the full article on nintendolife.com",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-renewed-multiple-game-trademarks"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/8e330870aa2ed/large.jpg",
+    "published_at": "2026-10-03T01:55:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "04a98dea80e2",
     "slug": "sonic-racing-crossworlds-final-content-drop-of-year-one-arrives-this-m",
     "headline": "Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Arrives This Month",
@@ -4528,52 +4576,5 @@
     "comment_count": 0,
     "game": "esa-crossover-collection",
     "game_label": "ESA Crossover Collection"
-  },
-  {
-    "id": "af2557f83217",
-    "slug": "vixen-357-mecha-srpg-to-come-to-steam-with-full-english-support",
-    "headline": "Vixen 357 Mecha SRPG to Come to Steam with Full English Support",
-    "summary": "Developer Extreme and publisher Shinyuden are re-releasing 1992's Vixen 357 mecha SRPG on Steam later this year with full English support.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/sega-genesis-long-forgotten-mecha-srpg-vixen-357-is-coming-to-steam-with-full-english-support/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/af2557f83217/800/600",
-    "published_at": "2026-10-02T06:42:01.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "vixen-357",
-    "game_label": "Vixen 357"
-  },
-  {
-    "id": "600b97a9ce5a",
-    "slug": "round-up-the-reviews-for-minecraft-dungeons-ii-are-in",
-    "headline": "Round Up: The Reviews For Minecraft Dungeons II Are In",
-    "summary": "Enter the Sift. The world of Minecraft just got a little bigger this week with the release of Minecraft Dungeons II on Nintendo's systems and other platforms. If you haven't already tried out this new entry in the action RPG series, we've now put together this round up to help give you a better idea of what to expect. At…",
-    "category": "reviews",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-minecraft-dungeons-ii-are-in"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/31338c6f5b98e/large.jpg",
-    "published_at": "2026-10-02T05:55:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
