@@ -18476,5 +18476,59 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-03T13:07:29.399Z"
+  },
+  {
+    "slug": "clair-obscur",
+    "name": "Clair Obscur: Expedition 33",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/466/4667f17fdee9ebbcea2049e54f8e2b96.jpg",
+    "released": "2025-04-24",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/1e4/1e4dcb884c03242be7dab30fad77d7b2.jpg",
+      "https://media.rawg.io/media/screenshots/22c/22c350e84e9f320b389cdabf0c213f7f.jpg",
+      "https://media.rawg.io/media/screenshots/d8c/d8ce62f48218d47440c1859366860562.jpg",
+      "https://media.rawg.io/media/screenshots/72d/72da1f6013eb7b3f10c624dfeb3dd578.jpg",
+      "https://media.rawg.io/media/screenshots/16b/16bca296df99c20d6d54d67b2e6ad71b.jpg",
+      "https://media.rawg.io/media/screenshots/7bb/7bb0c8b67c9add59d1a13ebb7da790b1.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-03T19:08:14.506Z"
+  },
+  {
+    "slug": "spider-man",
+    "name": "Marvel's Spider-Man",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/9aa/9aa42d16d425fa6f179fc9dc2f763647.jpg",
+    "released": "2018-09-07",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/331/331ba5164c5c53a5d59aad3fe9771ac7.jpg",
+      "https://media.rawg.io/media/screenshots/a15/a15b42bd8a652a3733c6ad419ebb24bd.jpg",
+      "https://media.rawg.io/media/screenshots/150/150589c127b28f287f992c2bd426b443.jpg",
+      "https://media.rawg.io/media/screenshots/f52/f526988f895b554dccf68767557a8518.jpg",
+      "https://media.rawg.io/media/screenshots/745/74589db2dee21101d7af690976fca902.jpg",
+      "https://media.rawg.io/media/screenshots/090/09063845f2efe6d0b9bc908e2652c1e1.jpeg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-03T19:08:15.055Z"
   }
 ]
