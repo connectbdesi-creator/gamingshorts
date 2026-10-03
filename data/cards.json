@@ -1,5 +1,166 @@
 [
   {
+    "id": "6616501e7064",
+    "slug": "uncharted-the-lost-legacy-is-still-the-best-uncharted-game",
+    "headline": "Uncharted: The Lost Legacy Is Still the Best Uncharted Game",
+    "summary": "Naughty Dog's 2017 standalone spinoff that leaves Nathan Drake behind is an underappreciated masterpiece, and its director is leading Uncharted 5",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/uncharted-lost-legacy-rec-playstation-naughty-dog/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/lost-legacy-chloe-cropped.jpg",
+    "published_at": "2026-10-03T23:00:16.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d6901bee8d0f",
+    "slug": "new-batman-arkham-release-adds-spider-man-to-the-game",
+    "headline": "New Batman: Arkham Release Adds Spider-Man to the Game",
+    "summary": "A new fan-made release for Batman: Arkham Knight takes the webslinger Spider-Man and places him in Gotham City with all his powers at the ready.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/batman-arkham-spider-man-mod/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/new-batman-arkham-release-adds-spider-man-to-the-game-gamerant.jpg",
+    "published_at": "2026-10-03T23:00:13.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f2cb4fb6d271",
+    "slug": "valorant-player-claims-to-have-inherited-hardware-ban-through-secondha",
+    "headline": "Valorant Player Claims to Have Inherited Hardware Ban Through Secondhand CPU",
+    "summary": "A Valorant player claims they received a hardware ban through a secondhand CPU purchase, but the game's anticheat boss disputes parts of the story.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/fps/valorant-player-claims-to-have-inherited-hardware-ban-through-secondhand-cpu-riot-anticheat-boss-disputes-parts-of-story/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/jeEDz3FccvPCYQsVEaSr7J-1920-80.jpg",
+    "published_at": "2026-10-03T22:41:35.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "valorant",
+    "game_label": "Valorant"
+  },
+  {
+    "id": "5347af3838ca",
+    "slug": "longest-snes-games-that-take-forever-to-complete",
+    "headline": "Longest SNES Games That Take Forever To Complete",
+    "summary": "The Super Nintendo has a billion great RPGs, and some of these SNES games will keep you playing for a billion hours.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/snes-rpgs-long-games-take-forever-complete/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/longest-snes-games-to-complete-majin-tensei-2-with-console.jpg",
+    "published_at": "2026-10-03T22:38:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "4e1a771b8359",
+    "slug": "ps-plus-shutting-down-in-november",
+    "headline": "PS Plus Shutting Down in November",
+    "summary": "PS Plus users have a month to play before Sony shuts down the popular service on November 2.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/playstation-stars-rewards-shut-down-november-2/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/playstation-stars-shutting-down.jpg",
+    "published_at": "2026-10-03T22:31:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ps-plus",
+    "game_label": "PS Plus"
+  },
+  {
+    "id": "d785d8fb8f20",
+    "slug": "runescape-4-announced",
+    "headline": "RuneScape 4 Announced",
+    "summary": "RuneScape's developer has revealed RuneScape 4, a full MMO sequel, initially planned as an expansion to survival game Dragonwilds. The full game is now in development.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/mmo/runescape-4-announced-at-runefest-full-mmo-sequel-started-as-expansion-to-survival-game-dragonwilds/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/bJYvLUoWg8ndWDeu9FPmfU-1920-80.png",
+    "published_at": "2026-10-03T21:44:49.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "runescape-4",
+    "game_label": "RuneScape 4"
+  },
+  {
+    "id": "12c260a2da4d",
+    "slug": "the-witcher-3-remastered-mod-tames-visuals",
+    "headline": "The Witcher 3 Remastered Mod Tames Visuals",
+    "summary": "A new mod for The Witcher 3: Wild Hunt makes it easier to adjust the game's visuals, including brightness and color correction.",
+    "category": "patches",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/the-witcher-3-mod-fix-washed-out-visuals/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/10/292030_20261003221643_1.png",
+    "published_at": "2026-10-03T21:21:54.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
     "id": "f41a4f1a22db",
     "slug": "new-ps5-horror-game-looks-like-anime-resident-evil",
     "headline": "New PS5 Horror Game Looks Like Anime Resident Evil",
@@ -278,6 +439,27 @@
     ],
     "image_url": "https://assets-prd.ignimgs.com/2026/10/01/btfiuoeldu6mkzuez7e008xhvd1icgg-jcb-u5aiuoy-1790813782471.jpeg",
     "published_at": "2026-10-03T19:45:42.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ef96a7a0d73e",
+    "slug": "the-7-best-games-like-hollow-knight-silksong-to-speed-up-the-wait-for",
+    "headline": "The 7 Best Games Like Hollow Knight: Silksong to Speed Up the Wait for Sea of Sorrows",
+    "summary": "From brutal boss fights to precise platforming challenges, here are 7 games like SiIlksong to play while you wait for new DLC.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/best-games-like-silksong-sea-sorrows-wait/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/hollow-knight-silksong-sea-sorrow.png",
+    "published_at": "2026-10-03T19:37:08.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -4484,187 +4666,6 @@
     "image_url": "https://kotaku.com/app/uploads/2026/09/FFVII_Revelation_June_Screenshots_8-1280x720.jpg",
     "published_at": "2026-10-02T15:00:07.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b52b1435babe",
-    "slug": "ken-kutaragi-calls-for-innovation-in-the-gaming-industry",
-    "headline": "Ken Kutaragi Calls for Innovation in the Gaming Industry",
-    "summary": "Ken Kutaragi, the 'father of PlayStation', believes games have become stagnant and urges developers to maintain their creative spark.",
-    "category": "industry",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/the-father-of-playstation-thinks-games-have-stagnated-calls-for-curiosity-in-developers"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/9b21be3eea3d2/large.jpg",
-    "published_at": "2026-10-02T15:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "144974ce572f",
-    "slug": "countdown-zelda-ocarina-of-time-dungeon-crawl-3-i-hate-this-place",
-    "headline": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #3 - I Hate This Place",
-    "summary": "Into the belly of the beast. The countdown continues! My weekly adventures through Ocarina of Time's dungeons have brought me to the last of the Child Link trilogy, and what a note to go out on. For those who missed the previous two editions, I'm revisiting one OoT dungeon each week, neatly leading me up to the grand finale on…",
-    "category": "esports",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-3-i-hate-this-place"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/f9122ebac2a11/large.jpg",
-    "published_at": "2026-10-02T15:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a706d7ad0796",
-    "slug": "in-pictures-the-best-places-to-work-awards-2026",
-    "headline": "In pictures: the Best Places To Work Awards 2026",
-    "summary": "Last night saw the reveal of this year's GamesIndustry.biz Best Places To Work Awards UK, which returned to the Royal Institution in London at the end of the GamesIndustry.biz HR Summit. The awards were generously sponsored by Amiqus, Playground Games, IO Interactive, Games London and Special Effect.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/in-pictures-the-best-places-to-work-awards-2026"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/5D7A8407-Edit.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-02T14:55:28.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "eff16afeb262",
-    "slug": "critical-role-reveals-why-campaign-4s-biggest-change-is-also-a-huge-ch",
-    "headline": "Critical Role Reveals Why Campaign 4's Biggest Change Is Also a Huge Challenge",
-    "summary": "Critical Role's Campaign 4 is changing its West Marches format, a change that may also affect the cast's dynamics",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/critical-role-campaign-4-biggest-challenge/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/critical-role-schemers-table.jpg",
-    "published_at": "2026-10-02T14:54:40.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b17ea442f020",
-    "slug": "bethesda-kills-ai-fans-viral-fallout-game-much-to-their-chagrin",
-    "headline": " Bethesda kills AI fan's viral Fallout game, much to their chagrin ",
-    "summary": "Fallout: New York is no more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/fallout/bethesda-kills-ai-fans-viral-fallout-game-much-to-their-chagrin-how-about-you-make-a-fallout-game-instead-so-i-dont-have-to/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/xq6QjqrnA4RgFRysetkhYR-1920-80.jpg",
-    "published_at": "2026-10-02T14:50:56.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3ba7c32f8f42",
-    "slug": "im-going-to-teach-you-to-love-hidden-object-games",
-    "headline": " I'm going to teach you to love hidden object games ",
-    "summary": "Or at least to respect them. I'd settle for that. And if you feel like embarking on a journey of discovery, I can help with that, too.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/im-going-to-teach-you-to-love-hidden-object-games/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/E599zWgYyWoA6XCJFSzDGe-1920-80.jpg",
-    "published_at": "2026-10-02T14:48:25.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8620502202a1",
-    "slug": "epic-games-store-is-giving-away-system-shock-2-for-free",
-    "headline": "Epic Games Store Is Giving Away System Shock 2 For Free",
-    "summary": "Nightdive Studios' impressive remaster is free-to-keep right now on EGS.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/system-shock-2-remaster-free-epic-games-store/"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/system-shock-2-remaster-is-free-to-keep-on-the-epic-games-store-right-now"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/system-shock-2-key-art-of-shodan-s-face.jpg",
-    "published_at": "2026-10-02T14:47:58.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0b81f6e066f4",
-    "slug": "what-to-buy-steam-autumn-sale-2026",
-    "headline": "What to Buy: Steam Autumn Sale 2026",
-    "summary": "The Steam Autumn sale is here featuring loads of discounts on some of the best games of 2026, including fan favorites that just released. From Capcom horror hits in the Resident Evil series, to new IPs, co-op multiplayer titles, and all-time classics like The Witcher 3: Wild Hunt Remastered, your next favorite game is on sale now. We’ve combed through…",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/video/what-to-buy-steam-autumn-sale-2026/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/what-to-buy-steam-autumn-sale-2026-site.jpg",
-    "published_at": "2026-10-02T14:36:06.000Z",
-    "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
