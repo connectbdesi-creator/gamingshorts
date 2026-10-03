@@ -1,5 +1,278 @@
 [
   {
+    "id": "68b04907be2a",
+    "slug": "lanterns-makes-even-more-sense-if-you-know-about-dcs-iconic-20-year-ol",
+    "headline": "Lanterns Makes Even More Sense If You Know About DC's Iconic 20-Year-Old Meme",
+    "summary": "Polygon discusses how the game Lanterns is inspired by a 2002 meme from DC Comics, hinting at the game's connection to the DC universe",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/green-lantern-head-trauma/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/hal-jordan-kyle-chandler-wields-is-green-lantern-ring-in-lanterns.jpg",
+    "published_at": "2026-10-03T15:00:16.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "lanterns",
+    "game_label": "Lanterns"
+  },
+  {
+    "id": "cac2fab96aa1",
+    "slug": "gta-6-quietly-reveals-new-open-world-gameplay-details",
+    "headline": "GTA 6 Quietly Reveals New Open-World Gameplay Details",
+    "summary": "A recent Rockstar update has provided new insights into the open-world gameplay features of Grand Theft Auto 6, hinting at an exciting gameplay experience.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-open-world-gameplay-features-pegi/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/lucia_caminos_07-3.jpg",
+    "published_at": "2026-10-03T15:00:14.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "ca96e72e3f7a",
+    "slug": "10-best-games-on-xbox-game-pass-for-october-2026",
+    "headline": "10 Best Games on Xbox Game Pass for October 2026",
+    "summary": "Game Pass highlights the top 10 games to play on Xbox in October, covering a range of genres and experiences",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/video/best-games-xbox-game-pass-october-2026/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/best-of-game-pass-october-2026-site.jpg",
+    "published_at": "2026-10-03T15:00:14.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a8fec7f07e38",
+    "slug": "why-sansa-stark-remembers-a-kiss-that-never-happened-in-game-of-throne",
+    "headline": "Why Sansa Stark Remembers a Kiss That Never Happened in Game of Thrones",
+    "summary": "George R. R. Martin made Sansa Stark an unreliable narrator with the Unkiss.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/game-of-thrones-sansa-hound-unkiss-explained/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/mixcollage-01-oct-2026-02-49-pm-5755.jpg",
+    "published_at": "2026-10-03T15:00:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "16ea91db6147",
+    "slug": "capcoms-re-engine-will-eventually-be-an-ai-generation-game-engine",
+    "headline": "Capcom's RE Engine Will Eventually Be An AI-Generation Game Engine",
+    "summary": "Capcom plans to integrate generative AI into their RE Engine, marking a significant shift in the company's game development approach.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/capcom-re-engine-ai-generation-game-engine-plans-confirmed/"
+      },
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/residentevilrequiemleon.jpg",
+    "published_at": "2026-10-03T14:47:09.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "re-engine",
+    "game_label": "RE Engine"
+  },
+  {
+    "id": "78918c918a64",
+    "slug": "aion-2-inventory-management-guide",
+    "headline": "Aion 2 Inventory Management Guide",
+    "summary": "Aion 2 allows players to manage their inventory by extracting, selling, deleting, or storing unused gear",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/aion-2-what-to-do-with-old-gear-dismantle-extract-sell-delete-store/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/what-to-do-with-old-gear-in-aion-2.jpg",
+    "published_at": "2026-10-03T14:46:34.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "aion-2",
+    "game_label": "Aion 2"
+  },
+  {
+    "id": "3009553917a5",
+    "slug": "capcom-to-use-ai-in-game-development",
+    "headline": "Capcom to Use AI in Game Development",
+    "summary": "Capcom plans to integrate AI into its game development process with the next iteration of the RE Engine, marking a new approach to game creation",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/capcom-ai-re-engine-statement-2026/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/nvidia-dlss-5-reveal-_-resident-evil-requiem-0-14-screenshot.jpeg",
+    "published_at": "2026-10-03T14:31:26.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "resident-evil",
+    "game_label": "Resident Evil"
+  },
+  {
+    "id": "272255645672",
+    "slug": "gamers-will-recognize-the-studio-making-the-battlefield-movie",
+    "headline": "Gamers Will Recognize The Studio Making The Battlefield Movie",
+    "summary": "Sony Pictures will be the studio that brings Battlefield to the big screen",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/battlefield-movie-sony-pictures/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/bf6-story-overview-16x9-copy.jpg",
+    "published_at": "2026-10-03T13:51:06.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "67376bb10d66",
+    "slug": "heres-what-might-be-leaving-xbox-game-pass-in-november-2026",
+    "headline": "Here's What Might Be Leaving Xbox Game Pass In November 2026",
+    "summary": "Some early predictions! What's leaving Xbox Game Pass in November 2026? Well, Microsoft hasn't confirmed anything just yet, but based on some games that were added to the service this time last year, we can at least make a few predictions ahead of time. We know that a lot of Xbox users want more advance notice of games leaving Xbox…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/heres-what-might-be-leaving-xbox-game-pass-in-november-2026"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/9ad441559d2bb/large.jpg",
+    "published_at": "2026-10-03T13:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "68ac039d00d6",
+    "slug": "rockstars-gta-6-marketing-stunt",
+    "headline": "Rockstar's GTA 6 Marketing Stunt",
+    "summary": "Rockstar's latest marketing stunt has left PC Gamer's UK editors confused, as they reveal they have no idea what the Miami Heat is, despite the team being prominently featured in the GTA 6 ads.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-marketing-stunt-reveals-none-of-our-uk-editors-have-heard-of-the-miami-heat/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-open-world-rockstar-statement-everywhere/"
+      },
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/gta-6-rockstar-games-president-sam-houser-cancels-interview/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/x9WxffqAGXQjoMyQAKu8oL-1920-80.jpg",
+    "published_at": "2026-10-03T13:22:51.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "12c1c263eb78",
+    "slug": "arc-raiders-goes-free-to-play-for-weekend",
+    "headline": "Arc Raiders Goes Free-to-Play for Weekend",
+    "summary": "Embark Studios is hosting a free-to-play weekend for Arc Raiders with the game's biggest update, the Frozen Trail.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/arc-raiders-free-to-play-weekend-october-2026/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/arc-raiders-update-1-36-0.jpg",
+    "published_at": "2026-10-03T13:08:43.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "arc-raiders",
+    "game_label": "Arc Raiders"
+  },
+  {
     "id": "ba77ff307318",
     "slug": "pokemon-winds-and-waves-could-completely-change-pokemon-forever",
     "headline": "Pokémon Winds and Waves Could Completely Change Pokémon Forever",
@@ -67,6 +340,27 @@
     ],
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/silent-hill-2-remake-is-leaving-playstation-plus-one.jpg",
     "published_at": "2026-10-03T13:00:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b04317cf6299",
+    "slug": "2026-is-the-year-big-brands-have-finally-pushed-gaming-mouse-technolog",
+    "headline": " 2026 is the year big brands have finally pushed gaming mouse technology forwards ",
+    "summary": "I'm not sure niche brands would be able to change the industry like this.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/gaming-mice/2026-is-the-year-big-brands-have-finally-pushed-gaming-mouse-technology-forwards/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/vLZoene84XAd87cr4pyqSA-1920-80.jpg",
+    "published_at": "2026-10-03T13:00:00.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -144,31 +438,6 @@
     "comment_count": 0,
     "game": "007-first-light",
     "game_label": "007: First Light"
-  },
-  {
-    "id": "16ea91db6147",
-    "slug": "capcoms-re-engine-will-eventually-be-an-ai-generation-game-engine",
-    "headline": "Capcom's RE Engine Will Eventually Be An AI-Generation Game Engine",
-    "summary": "Capcom plans to integrate generative AI into their RE Engine, marking a significant shift in the company's game development approach.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/capcom-re-engine-ai-generation-game-engine-plans-confirmed/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/residentevilrequiemleon.jpg",
-    "published_at": "2026-10-03T12:11:53.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "re-engine",
-    "game_label": "RE Engine"
   },
   {
     "id": "f19d809fdca4",
@@ -609,33 +878,6 @@
     "comment_count": 0,
     "game": "gta-6",
     "game_label": "GTA 6"
-  },
-  {
-    "id": "68ac039d00d6",
-    "slug": "rockstars-gta-6-marketing-stunt",
-    "headline": "Rockstar's GTA 6 Marketing Stunt",
-    "summary": "Rockstar's latest marketing stunt has left PC Gamer's UK editors confused, as they reveal they have no idea what the Miami Heat is, despite the team being prominently featured in the GTA 6 ads.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-marketing-stunt-reveals-none-of-our-uk-editors-have-heard-of-the-miami-heat/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-open-world-rockstar-statement-everywhere/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/x9WxffqAGXQjoMyQAKu8oL-1920-80.jpg",
-    "published_at": "2026-10-03T09:00:13.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "5a43b7d0541e",
@@ -4391,241 +4633,6 @@
     "image_url": "https://picsum.photos/seed/55ad1c7ceeb6/800/600",
     "published_at": "2026-10-02T12:00:18.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5955637f32e7",
-    "slug": "star-wars-galactic-racer-review",
-    "headline": "Star Wars: Galactic Racer Review",
-    "summary": "A racing game with Burnout-inspired mechanics, offering a unique experience.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/star-wars-galactic-racer-review/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/star-wars_-galactic-racer-launch-screenshot-3.png",
-    "published_at": "2026-10-02T12:00:16.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "star-wars-galactic-racer",
-    "game_label": "Star Wars: Galactic Racer"
-  },
-  {
-    "id": "c9a5397a137a",
-    "slug": "star-wars-galactic-racer-is-the-best-arcade-racing-game-in-a-generatio",
-    "headline": "Star Wars: Galactic Racer is the Best Arcade Racing Game in a Generation",
-    "summary": "Polygon praises Star Wars: Galactic Racer for its unique blend of roguelike elements with high-speed racing games, resulting in a thrilling experience.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/star-wars-galactic-racer-review-best-arcade-racing-game-in-a-generation/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/swgr_pr_10.jpg",
-    "published_at": "2026-10-02T12:00:15.000Z",
-    "hype_signal": 90,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "star-wars-galactic-racer",
-    "game_label": "Star Wars: Galactic Racer"
-  },
-  {
-    "id": "17434193d487",
-    "slug": "star-wars-galactic-racer-the-kotaku-review",
-    "headline": "Star Wars: Galactic Racer: The Kotaku Review",
-    "summary": "Ain’t no lightsabers or Skywalkers in this new Star Wars game, which is great",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/star-wars-galactic-racer-the-kotaku-review-2000739105"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/Star-Wars-review-2026a-gr-1280x720.jpg",
-    "published_at": "2026-10-02T12:00:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "35a6f1458c26",
-    "slug": "star-wars-galactic-racer-review-2",
-    "headline": "Star Wars: Galactic Racer Review",
-    "summary": "A visually stunning and thrilling anti-grav racer that revisits the same planets, but has reignited interest in a dormant slice of the Star Wars universe.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/star-wars-galactic-racer-review"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/02/starwarsgalacticracer-blogroll-03-1790927333744.jpg",
-    "published_at": "2026-10-02T12:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "star-wars-galactic-racer",
-    "game_label": "Star Wars: Galactic Racer"
-  },
-  {
-    "id": "dd115dd4ad72",
-    "slug": "star-wars-galactic-racer-review-true-to-its-burnout-legacy-blisteringl",
-    "headline": "Star Wars: Galactic Racer review: True to its Burnout legacy, blisteringly fast space racing keeps me coming back",
-    "summary": "GamesRadar+ reviews Star Wars: Galactic Racer, praising its satisfying and immersive racing experience, likening it to the Burnout series.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/racing/star-wars-galactic-racer-review/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/6KSCgDjjxKqVMjb6uKejf7-1920-80.jpg",
-    "published_at": "2026-10-02T12:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "star-wars-galactic-racer",
-    "game_label": "Star Wars: Galactic Racer"
-  },
-  {
-    "id": "1c43597b2b30",
-    "slug": "star-wars-galactic-racer-review-3",
-    "headline": "Star Wars: Galactic Racer Review",
-    "summary": "Star Wars: Galactic Racer is a thrilling racing game that combines elements of popular series like MotorStorm and WipEout, showcasing exceptional gameplay and excitement.",
-    "category": "reviews",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/reviews/ps5/star-wars-galactic-racer"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/reviews/ps5/star-wars-galactic-racer/large.jpg",
-    "published_at": "2026-10-02T12:00:00.000Z",
-    "hype_signal": 90,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "star-wars-galactic-racer",
-    "game_label": "Star Wars: Galactic Racer"
-  },
-  {
-    "id": "dab752746fb7",
-    "slug": "valorant-tournament-disrupted-by-players-using-cheap-mice",
-    "headline": "Valorant Tournament Disrupted by Players Using Cheap Mice",
-    "summary": "A recent Valorant tournament was nearly destroyed by players using subpar wireless mice that caused the competitive playing surface to become unstable.",
-    "category": "esports",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/gaming-mice/metal-desks-nearly-destroyed-a-valorant-tournament/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/3dy2mR9sobpcUgSkfyg5vm-1920-80.jpg",
-    "published_at": "2026-10-02T11:51:40.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "valorant",
-    "game_label": "Valorant"
-  },
-  {
-    "id": "f6f55790afcc",
-    "slug": "ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-face",
-    "headline": "AI-generated Fallout: New York browser game full of utterly cursed faces slapped with Bethesda cease and desist, its slop prompter claims",
-    "summary": "In perhaps the least surprising Fallout news since Raul from New Vegas confirmed that ghouls with dodgy knees don't enjoy sneaking, the person behind an AI-generated browser game dubbed Fallout: New York has claimed to have recieved a cease and desist message from Bethesda parent company ZeniMax. Their creation, if such a term fits, was generated using Anthropic's Claude Opus…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-02T11:45:53.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e230735e1a69",
-    "slug": "i-played-an-evening-of-big-walk-on-steam-frame-and-it-felt-like-wearin",
-    "headline": " I played an evening of Big Walk on Steam Frame, and it felt like wearing a Steam Deck on my face ",
-    "summary": "I spent four hours playing one of 2026's best multiplayer games on Valve's new VR headset, and it might be where the device really shows its worth.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/vr/i-played-an-evening-of-big-walk-on-steam-frame-and-it-felt-like-wearing-a-steam-deck-on-my-face/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/rzgDicJfNspKPcReW66PbA-1920-80.jpg",
-    "published_at": "2026-10-02T11:40:26.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "41375d2e0034",
-    "slug": "reigns-developer-nerial-closes-following-significant-trading-losses",
-    "headline": "Reigns Developer Nerial Closes Following Significant Trading Losses",
-    "summary": "Studio behind Reigns and Card Shark Nerial has closed due to significant trading losses over the past two years, entering a hibernation mode.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/reigns-developer-nerial-closes-following-significant-trading-losses-over-past-two-years"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/reigns-witcher.webp?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-02T11:19:13.000Z",
-    "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
