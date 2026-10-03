@@ -18448,5 +18448,33 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-03T11:07:20.850Z"
+  },
+  {
+    "slug": "baldurs-gate",
+    "name": "Baldur's Gate",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/a91/a9108384b5d691080b294cd744f350c9.jpg",
+    "released": "1998-12-21",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "iOS",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c39/c399e200d32647a6028c776d50c5ffae.jpg",
+      "https://media.rawg.io/media/screenshots/c81/c81d2be2d79f438e48176ebe227162de.jpg",
+      "https://media.rawg.io/media/screenshots/0d7/0d7a370f4d8ae0c59d1945d3a151e456.jpg",
+      "https://media.rawg.io/media/screenshots/117/1179ac52027bedb172cbfa9e53d6e8c4.jpg",
+      "https://media.rawg.io/media/screenshots/74b/74bbc3c55708d740c69a6dc8fe96a176.jpg",
+      "https://media.rawg.io/media/screenshots/298/2980ff54971c12009924f94cc4313cbb.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-03T13:07:29.399Z"
   }
 ]

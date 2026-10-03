@@ -1,5 +1,318 @@
 [
   {
+    "id": "ba77ff307318",
+    "slug": "pokemon-winds-and-waves-could-completely-change-pokemon-forever",
+    "headline": "Pokémon Winds and Waves Could Completely Change Pokémon Forever",
+    "summary": "Recent leaks and silence from Game Freak have sparked speculation about the future of the Pokémon series, with many predicting significant changes for Gen 10 and beyond.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/switchboard-pokemon-winds-waves-leaks/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/poke-mon-presents-_-2-27-2026-23-35-screenshot.png",
+    "published_at": "2026-10-03T13:00:21.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pokemon-forever",
+    "game_label": "Pokémon Forever"
+  },
+  {
+    "id": "fd245b21ab7f",
+    "slug": "astarion-returns-in-baldurs-gate-new-release",
+    "headline": "Astarion Returns in Baldur's Gate New Release",
+    "summary": "Game Rant reports that Astarion will be the main focus of a new Baldur's Gate game",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/baldurs-gate-3-astarion-dark-horse-comic/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/baldurs-gate-3-astarion-dark-horse-comic.jpg",
+    "published_at": "2026-10-03T13:00:15.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "baldurs-gate",
+    "game_label": "Baldur's Gate"
+  },
+  {
+    "id": "a0ccff6241ec",
+    "slug": "ps-plus-is-losing-one-of-its-best-horror-games-at-the-worst-possible-t",
+    "headline": "PS Plus Is Losing One of Its Best Horror Games at the Worst Possible Time",
+    "summary": "This iconic horror title from the minds at Konami is leaving PlayStation Plus' extensive lineup of free games just days away from Halloween.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/ps-plus-october-2026-games-leaving-silent-hill-2/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/silent-hill-2-remake-is-leaving-playstation-plus-one.jpg",
+    "published_at": "2026-10-03T13:00:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "697009ff1567",
+    "slug": "the-best-choice-in-woodland-beast-spare-or-kill-the-scoiatael",
+    "headline": "The Best Choice in Woodland Beast: Spare or Kill the Scoia'tael?",
+    "summary": "The Witcher 3: Decide the fate of the Scoia'tael in Woodland Beast, and find out what's the best option.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/witcher-3-complete-woodland-beast-contract/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/the-witcher-3-should-you-spare-or-kill-the-scoia-tael-woodland-beast-contract.jpg",
+    "published_at": "2026-10-03T12:45:13.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
+    "id": "6d40714d55d8",
+    "slug": "xbox-game-pass-losing-one-of-the-best-games-ever-this-month",
+    "headline": "Xbox Game Pass Losing One of the Best Games Ever This Month",
+    "summary": "Xbox Game Pass will remove one of its most highly-rated titles, sparking concerns among gamers.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/xbox-game-pass-clair-obscur-expedition-33-leaving-when/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/xbox-game-pass-is-losing-one-of-the-best-games-ever-this-month-gamerant-feature.jpg",
+    "published_at": "2026-10-03T12:30:14.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "cedc68b73d90",
+    "slug": "007-first-light-gets-free-dlc",
+    "headline": "007: First Light Gets Free DLC",
+    "summary": "A new update for the James Bond game 007: First Light has been released, adding two new missions, a new game plus mode, and photo mode.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/action/007-first-light-gets-free-dlc-that-will-finally-let-you-drive-james-bonds-aston-martin-properly/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/hAxDSYoyYWUQBbq2iWv77m-1920-80.jpg",
+    "published_at": "2026-10-03T12:24:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "007-first-light",
+    "game_label": "007: First Light"
+  },
+  {
+    "id": "16ea91db6147",
+    "slug": "capcoms-re-engine-will-eventually-be-an-ai-generation-game-engine",
+    "headline": "Capcom's RE Engine Will Eventually Be An AI-Generation Game Engine",
+    "summary": "Capcom plans to integrate generative AI into their RE Engine, marking a significant shift in the company's game development approach.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/capcom-re-engine-ai-generation-game-engine-plans-confirmed/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/residentevilrequiemleon.jpg",
+    "published_at": "2026-10-03T12:11:53.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "re-engine",
+    "game_label": "RE Engine"
+  },
+  {
+    "id": "f19d809fdca4",
+    "slug": "metro-reduxs-next-gen-update-arrives-this-month-as-franchise-passes-50",
+    "headline": "Metro Redux's Next-Gen Update arrives this month as franchise passes 50 million sales",
+    "summary": "A free next-gen update is coming to Metro 2033 Redux and Metro Last Light Redux on 22nd October for PC (29th October for consoles).\n Read more",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/metro-redux-next-gen-update-50-million-sales-metro-2039"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/metro_clean4.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-03T12:04:23.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7186b514ac1f",
+    "slug": "new-ape-escape-game-leaked",
+    "headline": "New Ape Escape Game Leaked",
+    "summary": "A recent leak suggests that a new Ape Escape game may be in development, potentially reviving the beloved franchise.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/new-ape-escape-game-leak/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/new-ape-escape-game-leaked-gamerant-feature.jpg",
+    "published_at": "2026-10-03T12:01:24.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ape-escape",
+    "game_label": "Ape Escape"
+  },
+  {
+    "id": "a51b95667f20",
+    "slug": "these-20-games-are-coming-to-xbox-next-week",
+    "headline": "These 20+ Games Are Coming To Xbox Next Week",
+    "summary": "Multiple titles are set to release on Xbox from October 5-9, including Gears of War: E-Day, Star Wars: Galactic Racer, and new Xbox Game Pass additions.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/features/these-20plus-games-are-coming-to-xbox-next-week-october-5-9"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/a9d12bf26c82c/large.jpg",
+    "published_at": "2026-10-03T12:00:00.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gears-of-war-e-day",
+    "game_label": "Gears of War: E-Day"
+  },
+  {
+    "id": "cb87dcd0653d",
+    "slug": "final-fantasy-7-revelation-lead-on-trilogy-completion",
+    "headline": "Final Fantasy 7 Revelation Lead on Trilogy Completion",
+    "summary": "The lead of Final Fantasy 7 Revelation discusses the importance of completing each game in the trilogy without compromise.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-lead-explains-that-making-each-game-in-the-rpg-trilogy-a-complete-experience-was-non-negotiable-from-the-beginning/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/qnvJzjj9ugacmZCsy3n6Qc-1920-80.jpg",
+    "published_at": "2026-10-03T11:35:03.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-7-revelation",
+    "game_label": "Final Fantasy 7 Revelation"
+  },
+  {
+    "id": "7ae6b83ae796",
+    "slug": "bored-with-roguelikes-you-might-still-want-to-play-dicevaders",
+    "headline": "Bored with Roguelikes? You Might Still Want to Play Dicevaders",
+    "summary": "Dicevaders is a game about mastering dice rolls, offering a fun and challenging experience for players looking for something different from traditional roguelikes.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/roguelike/bored-with-roguelikes-you-might-still-want-to-play-dicevaders-a-game-about-perfecting-dice-rolls/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/eZJtvSrB6foPjzxYohZTAn-1920-80.png",
+    "published_at": "2026-10-03T11:17:53.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dicevaders",
+    "game_label": "Dicevaders"
+  },
+  {
+    "id": "b049d6008f80",
+    "slug": "former-playstation-lead-claims-game-pass-model-is-unsustainable-for-de",
+    "headline": "Former PlayStation Lead Claims Game Pass Model Is Unsustainable for Developers",
+    "summary": "A former high-ranking employee at Sony says it's impossible for game developers to make a profit under the Game Pass subscription model",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/platforms/xbox/ex-playstation-lead-says-its-impossible-for-devs-to-make-a-profit-on-game-pass-even-if-microsoft-is-the-house-always-wins/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/WgWLUY6xZEjWTVrj4fDxyL-1920-80.jpg",
+    "published_at": "2026-10-03T11:16:23.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "game-pass",
+    "game_label": "Game Pass"
+  },
+  {
     "id": "65a87830b6c3",
     "slug": "lord-of-the-rings-wolves-of-mordor-officially-releasing-on-october-21",
     "headline": "Lord of the Rings: Wolves of Mordor Officially Releasing on October 21",
@@ -26,6 +339,29 @@
     "game_label": "Lord of the Rings: Wolves of Mordor"
   },
   {
+    "id": "04d38fba194f",
+    "slug": "ps5-and-ps-plus-games-coming-out-next-week",
+    "headline": "PS5 and PS Plus Games Coming Out Next Week",
+    "summary": "Several games are set to release on PS5 and PS Plus next week, including Star Wars: Galactic Racer and Kingdom Hearts Collection I - III.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/guides/these-23plus-ps5-and-ps-plus-games-are-coming-out-next-week-5th-11th-october"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/db4444fa6e97a/large.jpg",
+    "published_at": "2026-10-03T11:00:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "edad3fc5eba5",
     "slug": "new-platformer-sometimes-i-wonder-about-the-other-me-promises-chimeric",
     "headline": "New Platformer 'Sometimes I Wonder About The Other Me' Promises Chimeric Fun",
@@ -49,6 +385,33 @@
     "comment_count": 0,
     "game": "sometimes-i-wonder-about-the-other-me",
     "game_label": "Sometimes I Wonder About The Other Me"
+  },
+  {
+    "id": "54cf6b517d73",
+    "slug": "talking-point-what-are-you-playing-this-weekend",
+    "headline": "Talking Point: What Are You Playing This Weekend?",
+    "summary": "The Nintendo Life team shares a lighthearted look at what games to play during the Halloween weekend, mentioning a Zelda 40th Anniversary concert and The Witcher 3 Remastered release.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-3rd-october"
+      },
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/features/talking-point-what-are-you-playing-this-weekend-october-3-4"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/4dd3a4689ab81/large.jpg",
+    "published_at": "2026-10-03T11:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "b4fdc514e942",
@@ -273,29 +636,6 @@
     "comment_count": 0,
     "game": "grand-theft-auto-6",
     "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "54cf6b517d73",
-    "slug": "talking-point-what-are-you-playing-this-weekend",
-    "headline": "Talking Point: What Are You Playing This Weekend?",
-    "summary": "The Nintendo Life team shares a lighthearted look at what games to play during the Halloween weekend, mentioning a Zelda 40th Anniversary concert and The Witcher 3 Remastered release.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-3rd-october"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/4dd3a4689ab81/large.jpg",
-    "published_at": "2026-10-03T09:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   },
   {
     "id": "5a43b7d0541e",
@@ -4286,325 +4626,6 @@
     "image_url": "https://assetsio.gnwcdn.com/reigns-witcher.webp?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-10-02T11:19:13.000Z",
     "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7b9f867f5805",
-    "slug": "playstation-creator-says-games-have-stagnated",
-    "headline": " PlayStation creator says games have stagnated ",
-    "summary": "Ken Kutaragi says \"the moment you lose your curiosity and think, this is probably as good as it gets, it's all over\"",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/platforms/playstation/playstation-creator-says-games-have-stagnated-urges-developers-not-to-lose-their-curiosity-as-the-industry-reaches-a-major-turning-point-ahead-of-the-next-stage/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/tKtoBKC2EiKeqd5rucyfXC-1920-80.jpg",
-    "published_at": "2026-10-02T11:18:47.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "afeb91a01923",
-    "slug": "riots-2xko-game-failed-miserably-due-to-high-player-count-requirements",
-    "headline": "Riot's 2XKO Game Failed Miserably Due to High Player Count Requirements",
-    "summary": "Riot Games' recently canceled game 2XKO required absurd player counts, making it unlaunchable, according to PC Gamer.",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/fighting/riots-absurd-expectations-of-player-counts-in-the-high-hundreds-of-thousands-if-not-millions-doomed-2xko-from-the-start/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/VWrTLQA5D7QD2fRo4JrWi6-1920-80.jpg",
-    "published_at": "2026-10-02T11:16:39.000Z",
-    "hype_signal": 10,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "2xko",
-    "game_label": "2XKO"
-  },
-  {
-    "id": "bf28e8fc000f",
-    "slug": "cd-projekt-red-addresses-lighting-concerns-in-the-witcher-3-remastered",
-    "headline": "CD Projekt Red Addresses Lighting Concerns in The Witcher 3 Remastered PC Patch",
-    "summary": "CD Projekt Red has released a hotfix for The Witcher 3 Remastered on PC, addressing lighting concerns and other issues.",
-    "category": "patches",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/geralt-horse-witcher-3.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-02T11:09:05.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-witcher-3-wild-hunt",
-    "game_label": "The Witcher 3: Wild Hunt"
-  },
-  {
-    "id": "aafba04361c8",
-    "slug": "new-open-world-steam-game-is-basically-classic-gta-but-set-in-the-70s",
-    "headline": "New Open World Steam Game is Basically Classic GTA But Set in the 70s",
-    "summary": "A new Steam game is taking direct inspiration from the classic entries in Rockstar's Grand Theft Auto franchise.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/steam-games-like-gta-alaturka/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/steam-game-like-gta.jpg",
-    "published_at": "2026-10-02T11:01:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8fb77313101f",
-    "slug": "blizzard-added-a-working-torch-to-wow-forever-and-i-hiked-all-the-way",
-    "headline": "Blizzard Added A Working Torch To WoW: Forever And I Hiked All The Way Across Azeroth To Try To Get It",
-    "summary": "Blizzard Entertainment has added a functional torch to World of Warcraft, sparking an enthusiastic community response. The feature is part of the game's 'Forever' expansion.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/blizzard-world-of-warcraft-forever-torch-hike-2000739020"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/WoW-Forever-journey17-1280x720.jpg",
-    "published_at": "2026-10-02T11:00:42.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "world-of-warcraft-forever",
-    "game_label": "World of Warcraft: Forever"
-  },
-  {
-    "id": "7f282b7ff6de",
-    "slug": "eight-xbox-games-are-available-today",
-    "headline": "Eight Xbox Games Are Available Today",
-    "summary": "Pure Xbox lists several new games launching on Xbox, including some unexpected releases.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/10/eight-xbox-games-are-available-today-including-a-good-reason-to-get-out-of-detention-october-2"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/51979bb3ef282/large.jpg",
-    "published_at": "2026-10-02T11:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "753506df3c4e",
-    "slug": "steam-on-track-to-earn-record-20-billion-this-year",
-    "headline": "Steam on Track to Earn Record $20 Billion This Year",
-    "summary": "A financial analyst predicts that Steam will surpass $20 billion in revenue this year, thanks to a strong September",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/steam-on-track-to-earn-a-record-usd20-billion-this-year-thanks-to-games-like-the-witcher-3-remastered-and-wardogs-analyst-says-after-a-massive-september/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/s59PQgab3kH37ZWZjZDgw6-1920-80.jpg",
-    "published_at": "2026-10-02T10:58:52.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "62a1703489a0",
-    "slug": "gears-of-war-e-day-is-missing-iconic-features-like-chainsaw-duels-and",
-    "headline": "Gears of War: E-Day is missing iconic features like chainsaw duels and meat shields, but The Coalition says we shouldn't worry - they're \"not gone from the franchise\"",
-    "summary": "Gears of War: E-Day arrived for early adopters yesterday, available for anyone who bought either the Premium Edition, Premium Upgrade Edition, or Collector's Edition version of the game. As it arrived, however, some players noted 'missing' features that have appeared in past Gears games, but not in The Coalition's latest.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/gears-of-war-eday-missing-features-update"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/E-Day-meat-shield.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-02T10:56:20.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e268624d7513",
-    "slug": "ps5-console-update-is-adding-ai-feature",
-    "headline": "PS5 Console Update is Adding AI Feature",
-    "summary": "Sony releases a new PS5 console update adding a massive AI feature.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/ps5-ai-upscaling-update-feature/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/ps5-ai-upscaling-update-feature.jpg",
-    "published_at": "2026-10-02T10:53:45.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "68798a9f7543",
-    "slug": "kingdom-come-deliverance-2-lead-wants-gta-6-to-open-the-door-to-chargi",
-    "headline": " Kingdom Come: Deliverance 2 lead wants GTA 6 to open the door to charging more for games ",
-    "summary": "Martin Klíma says Rockstar is the only developer \"who can afford, or who can dare, to increase the price of games\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/kingdom-come-deliverance-2-lead-wants-gta-6-to-open-the-door-to-charging-more-for-games-even-though-the-popularity-of-rockstars-series-beats-me/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/5SZMxgxPtfdQsuELcPj4hf-1920-80.jpg",
-    "published_at": "2026-10-02T10:34:09.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2c539e37c746",
-    "slug": "looks-like-you-will-have-to-pinky-promise-you-wont-export-your-rtx-509",
-    "headline": " Looks like you will have to pinky promise you won't export your RTX 5090 if you buy a gaming PC from Micro Center now ",
-    "summary": "That's a whole lot of paperwork just for a new rig.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/graphics-cards/looks-like-you-will-have-to-pinky-promise-you-wont-export-your-rtx-5090-if-you-buy-a-gaming-pc-from-micro-center-now/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/dMHeoyF85ptrkZLthKfisE-1920-80.jpg",
-    "published_at": "2026-10-02T10:31:31.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "abc6d17eb95d",
-    "slug": "warhammer-40k-space-marine-2-marches-on-with-massive-free-update-year",
-    "headline": "Warhammer 40k: Space Marine 2 Marches on with Massive Free Update, Year 3 Roadmap",
-    "summary": "Happy anniversary. Publisher Focus Entertainment has revealed and released a pretty significant free update for its acclaimed co-op shooter, Warhammer 40,000: Space Marine 2, as well as a roadmap for the next year. To celebrate the PS5 game's second anniversary, a new patch is available for all players, and it adds lots of interesting new content and features. Read the…",
-    "category": "patches",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/warhammer-40k-space-marine-2-marches-on-with-massive-free-update-year-3-roadmap"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/c7e8b54d90d59/large.jpg",
-    "published_at": "2026-10-02T10:30:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0ffa2d613a64",
-    "slug": "lisa-limited-edition-dualsense-pre-orders-live-today",
-    "headline": "Lisa Limited Edition DualSense Pre-Orders Live Today",
-    "summary": "Pre-orders for the limited edition Lisa DualSense controller have started, with a deadline of October 30",
-    "category": "deals",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/gaming-controllers/lisa-limited-edition-dualsense-pre-orders-go-live-today-heres-where-to-grab-yours/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/tcWJy6jgPRGTSCtMidMqx9-1920-80.jpg",
-    "published_at": "2026-10-02T10:11:35.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "lisa",
-    "game_label": "Lisa"
-  },
-  {
-    "id": "0fe786f75a94",
-    "slug": "2xko-would-have-needed-an-mau-base-in-the-high-hundreds-of-thousands-i",
-    "headline": "2XKO would have needed an MAU base \"in the high hundreds of thousands, if not millions\" to succeed",
-    "summary": "Riot Games' 2XKO would have had to attract a base of monthly active users \"in the high hundreds of thousands, if not millions\" to be sustainable, according to CPO Marc Merrill.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/2xko-would-have-needed-an-mau-base-in-the-high-hundreds-of-thousands-if-not-millions-to-succeed"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/2kxo_3bOEGlA.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-02T10:10:00.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
