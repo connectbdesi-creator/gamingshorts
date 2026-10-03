@@ -1,5 +1,28 @@
 [
   {
+    "id": "d27323a51e0b",
+    "slug": "lies-of-p-complete-edition-physical-switch-2-release-now-available",
+    "headline": "Lies of P: Complete Edition Physical Switch 2 Release Now Available",
+    "summary": "Neowiz has released the physical edition of the soul-like game Lies of P: Complete Edition on the Nintendo Switch 2",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/reminder-lies-of-p-switch-2-physical-release-now-available"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/cd29b644b1c0d/large.jpg",
+    "published_at": "2026-10-03T04:45:00.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "lies-of-p-complete-edition",
+    "game_label": "Lies of P: Complete Edition"
+  },
+  {
     "id": "b9f00300b275",
     "slug": "everything-you-need-to-know-about-honkai-star-rails-active-warp-banner",
     "headline": "Everything You Need to Know About Honkai: Star Rail's Active Warp Banners",
@@ -23,6 +46,27 @@
     "comment_count": 0,
     "game": "honkai-star-rail",
     "game_label": "Honkai: Star Rail"
+  },
+  {
+    "id": "12664e7edca3",
+    "slug": "love-and-deepspace-devs-issue-warning-to-players-after-deadly-drink-re",
+    "headline": "Love and Deepspace Devs Issue Warning to Players After Deadly Drink Recipes Go Viral",
+    "summary": "The official social media account for the popular RPG-dating sim Love and Deepspace issued a warning to players after announcing some fictional cocktails with potentially disastrous real-world consequences if actually consumed.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/love-and-deepspace-devs-issue-warning-to-players-after-deadly-drink-recipes-go-viral"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/03/love-and-deepspace-devs-issue-warning-deadly-drink-recipes-1790993773020.jpg",
+    "published_at": "2026-10-03T02:18:57.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "e09d70090786",
@@ -4529,52 +4573,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "9b4d7976437c",
-    "slug": "steam-game-releases-set-to-beat-yearly-record-by-end-of-october",
-    "headline": "Steam Game Releases Set To Beat Yearly Record By End Of October",
-    "summary": "Year after year, we're getting more games.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/steam-most-games-released-end-of-october/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/06/steam-logo-over-a-light-blue-background-surrounded-by-dollar-bills.jpg",
-    "published_at": "2026-10-02T07:28:14.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d4bf09aa3836",
-    "slug": "pokemons-esa-crossover-collection-now-available",
-    "headline": "Pokémon's ESA Crossover Collection Now Available",
-    "summary": "The Pokémon Center has made available the European Space Agency crossover collection, featuring Astronaut Pikachu plushes and other exclusive items.",
-    "category": "deals",
-    "platform_tags": [
-      "mobile",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/everything-pokemon-esa-collection-where-to-buy/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/new-project-2026-10-02t074327-722.jpg",
-    "published_at": "2026-10-02T07:08:28.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "esa-crossover-collection",
-    "game_label": "ESA Crossover Collection"
   }
 ]
