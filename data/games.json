@@ -18398,5 +18398,55 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-02T23:07:39.349Z"
+  },
+  {
+    "slug": "transport-fever-3",
+    "name": "Transport Fever 3",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/003/003cfd6bb966df4e3e9cd97641c83bfb.jpg",
+    "released": "2026-09-28",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Linux"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/230/230733c0830eb89aa997a3c266bb5a9e.jpg",
+      "https://media.rawg.io/media/screenshots/dbd/dbd9b530f9c5438e748715076da0f691.jpg",
+      "https://media.rawg.io/media/screenshots/78e/78eb97fc3b212eb47eaed6678dbaef30.jpg",
+      "https://media.rawg.io/media/screenshots/517/517be51aafdf4af4e964ab3993cbd09e.jpg",
+      "https://media.rawg.io/media/screenshots/e0c/e0c7e4ec6e566cfa126c2f85534204ba.jpg",
+      "https://media.rawg.io/media/screenshots/beb/beb7dcafc04017b38e1ea3663f90cde7.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-03T11:07:19.088Z"
+  },
+  {
+    "slug": "warhammer-40k",
+    "name": "WARHAMMER 40K: DEATHWATCH",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/088/08824d127253e62604d111875c303f80.jpg",
+    "released": "2017-02-24",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "PlayStation 4"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/e8a/e8a46c74f2434a79c428d8441b344037.jpg",
+      "https://media.rawg.io/media/screenshots/6de/6de215dd056681fe844e2c144fa56de0.jpg",
+      "https://media.rawg.io/media/screenshots/32e/32eab6031e14195bbff039032af7968b.jpg",
+      "https://media.rawg.io/media/screenshots/d3e/d3e7a2e86aeb733098b152a8f05d12fc.jpg",
+      "https://media.rawg.io/media/screenshots/1bd/1bd01322bc8b60779ef940e0a91cbf77.jpg",
+      "https://media.rawg.io/media/screenshots/7d7/7d717569652feac043c606224498ca2a.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-03T11:07:20.850Z"
   }
 ]
