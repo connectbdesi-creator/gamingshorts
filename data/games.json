@@ -18699,5 +18699,51 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-04T15:07:09.893Z"
+  },
+  {
+    "slug": "ps3",
+    "name": "PS3 Hacker The game",
+    "description": null,
+    "background_image": null,
+    "released": "2014-10-17",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [],
+    "stores": [],
+    "fetched_at": "2026-10-04T17:07:00.794Z"
+  },
+  {
+    "slug": "ufo-50",
+    "name": "UFO 50",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/97b/97b10e571d27025af0c25263d8e75061.jpg",
+    "released": "2024-09-18",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "RPG",
+      "Strategy",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/0ee/0ee712b11af78e98029c6ddf67308fa6.jpg",
+      "https://media.rawg.io/media/screenshots/4ca/4ca8ee891eae340c51111eca678d09dd.jpg",
+      "https://media.rawg.io/media/screenshots/3c7/3c7b54e690d94fd5804c5b598a5a70cf.jpg",
+      "https://media.rawg.io/media/screenshots/887/88710172c6ed81becfed28c58dea3cb0.jpg",
+      "https://media.rawg.io/media/screenshots/32c/32c61efe68a169aea02ce17c95205c52.jpg",
+      "https://media.rawg.io/media/screenshots/6b7/6b71ed692bab8ae2d30398f37f39baed.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-04T17:07:03.689Z"
   }
 ]
