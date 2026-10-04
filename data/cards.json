@@ -1,5 +1,73 @@
 [
   {
+    "id": "03093b4f97a0",
+    "slug": "perfect-medieval-rpgs-nobody-remembers-today",
+    "headline": "Perfect Medieval RPGs Nobody Remembers Today",
+    "summary": "Everybody knows Skyrim and The Witcher, but plenty of fantastic medieval RPGs have been forgotten by time, doomed to obscurity.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/medieval-rpgs-perfect-games-nobody-remembers/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/10/ss_44ca7e7b87b13ba0be88933e9dcad06ecea03107-1920x1080.jpg",
+    "published_at": "2026-10-04T00:38:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "dc330cb06c94",
+    "slug": "bethesda-sets-stage-for-fallout-franchises-future",
+    "headline": "Bethesda Sets Stage for Fallout Franchise's Future",
+    "summary": "Bethesda has provided an update on the future of the Fallout franchise, including plans for the end of 2023 and 2027. The company has expressed confidence in the series' continued success.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/bethesda-fallout-76-roadmap-2027/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/fallout-76-roadmap-updates.jpg",
+    "published_at": "2026-10-04T00:00:13.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fallout",
+    "game_label": "Fallout"
+  },
+  {
+    "id": "8bb128a982c3",
+    "slug": "crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wishing-the-de",
+    "headline": " Crimson Desert DLC delayed by 2 weeks, please join me in wishing the devs a fond 'take your time, please drink some water' ",
+    "summary": "Even a man forged from steel falters sometimes.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rpg/crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wishing-the-devs-a-fond-take-your-time-please-drink-some-water/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/hZS6AmJbYzwtWwjDeL6g2C-1920-80.jpg",
+    "published_at": "2026-10-03T23:19:41.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "6616501e7064",
     "slug": "uncharted-the-lost-legacy-is-still-the-best-uncharted-game",
     "headline": "Uncharted: The Lost Legacy Is Still the Best Uncharted Game",
@@ -123,6 +191,10 @@
       {
         "name": "PC Gamer",
         "url": "https://www.pcgamer.com/games/mmo/runescape-4-announced-at-runefest-full-mmo-sequel-started-as-expansion-to-survival-game-dragonwilds/"
+      },
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/new-runescape-mmo-rs4-announced"
       }
     ],
     "image_url": "https://cdn.mos.cms.futurecdn.net/bJYvLUoWg8ndWDeu9FPmfU-1920-80.png",
@@ -4597,74 +4669,6 @@
     ],
     "image_url": "https://assets-prd.ignimgs.com/2026/10/02/image-1-1790951982452.webp",
     "published_at": "2026-10-02T15:07:56.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8e75e2081bd5",
-    "slug": "erika-ishii-returns-to-ghost-of-yotei",
-    "headline": "Erika Ishii Returns to Ghost of Yōtei",
-    "summary": "Erika Ishii discusses Ghost of Yōtei's DLC, her role as Atsu, and her gaming career on the Pause for Thought podcast.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/video/erika-ishii-atsu-voice-actor-ghost-of-yotei-dlc-interview/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/pause-for-thought-erika-ishii-site.jpg",
-    "published_at": "2026-10-02T15:00:14.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "ghost-of-yotei",
-    "game_label": "Ghost of Yōtei"
-  },
-  {
-    "id": "72386fea153f",
-    "slug": "xbox-game-pass-starts-october-with-an-awkward-end-of-an-era-reminder",
-    "headline": "Xbox Game Pass Starts October With an Awkward End-of-an-Era Reminder",
-    "summary": "October's Game Pass lineup is now rolling out, led by an acclaimed title that doubles as an awkward reminder of how much Xbox has changed in 2026.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/game-pass-double-fine-keeper-support-after-xbox-split-indie-era/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/keeper-xbox-game-pass-logo-intoxitacint-green-composite.jpg",
-    "published_at": "2026-10-02T15:00:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "db2a7b29f98d",
-    "slug": "8-things-final-fantasy-vii-revelation-is-changing-from-the-original-on",
-    "headline": "8 Things Final Fantasy VII Revelation Is Changing From The Original On PS1",
-    "summary": "The finale of the ambitious FF7 remake project arrives just in time for the game's 30th anniversary",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/8-things-final-fantasy-vii-revelation-is-changing-from-the-original-on-ps1-2000739078"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/FFVII_Revelation_June_Screenshots_8-1280x720.jpg",
-    "published_at": "2026-10-02T15:00:07.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
