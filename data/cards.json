@@ -1,5 +1,51 @@
 [
   {
+    "id": "4b6f5a89778f",
+    "slug": "what-if-cyberpunk-2077-met-stardew-valley",
+    "headline": "What if Cyberpunk 2077 Met Stardew Valley?",
+    "summary": "Eurogamer reviews Nivalis Nights, a game that combines elements of Cyberpunk 2077 and Stardew Valley, offering a unique blend of sci-fi and farming sim elements.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/nivalis-nights-now-playing"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/nivalis-nights-header-brighter.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-04T09:01:54.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "nivalis-nights",
+    "game_label": "Nivalis Nights"
+  },
+  {
+    "id": "03c6a97bd997",
+    "slug": "rockstar-games-confirms-next-official-gta-6-update-for-october-5",
+    "headline": "Rockstar Games Confirms Next Official GTA 6 Update for October 5",
+    "summary": "Grand Theft Auto fans looking forward to the long-awaited GTA 6 should circle their calendars for Monday, October 5.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-love-magazine-release-images/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/gta-6-love-magazine.jpg",
+    "published_at": "2026-10-04T09:00:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "d73b5beccd24",
     "slug": "runescape-dragonwilds-reveals-multi-year-roadmap",
     "headline": "RuneScape: Dragonwilds Reveals Multi-Year Roadmap",
@@ -4625,51 +4671,5 @@
     "comment_count": 0,
     "game": "revolution-5-unlimited",
     "game_label": "Revolution 5 Unlimited"
-  },
-  {
-    "id": "750817dfe324",
-    "slug": "the-science-behind-best-friendship-in-the-jackbox-party-pack-12",
-    "headline": "The Science Behind Best Friendship in The Jackbox Party Pack 12",
-    "summary": "The Jackbox Party Pack 12's unique gameplay mechanics were inspired by a word association game and personality quiz, combining elements to create a fun and social experience for players.",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/10/02/the-science-behind-best-friendship-in-the-jackbox-party-pack-12/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/750817dfe324/800/600",
-    "published_at": "2026-10-02T16:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "jackbox-party-pack-12",
-    "game_label": "Jackbox Party Pack 12"
-  },
-  {
-    "id": "d4032d73723d",
-    "slug": "in-5-years-will-netflix-still-be-in-gaming-heres-what-the-ceo-said",
-    "headline": "In 5 Years, Will Netflix Still Be In Gaming? Here’s What The CEO Said",
-    "summary": "Netflix has been experimenting with video games for a while, but is the streaming giant going to eventually drop out of gaming? That's the question Bloomberg's Lucas Shaw put to Netflix co-CEO Ted Sarandos at the Screentime event this week. Regarding whether Netflix will still host games in five years, Sarandos said, \"I think so.\" He said Netflix's push into…",
-    "category": "industry",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/in-5-years-will-netflix-still-be-in-gaming-heres-what-the-ceo-said/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/netflix-Large.jpeg?w=300",
-    "published_at": "2026-10-02T15:55:59.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
