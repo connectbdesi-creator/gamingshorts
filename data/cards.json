@@ -1,5 +1,132 @@
 [
   {
+    "id": "375ea519749f",
+    "slug": "halloween-the-games-dlc-is-only-for-the-true-michael-myers-sickos",
+    "headline": "Halloween: The Game's DLC Is Only For the True Michael Myers Sickos",
+    "summary": "Illfonic is releasing new Michael Myers masks for Halloween: The Game with a $10 price tag, paired with a free map. The content will be released alongside the free update.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/halloween-the-game-free-map-michael-myers-skin-dlc/"
+      },
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/halloween-the-game-adding-michaels-worst-mask-as-10-dlc-2000740005"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/halloween-the-game-michae-myers.jpg",
+    "published_at": "2026-10-05T18:00:21.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "halloween-the-game",
+    "game_label": "Halloween: The Game"
+  },
+  {
+    "id": "095befedaa1b",
+    "slug": "bg3-console-update-officially-brings-300-option-cheat-menu",
+    "headline": "BG3 Console Update Officially Brings 300-Option Cheat Menu",
+    "summary": "A new mod adds a spell to Baldur's Gate 3 on PS5 and Xbox that opens 300-plus cheats, from God Mode to free respecs",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/bg3-console-cheaters-menu-mod/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24836068/baldurs_gate_3_warlock_half_elf.jpg",
+    "published_at": "2026-10-05T18:00:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "046f456f05c0",
+    "slug": "tomb-raider-legacy-of-atlantis-gets-very-encouraging-update-before-lau",
+    "headline": "Tomb Raider: Legacy of Atlantis Gets Very Encouraging Update Before Launch",
+    "summary": "Tomb Raider: Legacy of Atlantis has received an encouraging update ahead of its release, alleviating concerns for players.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/tomb-raider-legacy-atlantis-no-denuvo-good/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/tomb-raider-legacy-of-atlantis-gets-very-encouraging-update-before-launch.jpg",
+    "published_at": "2026-10-05T18:00:13.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "tomb-raider-legacy-of-atlantis",
+    "game_label": "Tomb Raider: Legacy of Atlantis"
+  },
+  {
+    "id": "81ab1bdab89e",
+    "slug": "how-the-walking-dead-streets-of-survival-builds-a-tactical-brawler",
+    "headline": "How The Walking Dead: Streets of Survival Builds a Tactical Brawler",
+    "summary": "Hello everyone. The Walking Dead: Streets of Survival is available now on Xbox Series X|S and PC, and rather than walk you through a feature list, I wanted to talk about the decisions that went into creating it. Two Genres, One Apocalypse AMC’s “The Walking Dead” is a world defined by scarcity, tension, and the […] The post How The…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/10/05/how-the-walking-dead-streets-of-survival-builds-a-tactical-brawler/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/81ab1bdab89e/800/600",
+    "published_at": "2026-10-05T18:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "4daeef018df2",
+    "slug": "ninja-theory-layoffs-begin-amid-xbox-shutdown",
+    "headline": "Ninja Theory Layoffs Begin Amid Xbox Shutdown",
+    "summary": "Reports of layoffs at Ninja Theory, the studio behind Hellblade: Shadow of the Sword and DmC: Devil May Cry, have surfaced as Xbox's shutdown takes effect.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/ninja-theory-layoffs-reportedly-begin-as-xboxs-shutdown-takes-effect/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/4daeef018df2/800/600",
+    "published_at": "2026-10-05T17:47:07.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ninja-theory",
+    "game_label": "Ninja Theory"
+  },
+  {
     "id": "6a630e6418ad",
     "slug": "someone-at-marvel-thinks-were-all-stupid",
     "headline": "Someone At Marvel Thinks We’re All Stupid",
@@ -158,6 +285,31 @@
     "game_label": "The Elder Scrolls: Shadows of Oblivion"
   },
   {
+    "id": "90fbe67678ee",
+    "slug": "activision-reveals-detailed-look-at-modern-warfare-4s-extraction-mode",
+    "headline": "Activision Reveals Detailed Look at Modern Warfare 4's Extraction Mode",
+    "summary": "Activision shares in-depth details about the DMZ extraction mode in Call of Duty: Modern Warfare 4, highlighting new features and gameplay mechanics.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/activision-shows-deep-dive-for-modern-warfare-4s-dmz-extraction-mode/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/90fbe67678ee/800/600",
+    "published_at": "2026-10-05T17:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "call-of-duty-modern-warfare-4",
+    "game_label": "Call of Duty: Modern Warfare 4"
+  },
+  {
     "id": "79714ad7167a",
     "slug": "feature-gears-of-war-e-day-multiplayer-playing-horde-siege-and-versus",
     "headline": "Feature: Gears Of War: E-Day (Multiplayer) - Playing Horde Siege And Versus Makes Me Feel Like A Kid Again",
@@ -223,34 +375,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "375ea519749f",
-    "slug": "halloween-the-games-dlc-is-only-for-the-true-michael-myers-sickos",
-    "headline": "Halloween: The Game's DLC Is Only For the True Michael Myers Sickos",
-    "summary": "Illfonic is releasing new Michael Myers masks for Halloween: The Game with a $10 price tag, paired with a free map. The content will be released alongside the free update.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/halloween-the-game-free-map-michael-myers-skin-dlc/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/halloween-the-game-michae-myers.jpg",
-    "published_at": "2026-10-05T16:59:22.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "halloween-the-game",
-    "game_label": "Halloween: The Game"
   },
   {
     "id": "3a5a48b91c08",
@@ -715,6 +839,27 @@
     "game_label": "Dragon Age: Origins"
   },
   {
+    "id": "f54cd9c5fb28",
+    "slug": "nexon-and-chernin-entertainment-will-bring-arc-raiders-and-the-finals",
+    "headline": "Nexon and Chernin Entertainment will bring ARC Raiders and The Finals to film and TV",
+    "summary": "Nexon and Chernin Entertainment have teamed up to bring the games ARC Raiders and The Finals to film and television. Chernin Entertainment, started by...\nThe post Nexon and Chernin Entertainment will bring ARC Raiders and The Finals to film and TV appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/nexon-and-chernin-entertainment-will-bring-arc-raiders-and-the-finals-to-film-and-tv/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/f54cd9c5fb28/800/600",
+    "published_at": "2026-10-05T16:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "d401e751372f",
     "slug": "five-key-fixes-are-currently-being-worked-on-for-the-witcher-3-remaste",
     "headline": "Five Key Fixes Are Currently Being Worked On For The Witcher 3 Remastered",
@@ -908,6 +1053,27 @@
     "game_label": "Fortnite"
   },
   {
+    "id": "0c93a2c631c6",
+    "slug": "wildtangent-games-rolls-out-free-trial-membership-and-major-platform-u",
+    "headline": "WildTangent Games rolls out free trial membership and major platform upgrades",
+    "summary": "WildTangent Games is celebrating nearly 30 years with a free trial membership option along with major updates to it's platform.\nThe post WildTangent Games rolls out free trial membership and major platform upgrades appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/wildtangent-games-rolls-out-free-trial-membership-and-major-platform-upgrades/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/0c93a2c631c6/800/600",
+    "published_at": "2026-10-05T15:33:46.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "8d5d10ede919",
     "slug": "rockstar-explains-gta-6s-satire-approach",
     "headline": "Rockstar Explains GTA 6's Satire Approach",
@@ -1088,6 +1254,30 @@
     "comment_count": 0,
     "game": "pet-store-tycoon",
     "game_label": "Pet Store Tycoon"
+  },
+  {
+    "id": "2f6a441ceb9d",
+    "slug": "ggwp-announces-leadership-overhaul-with-new-ceo-and-chairman",
+    "headline": "GGWP Announces Leadership Overhaul with New CEO and Chairman",
+    "summary": "GGWP, a gaming organization, has made significant changes to its leadership, with George Ng taking over as CEO and Dennis Fong assuming the role of chairman.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/ggwp-announces-leadership-reshuffle-with-new-chairman-and-ceo/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/2f6a441ceb9d/800/600",
+    "published_at": "2026-10-05T15:08:42.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "57ac76c131bd",
@@ -4501,182 +4691,5 @@
     "comment_count": 0,
     "game": "cookies-bustle",
     "game_label": "Cookie's Bustle"
-  },
-  {
-    "id": "2b215effdada",
-    "slug": "ps5-emulation-on-pc-is-closer-than-ever-after-latest-breakthrough",
-    "headline": "PS5 Emulation On PC Is Closer Than Ever After Latest Breakthrough",
-    "summary": "PlayStation emulation has been making major strides recently, but this latest update is more promising than ever for modders.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/playstation-5-pc-emulator-breakthrough/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/07/ps5-controller-on-top-of-a-ps5.jpg",
-    "published_at": "2026-10-04T19:25:09.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "63681cc47d4a",
-    "slug": "final-fantasy-7-revelation-will-have-a-physical-disc-but-theres-a-catc",
-    "headline": "Final Fantasy 7 Revelation Will Have a Physical Disc, But There's a Catch",
-    "summary": "Final Fantasy 7 Revelation game director Naoki Hamaguchi responds to players who asked for a full physical release for the game's April 8 launch.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/final-fantasy-7-ff7-revelation-disc-download-day-one/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/final-fantasy-7-revelation-will-have-a-physical-disc-but-there-s-a-catch.jpg",
-    "published_at": "2026-10-04T19:01:13.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cb3be977258a",
-    "slug": "ps5-pro-is-being-sold-through-a-lottery-in-japan",
-    "headline": "PS5 Pro Is Being Sold Through A Lottery In Japan",
-    "summary": "Sony’s PS5 Pro lottery in Japan requires a My Sony ID and at least 60 gameplay hours to enter.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/ps5-pro-using-lottery-system-japan/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/11/ps5-pro-2.jpg",
-    "published_at": "2026-10-04T18:54:07.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d05fc3a6aaff",
-    "slug": "steam-quietly-leaks-next-100-free-to-keep-game-ahead-of-time",
-    "headline": "Steam Quietly Leaks Next 100% Free to Keep Game Ahead of Time",
-    "summary": "Steam leaks the next 100% Free to Keep game well ahead of time, showing gamers what they can soon claim for free.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/steam-free-games-october-2026-leak-pony-island/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/steam-free-games-october-2026-leak-pony-island.jpg",
-    "published_at": "2026-10-04T18:30:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f7c2327983ca",
-    "slug": "feature-lets-flick-through-sammys-photos-from-gamescom-and-tokyo-game",
-    "headline": "Feature: Let's Flick Through Sammy's Photos from Gamescom and Tokyo Game Show",
-    "summary": "Nothing too unsavoury, I promise. I’ve been wanting to share some of my adventures from Gamescom and Tokyo Game Show for weeks now, but I wasn’t really sure how best to package it. Then, earlier this week while I was out running, I realised I didn’t really need a big overarching theme or some inspirational message – what if I…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/features/lets-flick-through-sammys-photos-from-gamescom-and-tokyo-game-show"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/6684f4a9882b7/large.jpg",
-    "published_at": "2026-10-04T18:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f613cb609f6b",
-    "slug": "dark-souls-6-characters-stronger-than-artorias-ranked",
-    "headline": "Dark Souls: 6 Characters Stronger Than Artorias, Ranked",
-    "summary": "Knight Artorias ranks as Dark Souls' most beloved and hardest boss, but a few other characters in the game could utterly destroy him.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/dark-souls-characters-stronger-than-artorias/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/dark-souls-characters-stronger-than-artorias-1.jpg",
-    "published_at": "2026-10-04T18:20:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "72922806369d",
-    "slug": "nintendos-zelda-ocarina-of-time-remake-gets-official-instrument-suppor",
-    "headline": "Nintendo's Zelda: Ocarina of Time Remake Gets Official Instrument Support and More",
-    "summary": "The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 will include a playable flute, Zelda Notes support, and an official Zelda quiz.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-new-features-notes-app-nintendo/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ocarina.JPG",
-    "published_at": "2026-10-04T18:19:15.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c86538dcb307",
-    "slug": "kingdom-come-deliverance-studio-co-founder-says-a-lot-of-rpgs-are-stil",
-    "headline": " Kingdom Come: Deliverance studio co-founder says a lot of RPGs are 'still games for teenagers,' and that he's 'tired of all the RPGs where you are this chosen one' ",
-    "summary": "\"Everybody's going to think that I am hating on Expedition 33 right now, but that's definitely not the case.\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-studio-co-founder-says-a-lot-of-rpgs-are-still-games-for-teenagers-and-that-hes-tired-of-all-the-rpgs-where-you-are-this-chosen-one/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/oMv5yCmNVGS5ZZr9VckBCS-1920-80.jpg",
-    "published_at": "2026-10-04T18:19:05.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
