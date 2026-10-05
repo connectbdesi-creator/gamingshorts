@@ -19055,5 +19055,38 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-05T15:06:46.375Z"
+  },
+  {
+    "slug": "sbox",
+    "name": "Pato Box",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/f11/f114f331d6c61858ca87e71deeaacbd1.jpg",
+    "released": "2018-03-20",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "Fighting",
+      "Sports",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a28/a28e31cb6c6ec9958da526690a19dadb.jpg",
+      "https://media.rawg.io/media/screenshots/dae/dae1953e3507c0ccbeee14e4d2841fc5.jpg",
+      "https://media.rawg.io/media/screenshots/237/237081d856c202efadbbb4d66344df26.jpg",
+      "https://media.rawg.io/media/screenshots/901/901ba8293d3161b0a2101df01b48948b.jpg",
+      "https://media.rawg.io/media/screenshots/c32/c325c65078009dd7ef5610d3b53fffe2.jpg",
+      "https://media.rawg.io/media/screenshots/a87/a87f1353ff0f31ca2c6ea038564101cf.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-05T15:36:59.708Z"
   }
 ]
