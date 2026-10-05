@@ -1,5 +1,115 @@
 [
   {
+    "id": "a3028cf7049c",
+    "slug": "brand-new-cyberpunk-game-hits-steam-store",
+    "headline": "Brand-New Cyberpunk Game Hits Steam Store",
+    "summary": "A new cyberpunk game is now available on Steam, offering an unconventional spin on the sci-fi genre.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/steam-games-like-cyberpunk-2077-nivalis-nights-sim/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/black-steam-logo-on-blurred-nivalis-nights-screenshot.jpg",
+    "published_at": "2026-10-05T18:30:13.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e2f50c93bb2d",
+    "slug": "5-soulslikes-with-better-side-quests-than-elden-ring-ranked",
+    "headline": "5 Soulslikes With Better Side Quests Than Elden Ring, Ranked",
+    "summary": "Nearly everything in Elden Ring is perfect, but side quests are definitely an exception. These Soulslike RPGs do it better than FromSoftware's game.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/soulslikes-games-better-side-quests-than-elden-ring/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/soulslike-games-better-side-quests-than-elden-ring-nioh-2-honda-tadakatsu-boss-battle.jpg",
+    "published_at": "2026-10-05T18:18:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "640ca4f2d125",
+    "slug": "ninja-theory-studio-hit-by-layoffs-amid-xbox-restructuring",
+    "headline": "Ninja Theory Studio Hit by Layoffs Amid Xbox Restructuring",
+    "summary": "British game developer Ninja Theory has faced layoffs as part of Xbox's ongoing restructuring efforts, affecting the studio behind the Hellblade series.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/hellblade-ninja-theory-layoffs/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/hellblade-studio-hit-by-layoffs.jpg",
+    "published_at": "2026-10-05T18:17:09.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "hellblade",
+    "game_label": "Hellblade"
+  },
+  {
+    "id": "0a1dcf2c34c5",
+    "slug": "sh-figuarts-reveals-tengen-uzui-figure",
+    "headline": "S.H. Figuarts Reveals Tengen Uzui Figure",
+    "summary": "S.H. Figuarts has announced a new figure of Tengen Uzui from Demon Slayer: Kimetsu no Yaiba, targeting fans of the series.",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/demon-slayer-tengen-uzui-figure-sh-figuarts/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/demon-slayers-tengen-uzui-inspires-stunning-new-figure-gamerant-feature.jpg",
+    "published_at": "2026-10-05T18:16:18.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "demon-slayer-kimetsu-no-yaiba",
+    "game_label": "Demon Slayer: Kimetsu no Yaiba"
+  },
+  {
+    "id": "e29305dc70b2",
+    "slug": "why-gta-studio-co-founder-is-avoiding-gta-6and-all-open-world-games",
+    "headline": "Why GTA Studio Co-Founder Is Avoiding GTA 6–And All Open-World Games",
+    "summary": "Rockstar co-founder Dan Houser left the company in 2020 and now runs a new outfit called Absurd Ventures. Houser will be forever connected to the GTA franchise, and he's now weighed in on GTA 6. He told Variety that he did not watch the \"Extended Look\" trailer and doesn't plan to. Why? He said he tries to avoid consuming things…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/why-gta-studio-co-founder-is-avoiding-gta-6-and-all-open-world-games/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/GTA6-Large.jpeg?w=300",
+    "published_at": "2026-10-05T18:06:23.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "375ea519749f",
     "slug": "halloween-the-games-dlc-is-only-for-the-true-michael-myers-sickos",
     "headline": "Halloween: The Game's DLC Is Only For the True Michael Myers Sickos",
@@ -127,6 +237,33 @@
     "game_label": "Ninja Theory"
   },
   {
+    "id": "a751714bcf12",
+    "slug": "kingdom-come-deliverance-dev-slams-power-fantasy-rpgs-for-teens",
+    "headline": "Kingdom Come: Deliverance Dev Slams 'Power Fantasy' RPGs for Teens",
+    "summary": "Martin Klima criticizes RPGs prioritizing fantasy over realism and maturity, sparking debate in the gaming industry.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/kingdom-come-deliverance-dev-calls-out-rpgs-for-teenagers-that-just-focus-on-power-fantasy"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2025/11/11/royaleditionthumbono-1762877837846.png",
+    "published_at": "2026-10-05T17:32:16.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "kingdom-come-deliverance",
+    "game_label": "Kingdom Come: Deliverance"
+  },
+  {
     "id": "6a630e6418ad",
     "slug": "someone-at-marvel-thinks-were-all-stupid",
     "headline": "Someone At Marvel Thinks We’re All Stupid",
@@ -146,6 +283,29 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "f7801e347579",
+    "slug": "gears-of-war-e-day-runs-smoothly-on-xbox-series-s-by-using-ssd-as-ram",
+    "headline": "Gears of War: E-Day Runs Smoothly on Xbox Series S By Using SSD as RAM",
+    "summary": "The Coalition optimized Gears of War for Xbox Series S using its SSD, resulting in improved performance.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gears-of-war-e-day-runs-smoothly-on-xbox-series-s-by-using-ssd-as-ram"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/01/btfiuoeldu6mkzuez7e008xhvd1icgg-jcb-u5aiuoy-1790813782471.jpeg",
+    "published_at": "2026-10-05T17:29:42.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gears-of-war",
+    "game_label": "Gears of War"
   },
   {
     "id": "e4be63f65e05",
@@ -258,6 +418,29 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "656f07eb2078",
+    "slug": "work-work-work-prologue-demo-launches-october-8",
+    "headline": "WORK WORK WORK Prologue Demo Launches October 8",
+    "summary": "Toge Productions and Mojiken Studio are releasing a puzzle adventure game called WORK WORK WORK. A demo of the game's prologue will be available on October 8.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/work-work-work-prologue-demo-launches-october-8"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/656f07eb2078/800/600",
+    "published_at": "2026-10-05T17:00:24.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "work-work-work",
+    "game_label": "WORK WORK WORK"
   },
   {
     "id": "b040587960be",
@@ -1377,6 +1560,29 @@
     "comment_count": 0,
     "game": "crymelight",
     "game_label": "CRYMELIGHT"
+  },
+  {
+    "id": "500d9b0f9008",
+    "slug": "bombanana-becomes-first-steam-native-party-game-with-roblox-adaptation",
+    "headline": "Bombanana! Becomes First Steam-Native Party Game With Roblox Adaptation",
+    "summary": "Bombanana!, a popular Steam party game, has gained official support from Roblox, marking a first for a Steam-native game on the platform.",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/steam-hit-bombanana-becomes-first-steam-native-party-game-with-an-official-roblox-adaptation/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/500d9b0f9008/800/600",
+    "published_at": "2026-10-05T14:56:05.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "bombanana",
+    "game_label": "Bombanana!"
   },
   {
     "id": "cd0f4e81c31a",
@@ -4480,216 +4686,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "6f68405e3c9c",
-    "slug": "spooky-games-to-play-this-halloween-that-arent-quite-horror",
-    "headline": "Spooky Games To Play This Halloween That Aren't Quite Horror",
-    "summary": "October is a great time for all things spooky, but if you're not looking for a scare this season, then these are the Halloween games for you.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/halloween-horror-games-not-scary-spooky-season-fall-vibes/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/10/characters-from-well-dweller-moonlight-peaks-and-the-witch-s-bakery-over-a-blurred-fall-background.jpg",
-    "published_at": "2026-10-04T22:30:17.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "573b05174c2c",
-    "slug": "pokemon-tcg-fans-can-get-free-cards-but-theres-a-catch",
-    "headline": "Pokemon TCG Fans Can Get Free Cards, But There's a Catch",
-    "summary": "Pokémon Trading Card Game fans can receive free cards through a limited-time offer, but there are conditions.",
-    "category": "deals",
-    "platform_tags": [
-      "mobile",
-      "pc",
-      "switch",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/pokemon-tcg-live-free-cards-october-2026/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/pokemon-tcg-live-30th-celebration-promo-code.jpg",
-    "published_at": "2026-10-04T22:30:13.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "pokemon-tcg",
-    "game_label": "Pokemon TCG"
-  },
-  {
-    "id": "35f8f5099ecf",
-    "slug": "how-to-fly-longer-in-aion-2-flight-power",
-    "headline": "How to Fly Longer in Aion 2 (Flight Power)",
-    "summary": "Aion 2 tutorial allows players to unlock flight early, but mastering it takes time and effort. This article will provide tips on improving flight time.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/aion-2-increase-flight-power-fly-longer-wings/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/aion-2-how-to-increase-flight-power-fly-longer.jpg",
-    "published_at": "2026-10-04T22:20:14.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "aion-2",
-    "game_label": "Aion 2"
-  },
-  {
-    "id": "0bb3a8daed62",
-    "slug": "fire-emblem-fortunes-weave-brings-battle-to-tetris-99",
-    "headline": "Fire Emblem: Fortune's Weave Brings Battle to Tetris 99",
-    "summary": "Fire Emblem: Fortune's Weave's release on Switch 2 triggers a special event in Nintendo's Tetris 99, featuring a battle royale with players competing in a unique game mode.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/10/let-the-heroic-games-begin-fire-emblem-fortunes-weave-brings-the-battle-to-tetris-99"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/d0d44b51f0ff7/large.jpg",
-    "published_at": "2026-10-04T22:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "fire-emblem-fortunes-weave",
-    "game_label": "Fire Emblem: Fortune's Weave"
-  },
-  {
-    "id": "80b28a506ffd",
-    "slug": "warner-bros-and-paramount-unveil-new-name-as-both-studios-restructure",
-    "headline": "Warner Bros. and Paramount Unveil New Name as Both Studios Restructure",
-    "summary": "James Gunn gets a boost as top Warner Bros. executives are removed and a new company, Skydance, is formed after restructuring",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/warner-bros-and-paramount-unveil-new-name-as-both-studios-restructure-2000739662"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/skydance-1280x746.jpg",
-    "published_at": "2026-10-04T21:22:36.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "dde19143ee5f",
-    "slug": "gta-6s-story-mission-approach-exposes-one-open-world-game-habit-that-n",
-    "headline": "GTA 6's Story Mission Approach Exposes One Open-World Game Habit That Needs to Die",
-    "summary": "Rockstar Games is changing the way story missions work in GTA 6, potentially making exploration more engaging and rewarding.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-open-world-map-story-missions/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/gta-6-lucia-holding-a-gun-to-jason-s-chest-in-grand-theft-auto-6.jpg",
-    "published_at": "2026-10-04T20:30:13.000Z",
-    "hype_signal": 75,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "3657dd712f7a",
-    "slug": "8-video-game-villains-with-motives-you-cant-argue-with",
-    "headline": "8 Video Game Villains With Motives You Can't Argue With",
-    "summary": "From Renoir to Andrew Ryan, these 8 video game villains perhaps had a point…buried under the body count",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/video-game-villains-who-were-right/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22989776/ss_4b2b412307b72a21f68148c32fab7a278875d139.jpg",
-    "published_at": "2026-10-04T20:00:15.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2747f460ba71",
-    "slug": "cyberpunk-2077-officially-beats-gears-of-war-e-day-on-steam",
-    "headline": "Cyberpunk 2077 Officially Beats Gears of War: E-Day on Steam",
-    "summary": "Cyberpunk 2077 moves ahead of Gears of War: E-Day on Steam as CD Projekt's RPG remarkably keeps finding buyers nearly six years after launch.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/cyberpunk-2077-gears-war-e-day-steam-sales/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/cyberpunk-2077-v-holding-gun-over-gears-of-war-e-day-character-artwork-composite.jpg",
-    "published_at": "2026-10-04T20:00:13.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "507763ab6616",
-    "slug": "players-invited-to-secret-party-for-rare-90s-pc-game-after-patent-trol",
-    "headline": "Players Invited to Secret Party for Rare '90s PC Game After Patent Troll Release",
-    "summary": "Players of the rare 90s adventure game Cookie's Bustle are being invited to a secret party 25 years after the game's original release, following its liberation from a patent troll.",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/players-who-registered-rare-japanese-pc-game-invited-to-secret-party-over-25-years-later-2000739658"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/03/cookie.jpg",
-    "published_at": "2026-10-04T19:49:54.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "cookies-bustle",
-    "game_label": "Cookie's Bustle"
   }
 ]
