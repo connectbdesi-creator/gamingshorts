@@ -19088,5 +19088,32 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-05T15:36:59.708Z"
+  },
+  {
+    "slug": "majoras-mask",
+    "name": "The Legend of Zelda: Majora's Mask",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/b3c/b3c209cd49aae8a469a59b79b54dc599.jpg",
+    "released": "2000-04-27",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "Nintendo Switch",
+      "Nintendo 64"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f3c/f3cddbb360b0aa0df1fae21241dacbd0.jpg",
+      "https://media.rawg.io/media/screenshots/071/0713404846d66edb8882271cbf6a9bf3.jpg",
+      "https://media.rawg.io/media/screenshots/ff4/ff4ed16a2f1994d730eefb3d764ef9ec.jpg",
+      "https://media.rawg.io/media/screenshots/3d5/3d535b458e5d67206e82e8a839b3bb0a.jpg",
+      "https://media.rawg.io/media/screenshots/33b/33bb575258791e2d129249813e78b85f.jpg",
+      "https://media.rawg.io/media/screenshots/fc6/fc68a972087f64db931de45259073cf4.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-05T16:07:02.042Z"
   }
 ]

@@ -1,5 +1,239 @@
 [
   {
+    "id": "7c23beb0a14e",
+    "slug": "dungeons-dragons-rewrites-the-games-rules-for-the-new-world-of-warcraf",
+    "headline": "Dungeons & Dragons Rewrites the Game’s Rules for the New World of Warcraft Book",
+    "summary": "The book is experimenting with complex boss fights and transformative subclasses",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/dungeons-and-dragons-world-of-warcraft-preview/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dungeons-dragons-world-of-warcraft-bronze-dragons.jpg",
+    "published_at": "2026-10-05T16:00:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "4b447c5fe1ce",
+    "slug": "new-dragon-age-origins-release-confirmed-for-2027",
+    "headline": "New Dragon Age: Origins Release Confirmed for 2027",
+    "summary": "A fan-led project is planned to release Dragon Age: Origins in 2027, making the game more accessible to new players.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/dragon-age-origins-pc-recomp-2027-60-percent/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/dragon_age_origins_darkspawn_3840x2160.jpg",
+    "published_at": "2026-10-05T16:00:13.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dragon-age-origins",
+    "game_label": "Dragon Age: Origins"
+  },
+  {
+    "id": "05d8105356b2",
+    "slug": "dungeons-dragons-world-of-warcraft",
+    "headline": "Dungeons & Dragons: World of Warcraft",
+    "summary": "PC Gamer previews the upcoming tabletop adaptation of World of Warcraft, stating it's a slam dunk, but its success depends on capturing the MMO's spirit.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/dungeons-and-dragons-world-of-warcraft-is-already-a-slam-dunk-but-its-how-it-captures-the-spirit-of-the-mmo-that-makes-it-stand-out/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/FuEb4eEjTUMnZBeaCnGz4T-1920-80.jpg",
+    "published_at": "2026-10-05T16:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dungeons-dragons-world-of-warcraft",
+    "game_label": "Dungeons & Dragons: World of Warcraft"
+  },
+  {
+    "id": "ee8fe718cadb",
+    "slug": "warlocks-smaller-open-world-allows-for-less-handholding",
+    "headline": "Warlock's Smaller Open World Allows for Less Handholding",
+    "summary": "Warlock's developers aim to create a more exploration-driven experience with a smaller open world, giving players more freedom and flexibility.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/open-world/new-d-and-d-rpg-warlock-has-a-smaller-open-world-so-devs-can-pull-back-a-little-bit-on-the-handholding-lead-says/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/u2iW5ke82ZE4t4sCBxFmyX-1920-80.jpg",
+    "published_at": "2026-10-05T15:54:49.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "warlock",
+    "game_label": "Warlock"
+  },
+  {
+    "id": "5c8baa55472f",
+    "slug": "the-coalitions-ssd-hack",
+    "headline": "The Coalition's SSD Hack",
+    "summary": "Game developer The Coalition shared a workaround to ensure smooth performance on Xbox Series S for their game Gears of War E-Day",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/the-coalition-used-the-ssd-on-xbox-series-s-as-makeshift-ram-to-help-gears-of-war-e-day-run-smoothly-on-it/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/5c8baa55472f/800/600",
+    "published_at": "2026-10-05T15:51:41.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gears-of-war-e-day",
+    "game_label": "Gears of War E-Day"
+  },
+  {
+    "id": "69c94accf070",
+    "slug": "zelda-majoras-mask-soundtrack-joins-nintendo-music-this-week",
+    "headline": "Zelda: Majora's Mask Soundtrack Joins Nintendo Music This Week",
+    "summary": "Nintendo is adding the original Majora's Mask soundtrack to its Nintendo Music service in celebration of the Zelda 40th Anniversary",
+    "category": "releases",
+    "platform_tags": [
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/zelda-majoras-mask-soundtrack-joins-nintendo-music-this-week"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/5bcf495743206/large.jpg",
+    "published_at": "2026-10-05T15:45:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "majoras-mask",
+    "game_label": "Majora's Mask"
+  },
+  {
+    "id": "4e604b39421a",
+    "slug": "dark-pictures-devs-layoffs-have-begun-over-70-staff-reportedly-let-go",
+    "headline": "Dark Pictures Dev's Layoffs Have Begun, Over 70 Staff Reportedly Let Go",
+    "summary": "Supermassive Games shrinks to survive. Supermassive Games, the studio behind the original Until Dawn as well as the Dark Pictures anthology, recently confirmed it would be cutting some jobs in order to keep the company alive, and it seems the time has sadly come. As reported by Insider Gaming, some Supermassive staffers have recently left the studio, with one statement…",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/dark-pictures-devs-layoffs-have-begun-over-70-staff-reportedly-let-go"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/6ffe0f50c86cf/large.jpg",
+    "published_at": "2026-10-05T15:45:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8d5d10ede919",
+    "slug": "rockstar-explains-gta-6s-satire-approach",
+    "headline": "Rockstar Explains GTA 6's Satire Approach",
+    "summary": "Rockstar Games reveals its approach to satire in GTA 6, stating it should be over-the-top and not satirize real-world events",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events"
+      },
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/rockstar-explains-how-it-actually-makes-a-game-like-gta-6-2000739955"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Ambrosia_06.0j9c7-8nfb_xf.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-05T15:33:13.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "2289232d184e",
+    "slug": "ninja-theory-lays-off-staff-amid-xbox-deal-rejections",
+    "headline": "Ninja Theory Lays Off Staff Amid Xbox Deal Rejections",
+    "summary": "UK-based game developer Ninja Theory is laying off staff due to failed deals with Xbox, casting doubt on the studio's future",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/hellblade-ninja-theory-layoffs/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/05/mixcollage-26-may-2025-10-44-am-422.jpg",
+    "published_at": "2026-10-05T15:31:51.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ninja-theory",
+    "game_label": "Ninja Theory"
+  },
+  {
+    "id": "75788bf2ae80",
+    "slug": "the-borderlands-mmo-is-officially-saved-and-playable-in-english-11-yea",
+    "headline": " The Borderlands MMO is officially saved and playable in English, 11 years after its shutdown ",
+    "summary": "Modder and fan project lead EpicNNG says \"thank you to each player who has joined us as we make history\"",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/borderlands/the-borderlands-mmo-is-officially-saved-and-playable-in-english-11-years-after-its-shutdown-and-17-months-after-restoration-efforts-began-we-did-it/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/wNt7ud4HENY7pa4STT8tE3-1920-80.jpg",
+    "published_at": "2026-10-05T15:31:20.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "85871d66e25d",
     "slug": "ex-rockstar-devs-new-game-looks-like-bloodborne-meets-resident-evil",
     "headline": "Ex-Rockstar Dev's New Game Looks Like Bloodborne Meets Resident Evil",
@@ -161,27 +395,6 @@
     "comment_count": 0,
     "game": "pokemon-30th-anniversary-tcg",
     "game_label": "Pokémon 30th Anniversary TCG"
-  },
-  {
-    "id": "8d5d10ede919",
-    "slug": "rockstar-explains-gta-6s-satire-approach",
-    "headline": "Rockstar Explains GTA 6's Satire Approach",
-    "summary": "Rockstar Games reveals its approach to satire in GTA 6, stating it should be over-the-top and not satirize real-world events",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Ambrosia_06.0j9c7-8nfb_xf.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-05T15:00:30.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "048f86abf174",
@@ -4450,225 +4663,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "00132a953cc4",
-    "slug": "best-planes-to-unlock-first-in-ace-combat-8",
-    "headline": "Best Planes to Unlock First in Ace Combat 8",
-    "summary": "Ace Combat 8 offers early access to the best planes for an edge in campaign missions, but which ones are the most valuable?",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/ace-combat-8-best-planes-to-purchase-unlock/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/ace-combat-8-best-aircraft-to-purchase-first.jpg",
-    "published_at": "2026-10-04T12:45:39.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "ace-combat-8",
-    "game_label": "Ace Combat 8"
-  },
-  {
-    "id": "3c54639b6ba0",
-    "slug": "unlock-all-outfits-in-ghost-of-yotei-with-the-complete-edition",
-    "headline": "Unlock All Outfits in Ghost of Yotei with The Complete Edition",
-    "summary": "Ghost of Yotei gets a new Complete Edition with unlockable outfits inspired by popular games",
-    "category": "deals",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/ghost-of-yotei-secret-outfits-playstation-easter-eggs/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/ghost-of-yotei-playstation-outfits.jpg",
-    "published_at": "2026-10-04T12:45:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "ghost-of-yotei",
-    "game_label": "Ghost of Yotei"
-  },
-  {
-    "id": "6ae093ee5c49",
-    "slug": "runescape-reignited-launches-december-2",
-    "headline": "RuneScape Reignited Launches December 2",
-    "summary": "RuneScape developer Jagex is launching a revamped version of the popular MMORPG, RuneScape Reignited, on December 2.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/runescape-reignited-launch-date-2-december-economy-reset"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-13.25.20.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-04T12:40:21.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "runescape-reignited",
-    "game_label": "RuneScape Reignited"
-  },
-  {
-    "id": "c6b96feacc13",
-    "slug": "new-final-fantasy-40th-anniversary-release-confirmed-for-2027",
-    "headline": "New Final Fantasy 40th Anniversary Release Confirmed for 2027",
-    "summary": "Square Enix confirms a major Final Fantasy 40th anniversary celebration with a new release slated for 2027.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/final-fantasy-ff-40th-anniversary-distant-worlds-2027/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/ff14_warrior_of_light_3840x2160.jpg",
-    "published_at": "2026-10-04T12:30:13.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "final-fantasy",
-    "game_label": "Final Fantasy"
-  },
-  {
-    "id": "6e2ba7760d8f",
-    "slug": "platinumgames-teases-bayonettas-future",
-    "headline": "PlatinumGames Teases Bayonetta's Future",
-    "summary": "PlatinumGames CEO Atsushi Inaba makes a brief comment on Bayonetta's future in an interview with Famitsu",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/10/platinumgames-comments-on-the-future-of-bayonetta"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/f0f4e3e422726/large.jpg",
-    "published_at": "2026-10-04T12:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "bayonetta",
-    "game_label": "Bayonetta"
-  },
-  {
-    "id": "c85efdb89cb8",
-    "slug": "sony-accepting-game-pitches-for-fan-favourite-franchises",
-    "headline": "Sony Accepting Game Pitches for Fan Favourite Franchises",
-    "summary": "A leaker claims Sony is accepting pitches for new games based on popular franchises like Killzone and Sly Cooper, with the first wave potentially set for the PS6 launch",
-    "category": "deals",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/rumour-sony-accepting-game-pitches-on-fan-fave-franchises-first-wave-due-around-ps6-launch"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/ef3f3518d0d25/large.jpg",
-    "published_at": "2026-10-04T12:00:00.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0c801a45b5fd",
-    "slug": "playstation-is-reportedly-taking-pitches-for-new-sly-cooper",
-    "headline": "PlayStation Is Reportedly Taking Pitches For New Sly Cooper",
-    "summary": "PlayStation is reportedly considering a new Sly Cooper game, following the success of Ape Escape",
-    "category": "deals",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/playstation-reportedly-taking-third-party-pitches-sly-cooper-killzone-ape-escape/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/slycooper4secretending.jpg",
-    "published_at": "2026-10-04T11:56:10.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "sly-cooper",
-    "game_label": "Sly Cooper"
-  },
-  {
-    "id": "d26264fbff13",
-    "slug": "grand-theft-auto-6-features-graphic-content",
-    "headline": "Grand Theft Auto 6 Features Graphic Content",
-    "summary": "PC Gamer reports on leaked PEGI ratings for Grand Theft Auto 6, revealing detailed depictions of violence and substance abuse, sparking concerns among players.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-features-detailed-decapitation-and-frequent-and-prominent-drug-use-according-to-hastily-deleted-pegi-rating/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/rjLFde7bmaQCWqYowbJvaD-1920-80.jpg",
-    "published_at": "2026-10-04T11:49:18.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "dd2cf4dd1236",
-    "slug": "more-bayonetta-coming-despite-developer-exodus",
-    "headline": "More Bayonetta Coming Despite Developer Exodus",
-    "summary": "Platinum Games boss Inaba promises to expand Bayonetta's world and character despite the departure of key developers",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/platinum-suggests-more-bayonetta-is-coming-despite-exodus-of-lead-developers/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/dd2cf4dd1236/800/600",
-    "published_at": "2026-10-04T11:24:34.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "bayonetta",
-    "game_label": "Bayonetta"
   }
 ]
