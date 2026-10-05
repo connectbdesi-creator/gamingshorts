@@ -1,5 +1,175 @@
 [
   {
+    "id": "042eb1beedf6",
+    "slug": "lego-unveils-new-batman-sets",
+    "headline": "LEGO Unveils New Batman Sets",
+    "summary": "LEGO has announced three new Batman sets, including a replica of the Joker's iconic cover artwork. The sets are set to bring the popular characters to life in brick form.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/lego-batman-joker-wall-art-batmobile-duck-legacy-sets-official-reveal/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/batman-minifigure-crashing-through-lego-logo-on-red-background-composite.jpg",
+    "published_at": "2026-10-05T14:00:13.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8c92ca64d577",
+    "slug": "dark-fantasy-game-hits-lowest-ever-price-on-steam",
+    "headline": "Dark Fantasy Game Hits Lowest-Ever Price on Steam",
+    "summary": "A highly rated dark fantasy game is now available at its lowest price on Steam, breaking a discount floor that had held for a year.",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/deaths-door-steam-low-price/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/steam-90-percent-off-deaths-door-game-rant.jpg",
+    "published_at": "2026-10-05T14:00:13.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "34f0719023f8",
+    "slug": "kingdom-hearts-collection-iiii-ps5-version-to-have-fewer-platinum-trop",
+    "headline": "Kingdom Hearts Collection I~III PS5 Version to Have Fewer Platinum Trophies",
+    "summary": "The upcoming Kingdom Hearts Collection I~III re-release for PS5 will have fewer Platinum Trophies than its PS4 predecessor, according to fans who spotted the discrepancy in the game's trophy list.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/disappointment-as-kingdom-hearts-ps5-pulls-back-platinum-trophies"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/7b49b012750d0/large.jpg",
+    "published_at": "2026-10-05T14:00:00.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "kingdom-hearts-collection-iiii",
+    "game_label": "Kingdom Hearts Collection I~III"
+  },
+  {
+    "id": "33d706812d06",
+    "slug": "wild-at-heart-quest-walkthrough-in-the-witcher-3-wild-hunt",
+    "headline": "Wild at Heart Quest Walkthrough in The Witcher 3: Wild Hunt",
+    "summary": "This guide provides a step-by-step walkthrough to reach every possible outcome in the 'Wild at Heart' quest in The Witcher 3: Wild Hunt, helping players master the challenges of this iconic game.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/witcher-3-wild-hunt-wild-at-heart-quest-walkthrough-niellen/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/witcher-3-wild-at-heart-quest-1.jpg",
+    "published_at": "2026-10-05T13:57:32.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
+    "id": "f68f1f607a7b",
+    "slug": "kingdom-hearts-collection-1-3-sets-a-new-series-record",
+    "headline": "Kingdom Hearts Collection 1-3 Sets A New Series Record",
+    "summary": "The Kingdom Hearts Collection 1-3 has achieved a high review score, surpassing individual titles in the series",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/kingdom-hearts-collection-1-3-best-reviews-scores-series-history/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/d_sw2.jpg",
+    "published_at": "2026-10-05T13:49:52.000Z",
+    "hype_signal": 90,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "kingdom-hearts-collection-1-3",
+    "game_label": "Kingdom Hearts Collection 1-3"
+  },
+  {
+    "id": "d323951412a0",
+    "slug": "gta-6-guide-to-prime-day-all-the-deals-you-need",
+    "headline": "GTA 6 guide to Prime Day: all the deals you need",
+    "summary": "Prime Day offers discounted gaming gear ahead of GTA 6's release, including items like controllers and headsets.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/hardware/handhelds/the-gta-6-guide-to-prime-day-every-discounted-tv-controller-headset-and-gadget-you-need-when-you-visit-leonida/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/gNi7b3NFJeXWUH4z4Q8Sah-1920-80.jpg",
+    "published_at": "2026-10-05T13:48:49.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-vi",
+    "game_label": "Grand Theft Auto VI"
+  },
+  {
+    "id": "0d934c1a970a",
+    "slug": "sony-unveils-ai-upscaling-for-ps5",
+    "headline": "Sony Unveils AI Upscaling for PS5",
+    "summary": "Sony has introduced AI upscaling technology for the base PS5, called Quick Spectral Super Resolution (QSSR), with Marvel's Wolverine and Ghost of Yōtei being the first games to utilize this new tech.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/sony-introduces-ai-upscaling-to-base-ps5-marvels-wolverine-and-ghost-of-yotei-are-first-games-to-implement-new-tech"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/ghost-of-yotei-qssr.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-05T13:35:22.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "d6eb48878b3b",
     "slug": "my-hero-academia-7-strongest-hero-shields-ranked",
     "headline": "My Hero Academia: 7 Strongest Hero Shields, Ranked",
@@ -19,6 +189,29 @@
     "comment_count": 0,
     "game": "my-hero-academia",
     "game_label": "My Hero Academia"
+  },
+  {
+    "id": "0a8938b9ab8c",
+    "slug": "xbox-charts-reveal-surprising-success-for-new-releases",
+    "headline": "Xbox Charts Reveal Surprising Success for New Releases",
+    "summary": "Multiple new games are performing well on Xbox, including Halloween-themed titles, suggesting potential hits.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/lots-of-new-games-are-charting-surprisingly-high-in-the-xbox-charts-to-begin-october"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/14a26200f0699/large.jpg",
+    "published_at": "2026-10-05T13:30:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "1f07620116fb",
@@ -115,6 +308,30 @@
     "image_url": "https://picsum.photos/seed/b58738c62493/800/600",
     "published_at": "2026-10-05T13:20:46.000Z",
     "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c6822c17b247",
+    "slug": "gacriva-technologies-creates-new-rendering-tech-for-breakthrough-visua",
+    "headline": "Gacriva Technologies Creates New Rendering Tech for Breakthrough Visual Fidelity",
+    "summary": "A new rendering tech called 'hopfion' is being developed to improve visual fidelity in graphics processing units (GPUs), potentially leading to more efficient and powerful graphics.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/gacriva-technologies-creates-new-hopfion-rendering-tech-for-breakthrough-visual-fidelity-exclusive/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/c6822c17b247/800/600",
+    "published_at": "2026-10-05T13:15:00.000Z",
+    "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -319,6 +536,27 @@
     ],
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/appofeniacs-1.jpg",
     "published_at": "2026-10-05T13:00:17.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "51c5eda64e95",
+    "slug": "firy-sells-back-exit-games-stake-for-55m",
+    "headline": "Firy Sells Back Exit Games Stake for $55M",
+    "summary": "Firy, owner of Skillz, has sold its entire stake in Exit Games to the division for $55M.",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/firy-formerly-known-as-skillz-has-sold-its-exit-games-stake-back-to-the-division-for-55m/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/51c5eda64e95/800/600",
+    "published_at": "2026-10-05T13:00:00.000Z",
     "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
@@ -1014,6 +1252,54 @@
     "comment_count": 0,
     "game": "runescape",
     "game_label": "RuneScape"
+  },
+  {
+    "id": "901817f629e4",
+    "slug": "kingdom-come-deliverance-2-lead-speaks-out-against-repetitive-rpgs",
+    "headline": "Kingdom Come: Deliverance 2 Lead Speaks Out Against Repetitive RPGs",
+    "summary": "Kingdom Come: Deliverance 2 lead criticizes the RPG genre for being too repetitive and shallow, while also questioning the appeal of 'games for teenagers'",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/rpg/kingdom-come-deliverance-2-lead-is-bored-and-tired-of-repetitive-rpgs-like-assassins-creed-and-games-for-teenagers/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/zpiTGxGd87KNbjfic4XXZL-1920-80.jpg",
+    "published_at": "2026-10-05T11:07:05.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "kingdom-come-deliverance-2",
+    "game_label": "Kingdom Come: Deliverance 2"
+  },
+  {
+    "id": "4b418d004abb",
+    "slug": "hal-jordan-return-in-lanterns-co-creator-reveals-they-always-planned-i",
+    "headline": "Hal Jordan Return in Lanterns Co-creator Reveals They Always Planned It",
+    "summary": "A key figure behind the Lanterns game series reveals that Hal Jordan's return from the dead was a deliberate design choice from the start.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/dc-tv-shows/lanterns-co-creator-says-the-most-schmucky-bait-thing-they-could-have-done-was-bring-hal-jordan-back-from-the-dead/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/vFB3pAe3dvc5iEYUdXAQwa-1920-80.jpg",
+    "published_at": "2026-10-05T11:06:07.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "lanterns",
+    "game_label": "Lanterns"
   },
   {
     "id": "3ec49d524734",
@@ -4372,268 +4658,6 @@
     ],
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/link-on-epona-from-the-zelda-ocarina-of-time-remake-on-switch-2-in-front-of-zelda-collage.jpg",
     "published_at": "2026-10-03T21:00:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "843b206120ae",
-    "slug": "dragons-dogma-2-dark-arisen-is-days-away-from-fixing-the-open-world-rp",
-    "headline": "Dragon's Dogma 2: Dark Arisen Is Days Away From Fixing the Open-World RPG's Biggest Self-Inflicted Problem",
-    "summary": "Dragon's Dogma 2: Dark Arisen makes sweeping changes to many of the game's problems that could have been avoided from the start.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/dragons-dogma-2-dark-arisen-improvements-open-world-exploration-enemy-variety/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/dragons-dogma-2-dark-arisen-game-rant-feature-1.jpg",
-    "published_at": "2026-10-03T20:30:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ee7c77f4aa73",
-    "slug": "thrustmaster-reveals-new-750-ps5-racing-wheel-for-gran-turismo-7",
-    "headline": "Thrustmaster Reveals New $750 PS5 Racing Wheel for Gran Turismo 7",
-    "summary": "For the racing elite.\nGran Turismo 7 quietly goes from strength-to-strength, and the best console sim racer on the planet deserves an exceptional hardware rig.\nHow about this $750 solution from Thrustmaster, then, which is scheduled to launch this Christmas?\nRead the full article on pushsquare.com",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/thrustmaster-reveals-new-usd750-ps5-racing-wheel-for-gran-turismo-7"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/1734d4b1ae81f/large.jpg",
-    "published_at": "2026-10-03T20:30:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b7a0d310ba15",
-    "slug": "ai-generated-banjo-tooie-port-sparks-outrage",
-    "headline": "AI-Generated Banjo-Tooie Port Sparks Outrage",
-    "summary": "A developer claims an AI-decompiled Banjo-Tooie port is a disservice to the original game and devalues the process of game porting.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/banjo-kazooie-pc-port-decomp-developer-says-ai-generated-pc-ports-are-a-race-to-the-bottom-and-disrespectful/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/b7a0d310ba15/800/600",
-    "published_at": "2026-10-03T20:14:58.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "banjo-tooie",
-    "game_label": "Banjo-Tooie"
-  },
-  {
-    "id": "81bce18e6b38",
-    "slug": "warner-bros-to-re-release-ken-russells-the-devils-in-4k-and-uncensored",
-    "headline": "Warner Bros. to Re-Release Ken Russell's The Devils in 4K and Uncensored",
-    "summary": "Warner Bros. plans to re-release Ken Russell's 1971 psychological horror drama in theaters this October in restored 4K and uncensored format",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/ken-russell-the-devils-movie-4k-restoration-nc-17-rating/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/the-devils.jpg",
-    "published_at": "2026-10-03T20:10:25.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a1f972476f73",
-    "slug": "runescape-4-officially-announced",
-    "headline": "RuneScape 4 Officially Announced",
-    "summary": "Developer Jagex announces the next iteration of its RuneScape MMO at RuneFest.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/runescape-mmo-4-runefest-announcement/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/runescape_4_upscaled_3840x2160.jpg",
-    "published_at": "2026-10-03T20:01:13.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e7fa6a2b07a9",
-    "slug": "gta-6-could-lead-to-higher-aaa-game-prices-says-warhorse-studios-dev",
-    "headline": "GTA 6 Could Lead to Higher AAA Game Prices, Says Warhorse Studios Dev",
-    "summary": "Warhorse Studios developer believes GTA 6's release could increase pressure on other AAA game developers to raise prices due to rising development costs.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-increase-game-prices-warhorse-studios-co-founder/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/kingdom-come-deliverance-dev-hopes-gta-6-will-increase-video-game-prices.jpg",
-    "published_at": "2026-10-03T20:01:13.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "kingdom-come-deliverance",
-    "game_label": "Kingdom Come: Deliverance"
-  },
-  {
-    "id": "9ed0830be452",
-    "slug": "everything-we-saw-at-runefest-2026-including-runescape-4-and-runescape",
-    "headline": "Everything We Saw at RuneFest 2026, Including RuneScape 4 and RuneScape Reignited",
-    "summary": "RuneFest 2026 is over, and we’ve got a roundup of everything announced at Jagex’s big show celebrating its long-running fantasy MMORPG.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/runefest-2026-runescape-4-runescape-reignited-old-school-runescape-jagex"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/03/rs3-adventure-guide-artwork-nologo-1791052091628.png",
-    "published_at": "2026-10-03T20:00:41.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "34f2e63757b5",
-    "slug": "fourth-runescape-mmo-built-with-unreal-engine-in-the-works-jagex-annou",
-    "headline": "Fourth RuneScape MMO Built With Unreal Engine in the Works, Jagex Announces RuneScape Animation With MoistCr1TiKaL",
-    "summary": "Developer Jagex has announced a fourth MMO in the long-running RuneScape franchise, as well as an animated adaptation.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/runescape-4-mmo-jagex-animation-series-moistcr1tikal"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/03/rs4-conceptteaser-image-1791050417647.jpg",
-    "published_at": "2026-10-03T20:00:22.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3d4047e0a886",
-    "slug": "metroid-meets-dead-cells-in-octobers-coolest-new-action-game",
-    "headline": "Metroid Meets Dead Cells In October's Coolest New Action Game",
-    "summary": "October's most exciting new action game brings modern sensibilities to a beloved franchise that hasn't seen a proper entry in far too long.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/castlevania-belmonts-curse-release-date-metroidvania/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/screenshot-2026-06-07-at-2-07-19-pm.png",
-    "published_at": "2026-10-03T20:00:17.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e1a70c9e6f9f",
-    "slug": "runescape-4-officially-revealed-by-jagex",
-    "headline": "RuneScape 4 Officially Revealed by Jagex",
-    "summary": "Unveiled at RuneFest, RuneScape 4 is another MMO being developed in Unreal Engine, and it's in the works at Jagex.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/runescape-4-announcement-runefest-reveal-jagex/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/runescape-4.jpg",
-    "published_at": "2026-10-03T20:00:17.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "41e129adca4d",
-    "slug": "gears-of-war-e-day-devs-proud-to-be-one-of-xboxs-main-titles-amid-newf",
-    "headline": "Gears of War: E-Day Devs 'Proud to Be One of Xbox's Main Titles' Amid Newfound Focus on Exclusivity",
-    "summary": "The Gears of War: E-Day developers at The Coalition say they are \"proud to be one of Xbox's main titles\" as Microsoft refocuses on exclusivity.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gears-of-war-e-day-devs-proud-to-be-one-of-xboxs-main-titles-amid-newfound-focus-on-exclusivity"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/01/btfiuoeldu6mkzuez7e008xhvd1icgg-jcb-u5aiuoy-1790813782471.jpeg",
-    "published_at": "2026-10-03T19:45:42.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ef96a7a0d73e",
-    "slug": "the-7-best-games-like-hollow-knight-silksong-to-speed-up-the-wait-for",
-    "headline": "The 7 Best Games Like Hollow Knight: Silksong to Speed Up the Wait for Sea of Sorrows",
-    "summary": "From brutal boss fights to precise platforming challenges, here are 7 games like SiIlksong to play while you wait for new DLC.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/best-games-like-silksong-sea-sorrows-wait/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/hollow-knight-silksong-sea-sorrow.png",
-    "published_at": "2026-10-03T19:37:08.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
