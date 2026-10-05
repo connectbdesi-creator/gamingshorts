@@ -18855,5 +18855,61 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-05T05:06:13.132Z"
+  },
+  {
+    "slug": "gears-e-day",
+    "name": "Gears of War: E-Day",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/c85/c85991ad8164824715377e603a2d7693.jpg",
+    "released": "2026-10-06",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/2dd/2ddacaf4a439076f390beaca74707bcb.jpg",
+      "https://media.rawg.io/media/screenshots/9a2/9a2488797ed1b9722e2aa9c16d76f310.jpg",
+      "https://media.rawg.io/media/screenshots/cb8/cb88356feb27fba1102659e7a09c222a.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-05T09:06:25.835Z"
+  },
+  {
+    "slug": "blood-bowl",
+    "name": "Blood Bowl",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/fc3/fc32414dbb677084fb6951bec01df1ec.jpg",
+    "released": "2009-06-25",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "Board Games",
+      "Sports"
+    ],
+    "platforms": [
+      "PC",
+      "iOS",
+      "Android",
+      "Nintendo DS",
+      "Xbox 360",
+      "PSP"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/12f/12f239a0a874d805fba7d0011674badf.jpg",
+      "https://media.rawg.io/media/screenshots/975/975a857fad39422ab73070d353d39faf.jpg",
+      "https://media.rawg.io/media/screenshots/4a5/4a5aad93e74cd9c24338490658caed68.jpg",
+      "https://media.rawg.io/media/screenshots/2a8/2a887e71c6d12e08f4e47abf8e14eba3.jpg",
+      "https://media.rawg.io/media/screenshots/214/214dd5fa8059a125c754d87499391c89.jpg",
+      "https://media.rawg.io/media/screenshots/b11/b1109dec8bb51155b9abeae31ec183cc.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-05T09:06:26.371Z"
   }
 ]
