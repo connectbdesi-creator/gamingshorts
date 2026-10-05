@@ -1,5 +1,138 @@
 [
   {
+    "id": "6a630e6418ad",
+    "slug": "someone-at-marvel-thinks-were-all-stupid",
+    "headline": "Someone At Marvel Thinks We’re All Stupid",
+    "summary": "Avengers: Endgame’s re-release wants you to believe this was always the plan",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/avengers-endgame-encore-doomsday-post-credits-scenes-2000740008"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/10/image-61.jpg",
+    "published_at": "2026-10-05T17:30:49.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e4be63f65e05",
+    "slug": "new-pokemon-winds-and-waves-leak-teases-legendary-monster-twist",
+    "headline": "New Pokémon Winds and Waves Leak Teases Legendary Monster Twist",
+    "summary": "Rumors suggest Pokémon Winds and Waves on Nintendo Switch 2 could allow players to raise legendary monsters in a new way, according to leaked information.",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/pokemon-winds-wave-intro-leak-legendary/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/chuchu.JPG",
+    "published_at": "2026-10-05T17:16:42.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pokemon-winds-and-waves",
+    "game_label": "Pokémon Winds and Waves"
+  },
+  {
+    "id": "9f08bcac13ba",
+    "slug": "everything-you-need-to-know-about-dmz-mode-in-call-of-duty-modern-warf",
+    "headline": "Everything you need to know about DMZ mode in  Call of Duty: Modern Warfare 4",
+    "summary": "DMZ is Call of Duty’s definitive extraction shooter experience, launching alongside Campaign and Multiplayer when Call of Duty: Modern Warfare 4 releases on October 23. To help prepare you for this extraction game mode, here are the major highlights, starting with a tour of the Forward Operating Base and its many stations. Forward Operating Base […]",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/10/05/everything-you-need-to-know-about-dmz-mode-in-call-of-duty-modern-warfare-4/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/9f08bcac13ba/800/600",
+    "published_at": "2026-10-05T17:15:00.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "122357fd9f9f",
+    "slug": "xbox-wire-dmz-deep-dive-part-1-tour-of-duty",
+    "headline": "Xbox Wire: DMZ Deep Dive, Part 1: Tour of Duty",
+    "summary": "Xbox Wire dives into the DMZ, focusing on Hajin Environments and Threats, providing a detailed guide for players.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/10/05/dmz-deep-dive-part-1-tour-of-duty-hajin-environments-and-threats-full-intel-guide/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/122357fd9f9f/800/600",
+    "published_at": "2026-10-05T17:15:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fortnite",
+    "game_label": "Fortnite"
+  },
+  {
+    "id": "0ebf7a6ca5dc",
+    "slug": "free-to-play-playtime-is-broadly-flat-as-gacha-rpgs-drive-pc-growth-sa",
+    "headline": "Free-to-play playtime is broadly flat as gacha RPGs drive PC growth, says Newzoo",
+    "summary": "\"F2P is not dying,\" according to a Newzoo special focus report that challenges assumptions that free-to-play is in decline.\n Read more",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/free-to-play-playtime-is-broadly-flat-as-gacha-rpgs-drive-pc-growth-says-newzoo"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/china-games.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-05T17:15:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2346c407f27a",
+    "slug": "cd-projekt-promises-the-witcher-3-remaster-fixes-as-some-players-strug",
+    "headline": "CD Projekt Promises 'The Witcher 3' Remaster Fixes as Some Players Struggle",
+    "summary": "CD Projekt promises to address 'The Witcher 3: The Wild Hunt - Remastered' performance issues in an upcoming patch.",
+    "category": "patches",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/the-witcher-3-remaster-performance-fixes/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/the-witcher-3-songs-of-the-past-key-art-cropped.png",
+    "published_at": "2026-10-05T17:07:07.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "b040587960be",
     "slug": "the-elder-scrolls-shadows-of-oblivion-officially-confirmed-for-novembe",
     "headline": "The Elder Scrolls: Shadows of Oblivion Officially Confirmed For November 2026",
@@ -23,6 +156,27 @@
     "comment_count": 0,
     "game": "the-elder-scrolls-shadows-of-oblivion",
     "game_label": "The Elder Scrolls: Shadows of Oblivion"
+  },
+  {
+    "id": "79714ad7167a",
+    "slug": "feature-gears-of-war-e-day-multiplayer-playing-horde-siege-and-versus",
+    "headline": "Feature: Gears Of War: E-Day (Multiplayer) - Playing Horde Siege And Versus Makes Me Feel Like A Kid Again",
+    "summary": "It's the most fun I've had with the series since Gears of War 2. Last week, Gears of War: E-Day launched into Premium Advanced Access, giving me the chance to get hands-on with the final builds of Versus and Horde Siege modes. Up until that point, my review access was strictly limited to E-Day's phenomenal campaign. If you haven't already…",
+    "category": "reviews",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/features/gears-of-war-e-day-multiplayer-playing-horde-siege-and-versus-makes-me-feel-like-a-kid-again"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/1c04067b7defa/large.jpg",
+    "published_at": "2026-10-05T17:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "ef26e9164a47",
@@ -122,6 +276,48 @@
     "game_label": null
   },
   {
+    "id": "a228436155c1",
+    "slug": "hideo-kojima-wants-to-keep-od-a-mystery-even-by-his-standards",
+    "headline": "Hideo Kojima Wants To Keep OD A Mystery, Even By His Standards",
+    "summary": "Games developed by Hideo Kojima typically have an air of mystery, but for his upcoming horror project OD, the veteran game director wants to both terrify and mystify his fans. On a new episode of his weekly radio show Koji10, Kojima briefly spoke about the game, avoiding the release of teasers, and ensuring that players get a proper shock when…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/hideo-kojima-wants-to-keep-od-a-mystery-even-by-his-standards/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4545842-od-3.jpg?w=300",
+    "published_at": "2026-10-05T16:48:12.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "dc306b87f057",
+    "slug": "legendary-japanese-solid-snake-actor-wants-new-metal-gear-game-but-won",
+    "headline": "Legendary Japanese Solid Snake Actor Wants 'New Metal Gear Game', But 'Won't Do One Without Kojima'",
+    "summary": "Solid Snake's legendary Japanese actor is keen to return for a new game, though feels conflicted about any fresh entry without the involvement of creator Hideo Kojima.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/legendary-japanese-solid-snake-actor-wants-new-metal-gear-game-but-wont-do-one-without-kojima"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2025/08/29/snake-1756488499862.jpg",
+    "published_at": "2026-10-05T16:43:32.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "ae33eae49b4f",
     "slug": "developer-gets-a-little-too-silly-recommends-deadly-psychoactive-ingre",
     "headline": " Developer gets a little too silly, recommends deadly psychoactive ingredient in its bad boy-themed cocktail ",
@@ -166,6 +362,38 @@
     "comment_count": 0,
     "game": "noematica",
     "game_label": "Noematica"
+  },
+  {
+    "id": "dc469c0e3be2",
+    "slug": "god-packs-officially-coming-to-mtg",
+    "headline": "God Packs Officially Coming To MTG",
+    "summary": "Magic: The Gathering is introducing God packs in 2027, bringing significant changes to booster packs, including new structures.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/magic-the-gathering-booster-changes-revealed/"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/god-packs-are-officially-coming-to-magic-the-gathering"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/an-image-of-the-artwork-from-esika-of-the-god-tree-from-mtg.jpg",
+    "published_at": "2026-10-05T16:35:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "6ba16bacb5b2",
@@ -350,28 +578,21 @@
     "game_label": "Dungeons & Dragons: World of Warcraft"
   },
   {
-    "id": "dc469c0e3be2",
-    "slug": "god-packs-officially-coming-to-mtg",
-    "headline": "God Packs Officially Coming To MTG",
-    "summary": "Magic: The Gathering is introducing God packs in 2027, bringing significant changes to booster packs, including new structures.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
+    "id": "80c86e146b4e",
+    "slug": "classic-board-games-are-dropping-to-all-time-low-prices-ahead-of-amazo",
+    "headline": "Classic Board Games Are Dropping to All-Time Low Prices Ahead of Amazon's Prime Day Sale ",
+    "summary": "Classic Board Games Are Dropping to All-Time Low Prices Ahead of Amazon's Prime Day Sale",
+    "category": "deals",
+    "platform_tags": [],
     "sources": [
       {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/magic-the-gathering-booster-changes-revealed/"
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/best-board-game-deals-amazon-october-prime-day-2026"
       }
     ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/an-image-of-the-artwork-from-esika-of-the-god-tree-from-mtg.jpg",
-    "published_at": "2026-10-05T16:21:25.000Z",
-    "hype_signal": null,
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/05/primeboardgames-1791216360353.jpg",
+    "published_at": "2026-10-05T16:23:36.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -2943,6 +3164,27 @@
     "game_label": "Kingdom Hearts Collection"
   },
   {
+    "id": "ab73f9a0691a",
+    "slug": "capcom-now-has-a-dedicated-team-for-bringing-latest-re-engine-technolo",
+    "headline": "Capcom now has a dedicated team for bringing latest RE ENGINE technologies to character creation across all of its games",
+    "summary": "During the CAPCOM Open Conference RE:2026, Hiroyuki Chi revealed details about the company's recently established cross-functional team.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/capcom-now-has-a-dedicated-team-for-bringing-latest-re-engine-technologies-to-character-creation-across-all-of-its-games/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/ab73f9a0691a/800/600",
+    "published_at": "2026-10-05T11:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "d17758e8492c",
     "slug": "mini-review-kingdom-hearts-collection-iiii-ps5-great-value-for-newcome",
     "headline": "Mini Review: Kingdom Hearts Collection I~III (PS5) - Great Value for Newcomers in This (Almost) Complete Package",
@@ -4431,247 +4673,6 @@
     ],
     "image_url": "https://cdn.mos.cms.futurecdn.net/oMv5yCmNVGS5ZZr9VckBCS-1920-80.jpg",
     "published_at": "2026-10-04T18:19:05.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "12a94cbc5d65",
-    "slug": "forget-star-wars-movies-the-franchises-future-belongs-to-video-games",
-    "headline": "Forget Star Wars Movies, the Franchise’s Future Belongs to Video Games",
-    "summary": "Zero Company, Galactic Racer, KOTOR, and upcoming new games make SW look more like D&D than the MCU",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/star-wars-video-games-coming-for-movies-lunch/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/star-wars-zero-company.jpg",
-    "published_at": "2026-10-04T18:00:15.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d47e07b4b393",
-    "slug": "shift-up-and-platinumgames-hint-at-bigger-bayonetta-plans",
-    "headline": "Shift Up And PlatinumGames Hint At Bigger Bayonetta Plans",
-    "summary": "Stellar Blade's Bayonetta collaboration is just the start of a much larger partnership.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/bayonetta-devs-tease-future-collaboration-stellar-blade-team/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2023/09/bayonetta.jpg",
-    "published_at": "2026-10-04T17:55:16.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "06fef5b49330",
-    "slug": "kingdom-hearts-collection-tops-the-switch-2-us-charts",
-    "headline": "Kingdom Hearts Collection Tops The Switch 2 US Charts",
-    "summary": "It looks like Square Enix has another big Switch 2 success story with the Kingdom Hearts Collection.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/kingdom-hearts-collection-switch-2-us-charts-topped/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/kingdomhearts2sorasmiling.jpg",
-    "published_at": "2026-10-04T17:08:26.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e48c8a771dba",
-    "slug": "dynasty-warriors-producer-would-rather-make-new-games-than-more-remast",
-    "headline": "Dynasty Warriors producer would rather make new games than more remasters",
-    "summary": "Dynasty Warriors producer Tomohiko Sho says he'd rather spend what's left of his career making new games than more remasters of his old ones.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/dynasty-warriors-tomohiko-sho-sequels-not-remasters"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/ss_7aa2b9e95e7fd430a64edcbd66cbb66617b6b4f3.1920x1080.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-04T17:07:59.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "adb0125a6933",
-    "slug": "brand-new-sega-dreamcast-game-officially-announced",
-    "headline": "Brand-New Sega Dreamcast Game Officially Announced",
-    "summary": "The Sega Dreamcast is set to receive a brand-new game that is neither a re-release nor a remake; it is a completely new IP built for the console.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/sega-dreamcast-new-game-white-creek-2026/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/new-sega-dreamcast-game-white-creek-officially-announced-gamerant.jpg",
-    "published_at": "2026-10-04T17:01:17.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5b4dc3e573bf",
-    "slug": "review-minecraft-dungeons-ii-switch-2-a-fun-but-flawed-dungeon-crawlin",
-    "headline": "Review: Minecraft Dungeons II (Switch 2) - A Fun But Flawed Dungeon-Crawling Sequel With Great Co-Op",
-    "summary": "Creepers, Skellies, oh my.\nA traditional adventure format seems an ill fit for something as freeform as Minecraft. The Markus 'Notch' Persson-created global phenomenon is an experience built on creativity with endless scope for experimentation, so constricting it within the boundaries of genre seems misguided. That said, the franchise has enough cultural pull that it drove audiences to brandish wi",
-    "category": "reviews",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/minecraft-dungeons-ii"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/68e51fe8d91fc/large.jpg",
-    "published_at": "2026-10-04T17:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d76a13d376fd",
-    "slug": "feature-five-things-im-absolutely-loving-about-star-wars-galactic-race",
-    "headline": "Feature: Five Things I'm Absolutely Loving About Star Wars: Galactic Racer On Xbox Series X",
-    "summary": "This is where the fun begins. One of the Xbox games that I've been most anticipating over the past few months is Star Wars: Galactic Racer - the first ever release from UK studio Fuse Games. All of the trailers and preview footage have made it look like a dream for fans of Star Wars Episode 1 Racer, and I'm…",
-    "category": "reviews",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/features/five-things-im-absolutely-loving-about-star-wars-galactic-racer-on-xbox-series-x"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/ebd2b63e39fcb/large.jpg",
-    "published_at": "2026-10-04T17:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "33ddbd04a8e2",
-    "slug": "modern-horror-games-that-feel-made-for-halloween",
-    "headline": "Modern Horror Games That Feel Made For Halloween",
-    "summary": "Get spooky with these Halloween-ready horror games, from tense psychological thrills, campy slasher fun, and old-school scares.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/modern-horror-games-perfect-made-for-halloween/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/modern-horror-games-that-feel-made-for-halloween.jpg",
-    "published_at": "2026-10-04T16:30:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cd0aeecb983c",
-    "slug": "forgotten-sega-genesis-game-is-coming-to-steam",
-    "headline": "Forgotten Sega Genesis Game Is Coming to Steam",
-    "summary": "A previously unreleased Sega Genesis game is being released on PC via Steam with new features.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/sega-genesis-game-vixen-357-steam-release/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/sega-genesis-vixen-357-release-steam-2026-gamerant.jpg",
-    "published_at": "2026-10-04T16:30:14.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "sega-genesis-game",
-    "game_label": "Sega Genesis game"
-  },
-  {
-    "id": "64ac3de99d75",
-    "slug": "ps5-pro-can-run-ps3-games-at-4k-and-60fps-with-linux-hack",
-    "headline": "PS5 Pro Can Run PS3 Games at 4K and 60fps with Linux Hack",
-    "summary": "A PS5 Pro Linux hack has enabled PS3 games to run on the console at 4K resolution and 60fps, thanks to community support.",
-    "category": "patches",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/ps5-pro-jailbroken-runs-ps3-games-better/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/ratchetandclankquestforbooty.jpg",
-    "published_at": "2026-10-04T16:25:54.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "ps3",
-    "game_label": "PS3"
-  },
-  {
-    "id": "af617666ab22",
-    "slug": "what-does-your-dream-videogame-concert-look-like",
-    "headline": " What does your dream videogame concert look like? ",
-    "summary": "You are the conductor.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/what-does-your-dream-videogame-concert-look-like/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/cZJSZ6CWfoc7Eqp8HwsQZ3-1920-80.jpg",
-    "published_at": "2026-10-04T16:21:59.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
