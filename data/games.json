@@ -19606,5 +19606,116 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-06T19:37:57.424Z"
+  },
+  {
+    "slug": "kingdom-hearts-1",
+    "name": "Kingdom Hearts",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/bc3/bc3c433821089108642a41a3057f92c5.jpg",
+    "released": "2002-03-28",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PlayStation 2"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/442/442ac739955483e8e9bc78ad011c77fb.jpg",
+      "https://media.rawg.io/media/screenshots/c9e/c9eb9630b4d9eb4fc2f87a37c77c0324.jpg",
+      "https://media.rawg.io/media/screenshots/527/527baf3fc4db7d654b2dff60f22f0099.jpg",
+      "https://media.rawg.io/media/screenshots/f0f/f0fb1b82cdf92aed080437bf181c7ab9.jpg",
+      "https://media.rawg.io/media/screenshots/f4c/f4ccef487bc891b23841e5bb4b5783aa.jpg",
+      "https://media.rawg.io/media/screenshots/e78/e783e780581b873e88bc3b12cb00f1d0.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-06T21:38:21.571Z"
+  },
+  {
+    "slug": "sheeps",
+    "name": "SHEEPS (itch)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/c7b/c7bdc012572798d16ec36c8592853f4a.jpg",
+    "released": "2020-05-16",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Web"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/1a9/1a9c140005300edcb6eb2d8d861fe3cd.jpg",
+      "https://media.rawg.io/media/screenshots/458/45889adbbf8dd1ced462643198a61817.jpg",
+      "https://media.rawg.io/media/screenshots/730/730cb0bce56d8f4b1d0980bb07baeb38.jpg",
+      "https://media.rawg.io/media/screenshots/c7b/c7bdc012572798d16ec36c8592853f4a.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-06T21:38:22.084Z"
+  },
+  {
+    "slug": "sonic-adventure",
+    "name": "Sonic Adventure",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/566/566b771293b3e8aee0c071a02e81d925.jpg",
+    "released": "1998-12-23",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "RPG",
+      "Family",
+      "Platformer"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Xbox 360",
+      "PlayStation 3",
+      "Dreamcast"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c5d/c5d38a7e68581512659afe307353892c.jpg",
+      "https://media.rawg.io/media/screenshots/343/3437d1fdf1e76421730d28393b144677_wGLGW6X.jpg",
+      "https://media.rawg.io/media/screenshots/13b/13b1f26058e7ed98b5e2417accf2dc35.jpg",
+      "https://media.rawg.io/media/screenshots/501/501349c3108b19b36cc0b211939294ec_cpWTbWF.jpg",
+      "https://media.rawg.io/media/screenshots/468/468fc72eb1487b3ff889c0468fcc22ed.jpg",
+      "https://media.rawg.io/media/screenshots/b5e/b5ebd95c929eb81755c7734203d8212a.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-06T21:38:22.940Z"
+  },
+  {
+    "slug": "warship-game",
+    "name": "Warship Game for Kids",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/e80/e804b30ddbf996699cb5541fecd8fdb8_8uXu8Pp.jpg",
+    "released": "2012-08-02",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "Educational",
+      "Simulation"
+    ],
+    "platforms": [
+      "iOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/196/1966394eb9fcdca053c46c74b1450e2f_WmbTaod.jpg",
+      "https://media.rawg.io/media/screenshots/1f5/1f51a9fc2b08f6c5db458b35e99de40b_dI2iBHe.jpg",
+      "https://media.rawg.io/media/screenshots/eda/eda193ecb80d12cd703d0d4c8bb7e344_VhtExo1.jpg",
+      "https://media.rawg.io/media/screenshots/053/053c33f66d9f88a46dfb4b0255ba3743_Zs8tF0B.jpg",
+      "https://media.rawg.io/media/screenshots/2f8/2f8ce59def70e247fc4a2e59599d89b0.jpg",
+      "https://media.rawg.io/media/screenshots/335/3359adbe63d52278e7b22d7f5d7d95a0_DrrUr2L.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-06T21:38:24.139Z"
   }
 ]
