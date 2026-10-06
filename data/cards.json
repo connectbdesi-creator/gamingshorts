@@ -1,5 +1,73 @@
 [
   {
+    "id": "76254b0008dd",
+    "slug": "nintendo-announces-another-switch-2-hardware-bundle",
+    "headline": "Nintendo Announces Another Switch 2 Hardware Bundle",
+    "summary": "Nintendo Japan is introducing a new 'Choose-Your-Game' bundle for the Switch 2, with a goal of boosting worldwide sales. The bundle offers various in-game content and a bundle discount.",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/nintendo-announces-another-switch-2-hardware-bundle"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/123ed790631a7/large.jpg",
+    "published_at": "2026-10-06T04:55:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f1fe06445dd6",
+    "slug": "momodora-creator-announces-new-project-record-of-dorathia-a-turn-based",
+    "headline": "Momodora creator announces new project Record of Dorathia, a turn-based dungeon crawler RPG inspired by gamebooks",
+    "summary": "Tthe game focuses on the magi, twelve weavers of fate who were briefly mentioned in Momodora: Moonlit Farewell.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/momodora-creator-announces-new-project-record-of-dorathia-a-turn-based-dungeon-crawler-rpg-inspired-by-gamebooks/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/f1fe06445dd6/800/600",
+    "published_at": "2026-10-06T04:38:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3bbecfb6352a",
+    "slug": "angelian-trigger-coming-to-pc-on-december-10-ps5-in-2027",
+    "headline": "Angelian Trigger Coming to PC on December 10, PS5 in 2027",
+    "summary": "PiXEL's pseudo 3D-style shoot 'em up game Angelian Trigger is set to release on PC via Steam on December 10, with a PlayStation 5 release scheduled for 2027.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/angelian-trigger-coming-to-pc-on-december-10-ps5-in-2027"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/3bbecfb6352a/800/600",
+    "published_at": "2026-10-06T03:41:13.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "angelian-trigger",
+    "game_label": "Angelian Trigger"
+  },
+  {
     "id": "09902c7e57ac",
     "slug": "bleak-survival-city-builder-frostpunk-is-finally-coming-to-the-switch",
     "headline": "Bleak Survival City-Builder 'Frostpunk' Is Finally Coming To The Switch",
@@ -4604,78 +4672,6 @@
     "image_url": "https://assetsio.gnwcdn.com/car-park-capital_Gmq5Uqg.jpg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-10-05T10:56:57.000Z",
     "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ead5c3ee8a8a",
-    "slug": "free-game-offer-on-steam",
-    "headline": "Free Game Offer on Steam",
-    "summary": "Steam users can claim a free game with 4-player multiplayer on October 14 due to a promotional offer.",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/free-steam-games-this-month-october-14/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/steam_free_game_3840x2160.jpg",
-    "published_at": "2026-10-05T10:54:49.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "28400061518e",
-    "slug": "final-fantasy-resonance-offers-a-delicious-blend-of-old-school-and-new",
-    "headline": "Final Fantasy Resonance Offers a Delicious Blend of Old-School and New",
-    "summary": "Square Enix's Final Fantasy Resonance combines the best elements of Final Fantasy 5 and 6 for a modern pixel-first RPG experience with updated turn-based combat.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/final-fantasy-resonance-combat-system-ff5-ff6"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/FF6-5-resonance.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-05T10:41:05.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "final-fantasy-resonance",
-    "game_label": "Final Fantasy Resonance"
-  },
-  {
-    "id": "3ddee357b5df",
-    "slug": "early-prime-day-mini-pc-deals-offer-up-to-50-off",
-    "headline": "Early Prime Day Mini PC Deals Offer Up to 50% Off",
-    "summary": "Prime Day is offering discounts on mini PCs, including gaming and business rigs, with some deals reducing prices by up to 50%.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/desktop-pc/its-not-even-prime-day-yet-and-im-already-finding-mini-pcs-for-gaming-or-work-that-are-over-50-percent-off/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/bRizKMoviXUZyMDaErHKfd-1920-80.jpg",
-    "published_at": "2026-10-05T10:15:45.000Z",
-    "hype_signal": 40,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
