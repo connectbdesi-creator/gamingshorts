@@ -1,5 +1,325 @@
 [
   {
+    "id": "4eef8a81ef37",
+    "slug": "new-fps-on-steam-looks-like-paper-mario-got-trapped-in-doom-and-its-ma",
+    "headline": "New FPS on Steam Looks Like Paper Mario Got Trapped in DOOM, and It's Made for Halloween",
+    "summary": "PAPERHEAD looks like Paper Mario trapped in DOOM, mixing cardboard visuals, brutal FPS combat, and plenty of gore just in time for Halloween.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/paperhead-steam-fps-like-paper-mario-doom-halloween/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/doom-paper-mario-halloween-paperhead-game-rant-1.jpg",
+    "published_at": "2026-10-06T13:30:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "aeaa6250267c",
+    "slug": "resident-evil-the-other-survivors-officially-announced",
+    "headline": "Resident Evil: The Other Survivors Officially Announced",
+    "summary": "Capcom has announced Resident Evil: The Other Survivors, a new game set in Raccoon City and Spencer Mansion, but details on gameplay and release date are scarce.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/resident-evil-other-survivors-announcement-re2-total-mod/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/resident-evil-2-zombie-3840x2160.jpg",
+    "published_at": "2026-10-06T13:30:13.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "resident-evil-the-other-survivors",
+    "game_label": "Resident Evil: The Other Survivors"
+  },
+  {
+    "id": "a465439fede9",
+    "slug": "ps5-jailbreaks-escalating",
+    "headline": "PS5 Jailbreaks Escalating",
+    "summary": "A major jailbreak has been discovered for the PS5, allowing users to bypass console restrictions and access more features, as hackers and Sony engage in an escalating cat-and-mouse game.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/3d9221cfad228/large.jpg",
+    "published_at": "2026-10-06T13:30:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0b16bc093c6b",
+    "slug": "end-of-abyss-suit-mod-locations",
+    "headline": "End of Abyss Suit Mod Locations",
+    "summary": "A guide for End of Abyss players reveals the locations of every Vault, Vault Key, and suit mod, helping players earn the Dungeon Crawler achievement.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/end-of-abyss-vault-locations-suit-mods/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/end-of-abyss-vault.jpg",
+    "published_at": "2026-10-06T13:29:43.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "end-of-abyss",
+    "game_label": "End of Abyss"
+  },
+  {
+    "id": "1cc10a72c8a4",
+    "slug": "segas-7000-sonic-the-hedgehog-pottery-is-a-rare-commemoration-item",
+    "headline": "Sega's $7,000 Sonic the Hedgehog Pottery is a Rare Commemoration Item",
+    "summary": "To celebrate Sonic's 35th anniversary, Sega has released a limited edition, hand-painted porcelain sculpture of its iconic mascot, valued at $7,000, with only 50 units available.",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/sega-announces-7000-sonic-the-hedgehog-pottery-and-i-cant-stop-watching-how-its-made/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Sonic-Forever-Blue-6.jpg?w=300",
+    "published_at": "2026-10-06T13:24:32.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "sonic-the-hedgehog",
+    "game_label": "Sonic the Hedgehog"
+  },
+  {
+    "id": "8bb6f231cb85",
+    "slug": "xbox-elite-series-3-controller-leaked-with-advanced-features",
+    "headline": "Xbox Elite Series 3 Controller Leaked with Advanced Features",
+    "summary": "Xbox Elite Series 3 controller details leak, showcasing improved analogue sticks, haptics, and customization options.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/digitalfoundry-2019-microsoft-elite-2-controller-review-1577954148286.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-06T13:21:52.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "xbox-elite-series-3",
+    "game_label": "Xbox Elite Series 3"
+  },
+  {
+    "id": "175dcf07cb3c",
+    "slug": "city-never-sleeps-deadlock-redefines-genre",
+    "headline": "City Never Sleeps: Deadlock Redefines Genre",
+    "summary": "Deadlock, a tactical action game, has transformed into a horror game with City Never Sleeps, blurring genre lines and offering a unique experience.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/moba/deadlock-isnt-a-moba-or-a-third-person-shooter-anymore-city-never-sleeps-has-turned-it-into-a-horror-game/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/7bX5rswNiA7sFqcB8MvYV8-1920-80.jpg",
+    "published_at": "2026-10-06T13:19:22.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "deadlock",
+    "game_label": "Deadlock"
+  },
+  {
+    "id": "f06208336417",
+    "slug": "steam-frame-gets-vr-right-where-so-many-others-went-wrong",
+    "headline": "Steam Frame Gets VR Right Where So Many Others Went Wrong",
+    "summary": "The virtual reality market has grown over the years, and depending on your budget, there's probably a VR headset out there for you. But can your VR gaming budget stretch to over $1,000 for the entry-level Steam Frame headset, and is it even worthwhile? That's the question GameSpot's senior video producer Kurt Indovina set out to answer, and after spending…",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/steam-frame-gets-vr-right-where-so-many-others-went-wrong/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Steam-Frame-Kurt.jpg?w=300",
+    "published_at": "2026-10-06T13:18:01.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "57d9890325c6",
+    "slug": "final-fantasy-14s-most-unique-crossover-is-officially-returning",
+    "headline": "Final Fantasy 14's Most Unique Crossover Is Officially Returning",
+    "summary": "Square Enix is reviving the Fall Guys collaboration in Final Fantasy 14 for a limited time, bringing a unique party game experience to the MMO.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/final-fantasy-14-fall-guys-crossover-event-dates-rewards/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/emet-selch-final-fantasy-14.jpg",
+    "published_at": "2026-10-06T13:16:30.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-14",
+    "game_label": "Final Fantasy 14"
+  },
+  {
+    "id": "2d13a0fb3bc6",
+    "slug": "sega-appears-to-rule-out-using-genai-for-all-in-game-creativity",
+    "headline": "Sega Appears To Rule Out Using GenAI For All In-Game Creativity",
+    "summary": "The company also adds some interesting remarks on working with indie developers",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/sega-genai-ai-crazy-taxi-world-tour-assets-tsuyoshi-saito-interview-2000740914"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/10/crazy-taxi-1280x720.jpg",
+    "published_at": "2026-10-06T13:15:27.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "207a1da6a20b",
+    "slug": "grimkeep-launches-on-november-30",
+    "headline": "GrimKeep Launches on November 30",
+    "summary": "GrimKeep, a dark fantasy roguelite dice-builder, is set to launch on PlayStation 5 and PC on November 30.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/grimkeep-launches-november-30"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/207a1da6a20b/800/600",
+    "published_at": "2026-10-06T13:11:38.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grimkeep",
+    "game_label": "GrimKeep"
+  },
+  {
+    "id": "3d5293d85a81",
+    "slug": "best-amazon-prime-oled-gaming-monitor-deals",
+    "headline": "Best Amazon Prime OLED Gaming Monitor Deals",
+    "summary": "Several Amazon Prime OLED gaming monitors are currently on sale, starting at $280 for the 1440p all-round option.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/gaming-monitors/these-are-two-of-the-very-best-amazon-prime-oled-gaming-monitor-deals-starting-at-usd280/"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/best-xbox-deals-amazon-prime-day-sale-october-2026/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/dRFKKnZvB9wgt7kEA3J9G9-1920-80.jpg",
+    "published_at": "2026-10-06T13:10:35.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7c472dba1a0f",
+    "slug": "gta-6-interview-hints-at-theory-that-jason-is-neurodivergent",
+    "headline": "GTA 6 Interview Hints At Theory That Jason Is Neurodivergent",
+    "summary": "A recent interview for GTA 6 suggests that the character Jason could be autistic, sparking a popular theory among fans.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/grand-theft-auto-6-jason-autistic-fan-theory/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/07/jason_duval_02.jpg",
+    "published_at": "2026-10-06T13:05:28.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
     "id": "a582dc41933e",
     "slug": "nintendo-switch-sports-resort-coming-to-switch-2",
     "headline": "Nintendo Switch Sports Resort Coming to Switch 2",
@@ -50,6 +370,29 @@
     "game_label": "The Witcher 3: Wild Hunt"
   },
   {
+    "id": "1bc1a92db130",
+    "slug": "i-spent-an-hour-playing-switch-sports-resort-and-my-favourite-mini-gam",
+    "headline": "I spent an hour playing Switch Sports Resort and my favourite mini-game involves the Switch 2's least-loved gimmick: mouse controls",
+    "summary": "This feels like the kind of admission that's liable to make Miyamoto cross me off his Christmas card list, but my favourite game in Nintendo Switch Sports Resort was the one that required absolutely no energetic prancing at all. A desk yes, which might be a problem in some living rooms, but gleeful flailing, no. Skateboarding is, however, just one…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/nintendo-switch-sports-resort-gamescom-preview"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/switch-sports-resort-header_OaCFHWd.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-06T13:00:56.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "624f1520b9a1",
     "slug": "brand-new-unannounced-marvel-game-leaks-online",
     "headline": "Brand-New Unannounced Marvel Game Leaks Online",
@@ -88,6 +431,94 @@
     "image_url": "https://picsum.photos/seed/75fa1330f383/800/600",
     "published_at": "2026-10-06T13:00:06.000Z",
     "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7e73dcd77bed",
+    "slug": "preview-nintendo-switch-sports-resort-is-more-of-the-same-but-better",
+    "headline": "Preview: Nintendo Switch Sports Resort Is More Of The Same, But Better",
+    "summary": "Wuhu Island: Be there or be (Spocco) Square. Back what seems like a lifetime ago, I got a chance to have a pop at Nintendo Switch Sports Resort at gamescom '26. No, I don’t mean the stuff that just anyone with a ticket and the patience to wait in an enormous queue could play. No, I got a chance to…",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/previews/nintendo-switch-sports-resort-is-more-of-the-same-but-better"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/df1a92cd10d51/large.jpg",
+    "published_at": "2026-10-06T13:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5ad6d29ad913",
+    "slug": "nintendo-switch-sports-resort-appears-to-solve-all-of-switch-sports-sh",
+    "headline": "Nintendo Switch Sports Resort Appears To Solve All of Switch Sports’ Shortcomings",
+    "summary": "Nintendo Switch Sports Resort promises to improve upon the original Switch Sports with new sports and gameplay mechanics, generating excitement among developers and potentially a full 100% completion.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/nintendo-switch-sports-resort-appears-to-solve-all-of-switch-sports-shortcomings-ign-preview"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/06/ns2-nintendoswitchsportsresort-scrn-14-1791266095527.png",
+    "published_at": "2026-10-06T13:00:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "nintendo-switch-sports-resort",
+    "game_label": "Nintendo Switch Sports Resort"
+  },
+  {
+    "id": "22c512076f8c",
+    "slug": "exclusive-warhammer-40000-dark-heresy-will-let-you-be-a-crooked-cop-pi",
+    "headline": " Exclusive – Warhammer 40,000: Dark Heresy will let you be a crooked cop, pinning crimes on the innocent, or follow in good boy Gregor Eisenhorn's footsteps ",
+    "summary": "Investigating the RPG's detective systems.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rpg/exclusive-warhammer-40-000-dark-heresy-will-let-you-be-a-crooked-cop-pinning-crimes-on-the-innocent-or-follow-in-good-boy-gregor-eisenhorns-footsteps/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/FYB9Ly8qisz9vxPEZbTYqe-1920-80.png",
+    "published_at": "2026-10-06T13:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d17f18ed1475",
+    "slug": "brazil-wants-to-be-in-the-top-five-game-producers-in-the-world-in-less",
+    "headline": "Brazil wants to be in \"the top five game producers in the world in less than 10 years\"",
+    "summary": "Soft power – a nation exerting power through economic or cultural influence – is something we're all used to in terms of film and TV. Think of the influence that Hollywood has around the world, or the way that anime has spread the recognition of Japanese culture.\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/brazil-wants-to-be-in-the-top-five-game-producers-in-the-world-in-less-than-10-years"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/IMG_7480.JPG?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-06T13:00:00.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -572,34 +1003,6 @@
     "image_url": "https://cdn.mos.cms.futurecdn.net/MAmwjhEzKXZmt33oLSRpqd-1920-80.jpg",
     "published_at": "2026-10-06T11:20:38.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3d5293d85a81",
-    "slug": "best-amazon-prime-oled-gaming-monitor-deals",
-    "headline": "Best Amazon Prime OLED Gaming Monitor Deals",
-    "summary": "Several Amazon Prime OLED gaming monitors are currently on sale, starting at $280 for the 1440p all-round option.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/gaming-monitors/these-are-two-of-the-very-best-amazon-prime-oled-gaming-monitor-deals-starting-at-usd280/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/dRFKKnZvB9wgt7kEA3J9G9-1920-80.jpg",
-    "published_at": "2026-10-06T11:15:20.000Z",
-    "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4242,416 +4645,6 @@
     "image_url": "https://cdn.mos.cms.futurecdn.net/6pDUXH5TWYG8RhL8bTVUcd-1920-80.jpg",
     "published_at": "2026-10-05T14:40:45.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "bcdd3d6ca7b9",
-    "slug": "ninja-theory-to-lay-off-staff-after-failed-studio-deals",
-    "headline": "Ninja Theory to Lay Off Staff After Failed Studio Deals",
-    "summary": "Ninja Theory studio behind Hellblade: Senua's Sacrifice and DmC: Devil May Cry is letting go of employees after two potential deals to save the studio fell through.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/senua-studio-ninja-theory-layoffs-consultation-2000739951"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/06/senua-3.jpg",
-    "published_at": "2026-10-05T14:40:45.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "hellblade-senuas-sacrifice",
-    "game_label": "Hellblade: Senua's Sacrifice"
-  },
-  {
-    "id": "d8cc84a24be1",
-    "slug": "even-if-i-knew-how-it-would-end-i-would-do-it-again-hellblade-develope",
-    "headline": "\"Even if I knew how it would end, I would do it again\": Hellblade developers Ninja Theory appear to have kicked off the redundancy process",
-    "summary": "Following Microsoft's recent reveal that Hellblade makers Ninja Theory would be facing closure, with two deals to buy them after their split from Xbox have fallen through, the studio look to be in the process of informing staff they're at risk of being let go.\nRead more",
-    "category": "deals",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/even-if-i-knew-how-it-would-end-i-would-do-it-again-hellblade-developers-ninja-theory-appear-to-have-kicked-off-the-redundancy-process"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/senua-reveal-reprtedly-designed-to-attract-investors-in-studio-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-05T14:31:27.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5b286e25ca9a",
-    "slug": "new-nintendo-switch-2-console-officially-announced",
-    "headline": "New Nintendo Switch 2 Console Officially Announced",
-    "summary": "Nintendo has confirmed a new Switch 2 console, marking a significant upgrade to the existing Switch hardware.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/nintendo-switch-2-zelda-40th-anniversary-edition-october-29/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2025/07/nintendo-switch-2-logo-and-mario-side-by-side.jpg",
-    "published_at": "2026-10-05T14:30:13.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "nintendo-switch-2",
-    "game_label": "Nintendo Switch 2"
-  },
-  {
-    "id": "2985ba281cac",
-    "slug": "hellblade-dev-begins-shedding-staff-months-after-revealing-new-game",
-    "headline": "Hellblade Dev Begins Shedding Staff, Months After Revealing New Game",
-    "summary": "Developer of Hellblade: Senua's Sacrifice begins downsizing as it moves forward with an unrevealed new game",
-    "category": "industry",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/hellblade-dev-begins-shedding-staff-months-after-revealing-new-game-at-xbox-showcase"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/cbd8513ee1279/large.jpg",
-    "published_at": "2026-10-05T14:30:00.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "hellblade-senuas-sacrifice",
-    "game_label": "Hellblade: Senua's Sacrifice"
-  },
-  {
-    "id": "5b2d6684a244",
-    "slug": "senua-at-risk-of-cancellation-as-ninja-theory-employees-announce-theyv",
-    "headline": "Senua At Risk Of Cancellation As Ninja Theory Employees Announce They've Left The Studio",
-    "summary": "\"It’s incredibly sad knowing that we won’t get to finish...\". Back in late September, Xbox warned that Ninja Theory (known for the Hellblade games) could end up being closed down - Microsoft had been trying to sell the studio across two separate deals, but they both ultimately fell through. It was mentioned at the time that they would \"begin consultation…",
-    "category": "deals",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/10/senua-at-risk-of-cancellation-as-ninja-theory-employees-announce-theyve-left-the-studio"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/fac60ebda8a48/large.jpg",
-    "published_at": "2026-10-05T14:30:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f98b99de22b7",
-    "slug": "modder-turns-diablo-2-resurrected-into-a-vr-game-but-you-probably-cant",
-    "headline": "Modder Turns Diablo 2 Resurrected Into a VR Game, But You Probably Can't Play It",
-    "summary": "Diablo 2 is already a game you could lose thousands of hours to, but what if you could truly lose yourself in the world via VR? Well, a modder found a way to translate the isometric ARPG to a first-person VR game.",
-    "category": "releases",
-    "platform_tags": [
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/modder-turns-diablo-2-resurrected-into-a-vr-game"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/02/11/warlock-cinematic-shot-1770801200989.png",
-    "published_at": "2026-10-05T14:25:41.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4d4302c8706d",
-    "slug": "tomb-raider-legacy-of-atlantis-officially-removes-controversial-drm",
-    "headline": "Tomb Raider: Legacy Of Atlantis Officially Removes Controversial DRM",
-    "summary": "An update to the Tomb Raider: Legacy of Atlantis Steam page suggests that the PC release is dropping Denuvo DRM months before launch.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/tomb-raider-legacy-of-atlantis-denuvo-drm-removed-pc-release/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/07/stock-lara-croft-with-her-arms-extended-pointing-pistols-in-both-directions-in-tomb-raider-legacy-of-atlantis.jpg",
-    "published_at": "2026-10-05T14:25:20.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2c1fbea28e06",
-    "slug": "secret-marvel-game-leaks-online-with-first-trailer",
-    "headline": "Secret Marvel Game Leaks Online With First Trailer",
-    "summary": "A trailer for a new Marvel game, Project Comet, has been leaked online, sparking interest in the mysterious title.",
-    "category": "deals",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/marvel-project-comet-trailer-leak/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/black-widow-win-screen-16_9.jpg",
-    "published_at": "2026-10-05T14:24:41.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "project-comet",
-    "game_label": "Project Comet"
-  },
-  {
-    "id": "656e5d2149b4",
-    "slug": "zelda-and-banjo-recompiled-devs-go-to-war-with-ai-vibe-coded-slopcomps",
-    "headline": "Zelda and Banjo Recompiled Devs Go To War With AI Vibe-Coded 'Slopcomps'",
-    "summary": "Devs behind recompiled classic games Zelda and Banjo are criticizing AI-generated 'slopcomps' that use their game's vibes to create low-quality projects.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/zelda-and-banjo-recompiled-devs-go-to-war-with-ai-vibe-coded-slopcomps-2000739936"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/Banjo.jpg",
-    "published_at": "2026-10-05T14:22:27.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "18afc858d629",
-    "slug": "get-junior-walkthrough-and-choices-in-the-witcher-3",
-    "headline": "Get Junior Walkthrough and Choices in The Witcher 3",
-    "summary": "This guide aims to prepare players for the main quest in Get Junior, focusing on key events and player choices.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/witcher-3-get-junior-main-quest-walkthrough/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/get-junior-walkthrough-in-the-witcher-3-featured-image.jpg",
-    "published_at": "2026-10-05T14:20:44.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-witcher-3-wild-hunt",
-    "game_label": "The Witcher 3: Wild Hunt"
-  },
-  {
-    "id": "24f01a486303",
-    "slug": "how-to-redeem-anime-zero-codes-for-coins-dice-rolls-and-more",
-    "headline": "How to Redeem Anime Zero Codes for Coins, Dice Rolls, and More",
-    "summary": "GamesRadar+ reveals how to claim Anime Zero codes for in-game rewards, including new units and trait swaps.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "mobile",
-      "switch",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/rpg/anime-zero-codes/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Dvo36sHSnJAtoyVSY4NLgN-1920-80.jpg",
-    "published_at": "2026-10-05T14:19:38.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "anime-zero",
-    "game_label": "Anime Zero"
-  },
-  {
-    "id": "2fab02966fd2",
-    "slug": "we-approached-it-like-a-remix-lanterns-co-creators-on-the-heresy-of-ch",
-    "headline": "We approached it like a remix: Lanterns co-creators on the 'heresy' of changing the iconic Green Lantern oath",
-    "summary": "Green Lantern game co-creators discuss their decision to modify the iconic oath, sparking controversy among fans.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/entertainment/dc-tv-shows/we-approached-it-like-a-remix-lanterns-co-creators-on-the-heresy-of-changing-the-iconic-green-lantern-oath/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/adcMCTC4njKtZsc5wvbZua-1920-80.jpg",
-    "published_at": "2026-10-05T14:19:03.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "lanterns",
-    "game_label": "Lanterns"
-  },
-  {
-    "id": "96e5ddfc7c28",
-    "slug": "hellblade-developer-ninja-theory-closes-as-layoffs-begin",
-    "headline": "Hellblade Developer Ninja Theory Closes as Layoffs Begin",
-    "summary": "Xbox is closing Hellblade developer Ninja Theory, leading to layoffs and staff farewell messages.",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/ninja-theory-layoffs"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/06/07/senua-thumb-1780855667763.jpg",
-    "published_at": "2026-10-05T14:14:41.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "hellblade",
-    "game_label": "Hellblade"
-  },
-  {
-    "id": "545fc8916f2b",
-    "slug": "prime-day-lego-deals-live",
-    "headline": "Prime Day Lego Deals Live",
-    "summary": "GamesRadar+ is listing top Prime Day deals on Lego sets, offering discounts on popular models and new releases.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/news/live/prime-day-lego-deals-live-2026/"
-      },
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/news/live/prime-day-board-game-deals-live-2026/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/36MFHv2SX4FaQehXGWmkqf-1920-80.jpg",
-    "published_at": "2026-10-05T14:13:20.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ad8a5b37a746",
-    "slug": "nba-2k25-is-getting-delisted-soon-single-player-modes-also-closing-dow",
-    "headline": "NBA 2K25 Is Getting Delisted Soon, Single-Player Modes Also Closing Down",
-    "summary": "2K Sports has announced that NBA 2K25 will be discontinued soon, and that includes delisting the product and server shutdowns that will make even the game's single-player MyCareer and MyTeam components unplayable. In a post, 2K Sports said NBA 2K25 will be removed from sale on October 30, 2026 and then fully discontinued on December 31, 2026. People who own…",
-    "category": "deals",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/nba-2k25-is-getting-delisted-soon-single-player-modes-also-closing-down/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/NBA2K-Large.jpeg?w=300",
-    "published_at": "2026-10-05T14:11:07.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "03bf28f655ce",
-    "slug": "10-new-things-we-just-learned-about-gta-6",
-    "headline": "10 New Things We Just Learned About GTA 6",
-    "summary": "Game Informer reveals new details about Grand Theft Auto 6, including the potential starting character and storyline",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/10-new-things-we-just-learned-about-gta-6/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/GTA-6-Ambrosia.jpg?w=300",
-    "published_at": "2026-10-05T14:04:17.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "38eaeb0da270",
-    "slug": "players-choice-vote-for-septembers-best-new-game",
-    "headline": "Players’ Choice: Vote for September’s best new game",
-    "summary": "Last month was filled with an extensive release of games ranging from story-driven spectacles to mini-adventures! Some big new releases included Marvel’s Wolverine, Control Resonant, Dune: Awakening, and NBA 2K27. Which game was your favorite? How does it work? At the end of every month, PlayStation Blog will open a poll where you can vote […]",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "PlayStation Blog",
-        "url": "https://blog.playstation.com/2026/10/05/players-choice-vote-for-septembers-best-new-game-4/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/38eaeb0da270/800/600",
-    "published_at": "2026-10-05T14:00:16.000Z",
-    "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
