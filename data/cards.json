@@ -1,5 +1,80 @@
 [
   {
+    "id": "9fd6af8601d3",
+    "slug": "2k-game-permanently-shutting-down-on-january-1-2027",
+    "headline": "2K Game Permanently Shutting Down on January 1, 2027",
+    "summary": "2K Games officially announces the permanent shutdown of one of its games at the start of 2027.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/nba-2k25-shutdown-date-when-january-1-2027/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/white_2k_games_logo_3840x2160.jpg",
+    "published_at": "2026-10-06T12:31:13.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0dfe32c6f45f",
+    "slug": "xbox-elite-series-3-controller-details-have-reportedly-leaked-includin",
+    "headline": "Xbox Elite Series 3 controller details have reportedly leaked, including a choice of Hall effect or TMR sticks",
+    "summary": "Options have reportedly been spotted in the Xbox Design Labs backend",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/xbox-elite-series-3-controller-details-have-reportedly-leaked-including-a-choice-of-hall-effect-or-tmr-sticks/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/0dfe32c6f45f/800/600",
+    "published_at": "2026-10-06T12:27:03.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "560f1933f8d8",
+    "slug": "star-wars-galactic-racer-launched-on-amazon-luna",
+    "headline": "Star Wars: Galactic Racer Launched on Amazon Luna",
+    "summary": "A new Star Wars racing game has launched on Amazon Luna as part of a Prime subscription, making it available to cloud gaming users.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/star-wars-galactic-racer-launches-on-amazon-luna-as-part-of-prime-subscription"
+      },
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/star-wars-galactic-racers-single-player-campaign-is-available-to-play-on-amazon-prime-luma-for-free/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/best-podracers-star-wars-galactic-racer/"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Star-Wars_-Galactic-Racer-Screenshot-9.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-06T12:17:19.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "star-wars-galactic-racer",
+    "game_label": "Star Wars: Galactic Racer"
+  },
+  {
     "id": "c164b2ec6120",
     "slug": "october-2026-ps-plus-essential-games-available-to-download-now",
     "headline": "October 2026 PS Plus Essential Games Available to Download Now",
@@ -23,6 +98,73 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "244f4b1cd593",
+    "slug": "xboxs-final-fanfest-2026-event-is-a-special-celebration-to-mark-the-25",
+    "headline": "Xbox's Final FanFest 2026 Event Is A 'Special' Celebration To Mark The 25th Anniversary",
+    "summary": "You might even be able to be there! We've got nothing but praise for the way Xbox has handheld its FanFest events in 2026 — it's been great to see them taking place around the world over the past few months — and the final stop has just been announced for Seattle. This one is particularly notable, as not only…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/xboxs-final-fanfest-2026-event-is-a-special-celebration-to-mark-the-25th-anniversary"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/f3b1a3462dc4c/large.jpg",
+    "published_at": "2026-10-06T12:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9332dfbda225",
+    "slug": "gta-5-made-playable-in-browser-as-ai-generated-game-chaos-continues",
+    "headline": "GTA 5 Made Playable in Browser as AI-Generated Game Chaos Continues",
+    "summary": "Grand Theft Auto 5 was made playable in a browser before it was pulled offline, amid an explosion of AI-fueled games across the internet.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-5-made-playable-in-browser-as-ai-generated-game-chaos-continues"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/08/30/gta-5-michael-gta-6-1788126987774.png",
+    "published_at": "2026-10-06T11:55:10.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e2ea6887675a",
+    "slug": "zelda-ocarina-of-time-remake-prime-day-discounts",
+    "headline": "Zelda Ocarina of Time Remake Prime Day Discounts",
+    "summary": "Prime Day is coming to Nintendo Switch, with discounts that can help you prepare for the Ocarina of Time remake release in a month.",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/hardware/your-zelda-ocarina-of-time-guide-to-prime-day-all-the-discounts-hyrulians-need-to-know-about-this-week/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/jVXDkWWUp5TvLinXDUKqTP-1920-80.jpg",
+    "published_at": "2026-10-06T11:54:31.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-legend-of-zelda-ocarina-of-time",
+    "game_label": "The Legend of Zelda: Ocarina of Time"
   },
   {
     "id": "8c9bf28b3e4f",
@@ -87,6 +229,27 @@
     ],
     "image_url": "https://assetsio.gnwcdn.com/Gears-of-War-E-Day-(21).jpg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-10-06T11:36:35.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "56e1e4201089",
+    "slug": "uncharted-star-says-a-new-sequel-would-be-one-of-the-biggest-games-eve",
+    "headline": " Uncharted star says a new sequel would be \"one of the biggest games ever\" ",
+    "summary": "Nolan North would \"absolutely\" reprise his role if given the chance",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/adventure/uncharted-star-says-a-new-sequel-would-be-one-of-the-biggest-games-ever-but-it-just-depends-if-sony-wants-to-make-money/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Fp4g3UHJRERehxspxKpdeW-1920-80.jpg",
+    "published_at": "2026-10-06T11:31:11.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -368,33 +531,6 @@
     "game_label": null
   },
   {
-    "id": "560f1933f8d8",
-    "slug": "star-wars-galactic-racer-launched-on-amazon-luna",
-    "headline": "Star Wars: Galactic Racer Launched on Amazon Luna",
-    "summary": "A new Star Wars racing game has launched on Amazon Luna as part of a Prime subscription, making it available to cloud gaming users.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/star-wars-galactic-racer-launches-on-amazon-luna-as-part-of-prime-subscription"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/star-wars-galactic-racers-single-player-campaign-is-available-to-play-on-amazon-prime-luma-for-free/"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Star-Wars_-Galactic-Racer-Screenshot-9.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-06T10:54:45.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "star-wars-galactic-racer",
-    "game_label": "Star Wars: Galactic Racer"
-  },
-  {
     "id": "7140963ecbb9",
     "slug": "retro-platformer-series-dizzy-is-back-for-a-new-game-from-its-original",
     "headline": "Retro platformer series Dizzy is back for a new game from its original creators, who are really happy for you to know it's made with AI",
@@ -485,6 +621,29 @@
     "game_label": "Magic: The Gathering"
   },
   {
+    "id": "56ff33da2ed2",
+    "slug": "as-gta-6-battles-zelda-ocarina-of-time-expert-says-nintendo-is-the-onl",
+    "headline": " As GTA 6 battles Zelda: Ocarina of Time, expert says Nintendo is \"the only company\" that could try ",
+    "summary": "And the reaction from fans \"tells you how this ends\" already, he suggests",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/as-gta-6-faces-off-against-zelda-ocarina-of-time-remake-expert-says-nintendo-is-the-only-company-in-the-industry-with-a-fanbase-loyal-enough-to-make-that-bet-against-rockstar/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/RKBdrVy7naGiR7BnKBssQM-1920-80.jpg",
+    "published_at": "2026-10-06T10:14:46.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "fed1a9a484e0",
     "slug": "how-to-play-podracing-in-star-wars-galactic-racer",
     "headline": "How to Play Podracing in Star Wars Galactic Racer",
@@ -529,6 +688,30 @@
     "comment_count": 0,
     "game": "red-dead-redemption-2",
     "game_label": "Red Dead Redemption 2"
+  },
+  {
+    "id": "1c0d541ca4c4",
+    "slug": "newly-released-spider-man-brand-new-day-deleted-scene-clears-up-a-big",
+    "headline": "Newly-released Spider-Man: Brand New Day deleted scene clears up a big question from Peter Parker's hospital stay",
+    "summary": "A deleted scene from the recently released Spider-Man: Brand New Day game has addressed a long-standing fan question about Peter Parker's hospital stay, providing closure for some players.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/marvel-movies/newly-released-spider-man-brand-new-day-deleted-scene-clears-up-a-big-question-from-peter-parkers-hospital-stay/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/bogXKnCoPM4d2ipcgofNGW-1920-80.jpg",
+    "published_at": "2026-10-06T10:06:41.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "spider-man-brand-new-day",
+    "game_label": "Spider-Man: Brand New Day"
   },
   {
     "id": "6fe109ae398f",
@@ -4471,195 +4654,6 @@
     "image_url": "https://images.purexbox.com/14a26200f0699/large.jpg",
     "published_at": "2026-10-05T13:30:00.000Z",
     "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1f07620116fb",
-    "slug": "fire-emblem-fortunes-weave-mouse-controls-rejected-by-fans",
-    "headline": "Fire Emblem: Fortune's Weave Mouse Controls Rejected By Fans",
-    "summary": "Nintendo shares another demonstration of Fire Emblem: Fortune's Weave's mouse controls, but no one is particularly interested.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/fire-emblem-fortunes-weave-nintendo-switch-2-mouse-controls-reminder/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/20261005134501-01m461bj21arjmvxkpg61dq135.jpg",
-    "published_at": "2026-10-05T13:26:27.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e120e1b6f52a",
-    "slug": "lets-play-through-kingdom-hearts-together-no-seriously",
-    "headline": "Let's Play Through Kingdom Hearts Together (No, Seriously)",
-    "summary": "Kotaku discusses the idea of playing through the Kingdom Hearts series together, with the main game, Kingdom Hearts IV, approaching release. They explore the nostalgia and potential of re-experiencing the series with friends.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/kingdom-hearts-collection-switch-xbox-ps5-review-recap-2000739938"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/IMG_0743-1280x720.jpg",
-    "published_at": "2026-10-05T13:25:35.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "kingdom-hearts",
-    "game_label": "Kingdom Hearts"
-  },
-  {
-    "id": "71e3ed087c83",
-    "slug": "rockstar-addresses-gta-6s-approach-to-satire-and-politics",
-    "headline": "Rockstar Addresses GTA 6's Approach to Satire and Politics",
-    "summary": "Rockstar's approach to satirizing societal climate in GTA 6 has been discussed, with a focus on avoiding specificity",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/gta-6-writer-says-the-series-has-never-had-much-focus-on-national-politics-beyond-gta-4s-war-on-terror-and-the-latest-entry-wont-get-too-specific"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/gta-6-writer-on-politics-american-dream-satire-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-05T13:23:13.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gta-6",
-    "game_label": "GTA 6"
-  },
-  {
-    "id": "b58738c62493",
-    "slug": "hellblade-studio-ninja-theory-has-started-laying-off-staff-following-x",
-    "headline": "Hellblade studio Ninja Theory has started laying off staff, following Xbox’s announcement that it faces closure",
-    "summary": "Two separate agreements with the studio \"fell through\", Microsoft said",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/hellblade-studio-ninja-theory-has-started-laying-off-staff-following-xboxs-announcement-that-it-faces-closure/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/b58738c62493/800/600",
-    "published_at": "2026-10-05T13:20:46.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c6822c17b247",
-    "slug": "gacriva-technologies-creates-new-rendering-tech-for-breakthrough-visua",
-    "headline": "Gacriva Technologies Creates New Rendering Tech for Breakthrough Visual Fidelity",
-    "summary": "A new rendering tech called 'hopfion' is being developed to improve visual fidelity in graphics processing units (GPUs), potentially leading to more efficient and powerful graphics.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/gacriva-technologies-creates-new-hopfion-rendering-tech-for-breakthrough-visual-fidelity-exclusive/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/c6822c17b247/800/600",
-    "published_at": "2026-10-05T13:15:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f5fc7a4de285",
-    "slug": "its-less-risky-to-be-the-masters-of-our-own-fate-the-aaa-developers-go",
-    "headline": "\"It's less risky to be the masters of our own fate\" – The AAA developers going indie",
-    "summary": "Justin Fischer and Brock Feldman suddenly found themselves out of a job in 2025, when Warner Bros decided to shutter their studio, Player First Games, the developer of Multiversus.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/its-less-risky-to-be-the-masters-of-our-own-fate-the-aaa-developers-going-indie"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Starship-Bloopers-(2).jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-05T13:12:44.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "db00b5106df4",
-    "slug": "runescape-animated-show-in-the-works-from-bloodborne-movie-studio-and",
-    "headline": " RuneScape animated show in the works from Bloodborne movie studio and creator MoistCr1TiKaL ",
-    "summary": "A new animated show will \"expand RuneScape beyond the gaming ecosystem\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/entertainment/animation-shows/runescape-animated-show-in-the-works-from-bloodborne-movie-studio-and-creator-moistcr1tikal/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ZUVVYgFaqRjqHjoDC9ap9Z-1920-80.jpg",
-    "published_at": "2026-10-05T13:11:44.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "90f4c3ede5b7",
-    "slug": "prime-day-ps5-deals-live-how-to-save-on-consoles-and-the-best-game-and",
-    "headline": " Prime Day PS5 deals live: how to save on consoles and the best game and accessory savings I've found ahead of the sale ",
-    "summary": "Prime Day PS5 deals are incoming, but there are already record-low prices on games and accessories this week.",
-    "category": "deals",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/news/live/prime-day-ps5-deals-live-october-26/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/k98DFcHyQL5qU3cz8FgVge-1920-80.jpg",
-    "published_at": "2026-10-05T13:10:06.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
