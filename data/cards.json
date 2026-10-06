@@ -1,5 +1,474 @@
 [
   {
+    "id": "f8dfca4c4464",
+    "slug": "gamestop-is-now-selling-used-ps5-pros-for-1400",
+    "headline": "GameStop Is Now Selling Used PS5 Pros For $1400",
+    "summary": "GameStop has started selling used PlayStation 5 Pros for $1400, which is $500 more than the price of a new model.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/gamestop-is-now-selling-used-ps5-pros-for-1400-2000740923"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2024/11/3f20ff633940fef6470c433bd33d10a3-1280x720.jpg",
+    "published_at": "2026-10-06T14:00:46.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "playstation-5-pro",
+    "game_label": "PlayStation 5 Pro"
+  },
+  {
+    "id": "0e04b6db6fd7",
+    "slug": "gundam-rogue-orbit-preview",
+    "headline": "Gundam Rogue Orbit Preview",
+    "summary": "TheGamer's 30-minute playthrough of Gundam Rogue Orbit left the author a fan of the game, leaving them eager for the full release.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/gundam-rogue-orbit-hands-on-preview/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/gundamrogueorbitsuit.jpg",
+    "published_at": "2026-10-06T14:00:17.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gundam-rogue-orbit",
+    "game_label": "Gundam Rogue Orbit"
+  },
+  {
+    "id": "22b0e9553b61",
+    "slug": "brand-new-game-boy-color-game-officially-unveiled",
+    "headline": "Brand-New Game Boy Color Game Officially Unveiled",
+    "summary": "Although the Game Boy Color was released 28 years ago, a brand-new game wants to revive the glory of 8-bit titles on the legendary handheld console.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/game-boy-color-new-game-announced-essencelord/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/game-boy-color-new-game-essencelord-official-reveal-gamerant.jpg",
+    "published_at": "2026-10-06T14:00:13.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "abcdc934ac40",
+    "slug": "gundam-rogue-orbit-review",
+    "headline": "Gundam Rogue Orbit Review",
+    "summary": "A PC Gamer review of Gundam Rogue Orbit, a mech game that impressed with its whip sword but fell short in its potential mech customization options.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/action/gundam-rogue-orbit-gave-me-a-sick-whip-sword-but-held-back-the-one-thing-i-want-most-in-a-mech-game/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/VFVYP5FVWn9Ujk3XAvXft-1920-80.jpg",
+    "published_at": "2026-10-06T14:00:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gundam-rogue-orbit",
+    "game_label": "Gundam Rogue Orbit"
+  },
+  {
+    "id": "289d96661857",
+    "slug": "resident-evil-games-see-50-engagement-boost-following-movie-release",
+    "headline": "Resident Evil Games See 50% Engagement Boost Following Movie Release",
+    "summary": "Resident Evil game engagement increased by 50% following the release of Zach Cregger's movie, according to GamesIndustry.biz. This surge in interest may be attributed to the brand's resurgence in popularity.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/resident-evil-games-engagement-leapt-50-following-release-of-zach-creggers-movie-but-analysts-say-real-value-is-in-brand-building-1"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/resident-evil-movie_wkPx9ZD.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-06T14:00:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "resident-evil",
+    "game_label": "Resident Evil"
+  },
+  {
+    "id": "b1db59e2130c",
+    "slug": "warhammer-survivors-is-more-than-just-a-vampire-survivors-spin-off",
+    "headline": "Warhammer Survivors is more than just a Vampire Survivors spin-off",
+    "summary": "PC Gamer discusses the uniqueness of Warhammer Survivors, a game that stands out in a crowded market of Warhammer titles",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/roguelike/warhammer-survivors-is-more-than-just-a-vampire-survivors-spin-off/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/awVy6VHTQu8jjxGLWzTaVX-1920-80.jpg",
+    "published_at": "2026-10-06T14:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "warhammer-survivors",
+    "game_label": "Warhammer Survivors"
+  },
+  {
+    "id": "1ec8ccd61c5b",
+    "slug": "star-wars-galactic-racer-review",
+    "headline": "Star Wars: Galactic Racer Review",
+    "summary": "Rock Paper Shotgun reviews Star Wars Galactic Racer, calling it frenetically fun with an unforgiving streak.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-review-now-this-is-frenetically-fun-podracing-with-a-totally-unforgiving-streak"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/star-wars-galactic-racer-review-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-06T14:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "star-wars-galactic-racer",
+    "game_label": "Star Wars: Galactic Racer"
+  },
+  {
+    "id": "55485a4ea08e",
+    "slug": "warhammer-survivors-launches-november-10",
+    "headline": "Warhammer Survivors launches November 10",
+    "summary": "Survivors-like roguelite action game Warhammer Survivors will launch for PlayStation 5, Xbox Series, Switch 2, …",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/warhammer-survivors-launches-november-10"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/55485a4ea08e/800/600",
+    "published_at": "2026-10-06T13:58:40.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "54430dae641a",
+    "slug": "lego-and-sanrio-teaming-up-in-2027",
+    "headline": "Lego and Sanrio Teaming Up in 2027",
+    "summary": "Lego Group and Sanrio are collaborating on a new project set to debut in 2027, with Hello Kitty joining the iconic toy brand.",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/lego-sanrio-hello-kitty-and-friends-line-announced/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/11565433/825471074.jpg.jpg",
+    "published_at": "2026-10-06T13:57:52.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "cd6cbe69f559",
+    "slug": "warner-bros-games-now-belongs-to-skydance-but-company-makes-no-mention",
+    "headline": "Warner Bros. Games Now Belongs To Skydance, But Company Makes No Mention Of That In Big Announcement",
+    "summary": "Paramount has officially completed its $111 billion acquisition of Warner Bros. Discovery, but the company's announcement of the deal closing did not contain a single mention of video games. That's notable because Warner Bros. Discovery is heavily invested in video games, and many may wonder what's coming next. CEO David Ellison says he is a big gamer himself, but whether…",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/warner-bros-games-now-belongs-to-skydance-but-company-makes-no-mention-of-that-in-big-announcement/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/skyd-Large.jpeg?w=300",
+    "published_at": "2026-10-06T13:55:19.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "560f1933f8d8",
+    "slug": "star-wars-galactic-racer-launched-on-amazon-luna",
+    "headline": "Star Wars: Galactic Racer Launched on Amazon Luna",
+    "summary": "A new Star Wars racing game has launched on Amazon Luna as part of a Prime subscription, making it available to cloud gaming users.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/star-wars-galactic-racer-launches-on-amazon-luna-as-part-of-prime-subscription"
+      },
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/star-wars-galactic-racers-single-player-campaign-is-available-to-play-on-amazon-prime-luma-for-free/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/best-podracers-star-wars-galactic-racer/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/star-wars-galactic-racer-how-to-upgrade-abilities/"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Star-Wars_-Galactic-Racer-Screenshot-9.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-06T13:53:41.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "star-wars-galactic-racer",
+    "game_label": "Star Wars: Galactic Racer"
+  },
+  {
+    "id": "649daabf7f15",
+    "slug": "sega-to-keep-human-creativity-in-games-leverages-ai-for-efficiency",
+    "headline": "Sega to Keep Human Creativity in Games, Leverages AI for Efficiency",
+    "summary": "Sega is refuting AI's role in game creation, focusing instead on using AI to streamline its publishing and development processes.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-06T13:50:19.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "408339ca36e9",
+    "slug": "undead-labs-self-owns-after-layoffs",
+    "headline": "Undead Labs Self-Owns After Layoffs",
+    "summary": "Undead Labs, the studio behind State of Decay, has become a self-owned company where employees are now shareholders. This move is aimed at providing better financial stability and a voice for the staff in decision-making processes.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/state-of-decay-studio-boss-says-he-was-irresponsibly-transparent-to-staff-to-make-layoffs-easier-to-take/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/408339ca36e9/800/600",
+    "published_at": "2026-10-06T13:46:59.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "state-of-decay",
+    "game_label": "State of Decay"
+  },
+  {
+    "id": "87fdccff307e",
+    "slug": "gears-of-war-e-day-looks-as-good-as-it-does-on-xbox-series-s",
+    "headline": "Gears Of War: E-Day Looks As Good As It Does On Xbox Series S",
+    "summary": "The Coalition implemented tricks to work around Xbox Series S hardware limitations, utilizing an SSD hack to achieve game performance",
+    "category": "esports",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/its-a-miracle-that-gears-of-war-e-day-looks-as-good-as-it-does-on-xbox-series-s-and-a-clever-ssd-hack-made-it-all-possible-2000740918"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/10/Gears-image-1280x720.jpg",
+    "published_at": "2026-10-06T13:45:30.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gears-of-war-e-day",
+    "game_label": "Gears Of War: E-Day"
+  },
+  {
+    "id": "0c1e8077606b",
+    "slug": "rockstars-grand-theft-auto-vi-dominates-november-releases",
+    "headline": "Rockstar's Grand Theft Auto VI Dominates November Releases",
+    "summary": "A product growth expert discusses the upcoming game releases in November, highlighting the anticipation for Grand Theft Auto VI and its potential impact on the gaming industry.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/nintendo-didnt-swerve-product-growth-expert-comments-on-zelda-vs-gta-6"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/164879e88ba46/large.jpg",
+    "published_at": "2026-10-06T13:45:00.000Z",
+    "hype_signal": 90,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-vi",
+    "game_label": "Grand Theft Auto VI"
+  },
+  {
+    "id": "7413ca0afaf9",
+    "slug": "supermassive-games-lays-off-over-70-staff-despite-new-game-release",
+    "headline": "Supermassive Games Lays Off Over 70 Staff Despite New Game Release",
+    "summary": "Supermassive Games, the developer of Directive 8020, has laid off more than 70 staff, two months after announcing the move.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/two-months-after-announcing-layoff-plans-supermassive-games-has-laid-off-more-than-70-staff/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/7413ca0afaf9/800/600",
+    "published_at": "2026-10-06T13:42:37.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "directive-8020",
+    "game_label": "Directive 8020"
+  },
+  {
+    "id": "2834593abf32",
+    "slug": "replays-october-theme-is-spooky-send-us-creepy-scary-and-weird-clips-f",
+    "headline": " Replay's October theme is spooky: send us creepy, scary and weird clips for a chance to win a £/$250 Amazon voucher!  ",
+    "summary": "You can enter any gaming clips for Replay, but October is all about the Halloween spooky times",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/replays-october-theme-is-spooky-send-us-creepy-scary-and-weird-clips-for-a-chance-to-win-a-gbp-usd250-amazon-voucher/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/jEZAFGro79UajDMz8hjjVE-1920-80.jpg",
+    "published_at": "2026-10-06T13:41:37.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "acedfe07a573",
+    "slug": "aion-2s-breast-customization-is-getting-major-attention",
+    "headline": "Aion 2's Breast Customization Is Getting Major Attention",
+    "summary": "Aion 2 is receiving attention for its breast customization options, sparking debate among players.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/aion-2-may-have-gamings-most-obnoxious-breast-customization/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/1920x1080-2026-10-06t133810-651.png",
+    "published_at": "2026-10-06T13:41:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "aion-2",
+    "game_label": "Aion 2"
+  },
+  {
+    "id": "7b1b2e3cd6d1",
+    "slug": "building-the-ultimate-gta-6-setup-this-prime-day",
+    "headline": "Building the Ultimate GTA 6 Setup This Prime Day",
+    "summary": "The author shares their top picks for upgrades to enhance their Grand Theft Auto 6 gaming experience during Prime Day.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/hardware/news/live/prime-day-gta-6-ultimate-setup-oct-26/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/sHC6ayTTNhWznYnQ4m3q9m-1920-80.jpg",
+    "published_at": "2026-10-06T13:32:28.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
     "id": "4eef8a81ef37",
     "slug": "new-fps-on-steam-looks-like-paper-mario-got-trapped-in-doom-and-its-ma",
     "headline": "New FPS on Steam Looks Like Paper Mario Got Trapped in DOOM, and It's Made for Halloween",
@@ -239,6 +708,29 @@
     "game_label": null
   },
   {
+    "id": "a833ab0b4abc",
+    "slug": "gears-of-war-e-day-officially-confirms-major-day-1-update",
+    "headline": "Gears of War: E-Day Officially Confirms Major Day 1 Update",
+    "summary": "Gears of War: E-Day is receiving a major update to address launch issues, following its early access period.",
+    "category": "patches",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gears-of-war-e-day-day-1-update-patch-notes/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/gears-of-war-e-day-launch-patch.jpg",
+    "published_at": "2026-10-06T13:11:55.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gears-of-war-e-day",
+    "game_label": "Gears of War: E-Day"
+  },
+  {
     "id": "207a1da6a20b",
     "slug": "grimkeep-launches-on-november-30",
     "headline": "GrimKeep Launches on November 30",
@@ -261,6 +753,33 @@
     "comment_count": 0,
     "game": "grimkeep",
     "game_label": "GrimKeep"
+  },
+  {
+    "id": "f192eed918f4",
+    "slug": "end-of-abyss-optional-boss-locations",
+    "headline": "End of Abyss Optional Boss Locations",
+    "summary": "A guide to finding three optional bosses in End of Abyss, including the Brood Keeper, Severed Husk Centipede, and Morgue Dweller, to earn achievements.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/end-of-abyss-brood-keeper-severed-husk-centipede-morgue-dweller-location/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/end-of-abyss-morgue-dweller.jpg",
+    "published_at": "2026-10-06T13:11:28.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "end-of-abyss",
+    "game_label": "End of Abyss"
   },
   {
     "id": "3d5293d85a81",
@@ -729,37 +1248,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "560f1933f8d8",
-    "slug": "star-wars-galactic-racer-launched-on-amazon-luna",
-    "headline": "Star Wars: Galactic Racer Launched on Amazon Luna",
-    "summary": "A new Star Wars racing game has launched on Amazon Luna as part of a Prime subscription, making it available to cloud gaming users.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/star-wars-galactic-racer-launches-on-amazon-luna-as-part-of-prime-subscription"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/star-wars-galactic-racers-single-player-campaign-is-available-to-play-on-amazon-prime-luma-for-free/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/best-podracers-star-wars-galactic-racer/"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Star-Wars_-Galactic-Racer-Screenshot-9.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-06T12:17:19.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "star-wars-galactic-racer",
-    "game_label": "Star Wars: Galactic Racer"
   },
   {
     "id": "c164b2ec6120",
@@ -4182,472 +4670,5 @@
     "comment_count": 0,
     "game": "fortnite",
     "game_label": "Fortnite"
-  },
-  {
-    "id": "0c93a2c631c6",
-    "slug": "wildtangent-games-rolls-out-free-trial-membership-and-major-platform-u",
-    "headline": "WildTangent Games rolls out free trial membership and major platform upgrades",
-    "summary": "WildTangent Games is celebrating nearly 30 years with a free trial membership option along with major updates to it's platform.\nThe post WildTangent Games rolls out free trial membership and major platform upgrades appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/wildtangent-games-rolls-out-free-trial-membership-and-major-platform-upgrades/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/0c93a2c631c6/800/600",
-    "published_at": "2026-10-05T15:33:46.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8d5d10ede919",
-    "slug": "rockstar-explains-gta-6s-satire-approach",
-    "headline": "Rockstar Explains GTA 6's Satire Approach",
-    "summary": "Rockstar Games reveals its approach to satire in GTA 6, stating it should be over-the-top and not satirize real-world events",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events"
-      },
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/rockstar-explains-how-it-actually-makes-a-game-like-gta-6-2000739955"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Ambrosia_06.0j9c7-8nfb_xf.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-05T15:33:13.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "2289232d184e",
-    "slug": "ninja-theory-lays-off-staff-amid-xbox-deal-rejections",
-    "headline": "Ninja Theory Lays Off Staff Amid Xbox Deal Rejections",
-    "summary": "UK-based game developer Ninja Theory is laying off staff due to failed deals with Xbox, casting doubt on the studio's future",
-    "category": "deals",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/hellblade-ninja-theory-layoffs/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/05/mixcollage-26-may-2025-10-44-am-422.jpg",
-    "published_at": "2026-10-05T15:31:51.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "ninja-theory",
-    "game_label": "Ninja Theory"
-  },
-  {
-    "id": "75788bf2ae80",
-    "slug": "the-borderlands-mmo-is-officially-saved-and-playable-in-english-11-yea",
-    "headline": " The Borderlands MMO is officially saved and playable in English, 11 years after its shutdown ",
-    "summary": "Modder and fan project lead EpicNNG says \"thank you to each player who has joined us as we make history\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/borderlands/the-borderlands-mmo-is-officially-saved-and-playable-in-english-11-years-after-its-shutdown-and-17-months-after-restoration-efforts-began-we-did-it/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/wNt7ud4HENY7pa4STT8tE3-1920-80.jpg",
-    "published_at": "2026-10-05T15:31:20.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "85871d66e25d",
-    "slug": "ex-rockstar-devs-new-game-looks-like-bloodborne-meets-resident-evil",
-    "headline": "Ex-Rockstar Dev's New Game Looks Like Bloodborne Meets Resident Evil",
-    "summary": "A former Rockstar developer who also worked at Naughty Dog reveals a brand-new game that can captivate Bloodborne and Resident Evil fans.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/new-games-like-bloodborne-resident-evil-dragas-wake/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/black-tides-dragas-wake-gameplay-4.jpg",
-    "published_at": "2026-10-05T15:30:13.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3ba711ef1bb6",
-    "slug": "garrys-mod-creator-criticizes-sbox-platform",
-    "headline": "Garry's Mod creator criticizes S&box platform",
-    "summary": "Garry Newman, creator of Garry's Mod, criticizes the S&box platform for its overwhelming content offerings",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/garrys-mod-creator-admits-the-launch-of-s-and-box-was-s-t-and-so-was-its-free-weekend-there-being-too-much-content-is-a-problem/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/H8rdUJacMFaCpYwuwWyTLj-1920-80.png",
-    "published_at": "2026-10-05T15:23:10.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "sbox",
-    "game_label": "S&box"
-  },
-  {
-    "id": "0ae7f0960fa8",
-    "slug": "bayonettas-return-sounds-imminent-as-platinum-reveals-desire-to-furthe",
-    "headline": "Bayonetta’s Return Sounds Imminent as Platinum Reveals Desire to ‘Further Develop the Character’",
-    "summary": "Action game star Bayonetta could return as PlatinumGames CEO reveals a 'stron desire to further develop the character'",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/bayonetta-return-platinumgames-ceo-tease/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24148492/Bayonetta_3_Tips_1.jpg",
-    "published_at": "2026-10-05T15:14:48.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e6c85238db63",
-    "slug": "claims-that-genai-speeds-up-pc-ports-of-classic-games-are-either-false",
-    "headline": "Claims that genAI speeds up PC ports of classic games are either \"false\" or missing the point, says Banjo Kazooie: Recompiled developer",
-    "summary": "The software developer behind an unofficial PC version of N64 platformer Banjo-Kazooie has posted an impassioned screed about the usage of generative AI tools for rush-job PC ports of classic games. The dev in question is DarioSamo, a member of the modder group who released Banjo: Recompiled earlier this year. He argues that the idea that generative AI allows for…",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/claims-that-genai-speeds-up-pc-ports-of-classic-games-are-either-false-or-missing-the-point-says-banjo-kazooie-recompiled-developer"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/banjo-kazooie-unofficial-pc-port-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-05T15:13:13.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "543a61c2c6a6",
-    "slug": "how-to-redeem-pet-store-tycoon-codes-for-free-pet-packs-and-cash",
-    "headline": "How to Redeem Pet Store Tycoon Codes for Free Pet Packs and Cash",
-    "summary": "GamesRadar+ has discovered a way to redeem codes for Pet Store Tycoon, granting players free pet packs and in-game currency. Follow these steps to claim your rewards.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/simulation/pet-store-tycoon-codes/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/t5VAw7p3KBR4GnMZqj3Xbj-1920-80.jpg",
-    "published_at": "2026-10-05T15:12:42.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "pet-store-tycoon",
-    "game_label": "Pet Store Tycoon"
-  },
-  {
-    "id": "2f6a441ceb9d",
-    "slug": "ggwp-announces-leadership-overhaul-with-new-ceo-and-chairman",
-    "headline": "GGWP Announces Leadership Overhaul with New CEO and Chairman",
-    "summary": "GGWP, a gaming organization, has made significant changes to its leadership, with George Ng taking over as CEO and Dennis Fong assuming the role of chairman.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/ggwp-announces-leadership-reshuffle-with-new-chairman-and-ceo/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/2f6a441ceb9d/800/600",
-    "published_at": "2026-10-05T15:08:42.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "57ac76c131bd",
-    "slug": "resident-evil-requiem-hits-prime-day-price-low",
-    "headline": "Resident Evil Requiem Hits Prime Day Price Low",
-    "summary": "The survival horror game has dropped to $50 on Amazon, a new low and a beat to its June Prime Day price",
-    "category": "deals",
-    "platform_tags": [
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/resident-evil-requiem-hits-new-low-of-50-at-amazon-beating-its-june-prime-day-price"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/05/untitled-design-2-1791210740262.png",
-    "published_at": "2026-10-05T15:06:59.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "resident-evil-requiem",
-    "game_label": "Resident Evil Requiem"
-  },
-  {
-    "id": "5b5d539d1165",
-    "slug": "pokemon-30th-anniversary-tcg-deal-stacked-discounts",
-    "headline": "Pokémon 30th Anniversary TCG Deal Stacked Discounts",
-    "summary": "A Pokémon 30th Anniversary TCG deal offers a discounted card pack with a stacked discount from a retailer",
-    "category": "deals",
-    "platform_tags": [
-      "mobile",
-      "switch",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/pokemon-30th-anniversary-dollar-general-etb-deal-discount-toys-app/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/03/02-pokemon.jpg",
-    "published_at": "2026-10-05T15:02:05.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "pokemon-30th-anniversary-tcg",
-    "game_label": "Pokémon 30th Anniversary TCG"
-  },
-  {
-    "id": "048f86abf174",
-    "slug": "new-official-wilds-era-legend-of-zelda-game-quietly-announced",
-    "headline": "New Official Wilds Era Legend of Zelda Game Quietly Announced",
-    "summary": "Nintendo quietly announces and releases a brand new puzzle game in the Wilds era of Legend of Zelda.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/zelda-tears-of-the-kingdom-totk-return-new-game/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/06/zelda-botw-totk-game-3-wallpaper-4k.jpg",
-    "published_at": "2026-10-05T15:00:13.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3b3b68779071",
-    "slug": "crymelight-director-takumi-isobe-talks-story-driven-action-roguelike",
-    "headline": "CRYMELIGHT Director Takumi Isobe Talks Story-Driven Action Roguelike",
-    "summary": "In an interview, CRYMELIGHT director Takumi Isobe discusses the game's focus on young girls' relationships and emotions, ahead of its TGS 2026 appearance.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/interviews/crymelight-is-a-heavily-story-driven-action-roguelike-exploring-the-messy-relationships-and-twisted-emotions-of-young-girls-we-talk-to-director-takumi-isobe/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/3b3b68779071/800/600",
-    "published_at": "2026-10-05T15:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "crymelight",
-    "game_label": "CRYMELIGHT"
-  },
-  {
-    "id": "500d9b0f9008",
-    "slug": "bombanana-becomes-first-steam-native-party-game-with-roblox-adaptation",
-    "headline": "Bombanana! Becomes First Steam-Native Party Game With Roblox Adaptation",
-    "summary": "Bombanana!, a popular Steam party game, has gained official support from Roblox, marking a first for a Steam-native game on the platform.",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/steam-hit-bombanana-becomes-first-steam-native-party-game-with-an-official-roblox-adaptation/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/500d9b0f9008/800/600",
-    "published_at": "2026-10-05T14:56:05.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "bombanana",
-    "game_label": "Bombanana!"
-  },
-  {
-    "id": "cd0f4e81c31a",
-    "slug": "aion-2-faq-everything-you-need-to-know-about-aion-2",
-    "headline": "Aion 2 FAQ: Everything you need to know about Aion 2",
-    "summary": "VGC provides a comprehensive guide to Aion 2, answering frequently asked questions for the upcoming game",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/aion-2-faq-everything-you-need-to-know-about-aion-2/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/cd0f4e81c31a/800/600",
-    "published_at": "2026-10-05T14:55:08.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "aion-2",
-    "game_label": "Aion 2"
-  },
-  {
-    "id": "e0b7fad15743",
-    "slug": "ninja-theory-developers-announce-layoffs-amid-xbox-cuts",
-    "headline": "Ninja Theory Developers Announce Layoffs Amid Xbox Cuts",
-    "summary": "Ninja Theory, the developer of Hellblade: Senua's Sacrifice and DmC: Devil May Cry, is laying off staff following widespread Xbox cuts and a second wave of layoffs",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/ninja-theory-hellblade-developers-layoffs-xbox-cuts"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Will_3-(1).png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-05T14:53:45.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cbdd0811d124",
-    "slug": "runescape-devs-take-down-trailer-apologize-to-players-for-gen-ai-after",
-    "headline": " RuneScape devs take down trailer, apologize to players for gen AI after promising not to use gen AI ",
-    "summary": "Reborn MMO RuneScape's Dragon Slayer 2 trailer didn't even try to hide it",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/mmo/runescape-devs-take-down-trailer-apologize-to-players-and-blame-partner-for-gen-ai-after-promising-not-to-use-gen-ai/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/WW9gXgDL3CbRQKLwbDSrCF-1920-80.jpg",
-    "published_at": "2026-10-05T14:50:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6510a3f44957",
-    "slug": "steams-secretly-biggest-driving-game-ever-is-coming-to-ps5-in-2-weeks",
-    "headline": "Steam's Secretly Biggest Driving Game Ever is Coming to PS5 in 2 Weeks",
-    "summary": "BeamNG.drive, a sandbox open-world car simulator with amazing soft-body physics, is quietly a massive hit on Steam already.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/beamng-drive-ps5-release-date-steam-driving-simulator/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/beamng-drive-1.jpg",
-    "published_at": "2026-10-05T14:46:02.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "32eac62507cb",
-    "slug": "breath-of-the-wild-is-beautiful-on-ps5-at-4k-fans-say-as-nintendo-gem",
-    "headline": " Breath of the Wild is \"beautiful\" on PS5 at 4K, fans say as Nintendo gem hits PlayStation emulator ",
-    "summary": "Others say it \"looks better on the Switch 2\"",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/open-world/the-legend-of-zelda-breath-of-the-wild-is-beautiful-on-ps5-at-4k-fans-say-as-nintendo-gem-hits-playstation-emulator/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/6pDUXH5TWYG8RhL8bTVUcd-1920-80.jpg",
-    "published_at": "2026-10-05T14:40:45.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
