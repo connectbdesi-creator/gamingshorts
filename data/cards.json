@@ -1,5 +1,339 @@
 [
   {
+    "id": "c9a42ce925ca",
+    "slug": "new-final-fantasy-7-collection-coming-in-december-2026",
+    "headline": "New Final Fantasy 7 Collection Coming in December 2026",
+    "summary": "Square Enix has announced a new collection of Final Fantasy 7 games, set to release in December 2026.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/final-fantasy-7-ff7-rebirth-adorable-arts-petit-figure-collection/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/final-fantasy-7-rebirth-adorable-arts-petit-figure-collection.jpg",
+    "published_at": "2026-10-06T15:30:15.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-7-collection",
+    "game_label": "Final Fantasy 7 Collection"
+  },
+  {
+    "id": "8170e908a758",
+    "slug": "warhammer-survivors-releases-in-november-with-new-demo",
+    "headline": "Warhammer Survivors Releases in November with New Demo",
+    "summary": "Auroch Digital's Warhammer Survivors, a bullet heaven-inspired game, is set to release in November with a new demo available now.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/bullet-heaven-battler-warhammer-survivors-arrives-in-november-with-a-new-demo-out-now-to-whet-your-appetite-for-destruction"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/warhammer-survivors-release-date-new-demo-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-06T15:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "warhammer-survivors",
+    "game_label": "Warhammer Survivors"
+  },
+  {
+    "id": "4e7daef2b4e6",
+    "slug": "gears-of-war-e-day-released",
+    "headline": "Gears of War: E-Day Released",
+    "summary": "Gears of War: E-Day is now available on Xbox Series X|S, PC, Game Pass, and Steam, marking the return of the iconic XBOX saga to its roots on Emergence Day.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/10/06/gears-of-war-e-day-surviving-the-first-night-of-emergence/"
+      },
+      {
+        "name": "Xbox Wire",
+        "url": "https://www.youtube.com/watch?v=3onc3ownB14#new_tab"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/4e7daef2b4e6/800/600",
+    "published_at": "2026-10-06T15:27:41.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gears-of-war-e-day",
+    "game_label": "Gears of War: E-Day"
+  },
+  {
+    "id": "7f62f3f22cc6",
+    "slug": "new-xbox-hardware-leaks-with-rumored-major-upgrades",
+    "headline": "New Xbox Hardware Leaks With Rumored Major Upgrades",
+    "summary": "Rumors suggest the new Xbox hardware will feature improved haptics, modularity, and customization options.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/xbox-elite-controller-3-specs-features-leak-buttons-hall-effect/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24000449/xbox_elite_wireless_controller_series_2_white_and_black_3840.jpg",
+    "published_at": "2026-10-06T15:25:44.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "612ba18c91e9",
+    "slug": "lego-batman-set-to-feature-iconic-joker-cover",
+    "headline": "Lego Batman Set to Feature Iconic Joker Cover",
+    "summary": "GamesRadar+ announces three new Lego Batman sets, including a detailed brick-built version of the Arkham Knight Batmobile and a recreation of the iconic Joker cover of Detective Comics #880.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/toys-collectibles/the-most-iconic-joker-artwork-ever-made-becomes-a-lego-batman-set/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/mHjTx77nGBeWSwRQbsaTx-1920-80.jpg",
+    "published_at": "2026-10-06T15:25:09.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f341e59ac287",
+    "slug": "aion-2-mastering-odyle-farming-strategies",
+    "headline": "Aion 2: Mastering Odyle Farming Strategies",
+    "summary": "Aion 2 players can learn effective methods for farming Odyle to craft powerful gear, essential for progression.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/aion-2-how-to-get-farm-odyle/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/how-to-farm-odyle-in-aion-2.jpg",
+    "published_at": "2026-10-06T15:24:36.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "aion-2",
+    "game_label": "Aion 2"
+  },
+  {
+    "id": "cbd7548cb604",
+    "slug": "my-friendly-neighborhood-coming-to-nintendo-switch-2",
+    "headline": "My Friendly Neighborhood Coming to Nintendo Switch 2",
+    "summary": "DreadXP and developers John Szymanski and Evan Szymanski are releasing a puppet-filled survival horror game for Nintendo Switch 2",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/my-friendly-neighborhood-coming-to-switch-2-on-october-22"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/cbd7548cb604/800/600",
+    "published_at": "2026-10-06T15:13:35.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "my-friendly-neighborhood",
+    "game_label": "My Friendly Neighborhood"
+  },
+  {
+    "id": "520bddf0f7a7",
+    "slug": "razer-launches-wolverine-v4-pro-controller-for-xbox-and-pc",
+    "headline": "Razer Launches Wolverine V4 Pro Controller for Xbox and PC",
+    "summary": "Razer is launching the Wolverine V4 Pro controller, which features capacitive sensors instead of TMR technology, for Xbox and PC players.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/hardware/gaming-controllers/razer-ascends-beyond-tmr-thumbsticks-launches-the-wolverine-v4-pro-controller-for-xbox-and-pc-with-capacitive-sensors/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/xo57NkVAtk8UwRTVk2ZTTF-1920-80.jpg",
+    "published_at": "2026-10-06T15:13:17.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "wolverine-v4-pro",
+    "game_label": "Wolverine V4 Pro"
+  },
+  {
+    "id": "ef8b5249f4bd",
+    "slug": "takashi-iizuka-on-remakes-youre-providing-the-same-experience-again",
+    "headline": "Takashi Iizuka on Remakes: 'You're Providing the Same Experience Again'",
+    "summary": "Sonic Team's Takashi Iizuka discusses the trend of remakes and remasters, stating they can prey on nostalgia and offer a fleeting sense of childhood experience.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/sonic-teams-takashi-iizuka-dismisses-the-apparent-inevitability-of-remakes-saying-youre-essentially-providing-the-same-experience-again"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Sonic_9VVHpYg.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-06T15:12:21.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3d5293d85a81",
+    "slug": "best-amazon-prime-oled-gaming-monitor-deals",
+    "headline": "Best Amazon Prime OLED Gaming Monitor Deals",
+    "summary": "Several Amazon Prime OLED gaming monitors are currently on sale, starting at $280 for the 1440p all-round option.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/gaming-monitors/these-are-two-of-the-very-best-amazon-prime-oled-gaming-monitor-deals-starting-at-usd280/"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/best-xbox-deals-amazon-prime-day-sale-october-2026/"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/best-ps5-deals-amazon-prime-day-sale-october-2026/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/dRFKKnZvB9wgt7kEA3J9G9-1920-80.jpg",
+    "published_at": "2026-10-06T15:10:56.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c4e3eb0a5bc3",
+    "slug": "state-of-decay-3-was-revealed-early-partly-because-of-the-studio-boss",
+    "headline": "State of Decay 3 Was Revealed Early Partly Because of the Studio Boss' Anxiety Around Xbox's Plans",
+    "summary": "Undead Labs boss Philip Holt reveals why the studio announced State of Decay 3 so early.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/state-of-decay-3-revealed-early-anxiety-xbox"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2024/06/04/stateofdecay-1595521281669-1662408473018-1717509269199.jpg",
+    "published_at": "2026-10-06T15:10:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e1eb3ce88b46",
+    "slug": "silver-pines-is-reviewing-exceptionally-well",
+    "headline": "Silver Pines Is Reviewing Exceptionally Well",
+    "summary": "Silver Pines has received high reviews, positioning it as one of the top games of 2026",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "xbox",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/silver-pines-is-reviewing-exceptionally-well-positioning-it-as-one-of-2026s-best-games"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/49a52e6861c2d/large.jpg",
+    "published_at": "2026-10-06T15:05:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "silver-pines",
+    "game_label": "Silver Pines"
+  },
+  {
+    "id": "5982070f6463",
+    "slug": "at-fates-end-delayed-to-2027-pc-demo-now-available",
+    "headline": "At Fate's End Delayed to 2027, PC Demo Now Available",
+    "summary": "Action-adventure game At Fate's End has been pushed back to 2027, with a playable PC demo now available",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/at-fates-end-delayed-to-2027-pc-demo-now-available"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/5982070f6463/800/600",
+    "published_at": "2026-10-06T15:03:04.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "at-fates-end",
+    "game_label": "At Fate's End"
+  },
+  {
     "id": "ee132457fbe8",
     "slug": "heres-what-valve-should-do-with-the-20-billion-its-making-this-year",
     "headline": "Here’s What Valve Should Do With The $20 Billion It’s Making This Year",
@@ -46,28 +380,166 @@
     "game_label": null
   },
   {
-    "id": "4e7daef2b4e6",
-    "slug": "gears-of-war-e-day-released",
-    "headline": "Gears of War: E-Day Released",
-    "summary": "Gears of War: E-Day is now available on Xbox Series X|S, PC, Game Pass, and Steam, marking the return of the iconic XBOX saga to its roots on Emergence Day.",
+    "id": "f838b16304a9",
+    "slug": "gears-of-war-e-day-surviving-the-first-night-of-emergence",
+    "headline": "Gears of War: E-Day – Surviving the First Night of Emergence",
+    "summary": "Today marks the worldwide launch of Gears of War: E-Day, now available on XBOX Series X|S, XBOX on PC, Game Pass and Steam. One of XBOX’s most iconic sagas returns to where it all began, taking players back to the opening hours of Emergence Day and the catastrophic event that changed the world of Sera […] The post Gears of…",
     "category": "releases",
     "platform_tags": [
-      "xbox",
-      "pc"
+      "pc",
+      "xbox"
     ],
     "sources": [
       {
         "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/10/06/gears-of-war-e-day-surviving-the-first-night-of-emergence/"
+        "url": "https://news.xbox.com/en-us/2026/10/06/gears-of-war-e-day-global-launch-tips-guide/"
       }
     ],
-    "image_url": "https://picsum.photos/seed/4e7daef2b4e6/800/600",
+    "image_url": "https://picsum.photos/seed/f838b16304a9/800/600",
+    "published_at": "2026-10-06T15:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7fa1f53a5552",
+    "slug": "mtg-x-star-trek-play-booster-preorders-get-discounted-ahead-of-launch",
+    "headline": "MTG x Star Trek Play Booster Preorders Get Discounted Ahead of Launch",
+    "summary": "Magic: The Gathering and Star Trek enthusiasts can snag preorders of the Play Booster set at a discounted price on Amazon Prime Day, about a month before its official launch.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/mtg-star-trek-booster-box-discount-prime-day"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/08/20/star-trek-boosters-on-sale-1787234785687.png",
+    "published_at": "2026-10-06T15:00:00.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "mtg-x-star-trek-play-booster",
+    "game_label": "MTG x Star Trek Play Booster"
+  },
+  {
+    "id": "2c84a2af70aa",
+    "slug": "dice-throne-nexus-final-hero-reveal",
+    "headline": "Dice Throne Nexus Final Hero Reveal",
+    "summary": "A new hero in Dice Throne Nexus has been revealed, boasting powerful abilities that make her a formidable opponent. Get a first look at the final hero before her release.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/tabletop-gaming/the-final-hero-for-dice-throne-nexus-is-an-absolute-menace-who-hacks-opponents-get-your-first-look-here/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ui2yaHrH3VnJSyJJeAHLL-1920-80.jpg",
     "published_at": "2026-10-06T15:00:00.000Z",
     "hype_signal": 80,
     "like_count": 0,
     "comment_count": 0,
-    "game": "gears-of-war-e-day",
-    "game_label": "Gears of War: E-Day"
+    "game": "dice-throne-nexus",
+    "game_label": "Dice Throne Nexus"
+  },
+  {
+    "id": "1ec8ccd61c5b",
+    "slug": "star-wars-galactic-racer-review",
+    "headline": "Star Wars: Galactic Racer Review",
+    "summary": "Rock Paper Shotgun reviews Star Wars Galactic Racer, calling it frenetically fun with an unforgiving streak.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-review-now-this-is-frenetically-fun-podracing-with-a-totally-unforgiving-streak"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/star-wars-galactic-racer-how-to-customize-vehicles/"
+      },
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/star-wars-galactic-racers-biggest-weakness-is-its-limited-multiplayer-and-its-already-getting-fixed"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/star-wars-galactic-racer-review-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-06T15:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "star-wars-galactic-racer",
+    "game_label": "Star Wars: Galactic Racer"
+  },
+  {
+    "id": "a582dc41933e",
+    "slug": "nintendo-switch-sports-resort-coming-to-switch-2",
+    "headline": "Nintendo Switch Sports Resort Coming to Switch 2",
+    "summary": "Nintendo is set to release a new version of Switch Sports, featuring classic games like bowling and tennis, on October 22 for the Switch 2 console.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/nintendo-switch-sports-resort-preview-switch-2/"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/round-up-the-final-previews-for-nintendo-switch-sports-resort-are-in"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/thumbnail12_powercruising.jpeg",
+    "published_at": "2026-10-06T15:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "switch-sports-resort",
+    "game_label": "Switch Sports Resort"
+  },
+  {
+    "id": "5a041e1bbb1b",
+    "slug": "star-wars-galactic-racers-now-free-to-play-on-amazon-luna",
+    "headline": "Star Wars: Galactic Racers Now Free to Play on Amazon Luna",
+    "summary": "Star Wars: Galactic Racers is now available for free on Amazon Luna, offering a free-to-play experience to Amazon Prime members.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/star-wars-galactic-racers-is-free-to-play-for-amazon-prime-members"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/05/before-playing-site-1791216976017.png",
+    "published_at": "2026-10-06T14:55:08.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "star-wars-galactic-racers",
+    "game_label": "Star Wars: Galactic Racers"
   },
   {
     "id": "f73b9efa4b98",
@@ -188,35 +660,6 @@
     "comment_count": 0,
     "game": "mafia-3",
     "game_label": "Mafia 3"
-  },
-  {
-    "id": "1ec8ccd61c5b",
-    "slug": "star-wars-galactic-racer-review",
-    "headline": "Star Wars: Galactic Racer Review",
-    "summary": "Rock Paper Shotgun reviews Star Wars Galactic Racer, calling it frenetically fun with an unforgiving streak.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-review-now-this-is-frenetically-fun-podracing-with-a-totally-unforgiving-streak"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/star-wars-galactic-racer-how-to-customize-vehicles/"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/star-wars-galactic-racer-review-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-06T14:26:46.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "star-wars-galactic-racer",
-    "game_label": "Star Wars: Galactic Racer"
   },
   {
     "id": "b8b624e4b912",
@@ -1244,38 +1687,6 @@
     "game_label": "End of Abyss"
   },
   {
-    "id": "3d5293d85a81",
-    "slug": "best-amazon-prime-oled-gaming-monitor-deals",
-    "headline": "Best Amazon Prime OLED Gaming Monitor Deals",
-    "summary": "Several Amazon Prime OLED gaming monitors are currently on sale, starting at $280 for the 1440p all-round option.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/gaming-monitors/these-are-two-of-the-very-best-amazon-prime-oled-gaming-monitor-deals-starting-at-usd280/"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/best-xbox-deals-amazon-prime-day-sale-october-2026/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/dRFKKnZvB9wgt7kEA3J9G9-1920-80.jpg",
-    "published_at": "2026-10-06T13:10:35.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
     "id": "7c472dba1a0f",
     "slug": "gta-6-interview-hints-at-theory-that-jason-is-neurodivergent",
     "headline": "GTA 6 Interview Hints At Theory That Jason Is Neurodivergent",
@@ -1299,29 +1710,6 @@
     "comment_count": 0,
     "game": "grand-theft-auto-6",
     "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "a582dc41933e",
-    "slug": "nintendo-switch-sports-resort-coming-to-switch-2",
-    "headline": "Nintendo Switch Sports Resort Coming to Switch 2",
-    "summary": "Nintendo is set to release a new version of Switch Sports, featuring classic games like bowling and tennis, on October 22 for the Switch 2 console.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/nintendo-switch-sports-resort-preview-switch-2/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/thumbnail12_powercruising.jpeg",
-    "published_at": "2026-10-06T13:01:16.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "switch-sports-resort",
-    "game_label": "Switch Sports Resort"
   },
   {
     "id": "5d3d27f57e11",
@@ -4339,351 +4727,5 @@
     "comment_count": 0,
     "game": "work-work-work",
     "game_label": "WORK WORK WORK"
-  },
-  {
-    "id": "b040587960be",
-    "slug": "the-elder-scrolls-shadows-of-oblivion-officially-confirmed-for-novembe",
-    "headline": "The Elder Scrolls: Shadows of Oblivion Officially Confirmed For November 2026",
-    "summary": "Bethesda confirms a new Elder Scrolls game, Shadows of Oblivion, for release in November 2026",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/elder-scrolls-heroes-of-tamriel-shadows-of-oblivion-board-game/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/elder-scrolls-heroes-of-tamriel-shadows-of-oblivion-board-game.jpg",
-    "published_at": "2026-10-05T17:00:15.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-elder-scrolls-shadows-of-oblivion",
-    "game_label": "The Elder Scrolls: Shadows of Oblivion"
-  },
-  {
-    "id": "90fbe67678ee",
-    "slug": "activision-reveals-detailed-look-at-modern-warfare-4s-extraction-mode",
-    "headline": "Activision Reveals Detailed Look at Modern Warfare 4's Extraction Mode",
-    "summary": "Activision shares in-depth details about the DMZ extraction mode in Call of Duty: Modern Warfare 4, highlighting new features and gameplay mechanics.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/activision-shows-deep-dive-for-modern-warfare-4s-dmz-extraction-mode/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/90fbe67678ee/800/600",
-    "published_at": "2026-10-05T17:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "call-of-duty-modern-warfare-4",
-    "game_label": "Call of Duty: Modern Warfare 4"
-  },
-  {
-    "id": "79714ad7167a",
-    "slug": "feature-gears-of-war-e-day-multiplayer-playing-horde-siege-and-versus",
-    "headline": "Feature: Gears Of War: E-Day (Multiplayer) - Playing Horde Siege And Versus Makes Me Feel Like A Kid Again",
-    "summary": "It's the most fun I've had with the series since Gears of War 2. Last week, Gears of War: E-Day launched into Premium Advanced Access, giving me the chance to get hands-on with the final builds of Versus and Horde Siege modes. Up until that point, my review access was strictly limited to E-Day's phenomenal campaign. If you haven't already…",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/features/gears-of-war-e-day-multiplayer-playing-horde-siege-and-versus-makes-me-feel-like-a-kid-again"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/1c04067b7defa/large.jpg",
-    "published_at": "2026-10-05T17:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ef26e9164a47",
-    "slug": "xbox-fanfest-comes-home-to-seattle",
-    "headline": "XBOX FanFest Comes Home to Seattle",
-    "summary": "XBOX FanFest is making a final stop in Seattle, where it all began, to celebrate 25 years of XBOX on November 15, before heading to its next destination",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/10/05/xbox-fanfest-seattle-25th-anniversary/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/ef26e9164a47/800/600",
-    "published_at": "2026-10-05T17:00:00.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "bfb3d0b6c661",
-    "slug": "another-major-ps5-game-will-be-delisted-in-october-2026",
-    "headline": "Another Major PS5 Game Will Be Delisted in October 2026",
-    "summary": "NBA 2K25 loses single player campaign in January 2027. Once again, I'm compiling all the upcoming delistings, server shutdowns, and general disruptions you should be aware of across PS5 and PS4 for October. This article was first published in September, but with all those delistings out of the way, let's now focus on what's left in October. Read the full…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/another-major-ps5-game-will-be-delisted-in-october-2026"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/1637dbc1664df/large.jpg",
-    "published_at": "2026-10-05T17:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3a5a48b91c08",
-    "slug": "motion-blur-vs-chromatic-aberration-the-final-showdown",
-    "headline": "Motion Blur vs Chromatic Aberration: The Final Showdown",
-    "summary": "A comparison of two graphical effects in games, motion blur and chromatic aberration, to determine which one is considered the worst. PC Gamer asks readers to decide.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/the-final-showdown-motion-blur-vs-chromatic-aberration/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/HxzHpZNtJNJpycmkyEopYZ-1920-80.png",
-    "published_at": "2026-10-05T16:51:44.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a228436155c1",
-    "slug": "hideo-kojima-wants-to-keep-od-a-mystery-even-by-his-standards",
-    "headline": "Hideo Kojima Wants To Keep OD A Mystery, Even By His Standards",
-    "summary": "Games developed by Hideo Kojima typically have an air of mystery, but for his upcoming horror project OD, the veteran game director wants to both terrify and mystify his fans. On a new episode of his weekly radio show Koji10, Kojima briefly spoke about the game, avoiding the release of teasers, and ensuring that players get a proper shock when…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/hideo-kojima-wants-to-keep-od-a-mystery-even-by-his-standards/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4545842-od-3.jpg?w=300",
-    "published_at": "2026-10-05T16:48:12.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "dc306b87f057",
-    "slug": "legendary-japanese-solid-snake-actor-wants-new-metal-gear-game-but-won",
-    "headline": "Legendary Japanese Solid Snake Actor Wants 'New Metal Gear Game', But 'Won't Do One Without Kojima'",
-    "summary": "Solid Snake's legendary Japanese actor is keen to return for a new game, though feels conflicted about any fresh entry without the involvement of creator Hideo Kojima.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/legendary-japanese-solid-snake-actor-wants-new-metal-gear-game-but-wont-do-one-without-kojima"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2025/08/29/snake-1756488499862.jpg",
-    "published_at": "2026-10-05T16:43:32.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ae33eae49b4f",
-    "slug": "developer-gets-a-little-too-silly-recommends-deadly-psychoactive-ingre",
-    "headline": " Developer gets a little too silly, recommends deadly psychoactive ingredient in its bad boy-themed cocktail ",
-    "summary": "Maybe a little *too* bad, LaDS?",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/adventure/developer-gets-a-little-too-silly-recommends-deadly-psychoactive-ingredient-in-its-bad-boy-themed-cocktail/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/fKVVfHok4BP9CEeVQ5mh7n-1920-80.png",
-    "published_at": "2026-10-05T16:38:23.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c1d0621d038f",
-    "slug": "noematica-a-lucid-dreamers-n-dimensional-sims-inspired-game",
-    "headline": "Noematica: A Lucid Dreamer's 'N-Dimensional' Sims-Inspired Game",
-    "summary": "Noematica is a new game inspired by The Sims, promising to never release DLC. It's described as a 'n-dimensional' experience with a unique twist.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/noematica-is-a-lucid-dreamers-n-dimensional-take-on-the-sims-that-proudly-boasts-it-will-never-ever-gouge-you-for-dlc"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/noematica.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-05T16:37:44.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "noematica",
-    "game_label": "Noematica"
-  },
-  {
-    "id": "dc469c0e3be2",
-    "slug": "god-packs-officially-coming-to-mtg",
-    "headline": "God Packs Officially Coming To MTG",
-    "summary": "Magic: The Gathering is introducing God packs in 2027, bringing significant changes to booster packs, including new structures.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/magic-the-gathering-booster-changes-revealed/"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/god-packs-are-officially-coming-to-magic-the-gathering"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/an-image-of-the-artwork-from-esika-of-the-god-tree-from-mtg.jpg",
-    "published_at": "2026-10-05T16:35:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6ba16bacb5b2",
-    "slug": "how-is-a-game-like-gta-6-actually-made-heres-how-rockstar-gets-it-done",
-    "headline": "How Is A Game Like GTA 6 Actually Made? Here’s How Rockstar Gets It Done",
-    "summary": "Rockstar's Grand Theft Auto 6 is one of the most highly anticipated game releases this year, or ever. The franchise is known for its massive scope and impressive attention to detail, but how is a game like GTA 6 actually made? In a new interview with Love magazine (via Kotaku), Rockstar North boss Rob Nelson said that part of the…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/how-is-a-game-like-gta-6-actually-made-heres-how-rockstar-gets-it-done/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Jason_Duval_03_a6b7f7.jpg?w=300",
-    "published_at": "2026-10-05T16:32:43.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3bb9fb9ef01e",
-    "slug": "wow-forever-fan-beats-blizzard-to-punch-builds-add-on-that-catches-rea",
-    "headline": "WoW Forever Fan Beats Blizzard to Punch, Builds Add-On That Catches Real-Money Trades",
-    "summary": "A WoW Forever fan created an add-on that allows players to buy and sell in-game items for real money, bypassing Blizzard's anti-gold trade policies.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/world-of-warcraft/wow-forever-player-beats-blizzard-to-the-punch-builds-add-on-that-catches-real-money-trading-on-the-spot/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/5GsU3ySoYbPqmrPvKyF69B-1920-80.jpg",
-    "published_at": "2026-10-05T16:30:33.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "wow-forever",
-    "game_label": "WoW Forever"
-  },
-  {
-    "id": "9d478f764bb9",
-    "slug": "new-official-74999-gran-turismo-7-release-confirmed-for-december-2026",
-    "headline": "New Official $749.99 Gran Turismo 7 Release Confirmed for December 2026",
-    "summary": "The two-part Spec IV is not the only new thing coming to Gran Turismo 7, as the game is set to receive a brand-new $750 release in 2026.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gran-turismo-7-thrustmaster-steering-wheel-2026/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/gran-turismo-7-official-new-steering-wheel-announced-t-gt-3-gamerant.jpg",
-    "published_at": "2026-10-05T16:30:13.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2ff46b950d1c",
-    "slug": "runescape-developer-jagex-takes-down-trailer-to-investigate-urgently-a",
-    "headline": "RuneScape Developer Jagex Takes Down Trailer To ‘Investigate Urgently’ After Generative AI Accusations",
-    "summary": "'We don’t use GenAI to create our games, artwork or creative assets, and will not knowingly allow it to be used on our behalf'",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/runescape-developer-jagex-takes-down-trailer-gen-ai-2000739980"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/dragon-slayer-2-1280x719.jpg",
-    "published_at": "2026-10-05T16:30:05.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
