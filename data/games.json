@@ -19379,5 +19379,89 @@
     "screenshots": [],
     "stores": [],
     "fetched_at": "2026-10-06T13:07:23.607Z"
+  },
+  {
+    "slug": "mafia-3",
+    "name": "Mafia III",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/a34/a348e613424260bc7e034fb6031c762e.jpg",
+    "released": "2016-10-06",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/dfd/dfd4e64d3b16a0d76411df778c7f8fec.jpg",
+      "https://media.rawg.io/media/screenshots/59c/59cbaae0dcee4c8ab74b237003ddf97b.jpg",
+      "https://media.rawg.io/media/screenshots/010/01067a94444b7f07c6a70616524d3e1d.jpg",
+      "https://media.rawg.io/media/screenshots/a27/a27b181aee7e7b6e10f42de8afa76f88.jpg",
+      "https://media.rawg.io/media/screenshots/8f0/8f07c313e052c5493594e38453e6a8ff.jpg",
+      "https://media.rawg.io/media/screenshots/028/0289967bdb6f8c163ed378a8fc28c937.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-06T14:37:54.600Z"
+  },
+  {
+    "slug": "halo-7",
+    "name": "Halo: Reach",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/045/0457f748c9492261ccb46147edf9c761.jpg",
+    "released": "2010-09-14",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Xbox 360"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/36e/36e2b35282b7a413dae48789ffbd6651.jpg",
+      "https://media.rawg.io/media/screenshots/b36/b3652fd9a223a6ed95a1d933ff181425.jpg",
+      "https://media.rawg.io/media/screenshots/395/3951c9f13e83cd74d794469a67659280.jpg",
+      "https://media.rawg.io/media/screenshots/14f/14f906f9dcaadd50251bd87bdfaa3c2e.jpg",
+      "https://media.rawg.io/media/screenshots/8ff/8ffa358080ab334f572387681cc86ae5.jpg",
+      "https://media.rawg.io/media/screenshots/2a8/2a86a45da621293cb0a28bcf69d2aee6.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-06T14:37:55.072Z"
+  },
+  {
+    "slug": "modern-warships",
+    "name": "Modern Warships",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/ec8/ec81659d1aebe46c0edc441a78678ada.jpg",
+    "released": "2020-12-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Massively Multiplayer",
+      "Action",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC",
+      "iOS",
+      "Android"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/56c/56cf5f76d746d174b0b3f514a770a516.jpg",
+      "https://media.rawg.io/media/screenshots/387/387ec30e0bfd1b15e912c6c80c971dcc.jpg",
+      "https://media.rawg.io/media/screenshots/7b5/7b5e49c402080f9bb024bcebd085ef14.jpg",
+      "https://media.rawg.io/media/screenshots/b4e/b4e63386b220670b52d11f1c0618d9b3.jpg",
+      "https://media.rawg.io/media/screenshots/479/4799a05b216ff30f16950f83be8afe0c.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-06T14:37:56.815Z"
   }
 ]
