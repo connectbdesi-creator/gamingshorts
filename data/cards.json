@@ -1,5 +1,126 @@
 [
   {
+    "id": "ee132457fbe8",
+    "slug": "heres-what-valve-should-do-with-the-20-billion-its-making-this-year",
+    "headline": "Here’s What Valve Should Do With The $20 Billion It’s Making This Year",
+    "summary": "There are so many ways Steam could work better for the developers that generate the profit",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/valve-steam-20-billion-dollars-reviews-30-percent-cut-gabe-newell-2000739297"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/10/steam-money-1280x720.jpg",
+    "published_at": "2026-10-06T15:00:47.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6189f1b76a36",
+    "slug": "after-15-years-lord-of-the-rings-game-gets-physical-ps5-discs",
+    "headline": "After 15 Years, Lord of the Rings Game Gets Physical PS5 Discs",
+    "summary": "A Lord of the Rings game from the early 2010s gets a surprise physical re-release, bringing PlayStation 5 discs back into the picture.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/ps5-tlotr-war-in-the-north-physical-disc-announce/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/the-lord-of-the-ring-war-in-the-north-console-physical-release-gamernat.jpg",
+    "published_at": "2026-10-06T15:00:13.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "4e7daef2b4e6",
+    "slug": "gears-of-war-e-day-released",
+    "headline": "Gears of War: E-Day Released",
+    "summary": "Gears of War: E-Day is now available on Xbox Series X|S, PC, Game Pass, and Steam, marking the return of the iconic XBOX saga to its roots on Emergence Day.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/10/06/gears-of-war-e-day-surviving-the-first-night-of-emergence/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/4e7daef2b4e6/800/600",
+    "published_at": "2026-10-06T15:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gears-of-war-e-day",
+    "game_label": "Gears of War: E-Day"
+  },
+  {
+    "id": "f73b9efa4b98",
+    "slug": "new-mmo-aion-2-soars-on-steam-with-nearly-400000-concurrent-players-de",
+    "headline": " New MMO Aion 2 soars on Steam with nearly 400,000 concurrent players despite \"Mixed\" reviews ",
+    "summary": "Folks aren't happy with the new game's \"extremely predatory monetization\"",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/mmo/new-mmo-aion-2-soars-on-steam-with-nearly-400-000-concurrent-players-despite-mixed-reviews-grilling-ai-slop-and-pay-to-win-shop/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/b9EawiCPTHLMyvSDLSUnFY-1920-80.jpg",
+    "published_at": "2026-10-06T14:41:50.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "75f81453d51b",
+    "slug": "segas-sonic-discord-server-fiasco",
+    "headline": "Sega's Sonic Discord server fiasco",
+    "summary": "Sega has created an official Sonic Discord server, but it's already been plagued by controversy, including a user claiming the game's next installment will feature a pregnant Sonic",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/sonic-the-hedgehog/sega-decides-an-official-sonic-discord-server-is-a-good-idea-is-quickly-proven-wrong-sonic-pregnant/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/HPjdqyremKXH66REb4eJPk-1920-80.jpg",
+    "published_at": "2026-10-06T14:35:07.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "df5cb1b2eb5e",
     "slug": "undead-labs-to-test-state-of-decay-3-on-pc-before-2026",
     "headline": "Undead Labs to Test State of Decay 3 on PC Before 2026",
@@ -21,6 +142,29 @@
     "comment_count": 0,
     "game": "state-of-decay-3",
     "game_label": "State of Decay 3"
+  },
+  {
+    "id": "7cbb8058aa17",
+    "slug": "claim-two-major-ps4-games-for-free-right-now-in-europe-no-ps-plus-requ",
+    "headline": "Claim Two Major PS4 Games for Free Right Now in Europe, No PS Plus Required",
+    "summary": "Get Call of Duty: WWII and Mafia 3 for free. Mafia 3 and all of its associated DLC is currently available for free on the PS Store in several countries, with no PS Plus required. You can get it through here. Fans have also noticed that Call of Duty: WWII is also available at no extra cost in several countries,…",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/claim-two-major-ps4-games-for-free-right-now-in-europe-no-ps-plus-required"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/cab6572d6494b/large.jpg",
+    "published_at": "2026-10-06T14:30:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "b141fa79a35c",
@@ -4536,144 +4680,6 @@
     ],
     "image_url": "https://kotaku.com/app/uploads/2026/10/dragon-slayer-2-1280x719.jpg",
     "published_at": "2026-10-05T16:30:05.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5140ca506a98",
-    "slug": "i-wanted-to-challenge-myself-former-warioware-director-talks-life-afte",
-    "headline": "\"I Wanted To Challenge Myself\" - Former WarioWare Director Talks Life After Nintendo",
-    "summary": "Wario Where? Earlier this year, Nintendo veteran and WarioWare legend Goro Abe announced that he was leaving the company and taking up a teaching post at the Osaka Electro-Communication University. Roughly seven months on, VGC got the chance to chat with the dev about his post-Nintendo life, and, rather expectedly, games are still very much on his mind. “Making games…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/10/i-wanted-to-challenge-myself-former-warioware-director-talks-life-after-nintendo"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/67af0862235a4/large.jpg",
-    "published_at": "2026-10-05T16:30:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8647231059dd",
-    "slug": "hideo-kojima-teases-upcoming-game",
-    "headline": "Hideo Kojima Teases Upcoming Game",
-    "summary": "Hideo Kojima has stated that he wants to release his upcoming game without revealing too much information",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/action/why-is-hideo-kojima-so-quiet-about-od-this-time-i-dont-want-to-reveal-much-says-metal-gear-and-death-stranding-mastermind/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/baHdtSs8sLFHyKyuPNr4hR-1920-80.jpg",
-    "published_at": "2026-10-05T16:29:42.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "od",
-    "game_label": "OD"
-  },
-  {
-    "id": "1052d4fdd87e",
-    "slug": "bill-skarsgard-to-star-in-hideo-kojimas-physint",
-    "headline": "Bill Skarsgard to Star in Hideo Kojima's Physint",
-    "summary": "Bill Skarsgard is set to star in Hideo Kojima's upcoming game Physint, which is being developed as a spiritual successor to Metal Gear Solid.",
-    "category": "deals",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/how-bill-skarsgard-became-the-face-of-hideo-kojimas-physint/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Skarsgard-Boy-Kills-World.jpg?w=300",
-    "published_at": "2026-10-05T16:26:40.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "physint",
-    "game_label": "Physint"
-  },
-  {
-    "id": "8f9966c9d234",
-    "slug": "dd-world-of-warcraft-translation-sounds-promising",
-    "headline": "D&D: World of Warcraft Translation Sounds Promising",
-    "summary": "The upcoming Dungeons & Dragons book adaptation of World of Warcraft aims to capture the essence of the game without altering its core identity. It will include key elements like races, dungeons, and characters, but won't fundamentally change its nature.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/dungeons-and-dragons-dnd-world-of-warcraft-wow-book"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/sylvanas-wow-d%26d-book.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-05T16:25:19.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "dungeons-dragons-world-of-warcraft",
-    "game_label": "Dungeons & Dragons: World of Warcraft"
-  },
-  {
-    "id": "80c86e146b4e",
-    "slug": "classic-board-games-are-dropping-to-all-time-low-prices-ahead-of-amazo",
-    "headline": "Classic Board Games Are Dropping to All-Time Low Prices Ahead of Amazon's Prime Day Sale ",
-    "summary": "Classic Board Games Are Dropping to All-Time Low Prices Ahead of Amazon's Prime Day Sale",
-    "category": "deals",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/best-board-game-deals-amazon-october-prime-day-2026"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/05/primeboardgames-1791216360353.jpg",
-    "published_at": "2026-10-05T16:23:36.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c4b37b68a35c",
-    "slug": "how-shopping-around-before-you-buy-can-save-you-a-boatload-on-games",
-    "headline": "How Shopping Around Before You Buy Can Save You A Boatload On Games",
-    "summary": "Shopping savvy instead of buying new releases the first place you see them could save you a lot of money, and it’s easier than you might think.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/save-money-on-games-shopping-around-loaded/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/loaded-cover2.jpg",
-    "published_at": "2026-10-05T16:21:22.000Z",
     "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
