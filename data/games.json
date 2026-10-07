@@ -19922,5 +19922,34 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-07T14:09:51.774Z"
+  },
+  {
+    "slug": "final-fantasy-7",
+    "name": "Final Fantasy VII",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/d89/d89bd0cf4fcdc10820892980cbba0f49.jpg",
+    "released": "2020-04-10",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/544/5446711a9711031d937134d0e8040a06.jpg",
+      "https://media.rawg.io/media/screenshots/b5d/b5d7f11c81bb76c16b2d82328875f3d0.jpg",
+      "https://media.rawg.io/media/screenshots/eae/eae67ac6787641e0cadcfe1f854c015a.jpg",
+      "https://media.rawg.io/media/screenshots/0eb/0ebeaf82965655f37a71c446263efce5.jpg",
+      "https://media.rawg.io/media/screenshots/96d/96da5da8a2ae31624d70de21f3b9ea64.jpg",
+      "https://media.rawg.io/media/screenshots/281/28166327e5932bb0241a59474bea4dfe.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-07T14:38:31.249Z"
   }
 ]
