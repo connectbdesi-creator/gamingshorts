@@ -19980,5 +19980,34 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-07T15:39:25.091Z"
+  },
+  {
+    "slug": "screamer",
+    "name": "Screamer (1995)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/c9d/c9dd22612f579362d523fde91420fda3.jpg",
+    "released": "1995-10-30",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Racing",
+      "Action",
+      "Simulation",
+      "Sports"
+    ],
+    "platforms": [
+      "PC",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f89/f898103defac12c0b6dd3c72b49d198f.jpg",
+      "https://media.rawg.io/media/screenshots/eea/eeacd7e4ebc2b776f6fe256077881a95.jpg",
+      "https://media.rawg.io/media/screenshots/74d/74d86e227bf745e73535d01020289822.jpg",
+      "https://media.rawg.io/media/screenshots/fdc/fdc565aa7589bc7b7d6c63cfbb891ec1.jpg",
+      "https://media.rawg.io/media/screenshots/34e/34e18d16bf3513c7503e0728cba0b588.jpg",
+      "https://media.rawg.io/media/screenshots/635/6351870827e2903d65637c7c8774f4b6.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-07T16:07:54.337Z"
   }
 ]
