@@ -1,5 +1,387 @@
 [
   {
+    "id": "5503c3225d43",
+    "slug": "annihilated-launches-november-10",
+    "headline": "Annihilated Launches November 10",
+    "summary": "PC RPG Annihilated is set to launch on November 10, but a release date for other platforms is not specified.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/annihilated-launches-november-10"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/5503c3225d43/800/600",
+    "published_at": "2026-10-07T14:01:26.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "annihilated",
+    "game_label": "Annihilated"
+  },
+  {
+    "id": "158fb1b2dbaa",
+    "slug": "paramount-games-studio-and-wb-games-to-merge-under-skydance",
+    "headline": "Paramount Games Studio and WB Games to Merge Under Skydance",
+    "summary": "Paramount Games Studio and Warner Bros. Games are merging to form a new unit under Skydance, with Tony Driscoll overseeing the operation. The deal is valued at $111 billion.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/paramount-games-studio-and-wb-games-merge-under-skydance-following-completion-of-111bn-acquisition"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/paramount-wb.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-07T14:00:22.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a3743d332286",
+    "slug": "annapurnas-new-game-is-the-most-annapurna-game-of-all-time",
+    "headline": "Annapurna's New Game Is the Most Annapurna Game of All Time",
+    "summary": "Forever Ago, Annapurna Interactive's latest game, is a sentimental adventure that explores themes of love, loss, and nostalgia. The game's emotional depth is matched by its technical proficiency, making it a standout experience.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/forever-ago-review/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/forever-ago-preview-4.jpg",
+    "published_at": "2026-10-07T14:00:16.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "forever-ago",
+    "game_label": "Forever Ago"
+  },
+  {
+    "id": "b8afd56271ef",
+    "slug": "new-open-world-steam-game-inspired-by-death-stranding-and-studio-ghibl",
+    "headline": "New Open-World Steam Game Inspired by Death Stranding and Studio Ghibli",
+    "summary": "A new open-world game on Steam draws inspiration from Death Stranding and Studio Ghibli's works, offering a unique blend of post-apocalyptic and fantasy elements.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/steam-new-open-world-games-like-death-stranding-into-the-wind/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/steam-new-game-like-death-stranding-cozy-into-the-wind-gamerant.jpg",
+    "published_at": "2026-10-07T14:00:13.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "edc85f2a7edb",
+    "slug": "how-to-run-an-indie-game-studio-part-2-defining-your-future",
+    "headline": "How to run an indie game studio: Part 2, Defining your future",
+    "summary": "Last week, we established what a studio is, and how understanding its core components can help you find your studio's purpose. This week, we're going to start on the FIRM framework proper, starting with the first pillar, which concerns your studio's future. Because the next most important question after \"why do we exist?\" is \"where are we going?\"\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-2-defining-your-future"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/firm-framework.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-07T14:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "784a917be33b",
+    "slug": "undead-labs-speaks-about-its-split-from-xbox-revealing-it-has-to-make",
+    "headline": "Undead Labs speaks about its split from Xbox, revealing it has to \"make some changes\" to State of Decay 3 following layoffs",
+    "summary": "State of Decay studio Undead Labs has spoken out after rebuying its independence and leaving Xbox last month, revealing it has \"got to make some changes\" to State of Decay 3 because of layoffs it suffered as a result.\n Read more",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/undead-labs-xbox-layoffs-state-of-decay-3"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/state-of-decay-3_awci8wM.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-07T13:56:05.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "01c6d344512b",
+    "slug": "state-of-decay-3-was-announced-early-to-keep-undead-labs-on-microsofts",
+    "headline": "State of Decay 3 Was Announced Early to Keep Undead Labs on Microsoft's Radar",
+    "summary": "State of Decay 3 developer Undead Labs has become an independent, employee-owned studio after leaving Xbox Game Studios. The game was announced in 2020 to keep the project and studio on Microsoft's radar during an acquisition spree.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/state-of-decay-3-was-announced-early-to-keep-undead-labs-on-microsofts-radar/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/State-of-Decay-3.jpg?w=300",
+    "published_at": "2026-10-07T13:54:47.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "state-of-decay-3",
+    "game_label": "State of Decay 3"
+  },
+  {
+    "id": "aa874eab45eb",
+    "slug": "marvels-wolverine-update-adds-highly-requested-features",
+    "headline": "Marvel's Wolverine Update Adds Highly Requested Features",
+    "summary": "Marvel's Wolverine continues to receive updates with new features added by Insomniac, addressing fan requests.",
+    "category": "patches",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/marvels-wolverine-october-6-update-patch-notes/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/marvels-wolverine-scent-trail-update.jpg",
+    "published_at": "2026-10-07T13:50:21.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "marvels-wolverine",
+    "game_label": "Marvel's Wolverine"
+  },
+  {
+    "id": "c0934e280b4b",
+    "slug": "call-of-duty-modern-warfare-4s-dmz-mode-leaves-players-confused",
+    "headline": "Call of Duty: Modern Warfare 4's DMZ Mode Leaves Players Confused",
+    "summary": "Call of Duty: Modern Warfare 4 has released a series of DMZ trailers that have sparked confusion among players about the existence of a PvE-only mode in the game's popular battle royale mode.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-pve-trailers-discussion"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/modern-warfare-dmz-rose-edit.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-07T13:46:53.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "call-of-duty-modern-warfare-4",
+    "game_label": "Call of Duty: Modern Warfare 4"
+  },
+  {
+    "id": "2b28229312e9",
+    "slug": "best-rts-unit-of-all-time",
+    "headline": "Best RTS Unit of All Time",
+    "summary": "PC Gamer is asking readers to vote for the best Real-Time Strategy unit of all time, with several popular options in contention.",
+    "category": "esports",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rts/quarterfinals-vote-for-the-best-rts-unit-of-all-time/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/HN7HHkkaXptVvVdZrLXrXg-1920-80.jpg",
+    "published_at": "2026-10-07T13:45:34.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9538d396e4ca",
+    "slug": "uk-retailer-lists-theatrhythm-final-fantasy-sticker-set-at-499",
+    "headline": "UK Retailer Lists Theatrhythm Final Fantasy Sticker Set at $499",
+    "summary": "A UK retailer has listed a Theatrhythm Final Fantasy sticker set at an excessive price of $499, sparking discussion about the value of merchandise",
+    "category": "deals",
+    "platform_tags": [
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/random-uk-retailer-lists-theatrhythm-sticker-set-for-a-whopping-usd499"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/0e3757e350a02/large.jpg",
+    "published_at": "2026-10-07T13:45:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "theatrhythm-final-fantasy",
+    "game_label": "Theatrhythm Final Fantasy"
+  },
+  {
+    "id": "056a415851ee",
+    "slug": "biggest-discounts-on-pc-hardware-spotted-this-prime-day",
+    "headline": "Biggest Discounts on PC Hardware Spotted This Prime Day",
+    "summary": "PC gamers can snag significant discounts on various PC hardware products during Prime Day, with some deals offering up to 25% savings.",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/the-biggest-discounts-on-pc-hardware-that-weve-spotted-this-prime-day/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/F7ZdXEUwuYCVKXcp5r4ubV-1920-80.jpg",
+    "published_at": "2026-10-07T13:42:30.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "742dce1a5a3b",
+    "slug": "my-horror-that-32gb-ram-has-become-the-norm-is-exceeded-only-by-my-con",
+    "headline": "My horror that 32GB RAM has become the norm is exceeded only by my contempt that 7.28% of you have over 4TB free hard drive space",
+    "summary": "This week, Steam published another one of their monthly hardware surveys, offering a granular market assessment based on optional and anonymous contributions. I don't read a lot of these. Perhaps if I did, I'd be less shocked to discover that 32GB is now the most popular RAM setup, with 42.22% of respondents choosing it, as against 37.82% for 16GB configurations,…",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/my-horror-that-32gb-ram-has-become-the-norm-is-exceeded-only-by-my-contempt-that-728-of-you-have-over-4tb-free-hard-drive-space"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-07-142440.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-07T13:40:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0488acc50894",
+    "slug": "order-of-the-sinking-star-heroes-3-bard-druid-puzzle-solutions",
+    "headline": "Order of the Sinking Star: Heroes 3 Bard, Druid Puzzle Solutions",
+    "summary": "The article provides solutions for 24 puzzles in Heroes 3: Bard, Druid, the fourth screen in the north world.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/order-of-the-sinking-star-heroes-3-bard-druid-puzzle-solutions/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/order-of-the-sinking-star-heroes-3-bard-druid.jpg",
+    "published_at": "2026-10-07T13:38:46.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "heroes-3-bard-druid",
+    "game_label": "Heroes 3: Bard, Druid"
+  },
+  {
+    "id": "c45047b611d6",
+    "slug": "order-of-the-sinking-star-heroes-2-monsters-puzzle-solutions",
+    "headline": "Order of the Sinking Star: Heroes 2 Monsters Puzzle Solutions",
+    "summary": "Game Rant shares solution guides for all 30 puzzles in Heroes 2: Monsters, a puzzle game within Order of the Sinking Star, to aid players in progress.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/order-of-the-sinking-star-heroes-2-monsters-puzzle-solutions/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/order-of-the-sinking-star-heroes-2-monsters.jpg",
+    "published_at": "2026-10-07T13:34:59.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "heroes-2-monsters",
+    "game_label": "Heroes 2: Monsters"
+  },
+  {
+    "id": "50c1182a3113",
+    "slug": "overwatch-devs-reassure-fans-sombras-hack-will-be-loved",
+    "headline": "Overwatch Devs Reassure Fans Sombra's Hack Will Be Loved",
+    "summary": "Overwatch designer Scott Kennedy promises Sombra's Hack ability will be enjoyed by players, not just removed",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/fps/overwatch-devs-know-removing-sombras-hack-ability-will-upset-players-but-insist-the-reworked-support-hero-will-be-better-for-the-game/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/euZvFKTSxhCBauxXLjJHzS-1920-80.jpg",
+    "published_at": "2026-10-07T13:33:17.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "sombra",
+    "game_label": "Sombra"
+  },
+  {
     "id": "b42542b3df63",
     "slug": "when-is-forza-horizon-6-coming-to-ps5-a-reliable-leaker-claims-to-fina",
     "headline": "When Is Forza Horizon 6 Coming To PS5? A Reliable Leaker Claims To Finally Know The Answer",
@@ -44,6 +426,29 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "ef81082e8006",
+    "slug": "state-of-decay-3-to-launch-on-game-pass-despite-studios-departure-from",
+    "headline": "State of Decay 3 to Launch on Game Pass Despite Studio's Departure from Xbox",
+    "summary": "State of Decay 3 developer Undead Labs is leaving Xbox Game Studios, but the game will still be released on Game Pass as a day one title in 2027.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/state-of-decay-3-dev-explains-why-itll-be-on-game-pass-despite-the-company-leaving-xbox"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/12782f7899663/large.jpg",
+    "published_at": "2026-10-07T13:30:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "state-of-decay-3",
+    "game_label": "State of Decay 3"
   },
   {
     "id": "ddd787e8575d",
@@ -493,6 +898,27 @@
     "game_label": "Dragon Slayer 2"
   },
   {
+    "id": "5cb6aaed65ee",
+    "slug": "mounting-evidence-says-sony-really-is-accepting-game-pitches-on-fan-fa",
+    "headline": "Mounting Evidence Says Sony Really Is 'Accepting Game Pitches' on Fan Fave Franchises",
+    "summary": "Killzone! Ape Escape! Sly Cooper! A recognised leaker who previously outed the existence of Metroidvania spin-off God of War: Sons of Sparta says Sony is “accepting multiple game pitches” for projects inspired by fan favourite franchises. Recently there’s been an uptick in rumours related to legacy series, like Killzone, which is purportedly in production at People Can Fly under the…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/mounting-evidence-says-sony-really-is-accepting-game-pitches-on-fan-fave-franchises"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/ef3f3518d0d25/large.jpg",
+    "published_at": "2026-10-07T12:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "93dcb55c19d2",
     "slug": "gta-6-the-big-interview",
     "headline": "GTA 6: The Big Interview",
@@ -678,6 +1104,50 @@
     "game_label": null
   },
   {
+    "id": "4d2eee7ee4aa",
+    "slug": "xbox-secures-exclusive-streaming-deal-for-gta-6-at-launch",
+    "headline": "Xbox Secures Exclusive Streaming Deal for GTA 6 at Launch",
+    "summary": "Xbox has reportedly secured exclusive streaming rights to GTA 6, possibly making the game playable on PC at launch via the cloud.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/xbox-lands-exclusive-streaming-rights-for-gta-6-at-launch-2000741146"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/xbox-reportedly-secures-exclusive-cloud-streaming-rights-to-gta-6-could-make-game-playable-on-pc-at-launch"
+      },
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/report-xbox-lands-exclusive-streaming-deal-for-gta-6-at-launch"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-xbox-exclusive-streaming-rights/"
+      },
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/xbox-denies-landing-exclusive-streaming-deal-for-gta-6-at-launch"
+      },
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/confusion-as-erroneous-reports-claim-xbox-has-exclusive-gta-6-cloud-streaming-rights"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/17/gta-6-soundtrack-1789662158949.jpg",
+    "published_at": "2026-10-07T12:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
     "id": "4af973374f77",
     "slug": "someone-used-ai-to-make-minecraft-playable-inside-twitter-with-working",
     "headline": "Someone Used AI to Make Minecraft Playable Inside Twitter With Working Multiplayer, and Immediately Sold Sponsorships via Crypto",
@@ -692,6 +1162,30 @@
     ],
     "image_url": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg",
     "published_at": "2026-10-07T11:59:07.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9671c9ec49be",
+    "slug": "pragmata-drops-to-lowest-price-ever-on-switch-2-and-xbox-for-prime-day",
+    "headline": "Pragmata Drops to Lowest Price Ever on Switch 2 and Xbox for Prime Day",
+    "summary": "Capcom's acclaimed sci-fi action game Pragmata is down to $39.99 on Nintendo Switch 2 and Xbox during Amazon Prime Big Deal Days. Save $20 before the deal expires at the end of the day on October 7.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/pragmata-prime-day-best-deal-ps5-switch"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/04/15/prag-things-oo2-1776284768291.jpg",
+    "published_at": "2026-10-07T11:51:09.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -821,6 +1315,33 @@
     "comment_count": 0,
     "game": "boruto",
     "game_label": "Boruto"
+  },
+  {
+    "id": "52301cb7c3a7",
+    "slug": "prime-day-pokemon-deals-on-gift-shaped-items",
+    "headline": "Prime Day Pokemon Deals on Gift-Shaped Items",
+    "summary": "Pokémon fans can find deals on gift-shaped items on Prime Day, making it an ideal time to gift the franchise to friends and family",
+    "category": "deals",
+    "platform_tags": [
+      "mobile",
+      "switch",
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/pokemon/ive-hunted-down-my-fave-pokemon-prime-day-deals-under-usd50-that-make-for-perfect-gifts-or-for-yourself-i-wont-judge/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Q6oz9oG5jMXypa7mKytJFa-1920-80.jpg",
+    "published_at": "2026-10-07T11:25:07.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pokemon",
+    "game_label": "Pokémon"
   },
   {
     "id": "b288b621e91b",
@@ -1130,6 +1651,33 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "3e53a7ed0698",
+    "slug": "elden-ring-actor-used-elden-ring-to-cope-with-anxiety",
+    "headline": "Elden Ring Actor Used Elden Ring to Cope with Anxiety",
+    "summary": "Elden Ring actor Tom Rhys Harries credits the game with helping him manage his anxiety during screen testing for a DC Comics project",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/dc-movies/clayface-star-worked-through-his-anxiety-during-screen-testing-by-playing-elden-ring-for-three-months/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Spvbsfoece548NEFxum7ci-1920-80.jpg",
+    "published_at": "2026-10-07T10:46:40.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "elden-ring",
+    "game_label": "Elden Ring"
   },
   {
     "id": "6553386218ed",
@@ -1721,46 +2269,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "4d2eee7ee4aa",
-    "slug": "xbox-secures-exclusive-streaming-deal-for-gta-6-at-launch",
-    "headline": "Xbox Secures Exclusive Streaming Deal for GTA 6 at Launch",
-    "summary": "Xbox has reportedly secured exclusive streaming rights to GTA 6, possibly making the game playable on PC at launch via the cloud.",
-    "category": "deals",
-    "platform_tags": [
-      "xbox",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/xbox-lands-exclusive-streaming-rights-for-gta-6-at-launch-2000741146"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/xbox-reportedly-secures-exclusive-cloud-streaming-rights-to-gta-6-could-make-game-playable-on-pc-at-launch"
-      },
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/10/report-xbox-lands-exclusive-streaming-deal-for-gta-6-at-launch"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-xbox-exclusive-streaming-rights/"
-      },
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/10/xbox-denies-landing-exclusive-streaming-deal-for-gta-6-at-launch"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/17/gta-6-soundtrack-1789662158949.jpg",
-    "published_at": "2026-10-07T07:30:18.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "35778487ad13",
@@ -4216,502 +4724,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "ce2eb7a1319d",
-    "slug": "final-fantasy-games-50-off-during-prime-big-deal-days",
-    "headline": "Final Fantasy Games 50% Off During Prime Big Deal Days",
-    "summary": "Amazon is offering discounts on several Final Fantasy games, including Final Fantasy 7 Remake Intergrade and Final Fantasy 7 Rebirth, during its Prime Big Deal Days sale.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/final-fantasy-prime-big-deal-days-discount-rebirth"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/06/final-fantasy-prime-day-deals-1791298275483.jpg",
-    "published_at": "2026-10-06T15:59:29.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "final-fantasy-7-remake-intergrade",
-    "game_label": "Final Fantasy 7 Remake Intergrade"
-  },
-  {
-    "id": "d63c32c86a3d",
-    "slug": "call-of-dutys-richtofen-actor-wants-him-to-come-back-says-2027s-cod-co",
-    "headline": "Call Of Duty’s Richtofen Actor Wants Him To Come Back, Says 2027’s CoD Could Be From Sledgehammer",
-    "summary": "Veteran video game actor Nolan North has addressed his future in the Call of Duty series, saying he hopes to reprise his character Dr. Edward Richtofen from Black Ops' popular Zombies mode. If this does happen, it probably won't be soon. That's because, North said he believes 2027's Call of Duty game might be developed by Sledgehammer. Given that, a…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/call-of-dutys-richtofen-actor-wants-him-to-come-back-says-2027s-cod-could-be-from-sledgehammer/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/richtofen-Large.jpeg?w=300",
-    "published_at": "2026-10-06T15:57:26.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6afa4883dd5b",
-    "slug": "solo-horror-dev-makes-a-creepy-connection-to-a-real-haunted-island-in",
-    "headline": "Solo Horror Dev Makes A Creepy Connection To A Real Haunted Island In Mexico",
-    "summary": "Being a haunted doll must be difficult. You're missing an eyeball, and your lipstick makes you look more like a cannibal than a cherub. People make faces of disgust at you in the antique mall, and you want to tell them you're actually the unblemished soul of a 19th century nun named Eunice, but they speed away before you can.…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/solo-horror-dev-makes-a-creepy-connection-to-a-real-haunted-island-in-mexico/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/unnamed-Large.jpeg?w=300",
-    "published_at": "2026-10-06T15:52:15.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f116fbfa1b66",
-    "slug": "warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch",
-    "headline": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month",
-    "summary": "Bolt Hell. Auroch Digital announced back in April that it was teaming up with Poncle on a Warhammer Vampire Survivors-like called, fittingly, Warhammer Survivors. Well, six months on, the dev has revealed its release date. Warhammer Survivors will launch on Switch 1 and 2 on 10th November — a time that we'll likely all be a little preoccupied with Zelda,…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/8008e1fcba55d/large.jpg",
-    "published_at": "2026-10-06T15:45:00.000Z",
-    "hype_signal": 100,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c740e296e051",
-    "slug": "xbox-doesnt-need-the-console-wars-it-has-hideo-kojima",
-    "headline": " Xbox doesn't need the \"console wars\" – it has Hideo Kojima ",
-    "summary": "Kojima's star power is Xbox's secret weapon",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/xbox-doesnt-need-the-console-wars-it-has-hideo-kojima/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/yrsXd6qmga9wEye27xeWdH-1920-80.jpg",
-    "published_at": "2026-10-06T15:35:26.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "bd0fe0d9c323",
-    "slug": "new-warhammer-meets-vampire-survivors-game-sets-november-release",
-    "headline": "New Warhammer Meets Vampire Survivors Game Sets November Release",
-    "summary": "Warhammer Survivors is a bullet-hell roguelike game like Vampire Survivors, and it will be released this November.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/warhammer-survivors-release-date-announced/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/warhammer-survivors-key-art-3840x2160-no-logo.jpg",
-    "published_at": "2026-10-06T15:34:09.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "545216702765",
-    "slug": "nolan-north-says-hes-110-up-for-playing-nathan-drake-in-a-new-uncharte",
-    "headline": "Nolan North says he’s ‘110%’ up for playing Nathan Drake in a new Uncharted game, ‘if Sony wants to make money’",
-    "summary": "\"I can't see a scenario that I would say no\", he says",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/nolan-north-says-hes-110-up-for-playing-nathan-drake-in-a-new-uncharted-game-if-sony-wants-to-make-money/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/545216702765/800/600",
-    "published_at": "2026-10-06T15:33:10.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c9a42ce925ca",
-    "slug": "new-final-fantasy-7-collection-coming-in-december-2026",
-    "headline": "New Final Fantasy 7 Collection Coming in December 2026",
-    "summary": "Square Enix has announced a new collection of Final Fantasy 7 games, set to release in December 2026.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/final-fantasy-7-ff7-rebirth-adorable-arts-petit-figure-collection/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/final-fantasy-7-rebirth-adorable-arts-petit-figure-collection.jpg",
-    "published_at": "2026-10-06T15:30:15.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "final-fantasy-7-collection",
-    "game_label": "Final Fantasy 7 Collection"
-  },
-  {
-    "id": "8170e908a758",
-    "slug": "warhammer-survivors-releases-in-november-with-new-demo",
-    "headline": "Warhammer Survivors Releases in November with New Demo",
-    "summary": "Auroch Digital's Warhammer Survivors, a bullet heaven-inspired game, is set to release in November with a new demo available now.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/bullet-heaven-battler-warhammer-survivors-arrives-in-november-with-a-new-demo-out-now-to-whet-your-appetite-for-destruction"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/warhammer-survivors-release-date-new-demo-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-06T15:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "warhammer-survivors",
-    "game_label": "Warhammer Survivors"
-  },
-  {
-    "id": "7f62f3f22cc6",
-    "slug": "new-xbox-hardware-leaks-with-rumored-major-upgrades",
-    "headline": "New Xbox Hardware Leaks With Rumored Major Upgrades",
-    "summary": "Rumors suggest the new Xbox hardware will feature improved haptics, modularity, and customization options.",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/xbox-elite-controller-3-specs-features-leak-buttons-hall-effect/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24000449/xbox_elite_wireless_controller_series_2_white_and_black_3840.jpg",
-    "published_at": "2026-10-06T15:25:44.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "612ba18c91e9",
-    "slug": "lego-batman-set-to-feature-iconic-joker-cover",
-    "headline": "Lego Batman Set to Feature Iconic Joker Cover",
-    "summary": "GamesRadar+ announces three new Lego Batman sets, including a detailed brick-built version of the Arkham Knight Batmobile and a recreation of the iconic Joker cover of Detective Comics #880.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/toys-collectibles/the-most-iconic-joker-artwork-ever-made-becomes-a-lego-batman-set/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/mHjTx77nGBeWSwRQbsaTx-1920-80.jpg",
-    "published_at": "2026-10-06T15:25:09.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f341e59ac287",
-    "slug": "aion-2-mastering-odyle-farming-strategies",
-    "headline": "Aion 2: Mastering Odyle Farming Strategies",
-    "summary": "Aion 2 players can learn effective methods for farming Odyle to craft powerful gear, essential for progression.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/aion-2-how-to-get-farm-odyle/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/how-to-farm-odyle-in-aion-2.jpg",
-    "published_at": "2026-10-06T15:24:36.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "aion-2",
-    "game_label": "Aion 2"
-  },
-  {
-    "id": "50e5638251c1",
-    "slug": "gamestop-is-preparing-us-for-next-gen-pricing-with-1400-used-ps5-pros",
-    "headline": "GameStop Is Preparing Us For Next-Gen Pricing With $1,400 Used PS5 Pros",
-    "summary": "Sticker shock might be underselling it with GameStop's new used pricing for Sony's most powerful system. Starting today, the video game store is listing pre-owned PS5 Pros for $1,400, though GameStop Pro members only need to dish out $1,330. Basically, it's a $500 surcharge over a brand-new PS5 Pro and capitalizing on the fact that those are stock-constrained currently. A…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gamestop-is-preparing-us-for-next-gen-pricing-with-1400-used-ps5-pros/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4513332-ps5-pro.jpg?w=300",
-    "published_at": "2026-10-06T15:19:44.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c8b7dab31361",
-    "slug": "warhammer-survivors-is-launching-mere-days-before-gta-6-and-i-respect",
-    "headline": "Warhammer Survivors Is Launching Mere Days Before GTA 6, And I Respect The Audacity",
-    "summary": "The next Survivors-like game--or Survivaton, as Vampire Survivors developer Poncle refers to them--is out soon, and it's threatening to cut into GTA 6 playtime. Warhammer Survivors launches November 10 on PC, consoles, and mobile devices, and you can also grab a new demo on PC via Steam right now. Set in the grim (and dark) 41st millennium of the Warhammer…",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/warhammer-survivors-is-launching-mere-days-before-gta-6-and-i-respect-the-audacity/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Warhammer-Survivors.jpg?w=300",
-    "published_at": "2026-10-06T15:16:46.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cbd7548cb604",
-    "slug": "my-friendly-neighborhood-coming-to-nintendo-switch-2",
-    "headline": "My Friendly Neighborhood Coming to Nintendo Switch 2",
-    "summary": "DreadXP and developers John Szymanski and Evan Szymanski are releasing a puppet-filled survival horror game for Nintendo Switch 2",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/my-friendly-neighborhood-coming-to-switch-2-on-october-22"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/cbd7548cb604/800/600",
-    "published_at": "2026-10-06T15:13:35.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "my-friendly-neighborhood",
-    "game_label": "My Friendly Neighborhood"
-  },
-  {
-    "id": "520bddf0f7a7",
-    "slug": "razer-launches-wolverine-v4-pro-controller-for-xbox-and-pc",
-    "headline": "Razer Launches Wolverine V4 Pro Controller for Xbox and PC",
-    "summary": "Razer is launching the Wolverine V4 Pro controller, which features capacitive sensors instead of TMR technology, for Xbox and PC players.",
-    "category": "deals",
-    "platform_tags": [
-      "xbox",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/gaming-controllers/razer-ascends-beyond-tmr-thumbsticks-launches-the-wolverine-v4-pro-controller-for-xbox-and-pc-with-capacitive-sensors/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/xo57NkVAtk8UwRTVk2ZTTF-1920-80.jpg",
-    "published_at": "2026-10-06T15:13:17.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "wolverine-v4-pro",
-    "game_label": "Wolverine V4 Pro"
-  },
-  {
-    "id": "ef8b5249f4bd",
-    "slug": "takashi-iizuka-on-remakes-youre-providing-the-same-experience-again",
-    "headline": "Takashi Iizuka on Remakes: 'You're Providing the Same Experience Again'",
-    "summary": "Sonic Team's Takashi Iizuka discusses the trend of remakes and remasters, stating they can prey on nostalgia and offer a fleeting sense of childhood experience.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/sonic-teams-takashi-iizuka-dismisses-the-apparent-inevitability-of-remakes-saying-youre-essentially-providing-the-same-experience-again"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Sonic_9VVHpYg.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-06T15:12:21.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "95ea1a49dc4b",
-    "slug": "how-to-get-gta-6s-100-edition-for-80-right-now",
-    "headline": "How To Get GTA 6’s $100 Edition For $80 Right Now",
-    "summary": "If you're looking for GTA 6's $100 Ultimate Edition but don't want to pay that much, there is a way to get it for $80--if you meet a few requirements. Costco has rolled out a nice new deal where you can get four $25 PlayStation Store gift cards for $80. Or you can buy two $75 gift cards for $120.…",
-    "category": "deals",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/how-to-get-gta-6-100-edition-for-80-right-now/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/jasonandlucia-Large.jpeg?w=300",
-    "published_at": "2026-10-06T15:10:47.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c4e3eb0a5bc3",
-    "slug": "state-of-decay-3-was-revealed-early-partly-because-of-the-studio-boss",
-    "headline": "State of Decay 3 Was Revealed Early Partly Because of the Studio Boss' Anxiety Around Xbox's Plans",
-    "summary": "Undead Labs boss Philip Holt reveals why the studio announced State of Decay 3 so early.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/state-of-decay-3-revealed-early-anxiety-xbox"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2024/06/04/stateofdecay-1595521281669-1662408473018-1717509269199.jpg",
-    "published_at": "2026-10-06T15:10:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e1eb3ce88b46",
-    "slug": "silver-pines-is-reviewing-exceptionally-well",
-    "headline": "Silver Pines Is Reviewing Exceptionally Well",
-    "summary": "Silver Pines has received high reviews, positioning it as one of the top games of 2026",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "xbox",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/10/silver-pines-is-reviewing-exceptionally-well-positioning-it-as-one-of-2026s-best-games"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/49a52e6861c2d/large.jpg",
-    "published_at": "2026-10-06T15:05:00.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "silver-pines",
-    "game_label": "Silver Pines"
-  },
-  {
-    "id": "5982070f6463",
-    "slug": "at-fates-end-delayed-to-2027-pc-demo-now-available",
-    "headline": "At Fate's End Delayed to 2027, PC Demo Now Available",
-    "summary": "Action-adventure game At Fate's End has been pushed back to 2027, with a playable PC demo now available",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/at-fates-end-delayed-to-2027-pc-demo-now-available"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/5982070f6463/800/600",
-    "published_at": "2026-10-06T15:03:04.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "at-fates-end",
-    "game_label": "At Fate's End"
   }
 ]
