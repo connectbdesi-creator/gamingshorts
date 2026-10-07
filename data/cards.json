@@ -1,5 +1,68 @@
 [
   {
+    "id": "4d2eee7ee4aa",
+    "slug": "xbox-secures-exclusive-streaming-deal-for-gta-6-at-launch",
+    "headline": "Xbox Secures Exclusive Streaming Deal for GTA 6 at Launch",
+    "summary": "Xbox has reportedly secured exclusive streaming rights to GTA 6, possibly making the game playable on PC at launch via the cloud.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/xbox-lands-exclusive-streaming-rights-for-gta-6-at-launch-2000741146"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/xbox-reportedly-secures-exclusive-cloud-streaming-rights-to-gta-6-could-make-game-playable-on-pc-at-launch"
+      },
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/report-xbox-lands-exclusive-streaming-deal-for-gta-6-at-launch"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-xbox-exclusive-streaming-rights/"
+      },
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/xbox-denies-landing-exclusive-streaming-deal-for-gta-6-at-launch"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/17/gta-6-soundtrack-1789662158949.jpg",
+    "published_at": "2026-10-07T07:30:18.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "2fc3d23cb1fb",
+    "slug": "gamestop-raises-price-of-pre-owned-ps5-pro-to-1500",
+    "headline": "GameStop Raises Price of Pre-Owned PS5 Pro to $1,500",
+    "summary": "GameStop is charging a steep price for pre-owned PS5 Pro consoles, $600 more than the new console cost",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/gamestop-1500-ps5-pro-more-new-console/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/12/mixcollage-03-dec-2025-03-05-pm-7052.jpg",
+    "published_at": "2026-10-07T06:32:36.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ps5-pro",
+    "game_label": "PS5 Pro"
+  },
+  {
     "id": "77b1ff575b41",
     "slug": "10-essential-gba-games-still-missing-from-switch-online",
     "headline": "10 Essential GBA Games Still Missing From Switch Online",
@@ -277,38 +340,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "4d2eee7ee4aa",
-    "slug": "xbox-secures-exclusive-streaming-deal-for-gta-6-at-launch",
-    "headline": "Xbox Secures Exclusive Streaming Deal for GTA 6 at Launch",
-    "summary": "Xbox has reportedly secured exclusive streaming rights to GTA 6, possibly making the game playable on PC at launch via the cloud.",
-    "category": "deals",
-    "platform_tags": [
-      "xbox",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/xbox-lands-exclusive-streaming-rights-for-gta-6-at-launch-2000741146"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/xbox-reportedly-secures-exclusive-cloud-streaming-rights-to-gta-6-could-make-game-playable-on-pc-at-launch"
-      },
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/10/report-xbox-lands-exclusive-streaming-deal-for-gta-6-at-launch"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/17/gta-6-soundtrack-1789662158949.jpg",
-    "published_at": "2026-10-06T23:05:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "3cc5481033ab",
@@ -4744,30 +4775,5 @@
     "comment_count": 0,
     "game": "the-legend-of-zelda-ocarina-of-time",
     "game_label": "The Legend of Zelda: Ocarina of Time"
-  },
-  {
-    "id": "8c9bf28b3e4f",
-    "slug": "utopian-cities-in-car-park-capital",
-    "headline": "Utopian Cities in Car Park Capital",
-    "summary": "The game Car Park Capital features cities with efficient public transport and green living spaces, a stark contrast to the auto industry's interests.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/car-park-capitals-cities-are-utopias-of-public-transport-networks-and-green-living-or-they-were-before-i-got-done-with-them"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/car-park-capital-header.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-06T11:42:16.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "car-park-capital",
-    "game_label": "Car Park Capital"
   }
 ]
