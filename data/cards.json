@@ -1,5 +1,28 @@
 [
   {
+    "id": "77b1ff575b41",
+    "slug": "10-essential-gba-games-still-missing-from-switch-online",
+    "headline": "10 Essential GBA Games Still Missing From Switch Online",
+    "summary": "Loads of GBA classics are already available on Switch Online, but 10 more terrific games need to join the service.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/best-gba-games-missing-nintendo-switch-online/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/13148759/jbareham_180924_ply0802_0029.jpg",
+    "published_at": "2026-10-07T04:02:18.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "758472e9f274",
     "slug": "sega-responds-to-sonics-wild-start-on-discord",
     "headline": "Sega Responds To Sonic's Wild Start On Discord",
@@ -59,6 +82,30 @@
     "image_url": "https://images.nintendolife.com/bfb5e961aa3d4/large.jpg",
     "published_at": "2026-10-07T02:15:00.000Z",
     "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e18305f35028",
+    "slug": "gta-6-will-be-playable-at-launch-on-pc-through-xbox-cloud-streaming",
+    "headline": "GTA 6 Will Be Playable At Launch On PC Through Xbox Cloud Streaming",
+    "summary": "Despite months of frustration over the lack of a simultaneous release, PC players are getting the next best thing this November.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/gta-6-official-xbox-cloud-streaming-announcement/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/jason_and_lucia_11-13lmeyci-i-yw.jpg",
+    "published_at": "2026-10-07T01:40:38.000Z",
+    "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4722,49 +4769,5 @@
     "comment_count": 0,
     "game": "car-park-capital",
     "game_label": "Car Park Capital"
-  },
-  {
-    "id": "369c8359b605",
-    "slug": "jagex-unveils-fourth-mmo-in-the-runescape-franchise-plus-runescape-rei",
-    "headline": "Jagex unveils fourth MMO in the RuneScape franchise, plus RuneScape Reignited, Old School Menaphos, and more",
-    "summary": "RuneFest, the world's biggest celebration of the RuneScape franchise returned with a schedule packed full of announcements.\nThe post Jagex unveils fourth MMO in the RuneScape franchise, plus RuneScape Reignited, Old School Menaphos, and more appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/jagex-unveils-fourth-mmo-in-the-runescape-franchise-plus-runescape-reignited-old-school-menaphos-and-more/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/369c8359b605/800/600",
-    "published_at": "2026-10-06T11:36:52.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8f6152fb38b3",
-    "slug": "gears-of-war-e-day-studio-finds-a-way-to-get-more-performance-from-xbo",
-    "headline": "Gears of War: E-Day studio finds a way to get more performance from Xbox Series S - one that other Xbox games could probably use",
-    "summary": "As a first-party Xbox title, Gears of War: E-Day is under pressure to look good and run well on Xbox consoles. This is especially challenging to do on Series S, due to the console's limited computing power compared to Series X. But developer The Coalition has discovered a clever way of circumventing the Series S' limited memory pool.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/xbox-series-s-more-power-gears-of-war-e-day-ssd"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Gears-of-War-E-Day-(21).jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-06T11:36:35.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
