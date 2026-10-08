@@ -20452,5 +20452,65 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-08T17:09:11.095Z"
+  },
+  {
+    "slug": "the-escapists-3",
+    "name": "The Escapists",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/bc4/bc46fd9543044b48ce87929f3e0d28a2.jpg",
+    "released": "2015-02-12",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "RPG",
+      "Puzzle",
+      "Strategy",
+      "Simulation",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "iOS",
+      "Android",
+      "macOS",
+      "Linux",
+      "Xbox 360"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/830/83093185283ddeff65de9097f8931575.jpg",
+      "https://media.rawg.io/media/screenshots/98c/98cc464711c25c115d4c4f63e1f81ed2.jpg",
+      "https://media.rawg.io/media/screenshots/d93/d93b30a1044b33bf68978925c991877b.jpg",
+      "https://media.rawg.io/media/screenshots/3de/3de6e2e54a5528e239237bb16efb8024.jpg",
+      "https://media.rawg.io/media/screenshots/449/4497b61029ee663920f0e285e8ac259b.jpg",
+      "https://media.rawg.io/media/screenshots/eed/eedd0d466112535f25d89c266a42dcfc.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-08T17:38:10.561Z"
+  },
+  {
+    "slug": "volatiles",
+    "name": "VolaTiles",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/6e2/6e2163822942794238d33693f41cec9f.jpg",
+    "released": "2021-05-02",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Puzzle"
+    ],
+    "platforms": [
+      "PC",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/6e2/6e2163822942794238d33693f41cec9f.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-08T17:38:13.453Z"
   }
 ]
