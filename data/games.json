@@ -20261,5 +20261,33 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-08T09:36:38.530Z"
+  },
+  {
+    "slug": "ultima",
+    "name": "Ultima I: The First Age of Darkness",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/ba4/ba456796ee5e190af9cfb2e78feac2ec.jpg",
+    "released": "1981-06-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "Apple II",
+      "Commodore / Amiga",
+      "Atari 8-bit"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/597/5976d28766adc668525c51b6d2052073.jpg",
+      "https://media.rawg.io/media/screenshots/e53/e53c4d2033e624643605654869f134eb.jpg",
+      "https://media.rawg.io/media/screenshots/55a/55af1de8edc1745b310e3d012d4b1484.jpg",
+      "https://media.rawg.io/media/screenshots/57d/57dcaf41affec6ee8fe6aef7694b3284.jpg",
+      "https://media.rawg.io/media/screenshots/a23/a23890264f69935294b5a21c1a4ab82e.jpg",
+      "https://media.rawg.io/media/screenshots/af8/af8db89d11742264d0b389e6ed328dbd.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-08T11:37:33.494Z"
   }
 ]
