@@ -20340,5 +20340,37 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-08T13:40:18.465Z"
+  },
+  {
+    "slug": "hollow-knight",
+    "name": "Hollow Knight",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg",
+    "released": "2017-02-23",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Platformer",
+      "Indie",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "macOS",
+      "Linux"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/6b3/6b309936c1fe07e9b7fa5e62a372790d.jpg",
+      "https://media.rawg.io/media/screenshots/1a7/1a7a69db58c19d323f1dfbcc340d3f1e.jpg",
+      "https://media.rawg.io/media/screenshots/723/7237d0c546b0d17a6a226f38823081d4.jpg",
+      "https://media.rawg.io/media/screenshots/331/331095489397e7387681d921e8e472d4.jpg",
+      "https://media.rawg.io/media/screenshots/5db/5db89e896496352c8f0a0a0bd545bd6d.jpg",
+      "https://media.rawg.io/media/screenshots/843/843e06c9c5b26c309b47bd7075320dae.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-08T15:03:06.724Z"
   }
 ]
