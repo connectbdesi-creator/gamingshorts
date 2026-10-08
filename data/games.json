@@ -20165,5 +20165,74 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-08T01:36:59.767Z"
+  },
+  {
+    "slug": "mixtape",
+    "name": "Mixtape",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/a57/a571fcbc2b2ef30fb3e13a4272ef3a93.jpeg",
+    "released": "2026-05-07",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [],
+    "stores": [],
+    "fetched_at": "2026-10-08T03:36:16.682Z"
+  },
+  {
+    "slug": "dead-of-the-brain",
+    "name": "Dead of the Brain 1 & 2",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/718/7187d3d816301bd759ab03134916fb00.jpg",
+    "released": "1999-06-03",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/bed/bed96cdcb2d75130dea1b3482d372e3e.jpg",
+      "https://media.rawg.io/media/screenshots/8b2/8b20fe968d137de0291236a547188f3c.jpg",
+      "https://media.rawg.io/media/screenshots/0ab/0ab332d12f4fb6039a41d61c0c777a2c.jpg",
+      "https://media.rawg.io/media/screenshots/6da/6da9665cd9af3900fa3611970fdeb748.jpg",
+      "https://media.rawg.io/media/screenshots/481/48170e58fd90650ec632aac9e80e7277.jpg",
+      "https://media.rawg.io/media/screenshots/6b6/6b6b7cb9e3f158a6e0da67cc46b99934.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-08T03:36:17.724Z"
+  },
+  {
+    "slug": "pokemon-ruby-sapphire",
+    "name": "Pokémon Ruby, Sapphire, Emerald",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/7e5/7e56cc0421adcea354ed6b85057f2caa.jpeg",
+    "released": "2004-09-16",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": [
+      "Game Boy Advance"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/61e/61e0ede8322e5bf06a1d2aa573998eab.jpg",
+      "https://media.rawg.io/media/screenshots/1c6/1c69f2ccd3df24e94499c4343f91f1f0.jpg",
+      "https://media.rawg.io/media/screenshots/994/994e5301e9e9954a8a43a03d70e76cd2.jpg",
+      "https://media.rawg.io/media/screenshots/bfd/bfdb5249f2fd0905152b6db27b837854.jpg",
+      "https://media.rawg.io/media/screenshots/df5/df5992e3a309001b02711852344e10c7.jpg",
+      "https://media.rawg.io/media/screenshots/c17/c17a0d0b2a45f73e5cd6b9838c40f974.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-08T03:36:18.331Z"
   }
 ]
