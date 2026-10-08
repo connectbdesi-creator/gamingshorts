@@ -1,5 +1,149 @@
 [
   {
+    "id": "11f62416d015",
+    "slug": "castlevania-meets-groundhog-day-in-a-must-play-new-game-pass-hit",
+    "headline": "Castlevania Meets Groundhog Day In a Must-Play New Game Pass Hit",
+    "summary": "Running, jumping, and tossing a glaive through time provides a fresh Metroidvania experience that's hard to resist.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/echo-weaver-review/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/screenshot-2026-10-06-at-4-35-10-pm.jpg",
+    "published_at": "2026-10-08T16:00:16.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "965d55a976e0",
+    "slug": "new-open-world-survival-crafting-game-confirmed-for-november-10",
+    "headline": "New Open-World Survival-Crafting Game Confirmed for November 10",
+    "summary": "An interesting new open-world survival-crafting game releases on November 10, 2026.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/steam-games-open-world-survival-crafting-stormforge-release/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/stormforge-press-screenshot-1.jpg",
+    "published_at": "2026-10-08T16:00:13.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f69c0ae2a878",
+    "slug": "pt-complete-walkthrough",
+    "headline": "PT Complete Walkthrough",
+    "summary": "A guide for completing the P.T. Silent Hills game, including tips for triggering the end of every loop and solving the final puzzle.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/pt-silent-hills-walkthrough-guide/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/p-t-full-walkthrough-all-puzzles.jpg",
+    "published_at": "2026-10-08T15:55:42.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "97a34fa0c1a4",
+    "slug": "magic-the-gatherings-most-expensive-decks-get-official-reprints",
+    "headline": "Magic: The Gathering's Most Expensive Decks Get Official Reprints",
+    "summary": "Magic: The Gathering is re-releasing some of its most expensive decks, including Warhammer 40K Commander decks, in a bid to make them more accessible to players.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/magic-the-gathering-warhammer-40k-precon-reprints/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mtg-warhammer-40k-commander.jpg",
+    "published_at": "2026-10-08T15:45:14.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "magic-the-gathering",
+    "game_label": "Magic: The Gathering"
+  },
+  {
+    "id": "e76ae9a4e5d3",
+    "slug": "best-buy-midnight-launch-for-ocarina-of-time-switch",
+    "headline": "Best Buy Midnight Launch for Ocarina of Time Switch",
+    "summary": "Best Buy is opening select stores at midnight on November 5 for the launch of The Legend of Zelda: Ocarina of Time on the Nintendo Switch, offering surprise restocks of the limited-edition Zelda 40th Anniversary Switch 2 consoles.",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/best-buy-announces-midnight-opening-for-ocarina-of-time-launch-zelda-switch-2-consoles-also-up-for-grabs"
+      },
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/best-buy-wants-to-travel-back-to-1998-with-zelda-ocarina-of-time-midnight-launch/"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/08/zelda-ocarina-of-time-switch-2-console-best-buy-1791470838410.png",
+    "published_at": "2026-10-08T15:45:07.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-legend-of-zelda-ocarina-of-time",
+    "game_label": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "955f6845c1d9",
+    "slug": "girls-und-panzer-all-star-tank-carnival-announced-for-switch-2",
+    "headline": "Girls und Panzer: All-Star Tank Carnival announced for Switch 2",
+    "summary": "D3 Publisher has announced Girls und Panzer: All-Star Tank Carnival, a new tank battle action …",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/girls-und-panzer-all-star-tank-carnival-announced-for-switch-2"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/955f6845c1d9/800/600",
+    "published_at": "2026-10-08T15:42:22.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "ca38d7bdf7a4",
     "slug": "which-difficulty-should-you-pick-in-dragons-dogma-2",
     "headline": "Which Difficulty Should You Pick in Dragon's Dogma 2?",
@@ -70,6 +214,27 @@
     "comment_count": 0,
     "game": "the-legend-of-zelda-ocarina-of-time-switch-2",
     "game_label": "The Legend of Zelda: Ocarina of Time Switch 2"
+  },
+  {
+    "id": "a875e0a7d830",
+    "slug": "hell-is-us-massively-expands-its-roster-of-freaky-enemies-to-celebrate",
+    "headline": "Hell Is Us Massively Expands Its Roster of Freaky Enemies to Celebrate 2 Million Players",
+    "summary": "Free update out now. Publisher Nacon and developer Rogue Factor have announced that Hell Is Us, the sci-fi action game that refuses to hold the player's hand, has now surpassed the 2 million players milestone. To celebrate this news, the game has received a pretty major update on all platforms, and it's available to download and install now. Read the…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/hell-is-us-massively-expands-its-roster-of-freaky-enemies-to-celebrate-2-million-players"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/3666d74f6867e/large.jpg",
+    "published_at": "2026-10-08T15:30:00.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "9411417875ed",
@@ -419,29 +584,6 @@
     "game_label": "S.T.A.L.K.E.R. 2: Heart of Chornobyl"
   },
   {
-    "id": "e76ae9a4e5d3",
-    "slug": "best-buy-midnight-launch-for-ocarina-of-time-switch",
-    "headline": "Best Buy Midnight Launch for Ocarina of Time Switch",
-    "summary": "Best Buy is opening select stores at midnight on November 5 for the launch of The Legend of Zelda: Ocarina of Time on the Nintendo Switch, offering surprise restocks of the limited-edition Zelda 40th Anniversary Switch 2 consoles.",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/best-buy-announces-midnight-opening-for-ocarina-of-time-launch-zelda-switch-2-consoles-also-up-for-grabs"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/08/zelda-ocarina-of-time-switch-2-console-best-buy-1791470838410.png",
-    "published_at": "2026-10-08T14:52:39.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-legend-of-zelda-ocarina-of-time",
-    "game_label": "The Legend of Zelda: Ocarina of Time"
-  },
-  {
     "id": "83eaf5a7087e",
     "slug": "epics-new-free-pc-games-are-live-only-available-for-a-limited-time",
     "headline": "Epic’s New Free PC Games Are Live, Only Available for a Limited Time",
@@ -610,6 +752,78 @@
     "comment_count": 0,
     "game": "hollow-knight",
     "game_label": "Hollow Knight"
+  },
+  {
+    "id": "00372ba9c106",
+    "slug": "its-almost-not-worth-being-number-two-how-live-service-turned-games-in",
+    "headline": "‘It’s Almost Not Worth Being Number Two’ – How Live-Service Turned Games Into a Battle Royale for the Top Spot",
+    "summary": "The live-service trend has brought us some amazing games, but the chase for money-printing success means developers have become trapped in a bloody battle royale that's stifling creativity.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/its-almost-not-worth-being-number-two-how-live-service-turned-games-into-a-battle-royale-for-the-top-spot"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/05/the-present-of-live-service-games-blogroll-1791198870991.jpg",
+    "published_at": "2026-10-08T14:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "414cfbe8c46f",
+    "slug": "is-the-future-of-live-service-games-in-jeopardy",
+    "headline": "Is the Future of Live-Service Games in Jeopardy?",
+    "summary": "Live-service games continue to dominate the gaming industry, but the cancellation of several projects and declining player numbers raise concerns about their long-term viability.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/is-it-the-beginning-of-the-end-for-live-service-games"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/05/the-future-of-live-service-games-blogroll-1791212010426.jpg",
+    "published_at": "2026-10-08T14:30:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e152febc93d3",
+    "slug": "how-mmorpgs-built-and-lost-the-live-service-throne",
+    "headline": "How MMORPGs Built (and Lost) the Live-Service Throne",
+    "summary": "MMORPGs like World of Warcraft and EverQuest pioneered the live-service genre, but some struggled to maintain player engagement and revenue. Industry experts weigh in on the highs and lows of this business model.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/how-mmorpgs-built-and-lost-the-live-service-throne"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/05/the-past-of-live-service-games-blogroll-1791196766001.jpg",
+    "published_at": "2026-10-08T14:30:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "b0df01625d3a",
@@ -3172,6 +3386,29 @@
     "game_label": "Necesse"
   },
   {
+    "id": "c17ac1e11a18",
+    "slug": "narakoi-otome-game-announced-for-steam-and-switch",
+    "headline": "Nara☆Koi otome game announced for Steam and Switch",
+    "summary": "Nara☆Koi, an otome game where players romance historical figures, is coming to Steam and Nintendo Switch",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/nara%e2%98%86koi-an-otome-game-in-which-you-romance-japans-historical-figures-as-the-genderbent-version-of-a-7th-century-diplomat-announced-for-steam-and-switch/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/c17ac1e11a18/800/600",
+    "published_at": "2026-10-08T07:48:56.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "narakoi",
+    "game_label": "Nara☆Koi"
+  },
+  {
     "id": "cb63506efe40",
     "slug": "steam-users-have-until-october-10-to-claim-2d-game-with-85-positive-re",
     "headline": "Steam Users Have Until October 10 to Claim 2D Game with 85% Positive Reviews for Free",
@@ -3242,6 +3479,30 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "5f76f2bdb86c",
+    "slug": "new-shinobi-nexus-senran-kagura-mobilepc-release-announced",
+    "headline": "New Shinobi Nexus: Senran Kagura Mobile/PC Release Announced",
+    "summary": "Senran Kagura is getting a new command-based RPG called Shinobi Nexus, set to release in 2026 for mobile and PC.",
+    "category": "releases",
+    "platform_tags": [
+      "mobile",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/new-shinobi-nexus-senran-kagura-trailer-showcases-story-prologue-and-new-and-returning-characters/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/5f76f2bdb86c/800/600",
+    "published_at": "2026-10-08T05:09:26.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "shinobi-nexus-senran-kagura",
+    "game_label": "Shinobi Nexus: Senran Kagura"
   },
   {
     "id": "bb7c6b44d474",
@@ -4414,255 +4675,6 @@
     "image_url": "https://cdn.mos.cms.futurecdn.net/GPmwup4hy6soXjmMwNy34H-1920-80.jpg",
     "published_at": "2026-10-07T19:50:56.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c88bae5e8632",
-    "slug": "star-wars-tabletop-games-are-discounted-for-prime-day-including-unlimi",
-    "headline": "Star Wars Tabletop Games Are Discounted For Prime Day, Including Unlimited",
-    "summary": "Save on Star Wars Unlimited, The Deckbuilding Game, and Outer Rim with these Prime Day deals at Amazon",
-    "category": "deals",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/star-wars-tabletop-games-are-discounted-for-prime-day-including-unlimited"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/07/outer-rim-header-1791402430251.jpg",
-    "published_at": "2026-10-07T19:49:37.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6abaf8b60bf5",
-    "slug": "world-of-warcraft-forever-drops-the-pvp-grind-so-normal-people-can-hav",
-    "headline": " World of Warcraft: Forever drops the PvP grind so normal people can have fancy titles too ",
-    "summary": "Blizzard outlines how PvP ranks will work in the throwback MMO.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-drops-the-pvp-grind-so-normal-people-can-have-fancy-titles-too/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/4a9oyQdrXFpY6keN5AagHb-1920-80.png",
-    "published_at": "2026-10-07T19:44:26.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "db6137e1fa50",
-    "slug": "sonic-racing-crossworlds-dlc-avatar-legends-pack-launches-october-14",
-    "headline": "Sonic Racing: CrossWorlds DLC ‘Avatar Legends Pack’ launches October 14",
-    "summary": "Sonic Racing: CrossWorlds downloadable content “Avatar Legends Pack” will launch on October 14, SEGA announced. It …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/sonic-racing-crossworlds-dlc-avatar-legends-pack-launches-october-14"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/db6137e1fa50/800/600",
-    "published_at": "2026-10-07T19:40:03.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7402a7ef22f3",
-    "slug": "upcoming-post-apocalyptic-game-combines-the-division-and-fortnite",
-    "headline": "Upcoming Post-Apocalyptic Game Combines The Division and Fortnite",
-    "summary": "A new open-world survival game drops in October, blending elements of The Division and Fortnite.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/games-like-the-division-fortnite-permafrost/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/upcoming-open-world-post-apocalyptic-game-is-the-division-meets-fortnite-gamerant-feature.jpg",
-    "published_at": "2026-10-07T19:31:13.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c367203d1690",
-    "slug": "star-wars-zero-company-studio-brings-back-furloughed-developers",
-    "headline": "Star Wars: Zero Company Studio Brings Back Furloughed Developers",
-    "summary": "Developer Bit Reactor is rehiring furloughed staff ahead of launch, aiming to bring back as many employees as possible.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/star-wars-zero-company-bringing-back-furloughed-staff"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/star-wars-zero-company.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-07T19:24:25.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "star-wars-zero-company",
-    "game_label": "Star Wars: Zero Company"
-  },
-  {
-    "id": "5b45fbb1648e",
-    "slug": "the-hambagu-shop-launches-january-11-2027",
-    "headline": "The Hambagu Shop launches January 11, 2027",
-    "summary": "Japanese Hamburg Shop cozy horror simulation game The Hambagu Shop will launch for PlayStation 5, …",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/the-hambagu-shop-launches-january-11-2027"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/5b45fbb1648e/800/600",
-    "published_at": "2026-10-07T19:23:44.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5172ad343368",
-    "slug": "destiny-2-gets-new-official-update",
-    "headline": "Destiny 2 Gets New Official Update",
-    "summary": "Destiny 2 suddenly gets a new update, complete with patch notes.",
-    "category": "patches",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/destiny-2-gets-new-official-update/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/2026_d2_press-kit_pantheon_exotics_in-activity_2_final_updated_1920x1080_md-1-1.jpg",
-    "published_at": "2026-10-07T19:19:57.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c9bc70cbf723",
-    "slug": "discord-protection-bot-exposes-1-million-email-addresses",
-    "headline": "Discord Protection Bot Exposes 1 Million Email Addresses",
-    "summary": "A popular Discord protection bot has been hacked, exposing the email addresses and Discord IDs of millions of users.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/discord-protection-bot-double-counter-hit-by-breach-exposing-around-1-million-email-addresses"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/discord_ciKWt0v.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-07T19:15:58.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a3eedf3dc6ac",
-    "slug": "skate-has-been-de-live-serviced-by-reskate-a-modding-platform-download",
-    "headline": " Skate has been de-live serviced by ReSkate, a modding platform downloaded 350,000 times—devs say they will comply if EA's lawyers come knocking ",
-    "summary": "ReSkate makes Skate playable offline, and enables custom servers and maps. It's been an instant hit.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/sports/reskate-modding-platform-released/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/3mn7iRVf29DxERgjbMNFwB-1920-80.jpg",
-    "published_at": "2026-10-07T19:15:40.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ba954a92eaa3",
-    "slug": "rockstars-gta-6-protagonist-comparison-reveals-luci",
-    "headline": "Rockstar's GTA 6 Protagonist Comparison Reveals Luci... ",
-    "summary": "Rockstar has drawn comparisons between its potential GTA 6 protagonist, Lucia, and notable characters Arthur Morgan and Niko Bellic, suggesting the game is exploring different themes and character archetypes.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-lucia-arthur-morgan-niko-bellic-character-writing/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/grand-theft-auto-6-lucia-in-front-of-arthur-morgan-from-red-dead-redemption-2-and-niko-bellic-from-grand-theft-auto-4.jpg",
-    "published_at": "2026-10-07T19:15:14.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gta-6",
-    "game_label": "GTA 6"
-  },
-  {
-    "id": "384c25238d76",
-    "slug": "brokenlore-ascend-launches-january-7-2027",
-    "headline": "BrokenLore: ASCEND launches January 7, 2027",
-    "summary": "Tokyo Tower-climbing survival horror game BrokenLore: ASCEND will launch for PlayStation 5, Xbox Series, and …",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/brokenlore-ascend-launches-january-7-2027"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/384c25238d76/800/600",
-    "published_at": "2026-10-07T19:11:33.000Z",
-    "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
