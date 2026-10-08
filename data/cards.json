@@ -1,5 +1,344 @@
 [
   {
+    "id": "89c76d55e0c4",
+    "slug": "bit-reactor-staff-return-as-star-wars-zero-company-continues",
+    "headline": "Bit Reactor Staff Return As Star Wars Zero Company Continues",
+    "summary": "Star Wars Zero Company developer Bit Reactor sees some furloughed staff return to work, a welcome return for the team after the game's launch in August. CEO Greg Foertsch comments on the development.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/star-wars-zero-company-developer-sees-portion-of-furloughed-workers-return/"
+      },
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-begins-bringing-furloughed-staff-back"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/bit-reactor-ceo-welcomes-return-of-some-furloughed-staff-for-continued-support-of-star-wars-zero-company"
+      },
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/star-wars-zero-company-success-allows-dev-to-bring-back-staff"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/star-wars-zero-company-tactics.jpg?w=300",
+    "published_at": "2026-10-08T09:30:00.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "star-wars-zero-company",
+    "game_label": "Star Wars Zero Company"
+  },
+  {
+    "id": "6ed2785f45ae",
+    "slug": "silent-hill-townfall-update-nears-making-the-game-less-frustrating",
+    "headline": "Silent Hill Townfall Update Nears, Making the Game Less Frustrating",
+    "summary": "The Silent Hill Townfall update aims to address frustration by nerfing stealth sections, weakening enemies, and making the final puzzle easier.",
+    "category": "patches",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/silent-hill-townfall-update-nerfs-the-weight-stealth-sections-weakens-enemies-and-makes-the-final-puzzle-easier/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/6ed2785f45ae/800/600",
+    "published_at": "2026-10-08T09:20:31.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "silent-hill-townfall",
+    "game_label": "Silent Hill Townfall"
+  },
+  {
+    "id": "b116c9f282da",
+    "slug": "star-wars-zero-company-studio-start-to-bring-back-devs-furloughed-prio",
+    "headline": "Star Wars Zero Company studio start to bring back devs furloughed prior to launch, with \"more than half\" of previous headcount reportedly returning to payroll",
+    "summary": "Star Wars Zero Company developers Bit Reactor have begun to put some of the developers they furloughed prior to the game's release back on payroll. Thus far, the number of staff on payroll at the studio has reportedly returned to \"more than half\" of what it was prior to the furloughs, with Bit Reactor boss Greg Foertsch asserting that they…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/star-wars-zero-company-studio-start-to-bring-back-devs-furloughed-prior-to-launch-with-more-than-half-of-previous-headcount-reportedly-returning-to-payroll"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/star-wars-zero-company-jedi.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-08T09:18:31.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e04fc42cb7c0",
+    "slug": "pc-gamer-magazines-new-issue-is-on-sale-now-world-of-warcraft-forever",
+    "headline": " PC Gamer magazine's new issue is on sale now: World of Warcraft: Forever ",
+    "summary": "Plus, Total War: Warhammer 40,000, Stronghold 4, Rainbow Six Tactics, Bodycam, The Blood of Dawnwalker, Max Payne 2: The Fall of Max Payne, and much more, too",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-world-of-warcraft-forever/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/9wazwcBp6GDc42KWLLk6w5-1920-80.jpg",
+    "published_at": "2026-10-08T09:11:18.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c4387f587e6f",
+    "slug": "gta-6s-jason-might-be-showering-when-you-switch-to-him",
+    "headline": "GTA 6's Jason Might Be Showering When You Switch To Him",
+    "summary": "The latest GTA 6 preview details include a moment when the player switches from Lucia to Jason and finds him naked in the shower.",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/gta-6-switch-characters-jason-shower-naked/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/jason_duval_06.jpg",
+    "published_at": "2026-10-08T09:05:29.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "57c09681cec5",
+    "slug": "gta-6-strip-club-gameplay-deeply-detailed-in-pegi-rating",
+    "headline": "GTA 6 Strip Club Gameplay Deeply Detailed in PEGI Rating",
+    "summary": "A recent PEGI rating has shed light on the level of detail in GTA 6's strip club gameplay, providing a first look at the game's adult content.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-strip-club-minigames/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/05/gta-6-port-gellhorn-cabaret-club.jpg",
+    "published_at": "2026-10-08T09:01:14.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "93002a4bc184",
+    "slug": "gameplay-footage-from-cancelled-xbox-perfect-dark-reboot-leaks-online",
+    "headline": "Gameplay footage from cancelled Xbox Perfect Dark reboot leaks online",
+    "summary": "Leaked gameplay footage of a cancelled Xbox Perfect Dark reboot suggests the cancelled game looked good, but its cancellation is attributed to Microsoft's 2025 cuts",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/perfect-dark-reboot-joanna.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-08T08:57:13.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "perfect-dark",
+    "game_label": "Perfect Dark"
+  },
+  {
+    "id": "87075f2c1784",
+    "slug": "dead-by-daylight-10th-anniversary-collectors-set-giveaway",
+    "headline": "Dead by Daylight 10th Anniversary Collector's Set Giveaway",
+    "summary": "GameRant is partnering with Behaviour Interactive to give away the sold out Dead by Daylight 10th Anniversary Collector's Set.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/dead-by-daylight-collectors-set-giveaway/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/dead-by-daylight-collectors-set-giveaway.jpg",
+    "published_at": "2026-10-08T08:55:10.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "71de0ec48e43",
+    "slug": "dcu-villain-clayface-says-he-could-take-down-batman",
+    "headline": "DCU Villain Clayface Says He Could Take Down Batman",
+    "summary": "Actor Tom Rhys Harries, who plays Clayface in the DC Universe, believes his character is overpowered compared to Batman and could potentially defeat him.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/dc-movies/clayface-star-says-his-dcu-villain-is-so-overpowered-comparative-to-batman-and-could-definitely-take-him-out/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/F5roPKN6bCCWg4ysYGG8fi-1920-80.jpg",
+    "published_at": "2026-10-08T08:51:27.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f48e1d8e2b98",
+    "slug": "gears-of-war-studio-head-addresses-layoff-worries-after-e-day-release",
+    "headline": "Gears of War studio head addresses layoff worries after E-Day release, and says the next game won’t take ‘nearly as long’",
+    "summary": "\"We just need to focus on the things that we can control,\" Mike Crump says",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/gears-of-war-studio-head-addresses-layoff-worries-after-e-day-release-and-says-the-next-game-wont-take-nearly-as-long/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/f48e1d8e2b98/800/600",
+    "published_at": "2026-10-08T08:51:24.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8fbd4540554c",
+    "slug": "battlefield-6-and-more-are-joining-xbox-game-pass-in-october",
+    "headline": "Battlefield 6 and more are joining Xbox Game Pass in October",
+    "summary": "October's nine Xbox Game Pass games have been revealed",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/battlefield-6-and-more-are-joining-xbox-game-pass-in-october/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/8fbd4540554c/800/600",
+    "published_at": "2026-10-08T08:48:42.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f3d1395e9533",
+    "slug": "star-wars-galactic-racer-multiplayer-party-limit-will-be-doubled-via-u",
+    "headline": "Star Wars: Galactic Racer Multiplayer Party Limit Will Be Doubled Via Update",
+    "summary": "Developer Fuse Games aims to release an update to increase party size from three to six players “within the first few weeks of launch.”",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/star-wars-galactic-racer-multiplayer-party-limit-will-be-doubled-via-update"
+      },
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/star-wars-galactic-racer-will-double-the-games-multiplayer-party-limit-in-an-upcoming-patch/"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/02/swgr-oo-1790900215885.jpg",
+    "published_at": "2026-10-08T08:43:04.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6a8e6fbe9782",
+    "slug": "gears-of-war-studio-boss-says-next-game-wont-take-seven-years",
+    "headline": "Gears of War Studio Boss Says Next Game Won't Take Seven Years",
+    "summary": "Gears of War developer The Coalition is unaffected by recent Xbox layoffs, with their next project expected to be released in a shorter timeframe than previous games.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/gears-of-war-the-coalition-layoffs-next-game"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Gears-of-War-E-Day-(10).jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-08T08:21:27.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gears-of-war-e-day",
+    "game_label": "Gears of War: E-Day"
+  },
+  {
+    "id": "4c9a12dad019",
+    "slug": "fireshine-games-acquires-necesse-dev-fair-games",
+    "headline": "Fireshine Games Acquires Necesse Dev Fair Games",
+    "summary": "Fireshine Games has acquired Danish indie studio Fair Games, which developed the open-world sandbox game Necesse, in a move described as a 'defining moment' for the studio.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/fireshine-games-acquires-necesse-dev-fair-games-described-as-a-defining-moment-for-danish-indie-studio"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/necesse.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-08T08:09:16.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "necesse",
+    "game_label": "Necesse"
+  },
+  {
     "id": "cb63506efe40",
     "slug": "steam-users-have-until-october-10-to-claim-2d-game-with-85-positive-re",
     "headline": "Steam Users Have Until October 10 to Claim 2D Game with 85% Positive Reviews for Free",
@@ -88,27 +427,6 @@
     ],
     "image_url": "https://picsum.photos/seed/bb7c6b44d474/800/600",
     "published_at": "2026-10-08T05:00:26.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f3d1395e9533",
-    "slug": "star-wars-galactic-racer-multiplayer-party-limit-will-be-doubled-via-u",
-    "headline": "Star Wars: Galactic Racer Multiplayer Party Limit Will Be Doubled Via Update",
-    "summary": "Developer Fuse Games aims to release an update to increase party size from three to six players “within the first few weeks of launch.”",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/star-wars-galactic-racer-multiplayer-party-limit-will-be-doubled-via-update"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/02/swgr-oo-1790900215885.jpg",
-    "published_at": "2026-10-08T04:17:47.000Z",
     "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
@@ -724,38 +1042,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "89c76d55e0c4",
-    "slug": "bit-reactor-staff-return-as-star-wars-zero-company-continues",
-    "headline": "Bit Reactor Staff Return As Star Wars Zero Company Continues",
-    "summary": "Star Wars Zero Company developer Bit Reactor sees some furloughed staff return to work, a welcome return for the team after the game's launch in August. CEO Greg Foertsch comments on the development.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/star-wars-zero-company-developer-sees-portion-of-furloughed-workers-return/"
-      },
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-begins-bringing-furloughed-staff-back"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/bit-reactor-ceo-welcomes-return-of-some-furloughed-staff-for-continued-support-of-star-wars-zero-company"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/star-wars-zero-company-tactics.jpg?w=300",
-    "published_at": "2026-10-07T22:52:00.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "star-wars-zero-company",
-    "game_label": "Star Wars Zero Company"
   },
   {
     "id": "2a7c2cfcf388",
@@ -4418,290 +4704,6 @@
     ],
     "image_url": "https://kotaku.com/app/uploads/2026/10/forza23-1280x720.jpg",
     "published_at": "2026-10-07T13:30:45.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7ac63ef15471",
-    "slug": "new-free-steam-stealth-game-is-like-splinter-cell-but-getting-caught-i",
-    "headline": "New Free Steam Stealth Game Is Like Splinter Cell, But Getting Caught Isn't Game Over",
-    "summary": "This free Steam stealth game takes clear inspiration from Splinter Cell, but getting spotted doesn't force players to start over.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/free-steam-game-like-splinter-cell-intravenous-3-borderline-stealth/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/steam-splinter-cell-intravenous-3-borderline-game-rant.jpg",
-    "published_at": "2026-10-07T13:30:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ef81082e8006",
-    "slug": "state-of-decay-3-to-launch-on-game-pass-despite-studios-departure-from",
-    "headline": "State of Decay 3 to Launch on Game Pass Despite Studio's Departure from Xbox",
-    "summary": "State of Decay 3 developer Undead Labs is leaving Xbox Game Studios, but the game will still be released on Game Pass as a day one title in 2027.",
-    "category": "deals",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/10/state-of-decay-3-dev-explains-why-itll-be-on-game-pass-despite-the-company-leaving-xbox"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/12782f7899663/large.jpg",
-    "published_at": "2026-10-07T13:30:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "state-of-decay-3",
-    "game_label": "State of Decay 3"
-  },
-  {
-    "id": "ddd787e8575d",
-    "slug": "more-mafia-games-seemingly-getting-native-ps5-ports-likely-60fps",
-    "headline": "More Mafia Games Seemingly Getting Native PS5 Ports, Likely 60fps",
-    "summary": "An offer you can't refuse. Earlier this year, 2K Games released an upgraded version of the excellent Mafia: Definitive Edition, designed to take full advantage of the PS5 hardware at 60fps with various other visual and performance improvements. Now it looks like both Mafia 2: Definitive Edition and Mafia 3: Definitive Edition aren’t far behind. Read the full article on…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/more-mafia-games-seemingly-getting-native-ps5-ports-likely-60fps"
-      },
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/more-mafia-games-appear-to-be-getting-native-ps5-ports-likely-60fps"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/e4236ca321be3/large.jpg",
-    "published_at": "2026-10-07T13:30:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "dc535c4f8e03",
-    "slug": "20-million-sales-later-capcom-is-bringing-monster-hunter-rise-to-ios-a",
-    "headline": "20 million sales later, Capcom is bringing Monster Hunter Rise to iOS and Android, but for now it's locked behind a Netflix subscription",
-    "summary": "Monster Hunter Rise is coming to Android and iOS through Netflix, new store listings have revealed today. The game, which originally launched on Nintendo Switch in 2021 and later came to PC, Xbox and PlayStation - and that I thought was superb, even in its most barebones release state - seemingly got a 'soft launch' today on both Apple and…",
-    "category": "deals",
-    "platform_tags": [
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/monster-hunter-rise-ios-android-netflix"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/MH-mobile-header.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-07T13:27:42.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "95752750ba9b",
-    "slug": "end-of-abyss-cheat-code-locations-how-to-upgrade-the-scanner",
-    "headline": "End of Abyss Cheat Code Locations (& How to Upgrade the Scanner)",
-    "summary": "End of Abyss offers cheat code locations and a guide on how to upgrade the scanner for Second Sight and Cryptographer achievements.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/end-of-abyss-cheat-code-locations-upgrade-scanner/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/end-of-abyss-infinite-equipment-code.jpg",
-    "published_at": "2026-10-07T13:24:29.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "end-of-abyss",
-    "game_label": "End of Abyss"
-  },
-  {
-    "id": "54938fcb3819",
-    "slug": "forza-horizon-6-delayed-to-2027",
-    "headline": "Forza Horizon 6 Delayed to 2027",
-    "summary": "A new report suggests that Forza Horizon 6 has been delayed to 2027, a development that comes after developer Playground previously denied any delay.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/forza-horizon-6-steam-headline-4.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-07T13:22:49.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "forza-horizon-6",
-    "game_label": "Forza Horizon 6"
-  },
-  {
-    "id": "2adbe8d94c87",
-    "slug": "pokemon-rse-switch-ports-feel-all-but-confirmed-fans-believe-thanks-to",
-    "headline": " Pokemon RSE Switch ports feel all but confirmed, fans believe thanks to Pokemon Home update  ",
-    "summary": "I don't see it personally, but it feels inevitable anyway",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/pokemon/pokemon-ruby-sapphire-and-emerald-switch-ports-feel-all-but-confirmed-fans-believe-as-new-pokemon-home-update-suggests-more-gba-games-could-be-on-the-way/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/P8ohGfbCcarnXay4EojWwf-1920-80.jpg",
-    "published_at": "2026-10-07T13:14:40.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ee57c2a0b9f3",
-    "slug": "prime-day-disappointment-for-retro-consoles",
-    "headline": "Prime Day Disappointment for Retro Consoles",
-    "summary": "Retro gaming expert advises focusing on small setup gadgets to improve Prime Day shopping experience",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/retro/as-a-retro-gaming-expert-the-biggest-piece-of-prime-day-advice-i-can-give-is-to-focus-on-small-setup-improvements/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/S7mqnm3DfKYXuMUW9vVayT-1920-80.jpg",
-    "published_at": "2026-10-07T13:13:21.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a2e15f8dada7",
-    "slug": "atmosfar-launches-in-early-access-on-october-29",
-    "headline": "ATMOSFAR launches in Early Access on October 29",
-    "summary": "“Sky-high” cooperative survival game ATMOSFAR will launch in Early Access for PC via Steam and …",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/atmosfar-launches-in-early-access-on-october-29"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a2e15f8dada7/800/600",
-    "published_at": "2026-10-07T13:12:24.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "323ecb569339",
-    "slug": "lenovos-legion-go-s-has-dropped-by-14-this-prime-day-beating-the-steam",
-    "headline": " Lenovo's Legion Go S has dropped by 14% this Prime Day, beating the Steam Deck in price and performance ",
-    "summary": "I'd be picking it over the Steam Deck anyway.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/lenovos-legion-go-s-has-dropped-by-14-percent-this-prime-day-beating-the-steam-deck-in-price-and-performance/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/YE7fT7XGMMhvJPJLZRaXWT-1920-80.jpg",
-    "published_at": "2026-10-07T13:10:35.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "fc223f056291",
-    "slug": "it-changes-the-notion-of-safety-for-the-enemies-but-also-for-you-rainb",
-    "headline": "\"It changes the notion of safety for the enemies, but also for you\": Rainbow Six Tactics' destruction undoes the classic dynamics of flanking",
-    "summary": "During the hands-off presentation of Rainbow Six Tactics at Gamescom, destruction obviously featured. Walls were breached, cover was blown up, and masonry was peppered with rounds. It looked excellent, but it was also familiar from other turn-based tactical games. Considering the focus of scenery destruction in Rainbow Six Siege, I wasn't sure how the team were actually advancing the tech…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/it-changes-the-notion-of-safety-for-the-enemies-but-also-for-you-rainbow-six-tactics-destruction-undoes-the-classic-dynamics-of-flanking"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Rainbow-Six-Tactics-breach-line-up.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-07T13:07:37.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "451420c0b68e",
-    "slug": "10-hours-with-jonathan-blows-new-puzzle-game-order-of-the-sinking-star",
-    "headline": "10 Hours With Jonathan Blow’s New Puzzle Game Order Of The Sinking Star",
-    "summary": "Order of the Sinking Star is game of twists and turns",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/i-love-intricate-puzzles-but-jonathan-blows-latest-block-pusher-is-complicated-2000741133"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/order-of-the-sinking-star4-1280x720.jpg",
-    "published_at": "2026-10-07T13:00:49.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
