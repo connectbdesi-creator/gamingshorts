@@ -20289,5 +20289,56 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-08T11:37:33.494Z"
+  },
+  {
+    "slug": "dragon-ball-z-burst-limit",
+    "name": "Dragon Ball Z: Burst Limit",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/4a1/4a132c5780f2f853d54606163ea620b1.jpg",
+    "released": "2008-01-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Arcade",
+      "Action",
+      "Fighting"
+    ],
+    "platforms": [
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/1d4/1d4b414ee913e27eb7ed7dac84eeee10.jpg",
+      "https://media.rawg.io/media/screenshots/192/192dfa7df0e4f9256459dfad2258a3d6.jpg",
+      "https://media.rawg.io/media/screenshots/e92/e92aec43c22e27fc90676d5769c07e8a.jpg",
+      "https://media.rawg.io/media/screenshots/486/486bac0e2e4903fbbabe57243fb91849.jpg",
+      "https://media.rawg.io/media/screenshots/814/81411a9dc512c323cbdeb25a4615ba1e.jpeg",
+      "https://media.rawg.io/media/screenshots/f2f/f2f02d5733a18add681c8f8b5537eacc.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-08T13:40:09.749Z"
+  },
+  {
+    "slug": "hellraiser-revival",
+    "name": "Clive Barker's Hellraiser: Revival",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/816/8167f331942bc2cb8a6711938cd17f5c.jpg",
+    "released": "2026-10-08",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X",
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/de4/de45de8994fbed7891da2c9023ed3218.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-08T13:40:18.465Z"
   }
 ]
