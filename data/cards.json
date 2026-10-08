@@ -1,5 +1,406 @@
 [
   {
+    "id": "58ebf13383fc",
+    "slug": "dragons-dogma-2-dark-arisen-the-big-pre-launch-interview",
+    "headline": "Dragon's Dogma 2: Dark Arisen - The Big Pre-Launch Interview",
+    "summary": "TheGamer interviews the game's leads at Tokyo Game Show ahead of the DLC's launch",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/dragons-dogma-2-dark-arisen-tokyo-game-show-director-interview/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/dragon-s-dogma-2_-dark-arisen-announcement-trailer-1-37-screenshot.png",
+    "published_at": "2026-10-08T16:30:16.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dragons-dogma-2-dark-arisen",
+    "game_label": "Dragon's Dogma 2: Dark Arisen"
+  },
+  {
+    "id": "09e233e87107",
+    "slug": "minecrafts-switch-2-upgrade-makes-one-nintendo-mash-up-worth-revisitin",
+    "headline": "Minecraft's Switch 2 Upgrade Makes One Nintendo Mash-Up Worth Revisiting",
+    "summary": "Minecraft is coming to Switch 2 with Vibrant Visuals, but the updates to the console exclusive Mash-Up pack might be the biggest draw of the port.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/minecraft-switch-2-super-mario-mash-up-vibrant-visuals/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/minecraft-mario-pack-banner.jpg",
+    "published_at": "2026-10-08T16:30:13.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3c16ceaf8622",
+    "slug": "echo-weaver",
+    "headline": "Echo Weaver",
+    "summary": "A demo creator shares a glowing review of a potential new game, Echo Weaver, from their perspective as Head of Publishing for Akupara Games.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/10/08/you-have-minutes-to-live-introducing-echo-weaver/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/3c16ceaf8622/800/600",
+    "published_at": "2026-10-08T16:30:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "echo-weaver",
+    "game_label": "Echo Weaver"
+  },
+  {
+    "id": "1efd335b1065",
+    "slug": "prison-of-husks-launches-january-27-2027",
+    "headline": "PRISON OF HUSKS launches January 27, 2027",
+    "summary": "Soulslike action RPG PRISON OF HUSKS will launch for PlayStation 5 and PC via Steam …",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/prison-of-husks-launches-january-27-2027"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/1efd335b1065/800/600",
+    "published_at": "2026-10-08T16:29:29.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8c91ea04768c",
+    "slug": "25-years-after-burnout-star-wars-galactic-racer-boss-says-modern-gamer",
+    "headline": "25 Years After Burnout, Star Wars: Galactic Racer Boss Says Modern Gamers Can Handle More",
+    "summary": "Fuse Games CEO Matt Webster comments on the evolution of gaming, noting that modern players can handle more complex experiences, in a conversation about 25 years since the release of Star Wars: Galactic Racer.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "xbox",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/racing/25-years-after-burnout-star-wars-galactic-racer-studio-lead-says-we-are-asking-way-more-out-of-players-than-weve-ever-done-because-modern-players-are-built-different/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/eBePe2qFs6EmiUeSViMnd7-1920-80.jpg",
+    "published_at": "2026-10-08T16:27:28.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "star-wars-galactic-racer",
+    "game_label": "Star Wars: Galactic Racer"
+  },
+  {
+    "id": "b9e3fec4d3a2",
+    "slug": "waltz-and-jam-launches-december-3-for-ps5-switch-2-and-pc",
+    "headline": "Waltz and Jam launches December 3 for PS5, Switch 2, and PC",
+    "summary": "Top-down puzzle action adventure game Waltz and Jam will launch for PlayStation 5, Switch 2, …",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/waltz-and-jam-launches-december-3-for-ps5-switch-2-and-pc"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/b9e3fec4d3a2/800/600",
+    "published_at": "2026-10-08T16:27:19.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f602fe39c995",
+    "slug": "strange-scaffold-announces-narrative-tactics-game-gods-with-badges-for",
+    "headline": "Strange Scaffold announces narrative tactics game Gods With Badges for PC",
+    "summary": "Strange Scaffold has announced Gods With Badges, a narrative tactics game that examines the power, …",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/strange-scaffold-announces-narrative-tactics-game-gods-with-badges-for-pc"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/f602fe39c995/800/600",
+    "published_at": "2026-10-08T16:25:30.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "323839151199",
+    "slug": "crowning-the-best-fps-mode-of-all-time-through-1v1-combat",
+    "headline": "Crowning the Best FPS Mode of All Time through 1v1 Combat",
+    "summary": "PC Gamer discusses the best FPS mode of all time, highlighting the competitive 1v1 combat of popular multiplayer games.",
+    "category": "esports",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/fps/crowning-the-best-fps-mode-of-all-time-through-1v1-combat-round-2/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/op5rexCxbL3FSYU6CUmJhc-1920-80.jpg",
+    "published_at": "2026-10-08T16:24:06.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "cf40e4e1cbda",
+    "slug": "why-is-amazon-giving-away-the-new-star-wars-game-for-free-point-it-out",
+    "headline": "Why is Amazon giving away the new Star Wars game for free? | Point It Out!",
+    "summary": "What is Amazon Luna and why can I play Star Wars: Galactic Racer on it for free?? Amazon has a game streaming platform that is available to any Amazon Prime subscriber and no one has heard about it. This week on Point It Out!, Patches and Simone discuss whether Amazon's strategy of adding big brand-name games like Star Wars and…",
+    "category": "patches",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/video/why-is-amazon-giving-away-the-new-star-wars-game-for-free-point-it-out/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/pio-amazon-star-wars-thumb.png",
+    "published_at": "2026-10-08T16:18:41.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5f957dc4af23",
+    "slug": "as-it-lays-off-developers-and-closes-studios-xbox-gets-into-the-movie",
+    "headline": " As it lays off developers and closes studios, Xbox gets into the movie business ",
+    "summary": "Asha Sharma's latest big move is all about bringing \"franchises\" to the world in ways that don't involve games.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/as-it-lays-off-developers-and-closes-studios-xbox-gets-into-the-movie-business/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/FDwfXMt6QbmdCHJ7RMLHMM-1920-80.jpg",
+    "published_at": "2026-10-08T16:18:25.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "4cb103c40996",
+    "slug": "drunken-goddess-reflux-launches-on-december-8",
+    "headline": "Drunken Goddess Reflux Launches on December 8",
+    "summary": "Survival game Drunken Goddess Reflux launches on December 8 for PC via Steam.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/drunken-goddess-reflux-launches-december-8"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/4cb103c40996/800/600",
+    "published_at": "2026-10-08T16:17:31.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "drunken-goddess-reflux",
+    "game_label": "Drunken Goddess Reflux"
+  },
+  {
+    "id": "cf09a04b237c",
+    "slug": "all-hail-the-long-steam-machine-pimaxs-new-steamos-ready-mini-pc",
+    "headline": " All hail the long steam machine, Pimax's new SteamOS-ready mini PC ",
+    "summary": "It looks like a Steam Machine, and it runs SteamOS, so it must be a steam machine.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/steam-machines/all-hail-the-long-steam-machine-pimaxs-new-steamos-ready-mini-pc/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/wEvAqYL7gQpUtTDDmmkxJM-1920-80.png",
+    "published_at": "2026-10-08T16:17:17.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b09a52a24a9f",
+    "slug": "pimax-says-ill-have-what-valves-having-as-it-announces-new-wireless-vr",
+    "headline": " Pimax says 'I'll have what Valve's having' as it announces new wireless VR headset, foveated streaming, updated controllers, and long Steam Machine ",
+    "summary": "Imagine a Steam Machine but taller… yep, you got it.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/vr-hardware/pimax-says-ill-have-what-valves-having-as-it-announces-new-wireless-vr-headset-foveated-streaming-updated-controllers-and-long-steam-machine/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/8jEcrCJhZVLdSPuYMx4z5B-1920-80.png",
+    "published_at": "2026-10-08T16:17:11.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b213ee493f61",
+    "slug": "french-revolution-narrative-deckbuilder-lazares-sacrifice-announced-fo",
+    "headline": "French Revolution narrative deckbuilder Lazare’s Sacrifice announced for PC",
+    "summary": "Publisher Curve Games and developer Dream Reality Interactive have announced Lazare’s Sacrifice, a narrative deckbuilder …",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/french-revolution-narrative-deckbuilder-lazares-sacrifice-announced-for-pc"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/b213ee493f61/800/600",
+    "published_at": "2026-10-08T16:15:14.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c6c6ab7bc73f",
+    "slug": "spending-on-switch-2-game-key-cards-in-the-us-has-risen-by-631",
+    "headline": "Spending On Switch 2 Game-Key Cards In The U.S. Has Risen By 631%",
+    "summary": "Overall physical media spending increased 5%. Circana's Mat Piscatella has posted a breakdown of the firm's latest sales report for the U.S., providing an interesting statistic for Game-Key Cards on the Switch 2. According to Piscatella, spending on Game-Key Cards has risen by a whopping 631% in the region during 2026. This figure is so substantial that it's actually offset…",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/spending-on-switch-2-game-key-cards-in-the-u-s-has-risen-by-631percent"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/cf2e354f895ec/large.jpg",
+    "published_at": "2026-10-08T16:15:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "54322bc23109",
+    "slug": "best-buy-revives-midnight-launches-with-sold-out-zelda-switch-2-hardwa",
+    "headline": "Best Buy Revives Midnight Launches With Sold-Out 'Zelda' Switch 2 Hardware",
+    "summary": "Good news for Zelda fans who haven't pre-ordered the game or its Switch 2 console and Pro Controller",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/best-buy-zelda-switch-2-preorder-midnight-launch-store-locator/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-legend-of-zelda-40th-anniversary-direct-9-8-2026-59-36-screenshot.jpg",
+    "published_at": "2026-10-08T16:05:31.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a21c29649a47",
+    "slug": "zelda-switch-2-console-and-pro-controller-restock-date-officially-conf",
+    "headline": "Zelda Switch 2 Console and Pro Controller Restock Date Officially Confirmed",
+    "summary": "Legend of Zelda fans wanting to get their hands on the specially-themed Switch 2 console and Pro Controller have another opportunity to do so.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/zelda-switch-2-console-pro-controller-restock/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/zelda-switch-2-console-restock-pre-order.jpg",
+    "published_at": "2026-10-08T16:03:52.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "11f62416d015",
     "slug": "castlevania-meets-groundhog-day-in-a-must-play-new-game-pass-hit",
     "headline": "Castlevania Meets Groundhog Day In a Must-Play New Game Pass Hit",
@@ -42,6 +443,50 @@
     "game_label": null
   },
   {
+    "id": "8ec55e0910ac",
+    "slug": "europe-shows-up-for-physical-games-51-of-wolverines-ps5-sales-for-disc",
+    "headline": "Europe Shows Up for Physical Games, 51% of Wolverine's PS5 Sales for Disc Version",
+    "summary": "There was a disc, so they bought it. Sony is yet to share official Marvel's Wolverine sales data, but firms worldwide have begun sharing their own points and projected figures. And, according to GSD data shared by The Game Business, physical copies accounted for 35% of the PS5 game's sales. If you narrow the data to Europe, however, it shows…",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/europe-shows-up-for-physical-games-51percent-of-wolverines-ps5-sales-for-disc-version"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/9bf5025a0e3b1/large.jpg",
+    "published_at": "2026-10-08T16:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "522ddaa27c38",
+    "slug": "clive-barkers-hellraiser-revival-is-getting-some-seriously-divided-rev",
+    "headline": "Clive Barker's Hellraiser: Revival Is Getting Some Seriously Divided Reviews At Launch",
+    "summary": "Mixed impressions for sure. One of the games we mentioned in today's \"out now\" article is Clive Barker's Hellraiser: Revival, and looking at the initial reviews that have been published over the past few hours, it's hard to know what to make of this one. While some reviewers seem to have really enjoyed it and are pushing towards the high…",
+    "category": "reviews",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/clive-barkers-hellraiser-revival-is-getting-some-seriously-divided-reviews-at-launch"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/e1e8f9b13ac9d/large.jpg",
+    "published_at": "2026-10-08T16:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "f69c0ae2a878",
     "slug": "pt-complete-walkthrough",
     "headline": "PT Complete Walkthrough",
@@ -63,6 +508,29 @@
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/p-t-full-walkthrough-all-puzzles.jpg",
     "published_at": "2026-10-08T15:55:42.000Z",
     "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "775ccb8af796",
+    "slug": "amazon-alexa-tablets-may-not-satisfy-gamers",
+    "headline": "Amazon Alexa Tablets May Not Satisfy Gamers",
+    "summary": "Amazon has launched a new tablet line with Alexa, but gamers may prefer a budget alternative for gaming purposes.",
+    "category": "industry",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/hardware/amazons-started-taking-its-tablet-game-seriously-but-it-might-be-too-little-too-late-for-mobile-players/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/tFfpp2BkUPYZpcExVNozWR-1920-80.jpg",
+    "published_at": "2026-10-08T15:50:03.000Z",
+    "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4224,456 +4692,6 @@
     ],
     "image_url": "https://cdn.mos.cms.futurecdn.net/7TrwDrcq3CgDbcAsp4PZdM-1920-80.jpg",
     "published_at": "2026-10-07T22:06:11.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3bb65289d34b",
-    "slug": "review-dragons-dogma-2-dark-arisen-switch-2-an-action-rpg-great-return",
-    "headline": "Review: Dragon's Dogma 2: Dark Arisen (Switch 2) - An Action RPG Great Returns In Fine Form",
-    "summary": "Wolves hunt in packs, Arisen. While travelling the frigid wastes of Norgan, my Pawns and I were assailed by a band of Hobgoblins, and due to my poor leadership skills – causing multiple groups to aggro at once by running by instead of dealing with them then and there – we were overwhelmed. The tide was finally turning as I…",
-    "category": "reviews",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/dragons-dogma-2-dark-arisen"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/1eadd7b09a89d/large.jpg",
-    "published_at": "2026-10-07T22:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "95917518bb24",
-    "slug": "crunchyroll-dedicated-hub-announced-for-ps5",
-    "headline": "Crunchyroll dedicated hub announced for PS5",
-    "summary": "Sony Interactive Entertainment and Crunchyroll will release a dedicated anime hub for the PlayStation 5 …",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/crunchyroll-dedicated-hub-announced-for-ps5"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/95917518bb24/800/600",
-    "published_at": "2026-10-07T21:48:07.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1f98962b5390",
-    "slug": "9-of-the-best-rpgs-on-switch-2-are-currently-on-sale",
-    "headline": "9 Of The Best RPGs on Switch 2 Are Currently On Sale",
-    "summary": "Some of them are Amazon Prime deals, and won't last long",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/9-of-the-best-rpgs-on-switch-2-are-currently-on-sale-2000742011"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/elliot-1280x720.jpg",
-    "published_at": "2026-10-07T21:40:05.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "254ea7d7e891",
-    "slug": "playstation-6s-biggest-advantage-may-have-already-been-revealed-by-nau",
-    "headline": "PlayStation 6's Biggest Advantage May Have Already Been Revealed by Naughty Dog",
-    "summary": "PlayStation 6 may already have its strongest selling point, and a former Naughty Dog developer just explained why Sony could lean on it.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/playstation-6-naughty-dog-first-party-exclusive-games/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/nathan-drake-from-uncharted-jordan-a-mun-from-intergalactic-the-heretic-prophet-and-joel-miller-from-the-last-of-us.jpg",
-    "published_at": "2026-10-07T21:15:13.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b41192ebb03d",
-    "slug": "castlevania-belmonts-curse-demo-hides-fighting-game-easter-eggs-behind",
-    "headline": "Castlevania: Belmont's Curse Demo Hides Fighting Game Easter Eggs Behind Secret Weapon",
-    "summary": "The developers of Castlevania: Belmont’s Curse are wearing their love of fighting games on their sleeves, as eagle-eyed fans have spotted some unmistakable references to classic fighting game characters in its demo.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/castlevania-belmonts-curse-demo-hides-fighting-game-easter-eggs-behind-secret-weapon"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/07/belmonts-curse-references-fighting-games-1791407357044.jpg",
-    "published_at": "2026-10-07T21:14:11.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c9e4416df52c",
-    "slug": "this-fanatical-deal-drops-marathon-on-pc-to-1939-cheaper-than-steams-a",
-    "headline": "This Fanatical Deal Drops Marathon on PC to $19.39, Cheaper Than Steam's Autumn Sale",
-    "summary": "This Fanatical Deal Drops Marathon on PC to $19.39, Cheaper Than Steam's Autumn Sale",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/marathon-pc-steam-deal-fanatical-october-2026"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2023/05/24/marathon-blogroll-02-1684962151922.jpg",
-    "published_at": "2026-10-07T21:11:56.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0a3f37cbcb31",
-    "slug": "resident-evil-requiem-dlc-plans-leak-online",
-    "headline": "Resident Evil Requiem DLC Plans Leak Online",
-    "summary": "A reputable source has let a secret about the upcoming story DLC for Resident Evil Requiem slip, revealing the return of a villain.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/resident-evil-requiem-dlc-leak/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/resident-evil-requiem-leon-look.jpg",
-    "published_at": "2026-10-07T21:09:59.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8d35470b336a",
-    "slug": "arc-raiders-lead-says-steam-player-count-discourse-doesnt-feel-great-b",
-    "headline": " Arc Raiders lead says Steam player count discourse doesn't feel great, but Embark \"accepted\" it ",
-    "summary": "\"You have to stick to your guns a bit\"",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/third-person-shooter/arc-raiders-lead-says-steam-player-count-discourse-doesnt-feel-great-but-embark-accepted-the-fact-that-we-would-have-less-players/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/qivcS5DRM2d7CEA8TusBDn-1920-80.jpg",
-    "published_at": "2026-10-07T21:06:48.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f66395121595",
-    "slug": "fables-creator-just-revealed-something-that-makes-playgrounds-reboot-h",
-    "headline": "Fable's Creator Just Revealed Something That Makes Playground's Reboot Harder to Dismiss",
-    "summary": "Fable creator Peter Molyneux once had doubts about Playground's reboot, but his latest reaction gives the new game a little more credibility.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/fable-reboot-peter-molyneux-playground-games-praise/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/fable-protagonist-looking-at-the-heroes-guild.jpg",
-    "published_at": "2026-10-07T20:46:13.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "184042d3b0f9",
-    "slug": "controversial-horror-series-ropes-me-back-in-with-silent-hills-origina",
-    "headline": "Controversial Horror Series Ropes Me Back In With Silent Hill’s Original Composer And Lady Dimitrescu",
-    "summary": "The Remothered games are true cult classics in the way that players find them either insufferable or inspired. As a lover of developer Stormind Games' antique perversions, but also a hater of its convoluted storytelling, I regretfully exist somewhere in between. But I know I won't be able to resist the new Remothered: Red Nun's Legacy when it launches later…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/controversial-horror-series-ropes-me-back-in-with-silent-hills-original-composer-and-lady-dimitrescu/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/ss_f504ed3405320bb12b21ce54c905536f3ef5598a.1920x1080.jpg?w=300",
-    "published_at": "2026-10-07T20:45:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "55e7cbad00a3",
-    "slug": "becrowned-adds-ps5-xbox-series-and-switch-2-versions-delayed-to-q1-202",
-    "headline": "BECROWNED adds PS5, Xbox Series, and Switch 2 versions, delayed to Q1 2027",
-    "summary": "Psychological survival horror game BECROWNED will launch for PlayStation 5, Xbox Series, Switch 2, and …",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/becrowned-adds-ps5-xbox-series-and-switch-2-versions-delayed-to-q1-2027"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/55e7cbad00a3/800/600",
-    "published_at": "2026-10-07T20:34:09.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "72ce6d9fd8a2",
-    "slug": "nintendo-switch-sports-resort-video-preview",
-    "headline": "Nintendo Switch Sports Resort - Video Preview",
-    "summary": "One of the easiest Nintendo franchises to pick up and play returns for a new generation on Nintendo Switch 2! We recently got the chance to go hands on and play most of the sports on offer in the upcoming Switch 2 exclusive Nintendo Switch Sports Resort. With a host of new activities, challenges, and a relaxing mode all about…",
-    "category": "reviews",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/video/nintendo-switch-sports-resort-video-preview/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/nintendo-switch-sports-resort-preview-site.jpg",
-    "published_at": "2026-10-07T20:34:09.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a33822a6a0f4",
-    "slug": "gravity-well-lays-off-more-than-40-developers-after-losing-its-funding",
-    "headline": "Gravity Well lays off more than 40 developers after losing its funding",
-    "summary": "Gravity Well, an independent studio founded by Respawn Entertainment alumni, has let go of the majority of its team after losing its funding.\n Read more",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-07-at-21.23.11.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-07T20:30:32.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "711b1a05c484",
-    "slug": "the-best-selling-game-of-2025-storms-onto-game-pass-one-year-later",
-    "headline": "The Best-Selling Game Of 2025 Storms Onto Game Pass One Year Later",
-    "summary": "Battlefield 6 joins the subscription service this month, but so do a bunch of neat-looking indies",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/the-best-selling-game-of-2025-storms-onto-game-pass-one-year-later-2000741981"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2025/10/battlefield-6-1280x741.jpg",
-    "published_at": "2026-10-07T20:20:27.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "dba59a86c1f1",
-    "slug": "steam-is-about-to-start-getting-some-of-the-best-japanese-pixel-art-in",
-    "headline": " Steam is about to start getting some of the best Japanese pixel art in gaming history ",
-    "summary": "It only took about 35 years for these PC-98 games to start being released in English.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/adventure/steam-is-about-to-start-getting-some-of-the-best-japanese-pixel-art-in-gaming-history/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/5XJVK8aR5TyyvbB25gtKZc-1920-80.png",
-    "published_at": "2026-10-07T20:15:43.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ecb98a7a7d09",
-    "slug": "baldurs-gate-3-console-version-just-got-fishing",
-    "headline": "Baldur's Gate 3 Console Version Just Got Fishing",
-    "summary": "It comes as part of 19 new content additions vetted and approved by the studio.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/baldurs-gate-3-console-players-can-now-fish/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/shadowheart-at-a-fishing-site-in-baldur-s-gate-3.png",
-    "published_at": "2026-10-07T20:00:17.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b106358d85c2",
-    "slug": "three-years-later-the-outlast-trials-just-smashed-its-concurrent-playe",
-    "headline": "Three Years Later, The Outlast Trials Just Smashed Its Concurrent-Player Record ",
-    "summary": "The Outlast Trials, Red Barrels' co-op horror game set in its wider Outlast universe, just broke its concurrent-player record, eclipsing 120,000 players. The previous high came when the game launched in Steam Early Access in 2023 and the player count climbed to 36,000. Today's new record means the indie horror game reset the bar with a total more than four…",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/three-years-later-the-outlast-trials-just-smashed-its-concurrent-player-record/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/4268355-fv0lrv0w.webp?w=300",
-    "published_at": "2026-10-07T20:00:15.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "311b44703ede",
-    "slug": "what-if-resident-evil-had-debuted-on-snes-dead-of-darkness-2-has-the-a",
-    "headline": "What if Resident Evil Had Debuted on SNES? Dead of Darkness 2 Has the Answer on PS5",
-    "summary": "Sprite-based scares. I didn’t play the original Dead of Darkness, but its successor – in development for PS5 and PS4 – has caught my eye. This game looks a lot like Resident Evil if it had been scaled back for the Super Nintendo, and while dev Retrofiction Games is clearly doing things here that wouldn’t be possible on 16-bit machines,…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/what-if-resident-evil-had-debuted-on-snes-dead-of-darkness-2-has-the-answer-on-ps5"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/91e5ac819bbb0/large.jpg",
-    "published_at": "2026-10-07T20:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "14a8ee78b2f3",
-    "slug": "dead-of-darkness-2-announced-for-ps5-xbox-series-ps4-xbox-one-switch-a",
-    "headline": "Dead of Darkness 2 announced for PS5, Xbox Series, PS4, Xbox One, Switch, and PC",
-    "summary": "Retrofiction Games has announced Dead of Darkness 2, an isometric 2D survival horror sequel coming …",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/dead-of-darkness-2-announced-for-ps5-xbox-series-ps4-xbox-one-switch-and-pc"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/14a8ee78b2f3/800/600",
-    "published_at": "2026-10-07T19:56:27.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a6c29098f9bd",
-    "slug": "arc-raiders-lead-encourages-players-to-take-a-break-and-play-some-othe",
-    "headline": " Arc Raiders lead encourages players to \"take a break and play some other games\" if out of content ",
-    "summary": "\"A lot of new games aren't really getting the chance they should\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/third-person-shooter/arc-raiders-lead-says-its-good-to-take-a-break-and-play-some-other-games-if-youre-out-of-content-and-hes-right/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/GPmwup4hy6soXjmMwNy34H-1920-80.jpg",
-    "published_at": "2026-10-07T19:50:56.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
