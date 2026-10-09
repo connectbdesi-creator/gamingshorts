@@ -20796,5 +20796,54 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-09T11:38:29.413Z"
+  },
+  {
+    "slug": "bowser",
+    "name": "Bowser's Catle",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/dc6/dc695a7259e09d4fff2df1c04a133efc.jpg",
+    "released": "2019-03-17",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/e7b/e7bf13ffc49cf8a1bce8b71e9441d330.jpg",
+      "https://media.rawg.io/media/screenshots/bfb/bfbec3847aa0ea07d09fb7c8b0fda521.jpg",
+      "https://media.rawg.io/media/screenshots/4a5/4a5923e799fea0af4c58550aa8b523f0.jpg",
+      "https://media.rawg.io/media/screenshots/dc6/dc695a7259e09d4fff2df1c04a133efc.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-09T12:37:04.650Z"
+  },
+  {
+    "slug": "mafia-3-definitive-edition",
+    "name": "Mafia III: Definitive Edition",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/944/94497cb4d179b652ba8da2a52ab55a3e.jpg",
+    "released": "2020-05-19",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/ab8/ab8fb952a99a20364c2c7e19ae9e40f5.jpg",
+      "https://media.rawg.io/media/screenshots/cc5/cc5c2e753faac7676a41d0dd384bce1f.jpg",
+      "https://media.rawg.io/media/screenshots/0af/0afc6ff948ebeaa603d7de8ad8b3fd67.jpg",
+      "https://media.rawg.io/media/screenshots/5de/5de8281ab56176798eca534ec1f3fb38.jpg",
+      "https://media.rawg.io/media/screenshots/1bc/1bc19aa4d210a3ea43bec254139e490a.jpg",
+      "https://media.rawg.io/media/screenshots/6de/6dec9d620fdd9da2ecc8a948464bb5aa.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-09T12:37:05.526Z"
   }
 ]
