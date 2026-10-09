@@ -1,5 +1,30 @@
 [
   {
+    "id": "b25b34666368",
+    "slug": "live-action-cyberpunk-2077-movie-in-development-at-paramount",
+    "headline": "Live-Action Cyberpunk 2077 Movie In Development At Paramount",
+    "summary": "Hollywood continues its rush to make more video game adaptations following Mario and Minecraft success",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/live-action-cyberpunk-2077-movie-in-development-at-paramount-2000742726"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/wake-up-samurai-cyberpunk-2077-is-getting-a-live-action-movie"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2025/06/25b4cff16bfa17dc3763017b01ee969b-1280x720.jpg",
+    "published_at": "2026-10-09T04:45:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "34140a19370c",
     "slug": "bexide-announces-copy-and-paste-hide-and-seek-party-game-cat-and-paste",
     "headline": "BeXide announces copy-and-paste hide-and-seek party game Cat and Paste! for PC",
@@ -21,6 +46,30 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "9d690c29905f",
+    "slug": "pokemon-themed-mystery-lego-bags-rumored-for-march-2027",
+    "headline": "Pokémon-Themed Mystery LEGO Bags Rumored for March 2027",
+    "summary": "A LEGO leaker claims to have information on a Pokémon-themed mystery bag series with Smart Brick support, set to release in March 2027 and priced at $12.99.",
+    "category": "deals",
+    "platform_tags": [
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/rumour-pokemon-themed-mystery-lego-bags-are-supposedly-on-the-way"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/4447ea3c53fb7/large.jpg",
+    "published_at": "2026-10-09T03:30:00.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "lego",
+    "game_label": "LEGO"
   },
   {
     "id": "6f8eda97b493",
@@ -1145,27 +1194,6 @@
     "image_url": "https://picsum.photos/seed/8959b5a5f1cd/800/600",
     "published_at": "2026-10-08T19:11:07.000Z",
     "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b25b34666368",
-    "slug": "live-action-cyberpunk-2077-movie-in-development-at-paramount",
-    "headline": "Live-Action Cyberpunk 2077 Movie In Development At Paramount",
-    "summary": "Hollywood continues its rush to make more video game adaptations following Mario and Minecraft success",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/live-action-cyberpunk-2077-movie-in-development-at-paramount-2000742726"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2025/06/25b4cff16bfa17dc3763017b01ee969b-1280x720.jpg",
-    "published_at": "2026-10-08T19:07:56.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4661,29 +4689,5 @@
     "comment_count": 0,
     "game": "dragon-ball-z-burst-limit",
     "game_label": "Dragon Ball Z: Burst Limit"
-  },
-  {
-    "id": "183e18bd50ab",
-    "slug": "after-playing-final-fantasy-vii-revelation-im-convinced-square-saved-s",
-    "headline": "After Playing Final Fantasy VII Revelation, I’m Convinced Square Saved Some Of The Best Stuff For Last",
-    "summary": "The author of Final Fantasy VII Revelation shares their experience with the game, suggesting that Square saved some of the best content for the final installment.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/final-fantasy-7-revelation-demo-preview-cid-vincent-2000741998"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/ff7rcid-1280x720.jpg",
-    "published_at": "2026-10-08T13:00:02.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "final-fantasy-vii-revelation",
-    "game_label": "Final Fantasy VII Revelation"
   }
 ]
