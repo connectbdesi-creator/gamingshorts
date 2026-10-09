@@ -20845,5 +20845,56 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-09T12:37:05.526Z"
+  },
+  {
+    "slug": "shadow-of-the-road",
+    "name": "Shadow of the Road",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/53d/53df3d564d8caf1fddd27118ec45e6dd.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "RPG"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/26c/26c11a22ecad2ae851c87717424377be.jpg",
+      "https://media.rawg.io/media/screenshots/ba9/ba9084b92ae54869fd19b4bc218fdfdc.jpg",
+      "https://media.rawg.io/media/screenshots/b8f/b8fbb0f0fa30b5995587500d87c3d917.jpg",
+      "https://media.rawg.io/media/screenshots/d29/d294b74c7f7c53797cb79b09ffee1ac0.jpg",
+      "https://media.rawg.io/media/screenshots/53d/53df3d564d8caf1fddd27118ec45e6dd.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-09T15:37:29.618Z"
+  },
+  {
+    "slug": "mtg",
+    "name": "MTG Life Counter App: Lotus",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/183/1831cf261681685047064f77fad8a37f.jpg",
+    "released": "2020-02-06",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Card",
+      "Board Games"
+    ],
+    "platforms": [
+      "iOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/9e6/9e668841de7e9b49dfb44dc2de32e3ee_MOPYfHR.jpg",
+      "https://media.rawg.io/media/screenshots/563/5637c3893718a8c35f14e0473d1daebc_z5Kx8se.jpg",
+      "https://media.rawg.io/media/screenshots/3e9/3e97ab895b889f8c52bcf8724185849c.jpg",
+      "https://media.rawg.io/media/screenshots/e8c/e8c737352591b2a5e066b4c8900e5fb9.jpg",
+      "https://media.rawg.io/media/screenshots/7b3/7b38390807b830711b66c5c5c6013ffb_1IZozdK.jpg",
+      "https://media.rawg.io/media/screenshots/060/06088e59ad6d1712c97e15db5feaf5fc.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-09T15:37:30.183Z"
   }
 ]
