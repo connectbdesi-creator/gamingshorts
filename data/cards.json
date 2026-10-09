@@ -1,5 +1,338 @@
 [
   {
+    "id": "c3e6862533c5",
+    "slug": "new-dd-baldurs-gate-3-series-stars-everyones-favorite-vampire-spawn",
+    "headline": "New D&D Baldur's Gate 3 Series Stars Everyone's Favorite Vampire Spawn",
+    "summary": "Dark Horse is launching a new graphic novel series based on the world of Baldur's Gate 3, while also revealing a new Dark Sun project.",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/baldurs-gate-3-dark-horse-comics-nycc/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/astarian-baldurs-gate-3-comic-lead-art.jpg",
+    "published_at": "2026-10-09T17:01:15.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "baldurs-gate-3",
+    "game_label": "Baldur's Gate 3"
+  },
+  {
+    "id": "b0a33faeb5ac",
+    "slug": "i-really-want-to-get-back-into-the-witcher-3-but-i-have-save-game-anxi",
+    "headline": "I Really Want to Get Back into The Witcher 3 but I Have Save Game Anxiety",
+    "summary": "The author revisits Geralt's world in The Witcher 3 Remastered, but finds it difficult to restart a big RPG and overcome save game anxiety.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/witcher-3-remastered-restart-campaign-save-game-anxiety/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/tw3re_launch_meditation_pc_16x9_clean.png",
+    "published_at": "2026-10-09T17:01:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
+    "id": "018d258f39f1",
+    "slug": "new-ps5-console-exclusive-soulslike-game-officially-confirmed-for-janu",
+    "headline": "New PS5 Console Exclusive Soulslike Game Officially Confirmed for January 27",
+    "summary": "PlayStation reveals a unique new low-poly soulslike game coming to PS5 on January 27, 2027.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/new-ps5-soulslike-games-prison-husks/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/prison-of-husks_keyart_1920x1080.jpg",
+    "published_at": "2026-10-09T17:01:13.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ce37e668f5ac",
+    "slug": "activision-drops-deep-dive-part-2-for-dmz-extraction-mode-in-call-of-d",
+    "headline": "Activision Drops Deep Dive Part 2 for DMZ Extraction Mode in Call of Duty: Modern Warfare 4",
+    "summary": "Activision has released a new video detailing the extraction mode in Call of Duty: Modern Warfare 4",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/activision-drops-deep-dive-part-2-for-dmz-extraction-mode/"
+      },
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/10/09/dmz-5-features-get-excited-for-mw4/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/ce37e668f5ac/800/600",
+    "published_at": "2026-10-09T17:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "call-of-duty-modern-warfare-4",
+    "game_label": "Call of Duty: Modern Warfare 4"
+  },
+  {
+    "id": "b2a4e279b736",
+    "slug": "podcast-playstation-is-bringing-back-old-franchises-but-which-ones-do",
+    "headline": "Podcast: PlayStation is bringing back old franchises, but which ones do we want most?",
+    "summary": "A recent podcast discussed the return of old franchises on PlayStation, sparking debate among fans on which games to revive.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/blog/podcast/podcast-playstation-is-bringing-back-old-franchises-but-which-ones-do-we-want-most/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/b2a4e279b736/800/600",
+    "published_at": "2026-10-09T16:52:58.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "eb9d4f90083a",
+    "slug": "xbox-makes-7-games-free-to-play-this-weekend",
+    "headline": "Xbox Makes 7 Games Free to Play This Weekend",
+    "summary": "Xbox is offering seven free-to-play games starting October 9, including Arc Raiders, High On Life 2, and S.T.A.L.K.E.R. 2.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/arc-raiders-high-on-life-2-free-new-xbox-games-october-9-2026/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/high-on-life-2.jpg",
+    "published_at": "2026-10-09T16:50:44.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c157722bba88",
+    "slug": "dragons-dogma-2-dark-arisen-where-to-find-amos",
+    "headline": "Dragon's Dogma 2: Dark Arisen - Where to Find Amos",
+    "summary": "This guide explains how to find Amos, The Truant Soldier, in the Dark Arisen expansion of Dragon's Dogma 2",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-where-to-find-amos-the-truant-soldier-quest-guide/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/c157722bba88/800/600",
+    "published_at": "2026-10-09T16:48:16.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dragons-dogma-2-dark-arisen",
+    "game_label": "Dragon's Dogma 2: Dark Arisen"
+  },
+  {
+    "id": "ea49da51e6e5",
+    "slug": "celestes-childhood-drawings-quest-walkthrough-in-arc-raiders",
+    "headline": "Celeste's Childhood Drawings Quest Walkthrough in Arc Raiders",
+    "summary": "A guide on how to complete the 'Celeste's Childhood Drawings' quest in Arc Raiders, set on Riven Tides.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/arc-raiders-celestes-childhood-drawings-quest-walkthrough-hotel-room-customs-house-quay/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/arc-raiders-celestes-childhood-drawings-header.jpg",
+    "published_at": "2026-10-09T16:47:50.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "arc-raiders",
+    "game_label": "Arc Raiders"
+  },
+  {
+    "id": "70a1d19777cd",
+    "slug": "marvel-rivals-devs-reveal-secret-to-avoiding-spoilers-on-mcu-event",
+    "headline": "Marvel Rivals Devs Reveal Secret to Avoiding Spoilers on MCU Event",
+    "summary": "Marvel Rivals developers share strategies for avoiding spoilers on the upcoming Avengers: Doomsday event without revealing too much about the game's season 2 characters.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/third-person-shooter/marvel-rivals-devs-try-not-to-spoil-avengers-doomsday-ahead-of-mcu-event-we-are-doing-everything-we-can-to-prevent-any-leaks/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/oYw5TiPM7VMeFV8h9hnqS8-1920-80.jpg",
+    "published_at": "2026-10-09T16:43:32.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "marvel-rivals",
+    "game_label": "Marvel Rivals"
+  },
+  {
+    "id": "33f58a0abb14",
+    "slug": "gears-of-war-e-day-estimated-to-have-sold-just-320000-copies-despite-r",
+    "headline": "Gears of War: E-Day Estimated To Have Sold Just 320,000 Copies Despite Rave Reviews",
+    "summary": "Despite positive reviews, Gears of War: E-Day has sold only 320,000 copies, sparking a debate about the effectiveness of Microsoft's Game Pass service.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/gears-of-war-e-day-estimated-to-have-sold-just-320000-copies-despite-rave-reviews-2000743262"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/10/gears-of-war-eday-1280x761.jpg",
+    "published_at": "2026-10-09T16:41:58.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gears-of-war-e-day",
+    "game_label": "Gears of War: E-Day"
+  },
+  {
+    "id": "674a771034ad",
+    "slug": "rockstar-hr-manager-claims-he-had-little-interest-in-staffs-union-memb",
+    "headline": "Rockstar HR manager claims he had \"little interest\" in staff's union membership status as fired GTA dev union-busting trail heats up",
+    "summary": "One of the witnesses in the ongoing Rockstar Games vs Garland & Others case has said he had \"little interest\" in evidence of unionisation efforts he was sent by an anonymous employee, prior to the developer laying off a substantial number of union Discord members.\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/rockstar-employment-tribunal-hr-manager-little-interest-union"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/grand-theft-auto-6-rockstar-iwgb-cutsom-header.webp?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-09T16:41:02.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5862642dc3ed",
+    "slug": "crazy-taxi-world-tour-welcome-to-brazil-trailer",
+    "headline": "Crazy Taxi: World Tour ‘Welcome to Brazil’ trailer",
+    "summary": "SEGA has released a new trailer for Crazy Taxi: World Tour showcasing the game’s Brazil …",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/crazy-taxi-world-tour-welcome-to-brazil-trailer"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/5862642dc3ed/800/600",
+    "published_at": "2026-10-09T16:37:50.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ff0f325569f6",
+    "slug": "ex-playstation-boss-prefers-good-20-to-25-hour-games-over-100-hour-beh",
+    "headline": " Ex-PlayStation boss prefers \"good 20 to 25-hour games\" over 100-hour behemoths ",
+    "summary": "The padding when you could rent games comes from the same root cause, he believes",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/ex-playstation-boss-prefers-good-20-to-25-hour-games-over-100-hour-behemoths-because-those-are-not-all-quality-hours/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/RwUPzue66tSmGxAsAA9Bvh-1920-80.png",
+    "published_at": "2026-10-09T16:37:24.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f1a172eeae7c",
+    "slug": "official-playstation-podcast-episode-550-now-this-is-podcasting",
+    "headline": "Official PlayStation Podcast Episode 550: Now This is Podcasting",
+    "summary": "The Official PlayStation Podcast discusses recent game completion, new adventures, and listener feedback, while also interviewing Fuse Games co-founder Matt Webster.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/10/09/official-playstation-podcast-episode-550-now-this-is-podcasting/"
+      }
+    ],
+    "image_url": "https://traffic.libsyn.com/playstation/Episode_550.mp3",
+    "published_at": "2026-10-09T16:32:01.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "5e3010f65993",
     "slug": "dragon-ball-super-beerus-officially-adding-new-fights-for-goku",
     "headline": "Dragon Ball Super: Beerus Officially Adding New Fights For Goku",
@@ -48,6 +381,86 @@
     "comment_count": 0,
     "game": "gears-of-war-e-day",
     "game_label": "Gears of War: E-Day"
+  },
+  {
+    "id": "2bcab98dff9b",
+    "slug": "crazy-taxi-world-tour-adds-brazil-as-next-location",
+    "headline": "Crazy Taxi: World Tour Adds Brazil as Next Location",
+    "summary": "Crazy Taxi: World Tour is expanding to Brazil as part of its globe-trotting selection of locations, with a new trailer revealing the latest destination.",
+    "category": "releases",
+    "platform_tags": [
+      "mobile",
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/crazy-taxi-world-tour-takes-you-to-brazil-as-another-location-is-revealed"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/a6480f11b1024/large.jpg",
+    "published_at": "2026-10-09T16:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "crazy-taxi-world-tour",
+    "game_label": "Crazy Taxi: World Tour"
+  },
+  {
+    "id": "beacec17fe05",
+    "slug": "wardogs-to-buy-player-loyalty-with-cash-and-xp",
+    "headline": "Wardogs to Buy Player Loyalty with Cash and XP",
+    "summary": "Wardogs, a tactical shooter game, will offer in-game rewards to encourage players to choose a specific team, the Blue team, in Season 2.",
+    "category": "esports",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/fps/wardogs-will-bribe-players-with-cash-and-xp-to-pick-blue-team-in-season-2/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/quGfuiKE7kHW9W8XDcB8yS-1920-80.jpg",
+    "published_at": "2026-10-09T16:29:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "wardogs",
+    "game_label": "Wardogs"
+  },
+  {
+    "id": "c34a3797e311",
+    "slug": "battlefield-6-season-5-adds-long-sought-server-browser",
+    "headline": "Battlefield 6 Season 5 Adds Long-Sought Server Browser",
+    "summary": "EA and Battlefield Studios are introducing a new server browser feature in Battlefield 6's upcoming Season 5, a long-awaited addition for the game's community.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/battlefield-6-is-adding-something-fans-have-wanted-since-day-1/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/battlefieldbvegas.png?w=300",
+    "published_at": "2026-10-09T16:21:38.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "battlefield-6",
+    "game_label": "Battlefield 6"
   },
   {
     "id": "f4d854881b1a",
@@ -271,6 +684,29 @@
     "game_label": "Wardogs"
   },
   {
+    "id": "91f842a8981b",
+    "slug": "wardogs-dev-admits-xbox-series-s-limitations",
+    "headline": "Wardogs Dev Admits Xbox Series S Limitations",
+    "summary": "Wardogs developer discusses how Xbox Series S hardware constraints are affecting game development, but argue these limitations bring unique benefits",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/wardogs-dev-holding-back-certain-features-because-of-xbox-series-s-but-working-to-very-low-end-hardware-has-its-benefits"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2022/11/30/seriess-1624390081463-1669817083526.jpg",
+    "published_at": "2026-10-09T16:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "wardogs",
+    "game_label": "Wardogs"
+  },
+  {
     "id": "cc8623e3c88e",
     "slug": "dungeons-dragons-is-going-to-outer-space-with-star-wars-tyro-squadron",
     "headline": "Dungeons & Dragons Is Going to Outer Space With Star Wars: Tyro Squadron, First Look at Official Art",
@@ -407,31 +843,6 @@
     "game_label": "Wardogs"
   },
   {
-    "id": "ce37e668f5ac",
-    "slug": "activision-drops-deep-dive-part-2-for-dmz-extraction-mode-in-call-of-d",
-    "headline": "Activision Drops Deep Dive Part 2 for DMZ Extraction Mode in Call of Duty: Modern Warfare 4",
-    "summary": "Activision has released a new video detailing the extraction mode in Call of Duty: Modern Warfare 4",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/activision-drops-deep-dive-part-2-for-dmz-extraction-mode/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/ce37e668f5ac/800/600",
-    "published_at": "2026-10-09T16:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "call-of-duty-modern-warfare-4",
-    "game_label": "Call of Duty: Modern Warfare 4"
-  },
-  {
     "id": "6f997845c0b4",
     "slug": "crimson-deserts-low-metacritic-score-explained-by-ceo",
     "headline": "Crimson Desert's Low Metacritic Score Explained by CEO",
@@ -458,6 +869,31 @@
     "comment_count": 0,
     "game": "crimson-desert",
     "game_label": "Crimson Desert"
+  },
+  {
+    "id": "a646642a4b99",
+    "slug": "battlefield-6s-halloween-event-brings-a-sci-fi-twist",
+    "headline": "Battlefield 6's Halloween Event Brings a Sci-Fi Twist",
+    "summary": "EA and Dice are planning a limited-time event for Battlefield 6, inspired by the horror classic Dead Space, ahead of Halloween. The event will feature non-canonical gameplay and monsters from the Dead Space universe.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/battlefield-6-dead-space-event-area-51"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/06/battlefield-dead-space-1791301809536.png",
+    "published_at": "2026-10-09T15:52:11.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "battlefield-6",
+    "game_label": "Battlefield 6"
   },
   {
     "id": "0bd037e1bbab",
@@ -4270,445 +4706,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "8959b5a5f1cd",
-    "slug": "forza-horizon-6-for-ps5-launches-january-26-2027-alongside-first-expan",
-    "headline": "Forza Horizon 6 for PS5 launches January 26, 2027 alongside first expansion",
-    "summary": "Forza Horizon 6 will launch for PlayStation 5 on January 26, 2027 alongside the game’s …",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/forza-horizon-6-for-ps5-launches-january-26-2027-alongside-first-expansion"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/forza-horizon-6-is-finally-coming-to-ps5-in-january-alongside-first-expansion"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/8959b5a5f1cd/800/600",
-    "published_at": "2026-10-08T19:11:07.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c7bf6e87db26",
-    "slug": "dave-the-diver-dlc",
-    "headline": "DAVE THE DIVER DLC",
-    "summary": "MINTROCKET has announced DAVE THE DIVER's final downloadable content pack for Subnautica 2",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/dave-the-diver-dlc-subnautica-2-content-pack-announced"
-      },
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/dave-the-diver-is-wrapping-up-its-dlc-plans-with-an-aquatically-appropriate-subnautica-2-collab"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/c7bf6e87db26/800/600",
-    "published_at": "2026-10-08T19:06:45.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "subnautica-2",
-    "game_label": "Subnautica 2"
-  },
-  {
-    "id": "8d68469c033b",
-    "slug": "bit-reactor-is-bringing-back-furloughed-workers-following-zero-company",
-    "headline": "Bit Reactor is bringing back furloughed workers following Zero Company’s launch",
-    "summary": "Bit Reactor, the developer of recent tactical-RPG Star Wars Zero Company, announced today that it has begun to bring back some of its previously...\nThe post Bit Reactor is bringing back furloughed workers following Zero Company’s launch appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/bit-reactor-is-bringing-back-furloughed-workers-following-zero-companys-launch/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/8d68469c033b/800/600",
-    "published_at": "2026-10-08T18:55:00.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d19e1c7827ea",
-    "slug": "the-road-of-dust-and-sorrow-launches-december-3",
-    "headline": "The Road of Dust and Sorrow launches December 3",
-    "summary": "Cozy survival horror adventure game The Road of Dust and Sorrow will launch for PlayStation …",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/the-road-of-dust-and-sorrow-launches-december-3"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/d19e1c7827ea/800/600",
-    "published_at": "2026-10-08T18:38:22.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "17e86aae490f",
-    "slug": "xbox-october-free-play-days-offers-arc-raiders-stalker-2-and-more",
-    "headline": "Xbox October Free Play Days Offers Arc Raiders, Stalker 2, And More",
-    "summary": "Xbox is kicking off the month with some excellent timed trials, helping you plan out exactly what you want to play over the weekend.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/xbox-free-play-days-october-lineup/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/ss_6c2eb259419a9c1c07fcfa80fc92b89545d919e8-1920x1080.jpg",
-    "published_at": "2026-10-08T18:31:42.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d64737f30e04",
-    "slug": "one-piece-3-devil-fruits-perfect-for-dragon-ranked",
-    "headline": "One Piece: 3 Devil Fruits Perfect For Dragon, Ranked",
-    "summary": "A list ranking the top 3 Devil Fruits suitable for Monkey D. Dragon, the main character in the popular manga and anime series One Piece.",
-    "category": "esports",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/one-piece-devil-fruits-perfect-for-dragon/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/dragon-devil-fruits.jpg",
-    "published_at": "2026-10-08T18:30:13.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "one-piece",
-    "game_label": "One Piece"
-  },
-  {
-    "id": "9615151993dc",
-    "slug": "the-witcher-3-remastered-gets-new-patch",
-    "headline": "The Witcher 3 Remastered Gets New Patch",
-    "summary": "CD Projekt Red has released a new patch for The Witcher 3 Remastered, addressing lighting issues and PC-specific problems related to GPU performance.",
-    "category": "patches",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/the-witcher-3-remastereds-latest-patch-brings-some-bloomin-improvements-to-the-games-bloom-problems-amongst-other-lighting-buffs"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/the-witcher-3-remastered-bloom-patch.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-08T18:30:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-witcher-3-wild-hunt",
-    "game_label": "The Witcher 3: Wild Hunt"
-  },
-  {
-    "id": "5a30b45dcb9e",
-    "slug": "ubisoft-closes-rainbow-six-mobile",
-    "headline": "Ubisoft Closes Rainbow Six Mobile",
-    "summary": "Ubisoft has announced that Rainbow Six Mobile will shut down in 2027, just months after its official launch on Android and iOS.",
-    "category": "deals",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/rainbow-six-mobile-shutting-down-2027-android-ios/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/r6-mobile.jpg",
-    "published_at": "2026-10-08T18:26:07.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "rainbow-six-mobile",
-    "game_label": "Rainbow Six Mobile"
-  },
-  {
-    "id": "c1bc9152e210",
-    "slug": "one-of-telltales-greatest-games-is-officially-making-a-comeback",
-    "headline": "One of Telltale's Greatest Games Is Officially Making a Comeback",
-    "summary": "Polygon reports on the revival of Telltale's critically acclaimed game series, with the return of its iconic villain, the Big Bad Wolf.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/the-wolf-among-us-remastered-release-date/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-wolf-among-us-header.png",
-    "published_at": "2026-10-08T18:20:16.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-walking-dead",
-    "game_label": "The Walking Dead"
-  },
-  {
-    "id": "9aa7149cbf93",
-    "slug": "final-fantasy-vii-revelation-announces-an-npc-ified-version-of-shiva-v",
-    "headline": "Final Fantasy VII Revelation Announces an NPC-ified Version of Shiva Voiced by Marisha Ray",
-    "summary": "Marisha Ray will voice a character based on Shiva from Final Fantasy VII, which is part of the Final Fantasy VII Revelation series",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/final-fantasy-vii-revelation-announces-an-npc-ified-version-of-shiva-voiced-by-marisha-ray-nycc-2026"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/08/shiva-1791483258644.png",
-    "published_at": "2026-10-08T18:19:41.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "final-fantasy-vii-revelation",
-    "game_label": "Final Fantasy VII Revelation"
-  },
-  {
-    "id": "d0869c288c60",
-    "slug": "steam-users-can-claim-a-2016-game-for-free-until-october-12",
-    "headline": "Steam Users Can Claim a 2016 Game for Free Until October 12",
-    "summary": "Steam users have a limited time to add a well-reviewed game to their digital libraries for free. The game is available until October 12. This offer is a great opportunity for users to expand their library without spending a dime.",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/steam-free-games-right-now-pony-island/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/steam-free-games-pony-island.jpg",
-    "published_at": "2026-10-08T18:15:35.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c343cdb04c87",
-    "slug": "best-rpgs-where-being-a-thief-pays-better-than-being-a-hero",
-    "headline": "Best RPGs Where Being A Thief Pays Better Than Being A Hero",
-    "summary": "Several RPGs offer more lucrative options for thieves than heroes, highlighting the financial benefits of breaking the rules in games.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/best-rpg-games-being-a-thief-pays-better-than-being-a-hero/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/gamerant-24.jpg",
-    "published_at": "2026-10-08T18:15:14.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "954ca4f333fb",
-    "slug": "volatiles-takes-the-piece-by-piece-map-building-of-boardgames-like-bet",
-    "headline": "Volatiles takes the piece-by-piece map building of boardgames like Betrayal at House on the Hill and slaps a gory survival shooter on top of them",
-    "summary": "I do love a boardgame where you reveal the tiles as you play. Sure, I also enjoy turning over all the pieces at the beginning of a game of Settlers of Catan and taking in all the tiles and trying to work out a strategy based on which resources are clustered near which port, but that's not the same as…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/volatiles-takes-the-piece-by-piece-map-building-of-boardgames-like-betrayal-at-house-on-the-hill-and-slaps-a-gory-survival-shooter-on-top-of-them"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Volatiles-bridge-fight.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-08T18:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "de1cb49696d6",
-    "slug": "clair-obscur-expedition-33-arrives-on-switch-via-crossover-update",
-    "headline": "Clair Obscur: Expedition 33 Arrives on Switch via Crossover Update",
-    "summary": "Nintendo Life reports on the arrival of Clair Obscur: Expedition 33 on the Nintendo Switch, made possible by a crossover update with Astral Ascent",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/10/clair-obscur-expedition-33-comes-to-astral-ascent-in-new-crossover-update"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/cfc985ba24d31/large.jpg",
-    "published_at": "2026-10-08T17:45:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "clair-obscur-expedition-33",
-    "game_label": "Clair Obscur: Expedition 33"
-  },
-  {
-    "id": "541613838218",
-    "slug": "claim-free-mcdonalds-fry-guard-shield-in-monopoly-go",
-    "headline": "Claim Free McDonald's Fry Guard Shield in Monopoly GO",
-    "summary": "A limited-time collectible is available in Monopoly GO, allowing players to receive a free McDonald's Fry Guard Shield.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/monopoly-go-claim-free-mcdonalds-fry-guard-shield/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/how-to-claim-free-mcdonald-s-fry-guard-shield-in-monopoly-go.jpg",
-    "published_at": "2026-10-08T17:44:54.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "monopoly-go",
-    "game_label": "Monopoly GO"
-  },
-  {
-    "id": "f1a36b99a9c9",
-    "slug": "subnautica-2-fans-can-finally-hunt-nibblers",
-    "headline": "Subnautica 2 Fans Can Finally Hunt Nibblers",
-    "summary": "PC Gamer reports that Subnautica 2's crossover DLC with Dave the Diver is now available, allowing players to hunt and kill the pesky Nibbler Mangos for the first time.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/adventure/subnautica-2-fans-can-finally-hunt-and-kill-those-pesky-nibbler-mangos-in-dave-the-divers-crossover-dlc/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/C4Q3ytn7o4ZG4AprVKUVdc-1920-80.jpg",
-    "published_at": "2026-10-08T17:40:53.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "subnautica-2",
-    "game_label": "Subnautica 2"
-  },
-  {
-    "id": "cc18543cb407",
-    "slug": "where-to-find-the-rubber-duck-key-in-hellraiser-revival",
-    "headline": "Where to find the Rubber Duck key in Hellraiser: Revival",
-    "summary": "A guide to finding the Rubber Duck key in the upcoming Hellraiser: Revival game",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/hellraiser-revival-rubber-duck-key-location-leviathan-statuette-piece-puzzle-solution-guide/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/10/1551980_5507.jpg",
-    "published_at": "2026-10-08T17:37:31.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "hellraiser-revival",
-    "game_label": "Hellraiser: Revival"
-  },
-  {
-    "id": "cffe87f696a8",
-    "slug": "gta-6-merchandise-unveiled-with-macca-the-gator-as-main-character",
-    "headline": "GTA 6 Merchandise Unveiled with Macca the Gator as Main Character",
-    "summary": "Rockstar Games has announced a merchandise collection for GTA 6, featuring an alligator character named Macca, ahead of the game's November release",
-    "category": "deals",
-    "platform_tags": [
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gta-6-merch-revealed-including-t-shirt-with-alligator-wearing-sunglasses-and-drinking-a-cocktail/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/alligator.png?w=300",
-    "published_at": "2026-10-08T17:37:17.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   }
 ]
