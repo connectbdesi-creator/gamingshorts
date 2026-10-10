@@ -1,5 +1,160 @@
 [
   {
+    "id": "fc3476dcc6fb",
+    "slug": "ps5-sales-plummet-amid-high-price-tag",
+    "headline": "PS5 Sales Plummet Amid High Price Tag",
+    "summary": "PS5 sales decline by 25% year-over-year as PlayStation struggles with high price point, according to Circana's August sales report.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/playstation-hardware-sales-hit-lowest-point-since-2013-in-us-and-ps5s-price-is-the-problem"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/f2f10df84b718/large.jpg",
+    "published_at": "2026-10-10T23:00:00.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "db0d807cfcf7",
+    "slug": "most-perfect-single-player-fps-games-nobody-plays-ranked",
+    "headline": "Most Perfect Single-Player FPS Games Nobody Plays, Ranked",
+    "summary": "Just because an FPS game achieves near perfection doesn't mean it will continue to be played indefinitely. These shooters need more attention.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/most-perfect-fps-games-nobody-plays-ranked/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/most-perfect-fps-games-nobody-plays-riddick-butcher-bay-rifle-action-feature-image.jpg",
+    "published_at": "2026-10-10T22:38:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f20448ac24fa",
+    "slug": "rumor-bethesda-has-reportedly-canceled-upcoming-switch-2-game",
+    "headline": "Rumor: Bethesda Has Reportedly Canceled Upcoming Switch 2 Game",
+    "summary": "A new rumor from credible insiders suggests that an upcoming Nintendo Switch 2 game has been quietly canceled by developer Bethesda.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/bethesda-switch-2-starfield-port-canceled-rumor/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/nintendo-switch-2-bethesda-canceled-port.jpg",
+    "published_at": "2026-10-10T22:30:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "1b34e37c6360",
+    "slug": "squadron-42-has-a-steam-page",
+    "headline": " Squadron 42 has a Steam page ",
+    "summary": "Star Citizen's singleplayer mode gets a new trailer and more signs of life.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/fps/squadron-42-has-a-steam-page/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Dnbw6BBDfDTWeGQ7qtaLae-1920-80.jpg",
+    "published_at": "2026-10-10T22:25:54.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "15ec4ebd7553",
+    "slug": "warner-bros-rebooting-thundercats-after-41-years",
+    "headline": "Warner Bros. Rebooting Thundercats After 41 Years",
+    "summary": "Warner Bros. has confirmed that a live-action reboot of the 1980s fantasy classic Thundercats is moving forward, with director Adam Wingard at the helm.",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/thundercats-movie-update/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/action-sequence.png",
+    "published_at": "2026-10-10T22:12:18.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "thundercats",
+    "game_label": "Thundercats"
+  },
+  {
+    "id": "4e68928339ae",
+    "slug": "beloved-nintendo-ds-game-gets-a-new-lease-on-life",
+    "headline": "Beloved Nintendo DS Game Gets a New Lease on Life",
+    "summary": "A classic Nintendo DS game is returning to the gaming world with a new Steam release, offering players a chance to experience the game once again after 16 years.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/nintendo-ds-horror-game-dementium-2-steam-release/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/nintendo-ds-steam-game-port.jpg",
+    "published_at": "2026-10-10T22:00:13.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "warioware-inc-mega-microgame",
+    "game_label": "WarioWare, Inc.: Mega Microgame$!"
+  },
+  {
+    "id": "259c078c36bf",
+    "slug": "new-naruto-game-teased-but-it-might-be-a-long-wait",
+    "headline": "New Naruto Game Teased, But It Might Be A Long Wait",
+    "summary": "Is a new Ultimate Ninja Storm coming, or will the next game be something else entirely?",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/naruto-project-rasengan-game-reveal-nycc-panel/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/narutoprojectrasengan.jpg",
+    "published_at": "2026-10-10T21:41:20.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "4ba118b0744e",
     "slug": "new-deadlock-heros-reload-animations-based-on-famous-chess-matches",
     "headline": "New Deadlock Hero’s Reload Animations Based On Famous Chess Matches",
@@ -4533,171 +4688,5 @@
     "comment_count": 0,
     "game": "runescape",
     "game_label": "RuneScape"
-  },
-  {
-    "id": "31c4cc81d2f1",
-    "slug": "it-takes-two-hops-onto-switch-2-next-week-marrying-visual-upgrades-cro",
-    "headline": "'It Takes Two' Hops Onto Switch 2 Next Week, Marrying Visual Upgrades & Cross-Play",
-    "summary": "Cross-platform counselling. After being rumoured earlier this year, Hazelight has announced that its award-winning co-op adventure, It Takes Two, will be getting a full Switch 2 upgrade next week. The new version launches on 15th October, as a free upgrade to anyone who owns the Switch 1 version. Naturally, the Friend's Pass will be sticking around too, so you'll be…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/10/it-takes-two-hops-onto-switch-2-next-week-marrying-visual-upgrades-and-cross-play"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/6b70d6a8fd237/large.jpg",
-    "published_at": "2026-10-09T15:30:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b9ffcb71372d",
-    "slug": "best-zelda-amiibo-are-back-in-stock-at-nintendo-uk",
-    "headline": "Best Zelda Amiibo Are Back in Stock at Nintendo UK",
-    "summary": "Nintendo UK is restocking popular Zelda amiibo figures, but the new Ocarina of Time figures remain unavailable.",
-    "category": "deals",
-    "platform_tags": [
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/toys-collectibles/the-new-ocarina-of-time-figures-are-nowhere-to-be-found-but-some-of-the-best-zelda-amiibo-are-back-at-nintendo-uk/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/6VF9umatVrYz9Ef9rbL6pD-1920-80.jpg",
-    "published_at": "2026-10-09T15:27:10.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "zelda",
-    "game_label": "Zelda"
-  },
-  {
-    "id": "25e23dcbbfe3",
-    "slug": "valve-reveals-steam-deck-performance-data-to-help-devs-optimize-games",
-    "headline": "Valve Reveals Steam Deck Performance Data to Help Devs Optimize Games",
-    "summary": "Valve is providing developers with real-world data on how well their games run on Steam Deck, aiming to improve compatibility and player experiences.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-is-telling-devs-how-well-their-games-actually-run-on-steam-deck-with-real-world-data/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/6GJnGNWCjG4p6jxpv43cKc-1920-80.jpg",
-    "published_at": "2026-10-09T15:26:22.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7d5d3211fcd2",
-    "slug": "wow-forever-patch-notes-leave-fans-asking-blizzard-why-and-hoping-for",
-    "headline": "WoW: Forever patch notes leave fans asking Blizzard 'why' and hoping for more class changes",
-    "summary": "Blizzard's latest WoW patch has sparked disappointment among fans, with many expecting more significant changes to the game's classes",
-    "category": "patches",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-forever-patch-notes-leave-fans-asking-blizzard-why-and-hoping-for-more-class-adjustments/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/EZ76FRqPidezQgChZgr2zA-1920-80.jpg",
-    "published_at": "2026-10-09T15:21:02.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "world-of-warcraft-forever",
-    "game_label": "World of Warcraft: Forever"
-  },
-  {
-    "id": "a40d73e9584f",
-    "slug": "nintendo-download-new-games-arrive-in-north-america",
-    "headline": "Nintendo Download: New Games Arrive in North America",
-    "summary": "The latest Nintendo Download update for North America includes new games and a sale on discounted titles",
-    "category": "releases",
-    "platform_tags": [
-      "switch",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-8th-october-north-america-plus-3-discounted-games-that-should-be-on-your-radar"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/7fdf3b5ce7e57/large.jpg",
-    "published_at": "2026-10-09T15:15:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "kingdom-hearts-collection",
-    "game_label": "Kingdom Hearts Collection"
-  },
-  {
-    "id": "aa776800f8aa",
-    "slug": "shadow-of-the-road-delayed-to-march-10-2027",
-    "headline": "Shadow of the Road Delayed to March 10, 2027",
-    "summary": "Publisher Owlcat Games and developer Another Angle Games have pushed the release date of their story-driven turn-based RPG Shadow of the Road to March 10, 2027",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/shadow-of-the-road-delayed-to-march-10-2027"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/aa776800f8aa/800/600",
-    "published_at": "2026-10-09T15:14:05.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "shadow-of-the-road",
-    "game_label": "Shadow of the Road"
-  },
-  {
-    "id": "3d691efd592f",
-    "slug": "wow-dev-wants-to-slow-down-the-speed-of-mmos",
-    "headline": "WoW Dev Wants to Slow Down the Speed of MMOs",
-    "summary": "A World of Warcraft developer expresses a desire to move away from the fast-paced nature of modern MMOs, citing a 'longing for a slower, more deliberate pace'",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dev-says-theres-a-real-longing-for-that-slower-more-deliberate-pace-in-mmos-a-deliberate-pushback-on-this-go-go-go-nature/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/tKRsxThWn74sJzkUVaGVy5-1920-80.jpg",
-    "published_at": "2026-10-09T15:13:04.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]

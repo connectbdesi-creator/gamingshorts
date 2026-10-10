@@ -21101,5 +21101,57 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-10T19:36:11.554Z"
+  },
+  {
+    "slug": "thundercats",
+    "name": "ThunderCats (1987)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/614/6143bb98a6747e82c15a34f563174ad0.jpg",
+    "released": "1987-01-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "Commodore / Amiga",
+      "Atari ST"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/071/07169047e8dbfe6341d763ba55c2a4e4.jpg",
+      "https://media.rawg.io/media/screenshots/dcf/dcff3010fbf8242b9fc34a4ab9e91cb2.jpg",
+      "https://media.rawg.io/media/screenshots/2aa/2aab7e3179d641a32efa0cc2a7846f9e.jpg",
+      "https://media.rawg.io/media/screenshots/541/541da0770db321b3a28500f08ebedda3.jpg",
+      "https://media.rawg.io/media/screenshots/b02/b0226365e73b05d3e523e17be166e43f.jpg",
+      "https://media.rawg.io/media/screenshots/505/50542af24c4bcd5bc14bb753d7651bb0.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-10T23:36:41.869Z"
+  },
+  {
+    "slug": "warioware-inc-mega-microgame",
+    "name": "WarioWare, Inc.: Mega Microgame$!",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/c6c/c6c1adc70a9204cd43a0fbff05f053d1.jpg",
+    "released": "2003-03-21",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Casual",
+      "Action"
+    ],
+    "platforms": [
+      "Game Boy Advance"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/0bf/0bf2af0abb761809344c462a10eabc66.jpg",
+      "https://media.rawg.io/media/screenshots/5d3/5d312ca1f8fe4cb711d7e190af7d7e70.jpg",
+      "https://media.rawg.io/media/screenshots/cf4/cf4d6f9ef0c880eeae18ba922327e76c.jpg",
+      "https://media.rawg.io/media/screenshots/375/37583c3c2795043714683dd83b631f03.jpg",
+      "https://media.rawg.io/media/screenshots/b91/b9107c20a23836bf81afd9a29118f573.jpg",
+      "https://media.rawg.io/media/screenshots/1b7/1b7930c4cc7fa8b08b7836b0af43c1b4.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-10T23:36:42.865Z"
   }
 ]
