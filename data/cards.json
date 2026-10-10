@@ -1,5 +1,28 @@
 [
   {
+    "id": "98688e45f877",
+    "slug": "dragons-dogma-2-side-by-side-graphics-comparison-released",
+    "headline": "Dragon's Dogma 2 Side-By-Side Graphics Comparison Released",
+    "summary": "A side-by-side graphics comparison for Dragon's Dogma 2 on PS5 and Switch has been released, showing improved performance and resolution on the newer console.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/video-dragons-dogma-2-side-by-side-graphics-comparison-switch-2-and-ps5"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/19ea570ba76aa/large.jpg",
+    "published_at": "2026-10-10T01:45:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dragons-dogma-2",
+    "game_label": "Dragon's Dogma 2"
+  },
+  {
     "id": "a6f16acd2515",
     "slug": "pokemon-winds-and-waves-water-starter-breaks-a-series-curse",
     "headline": "Pokémon Winds and Waves' Water Starter Breaks a Series Curse",
@@ -37,6 +60,27 @@
     ],
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/worst-dragon-ball-games-vegeta-and-goku-ultimate-tenkaichi.jpg",
     "published_at": "2026-10-10T00:38:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "68bcfb3f5f78",
+    "slug": "how-warren-james-turned-space-king-into-one-of-kickstarters-biggest-bo",
+    "headline": "How Warren James turned Space King into one of Kickstarter’s biggest board games",
+    "summary": "Warren James knew Space King: The Board Game would sell, but it never expected to land among the biggest gaming campaigns in Kickstarter history....\nThe post How Warren James turned Space King into one of Kickstarter’s biggest board games appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/how-warren-james-turned-space-king-into-one-of-kickstarters-biggest-board-games/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/68bcfb3f5f78/800/600",
+    "published_at": "2026-10-10T00:30:25.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -4606,56 +4650,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "50ab41ee1f87",
-    "slug": "ai-powered-driving-game-developers-take-loan-to-keep-steam-demo-runnin",
-    "headline": "AI-Powered Driving Game Developers Take Loan to Keep Steam Demo Running",
-    "summary": "Developers of the AI-powered driving game Teach My Little Sister How to Drive have taken out a loan to keep their Steam demo running, as the surge in players has increased the AI's costs to over $1,000 per day.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/developers-of-ai-powered-driving-game-take-out-loan-to-keep-steam-demo-running-after-surge-in-players-pushes-ai-costs-past-1000-a-day/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/50ab41ee1f87/800/600",
-    "published_at": "2026-10-09T09:07:49.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "teach-my-little-sister-how-to-drive",
-    "game_label": "Teach My Little Sister How to Drive"
-  },
-  {
-    "id": "8249284d2802",
-    "slug": "leisure-suit-larry-games-get-hefty-discounts",
-    "headline": "Leisure Suit Larry Games Get Hefty Discounts",
-    "summary": "The last two Leisure Suit Larry games, Wet Dreams Don't Dry and Wet Dreams Dry Twice, are being heavily discounted before their removal from digital stores.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/after-the-first-seven-leisure-suit-larry-games-were-delisted-last-year-the-last-two-are-joining-them/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/8249284d2802/800/600",
-    "published_at": "2026-10-09T09:07:39.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "wet-dreams-dont-dry",
-    "game_label": "Wet Dreams Don't Dry"
   }
 ]
