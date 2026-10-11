@@ -21210,5 +21210,60 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-11T13:37:39.037Z"
+  },
+  {
+    "slug": "the-legend-of-zelda-majoras-mask",
+    "name": "The Legend of Zelda: Majora's Mask",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/b3c/b3c209cd49aae8a469a59b79b54dc599.jpg",
+    "released": "2000-04-27",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "Nintendo Switch",
+      "Nintendo 64"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f3c/f3cddbb360b0aa0df1fae21241dacbd0.jpg",
+      "https://media.rawg.io/media/screenshots/071/0713404846d66edb8882271cbf6a9bf3.jpg",
+      "https://media.rawg.io/media/screenshots/ff4/ff4ed16a2f1994d730eefb3d764ef9ec.jpg",
+      "https://media.rawg.io/media/screenshots/3d5/3d535b458e5d67206e82e8a839b3bb0a.jpg",
+      "https://media.rawg.io/media/screenshots/33b/33bb575258791e2d129249813e78b85f.jpg",
+      "https://media.rawg.io/media/screenshots/fc6/fc68a972087f64db931de45259073cf4.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-11T17:36:47.103Z"
+  },
+  {
+    "slug": "tekken-8",
+    "name": "Tekken 8",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/ed3/ed3a5e9fab79022979de9ef420137f73.jpg",
+    "released": "2024-01-25",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/473/473de7f272335020a4bcaacc640cfab1_gFLhd89.jpg",
+      "https://media.rawg.io/media/screenshots/9a2/9a29df313df1611ff4a6a16549418aa0.jpg",
+      "https://media.rawg.io/media/screenshots/fd3/fd3777c05b1bcb4b5e2a348688413685.jpg",
+      "https://media.rawg.io/media/screenshots/1ed/1ed7c584a51144d7299c44fe2ad4d4f0.jpg",
+      "https://media.rawg.io/media/screenshots/b40/b4054a597ec038d8e45e41fe83edd5e7_Yrzw4BN.jpg",
+      "https://media.rawg.io/media/screenshots/f52/f5259d1a8bfa3e2e8891e5d9ee3b94d7.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-11T17:36:48.084Z"
   }
 ]
