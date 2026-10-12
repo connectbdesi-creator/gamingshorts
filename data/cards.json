@@ -1,5 +1,149 @@
 [
   {
+    "id": "860960e85fd2",
+    "slug": "nvidia-abandons-rtx-5090-graphics-cards-for-ai-friendly-rtx-pro",
+    "headline": "Nvidia Abandons RTX 5090 Graphics Cards for AI-Friendly RTX Pro",
+    "summary": "A leaker claims Nvidia is shifting production away from their high-end RTX 5090 consumer graphics cards to focus on RTX Pro models more suitable for AI development.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/nvidia-are-abandoning-their-rtx-5090-graphics-cards-in-order-to-focus-on-ai-dev-friendly-rtx-pro-ones-leaker-claims"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/nvidia-dlss-4-5-ray-reconstruction-announced-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-12T16:06:36.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "4acb15491150",
+    "slug": "no-mans-sky-coming-to-ios",
+    "headline": "No Man's Sky Coming to iOS",
+    "summary": "Hello Games is set to release No Man's Sky on iOS on October 28, according to the company's announcement.",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/no-mans-sky-coming-to-ios-on-october-28"
+      },
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/no-mans-sky-ios-mobile-iphone-ipad-hello-games-port-apple-sean-murray-2000744598"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/4acb15491150/800/600",
+    "published_at": "2026-10-12T16:00:55.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "no-mans-sky",
+    "game_label": "No Man's Sky"
+  },
+  {
+    "id": "13c0f9a797fd",
+    "slug": "1010-co-op-masterpiece-officially-coming-to-switch-2-on-october-15",
+    "headline": "10/10 Co-Op Masterpiece Officially Coming to Switch 2 on October 15",
+    "summary": "One of the best co-op games in the past five years officially releases on Nintendo Switch 2 on October 15.",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/best-nintendo-switch-2-games-co-op-it-takes-two/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/nintendo_switch_2_3840x2160.jpg",
+    "published_at": "2026-10-12T16:00:13.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6e8805d63ffb",
+    "slug": "poll-vote-for-your-ps5-game-of-the-month-september-2026",
+    "headline": "Poll: Vote for Your PS5 Game of the Month (September 2026)",
+    "summary": "Decide Push Square's GOTM. The time has come to vote for Push Square's official Game of the Month for September 2026 — and this particular poll promises to be a doozy. That's because last month's PS5 release schedule was stacked. We struggled to review everything and you've probably struggled to play everything, but as always, there can only be one…",
+    "category": "reviews",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/features/poll-vote-for-your-ps5-game-of-the-month-september-2026"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/0d1f9be81c0c8/large.jpg",
+    "published_at": "2026-10-12T16:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ae1b845d4121",
+    "slug": "games-industry-mergers-and-acquisitions-reach-578-billion-in-q3",
+    "headline": "Games Industry Mergers and Acquisitions Reach $57.8 Billion in Q3",
+    "summary": "A recent report by Aream & Co reveals that the number of games industry mergers and acquisitions remained steady in Q3, totaling $57.8 billion, with notable transactions including EA's $55 billion leveraged buyout.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/aream-co-games-industry-ma-generates-578-bn-in-q3-including-eas-55bn-leveraged-buyout"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/ea-sports-fc_BiC7eqf.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-12T16:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "4d465fca5b3a",
+    "slug": "game-developer-veteran-chris-kerr-launches-vertical-slice-a-games-publ",
+    "headline": "Game Developer veteran Chris Kerr launches Vertical Slice, a games publication \"giving workers a voice and holding power to account\"",
+    "summary": "Chris Kerr, former Senior Editor of GDC sibling Game Developer (formerly Gamasutra) has launched a new subscription-funded publication to deliver \"incisive, bold reporting for video game industry professionals\" that \"scrutinises with intensity and integrity without having to worry about conflicting commercial interests.\"\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/game-developer-veteran-chris-kerr-launches-vertical-slice-a-games-publication-giving-workers-a-voice-and-holding-power-to-account"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Vertical-Slice-Purple.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-12T15:57:25.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "fe6d49a135cb",
     "slug": "mit-engineers-create-second-skin-for-vr-tracking",
     "headline": "MIT Engineers Create 'Second Skin' for VR Tracking",
@@ -452,29 +596,6 @@
     "comment_count": 0,
     "game": "arc-raiders",
     "game_label": "ARC Raiders"
-  },
-  {
-    "id": "4acb15491150",
-    "slug": "no-mans-sky-coming-to-ios",
-    "headline": "No Man's Sky Coming to iOS",
-    "summary": "Hello Games is set to release No Man's Sky on iOS on October 28, according to the company's announcement.",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/no-mans-sky-coming-to-ios-on-october-28"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/4acb15491150/800/600",
-    "published_at": "2026-10-12T14:16:38.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "no-mans-sky",
-    "game_label": "No Man's Sky"
   },
   {
     "id": "013093bebf40",
@@ -4534,117 +4655,6 @@
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/sylvester-stallone-as-dwight-the-general-manfredi-in-tulsa-king.jpg",
     "published_at": "2026-10-10T22:00:13.000Z",
     "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4e68928339ae",
-    "slug": "beloved-nintendo-ds-game-gets-a-new-lease-on-life",
-    "headline": "Beloved Nintendo DS Game Gets a New Lease on Life",
-    "summary": "A classic Nintendo DS game is returning to the gaming world with a new Steam release, offering players a chance to experience the game once again after 16 years.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/nintendo-ds-horror-game-dementium-2-steam-release/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/nintendo-ds-steam-game-port.jpg",
-    "published_at": "2026-10-10T22:00:13.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "warioware-inc-mega-microgame",
-    "game_label": "WarioWare, Inc.: Mega Microgame$!"
-  },
-  {
-    "id": "eb0f5dc03c0b",
-    "slug": "naruto-mobile-global-version-announced",
-    "headline": "Naruto Mobile global version announced",
-    "summary": "Bandai Namco will release a global version of the MoreFun Studios-developed fighting game Naruto Mobile …",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/naruto-mobile-global-version-announced"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/eb0f5dc03c0b/800/600",
-    "published_at": "2026-10-10T22:00:02.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "259c078c36bf",
-    "slug": "new-naruto-game-teased-but-it-might-be-a-long-wait",
-    "headline": "New Naruto Game Teased, But It Might Be A Long Wait",
-    "summary": "Is a new Ultimate Ninja Storm coming, or will the next game be something else entirely?",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/naruto-project-rasengan-game-reveal-nycc-panel/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/narutoprojectrasengan.jpg",
-    "published_at": "2026-10-10T21:41:20.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4ba118b0744e",
-    "slug": "new-deadlock-heros-reload-animations-based-on-famous-chess-matches",
-    "headline": "New Deadlock Hero’s Reload Animations Based On Famous Chess Matches",
-    "summary": "From within a closed beta, the board-wielding Solomon already has fans eager to crown him royalty",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/new-deadlock-heros-reload-animations-based-on-famous-chess-matches-2000743806"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/solomondeadlock.jpg",
-    "published_at": "2026-10-10T21:30:15.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3c4db002e165",
-    "slug": "nintendo-switch-online-gamers-have-until-october-15-to-play-animal-cro",
-    "headline": "Nintendo Switch Online Gamers Have Until October 15 to Play Animal Crossing-Like Game at No Additional Cost",
-    "summary": "Nintendo Switch Online is letting fans play a popular life simulation game that has drawn comparisons to Animal Crossing for free for a limited time.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/nso-free-games-hello-kitty-island-adventure/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/nintendo-switch-online-hello-kitty-island-adventure-2.jpg",
-    "published_at": "2026-10-10T21:30:13.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
