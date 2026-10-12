@@ -1,5 +1,28 @@
 [
   {
+    "id": "e34c60d7483f",
+    "slug": "naruto-mobiles-cgi-short-showcases-iconic-naruto-and-sasuke-battle",
+    "headline": "Naruto Mobile's CGI Short Showcases Iconic Naruto and Sasuke Battle",
+    "summary": "Naruto and Sasuke face off in a basketball game in a new CGI short for Naruto Mobile, highlighting the game's anime-inspired visuals.",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/naruto-vs-sasuke-round-3-battle-new-release/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/boruto-is-fixing-naruto-and-sasuke.jpg",
+    "published_at": "2026-10-12T23:30:13.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "naruto-mobile",
+    "game_label": "Naruto Mobile"
+  },
+  {
     "id": "44433f9c2d86",
     "slug": "the-witcher-3-is-a-great-story-trapped-inside-an-overrated-rpg",
     "headline": "The Witcher 3 Is a Great Story Trapped Inside an Overrated RPG",
@@ -66,6 +89,29 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "05b3b89e264d",
+    "slug": "satisfactory-the-board-game-preview",
+    "headline": "Satisfactory: The Board Game Preview",
+    "summary": "A preview of the board game adaptation of the popular game Satisfactory, exploring its mechanics and features",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/satisfactory-the-board-game-preview"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/12/1000025749-1791838956989.jpeg",
+    "published_at": "2026-10-12T22:30:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "satisfactory-the-board-game",
+    "game_label": "Satisfactory: The Board Game"
   },
   {
     "id": "d81c7ec1a7b9",
@@ -4604,47 +4650,5 @@
     "comment_count": 0,
     "game": "grand-theft-auto-6",
     "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "9f7c99944905",
-    "slug": "eu-taking-action-against-activision-riot-ubisoft-on-gamings-oldest-mon",
-    "headline": "EU Taking Action Against Activision, Riot, Ubisoft On Gaming’s Oldest Monetization Scheme",
-    "summary": "As courts around the globe scrutinize predatory payment systems, Italian regulators are leading the charge against misaligned in-game currencies",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/eu-taking-action-against-activision-riot-ubisoft-on-gamings-oldest-monetization-scheme-2000744153"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/itchymoney-1280x995.jpg",
-    "published_at": "2026-10-11T18:33:15.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "832db8736865",
-    "slug": "new-valve-game-officially-beats-team-fortress-2",
-    "headline": "New Valve Game Officially Beats Team Fortress 2",
-    "summary": "Valve's new game officially beats Team Fortress 2 in a key metric, marking another encouraging signal ahead of its full-fledged launch.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/deadlock-concurrent-players-steam-team-fortress-2/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/team-fortress-2-scout-blurred-background-horizontal-lines-composite.jpg",
-    "published_at": "2026-10-11T18:30:13.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
