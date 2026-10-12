@@ -21451,5 +21451,35 @@
     "screenshots": [],
     "stores": [],
     "fetched_at": "2026-10-12T13:53:05.310Z"
+  },
+  {
+    "slug": "the-callisto-protocol",
+    "name": "The Callisto Protocol",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/605/605e0c04ba48ece4b4ae7825473477f6.jpg",
+    "released": "2022-12-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/cf4/cf486733d1abb89b2689c856b0340a80.jpg",
+      "https://media.rawg.io/media/screenshots/770/770b353425c591efb78e2b43eff73000.jpg",
+      "https://media.rawg.io/media/screenshots/1b2/1b2dfac099e11ad546bf44b2284f5c1c.jpg",
+      "https://media.rawg.io/media/screenshots/a32/a32801903fa0c42f4dbeebbdd0a00f99.jpg",
+      "https://media.rawg.io/media/screenshots/9e8/9e8d77fe85e49c75c5927635b416ad60.jpg",
+      "https://media.rawg.io/media/screenshots/afa/afa047c7bed5e3180d109f5853f05738.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-12T14:51:55.988Z"
   }
 ]
