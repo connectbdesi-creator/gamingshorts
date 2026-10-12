@@ -1,5 +1,131 @@
 [
   {
+    "id": "d3091ab9b2ce",
+    "slug": "blizzard-issues-new-official-statement-on-diablo-5s-monk-class",
+    "headline": "Blizzard Issues New Official Statement on Diablo 5's Monk Class",
+    "summary": "Blizzard has issued a new official statement regarding the redesign of the Monk class for Diablo 5, providing some insight into the changes to come.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/diablo-5-v-classes-statement-monk-best-version/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/bazaart_cd60953c-5149-4cbd-8f3a-ac9af4a3ab48.JPEG",
+    "published_at": "2026-10-12T12:30:13.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "diablo-5",
+    "game_label": "Diablo 5"
+  },
+  {
+    "id": "146b59747f8e",
+    "slug": "gears-of-war-e-day-was-taken-down-by-ddos-attack-developers-confirm",
+    "headline": "Gears of War: E-Day Was Taken Down By DDoS Attack, Developers Confirm",
+    "summary": "Gears of War developer The Coalition was hit with a botnet assault on Sunday, but assures fans that the issue is resolved",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/gears-of-war-e-day-the-coalition-microsoft-ddos-attack-woke-2000744559"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/10/gearsday-1280x720.jpg",
+    "published_at": "2026-10-12T12:29:26.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gears-of-war",
+    "game_label": "Gears of War"
+  },
+  {
+    "id": "29985748352e",
+    "slug": "sonic-racing-crossworlds-players-demand-free-year-2-season-pass",
+    "headline": "Sonic Racing CrossWorlds Players Demand Free Year 2 Season Pass",
+    "summary": "Sonic Racing CrossWorlds players are upset that the game's Year 2 paid DLC requires a separate season pass, despite the Digital Deluxe Edition initially promising 'all future paid DLC'",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-players-demand-year-2-for-free-after-noting-the-digital-deluxe-edition-promised-all-future-paid-dlc/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/29985748352e/800/600",
+    "published_at": "2026-10-12T12:26:02.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "sonic-racing-crossworlds",
+    "game_label": "Sonic Racing CrossWorlds"
+  },
+  {
+    "id": "51c47580dc39",
+    "slug": "cyberleek-shares-more-gta-6-footage-featuring-lucia-naked",
+    "headline": "Cyberleek Shares More GTA 6 Footage Featuring Lucia Naked",
+    "summary": "GTA 6 leaker Cyberleek has shared additional footage of the game, this time featuring a character named Lucia in a state of undress.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/gta-6-cyberleek-second-lucia-naked-clip/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/07/lucia_caminos_01.jpg",
+    "published_at": "2026-10-12T12:15:01.000Z",
+    "hype_signal": 10,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "f6b275f50114",
+    "slug": "dragon-quest-creator-releases-game-generated-in-30-minutes",
+    "headline": "Dragon Quest Creator Releases Game Generated in 30 Minutes",
+    "summary": "Yuji Horii, creator of the Dragon Quest series, has released a game that he generated in just 30 minutes using AI. The game, Dragon Quest 12, was completed by Horii in a remarkably short time, with the game itself being completed in the same 30 minutes.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/dragon-quest/dragon-quest-creator-yuji-horii-continues-his-love-affair-with-ai-slop-as-he-releases-a-new-game-he-generated-in-30-minutes/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/jDumTKMi4fRB8TrXDgqB77-1920-80.jpg",
+    "published_at": "2026-10-12T12:03:29.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dragon-quest-12",
+    "game_label": "Dragon Quest 12"
+  },
+  {
     "id": "a6265819c5f9",
     "slug": "nintendo-executive-confirms-company-has-no-plans-to-ditch-physical-gam",
     "headline": "Nintendo executive confirms company has \"no plans to ditch physical games\"",
@@ -48,6 +174,76 @@
     "comment_count": 0,
     "game": "lord-of-the-rings-sauron-unleashed",
     "game_label": "Lord of the Rings: Sauron Unleashed"
+  },
+  {
+    "id": "d3775274c39c",
+    "slug": "dragon-quest-creator-creates-ai-generated-game-in-30-minutes",
+    "headline": "Dragon Quest Creator Creates AI-Generated Game in 30 Minutes",
+    "summary": "Yuji Horii, the creator of the Dragon Quest series, has released an AI-generated game called Interrogation Room Komiya, where players input text prompts to extract confessions from a suspect.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/its-truly-astonishing-dragon-quest-creator-yuji-horii-made-an-ai-generated-game-in-30-minutes"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/53a63f3a15917/large.jpg",
+    "published_at": "2026-10-12T12:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "interrogation-room-komiya",
+    "game_label": "Interrogation Room Komiya"
+  },
+  {
+    "id": "013093bebf40",
+    "slug": "gears-of-war-e-day-dev-confirms-ddos-attack",
+    "headline": "Gears of War: E-Day Dev Confirms DDoS Attack",
+    "summary": "Gears of War: E-Day suffered a DDoS attack over the weekend, developer The Coalition has said.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gears-of-war-e-day-dev-confirms-ddos-attack"
+      },
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/gears-of-war-e-days-online-services-suffer-ddos-attack"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/12/gears-1791797492273.jpg",
+    "published_at": "2026-10-12T12:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f167d9f4921c",
+    "slug": "the-new-squadron-42-trailer-looks-great-but-that-2027-release-date-is",
+    "headline": "The New Squadron 42 Trailer Looks Great, But That 2027 Release Date Is Hard To Believe",
+    "summary": "Star Citizen's single-player mode, Squadron 42, has made a reappearance with a new trailer showing off the mode's impressive cast and interstellar warfare. In development for 12 years, the ambitious mode blends outer space dogfighting and first-person action, set during an era when hostile alien forces have pushed humanity to the brink of defeat. As a rising star in the…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/the-new-squadron-42-trailer-looks-great-but-that-2027-release-date-is-hard-to-believe/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Squadron-42.jpg?w=300",
+    "published_at": "2026-10-12T11:57:55.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "a14304ebf19f",
@@ -471,6 +667,80 @@
     "game_label": null
   },
   {
+    "id": "564dc19d4c4a",
+    "slug": "nintendo-wont-ditch-physical-games-amid-ps5-disc-controversy",
+    "headline": "Nintendo Won't Ditch Physical Games Amid PS5 Disc Controversy",
+    "summary": "Nintendo's stance on physical games remains unchanged despite a backlash from the PS5, with an executive stating the company values fan preference and will maintain its agnostic approach to the format.",
+    "category": "industry",
+    "platform_tags": [
+      "switch",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/nintendo-has-no-plans-to-ditch-physical-games-exec-says-amid-playstation-disc-backlash-we-go-off-of-what-the-consumer-prefers/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/y5rricsfymqpLpJhNqBKLQ-1920-80.jpg",
+    "published_at": "2026-10-12T10:22:42.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "319fc62dd10f",
+    "slug": "steam-hits-new-all-time-high-of-over-43-million-concurrent-users-just",
+    "headline": " Steam hits new all-time high of over 43 million concurrent users just 7 months after its last record ",
+    "summary": "Valve's platform is having a good 2026",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/steam-hits-new-all-time-high-of-over-43-million-concurrent-users-just-7-months-after-its-last-record-as-wardogs-and-deadlock-surge-in-popularity/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/TvJbRegD7ZdQp6usZvFDSX-1920-80.png",
+    "published_at": "2026-10-12T10:12:58.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "51696ce23ed3",
+    "slug": "where-to-buy-the-hasbro-legend-of-zelda-master-sword-now",
+    "headline": "Where to Buy the Hasbro Legend of Zelda Master Sword Now",
+    "summary": "A replica of the Master Sword from The Legend of Zelda series is hard to find in stores, so GamesRadar+ has compiled a list of where to buy it online.",
+    "category": "deals",
+    "platform_tags": [
+      "mobile",
+      "switch",
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/toys-collectibles/where-to-buy-the-hasbro-legend-of-zelda-master-sword/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/JngG2fQEYr2miViVfEHAnd-1920-80.jpg",
+    "published_at": "2026-10-12T10:09:25.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "hasbro-legend-of-zelda-master-sword",
+    "game_label": "Hasbro Legend of Zelda Master Sword"
+  },
+  {
     "id": "610bc5b04cba",
     "slug": "marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-j",
     "headline": "Marvel Tokon’s Year One DLC roster confirmed, including Venom, Thor and Jubilee",
@@ -571,27 +841,6 @@
     ],
     "image_url": "https://picsum.photos/seed/3dba63e0b58d/800/600",
     "published_at": "2026-10-12T09:33:47.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "013093bebf40",
-    "slug": "gears-of-war-e-day-dev-confirms-ddos-attack",
-    "headline": "Gears of War: E-Day Dev Confirms DDoS Attack",
-    "summary": "Gears of War: E-Day suffered a DDoS attack over the weekend, developer The Coalition has said.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gears-of-war-e-day-dev-confirms-ddos-attack"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/12/gears-1791797492273.jpg",
-    "published_at": "2026-10-12T09:33:07.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -4382,244 +4631,5 @@
     "comment_count": 0,
     "game": "the-last-of-us-2",
     "game_label": "The Last of Us 2"
-  },
-  {
-    "id": "1d8a6c45ad65",
-    "slug": "hunting-for-new-games-polygons-wishlister-wants-to-help",
-    "headline": "Hunting for New Games? Polygon’s Wishlister Wants To Help",
-    "summary": "Wishlister is our new newsletter where we send a list of exciting upcoming Steam games to your inbox every week.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/polygon-wishlister-sign-up/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/steam-neon-alt.jpg",
-    "published_at": "2026-10-10T13:00:16.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9787a16d43d7",
-    "slug": "steam-makes-two-classic-games-100-free",
-    "headline": "Steam Makes Two Classic Games 100% Free",
-    "summary": "Steam is offering two classic games for free until October 12, along with four other free titles, as part of a special promotion.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/steam-free-game-promotions-october-fireside-feelings-pony-island/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/steam-free-games-promotions-october-fireside-feelings-pony-island-gamerant.jpg",
-    "published_at": "2026-10-10T12:59:21.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "dcd5e3cc9ac1",
-    "slug": "xbox-sales-hit-all-time-low-as-us-console-prices-reach-record-highs",
-    "headline": "Xbox Sales Hit All-Time Low as US Console Prices Reach Record Highs",
-    "summary": "The US console market is experiencing a significant decline, with Xbox sales hitting a new low and console prices reaching record highs.",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/us-console-hardware-market-at-its-most-precarious-position-since-the-80s-says-circana/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/dcd5e3cc9ac1/800/600",
-    "published_at": "2026-10-10T12:53:54.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f77db78e4afc",
-    "slug": "konamis-silent-hill-revival-to-bring-second-and-third-waves-of-new-gam",
-    "headline": "Konami's Silent Hill Revival to Bring Second and Third Waves of New Games",
-    "summary": "Producer Motoi Okamoto reveals plans for multiple Silent Hill projects in the coming years, signaling a renewed focus on the horror franchise",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/horror/expect-plenty-more-silent-hill-over-the-next-few-years-as-konami-has-plans-for-second-and-third-waves-of-new-games-in-its-revived-horror-series/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ArsEMsxpwjhaW9qaDEkEki-1920-80.jpg",
-    "published_at": "2026-10-10T12:26:13.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "silent-hill",
-    "game_label": "Silent Hill"
-  },
-  {
-    "id": "a0efc0a71703",
-    "slug": "will-gta-6-make-its-way-to-switch-2-nintendo-isnt-saying",
-    "headline": "Will GTA 6 make its way to Switch 2? Nintendo isn't saying",
-    "summary": "Nintendo of America has sidestepped questions about the release of Grand Theft Auto 6 on the Nintendo Switch 2, directing fans to Rockstar and Take-Two",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/will-gta-6-make-its-way-to-switch-2-nintendo-isnt-saying/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a0efc0a71703/800/600",
-    "published_at": "2026-10-10T12:07:44.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "089cb853ea85",
-    "slug": "there-has-never-been-a-better-time-to-get-into-star-wars",
-    "headline": "There Has Never Been a Better Time To Get Into Star Wars",
-    "summary": "Games like Star Wars Zero Company and Galactic Racer are making it easier than ever to get into Star Wars.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/star-wars-zero-company-galactic-racer-newcomers/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/star-wars-galactic-racer-droid.png",
-    "published_at": "2026-10-10T12:00:15.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "18d098afe840",
-    "slug": "blazblue-central-fiction-coming-to-ps5",
-    "headline": "BlazBlue: Central Fiction coming to PS5",
-    "summary": "Arc System Works will release a PlayStation 5 version of 2015-released fighting game BlazBlue: Central …",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/blazblue-central-fiction-coming-to-ps5"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/18d098afe840/800/600",
-    "published_at": "2026-10-10T12:00:09.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "86d0e70dd99d",
-    "slug": "call-of-duty-modern-warfare-story-recap",
-    "headline": "Call of Duty: Modern Warfare Story Recap",
-    "summary": "A recap of the Call of Duty: Modern Warfare story to prepare for the release of MW4",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-story-recap"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/07/mw-recap-blog-1791376493012.jpg",
-    "published_at": "2026-10-10T12:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "call-of-duty-modern-warfare",
-    "game_label": "Call of Duty: Modern Warfare"
-  },
-  {
-    "id": "c363a1a47304",
-    "slug": "upcoming-games-on-xbox",
-    "headline": "Upcoming Games on Xbox",
-    "summary": "Xbox is set to release several games, including Planet Zoo 2, Castlevania: Belmont's Curse, and Toy Story: Retro Roundup!, with Xbox Game Pass also adding new titles like Battlefield 6 and Valor Mortis.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/features/these-30plus-games-are-coming-to-xbox-next-week-october-12-16"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/687c32f32d6f2/large.jpg",
-    "published_at": "2026-10-10T12:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "37052a0a4ace",
-    "slug": "capcom-to-bring-street-fighter-to-roblox",
-    "headline": "Capcom to Bring Street Fighter to Roblox",
-    "summary": "Capcom is teaming up with Novaly Studios to bring the popular Street Fighter franchise to the online game platform Roblox for an exclusive crossover event.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/capcom-taps-roblox-hit-untitled-boxing-game-for-street-fighter-crossover-exclusive/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/37052a0a4ace/800/600",
-    "published_at": "2026-10-10T12:00:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "untitled-boxing-game",
-    "game_label": "Untitled Boxing Game"
   }
 ]
