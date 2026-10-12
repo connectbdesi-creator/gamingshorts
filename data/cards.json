@@ -1,5 +1,121 @@
 [
   {
+    "id": "6ee6bb5bffba",
+    "slug": "vampire-crawlers-now-available-on-mobile-devices",
+    "headline": "Vampire Crawlers Now Available on Mobile Devices",
+    "summary": "Vampire Crawlers, a highly-rated mobile game, is now available on iPhone and iPad, according to Polygon.",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/vampire-crawlers-mobile-impressions/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/vampire-crawlers-wine-glass.avif",
+    "published_at": "2026-10-12T15:11:34.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "vampire-crawlers",
+    "game_label": "Vampire Crawlers"
+  },
+  {
+    "id": "20bf786ea7ba",
+    "slug": "former-playstation-boss-apparently-had-a-bold-strategy-for-handling-so",
+    "headline": " Former PlayStation boss apparently had a bold strategy for handling Sony execs – he ignored them ",
+    "summary": "Kaz Hirai knew how to move around management",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/former-playstation-boss-apparently-had-a-bold-strategy-for-handling-sony-executives-he-simply-ignored-them/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/aUqNMXk29aWM2dQk2QHeXd-1920-80.jpg",
+    "published_at": "2026-10-12T15:06:57.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "33b90f07f9a9",
+    "slug": "you-need-not-hunger-for-that-zelda-ocarina-of-time-remake-when-we-alre",
+    "headline": "You need not hunger for that Zelda Ocarina of Time remake when we already have Indigo, a colossal N64 romhack featuring mushroom forests and bearded Link",
+    "summary": "The Legend of Zelda series is fond of stories about the inexorable and obliviating passage of time. Somebody should make one about growing so old, stupid and exhausted that you can't distinguish original Zelda games from romhacks of those games. Romhacks like Indigo, a \"full game replacement\" for The Legend of Zelda: Ocarina of Time, set 15 years after the…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/you-need-not-hunger-for-that-zelda-ocarina-of-time-remake-when-we-already-have-indigo-a-colossal-n64-romhack-featuring-mushroom-forests-and-bearded-link"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-12-155641.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-12T15:04:54.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b493b0c5f40f",
+    "slug": "gears-of-war-e-day-server-issues-due-to-ddos-attacks",
+    "headline": "Gears of War: E-Day Server Issues Due to DDoS Attacks",
+    "summary": "Gears of War: E-Day is experiencing server issues due to a DDoS attack, according to the studio",
+    "category": "industry",
+    "platform_tags": [
+      "xbox",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/gears-of-war-e-day-server-crashes-login-issues-ddos"
+      },
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/gears-of-war-e-day-suffered-connection-issues-after-being-hit-by-a-ddos-attack-the-coalition-says/"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/gears-of-war-e-day-marcus-crop.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-12T15:00:16.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gears-of-war-e-day",
+    "game_label": "Gears of War: E-Day"
+  },
+  {
+    "id": "d59478715f78",
+    "slug": "after-burnout-star-wars-galactic-racer-studio-lead-says-games-should-c",
+    "headline": " After Burnout, Star Wars: Galactic Racer studio lead says \"games should challenge players\"  ",
+    "summary": "Scrib doon",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/racing/after-burnout-star-wars-galactic-racer-studio-lead-says-games-should-challenge-players-because-have-too-many-dopamine-hits-and-you-start-to-tune-it-out/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/zm6FoKtkB2t2JkFRBUVGL6-1920-80.jpg",
+    "published_at": "2026-10-12T14:55:39.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "a1c5c7f31a79",
     "slug": "stardew-valley-creators-next-game-shows-new-signs-of-life",
     "headline": "Stardew Valley Creator's Next Game Shows New Signs of Life",
@@ -1325,30 +1441,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "b493b0c5f40f",
-    "slug": "gears-of-war-e-day-server-issues-due-to-ddos-attacks",
-    "headline": "Gears of War: E-Day Server Issues Due to DDoS Attacks",
-    "summary": "Gears of War: E-Day is experiencing server issues due to a DDoS attack, according to the studio",
-    "category": "industry",
-    "platform_tags": [
-      "xbox",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/gears-of-war-e-day-server-crashes-login-issues-ddos"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/gears-of-war-e-day-marcus-crop.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-12T11:38:55.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gears-of-war-e-day",
-    "game_label": "Gears of War: E-Day"
   },
   {
     "id": "9cd662fae314",
@@ -4551,109 +4643,6 @@
     "image_url": "https://kotaku.com/app/uploads/2021/03/x2ei28dajpf743gr8ifq-1280x720.jpg",
     "published_at": "2026-10-10T19:51:08.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "aee07fba3bd3",
-    "slug": "gta-6-leaker-threatens-to-release-full-playable-build",
-    "headline": "GTA 6 Leaker Threatens to Release Full, Playable Build",
-    "summary": "A hacker claiming to have leaked information about GTA 6 has threatened to release a complete, playable version of the game, sparking concerns about the leak's authenticity.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/gta-6_XFAse3R.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-10T19:42:21.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "ae25f32df342",
-    "slug": "dungeons-and-dragons-announces-new-2027-crossover",
-    "headline": "Dungeons and Dragons Announces New 2027 Crossover",
-    "summary": "Dungeons and Dragons is releasing a new crossover in 2027, but details are scarce",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/dungeons-and-dragons-star-wars-crossover-2027/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/dungeons-and-dragons-star-wars-crossover-rulebook.jpg",
-    "published_at": "2026-10-10T19:30:13.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "dungeons-and-dragons",
-    "game_label": "Dungeons and Dragons"
-  },
-  {
-    "id": "575f50b660f1",
-    "slug": "underrated-jrpgs-with-better-music-than-persona-5",
-    "headline": "Underrated JRPGs With Better Music Than Persona 5",
-    "summary": "A list ranking JRPGs with exceptional soundtracks, surpassing Persona 5's iconic score",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/underrated-jrpg-games-better-music-than-persona-5-ranked/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/09/es_3.jpg",
-    "published_at": "2026-10-10T19:30:13.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "80d1382b6a8a",
-    "slug": "ai-driven-driving-simulator-developers-go-into-debt-just-to-maintain-s",
-    "headline": "AI-Driven Driving Simulator Developers Go Into Debt Just To Maintain Steam Demo",
-    "summary": "Hoping to launch next year, Teach My Little Sister How To Drive is prematurely sending its creators into the red over exhaustive token use",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/ai-driven-driving-simulator-developers-go-into-debt-just-to-maintain-steam-demo-2000743791"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/teachmysisterhowtodrive-1280x868.jpg",
-    "published_at": "2026-10-10T19:18:35.000Z",
-    "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
