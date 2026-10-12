@@ -21532,5 +21532,32 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-12T16:52:36.863Z"
+  },
+  {
+    "slug": "disney-game",
+    "name": "Disney's Hercules: The Action Game",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/fa4/fa470a3732f428efb79ca5ce24854253.jpg",
+    "released": "1997-06-20",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/049/04918a9e7d66ca8daa8d63d7f39af52b.jpg",
+      "https://media.rawg.io/media/screenshots/cef/cef3247b65a85784795a6c04ff6fcf81.jpg",
+      "https://media.rawg.io/media/screenshots/46c/46ce7c244c5baa5d7c96cf0ba32a55b9.jpg",
+      "https://media.rawg.io/media/screenshots/18f/18f444c3330c09aa8f3eee260edeb007.jpg",
+      "https://media.rawg.io/media/screenshots/e1b/e1ba4575343d3e1058fa1395020546f8.jpg",
+      "https://media.rawg.io/media/screenshots/41f/41f53949871753d3512cb5d6a203cf1f.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-12T20:22:09.152Z"
   }
 ]
