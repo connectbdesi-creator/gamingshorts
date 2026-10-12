@@ -1,5 +1,53 @@
 [
   {
+    "id": "01902beb67ba",
+    "slug": "best-single-player-fps-games-with-skill-trees-ranked",
+    "headline": "Best Single-Player FPS Games With Skill Trees, Ranked",
+    "summary": "Single-player FPS games don't often incorporate skill trees, but the ones that do tend to know what they are doing.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/best-fps-games-with-skill-trees-ranked/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/best-fps-games-skill-trees-robocop-rogue-city.jpg",
+    "published_at": "2026-10-12T22:40:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d81c7ec1a7b9",
+    "slug": "epic-games-forces-disney-shooter-team-to-use-ai-first-approach",
+    "headline": "Epic Games Forces Disney Shooter Team to Use AI-First Approach",
+    "summary": "Epic Games has told the creators of a Disney shooter featuring Marvel and Star Wars characters to use an AI-first production model, leading to a delay in the game's release, which was initially set for March",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/no-more-hand-written-code-epic-reportedly-impose-ai-first-model-on-creators-of-new-disney-shooter-with-marvel-and-star-wars-characters"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-12-231138.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-12T22:29:01.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "disney-shooter",
+    "game_label": "Disney Shooter"
+  },
+  {
     "id": "b3be7f392645",
     "slug": "enshroudeds-10-release-is-putting-steams-early-access-promise-on-trial",
     "headline": "Enshrouded's 1.0 Release Is Putting Steam's Early Access Promise on Trial",
@@ -4593,51 +4641,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "971d62fdf085",
-    "slug": "arc-raiders-20-is-here",
-    "headline": "Arc Raiders 2.0 is here",
-    "summary": "PC Gamer announces the release of Arc Raiders 2.0, an expansion to the backpack modification mod, allowing users to customize their game experience with more control over lighting and other features.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-2-0-is-here-and-you-can-finally-turn-those-lights-on-your-backpack-off/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/RqU48Ce8fMUZhWnU5CV8bH-1920-80.jpg",
-    "published_at": "2026-10-11T17:09:57.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "arc-raiders",
-    "game_label": "Arc Raiders"
-  },
-  {
-    "id": "10912a33d305",
-    "slug": "9-most-haunted-masks-in-the-legend-of-zelda-majoras-mask",
-    "headline": "9 Most Haunted Masks in The Legend of Zelda: Majora's Mask",
-    "summary": "Polygon explores the most malevolent masks from The Legend of Zelda: Majora's Mask, ranking them for their eerie presence in the game",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/zelda-majoras-masks-scariest-ranked/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19584505/Screenshot__97_.png",
-    "published_at": "2026-10-11T17:00:17.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-legend-of-zelda-majoras-mask",
-    "game_label": "The Legend of Zelda: Majora's Mask"
   }
 ]
