@@ -21762,5 +21762,31 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-13T13:52:12.519Z"
+  },
+  {
+    "slug": "replaced",
+    "name": "Replaced",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/041/041e04184322bc859d617b790d8bfab9.jpg",
+    "released": "2026-04-14",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Platformer",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/6a6/6a6a3d193fac79cfc8093441f9ab28dd.jpg",
+      "https://media.rawg.io/media/screenshots/d9c/d9c3839d3992d0370ac4860a1a3da816.jpg",
+      "https://media.rawg.io/media/screenshots/806/806f480327cbda64fd668a22299450ea.jpg",
+      "https://media.rawg.io/media/screenshots/c0e/c0e109d1bf9d7f235ebdba3b65935834.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-13T14:51:54.481Z"
   }
 ]
