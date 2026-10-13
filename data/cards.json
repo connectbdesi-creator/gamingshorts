@@ -1,5 +1,52 @@
 [
   {
+    "id": "e2f694e42f8c",
+    "slug": "new-open-world-co-op-survival-game-coming-in-december",
+    "headline": "New Open-World Co-Op Survival Game Coming in December",
+    "summary": "A new open-world survival game with co-op multiplayer is officially announced for release in December 2026, with unique gameplay mechanics.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/steam-new-open-world-survival-games-blind-descent-release/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/blind-descent-steam-open-world-co-op-survival-game-official-release-date-announced-gamerant.jpg",
+    "published_at": "2026-10-13T22:01:13.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7de1121ecc43",
+    "slug": "send-in-the-clown-is-a-turn-based-rpg-comedy-about-fighting-one-annoyi",
+    "headline": "Send in the Clown is a turn-based RPG comedy about fighting one annoying child at a birthday party where there's only one fight in the whole game",
+    "summary": "I generally find it quite frustrating how limited the medium of games insists on being when it comes to engaging in a wide breadth of genres. One particular genre that its filmmaking cousin frequently utilises but is rarely seen within games is comedy. Sure, occasionally a game makes an attempt at telling a joke within a cutscene (failing more often…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/send-in-the-clown-is-a-turn-based-rpg-comedy-about-fighting-one-annoying-child-at-a-birthday-party-where-theres-only-one-fight-in-the-whole-game"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/send-in-the-clown.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-13T21:54:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "7de232f21f0c",
     "slug": "new-steam-sim-blends-cyberpunk-2077-and-papers-please",
     "headline": "New Steam Sim Blends Cyberpunk 2077 and Papers, Please",
@@ -4577,55 +4624,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "05b3b89e264d",
-    "slug": "satisfactory-the-board-game-preview",
-    "headline": "Satisfactory: The Board Game Preview",
-    "summary": "A preview of the board game adaptation of the popular game Satisfactory, exploring its mechanics and features",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/satisfactory-the-board-game-preview"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/12/1000025749-1791838956989.jpeg",
-    "published_at": "2026-10-12T22:30:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "satisfactory-the-board-game",
-    "game_label": "Satisfactory: The Board Game"
-  },
-  {
-    "id": "d81c7ec1a7b9",
-    "slug": "epic-games-forces-disney-shooter-team-to-use-ai-first-approach",
-    "headline": "Epic Games Forces Disney Shooter Team to Use AI-First Approach",
-    "summary": "Epic Games has told the creators of a Disney shooter featuring Marvel and Star Wars characters to use an AI-first production model, leading to a delay in the game's release, which was initially set for March",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/no-more-hand-written-code-epic-reportedly-impose-ai-first-model-on-creators-of-new-disney-shooter-with-marvel-and-star-wars-characters"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-12-231138.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-12T22:29:01.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "disney-shooter",
-    "game_label": "Disney Shooter"
   }
 ]
