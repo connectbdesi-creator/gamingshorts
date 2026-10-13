@@ -1,5 +1,72 @@
 [
   {
+    "id": "2fefee3b08b9",
+    "slug": "xbox-labs-unveils-new-ai-focused-team",
+    "headline": "Xbox Labs Unveils New AI-Focused Team",
+    "summary": "Microsoft has formed a new team to explore AI-powered game development, but the initiative's purpose and scope remain unclear.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/xbox-labs-is-a-big-announcement-about-ai-that-doesnt-mention-ai-once-2000745355"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/10/corntana.jpg",
+    "published_at": "2026-10-13T20:08:30.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8b2abc8ebbb0",
+    "slug": "akira-toriyamas-former-editor-criticizes-dragon-ball-super-beerus",
+    "headline": "Akira Toriyama's Former Editor Criticizes Dragon Ball Super: Beerus",
+    "summary": "Former Dragon Ball Super editor Kazuhiko Torishima expresses disappointment with the show after its premiere.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/torishima-dragon-ball-super-beerus-grumpy-x/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/dragon-ball-super-beerus-torishima.png",
+    "published_at": "2026-10-13T19:58:48.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dragon-ball-super-beerus",
+    "game_label": "Dragon Ball Super: Beerus"
+  },
+  {
+    "id": "d027defb4b4e",
+    "slug": "asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mod",
+    "headline": "Asha Sharma forms ‘Xbox Labs’ in response to explosion of AI-powered mods and ports",
+    "summary": "Xbox CEO says AI mod explosion has changed assumptions around what's possible",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/d027defb4b4e/800/600",
+    "published_at": "2026-10-13T19:53:17.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "607dd78c3bf7",
     "slug": "xbox-unveils-xbox-labs-to-explore-emerging-tech",
     "headline": "Xbox Unveils Xbox Labs to Explore Emerging Tech",
@@ -4575,73 +4642,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "4b0d877ec520",
-    "slug": "sega-labelled-stupid-liars-after-failing-to-fulfil-all-future-paid-dlc",
-    "headline": "SEGA Labelled 'Stupid Liars' After Failing to Fulfil 'All Future Paid DLC' Promise for Sonic Racing: CrossWorlds",
-    "summary": "Season 2, which includes Final Fantasy 7, will require a new Season Pass. Agitated Sonic Racing: CrossWorlds fans have picked up their pitchforks and are pointing them at publisher SEGA, after an old social media post implied “all future paid DLC” would be included with the Digital Deluxe Edition of the game. The Japanese company announced a dizzying Season 2…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/sega-labelled-stupid-liars-after-failing-to-fulfil-all-future-paid-dlc-promise-for-sonic-racing-crossworlds"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/a4744b64bae64/large.jpg",
-    "published_at": "2026-10-12T19:30:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a801ff62a3ff",
-    "slug": "does-blizzards-revival-of-its-classic-games-signal-a-return-of-the-old",
-    "headline": " Does Blizzard's revival of its classic games signal a return of the 'old Blizzard?' ",
-    "summary": "Maybe not, but a cautious optimism has emerged as Blizzard finds opportunities to recapture goodwill.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/rts/does-blizzards-revival-of-its-classic-games-signal-a-return-of-the-old-blizzard/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/EbGQZscSAyByXiaALQLf83-1920-80.jpg",
-    "published_at": "2026-10-12T19:15:15.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "504416d10c87",
-    "slug": "cozy-after-dark-showcase-reveals-over-50-indie-game-trailers",
-    "headline": "Cozy After Dark Showcase Reveals Over 50 Indie Game Trailers",
-    "summary": "A new YouTube and Twitch event showcased over 50 indie game trailers and developer insights, promising a diverse and exciting lineup of upcoming titles.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/cozy-after-dark-showcase-shows-off-more-than-50-indie-game-trailers/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/504416d10c87/800/600",
-    "published_at": "2026-10-12T19:15:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "cozy-after-dark",
-    "game_label": "Cozy After Dark"
   }
 ]
