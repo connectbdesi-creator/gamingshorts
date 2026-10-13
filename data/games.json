@@ -21844,5 +21844,60 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-13T22:51:40.458Z"
+  },
+  {
+    "slug": "antonblast",
+    "name": "Antonblast",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/5f1/5f18142a6ba6b15deb734142ed0e2348.jpg",
+    "released": "2024-12-03",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/62d/62d4db7188db63902ad9ba96d9effb3e.jpg",
+      "https://media.rawg.io/media/screenshots/fbf/fbfa95357aba92338b5e721f66586443.jpg",
+      "https://media.rawg.io/media/screenshots/e07/e070e1783d6355bec999e68e4ee6707b.jpg",
+      "https://media.rawg.io/media/screenshots/6ac/6aca3995dcc899e781249e8af67af365.jpg",
+      "https://media.rawg.io/media/screenshots/fc7/fc7ec95e730d77d4ae7983533b11d9ce.jpg",
+      "https://media.rawg.io/media/screenshots/17c/17c9bc8cdeac5a38ba1f48e63637b84f.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-13T23:51:26.276Z"
+  },
+  {
+    "slug": "shroud-of-the-avatar",
+    "name": "Shroud of the Avatar: Forsaken Virtues",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/210/21038e23edd9e998357535c93a740c0e.jpg",
+    "released": "2014-11-24",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Linux"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/0c8/0c8ce2f5505935444fbda929415b0695.jpg",
+      "https://media.rawg.io/media/screenshots/24d/24da9fd65db9eaf3343947789efdd5a2.jpg",
+      "https://media.rawg.io/media/screenshots/c79/c7918ad1fd8c659ecae01439a863b87a.jpg",
+      "https://media.rawg.io/media/screenshots/192/19237dd3629d6bbde3523bad3690c3ca.jpg",
+      "https://media.rawg.io/media/screenshots/659/6597992ba5ff77025f38bcd6a7337ec3.jpg",
+      "https://media.rawg.io/media/screenshots/0e4/0e401c3c225172dfbad4929a41aa1e9b.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-13T23:51:27.249Z"
   }
 ]
