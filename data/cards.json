@@ -1,5 +1,77 @@
 [
   {
+    "id": "7de232f21f0c",
+    "slug": "new-steam-sim-blends-cyberpunk-2077-and-papers-please",
+    "headline": "New Steam Sim Blends Cyberpunk 2077 and Papers, Please",
+    "summary": "A new Steam simulation game combines the dystopian atmosphere of Cyberpunk 2077 with the inspection mechanics of Papers, Please, offering a time-consuming experience.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/probably-stolen-steam-cyberpunk-2077-shopkeeper-sim-papers-please/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/probably-stolen-promotional-artwork-showing-a-cyberpunk-shopkeeper-negotiating-with-an-armed-customer-while-another-waits-beside-a-futuristic-trading-counter.jpg",
+    "published_at": "2026-10-13T21:45:13.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "steam-sim",
+    "game_label": "Steam Sim"
+  },
+  {
+    "id": "47a11139c5ef",
+    "slug": "target-shadow-drops-new-pokemon-30th-anniversary-collection",
+    "headline": "Target Shadow Drops New Pokemon 30th Anniversary Collection",
+    "summary": "Target has released a new collection celebrating 30 years of Pokémon, but its longevity is uncertain.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/pokemon-30th-anniversary-target-razer-charizard-lucario-sylveon/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/pokemon-charizard-roaring.jpg",
+    "published_at": "2026-10-13T21:25:55.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "1ec6cca32dfd",
+    "slug": "sony-first-party-games-delisted-from-playstation-store",
+    "headline": "Sony First-Party Games Delisted from PlayStation Store",
+    "summary": "Several Sony first-party titles, including Knack, Nathan Drake, and Kratos' games, have been removed from the PlayStation Store due to an apparent pricing error.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/playstation-store-uncharted-god-of-war-knack-delisted-2000745375"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2019/04/h9gbrcwqu9vtuivxgrlu-1280x720.jpg",
+    "published_at": "2026-10-13T21:15:35.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "723ab689da28",
     "slug": "zelda-ocarina-of-time-remake-just-became-part-of-a-bigger-nintendo-swi",
     "headline": "Zelda: Ocarina of Time Remake Just Became Part of a Bigger Nintendo Switch 2 Debate",
@@ -4555,70 +4627,5 @@
     "comment_count": 0,
     "game": "disney-shooter",
     "game_label": "Disney Shooter"
-  },
-  {
-    "id": "b3be7f392645",
-    "slug": "enshroudeds-10-release-is-putting-steams-early-access-promise-on-trial",
-    "headline": "Enshrouded's 1.0 Release Is Putting Steam's Early Access Promise on Trial",
-    "summary": "With its full release approaching, Enshrouded could make a compelling case for what Steam's Early Access program was meant to achieve.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/enshrouded-1-0-release-date-steam-early-access/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/an-armored-adventurer-overlooks-a-devastated-mountain-landscape-in-enshrouded-with-floating-rock-formations-ruined-fortresses-and-glowing-red-crystals-beneath-a-dramatic-sunset.jpg",
-    "published_at": "2026-10-12T22:15:14.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e69313fea329",
-    "slug": "no-mans-sky-announces-brand-new-release-for-october-28",
-    "headline": "No Man's Sky Announces Brand-New Release for October 28",
-    "summary": "No Man's Sky is getting a new release near the end of October, giving gamers one more reason to check out the spacefaring game.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/no-mans-sky-mobile-iphone-ipad-launch-when/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/no-mans-sky-planet-suit.jpg",
-    "published_at": "2026-10-12T22:00:13.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4aa7a4a8d39f",
-    "slug": "exclusive-mary-livanos-teases-wiccan-and-speeds-eventual-appearance-in",
-    "headline": "Exclusive: Mary Livanos teases Wiccan and Speed's eventual appearance in the MCU",
-    "summary": "GamesRadar+ has spoken to VisionQuest EP, who reveals the Wiccan and Speed duo from the Marvel Cinematic Universe are heading to the big screen",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/visionquest-executive-producer-says-people-will-feel-the-brotherly-love-when-wiccan-and-speed-eventually-appear-together-in-the-mcu/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/zH7jjcWLuF2CpeAYTftwya-1920-80.jpg",
-    "published_at": "2026-10-12T21:36:18.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
