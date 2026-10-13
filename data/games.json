@@ -21730,5 +21730,37 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-13T12:51:46.806Z"
+  },
+  {
+    "slug": "grand-theft-auto-3",
+    "name": "Grand Theft Auto III",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/5fa/5fae5fec3c943179e09da67a4427d68f.jpg",
+    "released": "2001-10-22",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "iOS",
+      "Android",
+      "macOS",
+      "Xbox",
+      "PlayStation 2"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/eda/eda58fc81f11086dd2c2bb0c49175a31.jpg",
+      "https://media.rawg.io/media/screenshots/199/199398979a6ded0298638549666fffe9.jpg",
+      "https://media.rawg.io/media/screenshots/e8a/e8a098b2a7f9ce400330b14110bacf03.jpg",
+      "https://media.rawg.io/media/screenshots/15d/15d04a0a27192157c45df62c1d9cd89f.jpg",
+      "https://media.rawg.io/media/screenshots/1a8/1a8cadda5edfe81178534adf691ebf41.jpg",
+      "https://media.rawg.io/media/screenshots/d0d/d0d4789a8aefd1722f3786a41391182b.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-13T13:52:12.519Z"
   }
 ]
