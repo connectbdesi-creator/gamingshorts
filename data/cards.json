@@ -1,5 +1,103 @@
 [
   {
+    "id": "db6136d6fea8",
+    "slug": "stardew-valley-dev-releases-new-statement-on-haunted-chocolatier",
+    "headline": "Stardew Valley Dev Releases New Statement on Haunted Chocolatier",
+    "summary": "Eric Barone discusses Haunted Chocolatier's gameplay and target audience in a new statement from Stardew Valley developer ConcernedApe.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/haunted-chocolatier-sdv-statement-stardew-mines/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/haunted_chocolatier_3840x2160.jpg",
+    "published_at": "2026-10-13T09:00:13.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "stardew-valley",
+    "game_label": "Stardew Valley"
+  },
+  {
+    "id": "afe6484c7bc0",
+    "slug": "sony-has-announced-a-midnight-black-ps5-but-its-only-confirmed-for-jap",
+    "headline": "Sony has announced a Midnight Black PS5 but it’s only confirmed for Japan so far",
+    "summary": "The Digital Edition console will be the cheaper region-locked variant found in Japan",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/sony-has-announced-a-midnight-black-ps5-but-its-only-confirmed-for-japan-so-far/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/afe6484c7bc0/800/600",
+    "published_at": "2026-10-13T08:59:40.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3e8fb5592ea2",
+    "slug": "rimworld-ditches-unity-for-custom-waylith-engine",
+    "headline": "RimWorld Ditches Unity for Custom Waylith Engine",
+    "summary": "RimWorld developer Ludeon Studios is making the switch to its own Waylith Engine, promising faster performance and no breaks to mod support.",
+    "category": "patches",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/rimworld-switches-engine-from-unity-to-the-devs-own-faster-waylith-engine-all-apparently-without-breaking-mods-somehow"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/RimWorld_h7opweM.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-13T08:51:40.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "rimworld",
+    "game_label": "RimWorld"
+  },
+  {
+    "id": "57fc0b1581c6",
+    "slug": "glen-schofield-blames-krafton-for-the-callisto-protocols-issues",
+    "headline": "Glen Schofield Blames Krafton for The Callisto Protocol's Issues",
+    "summary": "Glen Schofield, co-creator of Dead Space, blames Krafton, the owner of PUBG, for The Callisto Protocol's shortcomings.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/glen-schofield-the-callisto-protocol-krafton-problems"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/the-callisto-protocol_uARW7hC.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-13T08:40:04.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-callisto-protocol",
+    "game_label": "The Callisto Protocol"
+  },
+  {
     "id": "ddf03da370db",
     "slug": "castlevania-belmonts-curse-review",
     "headline": "Castlevania Belmont’s Curse Review",
@@ -17,15 +115,44 @@
       {
         "name": "VGC",
         "url": "https://www.videogameschronicle.com/review/castlevania-belmonts-curse-review/"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/castlevania-belmonts-curse-review"
+      },
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/castlevania-belmonts-curse-reviews-best-since-2005/"
       }
     ],
     "image_url": "https://picsum.photos/seed/ddf03da370db/800/600",
-    "published_at": "2026-10-13T07:00:31.000Z",
+    "published_at": "2026-10-13T08:30:48.000Z",
     "hype_signal": 60,
     "like_count": 0,
     "comment_count": 0,
     "game": "castlevania-belmonts-curse",
     "game_label": "Castlevania: Belmont's Curse"
+  },
+  {
+    "id": "4ed8619508bd",
+    "slug": "prime-videos-epic-new-game-of-thrones-replacement-is-officially-3-mont",
+    "headline": "Prime Video's Epic New Game of Thrones Replacement Is Officially 3 Months Away",
+    "summary": "With Bloodaxe, Amazon might just have a new Game of Thrones-level hit on its hands",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/bloodaxe-episode-1-prime-video/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/bldx_s1_ut_250806_walber_00342r_cropc_f_3000-1.jpg",
+    "published_at": "2026-10-13T08:00:16.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "ad30c353079a",
@@ -4521,113 +4648,6 @@
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/games-in-development-hell-beyond-good-and-evil-2-2.jpg",
     "published_at": "2026-10-12T01:46:49.000Z",
     "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a2f0f39f6b80",
-    "slug": "10-best-thriller-movies-ever-made-that-are-almost-impossible-to-predic",
-    "headline": "10 Best Thriller Movies Ever Made That Are Almost Impossible to Predict, Ranked",
-    "summary": "From psychological mind games to supernatural dramas, several incredible thriller movies kept audiences guessing the whole time.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/best-thriller-movies-ever-cant-predict/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/untitled-1600-x-900-px-1-2.jpg",
-    "published_at": "2026-10-12T01:30:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "58daab9a3f6d",
-    "slug": "8-best-cyberpunk-2077-replacement-games",
-    "headline": "8 Best Cyberpunk 2077 Replacement Games",
-    "summary": "Looking for your next Night City-inspired adventure? These eight games share Cyberpunk 2077’s messy choices, augmented anti-heroes, or overall mood.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/best-games-like-cyberpunk-2077/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/cyberpunk-alone.png",
-    "published_at": "2026-10-12T01:29:05.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9d3470a9ec05",
-    "slug": "nintendo-should-add-wii-to-switch-online-just-for-these-12-classic-gam",
-    "headline": "Nintendo Should Add Wii to Switch Online Just For These 12 Classic Games",
-    "summary": "Nintendo could really make our day by launching a Wii channel on Switch Online and including these 12 classic games.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/nintendo-switch-online-missing-wii-games/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/punch-out-wii-cropped-cover-art.jpg",
-    "published_at": "2026-10-12T01:00:16.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "de250fed6dbe",
-    "slug": "open-world-rpgs-that-officially-surpassed-the-witcher-3-ranked",
-    "headline": "Open-World RPGs That Officially Surpassed The Witcher 3, Ranked",
-    "summary": "The Witcher 3 is one of the best open-world RPGs ever, but these games still manage to surpass it in key areas like story length, world size, and more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/open-world-rpg-games-surpassed-witcher-3-officially-ranked/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/the-witcher-3-6-other-games-that-keep-getting-remastered-1.jpg",
-    "published_at": "2026-10-12T00:45:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "54c11dfd3ede",
-    "slug": "best-racer-styles-in-star-wars-galactic-racer-tier-list",
-    "headline": "Best Racer Styles in Star Wars Galactic Racer (Tier List)",
-    "summary": "We've ranked every Racer Style in Star Wars: Galactic Racer for Multiplayer and Campaign, so you know which ones will help you win!",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/star-wars-galactic-racer-best-racer-styles-guide/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/star-wars-galactic-racer-best-racer-styles-tier-list-campaign-multiplayer.jpg",
-    "published_at": "2026-10-12T00:08:03.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
