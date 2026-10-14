@@ -1,5 +1,137 @@
 [
   {
+    "id": "9a3a459593cc",
+    "slug": "20-of-the-most-forward-looking-cosplay-fits-from-tokyo-game-show-2026",
+    "headline": "20 Of The Most Forward-Looking Cosplay Fits From Tokyo Game Show 2026",
+    "summary": "There's no reason to wait for a game's release to dress up as your favorite character",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/tokyo-game-show-cosplay-gallery-castlevania-belmonts-curse-zelda-2000745908"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/10/tokyo-main-1280x720.jpeg",
+    "published_at": "2026-10-14T15:30:40.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0f3f80947d05",
+    "slug": "zelda-ocarina-of-time-remake-returns-with-a-brand-new-hall-of-fallen-f",
+    "headline": "Zelda: Ocarina of Time Remake Returns With a Brand-New Hall of Fallen Foes",
+    "summary": "Nintendo's remake of The Legend of Zelda: Ocarina of Time for Switch 2 adds something totally new: the Hall of Fallen Foes, plus a boss challenge mode",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/legend-of-zelda-ocarina-of-time-remake-new-feature/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-legend-of-zelda_-ocarina-of-time-overview-trailer-nintendo-switch-2-2-41-screenshot-1.jpg",
+    "published_at": "2026-10-14T15:20:01.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "32f74eaa0861",
+    "slug": "ocarina-of-time-remake-will-support-all-existing-zelda-amiibo-with-in",
+    "headline": "Ocarina of Time Remake Will Support All Existing Zelda Amiibo With In-Game Item Bonuses",
+    "summary": "The new Ocarina of Time Remake overview trailer has confirmed support for all Zelda amiibo, old and new.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/ocarina-of-time-switch-2-remake-will-support-all-existing-zelda-amiibo-confirmed"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/14/ocarinaamiibo-1791989851741.jpg",
+    "published_at": "2026-10-14T15:17:28.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "34a44e0ae76d",
+    "slug": "asha-sharma-announces-xbox-labs-project-to-explore-new-technology-whic",
+    "headline": "Asha Sharma announces Xbox Labs project to \"explore new technology,\" which sure sounds like tinkering with old games through AI",
+    "summary": "As part of Microsoft's ongoing, physics-ignoring push to do more business with thousands fewer staff, games chief Asha Sharma has announced Xbox Labs: a new umbrella for Xbox's R&D into the kind of game remixing and rejigging most visibly characterised by viralities like Halo for browsers, or Mario in Elden Ring. Both enabled, perhaps tellingly, by the AI-driven decompilation of…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/asha-sharma-announces-xbox-labs-project-to-explore-new-technology-which-sure-sounds-like-tinkering-with-old-games-through-ai"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/xbox-labs-cropped.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-14T15:17:23.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "395b68e82246",
+    "slug": "arenanet-solves-an-ongoing-guild-wars-2-issue-by-ditching-paid-living",
+    "headline": "ArenaNet solves an ongoing Guild Wars 2 issue by ditching paid Living World add-ons and bundling them with expansions",
+    "summary": "ArenaNet has announced a major shift in its live service Guild Wars 2 operation today, ditching separate payments for Living World seasonal add-ons and packaging the narrative storylines alongside the MMO's expansions instead.\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/guild-wars-2-living-world-expansions"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/guild-wars-2-characters.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-14T15:14:15.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b91e4d4cb5cf",
+    "slug": "mario-kart-8-patch-stops-switch-2-players-from-being-bombarded-with-mo",
+    "headline": " Mario Kart 8 patch stops Switch 2 players from being bombarded with more obstacles than on Switch 1  ",
+    "summary": "Meanwhile, fans wonder if \"Mario Kart World is dead\"",
+    "category": "patches",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/super-mario/new-mario-kart-8-patch-stops-switch-2-players-from-being-bombarded-with-more-obstacles-than-their-switch-1-rivals/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/UPqivxuy8u2sensWC4L5t-1920-80.jpg",
+    "published_at": "2026-10-14T15:05:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "35680457bbc8",
     "slug": "middle-earth-enterprises-announces-new-3000-lord-of-the-rings-release",
     "headline": "Middle-earth Enterprises Announces New $3,000 Lord of the Rings Release",
@@ -45,6 +177,73 @@
     "comment_count": 0,
     "game": "dragons-dogma-2",
     "game_label": "Dragon's Dogma 2"
+  },
+  {
+    "id": "3ef0b62d0ecf",
+    "slug": "round-up-the-previews-are-in-for-zelda-ocarina-of-time-on-switch-2",
+    "headline": "Round Up: The Previews Are In For Zelda: Ocarina Of Time On Switch 2",
+    "summary": "Fairy nuff. Believe it or not, The Legend of Zelda: Ocarina of Time on Switch 2 is almost here. We are rapidly closing in on that 5th November release date (Nintendo released a new trailer, just to remind us), and today we can start to get an idea of what to expect from the remake. The first Ocarina of Time…",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/round-up-the-previews-are-in-for-zelda-ocarina-of-time-on-switch-2"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/2ed797b7da0c1/large.jpg",
+    "published_at": "2026-10-14T15:00:00.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "299fdff55b10",
+    "slug": "review-tales-of-eternia-remastered-ps5-classic-playstation-rpg-shows-i",
+    "headline": "Review: Tales of Eternia Remastered (PS5) - Classic PlayStation RPG Shows Its Age",
+    "summary": "Third time's the charm. Growing up, Tales was one of my favorite Japanese RPG series, one that I wished got as much attention as Final Fantasy and Persona. With the success of the latest entry, 2021’s Tales of Arise, Bandai Namco has sought to port some of the older games to modern platforms. Many of them have aged well, including…",
+    "category": "reviews",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/reviews/ps5/tales-of-eternia-remastered"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/26fceb300262e/large.jpg",
+    "published_at": "2026-10-14T15:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "782b08896a95",
+    "slug": "gta-6-leaks-are-still-coming-rockstar-labels-the-2022-hack-weirdly-inv",
+    "headline": "GTA 6 Leaks Are Still Coming, Rockstar Labels The 2022 Hack “Weirdly Invasive”",
+    "summary": "Rockstar Games has reacted to the mass GTA 6 leaks, which began in 2022, with a top developer at the studio saying it \"feels like somebody's wading through your dirty washing.\" Bloomberg published these comments from Rockstar developers on the same day that GTA 6 leaker CyberLeek posted yet another gameplay leak, saying it could be the last. \"It feels…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-leaks-are-still-coming-rockstar-labels-the-2022-hack-weirdly-invasive/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Cal_Hampton_02.jpg?w=300",
+    "published_at": "2026-10-14T14:57:53.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "28438a94ee7d",
@@ -140,6 +339,27 @@
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/valve-steam-end-of-an-era-sunset.jpg",
     "published_at": "2026-10-14T14:41:06.000Z",
     "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "895a0b6fb17e",
+    "slug": "we-vibe-coded-a-new-epic-games-launcher-epics-new-store-app-was-built",
+    "headline": "‘We Vibe Coded a New Epic Games Launcher’ – Epic’s New Store App Was Built Using AI",
+    "summary": "Following reports of an AI push, Epic Games has revealed that the new EGS Launcher was \"vibe coded\" using artificial intelligence.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/we-vibe-coded-a-new-epic-games-launcher-epics-new-store-app-was-built-using-ai"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/14/egs-ai-build-blogroll-1791981252442.jpg",
+    "published_at": "2026-10-14T14:33:23.000Z",
+    "hype_signal": 65,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4472,228 +4692,6 @@
     "image_url": "https://assets-prd.ignimgs.com/2026/10/12/halospeedrunblogroll-1533336736758-1717694718988-1791846824130.jpg",
     "published_at": "2026-10-13T19:00:00.000Z",
     "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d12a342d0529",
-    "slug": "asha-sharma-announces-xbox-labs-to-turn-emerging-ideas-into-new-experi",
-    "headline": "Asha Sharma Announces Xbox Labs To Turn 'Emerging Ideas' Into New Experiences",
-    "summary": "\"I think XBOX has an important role to play here.\". Xbox boss Asha Sharma has announced to her team today that a new division has been set up at Microsoft called \"Xbox Labs\", and its intention is to \"explore\" the possibilities of \"what new technologies make possible\". Her message references new developments like the rapid decompilation of games that we've…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/10/asha-sharma-announces-xbox-labs-to-turn-emerging-ideas-into-new-experiences"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/601ea2baebc6f/large.jpg",
-    "published_at": "2026-10-13T19:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c36137794a44",
-    "slug": "xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and",
-    "headline": "Xbox announces Xbox Labs, a new initiative to trial emerging ideas and \"new technology\"",
-    "summary": "Xbox CEO Asha Sharma has announced the creation of Xbox Labs, a new team within the organisation to \"turn emerging ideas into things our players and developers can experience.\" The unit is a \"a small group of game makers, engineers and scientists,\" drawn from within the business, charged with rapid development, iteration and testing of tools, products and features that…",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/XBOX-LABS.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-13T19:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "08ba4987168e",
-    "slug": "epic-games-reportedly-using-ai-to-finish-development-work-on-delayed-d",
-    "headline": "Epic Games Reportedly Using AI To Finish Development Work on Delayed Disney Shooter",
-    "summary": "Epic Games' in-development Disney-themed shooter has reportedly been delayed, and now the team could be using AI to get it finished.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/epic-games-disney-shooter-delay-ai-first-development/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/epic-games-reportedly-using-ai-to-finish-development-work-on-delayed-disney-shooter-gamerant-feature.jpg",
-    "published_at": "2026-10-13T18:40:45.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "35d642986107",
-    "slug": "ea-sports-college-football-devs-reportedly-fear-the-franchise-could-di",
-    "headline": "EA Sports' College Football Devs Reportedly Fear the Franchise Could Disappear by 2030",
-    "summary": "Developers working on EA Sports' College Football franchise reportedly fear that the series may not live to see the end of the decade.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/ea-sports-college-football-devs-reportedly-fear-the-franchise-could-disappear-by-2030"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2024/05/27/cf25-blogroll-1716836985997.jpg",
-    "published_at": "2026-10-13T18:34:40.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3cd380e170ed",
-    "slug": "despite-huge-changes-for-the-series-halo-fest-2026-is-going-forward-an",
-    "headline": "Despite Huge Changes For The Series, Halo Fest 2026 Is Going Forward, And News Is Coming Soon",
-    "summary": "The big Halo Fest event planned for December is going ahead as planned, despite mass layoffs and other major changes at developer Halo Studios. Halo Studios director of competitive engagement, Tashi, confirmed this and said there will be news about Halo Fest this week. Additionally, Halo Studios will release materials \"celebrating the community and 25 years of Halo,\" while fans…",
-    "category": "industry",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/despite-huge-changes-for-the-series-halo-fest-2026-is-going-forward-and-news-is-coming-soon/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/HaloFest.jpg?w=300",
-    "published_at": "2026-10-13T18:30:59.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7a5a2504afe9",
-    "slug": "capcom-officially-unveils-resident-evil-3-remake-gameplay-on-switch-2",
-    "headline": "Capcom Officially Unveils Resident Evil 3 Remake Gameplay on Switch 2",
-    "summary": "Resident Evil 3 comes to Nintendo Switch 2 soon, and Capcom has revealed gameplay footage showcasing the horror game on the handheld.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/resident-evil-3-remake-gameplay-switch-2/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/resident-evil-3-remake-footage-on-switch-2-1.jpg",
-    "published_at": "2026-10-13T18:30:13.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "10c0e99d2cf1",
-    "slug": "echoes-of-delicious-in-dungeon-ring-out-in-deep-dish-dungeon-a-co-op-d",
-    "headline": "Echoes of Delicious in Dungeon ring out in Deep Dish Dungeon, a co-op dungeon crawler about making meals with whatever you can scrounge up that's out now",
-    "summary": "I would really like it if someone made a Delicious in Dungeon game. It doesn't have to be official, it can be legally distinct! I've been asking for over two years now! I imagine I'll have to keep waiting, but luckily for me, a new game is out today which certainly feels reminiscent of the delightful (and morbid) anime, while…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/echoes-of-delicious-in-dungeon-ring-out-in-deep-dish-dungeon-a-co-op-dungeon-crawler-about-making-meals-with-whatever-you-can-scrounge-up-thats-out-now"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/deep-dish-dungeon.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-13T18:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5c6ff174a757",
-    "slug": "grand-theft-auto-6-rumored-to-be-launching-on-pc-sooner-than-anyone-ex",
-    "headline": " Grand Theft Auto 6 rumored to be launching on PC sooner than anyone expected, but I wouldn't get my hopes up too high ",
-    "summary": "If the rumored release window is accurate, it means the new GTA will hit PC just a few months after consoles—something almost unheard of from Rockstar.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/report-claims-grand-theft-auto-6-will-launch-on-pc-sooner-than-anyone-expected/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ehhtJ4zjCNwxiraXX986nD-1920-80.jpg",
-    "published_at": "2026-10-13T18:07:30.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "eb390073ebe7",
-    "slug": "xbox-indie-showcase-to-highlight-18-games-this-month-including-tons-of",
-    "headline": "Xbox Indie Showcase To Highlight 18 Games This Month, Including 'Tons' Of World Premieres",
-    "summary": "It literally takes place in a week! Anyone up for another Xbox showcase?! It's been announced today that Xbox and IGN are partnering for the latest edition of the ID@Xbox Showcase, which is set to highlight 18 games on Tuesday, October 20th. It's said that those 18 games will be made up of trailers, gameplay and \"tons\" of world premieres,…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/10/xbox-indie-showcase-to-highlight-18-games-this-month-including-tons-of-world-premieres"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/1b638ca245b95/large.jpg",
-    "published_at": "2026-10-13T18:05:00.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b512f24b159c",
-    "slug": "concernedape-teases-more-action-rpg-gameplay-in-haunted-chocolatier-it",
-    "headline": "ConcernedApe Teases More Action-RPG Gameplay In Haunted Chocolatier: ‘It’s For The People In Stardew Valley That Go Into The Mines’",
-    "summary": "It'll still be what he calls a 'town game,' though",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/concernedape-teases-more-action-rpg-gameplay-in-haunted-chocolatier-its-for-the-people-in-stardew-valley-that-go-into-the-mines-2000745296"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/haunted-chocolatier.jpg",
-    "published_at": "2026-10-13T18:00:03.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
