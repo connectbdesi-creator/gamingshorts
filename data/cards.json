@@ -1,5 +1,174 @@
 [
   {
+    "id": "35680457bbc8",
+    "slug": "middle-earth-enterprises-announces-new-3000-lord-of-the-rings-release",
+    "headline": "Middle-earth Enterprises Announces New $3,000 Lord of the Rings Release",
+    "summary": "A new, premium Lord of the Rings experience is coming, priced at $3,000, in partnership with Middle-earth Enterprises.",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/lord-rings-lotr-cave-troll-moria-statue/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/lotr_cave_troll_attack_3840x2160.jpg",
+    "published_at": "2026-10-14T15:00:13.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f1c571be0663",
+    "slug": "what-are-eternal-wakestones-for-in-dragons-dogma-2",
+    "headline": "What Are Eternal Wakestones For in Dragon's Dogma 2?",
+    "summary": "In Dragon's Dogma 2, Eternal Wakestones allow players to revive multiple NPCs at once, providing a new strategy in the game.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/dragons-dogma-2-dd2-how-where-get-use-eternal-wakestones/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/dragon-s-dogma-2-eternal-wakestone.jpg",
+    "published_at": "2026-10-14T15:00:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dragons-dogma-2",
+    "game_label": "Dragon's Dogma 2"
+  },
+  {
+    "id": "28438a94ee7d",
+    "slug": "gta-6s-project-americas-vision-was-real-all-along",
+    "headline": "GTA 6's Project Americas Vision Was Real All Along",
+    "summary": "A new report confirms that Grand Theft Auto 6's long-rumored Project Americas concept was indeed a real part of the game's development",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-project-americas-confirmed/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/jason_and_lucia_10-0cauoz34524.jpg",
+    "published_at": "2026-10-14T14:53:44.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "2826a67df70a",
+    "slug": "rockstar-tribunal-delayed-until-november-18th",
+    "headline": "Rockstar Tribunal Delayed Until November 18th",
+    "summary": "A Rockstar Games employment tribunal has been extended until November 18th, just days before the expected release of GTA 6.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/rockstar-union-busting-tribunal-extended-to-november-18th-meaning-it-will-close-just-days-before-gta-6s-release-date"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/gta-6-jason-lucia-relationship.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-14T14:45:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "b924ef441ca1",
+    "slug": "doom-can-now-run-on-dns-databases",
+    "headline": "Doom Can Now Run on DNS Databases",
+    "summary": "A pioneer in DNS technology has demonstrated that the protocol can be used to power games like Doom, but the performance is questionable.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/doom-can-run-on-a-dns-database-now-and-one-of-the-technologys-pioneers-says-i-cant-decide-whether-this-is-deliciously-horrible-or-else-horribly-delicious/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/NqRLotHDysoV2dhuS7X6Ei-1920-80.jpg",
+    "published_at": "2026-10-14T14:41:41.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "doom",
+    "game_label": "Doom"
+  },
+  {
+    "id": "6bfa9ccac9dc",
+    "slug": "its-officially-the-end-of-an-era-for-valve",
+    "headline": "Its Officially the End of an Era for Valve",
+    "summary": "A new announcement from Steam creator and PC game developer Valve signals the end of an era that's been ongoing for over seven years.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/valve-index-vr-headset-production-ending-when/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/valve-steam-end-of-an-era-sunset.jpg",
+    "published_at": "2026-10-14T14:41:06.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "598783c82b12",
+    "slug": "how-over-reliance-on-google-calendar-ruined-my-fire-emblem-fortunes-we",
+    "headline": "How Over-reliance On Google Calendar Ruined My Fire Emblem: Fortune’s Weave Playthrough",
+    "summary": "A writer shares how their over-reliance on Google Calendar affected their gameplay experience in Fire Emblem: Fortune’s Weave",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/how-over-reliance-on-google-calendar-ruined-my-fire-emblem-fortunes-weave-playthrough-2000745899"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/10/Fortunesweavegroup-1280x720.jpg",
+    "published_at": "2026-10-14T14:30:42.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fire-emblem-fortunes-weave",
+    "game_label": "Fire Emblem: Fortune’s Weave"
+  },
+  {
     "id": "08bdc83f98b1",
     "slug": "black-clover-6-characters-who-rival-julius-novachrono-ranked",
     "headline": "Black Clover: 6 Characters Who Rival Julius Novachrono, Ranked",
@@ -50,6 +219,62 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "dfc44ac33ae3",
+    "slug": "nintendo-lifes-review-delayed",
+    "headline": "Nintendo Life's Review Delayed",
+    "summary": "Nintendo Life's review for Castlevania: Belmont's Curse was delayed, and the site is concerned that many players will dive into the game without reading their thoughts on it.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/site-news-so-wheres-our-castlevania-belmonts-curse-review"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/b1db97dda4e5a/large.jpg",
+    "published_at": "2026-10-14T14:30:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "castlevania-belmonts-curse",
+    "game_label": "Castlevania: Belmont's Curse"
+  },
+  {
+    "id": "14b716c8e78f",
+    "slug": "ubisoft-closes-redlynx-studio-behind-trials-series",
+    "headline": "Ubisoft Closes RedLynx Studio Behind Trials Series",
+    "summary": "Ubisoft is closing the RedLynx studio behind popular racing game series Trials, marking the end of a successful partnership that produced several sequels.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/redlynx-the-studio-behind-the-trials-series-is-being-closed-by-ubisoft"
+      },
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/trials-studio-redlynx-looks-set-to-close-as-ubisoft-continues-major-restructure"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/4ae031546dee6/large.jpg",
+    "published_at": "2026-10-14T14:30:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "trials",
+    "game_label": "Trials"
   },
   {
     "id": "53662ca6d761",
@@ -2199,31 +2424,6 @@
     "comment_count": 0,
     "game": "grand-theft-auto",
     "game_label": "Grand Theft Auto"
-  },
-  {
-    "id": "14b716c8e78f",
-    "slug": "ubisoft-closes-redlynx-studio-behind-trials-series",
-    "headline": "Ubisoft Closes RedLynx Studio Behind Trials Series",
-    "summary": "Ubisoft is closing the RedLynx studio behind popular racing game series Trials, marking the end of a successful partnership that produced several sequels.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/10/redlynx-the-studio-behind-the-trials-series-is-being-closed-by-ubisoft"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/4ae031546dee6/large.jpg",
-    "published_at": "2026-10-14T10:45:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "trials",
-    "game_label": "Trials"
   },
   {
     "id": "c9beb19ccc99",
@@ -4494,184 +4694,6 @@
     "image_url": "https://kotaku.com/app/uploads/2026/10/haunted-chocolatier.jpg",
     "published_at": "2026-10-13T18:00:03.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f4a92ce8b35d",
-    "slug": "warframe-sets-course-for-a-distant-star-system-in-epoch-operation-taub",
-    "headline": "Warframe Sets Course for a Distant Star System in Epoch Operation: Taubound",
-    "summary": "Community is the nexus of everything we do and every choice we make as Warframe developers. We create games with players, not just for players, and build trust over time through actions that demonstrate we listen. Our players around the world in our XBOX community are a monumental part of that family portrait; they help […] The post Warframe Sets…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/10/13/warframe-sets-course-epoch-operation-taubound/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/f4a92ce8b35d/800/600",
-    "published_at": "2026-10-13T18:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "73c6443db3a9",
-    "slug": "coming-soon-to-invincible-vs-its-your-copyright-friendly-neighbourhood",
-    "headline": "Coming soon to Invincible VS, it's your copyright-friendly neighbourhood Agent Spider",
-    "summary": "Spider-Man might be one of the most parodied characters of all time, simply due to also being one of the most well-known characters of anything, well, ever. Everyone knows who Spider-Man is. Invincible VS' latest trailer plays into this cleverly, with the reveal of Agent Spider as an upcoming DLC character making frequent allusions to his Marvel counterpart.\nRead more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/coming-soon-to-invincible-vs-its-your-copyright-friendly-neighbourhood-agent-spider"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Agent-Spider.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-13T18:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7c730d88e839",
-    "slug": "xbox-is-experimenting-with-a-controversial-social-media-feature",
-    "headline": "Xbox Is Experimenting with a Controversial Social Media Feature",
-    "summary": "Xbox is experimenting with a new streak feature, which will track how many consecutive weeks you've used the system.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/xbox-streak-feature-social-media-controversy/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/xbox-25th-anniversary.jpg",
-    "published_at": "2026-10-13T17:59:34.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1bf6ff25c6a5",
-    "slug": "paranormal-legends-story-driven-adventure-game-we-dont-exist-announced",
-    "headline": "Paranormal legends story-driven adventure game We Don’t Exist announced for PC",
-    "summary": "Solo developer Versiris has announced We Don’t Exist, a story-driven adventure game inspired by real-world …",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/paranormal-legends-story-driven-adventure-game-we-dont-exist-announced-for-pc"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/1bf6ff25c6a5/800/600",
-    "published_at": "2026-10-13T17:52:26.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cd5a1c49b918",
-    "slug": "red-deads-shocking-twist-ending-angered-a-lot-of-people-but-it-was-the",
-    "headline": "Red Dead’s Shocking Twist Ending Angered A Lot Of People, But It Was The Right Call, Rockstar Co-Founder Says",
-    "summary": "Rockstar co-founder Dan Houser has recalled the controversial ending to 2010's Red Dead Redemption in which the main character, John Marston, is killed. He said in an interview that the game's lead designer, Christian Cantamessa was on board with the idea to kill off Marston, but Houser wondered about the production realities of, \"How does an open-world game work if…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/red-deads-shocking-twist-ending-angered-a-lot-of-people-but-it-was-the-right-call-rockstar-co-founder-says/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/RDR.jpg?w=300",
-    "published_at": "2026-10-13T17:52:01.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e857f79d0e4b",
-    "slug": "the-vibe-coders-have-come-for-nintendo-and-obviously-this-wont-end-wel",
-    "headline": "The Vibe-Coders Have Come For Nintendo, And Obviously This Won’t End Well",
-    "summary": "Claude-assisted ports of Nintendo games have started popping up online, which surely won't upset the famously litigious Nintendo",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/the-vibe-coders-have-come-for-nintendo-and-obviously-this-wont-end-well-2000745258"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/Super-Mario-Odyssey-AI-PC-port-MZLabs-Nintendo-2-1280x720.jpg",
-    "published_at": "2026-10-13T17:30:33.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ae5bd207924e",
-    "slug": "ratocalypse-might-sound-like-a-low-budget-horror-flick-but-its-actuall",
-    "headline": "Ratocalypse might sound like a low-budget horror flick, but it's actually a neat looking Fire Emblem adjacent strategy auto battler",
-    "summary": "What do you think when you hear the name \"Ratocalypse\"? To me it sounds like one of those so bad they're good horror flicks like Sharknado, and now I kind of want this film to exist. Alas, instead of what I said, it's actually a quite neat sounding, Fire Emblem adjacent, strategy RPG auto battler about anthropomorphic medieval rats who've…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/ratocalypse-might-sound-like-a-low-budget-horror-flick-but-its-actually-a-neat-looking-fire-emblem-adjacent-strategy-auto-battler"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Ratocalypse.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-13T17:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7c76a990a6c0",
-    "slug": "modern-warfare-4-is-the-latest-call-of-duty-to-launch-without-a-ps5-pl",
-    "headline": "Modern Warfare 4 Is the Latest Call of Duty to Launch without a PS5 Platinum Trophy",
-    "summary": "Back to HQ. Call of Duty is set to continue a trend that's been frustrating fans for a good few years; the PS5 version of the next instalment will arrive without a platinum Trophy. That's because Call of Duty: Modern Warfare 4 will be part of the Call of Duty HQ launcher when it arrives later this month. Because the…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/modern-warfare-4-is-the-latest-call-of-duty-to-launch-without-a-ps5-platinum-trophy"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/0a9cfd48f51ad/large.jpg",
-    "published_at": "2026-10-13T17:30:00.000Z",
-    "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
