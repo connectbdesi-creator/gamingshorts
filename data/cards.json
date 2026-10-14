@@ -1,5 +1,923 @@
 [
   {
+    "id": "fcc305667758",
+    "slug": "ace-combat-8-just-proved-arcade-flight-games-arent-going-anywhere",
+    "headline": "Ace Combat 8 Just Proved Arcade Flight Games Aren't Going Anywhere",
+    "summary": "Ace Combat 8's is the fastest selling game in franchise history, and it's million-copy launch proves arcade flight games can still thrive.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/ace-combat-8-sales-arcade-flight-games/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/ace-combat-8-milestone.jpg",
+    "published_at": "2026-10-14T11:30:13.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c7d998fa6d9b",
+    "slug": "valve-sells-off-last-index-headset-stock-as-steam-frame-takes-over",
+    "headline": "Valve Sells Off Last Index Headset Stock as Steam Frame Takes Over",
+    "summary": "Valve has discontinued its VR headset, the Index, due to the success of its new Steam Frame, launching a sale to clear out remaining stock.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/with-the-steam-frame-becoming-valves-new-favourite-vr-child-theyre-selling-off-their-last-index-headset-stock"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/half-life-alyx-valve-index.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-14T11:20:34.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "valve-index",
+    "game_label": "Valve Index"
+  },
+  {
+    "id": "89ee20aa46c2",
+    "slug": "the-witcher-3-remastered-patch-specifically-targets-ps5-ps5-pro-crashi",
+    "headline": "The Witcher 3 Remastered Patch Specifically Targets PS5, PS5 Pro Crashing Problems",
+    "summary": "CDPR provides new details.\nCD Projekt Red has released a quick hotfix for The Witcher 3 Remastered, specifically on PS5 and PS5 Pro.\nThis platform-exclusive patch apparently improves the game's overall stability, \"to help ensure a more reliable experience\". It's a mere 500MB download.\nRead the full article on pushsquare.com",
+    "category": "patches",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastered-patch-specifically-targets-ps5-ps5-pro-crashing-problems"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/640556b39be23/large.jpg",
+    "published_at": "2026-10-14T11:15:00.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "574fa12f0793",
+    "slug": "avatar-seven-havens-co-creator-debunks-secret-avatar-theory",
+    "headline": "Avatar: Seven Havens Co-creator Debunks 'Secret Avatar' Theory",
+    "summary": "Michael Dante DiMartino, co-creator of Avatar: The Last Airbender and Avatar: The Brave and the Bold, has denied the existence of a previously theorized secret Avatar",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/animation-shows/avatar-seven-havens-co-creator-confirms-there-was-no-secret-avatar-between-korra-and-twin-avatars-pavi-and-nisha-despite-the-200-year-gap/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/AqgRq5izvRyar6LjLtBQdT-1920-80.jpg",
+    "published_at": "2026-10-14T11:14:33.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "avatar-the-last-airbender",
+    "game_label": "Avatar: The Last Airbender"
+  },
+  {
+    "id": "0b254763f812",
+    "slug": "rockstars-gta-6-development-process-not-perfect",
+    "headline": "Rockstar's GTA 6 Development Process Not Perfect",
+    "summary": "Rockstar Games' development process for Grand Theft Auto 6 is not without its challenges, according to a recent interview with Jennifer Kolbe.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-vowed-gta-6-wouldnt-be-finished-by-crunching-after-red-dead-redemption-2s-tough-development-says-publishing-lead-i-think-we-did-things-differently-and-im-proud-of-that/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/q9VEvTmjqXdkuDN5ZDPPxh-1920-80.jpg",
+    "published_at": "2026-10-14T11:11:44.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "0f702cde6452",
+    "slug": "palworld-wont-rival-fortnites-success-by-focusing-on-speed-devs-say",
+    "headline": "Palworld Won't Rival Fortnite's Success by Focusing on Speed, Devs Say",
+    "summary": "Palworld's developers prioritize creative expression over quick profits, deviating from Fortnite's fast-tracked monetization approach.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/survival/palworld-picks-spin-offs-over-a-fortnite-style-metaverse-because-maximizing-revenue-as-quickly-as-possible-isnt-what-drives-our-creative-decisions-says-pocketpair-lead/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/py9LffZvZcK27DuDYesz6d-1920-80.jpg",
+    "published_at": "2026-10-14T11:09:42.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "palworld",
+    "game_label": "Palworld"
+  },
+  {
+    "id": "0b05a601041e",
+    "slug": "rockstar-built-an-entire-studio-just-to-create-gta-6-npcs",
+    "headline": "Rockstar Built An Entire Studio Just To Create GTA 6 NPCs",
+    "summary": "Rockstar Games reportedly established an entire studio in Los Angeles dedicated to creating NPCs for Grand Theft Auto 6 after realizing the game's ambitious world would need far more production resources than initially expected. Speaking to Bloomberg, Rockstar development lead Rob Nelson explained that the team had struggled to meet its targets for the number of NPCs that needed to…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/rockstar-built-an-entire-studio-just-to-create-gta-6-npcs/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/05/4695822-gta6.jpg?w=300",
+    "published_at": "2026-10-14T11:07:36.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "52ef23de6053",
+    "slug": "rockstar-officially-opens-up-about-gta-6s-massive-open-world-developme",
+    "headline": "Rockstar Officially Opens Up About GTA 6's Massive Open-World Development",
+    "summary": "Rockstar Games is giving fans an update on the development of Grand Theft Auto 6, acknowledging the long and challenging process behind its creation.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-vi-6-massive-open-world-development-challenges/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/gta6_jason_lucia_upscaled_3840x2160-2.jpg",
+    "published_at": "2026-10-14T11:04:07.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "1470420d9a49",
+    "slug": "zelda-links-awakenings-nintendo-switch-remake-now-has-a-pc-port-if-you",
+    "headline": " Zelda: Link's Awakening's Nintendo Switch remake now has a PC port if you can stomach an \"almost exclusive use of AI\" ",
+    "summary": "\"Something like this is way beyond my skill set\"",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-links-awakenings-nintendo-switch-remake-now-has-a-pc-port-if-you-can-stomach-an-almost-exclusive-use-of-ai/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/zKaVYn62cAmA7wbgV4Krjc-1920-80.jpg",
+    "published_at": "2026-10-14T11:02:20.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6886dd99dec8",
+    "slug": "gta-6-realism-experiment-began-with-everyday-life",
+    "headline": "GTA 6 Realism Experiment Began with Everyday Life",
+    "summary": "Rockstar Games aims to add realism to GTA 6 with consequences for player actions, building on Red Dead Redemption 2's experimentation with realistic gameplay.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/rockstars-gta-6-realism-experiment-started-with-beer-and-sandwiches/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/GTA-6-Beer.jpg?w=300",
+    "published_at": "2026-10-14T11:02:14.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "891368721cd1",
+    "slug": "10-years-ago-playstation-almost-changed-gaming-forever",
+    "headline": "10 Years Ago, PlayStation Almost Changed Gaming Forever",
+    "summary": "This week marks the 10-year anniversary of the PlayStation VR, a headset which nearly made the case for VR gaming on consoles.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/playstation-vr-10-year-retrospective/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/playstation-worlds-vr.jpg",
+    "published_at": "2026-10-14T11:01:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "da1c6cc94b89",
+    "slug": "rockstar-dev-addresses-gta-6-leak",
+    "headline": "Rockstar Dev Addresses GTA 6 Leak",
+    "summary": "Rockstar Games' head of development discusses the impact of a massive leak on GTA 6's development in 2022.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/how-2022-gta-6-leak-affected-rockstar-development/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/jason_and_lucia_08.jpg",
+    "published_at": "2026-10-14T11:00:16.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
+    "id": "17c77deab03b",
+    "slug": "review-hell-is-us-switch",
+    "headline": "Review: Hell Is Us (Switch)",
+    "summary": "A thought-provoking game with admirable design, but also frustrating moments, has been reviewed by Nintendo Life.",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/hell-is-us"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/55778feb59e58/large.jpg",
+    "published_at": "2026-10-14T11:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "hell-is-us",
+    "game_label": "Hell Is Us"
+  },
+  {
+    "id": "d14792531c6a",
+    "slug": "fallout-day-franchise-sale-hits-xbox",
+    "headline": "Fallout Day Franchise Sale Hits Xbox",
+    "summary": "Xbox is offering discounts on Fallout games and DLC, including a bundle with Elder Scrolls V: Skyrim Anniversary Edition.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/30plus-games-and-dlc-are-reduced-by-75percent-in-the-fallout-day-franchise-sale"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/71f46816b3928/large.jpg",
+    "published_at": "2026-10-14T11:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fallout-day-franchise-sale",
+    "game_label": "Fallout Day Franchise Sale"
+  },
+  {
+    "id": "4e786e60abff",
+    "slug": "rockstar-speeds-up-next-game-after-grand-theft-auto-6",
+    "headline": "Rockstar Speeds Up Next Game After Grand Theft Auto 6",
+    "summary": "Rockstar Games is planning to release its next project sooner than expected, with the engine and tools developed for Grand Theft Auto 6 being used to accelerate development.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/rockstar-says-its-next-game-after-grand-theft-auto-6-wont-take-another-eight-years-to-make/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/4e786e60abff/800/600",
+    "published_at": "2026-10-14T10:57:10.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "9b07465ca748",
+    "slug": "please-tell-me-youre-kidding",
+    "headline": "Please tell me you're kidding",
+    "summary": "Take-Two CEO expresses shock at GTA 6's two delays, calling on the game's developers to find a way to deliver it",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/please-tell-me-youre-kidding-gta-6s-two-delays-flabbergasted-take-two-ceo-strauss-zelnick-but-he-was-reasonable-with-rockstar/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/bLtUs6LgTf9GGRQjo5u4qU-1920-80.jpg",
+    "published_at": "2026-10-14T10:52:35.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "c998e2b4bf74",
+    "slug": "xbox-unveils-xbox-labs-to-expand-web-browser-gaming",
+    "headline": "Xbox Unveils Xbox Labs to Expand Web Browser Gaming",
+    "summary": "Xbox is launching a new initiative called Xbox Labs, aiming to increase gaming accessibility, particularly on web browsers, without referencing AI technology",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/xbox-is-getting-into-ai-gaming-even-if-it-wont-say-so/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Xbox-Labs.jpg?w=300",
+    "published_at": "2026-10-14T10:50:37.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "bf6a68c58b70",
+    "slug": "haunted-chocolatier-is-still-a-town-game-but-itll-be-more-of-an-action",
+    "headline": " Haunted Chocolatier is still 'a town game', but it'll be more of an action RPG: 'It's for the people in Stardew Valley that go into the mines' ",
+    "summary": "Farming dungeons, not gourds.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/life-sim/haunted-chocolatier-is-still-a-town-game-but-itll-be-more-of-an-action-rpg-its-for-the-people-in-stardew-valley-that-go-into-the-mines/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/SCohxdV9237hk6sY8h8pyb-1920-80.jpg",
+    "published_at": "2026-10-14T10:49:55.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "14b716c8e78f",
+    "slug": "ubisoft-closes-redlynx-studio-behind-trials-series",
+    "headline": "Ubisoft Closes RedLynx Studio Behind Trials Series",
+    "summary": "Ubisoft is closing the RedLynx studio behind popular racing game series Trials, marking the end of a successful partnership that produced several sequels.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/redlynx-the-studio-behind-the-trials-series-is-being-closed-by-ubisoft"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/4ae031546dee6/large.jpg",
+    "published_at": "2026-10-14T10:45:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "trials",
+    "game_label": "Trials"
+  },
+  {
+    "id": "c9beb19ccc99",
+    "slug": "sonys-first-party-games-disappear-from-us-ps-store",
+    "headline": "Sony's First-Party Games Disappear from US PS Store",
+    "summary": "Several PlayStation games, including remasters and exclusive titles, have vanished from the US PS Store without explanation.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/some-of-sonys-first-party-games-are-suddenly-missing-from-ps-store-in-the-us"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/8c85266ea5a5b/large.jpg",
+    "published_at": "2026-10-14T10:45:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "god-of-war-3-remastered",
+    "game_label": "God of War 3 Remastered"
+  },
+  {
+    "id": "905f0dd8e277",
+    "slug": "ubisoft-lays-off-redlynx-staff-and-shuts-down-studio",
+    "headline": "Ubisoft Lays Off RedLynx Staff and Shuts Down Studio",
+    "summary": "Ubisoft Singapore is shutting down RedLynx, the studio behind Trials arcade racing games, while also laying off staff at the Assassin's Creed Black Flag Resynced studio",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/ubisoft-are-making-layoffs-at-assassins-creed-black-flag-resynced-studio-ubisoft-singapore-while-closing-trials-creators-redlynx-according-to-report"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/black-flag-gold-outfit.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-14T10:43:55.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0cb48f85999e",
+    "slug": "all-mtg-sets-and-event-dates-for-2027",
+    "headline": "All MTG Sets And Event Dates For 2027",
+    "summary": "MTG sets and event dates for 2027 have been revealed, following the Reality Fracture panel at MagicCon Amsterdam.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/magic-the-gathering-2027-release-schedule/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/07/a-close-up-image-of-the-theorist-jace-beleren-from-his-japanese-fracture-foil-card-vairant-in-reality-fracture.jpg",
+    "published_at": "2026-10-14T10:43:52.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "dbbe48c34c09",
+    "slug": "rockstar-speeds-up-next-project-after-gta-6-development",
+    "headline": "Rockstar Speeds Up Next Project After GTA 6 Development",
+    "summary": "Rockstar's head of development reveals the studio has expanded its team and developed new tech to speed up the development of its next game, after a 8-year wait for GTA 6",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/rockstar-says-you-wont-have-to-wait-another-8-years-after-gta-6-for-its-next-game/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/gta6.jpg?w=300",
+    "published_at": "2026-10-14T10:43:11.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto",
+    "game_label": "Grand Theft Auto"
+  },
+  {
+    "id": "67324915fe6a",
+    "slug": "destiny-1-project-which-aims-to-port-the-game-to-pc-seemingly-gets-a-n",
+    "headline": "Destiny 1 project, which aims to port the game to PC, seemingly gets a nod from Bungie boss",
+    "summary": "The original Destiny never made it to PC, but the shooter-MMO may not stay locked to PS4 and Xbox One for much longer. Some crafty modders have been working to get the game running on PC, and their efforts recently caught the eye of Bungie, which surprisingly didn't result in a take-down - not yet, at least.\n Read more",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/destiny-1-project-golden-age-pc-revival-bungie-nod"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/destiny-1-trials-screen-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-14T10:36:37.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d51960fd1fda",
+    "slug": "god-of-war-laufeys-150-collector-box-revealed",
+    "headline": "God of War Laufey's $150 Collector Box Revealed",
+    "summary": "A collector's box for God of War: Laufey's Wild Hunt has been announced, featuring a statue, mini artbook, and deck of cards, but no game copy.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/god-of-war-laufeys-150-collector-box-has-been-revealed-doesnt-include-a-copy-of-the-game/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/d51960fd1fda/800/600",
+    "published_at": "2026-10-14T10:28:21.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "god-of-war-laufeys-wild-hunt",
+    "game_label": "God of War: Laufey's Wild Hunt"
+  },
+  {
+    "id": "1fe84477f792",
+    "slug": "rockstar-promises-next-game-won",
+    "headline": "Rockstar Promises Next Game Won",
+    "summary": "Rockstar has assured that its next game won't take as long to launch as its predecessors, including GTA 6, which took 8 years to develop.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/gta-6-rockstar-next-game-wont-take-as-long/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/07/raul_bautista_03.jpg",
+    "published_at": "2026-10-14T10:23:28.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f8d502adeca2",
+    "slug": "call-of-duty-modern-warfare-4-preload-and-global-release-times-confirm",
+    "headline": "Call of Duty: Modern Warfare 4 Preload and Global Release Times Confirmed",
+    "summary": "Activision has confirmed release times and preload details for Call of Duty: Modern Warfare 4, with the game launching in various parts over the coming weeks.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/cod-modern-warfare-4-pre-load-release-times"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/18/ss-6b8f4040a1e923f036e04d9eb21ecb0f866be57e-1920x1080-1789741799815.jpg",
+    "published_at": "2026-10-14T10:23:20.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "call-of-duty-modern-warfare-4",
+    "game_label": "Call of Duty: Modern Warfare 4"
+  },
+  {
+    "id": "a56c0d12d20c",
+    "slug": "total-war-shogun-2-remaster-rated-overwhelmingly-negative-on-steam",
+    "headline": "Total War: Shogun 2 Remaster Rated \"Overwhelmingly Negative\" On Steam",
+    "summary": "Total War: Shogun 2 was just delisted to pave the way for a $40 \"cash grab\" filled with AI art, returning bugs, and brand-new bugs.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/total-war-shogun-2-complete-edition-steam-overwhelmingly-negative/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/total-war-shogun-2-complete-edition-cover-art-of-two-armies-readying-for-war-with-their-leaders-face-to-face-in-the-sky.jpg",
+    "published_at": "2026-10-14T10:15:16.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c69c0bced24d",
+    "slug": "gta-3s-cover-art-had-to-be-changed-at-the-last-minute-due-to-911",
+    "headline": "GTA 3's Cover Art Had To Be Changed At The Last Minute Due To 9/11",
+    "summary": "The original cover art for Grand Theft Auto III needed to be altered after the 9/11 attacks due to its depiction of the Twin Towers, which were still standing at the time",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/gta-3-cover-changed-after-9-11/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/new-project-2026-10-14t102538-697-1.jpg",
+    "published_at": "2026-10-14T10:00:39.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-iii",
+    "game_label": "Grand Theft Auto III"
+  },
+  {
+    "id": "44c1c1c9090d",
+    "slug": "my-idea-of-a-netflix-for-games-doesnt-work-garrys-mod-creator-says-str",
+    "headline": "\"My idea of a Netflix for games doesn’t work\": Garry's Mod creator says struggling spiritual successor S&box will go free to play as part of major rethink",
+    "summary": "Earlier this year, Garry's Mod and Rust developers Facepunch Studios released S&box, a mix of open source game development platform/spiritual successor to their Valve prop-filled physics sandbox. It's not fared well, only earning mixed reviews and being stuffed with low quality AI generated games early doors. Now, Facepunch founder Garry Newman has announced plans for a major overhaul that'll see",
+    "category": "reviews",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/my-idea-of-a-netflix-for-games-doesnt-work-garrys-mod-creator-says-struggling-spiritual-successor-sbox-will-go-free-to-play-as-part-of-major-rethink"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/s%26box-going-free-to-play-garrys-mod-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-14T10:00:00.000Z",
+    "hype_signal": 95,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6ca185dd82d8",
+    "slug": "10-xbox-games-are-available-today-including-a-retro-fps-sequel-worthy",
+    "headline": "10 Xbox Games Are Available Today, Including A Retro FPS Sequel Worthy Of The Imperium (October 14)",
+    "summary": "HAIL TO THE EMPEROR! It's another glorious day for gaming because we have your daily fix of new titles launching on Xbox. It's all quiet on the Xbox Game Pass front, however, but there's still plenty of interesting games to highlight. Warhammer 40,000: Boltgun 2, for example, is likely to be an absolute banger if it's anything like the original.…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/10-xbox-games-are-available-today-including-a-retro-fps-sequel-worthy-of-the-imperium-october-14"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/323a46de39d9c/large.jpg",
+    "published_at": "2026-10-14T10:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "92840e553f80",
+    "slug": "world-of-warcraft-executive-producer-shares-insights-on-handling-beta",
+    "headline": "World of Warcraft Executive Producer Shares Insights on Handling Beta Feedback Ahead of Forever's Release",
+    "summary": "Holly Longdale discusses the team's approach to addressing player feedback in World of Warcraft: Forever's beta, ahead of the game's impending release at PAX Australia.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/world-of-warcraft-forever-feedback-blizzard-listening"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/world-of-warcraft-forever-camp.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-14T09:59:22.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "world-of-warcraft-forever",
+    "game_label": "World of Warcraft: Forever"
+  },
+  {
+    "id": "725a6b87d77e",
+    "slug": "esa-flags-retro-console-maker-anbernic-for-notorious-market-list",
+    "headline": "ESA Flags Retro Console Maker Anbernic for Notorious Market List",
+    "summary": "The Entertainment Software Association recommends retro console maker Anbernic for inclusion on the US government's Notorious Market List due to its alleged involvement in pirated game sales.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/esa-flags-retro-console-maker-anbernic-for-inclusion-on-us-governments-notorious-market-list"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/anbernic-(1).webp?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-14T09:59:16.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b2c57f300216",
+    "slug": "zavvi-enters-administration-for-second-time",
+    "headline": "Zavvi Enters Administration for Second Time",
+    "summary": "Game retailer Zavvi has filed for administration, citing inability to fulfill outstanding orders, and is now ceasing trading, raising concerns about its future",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/zavvi-administration-2026-orders"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/zavvi.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-14T09:54:26.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ecc3d6122766",
+    "slug": "the-witcher-3-remastered-switch-2-patch-is-officially-on-the-way",
+    "headline": "The Witcher 3 Remastered Switch 2 Patch Is Officially 'On the Way'",
+    "summary": "CD Projekt Red has confirmed a patch for The Witcher 3 Remastered on Switch 2, bringing the game to parity with other platforms.",
+    "category": "patches",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/the-witcher-3-remastered-nintendo-switch-2-patch-update/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/witcher-3-endings-guide-geralt-1.jpg",
+    "published_at": "2026-10-14T09:48:30.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
+    "id": "e4a2429ddd0c",
+    "slug": "tricking-dlss-into-running-on-amd-gpus-in-cyberpunk-2077-and-alan-wake",
+    "headline": "Tricking DLSS into Running on AMD GPUs in Cyberpunk 2077 and Alan Wake 2",
+    "summary": "A user discovered a script that enables DLSS on AMD GPUs for Cyberpunk 2077 and Alan Wake 2, making it a worthwhile try.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/graphics-cards/i-just-tricked-dlss-into-running-on-my-amd-gpu-in-cyberpunk-2077-and-alan-wake-2-and-all-it-took-was-running-a-single-script/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/RrKWBQLDZb3WHTmZP4Ha9a-1920-80.jpg",
+    "published_at": "2026-10-14T09:46:39.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "cyberpunk-2077-and-alan-wake-2",
+    "game_label": "Cyberpunk 2077 and Alan Wake 2"
+  },
+  {
+    "id": "1f35784af6bb",
+    "slug": "ubisoft-cuts-70-staff-from-skull-and-bones-dev-shuts-down-trials-maker",
+    "headline": "Ubisoft Cuts 70 Staff From Skull and Bones Dev, Shuts Down Trials Maker RedLynx",
+    "summary": "Ubisoft is laying off 70 employees from the Skull and Bones development team and shutting down Trials studio RedLynx",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/ubisoft-cuts-70-staff-from-skull-and-bones-dev-shuts-down-trials-studio-redlynx"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/14/skull-1791970800085.jpg",
+    "published_at": "2026-10-14T09:40:47.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "70328c3d0e9e",
+    "slug": "sonic-racing-crossworlds-gets-new-avatar-dlc-pack",
+    "headline": "Sonic Racing: CrossWorlds Gets New Avatar DLC Pack",
+    "summary": "SEGA's Sonic Racing: CrossWorlds has released its latest DLC pack, which brings the world of Nickelodeon's Avatar to the game. The new content has been showcased in a launch trailer.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/sonic-racing-crossworldss-final-year-one-dlc-pack-is-live-now-on-ps5"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/5ffd41cfda8e0/large.jpg",
+    "published_at": "2026-10-14T09:30:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "sonic-racing-crossworlds",
+    "game_label": "Sonic Racing: CrossWorlds"
+  },
+  {
     "id": "1e345bd34dc8",
     "slug": "if-youve-sworn-off-genai-crazy-taxi-and-dislike-all-the-twerking-in-gt",
     "headline": "If you've sworn off genAI Crazy Taxi and dislike all the twerking in GTA 6, consider Shifu: Traffic Masters, a jolly open world driving game set in 1990s China",
@@ -197,6 +1115,32 @@
     "image_url": "https://picsum.photos/seed/5ad5506f49e5/800/600",
     "published_at": "2026-10-14T07:42:13.000Z",
     "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5706346f2de5",
+    "slug": "playgama-launches-ai-powered-game-development-tools",
+    "headline": "Playgama Launches AI-Powered Game Development Tools",
+    "summary": "Playgama has introduced a suite of AI-driven tools that enable autonomous game development, analysis, and publishing on the Playgama Sandbox platform.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/playgama-launches-a-suite-of-tools-that-lets-ai-agents-analyze-refine-and-update-games-on-their-own/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/5706346f2de5/800/600",
+    "published_at": "2026-10-14T07:00:00.000Z",
+    "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -3738,884 +4682,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "8c6faebe9a14",
-    "slug": "poll-so-what-do-you-think-of-gears-of-war-e-day",
-    "headline": "Poll: So, What Do You Think Of Gears Of War: E-Day?",
-    "summary": "Let's get your votes for Campaign, Versus, and Horde Siege. It's been a little while now since Gears of War: E-Day first dropped in early access on October 1st, and it's been exactly a week since it arrived for everyone on October 6th. So, it's time to get the Pure Xbox verdict on what you think! We had great things…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/features/poll-so-what-do-you-think-of-gears-of-war-e-day"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/7a832f7ec2549/large.jpg",
-    "published_at": "2026-10-13T13:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d90a1d18be1d",
-    "slug": "god-of-wars-laufey-collectors-edition-leaves-one-important-thing-out-t",
-    "headline": "God Of War’s Laufey Collector’s Edition Leaves One Important Thing Out: The Game",
-    "summary": "The God of War Laufey Collector's Edition has been revealed, but unlike the standard and digital deluxe editions that went up for preorder last month, this is purely a box of merch. Spotted on the UK PlayStation Direct store, the main attraction of this collector's edition is a light-up statue of the game's protagonist, Faye, locked in combat while Phranque…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/god-of-wars-laufey-collectors-edition-leaves-one-important-thing-out-the-game/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Laufey-CE.jpg?w=300",
-    "published_at": "2026-10-13T12:47:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "376b903d0239",
-    "slug": "he-man-and-the-masters-of-the-universe-dragon-pearl-of-destructions-lu",
-    "headline": " He-Man and the Masters of the Universe Dragon Pearl of Destruction's lunchbox is a perfect '80s throwback ",
-    "summary": "Limited Run Games have launched collector's edition pre-orders for He-Man and the Masters of the Universe Dragon Pearl of Destruction, which includes the most on-brand '80s throwback.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/he-man-and-the-masters-of-the-universe-dragon-pearl-of-destructions-lunchbox-is-as-80s-as-a-collectors-edition-extra-can-get/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/vaocvqBfnLAVa7mGpXLpV8-1920-80.jpg",
-    "published_at": "2026-10-13T12:35:09.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ffd88b97fec1",
-    "slug": "resident-evil-7-horror-protagonists-better-than-leon",
-    "headline": "Resident Evil 7 Horror Protagonists Better Than Leon",
-    "summary": "Game Rant compares the various protagonists in Resident Evil 7, arguing that some are more compelling than Leon S. Kennedy.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/resident-evil-games-horror-characters-better-than-leon/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/horror-protagonists-better-than-resident-evil-s-leon-jill-valentine-and-alan-wake.jpg",
-    "published_at": "2026-10-13T12:32:13.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "resident-evil-7",
-    "game_label": "Resident Evil 7"
-  },
-  {
-    "id": "30bb2b03df82",
-    "slug": "dragons-dogma-2-dark-arisen-complete-walkthrough-hub",
-    "headline": "Dragon’s Dogma 2: Dark Arisen complete walkthrough hub",
-    "summary": "All of our Dragon's Dogma 2 guides, updated for the Dark Arisen expansion DLC",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/dragons-dogma-2-guides-hub/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/30bb2b03df82/800/600",
-    "published_at": "2026-10-13T12:30:08.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d44fb316eb10",
-    "slug": "skyrim-gets-surprise-dlc-drop-on-ps5-its-biggest-in-years",
-    "headline": "Skyrim Gets Surprise DLC Drop on PS5, Its Biggest in Years",
-    "summary": "Three expansions out now.\nSkyrim just got its biggest DLC drop in a long time on PS5.\nAs you may know, Bethesda periodically partners with fans to bring their mods to the game in an official capacity, dubbling them 'Creations'. They're essentially paid DLC packs.\nRead the full article on pushsquare.com",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/skyrim-gets-surprise-dlc-drop-on-ps5-its-biggest-in-years"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/2b421e879d10f/large.jpg",
-    "published_at": "2026-10-13T12:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d014f1df3b4d",
-    "slug": "gamedatacore-launches-platform-to-analyze-player-feedback",
-    "headline": "GameDataCore Launches Platform to Analyze Player Feedback",
-    "summary": "A new platform aims to cut through Steam reviews' noise to understand player opinions and help developers improve games",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/years-of-building-pitching-and-raising-for-games-made-the-same-failure-painful-to-watch-why-gamedatacore-wants-to-find-out-how-players-feel"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/GameDataCore_logo-gradient-network-mark_7680x4320.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-13T12:30:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "bc49ee814fc0",
-    "slug": "headcount-taps-discords-gaming-communities-to-mobilize-young-voters-ex",
-    "headline": "HeadCount taps Discord’s gaming communities to mobilize young voters | exclusive",
-    "summary": "A nonprofit organization is tapping into Discord communities to drive voter registrations in the lead-up to Election Day 2026. As the U.S. midterm elections...\nThe post HeadCount taps Discord’s gaming communities to mobilize young voters | exclusive appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/headcount-taps-discords-gaming-communities-to-mobilize-young-voters-exclusive/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/bc49ee814fc0/800/600",
-    "published_at": "2026-10-13T12:15:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6a6447bc0503",
-    "slug": "all-animals-available-in-planet-zoo-2",
-    "headline": "All Animals Available In Planet Zoo 2",
-    "summary": "Discover all 130 animals in Planet Zoo 2 with this complete alphabetical animal list covering the game's full Zoopedia roster.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/planet-zoo-2-full-zoopedia-animal-list/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/10/prairie-dogs-standing-in-planet-zoo-2.jpg",
-    "published_at": "2026-10-13T12:13:32.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "424590c594a1",
-    "slug": "former-playstation-boss-kaz-hirai-used-to-ignore-orders-from-sony-boss",
-    "headline": "Former PlayStation boss Kaz Hirai used to ignore orders from Sony bosses, he reveals",
-    "summary": "Kazuo \"Kaz\" Hirai, who was the president of PlayStation from 2007 to 2012, apparently didn't pay much attention to orders he received from Sony's top brass.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/kaz-hirai-playstation-boss-ignored-sony"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/kaz-hirai-red-bg-1.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-13T12:12:16.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9a6bbad29d96",
-    "slug": "casual-game-store-legacy-games-is-shutting-down-purchases-wont-be-re-d",
-    "headline": "Casual game store Legacy Games is shutting down, purchases won’t be re-downloadable despite ‘keep forever’ slogan",
-    "summary": "After February 2027, players will no longer be able to download or install purchased games",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/casual-game-store-legacy-games-is-shutting-down-purchases-wont-be-re-downloadable-despite-keep-forever-slogan/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/9a6bbad29d96/800/600",
-    "published_at": "2026-10-13T12:10:19.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f76f6453ed7d",
-    "slug": "planet-zoo-2-is-the-perfect-game-for-people-who-get-distracted-by-anim",
-    "headline": "Planet Zoo 2 Is The Perfect Game For People Who Get Distracted By Animals",
-    "summary": "Planet Zoo 2's strong focus on animals is its greatest strength, making it an ideal choice for players who find themselves engrossed in its menagerie.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/planet-zoo-2-review-animals-management/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/turtle-swimming-in-planet-zoo-2.jpg",
-    "published_at": "2026-10-13T12:00:38.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "planet-zoo-2",
-    "game_label": "Planet Zoo 2"
-  },
-  {
-    "id": "db176677ac86",
-    "slug": "ben-affleck-on-finding-fame-and-gaming",
-    "headline": "Ben Affleck on Finding Fame and Gaming",
-    "summary": "Ben Affleck shares his journey to fame, crediting 3 years of gaming StarCraft as a crucial factor.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/real-time-strategy/ben-affleck-says-all-i-did-was-stay-home-for-3-years-and-play-starcraft-after-finding-fame-but-nowadays-hes-on-valorant-getting-cussed-out-by-11-year-olds/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/NDhKF9KoXJQhMAfymv88Ah-1920-80.jpg",
-    "published_at": "2026-10-13T12:00:16.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "starcraft",
-    "game_label": "StarCraft"
-  },
-  {
-    "id": "d2c84bc78229",
-    "slug": "new-2026-roguelike-steam-game-is-completely-free-for-a-limited-time",
-    "headline": "New 2026 Roguelike Steam Game is Completely Free for a Limited Time",
-    "summary": "A brand-new 2026 roguelike game is available to claim as a free-to-keep title on Steam for a limited time.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/steam-free-keep-games-hex-reverse/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/steam_ftk_game_hexreverse_3840x2160.jpg",
-    "published_at": "2026-10-13T12:00:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5dd0dd2ef717",
-    "slug": "greek-mythology-inspired-psychological-horror-game-below-lethe-gets-de",
-    "headline": "Greek mythology-inspired psychological horror game Below Lethe gets demo. Judge the dead in a trial before the Underworld",
-    "summary": "Below Lethe is coming soon to Steam, with a a demo out now.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/greek-mythology-inspired-psychological-horror-game-below-lethe-gets-demo-judge-the-dead-in-a-trial-before-the-underworld/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/5dd0dd2ef717/800/600",
-    "published_at": "2026-10-13T12:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "87395a58cb26",
-    "slug": "planet-zoo-2-review",
-    "headline": "Planet Zoo 2 Review",
-    "summary": "Planet Zoo 2 offers vibrant visuals and expanded mechanics, solidifying its place as a thriving sequel.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/planet-zoo-2-review"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/12/planetzoo2-blogroll-1791838982729.jpg",
-    "published_at": "2026-10-13T12:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "planet-zoo-2",
-    "game_label": "Planet Zoo 2"
-  },
-  {
-    "id": "0b5390f0bf3a",
-    "slug": "review-planet-zoo-2-ps5-sublime-wildlife-management-sim-is-frontier-at",
-    "headline": "Review: Planet Zoo 2 (PS5) - Sublime Wildlife Management Sim Is Frontier at Its Finest",
-    "summary": "Something to sink your teeth into. Planet Zoo 2 is the latest creative management sim from Frontier and delivers a huge menagerie of content where your creativity can run wild. A direct sequel to 2024’s Planet Zoo Console Edition and the close cousin of Planet Coaster 2, the game delivers what I have come to expect from Frontier’s creative management…",
-    "category": "reviews",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/reviews/ps5/planet-zoo-2"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/ee5ccb1b763f9/large.jpg",
-    "published_at": "2026-10-13T12:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f4bca3e3ebd5",
-    "slug": "asha-sharma-tells-employees-that-xbox-wont-survive-by-only-relying-on",
-    "headline": "Asha Sharma Tells Employees That Xbox Won't Survive By 'Only' Relying On Past Franchises",
-    "summary": "\"I would also like to see us continue to create enduring new IP\". As we've already covered at Pure Xbox, Asha Sharma was part of a Town Hall meeting at Microsoft HQ last week where she updated employees on the future of the brand, discussing various topics that were shared by Windows Central. That same outlet has shared a few…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/10/asha-sharma-tells-employees-that-xbox-wont-survive-by-only-relying-on-past-franchises"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/381a7350eb9d1/large.jpg",
-    "published_at": "2026-10-13T12:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "aa9fdd5b4313",
-    "slug": "god-of-war-laufey-collectors-edition-doesnt-include-the-game-this-time",
-    "headline": "God Of War Laufey Collector’s Edition Doesn’t Include The Game, This Time On Purpose",
-    "summary": "After Ragnarok's special edition accidentally shipped without download codes, Sony seems to have taken inspiration",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/god-of-war-laufey-collector-box-no-disc-download-code-statue-cards-2000745249"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/laufey-disc-1280x720.jpg",
-    "published_at": "2026-10-13T11:59:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9109b452ee73",
-    "slug": "tekken-8s-yujiro-hanma-revealed",
-    "headline": "Tekken 8's Yujiro Hanma Revealed",
-    "summary": "Tekken 8's Season 3 DLC pass introduces Yujiro Hanma, the main antagonist from Baki fighting manga. He's been confirmed to be part of the game's latest update, which also includes veteran characters Kunimitsu, Bob, and Roger Jr.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/tekken-8-finally-gives-a-first-look-at-upcoming-guest-yujiro-hanma-from-baki-and-he-looks-just-as-grotesque-as-youd-expect"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Yujiro.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-13T11:58:24.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "tekken-8",
-    "game_label": "Tekken 8"
-  },
-  {
-    "id": "392077ba9fc0",
-    "slug": "all-pixel-lineage-codes-october-2026-and-how-to-redeem-them-for-lives",
-    "headline": " All Pixel Lineage codes (October 2026) and how to redeem them for lives and potions ",
-    "summary": "Use these Pixel Lineage codes to aid in your survival in the adorable Roblox pixel RPG",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/rpg/pixel-lineage-codes/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/TVqXma77sVC974rnimAL2Y-1920-80.jpg",
-    "published_at": "2026-10-13T11:50:39.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6bded560bce8",
-    "slug": "brie-larsons-super-mario-galaxy-movie-needed-more-screen-time-says-act",
-    "headline": "Brie Larson's Super Mario Galaxy Movie Needed More Screen Time, Says Actress",
-    "summary": "Mercedes Rose, the voice actress for Rosalina in the upcoming Super Mario Galaxy movie, expressed her disappointment with Brie Larson's portrayal, stating that Larson's character needed more screen time.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/entertainment/animation-movies/rosalinas-game-actor-says-brie-larsons-super-mario-galaxy-movie-version-needed-more-screen-time-and-she-does-wish-it-was-her/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/GEyXGJJv2iJYvuXEsGKBte-1920-80.jpg",
-    "published_at": "2026-10-13T11:43:54.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "super-mario-galaxy",
-    "game_label": "Super Mario Galaxy"
-  },
-  {
-    "id": "5b9254bbf173",
-    "slug": "boruto-the-weakest-hokage-of-all-time-unveiled",
-    "headline": "Boruto: The Weakest Hokage Of All Time Unveiled",
-    "summary": "Boruto, the popular anime series, has officially introduced its weakest Hokage, marking a significant development in the story. The new Hokage's abilities and personality have been revealed, setting the stage for future plot developments.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/boruto-weakest-hokage/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/8th-hokage-farewell-in-boruto.jpg",
-    "published_at": "2026-10-13T11:31:13.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4ae8c2645e2b",
-    "slug": "a-guide-to-six-regulatory-risks-shaping-games-in-2026",
-    "headline": "A guide to six regulatory risks shaping games in 2026",
-    "summary": "Dr Simon Hembt is counsel at Bird & Bird in Frankfurt, Germany. He advises games companies on IP, AI/tech, and media regulation. He co-edited Bird & Bird's Game Plan 2026 report.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/a-guide-to-six-regulatory-risks-shaping-games-in-2026"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/jim-petkiewicz-NJIzBRrgBus-unsplash.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-13T11:25:38.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2ffadcabd007",
-    "slug": "sony-announces-cheaper-midnight-black-ps5-launching-alongside-gta-6",
-    "headline": "Sony Announces Cheaper Midnight Black PS5 Launching Alongside GTA 6",
-    "summary": "Sony has announced a Japan-exclusive Midnight Black PS5 console, set to release on the same day as Grand Theft Auto 6.",
-    "category": "deals",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/sony-announces-cheaper-midnight-black-ps5-to-launch-alongside-gta-6-its-just-a-shame-we-wont-be-able-to-buy-it/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/2GkxWHnuW7bFZhxRjrPgr3-1920-80.jpg",
-    "published_at": "2026-10-13T11:25:19.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "midnight-black-ps5",
-    "game_label": "Midnight Black PS5"
-  },
-  {
-    "id": "1397f3f54105",
-    "slug": "ubisoft-allegedly-removed-assassins-creed-black-flag-resynced-epilogue",
-    "headline": "Ubisoft Allegedly Removed Assassin's Creed Black Flag Resynced Epilogue Scene",
-    "summary": "A YouTube video featuring an unused epilogue scene from Assassin's Creed Black Flag Resynced has sparked speculation about potential future adventures in the Assassin's Creed universe.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/cut-assassins-creed-black-flag-resynced-epilogue-scene-that-could-hint-at-fresh-18th-century-stabby-hijinks-allegedly-taken-down-by-ubisoft-following-datamine"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/assassins-creed-black-flag-resynced-update-disappearing-ships-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-13T11:20:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "assassins-creed-black-flag-resynced",
-    "game_label": "Assassin's Creed Black Flag Resynced"
-  },
-  {
-    "id": "1544390c21fe",
-    "slug": "sony-reveals-slick-midnight-black-ps5-model-but-its-a-japan-exclusive",
-    "headline": "Sony Reveals Slick Midnight Black PS5 Model, But It's a Japan Exclusive for Now",
-    "summary": "There's a Midnight Black disc drive, too.\nAnnounced overnight, Japan is getting a new PS5 model.\nBut to be clear, it's just the colour that's different here. The console's outer casing, and the DualSense controller that's bundled with the system, are of the 'Midnight Black' variety.\nRead the full article on pushsquare.com",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/sony-reveals-slick-midnight-black-ps5-model-but-its-a-japan-exclusive-for-now"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/a2775b9d56283/large.jpg",
-    "published_at": "2026-10-13T11:15:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a9dfbf2edb2f",
-    "slug": "behold-the-3000-keyboard-that-is-also-actually-a-powerful-ai-pc",
-    "headline": "Behold, the $3,000 keyboard that is also actually a powerful AI PC",
-    "summary": "PC Gamer reviews a high-end keyboard that doubles as a powerful AI-powered computer",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/behold-the-usd3-000-keyboard-that-is-also-actually-a-powerful-ai-pc-i-would-hate-to-spill-my-coffee-on/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/eXGy5QU2CvtncrdkHNPP9A-1920-80.jpg",
-    "published_at": "2026-10-13T11:12:30.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c93f2e59ea81",
-    "slug": "physical-copies-of-gta-6-rumored-to-include-a-map-of-leonida",
-    "headline": "Physical Copies Of GTA 6 Rumored To Include A Map Of Leonida",
-    "summary": "GameStop has claimed there will be a physical copy of the GTA 6 map inside the game's box, even though there won't be a disc.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/gta-6-physical-include-leonida-map-according-gamestop/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/new-project-2026-10-13t115551-543.jpg",
-    "published_at": "2026-10-13T11:09:07.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "015552ef7e35",
-    "slug": "castlevania-belmonts-curse-reviews-hail-a-triumphant-return",
-    "headline": "Castlevania: Belmont's Curse Reviews Hail a Triumphant Return",
-    "summary": "Konami's classic series returns in a Switch, PS5, Xbox, and PC game from Dead Cells developer Evil Empire",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/castlevania-belmonts-curse-review-roundup/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/castlevania-belmonts-curse-header-2.jpg",
-    "published_at": "2026-10-13T11:01:15.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cfceebc36e8d",
-    "slug": "charlie-cox-was-prepared-for-daredevil-born-again-to-be-canceled-after",
-    "headline": " Charlie Cox was prepared for Daredevil: Born Again to be canceled after season 3 ",
-    "summary": "Exclusive: The Daredevil actor speaks to GamesRadar+ post-Born Again cancelation",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/charlie-cox-was-prepared-for-daredevil-born-again-to-be-canceled-after-season-3-we-had-a-good-sense/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/JRqm4WE2EHNwviXBNwDkNT-1920-80.jpg",
-    "published_at": "2026-10-13T11:00:16.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "db680349038c",
-    "slug": "pokemon-director-shigeru-ohmori-talks-about-game-freaks-magical-girl-w",
-    "headline": "Pokémon director Shigeru Ohmori talks about Game Freak’s magical girl weather game Ame Nochi Hare Onna and how the project came to be ",
-    "summary": "After over 20 years of working on Pokemon, Ohmori wanted to explore \"forms of expression that can only be achieved in a completely original game.\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/pokemon-director-shigeru-ohmori-talks-about-game-freaks-magical-girl-weather-game-ame-nochi-hare-onna-and-how-the-project-came-to-be/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/db680349038c/800/600",
-    "published_at": "2026-10-13T11:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e79af4e56fb3",
-    "slug": "review-ratatan-switch-2-patapon-style-rhythm-action-strategy-returns-w",
-    "headline": "Review: Ratatan (Switch 2) - Patapon-Style Rhythm-Action Strategy Returns, With A Roguelite Twist",
-    "summary": "Ratamatazz. Released at the height of the rhythm-action boom and following the march of peripheral-based music games, Patapon was a visually unique treat. The result of a collaboration between game designer Hiroyuki Kotani and French artist Rolito Giuli, this curio had you control a tribe of tiny eyeball creatures by tapping out rhythms on face buttons. The original game and…",
-    "category": "reviews",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/ratatan"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/8f0c98f4c5bf3/large.jpg",
-    "published_at": "2026-10-13T11:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ff50dbf8182d",
-    "slug": "10-games-you-need-to-play-before-gta-6-takes-over-the-world",
-    "headline": "10 games you need to play before GTA 6 takes over the world",
-    "summary": "SPONSORED: The picks of the best games you need to play before Grand Theft Auto 6's release",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/10-games-you-need-to-play-before-gta-6-takes-over-the-world/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/ff50dbf8182d/800/600",
-    "published_at": "2026-10-13T10:56:45.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8baf1abb026b",
-    "slug": "us-government-told-to-flag-retro-handhelds-loaded-with-pirated-games-a",
-    "headline": "US government told to flag retro handhelds loaded with pirated games as a ‘notorious market’",
-    "summary": "The ESA says thousand-game handhelds are the industry's version of 'superfakes'",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/us-government-told-to-flag-retro-handhelds-loaded-with-pirated-games-as-a-notorious-market/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/8baf1abb026b/800/600",
-    "published_at": "2026-10-13T10:50:57.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "29e144604033",
-    "slug": "xbox-ceo-urges-studios-to-invest-in-new-ip",
-    "headline": "Xbox CEO Urges Studios to Invest in New IP",
-    "summary": "Xbox CEO Asha Sharma emphasizes the importance of investing in new intellectual properties to sustain the Xbox division, while still leveraging its biggest franchises.",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/xbox-ceo-we-must-rely-on-the-past-but-we-cannot-rely-on-the-past/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/halo-campaign-evolved-is-a-pretty-remake-coming-to-ps5-but-n_2au1.jpg?w=300",
-    "published_at": "2026-10-13T10:48:37.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2e01777619cd",
-    "slug": "marvel-tokon-fighting-souls-to-add-jane-fosters-thor-venom-and-jubilee",
-    "headline": "Marvel Tōkon: Fighting Souls to add Jane Foster's Thor, Venom and Jubilee - following Phoenix Cyclops - in its Year One DLC pass",
-    "summary": "Following the announcement of Phoenix Cyclops as the game's first DLC character back in July (who'll finally be joining the roster on November 2nd), Arc System Works have ripped the plaster off and revealed all the other new fighters set for Marvel Tōkon: Fighting Souls' Year One phase. Courtesy, by the by, of a beautiful illustration by Peach Momoko, the…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/marvel-tokon-fighting-souls-to-add-jane-fosters-thor-venom-and-jubilee-following-phoenix-cyclops-in-its-year-one-dlc-pass"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Marvel-Tokon-DLC.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-13T10:47:35.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d549c181bfc4",
-    "slug": "rimworld-devs-announce-new-game-after-13-years",
-    "headline": "RimWorld devs announce new game after 13 years",
-    "summary": "RimWorld developers have been working on a new project in-house, 13 years after the release of their popular space construction sim. Details on the new game are scarce, but it suggests a significant shift in the studio's focus.",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/simulation/rimworld-devs-are-working-on-something-new-after-13-years-of-the-space-construction-sim-but-it-may-be-a-little-while-before-we-hear-more/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg",
-    "published_at": "2026-10-13T10:43:13.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "rimworld",
-    "game_label": "RimWorld"
-  },
-  {
-    "id": "f8b5aaff44d8",
-    "slug": "castlevania-belmonts-curse",
-    "headline": "Castlevania: Belmont's Curse",
-    "summary": "Castlevania: Belmont's Curse has a Metacritic score lower than five of the series' most beloved entries, ranking behind only a few titles in the series",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/action/castlevania-belmonts-curse-metacritic-score-is-only-behind-the-beloved-gba-trilogy-dawn-of-sorrow-and-symphony-of-the-night-as-the-series-best/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/NKRvpgQkLSyKqEKmWCCSMQ-1920-80.png",
-    "published_at": "2026-10-13T10:37:42.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "castlevania-belmonts-curse",
-    "game_label": "Castlevania: Belmont's Curse"
   }
 ]
