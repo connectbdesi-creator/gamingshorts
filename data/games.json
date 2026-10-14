@@ -22231,5 +22231,65 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-14T17:07:39.712Z"
+  },
+  {
+    "slug": "arizona-sunshine",
+    "name": "Arizona Sunshine",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/a1b/a1b735e48a08900f9e80a0ffa9f41e74.jpg",
+    "released": "2016-12-06",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 4"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/8ae/8aed514940b012ecd14273fd4f6aed93.jpg",
+      "https://media.rawg.io/media/screenshots/c8f/c8f8304e51a847f8138d88d033715056.jpg",
+      "https://media.rawg.io/media/screenshots/a4c/a4c4aa052baa811736122d163183583f.jpg",
+      "https://media.rawg.io/media/screenshots/f63/f63f995f2e48be1454cd65d949565ae8.jpg",
+      "https://media.rawg.io/media/screenshots/ff9/ff9bf7de3a54297c582e68c1a4988460.jpg",
+      "https://media.rawg.io/media/screenshots/988/9882fec1f9033fa846dc1e2a2a53b6b9.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-14T17:37:12.057Z"
+  },
+  {
+    "slug": "mass-effect-legendary-edition",
+    "name": "Mass Effect: Legendary Edition",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/64e/64e2a77f37ddc48d102127234af99886.jpg",
+    "released": "2021-05-14",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/dfc/dfc2297daea764355a7fa2771d173703.jpg",
+      "https://media.rawg.io/media/screenshots/e4d/e4dae9c803e11cde07423bec1a324c0e.jpg",
+      "https://media.rawg.io/media/screenshots/09b/09b34e452541b996ee6bba894710407d.jpg",
+      "https://media.rawg.io/media/screenshots/e84/e84539cca8f01e475ca8537440e6bfa7.jpg",
+      "https://media.rawg.io/media/screenshots/8d7/8d7c186df52bc6395164d5d174338886.jpg",
+      "https://media.rawg.io/media/screenshots/dad/dade4bdbac873f7e6afa4b749810a957.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-14T17:37:12.813Z"
   }
 ]
