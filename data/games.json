@@ -22038,5 +22038,36 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-14T11:40:22.838Z"
+  },
+  {
+    "slug": "garrys-mod",
+    "name": "Garry's Mod",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/48c/48cb04ca483be865e3a83119c94e6097.jpg",
+    "released": "2004-12-24",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "Casual",
+      "Simulation",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Linux"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/cbf/cbf0e5c6fa2b8a8c653074b9258884df.jpg",
+      "https://media.rawg.io/media/screenshots/01b/01b5cb2ad3f6fa69b70790094bfd3372.jpg",
+      "https://media.rawg.io/media/screenshots/b31/b3141dbd80cd27a1d7b335e3b5956f89.jpg",
+      "https://media.rawg.io/media/screenshots/40b/40bcfff9760f368d158e92d05f4a0d9b.jpg",
+      "https://media.rawg.io/media/screenshots/6eb/6ebc3896184e94ebe617d2cb224eee2a.jpg",
+      "https://media.rawg.io/media/screenshots/e68/e6800252d7fc63fcb794af70ec28c8fc.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-14T12:07:36.672Z"
   }
 ]
