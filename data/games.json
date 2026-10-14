@@ -22172,5 +22172,64 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-14T16:08:21.941Z"
+  },
+  {
+    "slug": "risk-of-rain-2",
+    "name": "Risk of Rain 2",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/238/238e2b2b24c9838626700c69cacf1e3a.jpg",
+    "released": "2020-08-11",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Arcade",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f0c/f0cf4cd1f6fc78c82e8061965c1e840b.jpg",
+      "https://media.rawg.io/media/screenshots/6af/6af9db1ac195ff69cfc55dcc9e92cb63.jpg",
+      "https://media.rawg.io/media/screenshots/090/090e5a7b048ad4066ca4a7c12e7c929d.jpg",
+      "https://media.rawg.io/media/screenshots/9ef/9ef656fb62f26839889bb2654d92f0ab.jpg",
+      "https://media.rawg.io/media/screenshots/d94/d94cde81fd5efc67d0d86cb1ceaf4698.jpg",
+      "https://media.rawg.io/media/screenshots/611/611d67271a18978d9598575227c9bc35.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-14T17:07:24.036Z"
+  },
+  {
+    "slug": "conan-exiles",
+    "name": "Conan Exiles",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/c9e/c9e47fd222f631084879d395eee07d66.jpg",
+    "released": "2017-01-30",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Massively Multiplayer",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/e42/e42c4bd00704b24849b89e9ffc902c93.jpg",
+      "https://media.rawg.io/media/screenshots/d74/d74eabbd2138bcd9d2d2c3f2378f8fed.jpg",
+      "https://media.rawg.io/media/screenshots/134/1348cf4e63607f847332f7fc0f3317d3.jpg",
+      "https://media.rawg.io/media/screenshots/48e/48e5b58fc300c8186a04c83776adf121.jpg",
+      "https://media.rawg.io/media/screenshots/ac4/ac47d15b174b6290067e5458dd3bb29a.jpg",
+      "https://media.rawg.io/media/screenshots/cc9/cc952b047f8b7d027e8fa830a2a3daa3.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-14T17:07:39.712Z"
   }
 ]
