@@ -22422,5 +22422,90 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-15T12:08:08.192Z"
+  },
+  {
+    "slug": "diaspora",
+    "name": "Diaspora (itch)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/652/6523ccd2f9ef2a071c0cacc849b0e6a5.jpg",
+    "released": "2017-10-07",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d1a/d1a1d67e95389a91c84763c0f506093c.jpg",
+      "https://media.rawg.io/media/screenshots/054/054df4eebc9867f6bc72ca506da7acbf.jpg",
+      "https://media.rawg.io/media/screenshots/c58/c5895a5d31992fda52e09e1380425dca.jpg",
+      "https://media.rawg.io/media/screenshots/3b3/3b30ce1379c47d0bfaae94f27deb8c81.jpg",
+      "https://media.rawg.io/media/screenshots/652/6523ccd2f9ef2a071c0cacc849b0e6a5.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-15T14:11:41.507Z"
+  },
+  {
+    "slug": "the-beekeeper-2",
+    "name": "The Beekeeper (itch)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/e4b/e4b38c7ae3b7c1a06ab9c36eaae41d4a.jpg",
+    "released": "2022-01-20",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/e4b/e4b38c7ae3b7c1a06ab9c36eaae41d4a.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-15T14:11:42.984Z"
+  },
+  {
+    "slug": "el-paso-elsewhere-2",
+    "name": "El Paso, Elsewhere",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/d97/d97c1b98746b054decc322a2e76c42ae.jpg",
+    "released": "2023-09-25",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/8fa/8fadba9115f08a6e8eaa594fa30d94ab.jpg",
+      "https://media.rawg.io/media/screenshots/139/139e37217bb54677c54f951f4298ee54.jpg",
+      "https://media.rawg.io/media/screenshots/c49/c49ad03136a5eb84699a07cd90a1e363.jpg",
+      "https://media.rawg.io/media/screenshots/98d/98de466daf1e67d07abfeee636019b7f.jpg",
+      "https://media.rawg.io/media/screenshots/d7f/d7f8ab753b20fda593b4da9aa22b40c9.jpg",
+      "https://media.rawg.io/media/screenshots/d97/d97c1b98746b054decc322a2e76c42ae.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-15T14:11:43.837Z"
+  },
+  {
+    "slug": "brutal",
+    "name": "brutal",
+    "description": null,
+    "background_image": null,
+    "released": "2016-09-13",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "Web"
+    ],
+    "screenshots": [],
+    "stores": [],
+    "fetched_at": "2026-10-15T14:11:44.319Z"
   }
 ]
