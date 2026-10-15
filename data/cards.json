@@ -1,5 +1,475 @@
 [
   {
+    "id": "54fbcda43137",
+    "slug": "sucker-punch-veterans-on-ghost-of-tsuith-complete-edition",
+    "headline": "Sucker Punch Veterans on Ghost of Tsuith Complete Edition",
+    "summary": "Veteran game developers Joanna Wang and Parker Hamilton discuss their time at Sucker Punch and the making of Ghost of Tsuith Complete Edition, highlighting a different side to the Atsu character and the studio's history.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/features/interviews/sucker-punch-veterans-on-ghost-of-yotei-complete-edition-showing-a-different-side-to-atsu-and-the-history-of-the-studio/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/54fbcda43137/800/600",
+    "published_at": "2026-10-15T12:01:31.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ghost-of-tsuith",
+    "game_label": "Ghost of Tsuith"
+  },
+  {
+    "id": "6c24e5641533",
+    "slug": "steam-next-fest-returns-with-free-game-demos",
+    "headline": "Steam Next Fest Returns with Free Game Demos",
+    "summary": "Steam Next Fest is set to begin on October 19, offering PC players access to free game demos, marking a return to the event after its initial disappearance.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/steam-next-fest-october-edition-fyi/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/steam-neon-alt.jpg",
+    "published_at": "2026-10-15T12:00:15.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0726fea94a13",
+    "slug": "substructure-revolutionizes-automation-games",
+    "headline": "Substructure Revolutionizes Automation Games",
+    "summary": "Substructure offers a familiar automation experience with a twist, changing the game fundamentally by incorporating new mechanics and a unique interface.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/some-people-like-it-some-people-are-annoyed-by-it-substructure-may-look-like-factorio-but-it-changes-the-automation-game-in-some-fundamental-ways"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/substructure_0005_platform-factory-descend.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-15T12:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "substructure",
+    "game_label": "Substructure"
+  },
+  {
+    "id": "071d2734e519",
+    "slug": "microsoft-survey-teases-a-future-where-minecraft-and-fallout-are-xbox",
+    "headline": "Microsoft Survey Teases a Future Where Minecraft and Fallout Are Xbox Exclusives",
+    "summary": "A new Xbox Insider survey teases a possible future in which Minecraft, Fallout, The Elder Scrolls, and more first-party titles are entirely exclusive.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/xbox-survey-minecraft-fallout-elder-scrolls-exclusives/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/fallout-new-vegas-minecraft-steve.jpg",
+    "published_at": "2026-10-15T11:47:48.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6daa53b5da44",
+    "slug": "ps-plus-premium-members-treated-to-more-new-ps5-demos-next-week",
+    "headline": "PS Plus Premium Members Treated to More New PS5 Demos Next Week",
+    "summary": "Try these PS5 games for Halloween. Should you want to get in the mood for Halloween a week ahead of time, Sony is providing PS Plus Premium users with a two new Trials on the service's top tier, all for PS5 horror games. All available from Tuesday, 20th October 2026, members can sample the following: Read the full article on…",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/ps-plus-premium-members-treated-to-more-new-ps5-demos-next-week"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/9f554dffffa65/large.jpg",
+    "published_at": "2026-10-15T11:45:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ae8b971ebfd8",
+    "slug": "big-walk-devs-explain-xbox-absence-hint-at-bds-boycott",
+    "headline": "Big Walk devs explain Xbox absence, hint at BDS boycott",
+    "summary": "Big Walk devs say they won't release on Xbox until Microsoft and Xbox are no longer targets of the BDS boycott, citing a desire for meaningful change in the world.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/big-walk-devs-explain-why-it-isnt-on-xbox-and-likely-never-will-be-not-until-microsoft-and-or-xbox-have-been-removed-as-bds-boycott-targets/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/dxkgnDBuwxUKbVYzjTMgS8-1920-80.jpg",
+    "published_at": "2026-10-15T11:36:38.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0bd31c235e0e",
+    "slug": "a-former-nintendo-employee-is-auctioning-a-wealth-of-classic-items-inc",
+    "headline": "A former Nintendo employee is auctioning a wealth of classic items, including the original Donkey Kong art",
+    "summary": "The art, one of 49 pieces up for auction, has an estimated value of up to $150,000",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/a-former-nintendo-employee-is-auctioning-a-wealth-of-classic-items-including-the-original-donkey-kong-art/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/0bd31c235e0e/800/600",
+    "published_at": "2026-10-15T11:30:48.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "110a9a30b607",
+    "slug": "new-toy-story-release-is-a-wake-up-call-for-licensed-games",
+    "headline": "New Toy Story Release Is a Wake-Up Call for Licensed Games",
+    "summary": "Toy Story's new retro collection brings back some familiar games, but it also raises an important question about gaming history.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/toy-story-retro-roundup-licensed-games/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/untitled-1-8.jpg",
+    "published_at": "2026-10-15T11:30:13.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "802413b49b3c",
+    "slug": "cyberpunk-2-is-evolving-beyond-its-directors-original-vision",
+    "headline": "Cyberpunk 2 Is Evolving Beyond Its Director’s Original Vision",
+    "summary": "As development on Cyberpunk 2 continues, game director Gabe Amatangelo has shared more thoughts on the Cyberpunk 2077 sequel and how his plans have evolved as CD Projekt Red has started to assign more people to its creation. In a new blog post, Amatangelo spoke about what the theme of cyberpunk means to him, remarking that he wanted to explore…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/cyberpunk-2-is-evolving-beyond-its-directors-original-vision/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/3941087-cyberpunk.jpg?w=300",
+    "published_at": "2026-10-15T11:24:08.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8ccd46707d27",
+    "slug": "marvels-wolverine-star-calls-out-insomniac-for-using-her-likeness-in-c",
+    "headline": "Marvel's Wolverine Star Calls Out Insomniac for Using Her Likeness in Callisto",
+    "summary": "Debra Wilson, a star of Marvel's Wolverine, expresses her confusion over Insomniac Games' use of her likeness in their upcoming Callisto game.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/action/marvels-wolverine-star-debra-wilson-isnt-sure-why-insomniac-used-her-likeness-for-callisto-i-honestly-love-games-where-they-dont-look-like-me-at-all/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/yYPK98qzNFn5rXFiSesFfK-1920-80.jpg",
+    "published_at": "2026-10-15T11:19:11.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "callisto",
+    "game_label": "Callisto"
+  },
+  {
+    "id": "7b5e73b26d64",
+    "slug": "disco-elysium-splinter-studios-red-rooster-is-going-to-be-a-an-incendi",
+    "headline": " Disco Elysium splinter studio's Red Rooster is going to be a 'an incendiary, physics-driven RPG' where you play an inmate, an opiate-fuelled mathematician, and a bus driver with nunchucks ",
+    "summary": "Setting the world on fire.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rpg/disco-elysium-splinter-studios-red-rooster-is-going-to-be-a-an-incendiary-physics-driven-rpg-where-you-play-an-inmate-an-opiate-fuelled-mathematician-and-a-bus-driver-with-nunchucks/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/4CN2jYmifv59nnvgr77kHe-1920-80.png",
+    "published_at": "2026-10-15T11:14:46.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "878bb2e81fd2",
+    "slug": "peaks-physical-ps5-release-will-include-two-copies-of-the-game",
+    "headline": "Peak's Physical PS5 Release Will Include Two Copies Of The Game",
+    "summary": "Peak is getting a physical release on PS5 that will include one copy of the game on a disc, and a second copy you can give to a friend.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/peak-physical-ps5-pre-order-release-buddy-code/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/10/new-project-2026-10-15t114816-859.jpg",
+    "published_at": "2026-10-15T11:10:17.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f6a1f549c3bc",
+    "slug": "house-house-drops-big-walk-from-xbox-release",
+    "headline": "House House Drops Big Walk from Xbox Release",
+    "summary": "Developer House House will not release its co-op game Big Walk on Xbox due to its support for the Palestinian-led BDS campaign.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/house-house-will-not-release-big-walk-on-xbox-in-support-of-pro-palestinian-bds-campaign"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_05.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-15T11:08:03.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "big-walk",
+    "game_label": "Big Walk"
+  },
+  {
+    "id": "7c09e0af28ac",
+    "slug": "valve-is-toying-with-a-steam-frame-oled-and-some-reddit-users-are-alre",
+    "headline": " Valve is toying with a Steam Frame OLED and some Reddit users are already wondering whether to wait an excruciatingly long time for it even though it may never happen ",
+    "summary": "Gluttons for punishment.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-is-toying-with-a-steam-frame-oled-and-some-reddit-users-are-already-wondering-whether-to-wait-an-excruciatingly-long-time-for-it-even-though-it-may-never-happen/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/XU4x9kWqRwDZaJkxsimxHT-1920-80.jpg",
+    "published_at": "2026-10-15T11:06:28.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3a82e69e1c99",
+    "slug": "big-walk-developer-explains-why-it-wont-release-on-xbox",
+    "headline": "Big Walk Developer Explains Why It Won't Release on Xbox",
+    "summary": "House House, the developer of Big Walk, has stated its intention to boycott Xbox and therefore will not release the game on Microsoft's console.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/big-walk-developer-explains-why-the-game-isnt-on-xbox"
+      },
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/big-walk-developer-issues-statement-on-why-the-game-wont-be-coming-to-xbox"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/08/07/bigwalk-blogroll-02-1786134282337.jpg",
+    "published_at": "2026-10-15T11:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "big-walk",
+    "game_label": "Big Walk"
+  },
+  {
+    "id": "5369964614aa",
+    "slug": "big-walk-is-skipping-xbox-as-part-of-the-pro-palestinian-bds-boycott",
+    "headline": "Big Walk Is Skipping Xbox as Part of the Pro-Palestinian BDS Boycott",
+    "summary": "Developer House House said it won't release the game on Xbox until Microsoft is removed as a priority target by BDS",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/big-walk-skipping-xbox-palestinian-bds-boycott/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/big-walk-gesture-gif.gif",
+    "published_at": "2026-10-15T10:51:35.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "08ccad631433",
+    "slug": "vibecoded-epic-games-store-is-a-broken-mess",
+    "headline": "Vibecoded Epic Games Store Is A Broken Mess",
+    "summary": "Game devs are even warning that you should remove your credit card details, just to be safe.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/epic-games-launcher-vibecoded-broken-mess/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/epic-games-store-fortnite-battle-bus-robot-mashup.jpg",
+    "published_at": "2026-10-15T10:51:01.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "99221b4b433e",
+    "slug": "how-in-the-world-are-intel-gpus-still-improving-so-much-the-latest-dri",
+    "headline": " How in the world are Intel GPUs still improving so much? The latest driver update claims up to a 31% fps improvement in Resident Evil Requiem ",
+    "summary": "And more modest but still significant boosts in other games.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/graphics-cards/how-in-the-world-are-intel-gpus-still-improving-so-much-the-latest-driver-update-claims-up-to-a-31-percent-fps-improvement-in-resident-evil-requiem/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/7Q88TQuUDAQwzqLimBWrnV-1920-80.jpg",
+    "published_at": "2026-10-15T10:40:22.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "66e0cfffad9a",
+    "slug": "shrek-2-remaster-likely-being-revealed-next-week",
+    "headline": "Shrek 2 Remaster Likely Being Revealed Next Week",
+    "summary": "One of the biggest surprises from the big Steam achievement leak might be announced in the very near future.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/shrek-2-remaster-xbox-showcase-teased-steam-leak/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/shrek-2-the-video-game-screenshot.jpg",
+    "published_at": "2026-10-15T10:35:01.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "bf06ce912214",
+    "slug": "god-of-war-laufey-collectors-box-sparks-controversy",
+    "headline": "God of War Laufey Collector's Box Sparks Controversy",
+    "summary": "The God of War Laufey collector's box has been criticized for its expensive price and poor-quality statue, leaving fans unhappy with the overall value.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/god-of-war-laufey-collectors-box-statue-low-quality/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/10/new-project-2026-10-15t110426-301.jpg",
+    "published_at": "2026-10-15T10:15:12.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "god-of-war-laufey",
+    "game_label": "God of War Laufey"
+  },
+  {
     "id": "1518df1391be",
     "slug": "gamerant-daily-crossword-mini-october-16-2026",
     "headline": "GameRant Daily Crossword Mini (October 16, 2026)",
@@ -87,6 +557,29 @@
     "comment_count": 0,
     "game": "name-that-game",
     "game_label": "Name That Game"
+  },
+  {
+    "id": "9982c18efe1c",
+    "slug": "15-xbox-games-are-out-today-including-a-polished-port-of-an-iconic-xbo",
+    "headline": "15 Xbox Games Are Out Today, Including A Polished Port Of An Iconic Xbox 360 Masterpiece (October 15)",
+    "summary": "Plus two new Xbox Game Pass day one releases! Howdy partner! We've got some bangers on the cards for you today, so let's crack on with your daily fix of brand new Xbox titles. First up is Disney/Pixar Toy Story: Retro Roundup! + Toy Story 3 Complete Edition - woof, what a mouthful! Yep, we've already reviewed this collection of…",
+    "category": "reviews",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/15-xbox-games-are-out-today-including-a-polished-port-of-an-iconic-xbox-360-masterpiece-october-15"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/0389f0e9d9eea/large.jpg",
+    "published_at": "2026-10-15T10:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "0e46474795eb",
@@ -390,33 +883,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "3a82e69e1c99",
-    "slug": "big-walk-developer-explains-why-it-wont-release-on-xbox",
-    "headline": "Big Walk Developer Explains Why It Won't Release on Xbox",
-    "summary": "House House, the developer of Big Walk, has stated its intention to boycott Xbox and therefore will not release the game on Microsoft's console.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/big-walk-developer-explains-why-the-game-isnt-on-xbox"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/07/bigwalk-blogroll-02-1786134282337.jpg",
-    "published_at": "2026-10-15T08:20:19.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "big-walk",
-    "game_label": "Big Walk"
   },
   {
     "id": "94154d548476",
@@ -4232,481 +4698,5 @@
     "comment_count": 0,
     "game": "grand-theft-auto-6",
     "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "85ae8b1cda27",
-    "slug": "zelda-ocarina-of-time-on-switch-2-gets-a-breathtaking-remake",
-    "headline": "Zelda: Ocarina Of Time On Switch 2 Gets a Breathtaking Remake",
-    "summary": "A Nintendo Life preview hints at a visually stunning remake of The Legend of Zelda: Ocarina of Time on the Nintendo Switch 2, but notes a familiar frustration with the original game's camera system.",
-    "category": "reviews",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/previews/zelda-ocarina-of-time-on-switch-2-brims-with-breathtaking-detail-plus-one-familiar-irritation"
-      },
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/10/video-heres-20plus-minutes-of-zelda-ocarina-of-time-gameplay-on-switch-2"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/zelda-ocarina-of-time-remake-preorder-discount-update"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/a05720fb3b8c2/large.jpg",
-    "published_at": "2026-10-14T14:02:47.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-legend-of-zelda-ocarina-of-time",
-    "game_label": "The Legend of Zelda: Ocarina of Time"
-  },
-  {
-    "id": "ab90fcc08a38",
-    "slug": "epic-games-releases-new-launcher",
-    "headline": "Epic Games Releases New Launcher",
-    "summary": "Epic Games has released a new version of its launcher software, aimed at improving the user experience and paving the way for Fortnite Linux compatibility.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/epic-games-releases-new-launcher-with-a-streamlined-user-experience-and-future-fortnite-linux-compatibility/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/ab90fcc08a38/800/600",
-    "published_at": "2026-10-14T14:01:44.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c67b94ce7329",
-    "slug": "enshrouded-is-a-survival-adventure-perfected-to-a-form-of-art-by-its-p",
-    "headline": "Enshrouded Is A Survival Adventure Perfected To A Form Of Art By Its Players",
-    "summary": "After two years as an Early Access hit, the full launch for PC and PlayStation 5 is just hours away.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/enshrouded-is-a-survival-game-evolved-into-an-art-form-by-its-players-2000728929"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/Enshrouded_1.0-Featured-Image_KEYART_16x9_4k-1280x720.jpg",
-    "published_at": "2026-10-14T14:00:49.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f848e17bcbff",
-    "slug": "players-are-furious-about-total-war-shogun-2s-ai-upscaled-enhanced-edi",
-    "headline": "Players Are Furious About Total War: Shogun 2‘s AI-Upscaled ‘Enhanced’ Edition",
-    "summary": "Steam users say it runs worse, looks worse, adds more bugs, and clearly used genAI to enlarge the artwork",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/total-war-shogun-2-complete-edition-gen-ai-art-sega-creative-assembly-2000745877"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/shogun-slop9.jpg",
-    "published_at": "2026-10-14T14:00:30.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7ecc152cd696",
-    "slug": "this-non-profit-will-be-the-voice-of-the-gamers-former-disco-elysium-d",
-    "headline": "\"This non-profit will be the 'voice of the gamers'\" - Former Disco Elysium devs break new ground with player- and developer-owned studio structure",
-    "summary": "Elsewhere on the site, you can read a big reveal piece that outlines the new game from former Disco Elysium devs under the name of Summer Eternal - an \"incendiary RPG\" fusing the best bits of text-heavy isometric role-playing games with the world-building and player agency of an immersive sim. It's bold, it's ambitious, and it's still in development, and…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/summer-eternal-studio-structure-player-non-profit"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/come-home-to-roost-red-rooster.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-14T14:00:16.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0af28b783987",
-    "slug": "dragon-ball-xenoverse-2-quietly-gets-brand-new-content",
-    "headline": "Dragon Ball Xenoverse 2 Quietly Gets Brand-New Content",
-    "summary": "Dragon Ball Xenoverse 2 quietly receives brand-new content, giving the nearly decade-old game yet another small post-launch addition.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/dragon-ball-xenoverse-2-dbcx-beerus-remake/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/dragon-ball-xenoverse-2-quietly-gets-brand-new-content-gamerant-feature-b.jpg",
-    "published_at": "2026-10-14T14:00:13.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "af4ab823a9e6",
-    "slug": "epics-pivot-to-ai-driven-game-development-is-somehow-much-worse-than-y",
-    "headline": "Epic's Pivot to AI-Driven Game Development Is Somehow Much Worse Than You May Realise",
-    "summary": "Unreal Engine will push AI. Epic boss Tim Sweeney caused a serious stir earlier this week when he publicly declared that the Fortnite developer is transitioning towards \"AI first\" production, using AI-driven tech to (supposedly) streamline all facets of game development. As you can imagine, Sweeney's incredibly pro-AI stance has attracted a lot of criticism, as conversations around the integrity…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/epics-pivot-to-ai-driven-game-development-is-somehow-much-worse-than-you-may-realise"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/8bebe2838b8c8/large.jpg",
-    "published_at": "2026-10-14T14:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d1ce7cc6065e",
-    "slug": "how-to-run-an-indie-game-studio-part-3-dealing-with-issues",
-    "headline": "How to run an indie game studio: Part 3, Dealing with issues",
-    "summary": "So far in this series, we've looked at how to define what your studio is and what it stands for, and how to set goals that give your studio direction on both a long-term and short-term horizon. This week, we're getting into something a little less exciting, but just as important: the problems.\n Read more",
-    "category": "deals",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-3-dealing-with-issues"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/firm-framework.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-14T14:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f8d502adeca2",
-    "slug": "call-of-duty-modern-warfare-4-preload-and-global-release-times-confirm",
-    "headline": "Call of Duty: Modern Warfare 4 Preload and Global Release Times Confirmed",
-    "summary": "Activision has confirmed release times and preload details for Call of Duty: Modern Warfare 4, with the game launching in various parts over the coming weeks.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/cod-modern-warfare-4-pre-load-release-times"
-      },
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/guides/call-of-duty-modern-warfare-4-release-date-release-times-and-everything-you-need-to-know-on-xbox-and-pc"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/18/ss-6b8f4040a1e923f036e04d9eb21ecb0f866be57e-1920x1080-1789741799815.jpg",
-    "published_at": "2026-10-14T14:00:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "call-of-duty-modern-warfare-4",
-    "game_label": "Call of Duty: Modern Warfare 4"
-  },
-  {
-    "id": "4792d3a6666d",
-    "slug": "summer-eternal-announces-incendiary-physics-driven-rpg-red-rooster-for",
-    "headline": "Summer Eternal announces ‘incendiary, physics-driven RPG’ Red Rooster for PS5, Xbox Series, Switch 2, and PC",
-    "summary": "Summer Eternal, one of the multiple studios founded by former Disco Elysium developers, has announced …",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/summer-eternal-announces-incendiary-physics-driven-rpg-red-rooster-for-ps5-xbox-series-switch-2-and-pc"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/4792d3a6666d/800/600",
-    "published_at": "2026-10-14T13:57:21.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8bcd08b24219",
-    "slug": "the-library-loads-30x-faster-the-new-much-speedier-epic-games-launcher",
-    "headline": "'The Library Loads 30x Faster’ – The New, Much Speedier Epic Games Launcher Has Arrived",
-    "summary": "The newly rebuilt Epic Games Launcher is now available to download in preview, and it promises speedier load times than both the old version and Steam.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/the-library-loads-30x-faster-the-new-much-speedier-epic-games-launcher-has-arrived"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/14/egs-launcher-blogroll-1791980526662.jpg",
-    "published_at": "2026-10-14T13:55:04.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "630d7bc40d1d",
-    "slug": "borderlands-4-plummets-to-20-at-amazon-hitting-new-low-price",
-    "headline": "Borderlands 4 Plummets to $20 at Amazon, Hitting New Low Price",
-    "summary": "Borderlands 4 on PS5 and Xbox Series X has dropped to $19.91 at Amazon. That's 60% off its list price, but also marks a brand new low for it at the retailer.",
-    "category": "deals",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/borderlands-4-plummets-to-20-at-amazon-hitting-new-low-price"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/14/borderlands-4-deal-1791979233682.jpg",
-    "published_at": "2026-10-14T13:49:04.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e2b8ccecbe42",
-    "slug": "arc-raiders-ruins-and-reverberations-guide-and-walkthrough",
-    "headline": "Arc Raiders Ruins and Reverberations guide and walkthrough",
-    "summary": "GamesRadar+ provides a guide and walkthrough for Arc Raiders: Ruins and Reverberations, a game from the Arc Raiders series.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/third-person-shooter/arc-raiders-ruins-and-reverberations/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/RpkQEJiMoTdMnHgywAjiTH-1920-80.jpg",
-    "published_at": "2026-10-14T13:44:47.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "arc-raiders-ruins-and-reverberations",
-    "game_label": "Arc Raiders: Ruins and Reverberations"
-  },
-  {
-    "id": "5d172d77ec76",
-    "slug": "casual-game-marketplace-legacy-games-to-close-online-store-this-decemb",
-    "headline": "Casual game marketplace Legacy Games to close online store this December",
-    "summary": "Casual game marketplace Legacy Games has announced it will close its online store on December 31, 2026.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/casual-game-marketplace-legacy-games-to-close-online-store-this-december"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/legacy-games.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-14T13:42:31.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "70daafe4399b",
-    "slug": "5-best-candidates-to-unlock-dragon-balls-full-powered-super-saiyan-for",
-    "headline": "5 Best Candidates To Unlock Dragon Ball's Full Powered Super Saiyan Form",
-    "summary": "The author explores the potential candidates who could unlock Broly's Full Powered Super Saiyan form in the upcoming Dragon Ball game.",
-    "category": "esports",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/dragon-ball-best-candidates-full-powered-super-saiyan/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/broly-form-candidates.jpg",
-    "published_at": "2026-10-14T13:30:13.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "dragon-ball",
-    "game_label": "Dragon Ball"
-  },
-  {
-    "id": "bc7e43705892",
-    "slug": "once-canceled-1994-snes-game-is-coming-to-nintendo-switch",
-    "headline": "Once Canceled 1994 SNES Game Is Coming to Nintendo Switch",
-    "summary": "An SNES game that was cancelled in 1994 is set to make a comeback in 2026, joining the Nintendo Switch lineup with a surprise re-release.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/nintendo-switch-sens-game-release-moto-x/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/moto-x-nintendo-switch-release-october-16-canceled-return-gamerant.jpg",
-    "published_at": "2026-10-14T13:30:13.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "06f783161c57",
-    "slug": "god-of-war-laufeys-collector-box-hints-at-gta-6s-missing-game",
-    "headline": "God of War Laufey's Collector Box Hints at GTA 6's Missing Game",
-    "summary": "God of War and GTA 6 Collector Boxes share a connection that suggests a larger issue with GTA 6's missing game.",
-    "category": "deals",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/god-of-war-laufey-collectors-box-no-game-included-gta-6/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/bazaart_2026-10-13_150359.jpeg",
-    "published_at": "2026-10-14T13:30:13.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "god-of-war",
-    "game_label": "God of War"
-  },
-  {
-    "id": "0131e1a5a5d3",
-    "slug": "topos-bio-is-using-ai-to-create-treatments-for-undruggable-diseases-in",
-    "headline": "Topos Bio is using AI to create treatments for “undruggable” diseases | interview",
-    "summary": "Topos Bio, an AI-powered biotechnology company, has introduced two new AI foundation models that could help predict how new proteins can be used to...\nThe post Topos Bio is using AI to create treatments for “undruggable” diseases | interview appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/topos-bio-is-using-ai-to-create-treatments-for-undruggable-diseases-interview/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/0131e1a5a5d3/800/600",
-    "published_at": "2026-10-14T13:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "266533ce3b8a",
-    "slug": "gran-turismo-30th-anniversary-ps5-controller",
-    "headline": "Gran Turismo 30th Anniversary PS5 Controller",
-    "summary": "PlayStation is releasing a limited-edition PS5 controller to celebrate the 30th anniversary of the Gran Turismo series, available for £75 / $85 on December 10th, 2026.",
-    "category": "deals",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/playstation-celebrates-30-years-of-gran-turismo-with-a-stunning-ps5-controller"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/2693986757839/large.jpg",
-    "published_at": "2026-10-14T13:30:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gran-turismo",
-    "game_label": "Gran Turismo"
-  },
-  {
-    "id": "6ddefd0c54db",
-    "slug": "playstation-store-delisted-3-exclusive-games-for-unknown-reasons",
-    "headline": "PlayStation Store Delisted 3 Exclusive Games for Unknown Reasons",
-    "summary": "3 PlayStation exclusive games were randomly delisted from the digital-only store before being added back.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/playstation-exclusive-games-delisted-knack-2/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/playstation-store-delisting-3840x2160.jpg",
-    "published_at": "2026-10-14T13:24:39.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]

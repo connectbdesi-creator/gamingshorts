@@ -22375,5 +22375,52 @@
     "screenshots": [],
     "stores": [],
     "fetched_at": "2026-10-15T10:07:41.349Z"
+  },
+  {
+    "slug": "substructure",
+    "name": "Substructure",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/1f1/1f1c35efcd3badc63f9496fb3c505f94.jpg",
+    "released": "2019-10-06",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/5e2/5e2c2f4a384075730a77a5323a5d4201.jpg",
+      "https://media.rawg.io/media/screenshots/1f1/1f1c35efcd3badc63f9496fb3c505f94.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-15T12:08:05.592Z"
+  },
+  {
+    "slug": "callisto",
+    "name": "Callisto",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/44a/44af42d039e78ef124e6ccc59c923c64.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Adventure"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/fa9/fa9ff6c28485c49aad7e2879dfdf2007.jpg",
+      "https://media.rawg.io/media/screenshots/47c/47c13d7ac35759a68fa1081f2ed4fb41.jpg",
+      "https://media.rawg.io/media/screenshots/0a5/0a57b36130f6d9a469fac298476fb857.jpg",
+      "https://media.rawg.io/media/screenshots/be4/be4c6cdab6e28f368874612307d796b3.jpg",
+      "https://media.rawg.io/media/screenshots/4e1/4e1533fe5e4bb044a0490d6311d84f31.jpg",
+      "https://media.rawg.io/media/screenshots/060/060a381434a9d93cfc59837c82a0c6d1.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-15T12:08:08.192Z"
   }
 ]
