@@ -1,5 +1,76 @@
 [
   {
+    "id": "cd7b052c3c06",
+    "slug": "grand-theft-auto-6-is-officially-eligible-for-the-2026-game-awards",
+    "headline": "‘Grand Theft Auto 6’ Is Officially Eligible for the 2026 Game Awards",
+    "summary": "The Game Awards' website confirms that 'Grand Theft Auto 6' will qualify for awards consideration.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/grand-theft-auto-6-the-game-awards/"
+      },
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/gta-6-avoids-a-very-awkward-situation-by-officially-being-eligible-for-the-2026-game-awards-2000746320"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-game-awards-2026-eligibility/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/lucia-pool-grand-theft-auto-6.jpg",
+    "published_at": "2026-10-15T18:30:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b5c86915b2d9",
+    "slug": "most-unplayable-single-player-fps-masterpieces-ranked",
+    "headline": "Most Unplayable Single-Player FPS Masterpieces, Ranked",
+    "summary": "FPS games don't always stand the test of time, and that extends to masterpieces that are truly among the genre's best releases.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/most-unplayable-fps-games-masterpieces-ranked/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/fps-games-that-are-unplayable-masterpieces-killzone-2.jpg",
+    "published_at": "2026-10-15T18:16:15.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7a3bb2ef0d4d",
+    "slug": "control-resonant-sells-1-million-copies-in-3-weeks-to-become-remedys-f",
+    "headline": " Control Resonant sells 1 million copies in 3 weeks to become Remedy's fastest-selling game ever ",
+    "summary": "It's not a huge number, but it's big news for Remedy.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/action/control-resonant-sells-1-million-copies-in-3-weeks-to-become-remedys-fastest-selling-game-ever/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/WcjUWGKChMoMQDoCxmjz3P-1920-80.jpg",
+    "published_at": "2026-10-15T18:15:22.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "8190d68f7719",
     "slug": "the-9-biggest-rpg-jerk-companions-ranked-from-worst-to-even-worse",
     "headline": "The 9 Biggest RPG Jerk Companions, Ranked From Worst to Even Worse",
@@ -43,6 +114,52 @@
     "comment_count": 0,
     "game": "metroid-ravenous",
     "game_label": "Metroid Ravenous"
+  },
+  {
+    "id": "7e8986aea4a9",
+    "slug": "control-resonant-beats-ps5-release-schedule-with-1-million-sales",
+    "headline": "Control Resonant Beats PS5 Release Schedule with 1 Million Sales",
+    "summary": "Control Resonant, a Remedy-developed action game, sold 1 million copies in its first month, surpassing Alan Wake 2's time to reach this milestone despite a busy release schedule.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/control-resonant-cuts-through-the-crazy-ps5-release-schedule-with-1-million-sales"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/ffdd703df307e/large.jpg",
+    "published_at": "2026-10-15T18:00:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "control-resonant",
+    "game_label": "Control Resonant"
+  },
+  {
+    "id": "b2ec62c60532",
+    "slug": "roundup-all-the-xbox-announcements-from-ign-fan-fest-fall-edition-2026",
+    "headline": "Roundup: All The Xbox Announcements From IGN Fan Fest: Fall Edition 2026",
+    "summary": "There's a new demo out now! IGN Fan Fest: Fall Edition 2026 has wrapped up, bringing a whole bunch of announcements, reveals, and trailers from across the entertainment industry. We're talking films and TV, but most importantly, games! We've had a gander at all the reveals from this year's show and plucked out all the relevant Xbox bits and bobs…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/roundup-all-the-xbox-announcements-from-ign-fan-fest-fall-edition-2026"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/61912ed3ac315/large.jpg",
+    "published_at": "2026-10-15T18:00:00.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "be3171c18279",
@@ -1204,31 +1321,6 @@
     "comment_count": 0,
     "game": "call-of-duty",
     "game_label": "Call of Duty"
-  },
-  {
-    "id": "cd7b052c3c06",
-    "slug": "grand-theft-auto-6-is-officially-eligible-for-the-2026-game-awards",
-    "headline": "‘Grand Theft Auto 6’ Is Officially Eligible for the 2026 Game Awards",
-    "summary": "The Game Awards' website confirms that 'Grand Theft Auto 6' will qualify for awards consideration.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/grand-theft-auto-6-the-game-awards/"
-      },
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/gta-6-avoids-a-very-awkward-situation-by-officially-being-eligible-for-the-2026-game-awards-2000746320"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/lucia-pool-grand-theft-auto-6.jpg",
-    "published_at": "2026-10-15T15:30:29.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   },
   {
     "id": "4f4ce59e4065",
@@ -4663,99 +4755,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "94154d548476",
-    "slug": "big-walk-creators-issue-brutal-official-xbox-update",
-    "headline": "Big Walk Creators Issue Brutal Official Xbox Update",
-    "summary": "As the BDS Boycott continues, Big Walk stands firm.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/big-walk-wont-come-to-xbox-while-bds-boycott-continues/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/1920x1080-2026-10-15t081533-053.png",
-    "published_at": "2026-10-15T07:23:56.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4b0ab8b46086",
-    "slug": "touhou-koumakyou-remake-physical-release-hits-nintendo-switch",
-    "headline": "Touhou Koumakyou Remake Physical Release Hits Nintendo Switch",
-    "summary": "A physical edition of the Touhou Koumakyou remake game was released on December 17, catering to fans' demand",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/touhou-koumakyou-remake-to-get-unplanned-physical-release-on-nintendo-switch-amidst-popular-demand/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/4b0ab8b46086/800/600",
-    "published_at": "2026-10-15T06:45:51.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "touhou-koumakyou",
-    "game_label": "Touhou Koumakyou"
-  },
-  {
-    "id": "380de042e622",
-    "slug": "xbox-survey-asks-users-about-minecraft-and-the-elder-scrolls-exclusivi",
-    "headline": "Xbox Survey Asks Users About Minecraft And The Elder Scrolls Exclusivity",
-    "summary": "A survey sent to Xbox Insiders asks what they would do if games like Minecraft, Fallout, and The Elder Scrolls were console exclusives.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/xbox-survey-minecraft-elder-scrolls-minecraft-exclusive/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/10/new-project-2026-10-15t071555-953.jpg",
-    "published_at": "2026-10-15T06:34:29.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "37051f515c4f",
-    "slug": "hytacka-returns-with-new-indie-action-rpg-overseeker",
-    "headline": "Hytacka Returns with New Indie Action RPG Overseeker",
-    "summary": "Former FromSoftware developer Hytacka is back with a new action RPG called Overseeker, with the goal of creating the most entertaining game in its genre.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/former-fromsoftware-dev-hytacka-returns-with-new-indie-action-rpg-overseeker-following-mixed-reception-of-previous-project/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/37051f515c4f/800/600",
-    "published_at": "2026-10-15T05:49:55.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "overseeker",
-    "game_label": "Overseeker"
   }
 ]
