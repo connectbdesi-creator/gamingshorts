@@ -22573,5 +22573,81 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-15T16:08:25.063Z"
+  },
+  {
+    "slug": "enshrouded",
+    "name": "Enshrouded (2024)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/a6b/a6b06138fcce9b74e91e3ce1d3cf7ec1.jpg",
+    "released": "2024-01-24",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/937/937cd7dc196b60a630c032f7ae3a1b03.jpg",
+      "https://media.rawg.io/media/screenshots/127/127f63dadb723d6cd77db73cb0674582.jpg",
+      "https://media.rawg.io/media/screenshots/2ee/2ee0ba4d11a5bb8e0978d3b1dc0a5bff.jpg",
+      "https://media.rawg.io/media/screenshots/6d7/6d7fe2461b65e2971dda17cce9765260.jpg",
+      "https://media.rawg.io/media/screenshots/d6b/d6bfb4c52bb8f4ba70503943dd1e26cd.jpg",
+      "https://media.rawg.io/media/screenshots/a6b/a6b06138fcce9b74e91e3ce1d3cf7ec1.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-15T17:37:06.500Z"
+  },
+  {
+    "slug": "overseeker",
+    "name": "OverSeeker",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/a41/a414025eaad0a255dd0bbfc33db0bcde.jpg",
+    "released": "2022-08-15",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/371/371f0606cd27fc4a1b9b8153107d6fc3.jpg",
+      "https://media.rawg.io/media/screenshots/197/197e25d1f19fab977724d9791500dd28.jpg",
+      "https://media.rawg.io/media/screenshots/a41/a414025eaad0a255dd0bbfc33db0bcde.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-15T17:37:23.801Z"
+  },
+  {
+    "slug": "tera",
+    "name": "TERA",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/6d3/6d367773c06886535620f2d7fb1cb866.jpg",
+    "released": "2017-01-31",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Massively Multiplayer",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/fd3/fd3103e5d152908710aad8617c27bb41.jpg",
+      "https://media.rawg.io/media/screenshots/bb8/bb89dd4adf05359df0354c3a96a48c13.jpg",
+      "https://media.rawg.io/media/screenshots/623/623d61ff80b33b7ad93395b3bf32f7f0.jpg",
+      "https://media.rawg.io/media/screenshots/a23/a231d3d1bf5b66820a170cabf86f6a96.jpg",
+      "https://media.rawg.io/media/screenshots/6d3/6d367773c06886535620f2d7fb1cb866.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-15T17:37:24.989Z"
   }
 ]
