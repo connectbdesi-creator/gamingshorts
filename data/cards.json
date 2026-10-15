@@ -1,5 +1,197 @@
 [
   {
+    "id": "f0eed489b906",
+    "slug": "final-fantasy-kingdom-hearts-and-persona-to-release-major-new-games-in",
+    "headline": "Final Fantasy, Kingdom Hearts, and Persona to Release Major New Games in 2027",
+    "summary": "JRPG fans can look forward to new games from three popular franchises in 2027, including Final Fantasy, Kingdom Hearts, and Persona.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/jrpg-2027-release-dates/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ffvii_revelation_june_screenshots_-16.jpg",
+    "published_at": "2026-10-15T15:00:18.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "jrpg",
+    "game_label": "JRPG"
+  },
+  {
+    "id": "7123304431a6",
+    "slug": "ocarina-of-time-speedrunners-uncover-water-powered-boulder-blasting-gl",
+    "headline": "Ocarina of Time Speedrunners Uncover Water-Powered Boulder Blasting Glitch",
+    "summary": "Speedrunners have discovered a quirky glitch in The Legend of Zelda: Ocarina of Time that allows Link to blow up boulders using water, sparking excitement among the speedrunning community.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/link-can-blow-up-boulders-with-water-in-newly-discovered-ocarina-of-time-glitch-2000746332"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/07/ocarina-of-time-link-1280x720.jpg",
+    "published_at": "2026-10-15T15:00:05.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-legend-of-zelda-ocarina-of-time",
+    "game_label": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "14adee0f7713",
+    "slug": "how-to-play-modern-warfare-4-campaign-early",
+    "headline": "How to Play Modern Warfare 4 Campaign Early",
+    "summary": "Game Rant reveals ways to play Call of Duty: Modern Warfare 4 campaign before official release, likely through early access or beta test",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/cod-modern-warfare-4-how-play-campaign-early/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/cod-modern-warfare-4-campaign-how-to-play-early.jpg",
+    "published_at": "2026-10-15T14:47:52.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "modern-warfare-4",
+    "game_label": "Modern Warfare 4"
+  },
+  {
+    "id": "9f2a23a960be",
+    "slug": "forza-horizon-6-jodogahama-location-revealed",
+    "headline": "Forza Horizon 6 Jodogahama Location Revealed",
+    "summary": "Forza Horizon 6 players can now find Jodogahama Beach and capture a Mazda to earn a specific emote, as part of the game's Slice of Life photo challenge.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/jodogahama-location-in-forza-horizon-6/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/jodogahama-beach-fh6.jpg",
+    "published_at": "2026-10-15T14:47:41.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "forza-horizon-6",
+    "game_label": "Forza Horizon 6"
+  },
+  {
+    "id": "dac5f98a20d0",
+    "slug": "finding-the-takashiro-region-treasure-hunt-in-forza-horizon-6",
+    "headline": "Finding the Takashiro Region Treasure Hunt in Forza Horizon 6",
+    "summary": "Forza Horizon 6 has a treasure hunt in the Takashiro region, which can be found in a field of long grass. No further details are provided.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/racing/forza-horizon-6-treasure-hunt-takashiro-region-location/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/HDu7yeGoTdWjD7osXXyToD-1920-80.jpg",
+    "published_at": "2026-10-15T14:33:44.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "forza-horizon-6",
+    "game_label": "Forza Horizon 6"
+  },
+  {
+    "id": "f30c8e62eab1",
+    "slug": "dayz-creator-dean-hall-releases-open-source-game-development-framework",
+    "headline": "DayZ creator Dean Hall releases open-source game development framework Brutal",
+    "summary": "Industry veteran Dean Hall has rolled out Brutal, an open-source game development framework made in collaboration by two of his companies, Ahwoo and RocketWerkz.\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/dayz-creator-dean-hall-releases-open-source-game-development-framework-brutal"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/-1430347497876.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-15T14:31:28.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "99aa1eda15f8",
+    "slug": "activisions-head-marketer-says-modern-warfare-4-faces-a-call-of-duty-t",
+    "headline": "Activision's Head Marketer Says Modern Warfare 4 Faces A 'Call Of Duty Tax'",
+    "summary": "Activision is facing pressure to boost engagement for Modern Warfare 4, as the game's developer believes it faces a 'Call of Duty tax' from its own series.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/activisions-head-marketer-says-modern-warfare-4-faces-a-call-of-duty-tax-2000746337"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/10/mw-4-1280x720.jpg",
+    "published_at": "2026-10-15T14:30:12.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "modern-warfare-4",
+    "game_label": "Modern Warfare 4"
+  },
+  {
+    "id": "0b4ce05ab5ef",
+    "slug": "the-witcher-3-remastered-update-targets-poor-image-clarity-on-xbox-ser",
+    "headline": "The Witcher 3 Remastered Update Targets Poor Image Clarity on Xbox Series S",
+    "summary": "CD Projekt Red has released a hotfix for The Witcher 3 Remastered on Xbox Series S to improve image clarity issues",
+    "category": "patches",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/the-witcher-3-remastered-update-targets-poor-image-clarity-on-xbox-series-s"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/2c2c7054413c2/large.jpg",
+    "published_at": "2026-10-15T14:30:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
     "id": "a8f7885921ef",
     "slug": "sega-pulls-total-war-shogun-2-complete-edition-from-stores",
     "headline": "Sega Pulls Total War: Shogun 2 Complete Edition from Stores",
@@ -1535,6 +1727,33 @@
     "game_label": "League of Legends Classic"
   },
   {
+    "id": "b4fd5c98a55b",
+    "slug": "tcl-to-bring-700-hz-oled-panels-to-market-by-2028",
+    "headline": "TCL to Bring 700 Hz OLED Panels to Market by 2028",
+    "summary": "TCL plans to release 700 Hz OLED panels by 2028, making them cheaper than current options. This development is expected to have a significant impact on the display industry.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/gaming-monitors/oled-really-is-the-gift-that-keeps-on-giving-with-what-should-be-cheaper-700-hz-panels-planned-by-tcl-for-2028/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/wCbd8EUNFSGdJgfgXmRUJd-1920-80.jpg",
+    "published_at": "2026-10-15T12:05:58.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "deb6a69f9859",
     "slug": "gta-6-has-a-chance-at-2026-game-of-the-year",
     "headline": "GTA 6 Has a Chance at 2026 Game of the Year",
@@ -2322,6 +2541,29 @@
     "game_label": "God of War Laufey"
   },
   {
+    "id": "b47becb5037a",
+    "slug": "legend-of-zelda-switch-2-stock-returns-to-shelves",
+    "headline": "Legend of Zelda Switch 2 Stock Returns to Shelves",
+    "summary": "Smyths Toys is currently carrying the Nintendo Switch 2, with customers advised to act quickly as stock levels are replenished.",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/hardware/quick-legend-of-zelda-switch-2-stock-is-back-on-the-shelves-but-these-consoles-are-moving-fast/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/4yyS3w46JzL75YX3xoVUJ6-1920-80.jpg",
+    "published_at": "2026-10-15T10:02:10.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "legend-of-zelda-switch-2",
+    "game_label": "Legend of Zelda Switch 2"
+  },
+  {
     "id": "1518df1391be",
     "slug": "gamerant-daily-crossword-mini-october-16-2026",
     "headline": "GameRant Daily Crossword Mini (October 16, 2026)",
@@ -2409,6 +2651,30 @@
     "comment_count": 0,
     "game": "name-that-game",
     "game_label": "Name That Game"
+  },
+  {
+    "id": "fa86ee338eb4",
+    "slug": "xbox-is-reportedly-asking-fans-how-they-feel-about-greater-console-exc",
+    "headline": "Xbox is reportedly asking fans how they feel about greater console exclusivity",
+    "summary": "Xbox is seeking fan feedback on increasing console exclusivity, sparking debate about the impact on gaming diversity",
+    "category": "industry",
+    "platform_tags": [
+      "xbox",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/minecraft/minecraft-updates-on-playstation-and-nintendo-would-end-but-xbox-is-reportedly-asking-fans-how-they-feel-about-greater-console-exclusivity-for-current-and-upcoming-games-like-fallout-5/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/SBpU8DVcZ2nTo4zAB97KCJ-1920-80.jpg",
+    "published_at": "2026-10-15T10:00:05.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "9982c18efe1c",
@@ -2735,6 +3001,29 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "60f74b535f30",
+    "slug": "our-cozy-days-coming-to-switch-2",
+    "headline": "Our Cozy Days Coming to Switch 2",
+    "summary": "A cozy life simulation game is getting a Switch 2 release, developed by Roboqlo and published by holo Indie.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/holovillage-our-cozy-days-coming-to-switch-2-on-october-22"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/60f74b535f30/800/600",
+    "published_at": "2026-10-15T08:20:55.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "our-cozy-days",
+    "game_label": "Our Cozy Days"
   },
   {
     "id": "94154d548476",
@@ -4463,280 +4752,5 @@
     "comment_count": 0,
     "game": "risk-of-rain-2",
     "game_label": "Risk of Rain 2"
-  },
-  {
-    "id": "0c76a02c727b",
-    "slug": "guide-when-is-modern-warfare-4s-early-access-release-for-the-campaign",
-    "headline": "Guide: When Is Modern Warfare 4's Early Access Release For The Campaign & DMZ Modes?",
-    "summary": "Certain pre-orders get multiple bites of COD. Modern Warfare 4's release is coming in waves for those with Early Access - with the campaign and DMZ moves arriving ahead of the multiplayer suite. That means you can make a start on the story and dabble in the extraction mode ahead of the headline multiplayer offering on Friday, 23rd October -…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/guides/modern-warfare-4-early-access-campaign-dmz-release-time-date-mw4"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/7f734137ca008/large.jpg",
-    "published_at": "2026-10-14T17:30:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a018050c102e",
-    "slug": "xbox-copies-of-forza-horizon-6-have-hit-new-low-prices-at-amazon-and-w",
-    "headline": "Xbox Copies of Forza Horizon 6 Have Hit New Low Prices at Amazon and Walmart",
-    "summary": "Xbox copies of Forza Horizon 6 are on sale at Amazon and Walmart, with both retailers discounting the standard physical edition and the latter also discounting the game's digital premium edition.",
-    "category": "deals",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/xbox-forza-horizon-6-new-low-price"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/14/forza-horizon-6-deal-1791984865577.jpg",
-    "published_at": "2026-10-14T17:22:31.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ca5e14273d8a",
-    "slug": "horror-game-jiaohun-has-secrets-demons-and-pagers-ign-fall-fan-fest-20",
-    "headline": "Horror Game Jiaohun Has Secrets, Demons, and Pagers | IGN Fall Fan Fest 2026",
-    "summary": "Explore Jiaohun, a new Y2K-era psychological horror game from 12AM Blackout set in 1999 China where unfulfilled desires turn into terrifying inner demons.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/horror-game-jiaohun-has-secrets-demons-and-pagers-ign-fall-fan-fest-2026"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/07/jiaohuntrailer-ign-blogroll-1791410700850.jpg",
-    "published_at": "2026-10-14T17:20:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "eb37ef2d93a7",
-    "slug": "arc-raiders-new-player-surge-makes-the-dead-game-label-look-ridiculous",
-    "headline": "ARC Raiders' New Player Surge Makes the Dead Game Label Look Ridiculous",
-    "summary": "ARC Raiders has been labeled as a \"dead game\" in recent months, but its new major update proves that this is far from the case.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/arc-raiders-player-count-steam-frozen-trail/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/bazaart_2026-10-13_163936.jpeg",
-    "published_at": "2026-10-14T17:15:14.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d528d71999c5",
-    "slug": "retro-handhelds-loaded-with-unlicensed-games-could-face-government-cra",
-    "headline": "Retro Handhelds Loaded With Unlicensed Games Could Face Government Crackdown",
-    "summary": "The Electronic Software Association (ESA) has a serious bone to pick with retro handhelds that are packaged with tons of unlicensed pre-installed, calling these devices \"superfakes\" that should face some sort of suppression by the US government.\nAccording to an October 6 filing with the Office of the United States Trade Representative (USTR)--which monitors marketplaces that are accused of engagin",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/retro-handhelds-loaded-with-unlicensed-games-could-face-government-crackdown/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Anberdredd.jpg?w=300",
-    "published_at": "2026-10-14T17:12:32.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2f2bdac8d07c",
-    "slug": "arizona-sunshine-remake-launches-january-21-2027",
-    "headline": "Arizona Sunshine Remake Launches January 21, 2027",
-    "summary": "A third-person shooter remake of Arizona Sunshine is set to launch on January 21, 2027, for PlayStation 5, Xbox, and other platforms.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/arizona-sunshine-remake-launches-january-21-2027"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/2f2bdac8d07c/800/600",
-    "published_at": "2026-10-14T17:11:55.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "arizona-sunshine",
-    "game_label": "Arizona Sunshine"
-  },
-  {
-    "id": "aa8b8215161f",
-    "slug": "kotaro-uchikoshis-new-game-canceled-before-announce",
-    "headline": "Kotaro Uchikoshi's New Game Canceled Before Announce",
-    "summary": "Kotaro Uchikoshi, director of the Zero Escape and Hundred Lines series, had a game canceled before he could reveal a new studio called Crash Keys",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/kotaro-uchikoshi-hundred-line-zero-escape-crash-keys-2000745989"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2025/12/IMG_0764.jpg",
-    "published_at": "2026-10-14T17:10:34.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "26918493a228",
-    "slug": "mass-effect-spectre-expansion-brings-new-content-to-legendary-edition",
-    "headline": "Mass Effect: Spectre Expansion Brings New Content to Legendary Edition",
-    "summary": "A new expansion mod for Mass Effect: Legendary Edition offers fresh destinations and reasons to revisit the trilogy.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/mass-effect-spectre-expansion-mod-new-worlds/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/mass-effect-spectre-expansion-gives-fans-8-reasons-to-revisit-the-trilogy.jpg",
-    "published_at": "2026-10-14T17:09:38.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "mass-effect-legendary-edition",
-    "game_label": "Mass Effect: Legendary Edition"
-  },
-  {
-    "id": "21c98d812e95",
-    "slug": "sker-the-bleeding-veil-announced-for-ps5-xbox-series-and-pc",
-    "headline": "Sker: The Bleeding Veil announced for PS5, Xbox Series, and PC",
-    "summary": "Developers Wales Interactive and Stormind Games have announced Sker: The Bleeding Veil, a Welsh folklore first-person …",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/sker-the-bleeding-veil-announced-for-ps5-xbox-series-and-pc"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/21c98d812e95/800/600",
-    "published_at": "2026-10-14T17:04:05.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "30da26482835",
-    "slug": "9-ps-plus-extra-premium-games-for-october-2026-announced",
-    "headline": "9 PS Plus Extra, Premium Games for October 2026 Announced",
-    "summary": "Spooky scary.\nSony has officially announced the full lineup of games heading into PS Plus Extra and PS Plus Premium for the month of October 2026.\nHere's the full rundown:\nRead the full article on pushsquare.com",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/9-ps-plus-extra-premium-games-for-october-2026-announced"
-      },
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/playstation-plus-october-2026-games"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/ps-plus-extra-premium-games-october-2026-list/"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/c80ca2ceffd6b/large.jpg",
-    "published_at": "2026-10-14T17:03:46.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "69cbccfc2e78",
-    "slug": "gta-6-lead-reacts-to-the-infamous-2022-leak-like-somebodys-wading-thro",
-    "headline": "GTA 6 Lead Reacts To The Infamous 2022 Leak: ‘Like Somebody’s Wading Through Your Dirty Washing’",
-    "summary": "Rockstar also said it likely won't return to a work-from-home model as too many people want to 'steal' its games",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/gta-6-lead-reacts-to-the-infamous-2022-leak-like-somebodys-wading-through-your-dirty-washing-2000745968"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/06/disc-gta-6-1280x720.jpg",
-    "published_at": "2026-10-14T17:00:52.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "36d3137bc4ba",
-    "slug": "cod-modern-warfare-4-full-price-game-pass-early-access-other-faqs",
-    "headline": "COD Modern Warfare 4 Full Price, Game Pass, Early Access, & Other FAQs",
-    "summary": "Call of Duty: Modern Warfare 4 releases October 23, but will it be on Game Pass? Does it feature early access? That and more in our MW4 FAQ.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/call-of-duty-cod-modern-warfare-4-mw4-full-price-game-pass-early-access-frequently-asked-questions/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/cod-modern-warfare-4-full-price-game-pass-early-access-other-faqs.jpg",
-    "published_at": "2026-10-14T17:00:13.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]

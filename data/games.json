@@ -22533,5 +22533,27 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-15T14:39:17.949Z"
+  },
+  {
+    "slug": "jrpg",
+    "name": "JRPG: The Game",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/73c/73cf30494a5ca6c47a9c105caef851fc.jpg",
+    "released": "2021-04-28",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/0a6/0a6394f7851b9f91c8b917f5a5798040.jpg",
+      "https://media.rawg.io/media/screenshots/dd6/dd69ece01bd478a67374deb83e6d30a0.jpg",
+      "https://media.rawg.io/media/screenshots/73c/73cf30494a5ca6c47a9c105caef851fc.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-15T15:07:42.996Z"
   }
 ]
