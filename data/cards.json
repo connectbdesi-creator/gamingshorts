@@ -1,5 +1,269 @@
 [
   {
+    "id": "6a6434f29d6c",
+    "slug": "rep-ritchie-torres-announces-congressional-legislation-to-protect-vide",
+    "headline": "Rep. Ritchie Torres Announces Congressional Legislation To Protect Video Game Ownership",
+    "summary": "US Representative Ritchie Torres introduces legislation to protect gamers' rights to digital game ownership, aiming to end digital game licenses.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/rep-ritchie-torres-announces-congressional-legislation-to-protect-video-game-ownership-2000746395"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/10/ritchieGTA-1280x720.jpg",
+    "published_at": "2026-10-15T17:00:32.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "31f15eade513",
+    "slug": "9-fallout-new-vegas-challenge-runs-that-make-the-game-feel-brand-new",
+    "headline": "9 Fallout: New Vegas Challenge Runs That Make the Game Feel Brand New",
+    "summary": "From Hardcore survival to a pacifist, a cowboy, or a vampire, these Fallout: New Vegas challenge runs make the Mojave feel brand new again.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/fallout-new-vegas-challenge-runs/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/fallout-new-vegas.jpg",
+    "published_at": "2026-10-15T17:00:17.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "fa931ab6da68",
+    "slug": "fortnite-chapter-7-season-4-honey-sprite-location",
+    "headline": "Fortnite Chapter 7 Season 4 Honey Sprite Location",
+    "summary": "Fortnite is revealing its last Honey Sprite variant from Chapter 7 Season 4, offering a chance for players to complete their collection. The locations for each variant have been shared.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/fortnite-honey-sprite-variants-effects-location/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/fortnite-tips-to-master-get-all-sprites-before-chapter-7-season-4-ends-mini-season-complete-sprite-collection/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/fortnite-how-to-get-the-honey-sprite-what-it-does.jpg",
+    "published_at": "2026-10-15T17:00:15.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fortnite",
+    "game_label": "Fortnite"
+  },
+  {
+    "id": "17ee1a0ee57f",
+    "slug": "mario-kart-8-deluxe-just-got-a-brand-new-update-for-october-2026",
+    "headline": "Mario Kart 8 Deluxe Just Got a Brand-New Update for October 2026",
+    "summary": "Mario Kart 8 Deluxe has a new update for the month of October, which is live on the original Switch, as well as Nintendo Switch 2.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/mario-kart-8-deluxe-update-patch-notes-october-2026/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/mario-kart-8-deluxe-october-2026-update.jpg",
+    "published_at": "2026-10-15T17:00:10.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2b740045eab1",
+    "slug": "peak-climbing-game-launches-on-ps5-on-october-22",
+    "headline": "Peak Climbing Game Launches on PS5 on October 22",
+    "summary": "Team Peak, a collaboration between Aggro Crab and Landfall, is launching its climbing game on PlayStation 5 on October 22",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/10/15/peak-climbs-its-way-onto-ps5-october-22/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/2b740045eab1/800/600",
+    "published_at": "2026-10-15T17:00:08.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "peak",
+    "game_label": "Peak"
+  },
+  {
+    "id": "2f4383f047d4",
+    "slug": "warhammer-commander-decks-losing-value-fast",
+    "headline": "Warhammer Commander Decks Losing Value Fast",
+    "summary": "The market value of Warhammer Commander reprints is dropping rapidly, despite no clear resolution to the reprints' circumstances.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/mtg-warhammer-commander-market-value-hurt-by-reprints/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/a-close-up-image-of-artwork-from-commissar-sverina-raine-from-warhammer-mtg-decks.jpg",
+    "published_at": "2026-10-15T16:56:33.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "warhammer-commander",
+    "game_label": "Warhammer Commander"
+  },
+  {
+    "id": "36b955d1b7ac",
+    "slug": "witcher-developer-officially-gives-big-update-on-new-game",
+    "headline": "Witcher Developer Officially Gives Big Update on New Game",
+    "summary": "CD Project Red's CEO announced that the studio's next new IP, Project Hadar, is progressing smoothly.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/witcher-developer-next-game-project-hadar-update/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/geralt-witcher-3-remastered.jpg",
+    "published_at": "2026-10-15T16:47:01.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "11400df7f24b",
+    "slug": "diablo-5-cinematic-filming-begins",
+    "headline": "Diablo 5 Cinematic Filming Begins",
+    "summary": "Blizzard is starting production on cinematics for its upcoming action-RPG sequel to Diablo 4.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/diablo/diablo-5-has-officially-started-filming-cinematics-for-blizzards-upcoming-action-rpg/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/JTwbkTfwpVppNwJeKXZtge-1920-80.jpg",
+    "published_at": "2026-10-15T16:33:44.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "diablo-5",
+    "game_label": "Diablo 5"
+  },
+  {
+    "id": "6f33d3f81235",
+    "slug": "despite-controversy-world-of-warcraft-forevers-30-skyborne-race-is-one",
+    "headline": " Despite controversy, World of Warcraft Forever's $30 Skyborne race is one of the Beta's most popular ",
+    "summary": "The blue elves make up nearly 20% of the MMO",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/world-of-warcraft/despite-controversy-world-of-warcraft-forevers-usd30-skyborne-race-is-one-of-the-betas-most-popular-among-both-horde-and-alliance-players/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/e75izgrRhxYSxQhhEh62GE-1920-80.jpg",
+    "published_at": "2026-10-15T16:30:56.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5e663255c505",
+    "slug": "ai-vibe-coding-just-hit-the-video-game-industry-like-an-avalanche",
+    "headline": "AI Vibe-Coding Just Hit The Video Game Industry Like An Avalanche",
+    "summary": "We spoke to Take-Two’s former head of AI and Godot Engine’s executive director about the Claude Opus–shaped problem that the industry is currently facing",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/ai-vibe-coding-just-hit-the-video-game-industry-like-an-avalanche-2000746366"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1280x720.jpg",
+    "published_at": "2026-10-15T16:30:35.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8ba7f81c27c3",
+    "slug": "jeff-kaplan-doesnt-engage-with-overwatch-after-leaving-blizzard-ive-li",
+    "headline": "Jeff Kaplan Doesn’t Engage With Overwatch After Leaving Blizzard: ‘I’ve Literally Not Played The Game Since April 2021’",
+    "summary": "The original director of the hero shooter is now working on a western game called The Legend of California",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/jeff-kaplan-blizzard-overwatch-california-aaron-keller-2000746382"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2021/04/i5tojylzfwjmfq36clhy-1280x720.jpg",
+    "published_at": "2026-10-15T16:30:35.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "d323cf9a9c52",
     "slug": "october-16-is-officially-a-big-day-for-switch-2",
     "headline": "October 16 is Officially a Big Day for Switch 2",
@@ -45,6 +309,52 @@
     "comment_count": 0,
     "game": "pokemon-firered-and-leafgreen",
     "game_label": "Pokemon FireRed and LeafGreen"
+  },
+  {
+    "id": "5bd718fb5a63",
+    "slug": "ps5s-saros-already-an-official-award-winner",
+    "headline": "PS5's Saros Already an Official Award Winner",
+    "summary": "Credited for its sound and music.\nThe year isn't done yet with new PS5 game releases, but Housemarque's own Saros has already begun winning awards.\nThe PS5 title has been recognised at the 2026 Music + Sound Awards, which are voted on by industry professionals. It's won the following three awards:\nRead the full article on pushsquare.com",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/ps5s-saros-already-an-official-award-winner"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/4ef6d9d7b472e/large.jpg",
+    "published_at": "2026-10-15T16:30:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e22fab0f5ca2",
+    "slug": "hitman-absolution-finally-sneaks-onto-switch-2-next-week",
+    "headline": "Hitman: Absolution Finally Sneaks Onto Switch 2 Next Week",
+    "summary": "Another October game?! Almost a full year after releasing on the Switch, Hitman: Absolution - Nintendo Switch 2 Edition is finally hitting the eShop on 22nd October 2026. This new version will bring mouse compatibility along with increased resolution and a new performance mode targeting 60fps in both handheld and docked modes. Those who own the Switch version already have…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/hitman-absolution-finally-sneaks-onto-switch-2-next-week"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/47b1a93cfe66f/large.jpg",
+    "published_at": "2026-10-15T16:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "53903247f838",
@@ -830,6 +1140,29 @@
     "game_label": "The Legend of Zelda: Ocarina of Time"
   },
   {
+    "id": "b3eee874fb29",
+    "slug": "anomalith-demo-impressions-furyu-delivers-punchy-gunplay-and-eerie-lim",
+    "headline": "ANOMALITH demo impressions: FuRyu delivers punchy gunplay and eerie liminal spaces in what looks like a promising third-person shooter",
+    "summary": "Our impressions of the ANOMALITH Steam demo.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/reviews/anomalith-demo-impressions-furyu-delivers-punchy-gunplay-and-eerie-liminal-spaces-in-what-looks-like-a-promising-third-person-shooter/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/b3eee874fb29/800/600",
+    "published_at": "2026-10-15T15:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "cf831fe0c041",
     "slug": "the-reviews-are-flooding-in-for-the-rog-xbox-ally-x20",
     "headline": "The Reviews Are Flooding In For The ROG Xbox Ally X20",
@@ -1210,6 +1543,29 @@
     "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/02/untitled-design-2026-02-13t090621-445.png",
     "published_at": "2026-10-15T14:06:26.000Z",
     "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b1e0d9922060",
+    "slug": "playstation-creator-ken-kutaragi-suggests-the-video-game-industry-hasn",
+    "headline": "PlayStation creator Ken Kutaragi suggests the video game industry hasn’t caught up with the evolution of AI. “It’s like there’s no actual progress being made”",
+    "summary": "PlayStation creator Ken Kutaragi discusses generative AI and how he things the technology will change the game industry.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/playstation-creator-ken-kutaragi-suggests-the-video-game-industry-hasnt-caught-up-with-the-evolution-of-ai-its-like-theres-no-actual-progress-being-made/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/b1e0d9922060/800/600",
+    "published_at": "2026-10-15T14:00:00.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -1851,34 +2207,6 @@
     "comment_count": 0,
     "game": "humankind-2",
     "game_label": "Humankind 2"
-  },
-  {
-    "id": "fa931ab6da68",
-    "slug": "fortnite-chapter-7-season-4-honey-sprite-location",
-    "headline": "Fortnite Chapter 7 Season 4 Honey Sprite Location",
-    "summary": "Fortnite is revealing its last Honey Sprite variant from Chapter 7 Season 4, offering a chance for players to complete their collection. The locations for each variant have been shared.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/fortnite-honey-sprite-variants-effects-location/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/fortnite-how-to-get-the-honey-sprite-what-it-does.jpg",
-    "published_at": "2026-10-15T13:08:27.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "fortnite",
-    "game_label": "Fortnite"
   },
   {
     "id": "915100fbd5f6",
@@ -2703,6 +3031,30 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "8b7a04e6df5a",
+    "slug": "demons-night-fever-a-dark-comedy-srpg-where-you-play-a-scumbag-god",
+    "headline": "Demons' Night Fever: A Dark Comedy SRPG Where You Play a Scumbag God",
+    "summary": "Demons' Night Fever, a new dark comedy strategy RPG, is set to launch on October 22 for Steam, PS5, and Switch. The game pokes fun at traditional RPG tropes by making the player's god character a morally ambiguous figure",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/disgaea-creators-new-dark-comedy-srpg-demons-night-fever-turns-god-into-a-scumbag-so-players-dont-feel-guilty-about-doing-evil-things/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/8b7a04e6df5a/800/600",
+    "published_at": "2026-10-15T12:00:00.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "demons-night-fever",
+    "game_label": "Demons' Night Fever"
   },
   {
     "id": "8774f0369e83",
@@ -3886,6 +4238,27 @@
     "game_label": "Our Cozy Days"
   },
   {
+    "id": "1756637fcf7c",
+    "slug": "guilty-gear-developer-arc-system-works-to-dramatically-strengthen-deve",
+    "headline": "Guilty Gear developer Arc System Works to “dramatically” strengthen development capacity with new Tokyo studio and workforce upsizing",
+    "summary": "The new studio will open on November 2.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/guilty-gear-developer-arc-system-works-to-dramatically-strengthen-development-capacity-with-new-tokyo-studio-and-workforce-upsizing/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/1756637fcf7c/800/600",
+    "published_at": "2026-10-15T08:06:48.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "94154d548476",
     "slug": "big-walk-creators-issue-brutal-official-xbox-update",
     "headline": "Big Walk Creators Issue Brutal Official Xbox Update",
@@ -4389,368 +4762,5 @@
     "comment_count": 0,
     "game": "gta-6",
     "game_label": "GTA 6"
-  },
-  {
-    "id": "ec387bbf2fda",
-    "slug": "how-to-activate-custom-mode-in-castlevania-belmonts-curse",
-    "headline": "How To Activate Custom Mode In Castlevania: Belmont's Curse",
-    "summary": "The article provides a tip on how to make the game Castlevania: Belmont's Curse less brutal by enabling custom mode, a feature that alters the difficulty level of the game.",
-    "category": "patches",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/castlevania-belmonts-curse-custom-mode-difficulty-options-easier-how-to/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/10/castlevaniabelmontscurserosecurse.jpg",
-    "published_at": "2026-10-14T23:00:20.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "castlevania-belmonts-curse",
-    "game_label": "Castlevania: Belmont's Curse"
-  },
-  {
-    "id": "6d4423442a72",
-    "slug": "toy-story-3-complete-edition-review",
-    "headline": "Toy Story 3 Complete Edition Review",
-    "summary": "Push Square reviews the updated PS5 version of the beloved Toy Story 3 movie tie-in, calling it a fresh take on an already highly regarded title.",
-    "category": "reviews",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/reviews/ps5/toy-story-3-complete-edition"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/1da74f4f35058/large.jpg",
-    "published_at": "2026-10-14T23:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "toy-story-3",
-    "game_label": "Toy Story 3"
-  },
-  {
-    "id": "91793ddb5683",
-    "slug": "ex-overwatch-director-jeff-kaplan-ignores-everything-about-the-hero-sh",
-    "headline": " Ex-Overwatch director Jeff Kaplan ignores everything about the hero shooter after his 'almost clinical' departure 5 years ago: 'I don't search for my name in Overwatch. I don't search for Overwatch. I sort of just disconnect.' ",
-    "summary": "The former Blizzard developer has moved on.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/fps/ex-overwatch-director-jeff-kaplan-ignores-everything-about-the-hero-shooter-after-his-almost-clinical-departure-5-years-ago-i-dont-search-for-my-name-in-overwatch-i-dont-search-for-overwatch-i-sort-of-just-disconnect/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/XFSJd8WGfgkumuaUncPkuN-1920-80.jpg",
-    "published_at": "2026-10-14T22:54:53.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "24019cc6dac0",
-    "slug": "arc-raiders-pve-mode-now-available-for-limited-time",
-    "headline": "Arc Raiders PvE Mode Now Available for Limited Time",
-    "summary": "Arc Raiders' PvE mode is finally available after nearly a year of complaints, marking a significant update for the game.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/arc-raiders-experiemental-pve-playtest/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/01/arc-raiders-player-getting-ready-to-swing-a-weapon-towards-the-camera.jpg",
-    "published_at": "2026-10-14T22:49:42.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "arc-raiders",
-    "game_label": "Arc Raiders"
-  },
-  {
-    "id": "2c4ef69be905",
-    "slug": "best-open-world-rpgs-you-need-to-play-in-fall-2026",
-    "headline": "Best Open-World RPGs You Need To Play In Fall 2026",
-    "summary": "Heat up on cold nights with Fall 2026's best open-world RPGs, from remasters to DLC to limited-time in-game events.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/best-open-world-rpg-games-you-need-to-play-now-fall-2026/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/best-open-world-rpgs-you-need-to-play-in-fall-2026.jpg",
-    "published_at": "2026-10-14T22:45:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8dbb2ce6d990",
-    "slug": "castlevania-belmonts-curse-review",
-    "headline": "Castlevania: Belmont's Curse Review",
-    "summary": "PC Gamer's reviewer expresses mixed feelings about the game's potential, citing a good foundation but lacking polish, and questions whether it can live up to the series' legacy.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/action/i-want-to-love-the-new-castlevania-but-it-just-feels-a-little-off/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/cyHr2vwGF6PQKZE2jdaaRc-1920-80.jpg",
-    "published_at": "2026-10-14T22:31:54.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "castlevania-belmonts-curse",
-    "game_label": "Castlevania: Belmont's Curse"
-  },
-  {
-    "id": "280b6fbfcd9b",
-    "slug": "xbox-exclusive-frenzy",
-    "headline": "Xbox Exclusive Frenzy?",
-    "summary": "Microsoft is exploring making Fallout, Elder Scrolls, and Minecraft exclusive to Xbox, sparking fan interest and speculation about the future of the platforms.",
-    "category": "deals",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/xbox-exclusive-minecraft-fallout-elder-scrolls/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/assets_2025_03_1742413270_vanilla-key-art-2024.png",
-    "published_at": "2026-10-14T22:30:47.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9c247958f2b2",
-    "slug": "my-idea-of-a-netflix-for-games-doesnt-work-garrys-mod-successor-is-get",
-    "headline": " 'My idea of a Netflix for games doesn’t work': Garry's Mod successor is getting 'sweeping changes' ",
-    "summary": "\"I’m sorry—we are going to do better.\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/software/platforms/my-idea-of-a-netflix-for-games-doesnt-work-garrys-mod-successor-is-getting-sweeping-changes/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/eynssSQjdZ8gKMc39fbzED-1920-80.jpg",
-    "published_at": "2026-10-14T21:54:25.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5592326ba00a",
-    "slug": "metaphor-refantazio-just-did-what-every-switch-2-rpg-should-do",
-    "headline": "Metaphor: ReFantazio Just Did What Every Switch 2 RPG Should Do",
-    "summary": "A free Switch 2 demo for Metaphor: ReFantazio recently went live, and other titles in the RPG genre need to follow in its footsteps.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/metaphor-refantazio-switch-2-demo-save-data-transfer/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/bazaart_2026-10-14_104646.jpeg",
-    "published_at": "2026-10-14T21:45:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7ad01ad0dc29",
-    "slug": "epic-dunks-on-steam-with-vibe-coded-storefront-and-gets-roasted-this-l",
-    "headline": "Epic Dunks On Steam With Vibe-Coded Storefront And Gets Roasted: ‘This Launcher Is So F*cking Vibeslopped Its Funny’",
-    "summary": "The Fortnite maker is promoting faster response times",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/epic-dunks-on-steam-with-vibe-coded-storefront-and-gets-roasted-this-launcher-is-so-fucking-vibeslopped-its-funny-2000746031"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/peely.jpg",
-    "published_at": "2026-10-14T21:30:56.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8de48d9f9cce",
-    "slug": "ps1-classics-on-ps5-keep-on-coming-in-dino-crisis-2-out-next-week",
-    "headline": "PS1 Classics on PS5 Keep on Coming in Dino Crisis 2, Out Next Week",
-    "summary": "But don't expect Trophies. Capcom classic Dino Crisis 2 will be made available on PS5 and PS4 via the PS Store from next Tuesday, 20th October 2026. The game will be part of PS Plus Premium straight away, but it'll also be purchasable outside of the subscription, most likely for £7.99 / $9.99. This will be a port of the…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/ps1-classics-on-ps5-keep-on-coming-in-dino-crisis-2-out-next-week"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/7a4c6fde56d04/large.jpg",
-    "published_at": "2026-10-14T21:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2a494e539feb",
-    "slug": "pokemon-lead-is-making-an-original-rpg-where-you-wash-your-outfits-and",
-    "headline": " Pokemon lead is making an \"original\" RPG where you wash your outfits and let them dry in real time ",
-    "summary": "You'll have to watch the real-life weather to make sure your laundry dries right",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/pokemon/after-24-years-working-on-pokemon-scarlet-and-violet-lead-is-making-a-completely-original-game-an-rpg-where-you-have-to-wash-your-outfits-and-let-them-dry-in-real-time/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/jChoqiUSWeQsEjcUXyLTYS-1920-80.png",
-    "published_at": "2026-10-14T21:08:34.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "54818cf5a9df",
-    "slug": "after-valve-was-criticized-devs-back-steams-refund-policy-by-creating",
-    "headline": " After Valve was criticized, devs back Steam's refund policy by creating 2-hour game Refund This Game ",
-    "summary": "\"Feel free to refund the game after\"",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/platformer/after-valve-was-criticized-devs-back-steams-refund-policy-by-creating-a-2-hour-game-literally-called-refund-this-game-we-celebrate-players-right-to-refund/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/cLfCD723mesFPYhjJe4Mnj-1920-80.jpg",
-    "published_at": "2026-10-14T21:05:52.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "be0e55ac5bb0",
-    "slug": "google-play-adds-game-finder-sprints-and-sidekick-playbacks-in-discove",
-    "headline": "Google Play adds Game Finder, Sprints, and Sidekick Playbacks in discovery push",
-    "summary": "Google Play is adding a batch of new discovery and social features for games, including a personalized Game Finder, timed competitive Sprints, and clip-sharing via its Sidekick overlay.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/google-play-adds-game-finder-sprints-and-sidekick-playbacks-in-discovery-push"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/unnamed_joO2efy.webp?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-14T21:02:24.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "22583b59b3d7",
-    "slug": "riot-games-announces-upcoming-change-to-league-classic",
-    "headline": "Riot Games Announces Upcoming Change to League Classic",
-    "summary": "Riot Games confirms that some upcoming changes to League of Legends' Classic mode are part of studio's plans for the health of the game.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/league-classic-rotating-mode/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/riot-games-announces-upcoming-change-to-league-classic-gamerant.jpg",
-    "published_at": "2026-10-14T21:00:14.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0dc57c044296",
-    "slug": "colossal-biosciences-accelerates-dodo-bird-de-extinction-timeline",
-    "headline": "Colossal Biosciences accelerates dodo bird de-extinction timeline",
-    "summary": "Colossal Biosciences, the world’s first de-extinction company, announced new scientific milestones that will accelerate dodo de-extinction efforts — or bringing back the extinct dodo...\nThe post Colossal Biosciences accelerates dodo bird de-extinction timeline appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/colossal-biosciences-accelerates-dodo-bird-de-extinction-timeline/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/0dc57c044296/800/600",
-    "published_at": "2026-10-14T21:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
