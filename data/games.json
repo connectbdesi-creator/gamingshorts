@@ -22329,5 +22329,51 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-15T00:08:20.255Z"
+  },
+  {
+    "slug": "harold-halibut",
+    "name": "Harold Halibut",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/611/6115ab59b28e0dad78dfdbbf34be83c8.jpg",
+    "released": "2024-04-16",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Adventure"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/7ab/7ab4f72c9c7222180b0f3a7af001076c.jpg",
+      "https://media.rawg.io/media/screenshots/e4d/e4dbfda9db560ed4fc8f1727ae33aab2.jpg",
+      "https://media.rawg.io/media/screenshots/5ce/5cebec383dddb91626f242e1da35c5cb.jpg",
+      "https://media.rawg.io/media/screenshots/3b5/3b5f68730bc17f7fb2052e9c980edf43.jpg",
+      "https://media.rawg.io/media/screenshots/ad2/ad28bc049098bc45a138a6cc1da9bc0a.jpg",
+      "https://media.rawg.io/media/screenshots/b60/b60198963560757332ba27124184c494.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-15T10:07:40.622Z"
+  },
+  {
+    "slug": "big-walk",
+    "name": "Big Walk",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/570/5709d6cddc9024ea3424d79e6d76e366.jpg",
+    "released": "2026-08-04",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [],
+    "stores": [],
+    "fetched_at": "2026-10-15T10:07:41.349Z"
   }
 ]
