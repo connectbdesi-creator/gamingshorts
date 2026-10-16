@@ -1,5 +1,26 @@
 [
   {
+    "id": "ef85bc02472f",
+    "slug": "street-fighter-6-reveals-street-fighter-movie-outfits-heres-every-free",
+    "headline": "Street Fighter 6 Reveals Street Fighter Movie Outfits, Here's Every Free Code",
+    "summary": "Movie makeover. The new Street Fighter live-action movie starring Ryu, Ken, Chun-Li and various other characters from Capcom's fighting game universe is out this week in cinemas. To celebrate the premiere, new codes have been released for Street Fighter 6, which gives select character outfits a unique colour scheme. These codes can be used on all platforms Street Fighter 6…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/street-fighter-6-reveals-street-fighter-movie-outfits-heres-every-free-code"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/2b1f3c6598acd/large.jpg",
+    "published_at": "2026-10-16T05:55:00.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "8728f8798f77",
     "slug": "heavy-metal-death-can-now-available-for-ps5-xbox-series",
     "headline": "Heavy Metal Death Can now available for PS5, Xbox Series",
@@ -66,6 +87,29 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "5b8eb795482d",
+    "slug": "nintendo-switch-zelda-ocarina-of-time-release-box-art-revealed",
+    "headline": "Nintendo Switch Zelda: Ocarina of Time Release Box Art Revealed",
+    "summary": "Nintendo Life has revealed the release box art for the upcoming Nintendo Switch port of The Legend of Zelda: Ocarina of Time. The bonus available in France has also been announced.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-switch-2-replica-n64-box-revealed"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/fa9beb913faba/large.jpg",
+    "published_at": "2026-10-16T03:55:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "zelda-ocarina-of-time",
+    "game_label": "Zelda: Ocarina of Time"
   },
   {
     "id": "b458510307c8",
@@ -4636,54 +4680,5 @@
     "comment_count": 0,
     "game": "grand-theft-auto-6",
     "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "f3bf1c52316b",
-    "slug": "dreadmoor-early-access-launches-november-9",
-    "headline": "DREADMOOR Early Access Launches November 9",
-    "summary": "Dark first-person fishing adventure game DREADMOOR is coming to PC via Steam Early Access on November 9",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/dreadmoor-launches-in-early-access-on-november-9"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/f3bf1c52316b/800/600",
-    "published_at": "2026-10-15T12:59:18.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "dreadmoor",
-    "game_label": "DREADMOOR"
-  },
-  {
-    "id": "a2fea1e349cd",
-    "slug": "solve-separate-ways-first-big-puzzle-in-resident-evil-4-remake",
-    "headline": "Solve Separate Ways' first big puzzle in Resident Evil 4 Remake",
-    "summary": "Resident Evil 4 Remake guide: Solving the first major puzzle in Separate Ways requires careful observation and timing",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/re4-separate-ways-cliffside-door-symbol-puzzle/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a2fea1e349cd/800/600",
-    "published_at": "2026-10-15T12:56:25.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "resident-evil-4-remake",
-    "game_label": "Resident Evil 4 Remake"
   }
 ]
