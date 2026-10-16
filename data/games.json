@@ -22826,5 +22826,71 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-16T14:23:43.860Z"
+  },
+  {
+    "slug": "geoguessr",
+    "name": "GeoGuessr",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/252/252fea2a340c8f398ca56ddb7649a20e.jpg",
+    "released": "2025-05-08",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Casual",
+      "Action"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/0a0/0a005561eeb8a9e178529ccca3d623f7.jpg",
+      "https://media.rawg.io/media/screenshots/0d0/0d03e16fc04f85784787ed34399a353b.jpg",
+      "https://media.rawg.io/media/screenshots/790/790bda147ae3d788afe4811637df80f2.jpg",
+      "https://media.rawg.io/media/screenshots/1b1/1b1f2f5bef596adc6db68bec6ffc851c.jpg",
+      "https://media.rawg.io/media/screenshots/252/252fea2a340c8f398ca56ddb7649a20e.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-16T16:24:28.974Z"
+  },
+  {
+    "slug": "the-witchs-bakery",
+    "name": "The Witch's Bakery",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/437/437d08f9446cf426cfba63e103f854fe.jpg",
+    "released": "2018-03-18",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "Web"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/437/437d08f9446cf426cfba63e103f854fe.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-16T16:24:29.711Z"
+  },
+  {
+    "slug": "thank-you-bus-driver",
+    "name": "Thank You Bus Driver",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/730/730de75e5e4b795f4540ed2ca03d055f.jpg",
+    "released": "2026-10-13",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/9a5/9a5e545fd44862ada4e7113d049eb1de.jpg",
+      "https://media.rawg.io/media/screenshots/ce8/ce8223957a5321f7074dbc12ae2d8e24.jpg",
+      "https://media.rawg.io/media/screenshots/aeb/aeb43a955442bb8784c1c4f6517f8f89.jpg",
+      "https://media.rawg.io/media/screenshots/7f0/7f0b9363e401e7d68e1aaedc0ae4caff.jpg",
+      "https://media.rawg.io/media/screenshots/b7e/b7e495be0564b0e5c706cb5c1074dffb.jpg",
+      "https://media.rawg.io/media/screenshots/954/9540d0f3159a6dbaa48128a52e956aed.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-16T16:24:30.458Z"
   }
 ]
