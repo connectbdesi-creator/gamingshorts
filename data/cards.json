@@ -1,5 +1,53 @@
 [
   {
+    "id": "e66776b6ef12",
+    "slug": "metro-exodus-last-light-and-2033-plus-dlc-available-for-under-3",
+    "headline": "Metro Exodus, Last Light, And 2033 Plus DLC Available For Under $3",
+    "summary": "TheGamer reports on affordable DLC deals for critically acclaimed shooters Metro Exodus, Last Light, and 2033. Discounts are available across multiple platforms.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/you-can-currently-grab-every-metro-game-and-dlc-for-less-than-3/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/1920x1080-2026-10-16t083231-136.png",
+    "published_at": "2026-10-16T07:35:17.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "metro-exodus",
+    "game_label": "Metro Exodus"
+  },
+  {
+    "id": "4701bff62980",
+    "slug": "street-fighter-movie-easter-eggs-every-special-move-fighter-and-stage",
+    "headline": " Street Fighter movie Easter eggs: every special move, fighter and stage we spotted in the Capcom adaptation ",
+    "summary": "Here's every Street Fighter video game reference we clocked in the Street Fighter movie",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/live-action-movies/street-fighter-movie-easter-eggs/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/5KCnSN4Vk7LzBmPQLuxpr4-1920-80.jpg",
+    "published_at": "2026-10-16T07:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "ef85bc02472f",
     "slug": "street-fighter-6-reveals-street-fighter-movie-outfits-heres-every-free",
     "headline": "Street Fighter 6 Reveals Street Fighter Movie Outfits, Here's Every Free Code",
@@ -10,6 +58,10 @@
       {
         "name": "Nintendo Life",
         "url": "https://www.nintendolife.com/news/2026/10/street-fighter-6-reveals-street-fighter-movie-outfits-heres-every-free-code"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/street-fighter-6-reveals-street-fighter-movie-ex-colours-heres-every-free-code"
       }
     ],
     "image_url": "https://images.nintendolife.com/2b1f3c6598acd/large.jpg",
@@ -4626,59 +4678,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "8f5ecc435475",
-    "slug": "trollheim-gnomes-brings-nordic-folklore-to-survival-crafting-game",
-    "headline": "Trollheim: Gnomes Brings Nordic Folklore to Survival Crafting Game",
-    "summary": "IGN announces Trollheim: Gnomes, a PC survival crafting game inspired by Nordic folklore, from a team of ex-Mojang developers. The game aims to capture the mystery and whimsy of the region's folk tales and mythology.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/trollheim-gnomes-aims-to-bring-the-mystery-and-whimsy-of-nordic-folklore-to-a-survival-crafting-game"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/13/trollheimgnomes-2026-10-12-6-1791907649112.png",
-    "published_at": "2026-10-15T13:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "trollheim-gnomes",
-    "game_label": "Trollheim: Gnomes"
-  },
-  {
-    "id": "2bb6ad64b1df",
-    "slug": "gta-6-barely-makes-the-cut-for-the-game-awards-game-of-the-year-vote",
-    "headline": "GTA 6 Barely Makes the Cut for The Game Awards' Game of the Year Vote",
-    "summary": "The Game Awards' Game of the Year vote has revealed details on the eligibility criteria, and Grand Theft Auto 6 has made it into the list, narrowly beating the cut",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/gta-6-barely-makes-the-cut-for-the-game-awards-game-of-the-year-vote"
-      },
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/gta-6-eligible-game-of-the-year-the-game-awards-2026/"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/d379b301164c3/large.jpg",
-    "published_at": "2026-10-15T13:00:00.000Z",
-    "hype_signal": 75,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   }
 ]
