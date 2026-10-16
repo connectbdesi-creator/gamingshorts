@@ -22892,5 +22892,90 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-16T16:24:30.458Z"
+  },
+  {
+    "slug": "shrek-2",
+    "name": "Shrek 2: The Game",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/bfd/bfddaba307534d9e6da0fb1ae0666ad6.jpg",
+    "released": "2004-04-28",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Arcade"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox",
+      "PlayStation 2",
+      "GameCube",
+      "Game Boy Advance"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/39b/39b58ff4f4a1bf908b1464bc9d4888bc.jpg",
+      "https://media.rawg.io/media/screenshots/cbf/cbf9b03af3d28a636d74b044e722ba74.jpg",
+      "https://media.rawg.io/media/screenshots/32e/32e08aff34f1ec2c2cc2b751426821bb.jpg",
+      "https://media.rawg.io/media/screenshots/3d3/3d3082857b596ad6f809898d12ed2afe.jpg",
+      "https://media.rawg.io/media/screenshots/28d/28df6391f569fa0d33b38ed603cdea62.jpg",
+      "https://media.rawg.io/media/screenshots/dde/dde606ea0be0695e1978db1c6fa345a9.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-16T18:24:56.392Z"
+  },
+  {
+    "slug": "toxic-crusaders",
+    "name": "Toxic Crusaders",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/6ad/6ad8b2b8b9412664aff314ae527f5de0.jpg",
+    "released": "1992-04-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Platformer"
+    ],
+    "platforms": [
+      "Game Boy",
+      "NES",
+      "Genesis"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/864/864a7dc22ce8caa91634bd75177a1c3e.jpg",
+      "https://media.rawg.io/media/screenshots/363/36319b187e1d4c9e5404ea1e12dc9c21.jpg",
+      "https://media.rawg.io/media/screenshots/92c/92c747fab35e43ce4508f98519a2c9fa.jpg",
+      "https://media.rawg.io/media/screenshots/f9e/f9e0d2d1434422bc5ad855a15050170a.jpg",
+      "https://media.rawg.io/media/screenshots/371/37141c27291025cdafff6e773c6da88e.jpg",
+      "https://media.rawg.io/media/screenshots/045/04588c0a73a550da306eb49c2d51f31b.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-16T18:24:57.439Z"
+  },
+  {
+    "slug": "coral-island",
+    "name": "Coral Island",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/196/196381a3afc69bd73d4374fdbf5ef774.jpg",
+    "released": "2022-10-11",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Casual",
+      "Strategy",
+      "Simulation",
+      "Indie"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/e70/e7002b72d94e92296a575b6b17f9d6f6.jpg",
+      "https://media.rawg.io/media/screenshots/f7e/f7e925e8f1cd44fe9b74a33de299afe2.jpg",
+      "https://media.rawg.io/media/screenshots/7e8/7e81725e24d824ad0e09b5c50a9d16b3.jpg",
+      "https://media.rawg.io/media/screenshots/cd8/cd8a4ff5bcb601f6f6376ff604dd7594.jpg",
+      "https://media.rawg.io/media/screenshots/c3b/c3b64ec89e2eb20c9276a0f93b8629a6.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-16T18:24:57.937Z"
   }
 ]
