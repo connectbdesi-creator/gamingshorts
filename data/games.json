@@ -23071,5 +23071,83 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-17T12:21:36.994Z"
+  },
+  {
+    "slug": "arcana-unleashed",
+    "name": "Spire of Chaos: Arcana Unleashed",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/823/82368a4f51b614146b9a9d6fad2fae05.jpg",
+    "released": "2026-04-10",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Action"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/6f1/6f1ed82b7bfc2e96b76a7bad29485b2d.jpg",
+      "https://media.rawg.io/media/screenshots/123/123e01e0164de0171f37aafcfefd8601.jpg",
+      "https://media.rawg.io/media/screenshots/a33/a33d406463463bb91be54ca565be0bf0.jpg",
+      "https://media.rawg.io/media/screenshots/78a/78afbd36d2895117638173ec735918f7.jpg",
+      "https://media.rawg.io/media/screenshots/f05/f05116c379d858e2fe9dceeb756ba52b.jpg",
+      "https://media.rawg.io/media/screenshots/8fa/8fad6ec5d1f3a65306357995429fe01d.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-17T16:21:34.949Z"
+  },
+  {
+    "slug": "samson",
+    "name": "Samson",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/89d/89dd76fda9a181482f32fc02f3f63164.jpeg",
+    "released": "2026-04-08",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Racing",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c57/c575ee5852944e6e15a0b785fb250bd1.jpg",
+      "https://media.rawg.io/media/screenshots/c94/c94479592f0b10bbe306d1f550acaae9.jpg",
+      "https://media.rawg.io/media/screenshots/33c/33cb745561eee38fe72403f480ef26ce.jpg",
+      "https://media.rawg.io/media/screenshots/b7d/b7d351a134e1a5dc12f75fadab809d52.jpg",
+      "https://media.rawg.io/media/screenshots/08c/08cfabf1b982c4e33fc3b4eca2d1a0df.jpg",
+      "https://media.rawg.io/media/screenshots/e36/e36cd150036ae2f46e57221ba5eaa9be.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-17T16:21:35.255Z"
+  },
+  {
+    "slug": "warrior-cats",
+    "name": "Warrior Cats",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/02f/02f01cbed71c59ec0cae253d1d5312fa.jpg",
+    "released": "2022-05-25",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Platformer",
+      "RPG",
+      "Simulation"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/2d6/2d64535f24c21517652eb4836d903199.jpg",
+      "https://media.rawg.io/media/screenshots/02f/02f01cbed71c59ec0cae253d1d5312fa.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-17T16:21:35.610Z"
   }
 ]
