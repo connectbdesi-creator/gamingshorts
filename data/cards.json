@@ -1,5 +1,29 @@
 [
   {
+    "id": "65d083320dca",
+    "slug": "pokemon-pokeopia-event-habitats-and-pokemon-list",
+    "headline": "Pokémon Pokéopia Event Habitats and Pokémon List",
+    "summary": "Pokémon Pokéopia has revealed its limited-time event habitats and Pokémon, along with what's required to create them.",
+    "category": "releases",
+    "platform_tags": [
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/pokemon-pokopia-event-habitat-dex-pokedex-list-requirements-unlock/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/obs64_2026-04-28_14-23-15.jpg",
+    "published_at": "2026-10-17T04:01:19.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pokemon-pokopia",
+    "game_label": "Pokémon Pokopia"
+  },
+  {
     "id": "ac74a6b6e73f",
     "slug": "super-smash-bros-player-banned-from-tournament",
     "headline": "Super Smash Bros. Player Banned From Tournament",
@@ -22,6 +46,33 @@
     "comment_count": 0,
     "game": "super-smash-bros",
     "game_label": "Super Smash Bros."
+  },
+  {
+    "id": "269a9d4a0196",
+    "slug": "the-wolf-among-us-remastered-for-switch-delayed-to-unannounced-date",
+    "headline": "The Wolf Among Us Remastered for Switch delayed to unannounced date",
+    "summary": "Telltale Games has delayed the Switch version of The Wolf Among Us Remastered from its …",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/the-wolf-among-us-remastered-for-switch-delayed-to-unannounced-date"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/the-wolf-among-us-remastered-has-been-delayed-for-switch"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/269a9d4a0196/800/600",
+    "published_at": "2026-10-17T01:55:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "eef2060902d3",
@@ -965,29 +1016,6 @@
     ],
     "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Play-For-Free-Stress-Test.jpg?w=300",
     "published_at": "2026-10-16T18:45:44.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "269a9d4a0196",
-    "slug": "the-wolf-among-us-remastered-for-switch-delayed-to-unannounced-date",
-    "headline": "The Wolf Among Us Remastered for Switch delayed to unannounced date",
-    "summary": "Telltale Games has delayed the Switch version of The Wolf Among Us Remastered from its …",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/the-wolf-among-us-remastered-for-switch-delayed-to-unannounced-date"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/269a9d4a0196/800/600",
-    "published_at": "2026-10-16T18:36:20.000Z",
     "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
@@ -4260,6 +4288,30 @@
     "game_label": null
   },
   {
+    "id": "40182dffdb78",
+    "slug": "french-retailer-micromania-offers-unique-ocarina-of-time-pre-order-bon",
+    "headline": "French retailer Micromania offers unique Ocarina of Time pre-order bonus",
+    "summary": "French retailer Micromania is offering a PAL N64 replica slipcase with pre-orders for its Legend of Zelda Ocarina of Time remake",
+    "category": "deals",
+    "platform_tags": [
+      "switch",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/the-legend-of-zelda/this-french-retailer-might-have-the-best-ocarina-of-time-pre-order-bonus-ive-seen-yet/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/CgbycjKPYeJNcBWXRBKQPG-1920-80.jpg",
+    "published_at": "2026-10-16T10:44:58.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-legend-of-zelda-ocarina-of-time",
+    "game_label": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
     "id": "812a2383ec4f",
     "slug": "steam-is-introducing-achievement-sets-designed-to-improve-the-achievem",
     "headline": "Steam is introducing Achievement Sets, designed to improve the achievement earning experience",
@@ -4281,6 +4333,29 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "a6732fbd37ce",
+    "slug": "everything-you-need-to-know-for-your-first-play-pokemon-event",
+    "headline": "Everything You Need to Know for Your First Play! Pokémon Event",
+    "summary": "GamesRadar+ offers a primer on the upcoming Play! Pokémon event, covering essential information for new attendees.",
+    "category": "deals",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/pokemon/voici-tout-ce-dont-vous-aurez-besoin-pour-votre-premier-evenement-play-pokemon/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/3uqy4jxuoNAXyfEdBLvzSb-1920-80.jpg",
+    "published_at": "2026-10-16T10:37:40.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "play-pokemon",
+    "game_label": "Play! Pokémon"
   },
   {
     "id": "b6be35ff2ff3",
@@ -4552,69 +4627,6 @@
     "image_url": "https://images.nintendolife.com/2389eb19032fe/large.jpg",
     "published_at": "2026-10-16T09:30:00.000Z",
     "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "08e36b80bfd5",
-    "slug": "fishlabs-announces-layoffs-due-to-changing-project-requirements-develo",
-    "headline": "Fishlabs announces layoffs due to \"changing project requirements,\" development and support teams affected",
-    "summary": "German developer Fishlabs has announced workforce reductions impacting its development and support teams.\n Read more",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/fishlabs-announces-layoffs-due-to-changing-project-requirements-development-and-support-teams-affected"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/fishlabs.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-16T09:27:33.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "afa23467b7b9",
-    "slug": "jagex-cancels-runescape-reignited-less-than-two-weeks-after-it-was-ann",
-    "headline": "Jagex cancels RuneScape Reignited less than two weeks after it was announced, due to \"a ton\" of player feedback",
-    "summary": "RuneScape: Reignited, a shiny new version of the long-running British MMORPG, has been cancelled less than two weeks after it was revealed.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/runescape-reignited-cancelled-two-weeks-player-feedback"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/runescape-reignited-logo.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-16T09:07:10.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "bcadcec951a4",
-    "slug": "humbles-cozy-after-dark-showcase-bundle-is-perfect-for-halloween-with",
-    "headline": "Humble’s Cozy After Dark Showcase Bundle Is Perfect for Halloween, With 10 Spooky Indie Games for $12",
-    "summary": "Humble Bundle's Cozy After Dark Showcase bundle features 10 wonderfully spooky indie games you can grab for as low as $12, including Fear the Spotlight, Paradise Killer, and more.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/humbles-cozy-after-dark-showcase-bundle-is-perfect-for-halloween-with-10-spooky-indie-games-for-12"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2024/10/18/fearthespotlightlaunchtrailer-ign-blogroll-1729274858665.jpg",
-    "published_at": "2026-10-16T08:58:10.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
