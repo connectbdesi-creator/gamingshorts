@@ -23010,5 +23010,66 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-17T06:21:17.558Z"
+  },
+  {
+    "slug": "grand-theft-auto-iv",
+    "name": "Grand Theft Auto IV",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg",
+    "released": "2008-04-29",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/07f/07f7cf80741ff306e4eca982c3e64ac8.jpg",
+      "https://media.rawg.io/media/screenshots/fef/fefd51ec13aa33acbd796ef79bcef7cb.jpg",
+      "https://media.rawg.io/media/screenshots/b78/b78ffd258d5793be704c380e572748bc.jpg",
+      "https://media.rawg.io/media/screenshots/17c/17c85ab9dfc4fda8e1e5ba72932ef2bf.jpg",
+      "https://media.rawg.io/media/screenshots/a12/a12ca99cc74c1e7eba7100b0891dd1e0.jpg",
+      "https://media.rawg.io/media/screenshots/b25/b254f9729ae3f36a9ccffccaa01d5cf6.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-17T12:21:32.463Z"
+  },
+  {
+    "slug": "grand-theft-auto-vice-city",
+    "name": "Grand Theft Auto: Vice City",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/13a/13a528ac9cf48bbb6be5d35fe029336d.jpg",
+    "released": "2002-10-27",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "iOS",
+      "Android",
+      "macOS",
+      "Xbox",
+      "PlayStation 2",
+      "PS Vita"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/dfd/dfd73edec49df98ca9cd6736eeba1049.jpg",
+      "https://media.rawg.io/media/screenshots/41b/41bab662e69407ebdea4f9c2620ea964.jpg",
+      "https://media.rawg.io/media/screenshots/866/8669e298a904fce58ba84ab0a9205c01.jpg",
+      "https://media.rawg.io/media/screenshots/579/57946b3f520595bf96c77e9c36ea5a9a.jpg",
+      "https://media.rawg.io/media/screenshots/8d8/8d84dcd621ea9cc54ffec9ab6040f799.jpg",
+      "https://media.rawg.io/media/screenshots/bd2/bd2b4586b6acabf7ee39400d3ad5fa66.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-17T12:21:36.994Z"
   }
 ]
