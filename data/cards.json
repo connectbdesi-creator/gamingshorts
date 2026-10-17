@@ -1,5 +1,53 @@
 [
   {
+    "id": "701fc794c06e",
+    "slug": "aspyr-announces-shrek-2-remaster",
+    "headline": "Aspyr Announces Shrek 2 Remaster",
+    "summary": "Aspyr Media is remastering Shrek 2 for Nintendo platforms, according to an official Xbox Store listing and promotional trailer. The release was reportedly leaked ahead of schedule.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox",
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/surprise-aspyr-is-remastering-a-shrek-game"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/2d6833e57c2e3/large.jpg",
+    "published_at": "2026-10-17T06:00:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "shrek-2",
+    "game_label": "Shrek 2"
+  },
+  {
+    "id": "42fbc640d9f6",
+    "slug": "the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to",
+    "headline": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter",
+    "summary": "Releasing alongside a major update. Here on Nintendo Life, we first heard about the laid-back co-op farming sim Coral Island back in 2021, when it successfully hit its Kickstarter goal. Now, after overcoming some roadblocks, it seems it's finally getting a Nintendo release. This announcement was shared this week during The MIX Fall Showcase, with Stairway Games and Balor Games…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/416335a352022/large.jpg",
+    "published_at": "2026-10-17T04:05:00.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "65d083320dca",
     "slug": "pokemon-pokeopia-event-habitats-and-pokemon-list",
     "headline": "Pokémon Pokéopia Event Habitats and Pokémon List",
@@ -145,6 +193,32 @@
     "comment_count": 0,
     "game": "grand-theft-auto-6",
     "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "522ba68bf629",
+    "slug": "sonic-racing-crossworlds-year-one-final-content-drop-out-now",
+    "headline": "Sonic Racing: CrossWorlds Year One Final Content Drop Out Now",
+    "summary": "Sega announces the final content update for Sonic Racing: CrossWorlds' first year, set to release on October 13th, 2026.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/reminder-sonic-racing-crossworlds-final-content-drop-of-year-one-is-now-available"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/cc53314210756/large.jpg",
+    "published_at": "2026-10-17T00:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "sonic-racing-crossworlds",
+    "game_label": "Sonic Racing: CrossWorlds"
   },
   {
     "id": "134755209846",
@@ -550,6 +624,10 @@
       {
         "name": "Game Rant",
         "url": "https://gamerant.com/zelda-oot-remake-dark-link-ocarina-of-time/"
+      },
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/the-legend-of-zelda/nintendo-quietly-drops-new-zelda-ocarina-of-time-remake-trailers-casually-giving-us-our-first-ever-look-at-dark-link-and-more/"
       }
     ],
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/zelda-ocarina-of-time-switch-2-dark-link-first-look.jpg",
@@ -1244,6 +1322,29 @@
     ],
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/activision-throws-shade-at-zelda-call-of-duty-gta-6-game-rant.jpg",
     "published_at": "2026-10-16T18:00:16.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "35430bbc67f6",
+    "slug": "blue-prince-inspired-time-loop-mystery-game-quiet-express-cabin-909-ge",
+    "headline": "Blue Prince-inspired time-loop mystery game Quiet Express: Cabin 909 gets Steam demo. Search for an elusive “Cabin 909” on board a train destined to crash in 7 days",
+    "summary": "Quiet Express: Cabin 909 is the latest project by story writer and game director Kazuhide Oka.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/blue-prince-inspired-time-loop-mystery-game-quiet-express-cabin-909-gets-steam-demo/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/35430bbc67f6/800/600",
+    "published_at": "2026-10-16T18:00:00.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -4379,6 +4480,30 @@
     "game_label": null
   },
   {
+    "id": "7539c5916f9c",
+    "slug": "activision-re-releases-classic-cod-games-on-ps4-and-ps5",
+    "headline": "Activision Re-releases Classic CoD Games on PS4 and PS5",
+    "summary": "Activision has re-released ports of Call of Duty: Black Ops 1 and 2 on PS4 and PS5, citing strong demand for retro games. The move is seen as a way to tap into nostalgia for classic gaming experiences.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/call-of-duty/call-of-duty-black-ops-1-and-2-ports-on-ps4-and-ps5-taught-activision-theres-pent-up-demand-to-return-to-good-old-days-so-modern-warfare-4-is-doing-just-that/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/DbvJHGu3fozXKiwsQ94Nih-1920-80.jpg",
+    "published_at": "2026-10-16T10:31:12.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "call-of-duty-black-ops",
+    "game_label": "Call of Duty: Black Ops"
+  },
+  {
     "id": "7a6c6712caaa",
     "slug": "10-games-with-permadeath-that-are-1010-masterpieces",
     "headline": "10 Games With Permadeath That Are 10/10 Masterpieces",
@@ -4511,122 +4636,6 @@
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/jason_and_lucia_13-2.jpg",
     "published_at": "2026-10-16T10:00:16.000Z",
     "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3b7034401281",
-    "slug": "name-that-game-october-17-2026",
-    "headline": "Name That Game (October 17, 2026)",
-    "summary": "Solve physics-bending portal puzzles and jump dimensions as Rivet and Ratchet with today's Name That Game quiz.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/game/name-that-game-2026-10-17/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/game-rant-games-name-that-game-site-banner-graphic.jpg",
-    "published_at": "2026-10-16T10:00:16.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "274cef20a369",
-    "slug": "nine-xbox-games-are-out-today-including-modern-warfare-4-campaign-earl",
-    "headline": "Nine Xbox Games Are Out Today, Including Modern Warfare 4 Campaign Early Access (October 16)",
-    "summary": "Did you pay the Capt. Price for Early Access? It's Friday, people! Which means we have your last daily fix of the week to share with you all. First up is Call of Duty: Modern Warfare 4 which is launching into Campaign Early Access at roughly 10am PDT / 6pm BST today. This gives anyone who preordered the digital versions…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/10/nine-xbox-games-are-out-today-including-modern-warfare-4-campaign-early-access-october-16"
-      },
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/10/10-xbox-games-are-out-today-including-modern-warfare-4-campaign-early-access-october-16"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/6ca5a8f121496/large.jpg",
-    "published_at": "2026-10-16T10:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "818bbbef2080",
-    "slug": "steam-beta-update-separates-multiplayer-and-single-player-achievements",
-    "headline": "Steam Beta Update Separates Multiplayer And Single-Player Achievements",
-    "summary": "Finally, Valve is splitting single-player and multiplayer achievements, but there's far more to this update than the headline.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/steam-achievement-sets-update-beta/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/steam-achievement-over-steam-background.jpg",
-    "published_at": "2026-10-16T09:39:32.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "18344d639fba",
-    "slug": "footage-from-a-reportedly-cancelled-assassins-creed-game-set-in-china",
-    "headline": "Footage from a reportedly cancelled Assassin’s Creed game set in China has leaked",
-    "summary": "The title known as 'Assassin's Creed Destiny' was allegedly cancelled by Ubisoft",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/footage-from-a-reportedly-cancelled-assassins-creed-game-set-in-china-has-leaked/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/18344d639fba/800/600",
-    "published_at": "2026-10-16T09:35:08.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6fb2f22acd2b",
-    "slug": "peak-the-beloved-indie-climber-scales-octobers-stacked-switch-2-releas",
-    "headline": "'Peak', The Beloved Indie Climber, Scales October's Stacked Switch 2 Release Schedule",
-    "summary": "Launching next week! Ever since we first saw Peak climb onto PC last year, we have been jonesing for a Switch 2 port. Aggro Crab and Landfall Games have been teasing that something was in the works for a few months, and now we finally know what it was: Peak is coming to Switch 2! The devs revealed that this…",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/10/peak-the-beloved-indie-climber-scales-octobers-stacked-switch-2-release-schedule"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/2389eb19032fe/large.jpg",
-    "published_at": "2026-10-16T09:30:00.000Z",
-    "hype_signal": 80,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
