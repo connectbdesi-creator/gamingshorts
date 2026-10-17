@@ -23149,5 +23149,122 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-17T16:21:35.610Z"
+  },
+  {
+    "slug": "inscryption",
+    "name": "Inscryption",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/73e/73efc5c0ac6f354271dae610276f617c.jpg",
+    "released": "2021-10-19",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Strategy",
+      "Adventure"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "macOS",
+      "Linux"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/b05/b05b3c2664657a878fe0be740cba8335.jpg",
+      "https://media.rawg.io/media/screenshots/6d0/6d0199eda3d5e8827274978857773602.jpg",
+      "https://media.rawg.io/media/screenshots/dd6/dd62597fb636bdffed95a38452fe42d2.jpg",
+      "https://media.rawg.io/media/screenshots/4b8/4b8f421d9f7363fca2e11b6b055b117f.jpg",
+      "https://media.rawg.io/media/screenshots/61d/61d375ebc17e8b9f119b0e70fd8e2ac4.jpg",
+      "https://media.rawg.io/media/screenshots/e45/e4589b8d586a9495b5f2daa8790a6e17.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-17T20:22:14.527Z"
+  },
+  {
+    "slug": "stray",
+    "name": "Stray",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/cd3/cd3c9c7d3e95cb1608fd6250f1b90b7a.jpg",
+    "released": "2022-07-19",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action",
+      "Puzzle",
+      "Indie",
+      "Platformer"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/6c9/6c9d036518f78895ddf552d2cb7421d6.jpg",
+      "https://media.rawg.io/media/screenshots/444/44480d0f02c17e41dd1d9b58affad214.jpg",
+      "https://media.rawg.io/media/screenshots/e38/e38f600f4ad9145d0bcba128064503db.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-17T20:22:15.319Z"
+  },
+  {
+    "slug": "vampire-the-masquerade-bloodlines",
+    "name": "Vampire: The Masquerade - Bloodlines",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/6f0/6f0a69db053bce957d8328a7253fbb29.jpg",
+    "released": "2004-11-15",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/61f/61faf683ca849b15258e5d403667e8d9.jpg",
+      "https://media.rawg.io/media/screenshots/a5d/a5da9dec7299afd9ec470f8e03a00e4d.jpg",
+      "https://media.rawg.io/media/screenshots/63c/63ce62f0634091e12b9e9c1b0f89f6c4.jpg",
+      "https://media.rawg.io/media/screenshots/418/418853ae4922f68dbdd9744e86a139eb.jpg",
+      "https://media.rawg.io/media/screenshots/b8a/b8a623e09f0bea97e55fefd1d6f753b6.jpg",
+      "https://media.rawg.io/media/screenshots/79f/79f190a914fad2422a8df0b0e3b440d5.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-17T20:22:16.104Z"
+  },
+  {
+    "slug": "heroquest",
+    "name": "HeroQuest",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/84a/84ab19beff69f00ff077d94439275965.jpg",
+    "released": "1991-01-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "Commodore / Amiga",
+      "Atari ST"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/0fc/0fcce079c106ffb5da9bb6373709d44a.jpg",
+      "https://media.rawg.io/media/screenshots/f1d/f1dc87499d61ad286a1d12b5678a133c.jpg",
+      "https://media.rawg.io/media/screenshots/778/77891336dfb949621002b514ef2a0246.jpg",
+      "https://media.rawg.io/media/screenshots/61e/61e7e6da09357f0c9ca53dada800f581.jpg",
+      "https://media.rawg.io/media/screenshots/3cf/3cf35fda0bcdb6b6964d0371d6ab2c2d.jpg",
+      "https://media.rawg.io/media/screenshots/957/9578f33b27a23759dc1c5fd41cde4693.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-17T20:22:17.131Z"
   }
 ]
