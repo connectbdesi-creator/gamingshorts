@@ -1,5 +1,187 @@
 [
   {
+    "id": "b1fd9a1f8d28",
+    "slug": "dragon-quest-viii-reborn",
+    "headline": "Dragon Quest VIII Reborn",
+    "summary": "Square Enix is re-releasing the beloved JRPG on modern consoles and PC with improved graphics and gameplay.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/tales-of-eternia-remastered-release-reviews/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/tales-of-eternia-remastered-official-release-pc-console-gamerant.jpg",
+    "published_at": "2026-10-18T18:00:16.000Z",
+    "hype_signal": 75,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dragon-quest-viii",
+    "game_label": "Dragon Quest VIII"
+  },
+  {
+    "id": "b961e5e97184",
+    "slug": "highly-rated-star-wars-and-double-fine-games-leaving-game-pass",
+    "headline": "Highly Rated Star Wars And Double Fine Games Leaving Game Pass",
+    "summary": "A highly rated Star Wars game and multiple Double Fine classics are leaving Xbox Game Pass this month.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/xbox-game-pass-october-double-fine-star-wars-games-leaving/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/fullthrottleremastered.jpg",
+    "published_at": "2026-10-18T17:58:35.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c67dca5c2ba3",
+    "slug": "425-co-op-tactical-shooter-game-officially-available-on-ps5",
+    "headline": "4.2/5 Co-Op Tactical Shooter Game Officially Available on PS5",
+    "summary": "A well-known co-op tactical shooter on PC is now also available on PlayStation 5, where it has already received very positive user reviews.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/ps5-new-fps-games-squad-alpha-preview/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/squad-official-ps5-free-alpha-preview-release-gamerant.jpg",
+    "published_at": "2026-10-18T17:30:16.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d4ef905c762b",
+    "slug": "jujutsu-kaisen-the-strongest-of-every-era-and-their-greatest-feats-ran",
+    "headline": "Jujutsu Kaisen: The Strongest Of Every Era And Their Greatest Feats, Ranked",
+    "summary": "The article ranks the strongest characters in the Jujutsu Kaisen franchise, highlighting their most impressive feats.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/jujutsu-kaisen-strongest-every-era-their-greatest-feats/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/strongest-of-all-time.jpg",
+    "published_at": "2026-10-18T17:30:16.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "jujutsu-kaisen",
+    "game_label": "Jujutsu Kaisen"
+  },
+  {
+    "id": "f6e70fa3f8c3",
+    "slug": "the-outlast-trials-initial-playtests-went-poorly-designer-says-6-year",
+    "headline": " The Outlast Trials' initial playtests went poorly: Designer says 6-year development took 'a f**king long time' and 'a s**t-ton of prototypes' ",
+    "summary": "Red Barrels co-founder Philippe Morin recently spoke on the trials The Outlast Trials outlasted.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/horror/the-outlast-trials-initial-playtests-went-poorly-designer-says-6-year-development-took-a-f-king-long-time-and-a-s-t-ton-of-prototypes/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/wsP8ZYqL3zitGswbKBRwrd-1920-80.jpg",
+    "published_at": "2026-10-18T17:18:53.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "1214945a0434",
+    "slug": "ps6s-memory-and-storage-costs-reportedly-exceed-680",
+    "headline": "PS6's Memory and Storage Costs Reportedly Exceed $680",
+    "summary": "The cost of the PS6's memory and storage components is reportedly higher than initially expected, with some components costing more than $680",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/ps6-ram-nand-costs-over-680-keplerl2"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/ps6-games-calendar.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-18T17:10:29.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ps6",
+    "game_label": "PS6"
+  },
+  {
+    "id": "3097535a8a95",
+    "slug": "the-physical-element-of-gaming-will-always-be-there-silent-hill-2-rema",
+    "headline": " \"The physical element of gaming will always be there\": Silent Hill 2 Remake CEO on physical media ",
+    "summary": "\"This is the gaming I know, and this is the gaming I expect,\" says Tymon Smektala",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/horror/the-physical-element-of-gaming-will-always-always-be-there-bloober-team-and-broken-mirror-games-want-to-make-physical-media-for-as-long-as-possible/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/3pUNoqqVtcTwgSstgJWviK-1920-80.jpg",
+    "published_at": "2026-10-18T17:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ade09370ce9b",
+    "slug": "drunken-goddess-reflux-developers-ditch-steam-next-fest-demo",
+    "headline": "Drunken Goddess Reflux Developers Ditch Steam Next Fest Demo",
+    "summary": "Drunken Goddess Reflux developers are canceling their Steam Next Fest demo due to concerns about AI clone development",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/drunken-goddess-reflux-demo-canceled/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/drunken-goddess-reflex-drinking-game.jpg",
+    "published_at": "2026-10-18T16:48:39.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "drunken-goddess-reflux",
+    "game_label": "Drunken Goddess Reflux"
+  },
+  {
     "id": "d3f307c31d9d",
     "slug": "the-playstation-6s-memory-components-alone-could-cost-more-than-700",
     "headline": "The PlayStation 6’s Memory Components Alone Could Cost More Than $700",
@@ -300,6 +482,27 @@
     "game_label": null
   },
   {
+    "id": "25dd6460f508",
+    "slug": "a-remaster-of-the-best-shrek-game-ever-just-leaked",
+    "headline": "A Remaster Of The Best Shrek Game Ever Just Leaked",
+    "summary": "Move over Shrek 5, I can't wait to replay the Shrek 2 game when its leaked remaster launches",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/shrek-2-remastered-leak/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22417036/Shrek_2_Movie_Review.jpg",
+    "published_at": "2026-10-18T14:57:20.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "c6c48da08c80",
     "slug": "god-of-war-laufeys-130-collector-box-doesnt-come-with-the-game",
     "headline": "God of War Laufey's £130 Collector Box doesn't come with the game",
@@ -314,6 +517,27 @@
     ],
     "image_url": "https://assetsio.gnwcdn.com/A-peaceful-looking-Faye-in-God-of-War-Laufey.jpg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-10-18T14:47:02.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "40f5d98cf787",
+    "slug": "forza-horizon-is-no-longer-the-king-of-video-game-road-trips",
+    "headline": "Forza Horizon Is No Longer the King of Video Game Road Trips",
+    "summary": "SCS Software's American Truck Simulator: Road Trip DLC adds cars and tourist destinations in a game-changing update",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/american-truck-simulator-road-trip-forza-horizon/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/ats-road-trip-mustang.jpg",
+    "published_at": "2026-10-18T14:30:18.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -4427,233 +4651,5 @@
     "comment_count": 0,
     "game": "drunken-goddess-reflux",
     "game_label": "Drunken Goddess Reflux"
-  },
-  {
-    "id": "63a3b7131292",
-    "slug": "this-espresso-machine-can-run-doom",
-    "headline": "This Espresso Machine Can Run Doom",
-    "summary": "Before caffeinating yourself in the morning, the Fellow Espresso Series 1 machine can actually run 1993's Doom on its small, circular screen. Reddit user FullExtraction showed off the classic FPS, utilizing the brew button to run and steam button to shoot. The scroll wheel on the device turns Doomguy either left or right. There's also a wider-angle video of Doom…",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/this-espresso-machine-can-run-doom/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/05/Doom.jpg?w=300",
-    "published_at": "2026-10-16T18:28:36.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "82f55e235969",
-    "slug": "shrek-2-remaster-leaks-looks-amazing-and-i-need-it-now",
-    "headline": "Shrek 2 Remaster Leaks, Looks Amazing And I Need It Now",
-    "summary": "A remaster of 2004's Shrek 2: The Game is on the way, according to an Xbox.com listing that seems to have been published too soon. The page for the unannounced game--which has since been removed--says the remaster will feature better textures, enhanced UI, and 4K resolution. Like the original PS2, Xbox, and GameCube game, the remaster lets you play solo…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/shrek-2-remaster-leaks-looks-amazing-and-i-need-it-now/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/shrek2.jpg?w=300",
-    "published_at": "2026-10-16T18:21:13.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b44c1d842433",
-    "slug": "best-open-world-rpgs-for-playing-as-a-villain",
-    "headline": "Best Open-World RPGs For Playing As A Villain",
-    "summary": "Betray companions, support ruthless factions, or build a vampire empire in these open-world RPGs that let you embrace a villainous playthrough.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/best-open-world-rpg-games-plat-as-villain-ranked/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/best-open-world-rpgs-for-being-a-villain-ranked.jpg",
-    "published_at": "2026-10-16T18:15:17.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "79a3e17300ce",
-    "slug": "this-new-jujutsu-kaisen-merch-is-perfect-for-stress-relief",
-    "headline": "This New Jujutsu Kaisen Merch Is Perfect for Stress Relief",
-    "summary": "Fans of Jujutsu Kaisen who need to let off some steam won't want to miss some adorable new merch from Good Smile Company.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/jujutsu-kaisen-stress-balls-good-smile-company/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/this-new-jujutsu-kaisen-merch-is-perfect-for-stress-relief-gamerant-feature.jpg",
-    "published_at": "2026-10-16T18:09:16.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "39a5c68d4660",
-    "slug": "world-of-warcraft-forevers-beta-ends-bringing-major-changes-to-racial",
-    "headline": "World of Warcraft: Forever's Beta Ends, Bringing Major Changes to Racial Abilities",
-    "summary": "Blizzard has made significant changes to racial abilities in World of Warcraft: Forever's beta ahead of its October 21 closure",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/wow-forever-just-changed-the-math-on-what-race-to-play-in-a-big-way/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Racial-Ability-Changes.jpg?w=300",
-    "published_at": "2026-10-16T18:01:39.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "world-of-warcraft-forever",
-    "game_label": "World of Warcraft: Forever"
-  },
-  {
-    "id": "db991755ba7b",
-    "slug": "new-rpg-from-final-fantasy-persona-vets-borrows-from-the-past-to-ask-h",
-    "headline": "New RPG From Final Fantasy, Persona Vets Borrows From The Past To Ask How We Can Save The Future",
-    "summary": "Eternal Anima finds surprising strategic depth in letting you foresee your opponent's next move",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/new-rpg-from-final-fantasy-persona-vets-borrows-from-the-past-to-ask-how-we-can-save-the-future-2000746405"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/Eternal-Anima-1280x693.jpg",
-    "published_at": "2026-10-16T18:00:46.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7669ff582206",
-    "slug": "gta-6-recaptures-what-made-gtas-best-dlc-so-great",
-    "headline": "GTA 6 Recaptures What Made GTA's Best DLC So Great",
-    "summary": "The latest Grand Theft Auto 6 gameplay suggests a return to the series' most exciting era, characterized by lavish clubs, high-speed getaways, and high-stakes heists.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-ballad-of-gay-tony/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lucia_caminos_10.jpg",
-    "published_at": "2026-10-16T18:00:18.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "2b5d9b732c85",
-    "slug": "best-tips-and-tricks-for-new-and-returning-players-in-enshrouded-10",
-    "headline": "Best Tips and Tricks for New and Returning Players in Enshrouded 1.0",
-    "summary": "This article provides helpful tips and tricks for new and returning players of Enshrouded, a mysterious and atmospheric game.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/enshrouded-new-players-guide-tips-tricks-what-do-first/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/20617e-1.JPG",
-    "published_at": "2026-10-16T18:00:16.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "enshrouded",
-    "game_label": "Enshrouded"
-  },
-  {
-    "id": "0e8e222bb7e0",
-    "slug": "activision-throws-shade-at-zelda-says-call-of-duty-and-gta-6-are-the-2",
-    "headline": "Activision Throws Shade at Zelda, Says Call of Duty and GTA 6 Are the 2 Biggest Games of the Year",
-    "summary": "In a recent interview, Activision threw some shade at The Legend of Zelda: Ocarina of Time, claiming that MW4 and GTA 6 are the biggest games of 2026.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/biggest-games-2026-cod-mw4-gta-6-zelda/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/activision-throws-shade-at-zelda-call-of-duty-gta-6-game-rant.jpg",
-    "published_at": "2026-10-16T18:00:16.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "35430bbc67f6",
-    "slug": "blue-prince-inspired-time-loop-mystery-game-quiet-express-cabin-909-ge",
-    "headline": "Blue Prince-inspired time-loop mystery game Quiet Express: Cabin 909 gets Steam demo. Search for an elusive “Cabin 909” on board a train destined to crash in 7 days",
-    "summary": "Quiet Express: Cabin 909 is the latest project by story writer and game director Kazuhide Oka.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/blue-prince-inspired-time-loop-mystery-game-quiet-express-cabin-909-gets-steam-demo/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/35430bbc67f6/800/600",
-    "published_at": "2026-10-16T18:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
