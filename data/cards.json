@@ -1,5 +1,104 @@
 [
   {
+    "id": "ffef472b7b83",
+    "slug": "pokemon-developer-ends-major-updates-just-2-months-after-launch",
+    "headline": "Pokémon Developer Ends Major Updates Just 2 Months After Launch",
+    "summary": "Game Freak has announced it will cease major updates for its new RPG, following a busy post-launch period, just two months after its launch.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/beast-of-reincarnation-major-updates-ending-october-2026/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/pokemon-developer-is-ending-major-updates-for-its-new-rpg-just-2-months-after-launch.jpg",
+    "published_at": "2026-10-18T22:00:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pokemon",
+    "game_label": "Pokémon"
+  },
+  {
+    "id": "c59cd6adafc5",
+    "slug": "star-wars-galactic-racer-takes-a-different-approach-to-losing",
+    "headline": "Star Wars: Galactic Racer Takes a Different Approach to Losing",
+    "summary": "Star Wars: Galactic Racer offers a unique approach to losing in racing games, making each race feel more intense and high-stakes.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/star-wars-galactic-racer-mario-kart-roguelike-progression/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/star-wars-galactic-racer-game-rant-feature-2.jpg",
+    "published_at": "2026-10-18T22:00:15.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "star-wars-galactic-racer",
+    "game_label": "Star Wars: Galactic Racer"
+  },
+  {
+    "id": "bb9a4eb95e49",
+    "slug": "buffys-redemption-arc-takes-an-early-hint-in-tv-show",
+    "headline": "Buffy's Redemption Arc Takes an Early Hint in TV Show",
+    "summary": "A lesser-known scene in Buffy the Vampire Slayer's later seasons foreshadows Spike's character development, hinting at his future redemption arc.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/buffy-scene-foreshadowed-spike-redemption/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/spike-hurting-buffy-summers-in-buffy-the-vampire-slayer.jpg",
+    "published_at": "2026-10-18T22:00:15.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "4a5e352f2b13",
+    "slug": "decomp-hub-closes-due-to-ai",
+    "headline": "Decomp Hub Closes Due to AI",
+    "summary": "Popular decompilation platform decomp.dev shut down due to overwhelming AI-driven contributions, leaving the community without a central hub for mods and ports.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/video-game-decomp-hub-closes-due-to-ai-the-community-aspect-of-decompilation-has-been-broken-2000747302"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/10/neuroman2.jpg",
+    "published_at": "2026-10-18T20:51:52.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "7ced206734a0",
     "slug": "new-steam-game-is-basically-kikis-delivery-service-in-video-game-form",
     "headline": "New Steam Game is Basically Kiki’s Delivery Service in Video Game Form",
@@ -44,6 +143,32 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "5cbc39bbe967",
+    "slug": "bloober-team-pledges-to-continue-physical-game-development",
+    "headline": "Bloober Team Pledges to Continue Physical Game Development",
+    "summary": "Bloober Team, the developer behind the Silent Hill remake, aims to continue producing physical game versions indefinitely.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/silent-hill-remake-studio-wants-to-make-physical-games-for-as-long-as-possible"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2024/05/30/silenthill2-1717063971235.jpg",
+    "published_at": "2026-10-18T19:55:44.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "silent-hill",
+    "game_label": "Silent Hill"
   },
   {
     "id": "4a5942b295a8",
@@ -4542,120 +4667,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "c42f01701d1f",
-    "slug": "i-havent-wanted-to-100-a-game-in-a-long-time-but",
-    "headline": " I haven't wanted to 100% a game in a long time, but… ",
-    "summary": "I've only played a bit of offroad driving sim Over the Hill, but I'm already hooked. Or should I say: winched.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/sim/i-havent-wanted-to-100-percent-a-game-in-a-long-time-but/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/uxbqKcfdStUrdjecNzfTwa-1920-80.jpg",
-    "published_at": "2026-10-16T20:07:29.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "516c44ed4248",
-    "slug": "how-should-video-game-ownership-work-in-an-all-digital-future",
-    "headline": "How Should Video Game Ownership Work In An All-Digital Future?",
-    "summary": "Legislative pressure could force companies to change how digital game licenses work",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/how-should-video-game-ownership-work-in-an-all-digital-future-2000746817"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/GettyImages-2295116957-1-1280x853.jpg",
-    "published_at": "2026-10-16T20:00:33.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6e620f5c1cfe",
-    "slug": "these-are-the-actual-top-10-highest-rated-games-of-2026",
-    "headline": "These Are the ACTUAL Top 10 Highest-Rated Games of 2026",
-    "summary": "With confusion surrounding ports and DLC, these 10 games are the true highest-rated new releases of 2026.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/best-games-2026-so-far-metacritic-opencritic/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/best-games-2026-metacritic.jpg",
-    "published_at": "2026-10-16T20:00:16.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "03e7bb91cfec",
-    "slug": "call-of-duty-modern-warfare-4-review-in-progress",
-    "headline": "Call of Duty: Modern Warfare 4 Review-In-Progress",
-    "summary": "GamesRadar+ shares early impressions of Call of Duty: Modern Warfare 4's campaign, highlighting spectacular set pieces and a hard-to-put-down experience.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-captain-prices-fate-explained"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/qWAFyRzYZFUvCQweT9C2hk-1920-80.jpg",
-    "published_at": "2026-10-16T20:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "call-of-duty-modern-warfare-4",
-    "game_label": "Call of Duty: Modern Warfare 4"
-  },
-  {
-    "id": "e5c45da8dce1",
-    "slug": "ghost-of-yotei-sales-lag-behind-tsushima-on-ps5-but-still-strong",
-    "headline": "Ghost of Yotei Sales Lag Behind Tsushima on PS5, But Still Strong",
-    "summary": "Ghost of Yōtei sales are slower than expected compared to Ghost of Tsushima, but it's still performing well on PlayStation 5.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/ghost-of-yotei-sales-lagging-behind-tsushima-but-still-strong-on-ps5-analyst-estimates-show"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2025/09/25/scwk6j-1758769803399.jpg",
-    "published_at": "2026-10-16T19:59:45.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "ghost-of-yotei",
-    "game_label": "Ghost of Yōtei"
   }
 ]
