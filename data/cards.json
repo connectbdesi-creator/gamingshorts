@@ -1,5 +1,120 @@
 [
   {
+    "id": "60224f5701c5",
+    "slug": "ai-laws-and-game-development",
+    "headline": "AI Laws and Game Development",
+    "summary": "Game studios must navigate the increasing use of AI in game development, as laws and regulations surrounding it continue to evolve.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/the-ai-state-of-play-ai-laws-and-game-development"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/steve-a-johnson-1FD-E7Ioblw-unsplash-(1).jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-19T08:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "aae734746c3b",
+    "slug": "ukie-partners-with-sheridans-on-ai-compliance-and-accreditation-servic",
+    "headline": "UKIE partners with Sheridans on AI Compliance and Accreditation Service to guide UK studios in using AI lawfully and responsibly",
+    "summary": "UKIE has partnered with law firm Sheridans to provide an AI Compliance and Accreditation Service, enabling studios across the UK games industry to use AI lawfully and responsibly.\n Read more",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/ukie-partners-with-sheridans-on-ai-compliance-and-accreditation-service-to-guide-uk-studios-in-using-ai-lawfully-and-responsibly"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-16-150111.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-19T08:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9de6cf0331b7",
+    "slug": "rudolph-game-on-switch-2-unplayable-due-to-missing-download",
+    "headline": "Rudolph Game On Switch 2 Unplayable Due To Missing Download",
+    "summary": "A new Rudolph game on Switch 2 is proving problematic because it hasn't been uploaded to the eShop, rendering its game-key card useless.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/rudolph-switch-2-game-unplayable-missing-download/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/mixcollage-19-oct-2026-07-45-am-7272.jpg",
+    "published_at": "2026-10-19T07:03:19.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f551de6010a4",
+    "slug": "cyberpunk-edgerunners-ii-the-kotaku-review",
+    "headline": "Cyberpunk: Edgerunners II: The Kotaku Review",
+    "summary": "Kotaku reviews the second season of Cyberpunk: Edgerunners II, stating that it trades away the first season's focus for no significant gain.",
+    "category": "reviews",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/cyberpunk-edgerunners-season-2-review-netflix-studio-trigger-2000746849"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/10/roman-1280x719.jpg",
+    "published_at": "2026-10-19T07:01:04.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "cyberpunk-edgerunners-ii",
+    "game_label": "Cyberpunk: Edgerunners II"
+  },
+  {
+    "id": "519b801fb9f0",
+    "slug": "amazon-expands-luna-to-fire-tvs-in-a-dozen-more-countries",
+    "headline": "Amazon expands Luna to Fire TVs in a dozen more countries",
+    "summary": "Amazon announced that it’s bringing its Luna gaming service to the Prime Video app in twelve new countries. Beginning today, players in new countries...\nThe post Amazon expands Luna to Fire TVs in a dozen more countries appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/amazon-expands-luna-to-fire-tvs-in-a-dozen-more-countries/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/519b801fb9f0/800/600",
+    "published_at": "2026-10-19T07:01:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "6dbceca6544c",
     "slug": "mtg-festival-in-a-box-secret-lair-release-for-magiccon-atlanta",
     "headline": "MTG Festival In A Box Secret Lair Release For MagicCon Atlanta",
@@ -4557,119 +4672,5 @@
     "comment_count": 0,
     "game": "monopoly-go",
     "game_label": "Monopoly GO"
-  },
-  {
-    "id": "75fbf5a476b8",
-    "slug": "retro-survival-horror-game-on-steam-channels-ps1-resident-evil",
-    "headline": "Retro Survival Horror Game on Steam Channels PS1 Resident Evil",
-    "summary": "A new Steam survival horror game has been spotted, featuring classic Resident Evil elements like fixed cameras and scarce resources. The game's atmosphere and puzzles are reminiscent of PS1 era survival horror games.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/new-steam-game-like-resident-evil-phase-zero-ps1-survival-horror/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/a-dark-haired-woman-in-a-red-jacket-aims-a-double-barreled-shotgun-at-a-massive-grotesque-mutant-creature-in-a-dimly-lit-alley-in-the-survival-horror-game-phase-zero.jpg",
-    "published_at": "2026-10-16T21:45:15.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "36d71be50b37",
-    "slug": "the-legend-of-zelda-physical-release-announced",
-    "headline": "The Legend of Zelda Physical Release Announced",
-    "summary": "A new physical release of The Legend of Zelda is coming, allowing fans to pre-order the upcoming physical copy, as more details have been revealed.",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/zelda-totk-statue-tears-of-the-kingdom/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/new-official-zelda-release-revealed.jpg",
-    "published_at": "2026-10-16T21:32:45.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-legend-of-zelda",
-    "game_label": "The Legend of Zelda"
-  },
-  {
-    "id": "7991cae56510",
-    "slug": "fans-are-comparing-grand-theft-auto-6s-latest-trailer-to-its-first-and",
-    "headline": "Fans Are Comparing Grand Theft Auto 6′s Latest Trailer To Its First And Complaining That It’s A Blurry ‘Downgrade’",
-    "summary": "God forbid someone in Rockstar Games' marketing department decided to add a little artistic flair to a trailer",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/fans-are-comparing-grand-theft-auto-6s-latest-trailer-to-its-first-and-complaining-that-its-a-blurry-downgrade-2000746855"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/Grand-Theft-Auto-6-Launch-Trailer-image-Rockstar-Games-1280x720.jpg",
-    "published_at": "2026-10-16T21:30:28.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2f46e417d364",
-    "slug": "diablo-4-players-discover-missing-armor-in-new-update",
-    "headline": "Diablo 4 Players Discover Missing Armor in New Update",
-    "summary": "Players spent weeks searching for missing armor in Diablo 4, only to find it hidden in the latest update.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/diablo/diablo-4-players-spent-weeks-searching-for-missing-armor-only-for-blizzard-to-quietly-sneak-it-into-the-latest-update/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/2CDbMNMyiAoGb3GurKhkJF-1920-80.jpg",
-    "published_at": "2026-10-16T21:30:27.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "diablo-4",
-    "game_label": "Diablo 4"
-  },
-  {
-    "id": "0f022952a37f",
-    "slug": "baldurs-gate-3-console-gets-a-bunch-of-new-halloween-content",
-    "headline": "Baldur's Gate 3 Console Gets A Bunch Of New Halloween Content",
-    "summary": "Spooky season is upon us, and Larian just added some new Halloween-inspired content to Baldur's Gate 3.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/baldurs-gate-3-console-version-new-halloween-content/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/01/baldur-s-gate-3-withers-up-close.jpg",
-    "published_at": "2026-10-16T21:30:19.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
