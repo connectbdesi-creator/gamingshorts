@@ -1,5 +1,100 @@
 [
   {
+    "id": "6dbceca6544c",
+    "slug": "mtg-festival-in-a-box-secret-lair-release-for-magiccon-atlanta",
+    "headline": "MTG Festival In A Box Secret Lair Release For MagicCon Atlanta",
+    "summary": "The Secret Lair Mystery Booster Commander Edition is finally available for purchase at MagicCon Atlanta",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/mtg-festival-in-a-box-magiccon-atlanta-queue-countdown/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/a-promo-image-for-the-mtg-festival-in-a-box-for-magiccon-atlanta-2026.jpg",
+    "published_at": "2026-10-19T04:01:18.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "mtg-festival-in-a-box",
+    "game_label": "MTG Festival In A Box"
+  },
+  {
+    "id": "979abb071bb9",
+    "slug": "steam-week-in-review-steam-next-fest-hype",
+    "headline": "Steam Week in Review: Steam Next Fest Hype",
+    "summary": "Steam Next Fest has released over 8,000 demos, showcasing new game projects. This event highlights upcoming titles and indie games. Steam is also focusing on community engagement and developer relationships. The event has created a buzz around the gaming industry.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-next-fest-has-over-8-000-demos-as-worthless-vibe-coded-slop-levels-up/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/FrgMgQ2p7MyoQneDwiatAg-1920-80.png",
+    "published_at": "2026-10-19T03:00:45.000Z",
+    "hype_signal": 75,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9e512bf38449",
+    "slug": "10-nes-games-that-are-still-worth-playing-from-start-to-finish",
+    "headline": "10 NES Games That Are Still Worth Playing From Start to Finish",
+    "summary": "From start to finish, these 10 NES games reward every second of the time you invest in them, even decades after the fact.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/best-nes-games/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/6823649/nes-classic-trailer-screencap_1920.jpg",
+    "published_at": "2026-10-19T02:34:47.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5639057d57da",
+    "slug": "9-best-dlcs-that-were-even-better-than-the-base-game",
+    "headline": "9 Best DLCs That Were Even Better Than the Base Game ",
+    "summary": "From Hell weddings to alien hive-minds, these nine DLCs took a hard swerve away from the games they built off.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/best-dlcs-video-games/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23377462/The_Witcher_3_Wild_Hunt_Hearts_of_Stone_Nobody_puts_Geralt_in_a_corner_RGB.jpeg",
+    "published_at": "2026-10-19T02:24:58.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "ad4162515be7",
     "slug": "10-near-perfect-ps4-games-nobody-played",
     "headline": "10 Near-Perfect PS4 Games Nobody Played",
@@ -92,6 +187,59 @@
     "comment_count": 0,
     "game": "call-of-duty-modern-warfare-4",
     "game_label": "Call of Duty: Modern Warfare 4"
+  },
+  {
+    "id": "5ed0bff62c2c",
+    "slug": "how-to-get-more-inventory-slots-in-over-the-hill",
+    "headline": "How to Get More Inventory Slots in Over the Hill",
+    "summary": "A guide for Over the Hill players to increase their inventory capacity and carry more items on their adventures.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/over-the-hill-how-to-increase-your-inventory-slots/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/more-inventory-slots-over-the-hill-2.jpg",
+    "published_at": "2026-10-18T22:57:34.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "over-the-hill",
+    "game_label": "Over the Hill"
+  },
+  {
+    "id": "a35747961209",
+    "slug": "best-single-player-fps-games-with-perfect-gunplay-ranked",
+    "headline": "Best Single-Player FPS Games With Perfect Gunplay, Ranked",
+    "summary": "A list ranking top single-player first-person shooter games with exceptional gunplay, providing a great gaming experience.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/best-fps-games-perfect-gunplay-ranked/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/best-fps-perfect-gunplay-trepang2.jpg",
+    "published_at": "2026-10-18T22:43:16.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "9e7b447cbae4",
@@ -4523,153 +4671,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "52c20b83ce08",
-    "slug": "zelda-ocarina-of-time-remake-gives-first-official-look-at-dark-link",
-    "headline": "Zelda: Ocarina of Time Remake Gives First Official Look at Dark Link",
-    "summary": "Dark Link is one of the most iconic foes in Zelda: Ocarina of Time, and Nintendo offers a first look at the enemy in the upcoming remake.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/zelda-oot-remake-dark-link-ocarina-of-time/"
-      },
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/the-legend-of-zelda/nintendo-quietly-drops-new-zelda-ocarina-of-time-remake-trailers-casually-giving-us-our-first-ever-look-at-dark-link-and-more/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/zelda-ocarina-of-time-switch-2-dark-link-first-look.jpg",
-    "published_at": "2026-10-16T21:16:24.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f538b022a78c",
-    "slug": "zelda-ocarina-of-time-remake-gets-new-sidequests-minigames-and-dungeon",
-    "headline": "Zelda Ocarina of Time Remake Gets New Sidequests, Minigames, and Dungeon Tweaks",
-    "summary": "Nintendo is revamping the classic Zelda Ocarina of Time remake with new side quests, challenging minigames, and subtle changes to dungeons.",
-    "category": "releases",
-    "platform_tags": [
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-remake-has-new-sidequests-harder-minigames-and-subtle-dungeon-tweaks-that-suddenly-have-me-a-lot-more-interested/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/rchR5gTvwM5HinWhXj7Mi3-1920-80.jpg",
-    "published_at": "2026-10-16T21:06:30.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "zelda-ocarina-of-time",
-    "game_label": "Zelda Ocarina of Time"
-  },
-  {
-    "id": "0495caa9d870",
-    "slug": "arc-raiders-tv-and-movie-adaptations-exploring-different-storylines",
-    "headline": "Arc Raiders TV and Movie Adaptations: Exploring Different Storylines",
-    "summary": "GamesRadar+ talks to the creators of Arc Raiders about their adaptations, which will explore different stories than the game",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/third-person-shooter/arc-raiders-tv-and-movie-adaptations-can-do-what-the-game-doesnt-we-feel-like-we-have-created-a-world-thats-fertile-ground-to-tell-all-kinds-of-different-stories/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/xuDwWNF22RHt5k8miZWvR4-1920-80.jpg",
-    "published_at": "2026-10-16T21:04:24.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "arc-raiders",
-    "game_label": "Arc Raiders"
-  },
-  {
-    "id": "78e3ddf8e506",
-    "slug": "there-should-be-a-game-award-for-hot-dads-castlevania-belmonts-curse-d",
-    "headline": "‘There Should be a Game Award for Hot Dads’ — Castlevania: Belmont’s Curse Devs Are Fully Aware and Loving the ‘Horny’ Fanart for Their Game",
-    "summary": "The developers behind Castlevania: Belmont’s Curse are enthusiastic about the “horny” fanart they’ve seen of the game’s characters, saying they specifically made them \"hot\" to appeal to fans.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/there-should-be-a-game-award-for-hot-dads-castlevania-belmonts-curse-devs-are-fully-aware-and-loving-the-horny-fanart-for-their-game"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/16/castlevania-belmonts-curse-devs-made-the-characters-hot-on-purpose-1792184534105.jpg",
-    "published_at": "2026-10-16T21:03:50.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2c6553c48f75",
-    "slug": "how-to-level-up-fast-in-valor-mortis",
-    "headline": "How To Level Up Fast In Valor Mortis",
-    "summary": "Valor Mortis offers several ways to level up quickly beyond its immediate progression system, leveraging Catalysts for enhanced gameplay.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/valor-mortis-complete-leveling-guide/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/10/lantern-in-valor-mortis.jpg",
-    "published_at": "2026-10-16T21:01:07.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "valor-mortis",
-    "game_label": "Valor Mortis"
-  },
-  {
-    "id": "9ed7b7408641",
-    "slug": "kingdom-hearts-opening-is-still-incredible",
-    "headline": "Kingdom Hearts' Opening Is Still Incredible",
-    "summary": "The opening cinematic of Kingdom Hearts, released in 2002, is still widely regarded as one of the most memorable and iconic in gaming history.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/kingdom-hearts-tutorial-dive-into-stained-glass-snow-white-2000746856"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/khsora-1280x720.jpg",
-    "published_at": "2026-10-16T21:00:28.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "kingdom-hearts",
-    "game_label": "Kingdom Hearts"
   }
 ]
