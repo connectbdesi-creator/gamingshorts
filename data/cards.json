@@ -1,5 +1,146 @@
 [
   {
+    "id": "a5c5429bfd8f",
+    "slug": "gta-6-fans-poke-fun-at-bbc-for-suggesting-its-in-game-relationship-is",
+    "headline": "GTA 6 Fans Poke Fun At BBC For Suggesting Its In-Game Relationship Is Cheating",
+    "summary": "A new survey suggests that most people don't consider it cheating, yet the BBC ran with it anyway.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/bbc-article-mocked-for-likening-playing-gta-6-to-cheating-on-your-partner/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_01-0naeahss9-1x6.jpg",
+    "published_at": "2026-10-19T12:38:33.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c9f4a0e23056",
+    "slug": "nintendo-issues-new-official-statement-on-zelda-ocarina-of-time-remake",
+    "headline": "Nintendo Issues New Official Statement on Zelda: Ocarina of Time Remake Sales",
+    "summary": "Ahead of its official release, Nintendo comments on sales for the Zelda: Ocarina of Time remake.",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/zelda-ocarina-remake-sales-preorders-statement-phenomenon/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/untitled-1-5.jpg",
+    "published_at": "2026-10-19T12:30:16.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f8d36c02bca7",
+    "slug": "saros-zenith-update-now-available-on-ps5",
+    "headline": "Saros' Zenith Update Now Available on PS5",
+    "summary": "Housemarque has released the Zenith update for Saros, a PS5 shooter, with new content and features, now available for free to all players.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/saros-massive-zenith-update-is-available-now-on-ps5-free-for-all-players"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/9ee7f21c34c0d/large.jpg",
+    "published_at": "2026-10-19T12:30:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "saros",
+    "game_label": "Saros"
+  },
+  {
+    "id": "fc4e5c31d89b",
+    "slug": "saross-free-new-game-plus-update-is-out-now-including-a-boss-rush-mode",
+    "headline": "Saros’s free New Game Plus update is out now, including a Boss Rush mode",
+    "summary": "The new update also includes an auto-fire option for players",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/saross-free-new-game-plus-update-is-out-now-including-a-boss-rush-mode/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/fc4e5c31d89b/800/600",
+    "published_at": "2026-10-19T12:25:45.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9d582474adb4",
+    "slug": "hideo-kojima-returns-to-cyberpunk-edgerunners-2",
+    "headline": "Hideo Kojima Returns to Cyberpunk Edgerunners 2",
+    "summary": "Hideo Kojima reprises his role as Hideoyoshi Oshima in Cyberpunk Edgerunners 2, a character he played in Cyberpunk 2077",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/cyberpunk-edgerunners-2-hideo-kojima-hideoyoshi-oshima/"
+      },
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/after-making-a-cameo-appearance-in-cyberpunk-2077-hideo-kojima-is-coming-to-cyberpunk-edgerunners-2/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/new-project-2026-10-19t105404-115.jpg",
+    "published_at": "2026-10-19T12:23:25.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "cyberpunk-edgerunners-2",
+    "game_label": "Cyberpunk Edgerunners 2"
+  },
+  {
+    "id": "59bcd3b379f5",
+    "slug": "kda-returns-after-6-years-with-new-single-and-music-video",
+    "headline": "K/DA Returns After 6 Years with New Single and Music Video",
+    "summary": "Riot Games' virtual K-pop group K/DA has made a comeback after six years with a new single, Firestarter, produced by the makers of Arcane",
+    "category": "esports",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/league-of-legends-virtual-k-pop-group-kda-reemerge-after-6-years-of-silence-with-new-single-and-music-video-from-the-makers-of-arcane"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/19/kda-main-1792411869416.jpg",
+    "published_at": "2026-10-19T12:14:38.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "league-of-legends",
+    "game_label": "League of Legends"
+  },
+  {
     "id": "9e06087b4fa4",
     "slug": "witcher-3-switch-2-patch-rolls-out-today-with-a-number-of-changes-incl",
     "headline": "Witcher 3 Switch 2 patch rolls out today with a number of changes, including alterations to resolution and \"visual clarity\"",
@@ -17,6 +158,27 @@
     "image_url": "https://assetsio.gnwcdn.com/geralt-posing-witcher-3.jpg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-10-19T12:13:14.000Z",
     "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "fc72c065dba2",
+    "slug": "saros-zenith-update-now-available",
+    "headline": "Saros ‘Zenith’ update now available",
+    "summary": "Publisher Sony Interactive Entertainment and developer Housemarque have released the “Zenith” Update for fast-paced, cinematic …",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/saros-zenith-update-now-available"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/fc72c065dba2/800/600",
+    "published_at": "2026-10-19T12:05:43.000Z",
+    "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -590,6 +752,32 @@
     "game_label": null
   },
   {
+    "id": "81bb5eb3bc0a",
+    "slug": "melty-launched-for-pc-and-consoles-creates-ai-mashes-of-popular-games",
+    "headline": "Melty Launched for PC and Consoles, Creates AI Mashes of Popular Games",
+    "summary": "A new launcher called Melty has emerged, generating AI mash-ups of popular games like Elden Ring, Minecraft, and more on PC and consoles.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/new-launcher-for-viral-ai-mash-ups-of-elden-ring-minecraft-and-more-emerges-with-some-very-questionable-terms-of-service-should-you-value-your-pc/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Vu9TP87krHb5eh4Cmd8qzC-1920-80.jpg",
+    "published_at": "2026-10-19T10:38:25.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "melty",
+    "game_label": "Melty"
+  },
+  {
     "id": "c7a8f5cae7a1",
     "slug": "ai-powered-nemesis-system-in-red-dead-redemption-2-mod",
     "headline": "AI-Powered Nemesis System in Red Dead Redemption 2 Mod",
@@ -688,32 +876,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "9d582474adb4",
-    "slug": "hideo-kojima-returns-to-cyberpunk-edgerunners-2",
-    "headline": "Hideo Kojima Returns to Cyberpunk Edgerunners 2",
-    "summary": "Hideo Kojima reprises his role as Hideoyoshi Oshima in Cyberpunk Edgerunners 2, a character he played in Cyberpunk 2077",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/cyberpunk-edgerunners-2-hideo-kojima-hideoyoshi-oshima/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/new-project-2026-10-19t105404-115.jpg",
-    "published_at": "2026-10-19T10:05:35.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "cyberpunk-edgerunners-2",
-    "game_label": "Cyberpunk Edgerunners 2"
   },
   {
     "id": "7565718bef75",
@@ -1283,6 +1445,29 @@
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/most-perfect-single-player-rpgs-nobody-plays-ranked.jpg",
     "published_at": "2026-10-19T00:45:16.000Z",
     "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "677e59f85482",
+    "slug": "don-bradman-cricket-jr-announced-for-pc-and-consoles",
+    "headline": "Don Bradman Cricket Jr Announced for PC and Consoles",
+    "summary": "Don Bradman Cricket Jr Announced for PC and Consoles",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/don-bradman-cricket-jr-announced-for-pc-and-consoles"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/18/donbradmanjr-blogroll-1792364871220.jpg",
+    "published_at": "2026-10-19T00:12:40.000Z",
+    "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4473,186 +4658,5 @@
     "comment_count": 0,
     "game": "star-wars-zero-company",
     "game_label": "Star Wars Zero Company"
-  },
-  {
-    "id": "10460428e075",
-    "slug": "analogue-brings-back-its-perfect-snes-and-sega-genesis-replacements",
-    "headline": "Analogue Brings Back Its Perfect SNES and Sega Genesis Replacements",
-    "summary": "Analogue's retro gaming consoles have received significant improvements, offering the best way to enjoy classic games on the SNES and Sega Genesis.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/analogue-super-nt-mega-sg-return/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/super-nt-analogue.jpg",
-    "published_at": "2026-10-17T14:34:21.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "analogue-super-nt-and-mega-sg",
-    "game_label": "Analogue Super Nt and Mega Sg"
-  },
-  {
-    "id": "67aabfc61c7b",
-    "slug": "2026-has-been-a-surprisingly-excellent-year-for-shooters",
-    "headline": "2026 Has Been a Surprisingly Excellent Year for Shooters",
-    "summary": "Developers big and small have made 2026 one of the best years for shooting games in recent memory.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/2026-year-in-shooters/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/wardogs-interview-respect-time.jpg",
-    "published_at": "2026-10-17T14:30:19.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e16830ca3735",
-    "slug": "samson-developer-and-publisher-liquid-swords-goes-bankrupt-6-months-af",
-    "headline": "Samson Developer And Publisher Liquid Swords Goes Bankrupt, 6 Months After Release",
-    "summary": "The Stockholm District Court issued the bankruptcy order against the studio on Monday, following reports that Liquid Swords' developers have gone unpaid for the past two months",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/samson-developer-and-publisher-liquid-swords-goes-bankrupt-6-months-after-release-2000747049"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/04/Game-Page-Featured_Samson-A-Tyndalston-Story-Inits-1280x720.jpg",
-    "published_at": "2026-10-17T14:01:23.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "438bb9a4b5d9",
-    "slug": "feature-25-of-the-best-discounted-games-we-could-find-from-the-xbox-st",
-    "headline": "Feature: 25+ Of The Best Discounted Games We Could Find From The Xbox Store Sales",
-    "summary": "Bargains for up to 90% off! When it comes to buying games from the Xbox Store, we sure appreciate a hefty discount attached to 'em. This week, Xbox hasn't had the courtesy of whipping a proper sale up for you all, so instead we've sifted through deal-after-deal to pick out some reduced bangers. We still managed to find a lot…",
-    "category": "deals",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/features/25plus-of-the-best-discounted-games-we-could-find-from-the-xbox-store-sales"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/1827be611027f/large.jpg",
-    "published_at": "2026-10-17T13:30:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4f098ffe82dd",
-    "slug": "blood-of-dawnwalker-update-11-is-officially-a-game-changer",
-    "headline": "Blood of Dawnwalker Update 1.1 Is Officially a Game-Changer",
-    "summary": "The Blood of Dawnwalker Update 1.1 features a staggering amount of changes that will significantly change the acclaimed open-world RPG.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/blood-of-dawnwalker-update-1-1-patch-notes/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/the-blood-of-dawnwalker-update-1-1-composite.jpg",
-    "published_at": "2026-10-17T13:29:30.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f424a356cadd",
-    "slug": "castlevania-belmonts-curse-devs-are-proud-of-the-games-hot-characters",
-    "headline": " Castlevania: Belmont's Curse devs are \"proud\" of the game's hot characters ",
-    "summary": "Evil Empire has seen your thirsty fan art",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/action/castlevania-belmonts-curse-devs-are-proud-of-the-games-hot-characters-there-should-be-a-game-awards-for-hot-dads/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/V9kivspRjp2p2CXFbXeo6-1920-80.jpg",
-    "published_at": "2026-10-17T13:28:21.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "711c846a275a",
-    "slug": "steams-achievement-sets-beta-aims-to-stop-new-content-breaking-your-co",
-    "headline": "Steam's Achievement Sets beta aims to stop new content breaking your completion status",
-    "summary": "Valve is beta testing Steam Achievement Sets, a feature that lets developers group a game's achievements into collections.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/steam-achievement-sets-beta"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/10d318260b61ca375da8e210197b7eae40665e30.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-17T13:12:01.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "494f6c16ada6",
-    "slug": "ps-plus-bonus-freebies-officially-confirmed-for-october-20",
-    "headline": "PS Plus Bonus Freebies Officially Confirmed for October 20",
-    "summary": "PlayStation Plus adds more bonus freebies on October 20, expanding Sony's October 2026 slate with another round of subscriber perks.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/ps-plus-free-demos-october-2026/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/playstation-plus-logo-over-mortall-shell-ii-resonance-a-plague-tale-legacy-blurred-collage.jpg",
-    "published_at": "2026-10-17T13:00:17.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
