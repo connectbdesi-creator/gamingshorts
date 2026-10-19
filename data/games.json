@@ -23455,5 +23455,67 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-19T13:51:36.696Z"
+  },
+  {
+    "slug": "la-noire",
+    "name": "L.A. Noire",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/e2d/e2d3f396b16dded0f841c17c9799a882.jpg",
+    "released": "2011-05-17",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c08/c0823f02236f076a7a36ff5f3571558e.jpg",
+      "https://media.rawg.io/media/screenshots/dee/dee71bfc43834357e15e1d35d2c507c8.jpg",
+      "https://media.rawg.io/media/screenshots/69f/69fdec37afd586f274316a69e92303f1.jpg",
+      "https://media.rawg.io/media/screenshots/4c0/4c0f154b51525e93ce8f2f18197c82ee.jpg",
+      "https://media.rawg.io/media/screenshots/87b/87bf0f4ababb76a87b7ac82a282e44c6.jpg",
+      "https://media.rawg.io/media/screenshots/5e0/5e05bd7135d8e8d8dfb92eb7e3d57181.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-19T18:21:07.652Z"
+  },
+  {
+    "slug": "resident-evil-7-biohazard",
+    "name": "Resident Evil 7: Biohazard",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/cee/cee577e2097a59b77193fe2bce94667d.jpg",
+    "released": "2017-01-23",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/9c7/9c7016a1d1a8f66d67266e35452a3cf4.jpg",
+      "https://media.rawg.io/media/screenshots/315/3152c8a5165faaefc5429ab54399e3a6.jpg",
+      "https://media.rawg.io/media/screenshots/753/753c32daa8a2685f6aecc052e85197f7.jpg",
+      "https://media.rawg.io/media/screenshots/3f9/3f916c888d9e135adb456399550fd03e.jpg",
+      "https://media.rawg.io/media/screenshots/9bd/9bd7368147200c3e1e615950c4f3fc73.jpg",
+      "https://media.rawg.io/media/screenshots/804/804d33ab33db680543a6df814c15c8e3.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-19T18:21:09.916Z"
   }
 ]
