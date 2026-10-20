@@ -1,5 +1,277 @@
 [
   {
+    "id": "94339836da93",
+    "slug": "final-fantasy-resonance-review",
+    "headline": "Final Fantasy Resonance Review",
+    "summary": "Final Fantasy Resonance combines impressive HD-2D visuals and turn-based combat with decent music, but a weak narrative holds it back. The game is a retool of Brave Exvius.",
+    "category": "reviews",
+    "platform_tags": [
+      "mobile",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/final-fantasy-resonance-review"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-are-in-for-final-fantasy-resonance"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/final-fantasy-resonance-sirens-tower-get-inside-how/"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/19/final-fantasy-resonance-blogroll-1792451006645.jpg",
+    "published_at": "2026-10-20T15:35:23.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-resonance",
+    "game_label": "Final Fantasy Resonance"
+  },
+  {
+    "id": "18e7b49b94b1",
+    "slug": "nintendos-zelda-ocarina-of-time-remake-revisits-the-past",
+    "headline": "Nintendo's Zelda: Ocarina of Time Remake Revisits the Past",
+    "summary": "Nintendo has released a 1998-style advertisement for its upcoming Zelda: Ocarina of Time remake on the Switch, paying homage to the N64 version.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/zelda-ocarina-time-oot-remake-1998-ad/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/zelda-ocarina-of-time-remake-1998-ad-remade.jpg",
+    "published_at": "2026-10-20T15:33:27.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "zelda-ocarina-of-time",
+    "game_label": "Zelda: Ocarina of Time"
+  },
+  {
+    "id": "e354bc061c80",
+    "slug": "godzilla-destroy-all-monsters-melee-remastered-demo-review",
+    "headline": "Godzilla: Destroy All Monsters Melee Remastered Demo Review",
+    "summary": "The developer of the classic Godzilla fighting game is re-releasing the game with a demo, and one reviewer found it to be a fun experience that doesn't require nostalgia for the original game.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/the-demo-for-city-flattening-fighting-game-godzilla-destroy-all-monsters-melee-remastered-is-a-roaring-good-time-no-nostalgia-required"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Godzilla_ZjkFftF.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-20T15:30:13.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "godzilla-destroy-all-monsters-melee-remastered",
+    "game_label": "Godzilla: Destroy All Monsters Melee Remastered"
+  },
+  {
+    "id": "5fcc7b1db901",
+    "slug": "xbox-reportedly-emailing-users-to-trade-in-your-console-to-best-buy",
+    "headline": "Xbox Reportedly Emailing Users To ‘Trade In Your Console To Best Buy’",
+    "summary": "The email supposedly opens by asking Xbox Series owners, 'Haven't played on your console in a while?'",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/xbox-reportedly-emailing-users-to-trade-in-your-console-to-best-buy-2000747935"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2024/06/153c68ca713b0a8ac0228065e1b4cf93-1280x647.jpg",
+    "published_at": "2026-10-20T15:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5c12d059b5a3",
+    "slug": "sonys-new-ps-promo-suggests-theyve-acquired-kena-ip",
+    "headline": "Sony's New PS Promo Suggests They've Acquired Kena IP",
+    "summary": "Sony has released a promotional reel that includes footage from Kena: Scars of Kosmora, leading to speculation that Sony may have acquired the IP from Ember Lab.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/a-new-playstation-promo-suggests-sonys-bought-the-kena-ip-from-ember-lab"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/5d4b32f9fa808/large.jpg",
+    "published_at": "2026-10-20T15:30:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "kena-scars-of-kosmora",
+    "game_label": "Kena: Scars of Kosmora"
+  },
+  {
+    "id": "e931696bbddf",
+    "slug": "how-to-get-free-rolls-and-potions-in-roll-a-stickman",
+    "headline": "How to Get Free Rolls and Potions in Roll a Stickman",
+    "summary": "Roll a Stickman players can claim free in-game rewards, including potions and keys, by using specific codes. These codes can be redeemed for stat resets and other benefits.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/simulation/roll-a-stickman-codes/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/GJZpTXZ8F2nRHZj8S3NrPX-1920-80.jpg",
+    "published_at": "2026-10-20T15:25:09.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "roll-a-stickman",
+    "game_label": "Roll a Stickman"
+  },
+  {
+    "id": "fa672232224f",
+    "slug": "god-of-war-creator-reveals-original-name-for-kratos-was-abandoned-due",
+    "headline": "God of War Creator Reveals Original Name for Kratos Was Abandoned Due to Domino's Jokes",
+    "summary": "David Jaffe explains why Kratos was renamed from Dominus, revealing a surprising reason behind the game's title change",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/god-of-war-kratos-original-name-abandoned-pizza-joke/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/god-of-war-e3-2016-gameplay-trailer-_-ps4-5-28-screenshot.jpg",
+    "published_at": "2026-10-20T15:22:27.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "god-of-war",
+    "game_label": "God of War"
+  },
+  {
+    "id": "dfc4ee1c40b0",
+    "slug": "pokemon-tcg-pocket-every-card-in-dual-fusion-revealed-so-far",
+    "headline": "Pokemon TCG Pocket: Every Card In Dual Fusion Revealed So Far",
+    "summary": "The Pokémon Trading Card Game's Dual Fusion expansion has been revealed, introducing dual-type cards to the game.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/pokemon-tcg-pocket-dual-fusion-every-card-revealed/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/screenshot-4234.png",
+    "published_at": "2026-10-20T15:20:08.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pokemon-tcg-pocket-dual-fusion",
+    "game_label": "Pokemon TCG Pocket Dual Fusion"
+  },
+  {
+    "id": "9d00a1ae8b27",
+    "slug": "pokemon-tcg-pockets-next-expansion-announced",
+    "headline": "Pokémon TCG Pocket's Next Expansion Announced",
+    "summary": "Pokémon Trading Card Game Pocket's next expansion, Dual Fusion, introduces dual-type cards and a limited-time Pikachu event.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/pockemon-tcg-pocket-dual-fusion-expansion-announced-release-date/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dual_fusion_mega_mewtwo_x_key_art-1.png",
+    "published_at": "2026-10-20T15:15:46.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pokemon-tcg-pocket",
+    "game_label": "Pokémon TCG Pocket"
+  },
+  {
+    "id": "ea100ca87060",
+    "slug": "gta-5-and-red-dead-redemption-2-are-leaving-ps-plus-but-you-still-have",
+    "headline": "GTA 5 And Red Dead Redemption 2 Are Leaving PS Plus, But You Still Have Time",
+    "summary": "While a whole bunch of new games are being added to the PlayStation Plus Game Catalog this month, it looks like Sony is making room for them by removing several titles over the next few weeks. We don’t know exactly when they will be gone, but you can expect 11 games to be removed over the next couple of weeks,…",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-5-and-red-dead-redemption-2-are-leaving-ps-plus-but-you-still-have-time/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/original/1595/15950357/3707861-rdr2.jpg?w=300",
+    "published_at": "2026-10-20T15:15:30.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9bff4f0f4bba",
+    "slug": "cyberpunk-2077-ps5-patch-25-leaks-get-the-big-details-and-updates-here",
+    "headline": "Cyberpunk 2077 PS5 Patch 2.5 Leaks, Get the Big Details and Updates Here",
+    "summary": "Full reveal in REDstream coming Wednesday. CD Projekt Red has announced it's got yet another Cyberpunk 2077 patch on the way, this time in collaboration with the second season of its anime TV show spin-off, Edgerunners. The developer will update the RPG to version 2.5 on 22nd October 2026, and tomorrow it will have a REDstream to share what's in…",
+    "category": "patches",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-ps5-patch-2-5-leaks-get-the-big-details-and-updates-here"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/7b51496b9b293/large.jpg",
+    "published_at": "2026-10-20T15:15:00.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "2695da35d3c4",
     "slug": "umamusume-pretty-derby-maker-cygames-wants-to-release-three-games-per",
     "headline": "Umamusume: Pretty Derby Maker Cygames Wants To Release Three Games Per Year Under New Small-Games Label",
@@ -65,32 +337,29 @@
     "game_label": null
   },
   {
-    "id": "94339836da93",
-    "slug": "final-fantasy-resonance-review",
-    "headline": "Final Fantasy Resonance Review",
-    "summary": "Final Fantasy Resonance combines impressive HD-2D visuals and turn-based combat with decent music, but a weak narrative holds it back. The game is a retool of Brave Exvius.",
+    "id": "d37b53c93676",
+    "slug": "modern-warfare-4-rescues-the-reboot-series-by-replicating-call-of-duty",
+    "headline": "Modern Warfare 4 Rescues The Reboot Series By Replicating Call of Duty’s Greatest Era",
+    "summary": "Modern Warfare 4's campaign is a fun, reimagined take on the series, reworking iconic moments from Modern Warfare 2 into new missions.",
     "category": "reviews",
     "platform_tags": [
-      "mobile",
-      "pc"
+      "pc",
+      "playstation",
+      "xbox"
     ],
     "sources": [
       {
         "name": "IGN",
-        "url": "https://www.ign.com/articles/final-fantasy-resonance-review"
-      },
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-are-in-for-final-fantasy-resonance"
+        "url": "https://www.ign.com/articles/modern-warfare-4-rescues-the-reboot-series-by-replicating-call-of-dutys-greatest-era"
       }
     ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/19/final-fantasy-resonance-blogroll-1792451006645.jpg",
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/20/mw4-1792504471458.jpg",
     "published_at": "2026-10-20T15:00:00.000Z",
-    "hype_signal": 60,
+    "hype_signal": 80,
     "like_count": 0,
     "comment_count": 0,
-    "game": "final-fantasy-resonance",
-    "game_label": "Final Fantasy Resonance"
+    "game": "modern-warfare-4",
+    "game_label": "Modern Warfare 4"
   },
   {
     "id": "08c1c24cfc68",
@@ -259,6 +528,31 @@
     "comment_count": 0,
     "game": "modern-warfare-4",
     "game_label": "Modern Warfare 4"
+  },
+  {
+    "id": "5d73fb4f6089",
+    "slug": "nintendos-ocarina-of-time-remake-trailer-honors-1998-commercial",
+    "headline": "Nintendo's Ocarina of Time Remake Trailer Honors 1998 Commercial",
+    "summary": "Nintendo has released a remake trailer for The Legend of Zelda: Ocarina of Time, paying homage to the 1998 N64 commercial, with a comparison video available",
+    "category": "releases",
+    "platform_tags": [
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/nintendo-pays-homage-to-original-1998-commercial-for-the-legend-of-zelda-ocarina-of-time-in-new-remake-trailer"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/20/zelda-1792507026584.png",
+    "published_at": "2026-10-20T14:37:22.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-legend-of-zelda-ocarina-of-time",
+    "game_label": "The Legend of Zelda: Ocarina of Time"
   },
   {
     "id": "14ad5e7ad5a9",
@@ -4319,283 +4613,6 @@
     ],
     "image_url": "https://cdn.mos.cms.futurecdn.net/s7cA7XMMSNzVSpiuFLgQmZ-1920-80.jpg",
     "published_at": "2026-10-19T16:28:50.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ccfcf48b3dc3",
-    "slug": "palworld-devs-dont-want-to-just-release-100-new-pals-with-the-next-upd",
-    "headline": " Palworld devs don't want to just \"release 100 new Pals with the next update,\" says Pocketpair lead ",
-    "summary": "Developers \"try to add Pals in a meaningful way\" every time",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/survival/palworld-studio-doesnt-want-to-just-release-100-new-pals-with-the-next-update-as-pocketpair-lead-says-every-pal-should-have-something-memorable/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/dXkKjius9p9pDo9jJw8vmj-1920-80.jpg",
-    "published_at": "2026-10-19T16:26:50.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "58acde98e557",
-    "slug": "saros-gets-boss-rush-and-tons-of-difficulty-options-with-zenith-update",
-    "headline": "Saros Gets Boss Rush and Tons of Difficulty Options with Zenith Update",
-    "summary": "Housemarque's sci-fi shooter Saros receives a free Zenith update with a boss rush and multiple difficulty levels, making it more accessible to new and experienced players.",
-    "category": "patches",
-    "platform_tags": [
-      "pc",
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/saros-gets-boss-rush-and-tons-of-difficulty-options-with-zenith-update/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Saros-Zenith.webp?w=300",
-    "published_at": "2026-10-19T16:19:09.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "saros",
-    "game_label": "Saros"
-  },
-  {
-    "id": "1e2c8a84d32d",
-    "slug": "star-wars-galactic-racers-biddy-blas-is-voiced-by-a-sinister-circus-ri",
-    "headline": "Star Wars: Galactic Racer’s Biddy Blas Is Voiced By A Sinister Circus Ringmaster Pro Wrestler, And This Makes Sense",
-    "summary": "Star Wars has had no shortage of breakout alien stars over the decades--from Chewbacca in the original trilogy to Grogu from The Mandalorian--but in Star Wars: Galactic Racer, that honor belongs to Biddy Blas. Who is Biddy Blas? A hotshot racer in the game, with an ego the size of a Death Star and a voice that sounds like a…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/star-wars-galactic-racers-biddy-blas-is-voiced-by-a-sinister-circus-ringmaster-pro-wrestler-and-this-makes-sense/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Biddy-Blas-Crowley.jpg?w=300",
-    "published_at": "2026-10-19T16:18:07.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b33751c797f5",
-    "slug": "you-can-make-this-diy-controller-in-six-hours-and-for-less-than-12-buc",
-    "headline": " You can make this DIY controller in six hours and for less than 12 bucks—but would you want to? ",
-    "summary": "I think I'll stick with my GameSir Nova Lite.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/controllers/you-can-make-this-diy-controller-in-six-hours-and-for-less-than-12-bucks-but-would-you-want-to/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/K9EYHPcEyWfAFiZXNpgXHm-1920-80.jpg",
-    "published_at": "2026-10-19T16:15:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3faaafa35471",
-    "slug": "the-witcher-3-remastereds-latest-update-is-now-live-here-are-the-full",
-    "headline": "The Witcher 3 Remastered's Latest Update Is Now Live, Here Are The Full Patch Notes",
-    "summary": "A Switch 2 special. After being announced earlier this month, CD Projekt Red has today released its latest update for The Witcher 3: Wild Hunt - Remastered, and it even packs in some console-specific changes for Switch 2. Ver 5.01 has started rolling out in most regions today (the dev notes that it'll launch in Japan once it passes certification),…",
-    "category": "patches",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/10/the-witcher-3-remastereds-latest-update-is-now-live-here-are-the-full-patch-notes"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/ae56544fa9b3d/large.jpg",
-    "published_at": "2026-10-19T16:15:00.000Z",
-    "hype_signal": 95,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "56207386f22d",
-    "slug": "samson-dev-confirms-closure",
-    "headline": "Samson Dev Confirms Closure",
-    "summary": "A developer behind an open-world game has confirmed the studio's bankruptcy, citing poor sales figures on PlayStation 5 compared to PC",
-    "category": "industry",
-    "platform_tags": [
-      "playstation",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/samson-dev-confirms-closure-open-worlds-console-sales-were-far-better-than-on-pc"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/aba9167b03606/large.jpg",
-    "published_at": "2026-10-19T16:15:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "samson-a-tyndalston-story",
-    "game_label": "Samson: A Tyndalston Story"
-  },
-  {
-    "id": "6fb8b57d54e4",
-    "slug": "playstation-founder-ken-kutaragi-says-discs-became-metaphor-for-owning",
-    "headline": "PlayStation founder Ken Kutaragi says discs became \"metaphor for 'owning' games\", and that upset at their discontinuation is a \"mentality issue\"",
-    "summary": "Ken Kutaragi, the founder of PlayStation and architect of the first three PlayStation consoles, has said that people being upset about Sony's discontinuation of game discs is probably a \"mentality issue\". He understands it, he noted, but that doesn't make it \"economically reasonable\" for Sony to keep printing them.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/ken-kutaragi-playstation-discs"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/ken-kutaragi-playstation_Jl1uSYR.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-19T16:07:22.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f1bfd327adc0",
-    "slug": "dragon-ages-original-artists-wanted-to-base-it-on-conan-the-barbarian",
-    "headline": "Dragon Age's Original Artists Wanted to Base It on Conan the Barbarian",
-    "summary": "Former BioWare developer David Gaider reveals the inspiration behind Dragon Age's early concepts, including a connection to Conan the Barbarian",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/sexy-sorceresses-and-bare-chested-fighters-dragon-ages-original-artists-wanted-to-base-it-on-conan-the-barbarian-much-to-the-outrage-of-the-designers"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/dragon-age-origins-e3-2004.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-19T16:05:04.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "dragon-age",
-    "game_label": "Dragon Age"
-  },
-  {
-    "id": "e2fbfe8fb83e",
-    "slug": "gta-6-launch-trailer-already-surpasses-gta-5s-view-count",
-    "headline": "GTA 6 Launch Trailer Already Surpasses GTA 5's View Count",
-    "summary": "Grand Theft Auto 6's launch trailer has gained more views in just three days compared to its predecessor, Grand Theft Auto 5's",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/gta-6-more-views-gta-5-launch-trailer/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/new-project-2026-10-19t142216-547.jpg",
-    "published_at": "2026-10-19T16:01:17.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "d2a1a5e7b389",
-    "slug": "xbox-issues-new-official-statement-on-next-gen-xbox-helix-price-and-av",
-    "headline": "Xbox Issues New Official Statement on Next-Gen Xbox Helix Price and Availability",
-    "summary": "Xbox CEO Asha Sharma discusses the price and availability of the next-gen console, codenamed Helix.",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/new-xbox-console-price-release-date-statement-pc/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/xbox-helix-console_16x9.jpg",
-    "published_at": "2026-10-19T16:00:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a450e3889f4e",
-    "slug": "a-demo-for-rideshare-stimulator-sabers-ai-filled-driving-sim-is-availa",
-    "headline": "A Demo for Rideshare \"Stimulator\", Saber's AI-Filled Driving Sim, Is Available Now on PS5",
-    "summary": "Will it be stimulating?\nPublisher Saber Interactive has released a playable demo for its controversial driving business sim game, Rideshare \"Stimulator\".\nAvailable now on PS5, the demo eats up around 24 GB.\nRead the full article on pushsquare.com",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/a-demo-for-rideshare-stimulator-sabers-ai-filled-driving-sim-is-available-now-on-ps5"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/15f44109bb58e/large.jpg",
-    "published_at": "2026-10-19T16:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "635aa45ee54a",
-    "slug": "with-two-months-to-go-these-are-metacritics-10-best-xbox-games-of-2026",
-    "headline": "With Two Months To Go, These Are Metacritic's 10 Best Xbox Games Of 2026",
-    "summary": "Just before GTA 6 takes over. We're getting closer and closer to producing our Pure Xbox Game of the Year roundup for 2026, and with that in mind, we recently asked you which games you considered your personal GOTY picks before December rolls around. But what about Metacritic? As you likely know, Metacritic produces an average rating based on the…",
-    "category": "reviews",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/10/with-two-months-to-go-these-are-metacritics-10-best-xbox-games-of-2026"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/54317be4f0a92/large.jpg",
-    "published_at": "2026-10-19T16:00:00.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
