@@ -23734,5 +23734,50 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-20T19:51:39.359Z"
+  },
+  {
+    "slug": "fight-night",
+    "name": "Fight Night: Knight Fight",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/075/0753ab90ea46559a1b6267ed99a4926f.jpg",
+    "released": "2016-01-31",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "platforms": [
+      "PC",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/5fe/5fe2909c06520ac6106f2819fc798085.jpg",
+      "https://media.rawg.io/media/screenshots/df4/df467f4e9fbe7387a6177791aba15167.jpg",
+      "https://media.rawg.io/media/screenshots/075/0753ab90ea46559a1b6267ed99a4926f.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-20T20:21:10.849Z"
+  },
+  {
+    "slug": "no-im-not-a-human",
+    "name": "No I'm not a Human",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/e85/e852cfb26f6c58b80c442a5fc5afbcd8.jpg",
+    "released": "2025-09-15",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/070/0700bdf2fd85d2bf79885d35395a28fe.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-20T20:21:11.895Z"
   }
 ]
