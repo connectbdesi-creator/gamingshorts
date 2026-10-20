@@ -1,5 +1,98 @@
 [
   {
+    "id": "63faa79a0567",
+    "slug": "steam-next-fest-generative-ai-usage-jumps-to-36-percent",
+    "headline": "Steam Next Fest Generative AI Usage Jumps To 36 Percent",
+    "summary": "The generative AI plague continues with October's Steam Next Fest.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/steam-next-fest-ai-usage-has-jumped-from-one-in-five-to-one-in-three/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/steam-logo-with-two-games-behind-it.jpg",
+    "published_at": "2026-10-20T07:53:09.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "09ef53ba3fff",
+    "slug": "super-smash-bros-ultimate-is-the-next-game-to-get-a-pc-port",
+    "headline": "Super Smash Bros. Ultimate Is The Next Game To Get A PC Port",
+    "summary": "TheGamer reports that Nintendo's Super Smash Bros. Ultimate will be released on PC, likely through a cloud gaming service or official digital storefront.",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/smash-ultimate-has-been-ported-to-pc/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/04/captain-falcon.jpg",
+    "published_at": "2026-10-20T07:28:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "super-smash-bros-ultimate",
+    "game_label": "Super Smash Bros. Ultimate"
+  },
+  {
+    "id": "df0ef22f10f0",
+    "slug": "deserters-developer-withdraws-from-industry-after-piracy",
+    "headline": "Deserter's Developer Withdraws from Industry After Piracy",
+    "summary": "A Japanese indie developer has announced the withdrawal from the game industry after their adult fantasy game, Deserter's, was pirated ahead of its Steam release.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/japanese-indie-developer-devastated-after-adult-fantasy-slg-he-spent-9-years-making-is-pirated-ahead-of-steam-launch-announces-withdrawal-from-industry/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/df0ef22f10f0/800/600",
+    "published_at": "2026-10-20T06:04:58.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "deserters",
+    "game_label": "Deserter's"
+  },
+  {
+    "id": "b2ca4e034ead",
+    "slug": "stellar-blades-photo-mode-shown-off-on-switch-2",
+    "headline": "Stellar Blade's Photo Mode Shown Off on Switch 2",
+    "summary": "Shift Up reveals trailer for Stellar Blade's upcoming Switch 2 release, highlighting the game's Photo Mode features",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/wow-what-a-view-shift-up-shows-off-stellar-blades-stunning-photo-mode-on-switch-2"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/b4779dd13d1ea/large.jpg",
+    "published_at": "2026-10-20T05:55:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "stellar-blade",
+    "game_label": "Stellar Blade"
+  },
+  {
     "id": "ef8cca475f2c",
     "slug": "zenless-zone-zero-33-update-adds-phoenix-and-severian-banners",
     "headline": "Zenless Zone Zero 3.3 Update Adds Phoenix and Severian Banners",
@@ -97,6 +190,29 @@
     "comment_count": 0,
     "game": "golden-joystick-awards",
     "game_label": "Golden JoyStick Awards"
+  },
+  {
+    "id": "49a515c5b6db",
+    "slug": "culdcept-begins-for-pc-launches-october-28",
+    "headline": "Culdcept BEGINS for PC launches October 28",
+    "summary": "The PC version of board and card game fusion Culdcept BEGINS will launch via Steam …",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/culdcept-begins-for-pc-launches-october-28"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/49a515c5b6db/800/600",
+    "published_at": "2026-10-20T02:30:17.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "a7542da30a40",
@@ -4509,123 +4625,6 @@
     ],
     "image_url": "https://assetsio.gnwcdn.com/Activision.webp?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-10-19T10:13:55.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ef5c5ac05d1d",
-    "slug": "free-game-deal",
-    "headline": "Free Game Deal",
-    "summary": "Steam users can claim a 2021 game for free on November 11",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/steam-free-games-mail-mole-announcement-november-2026/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/whimsical_steam_game_giveaway_thumbnail_3840x2160.jpg",
-    "published_at": "2026-10-19T10:05:39.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7565718bef75",
-    "slug": "15-best-online-co-op-games-on-ps-plus-extra",
-    "headline": "15 Best Online Co-Op Games on PS Plus Extra",
-    "summary": "Game Rant highlights the top online co-op games available on PS Plus Extra, perfect for a game night with friends.",
-    "category": "esports",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/best-playstation-ps-plus-extra-co-op-games-online/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/best-online-co-op-games-game-pass-runescape-dragonwilds.jpg",
-    "published_at": "2026-10-19T10:01:16.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "178174b77dd7",
-    "slug": "new-western-pc-survival-game-lets-you-earn-money-while-playing",
-    "headline": "New Western PC Survival Game Lets You Earn Money While Playing",
-    "summary": "A bold new frontier Survival game from a former World of Warcraft developer can be downloaded for PC free of charge.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/best-pc-western-survival-games-fatal-frontier-1869-money/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/pioneers_heading_north_1920x1080.jpg",
-    "published_at": "2026-10-19T10:00:17.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "489d31d4cd3e",
-    "slug": "gamerant-daily-crossword-october-20-2026",
-    "headline": "GameRant Daily Crossword (October 20, 2026)",
-    "summary": "Outrun ruthless police forces and solve high-stakes 1940s murder cases with today's GameRant Daily Crossword.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/game/gamerant-daily-crossword-2026-10-20/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/game-rant-games-game-rant-daily-crossword-puzzle-site-banner-graphic.jpg",
-    "published_at": "2026-10-19T10:00:17.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "fe46c6f350e6",
-    "slug": "gamerant-daily-crossword-mini-2",
-    "headline": "GameRant Daily Crossword Mini",
-    "summary": "A new mini gaming crossword is available to explore, focusing on tracking down former gang members on bustling commercial streets.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "mobile",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/game/gamerant-daily-crossword-mini-2026-10-20/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/game-rant-games-game-rant-daily-crossword-puzzle-mini-site-banner-graphic.jpg",
-    "published_at": "2026-10-19T10:00:17.000Z",
     "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
