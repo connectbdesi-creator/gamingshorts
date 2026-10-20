@@ -1,5 +1,121 @@
 [
   {
+    "id": "2695da35d3c4",
+    "slug": "umamusume-pretty-derby-maker-cygames-wants-to-release-three-games-per",
+    "headline": "Umamusume: Pretty Derby Maker Cygames Wants To Release Three Games Per Year Under New Small-Games Label",
+    "summary": "As the industry becomes more polarized, the company explains why creating smaller titles alongside AAA games is necessary to match changing player habits",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/umamusume-pretty-derby-maker-cygames-wants-to-release-three-games-per-year-under-new-small-games-label-2000747683"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/10/Where-The-Seeds-Fall-1280x720.jpg",
+    "published_at": "2026-10-20T15:00:45.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "25aac34e56a1",
+    "slug": "it-doesnt-have-to-always-be-triple-a-galactic-racer-and-zero-companys",
+    "headline": "\"It doesn’t have to always be triple-A\": Galactic Racer and Zero Company’s success has Lucasfilms wanting more smaller-scale Star Wars games",
+    "summary": "Star Wars: Galactic Racer has been fucking everywhere recently, seemingly both due to its actual quality as a game and also due to vast swathes of people falling in love with little mole guy Biddy Blas. The success of Fuse Games' Galactic Racer follows on from the similarly warm reception of Bit Reactor's XCOM-esque Star Wars Zero Company (though that…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/it-doesnt-have-to-always-be-triple-a-galactic-racer-and-zero-companys-success-has-lucasfilms-wanting-more-smaller-scale-star-wars-games"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Galactic-Racer.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-20T15:00:36.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c3fb67d3fb15",
+    "slug": "brand-new-nintendo-switch-2-controller-officially-revealed",
+    "headline": "Brand-New Nintendo Switch 2 Controller Officially Revealed",
+    "summary": "A brand-new Nintendo Switch 2 controller is officially revealed, featuring a special collaboration.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/nintendo-switch-2-tomb-raider-8bitdo-controller/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/nintendo-switch-2-tomb-raider-8bitdo-controller.jpg",
+    "published_at": "2026-10-20T15:00:15.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "94339836da93",
+    "slug": "final-fantasy-resonance-review",
+    "headline": "Final Fantasy Resonance Review",
+    "summary": "Final Fantasy Resonance combines impressive HD-2D visuals and turn-based combat with decent music, but a weak narrative holds it back. The game is a retool of Brave Exvius.",
+    "category": "reviews",
+    "platform_tags": [
+      "mobile",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/final-fantasy-resonance-review"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-are-in-for-final-fantasy-resonance"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/19/final-fantasy-resonance-blogroll-1792451006645.jpg",
+    "published_at": "2026-10-20T15:00:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-resonance",
+    "game_label": "Final Fantasy Resonance"
+  },
+  {
+    "id": "08c1c24cfc68",
+    "slug": "im-too-old-for-fortnite-but-even-i-can-appreciate-gamesirs-new-mobile",
+    "headline": " I'm too old for Fortnite, but even I can appreciate GameSir's new mobile controller designs  ",
+    "summary": "GameSir just dropped six new Fortnite designs for its G8 Plus and X5 Lite mobile controllers, and you don't have to be an Epic fan to enjoy these colorways.",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/hardware/gaming-controllers/im-too-old-for-fortnite-but-even-i-can-appreciate-gamesirs-flashy-new-mobile-controller-designs-especially-the-translucent-ones/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/GFajmRqsEZe9A5rRDnpuY7-1920-80.jpg",
+    "published_at": "2026-10-20T14:58:31.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "4a67c43133b5",
     "slug": "how-to-unlock-all-cod-modern-warfare-4-weapons-and-killstreaks",
     "headline": "How to Unlock All COD Modern Warfare 4 Weapons and Killstreaks",
@@ -18,15 +134,84 @@
       {
         "name": "Game Rant",
         "url": "https://gamerant.com/call-of-duty-cod-modern-warfare-4-mw4-all-weapons-how-to-unlock/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/call-of-duty-cod-modern-warfare-4-mw4-all-operators-skins-how-to-unlock/"
       }
     ],
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/all-killstreaks-in-cod-modern-warfare-4.jpg",
-    "published_at": "2026-10-20T14:45:29.000Z",
+    "published_at": "2026-10-20T14:47:04.000Z",
     "hype_signal": 70,
     "like_count": 0,
     "comment_count": 0,
     "game": "call-of-duty-modern-warfare-4",
     "game_label": "Call of Duty: Modern Warfare 4"
+  },
+  {
+    "id": "524e6657c4db",
+    "slug": "of-course-a-new-edgerunners-series-means-a-new-cyberpunk-2077-patch",
+    "headline": " Of course a new Edgerunners series means a new Cyberpunk 2077 patch ",
+    "summary": "Together at last?",
+    "category": "patches",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rpg/of-course-a-new-edgerunners-series-means-a-new-cyberpunk-2077-patch/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/RrKWBQLDZb3WHTmZP4Ha9a-1920-80.jpg",
+    "published_at": "2026-10-20T14:46:51.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5ae6a808788c",
+    "slug": "i-accidentally-severed-my-finger-with-a-butter-knife-as-i-panicked-in",
+    "headline": " I accidentally severed my finger with a butter knife as I panicked in a messed-up game of Five Finger Fillet ",
+    "summary": "Take Five Finger Fillet and times it by a hundred.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/roguelike/i-accidentally-severed-my-finger-with-a-butter-knife-as-i-panicked-in-a-messed-up-game-of-five-finger-fillet/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/DpcD4ayorHZQJe2obxoWNU-1920-80.jpg",
+    "published_at": "2026-10-20T14:46:45.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d54b45410811",
+    "slug": "microsoft-wont-like-this-open-source-project-to-get-game-pass-working",
+    "headline": " Microsoft won't like this open source project to get Game Pass working on SteamOS and Linux, but I think it's pretty neat ",
+    "summary": "If it doesn't exist, build it yourself.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/software/microsoft-wont-like-this-open-source-project-to-get-game-pass-working-on-steamos-and-linux-but-i-think-its-pretty-neat/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/WC6bGUCypPXHqMYFTQMMSk-1920-80.jpg",
+    "published_at": "2026-10-20T14:45:35.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "8f72164981e2",
@@ -1009,30 +1194,6 @@
     "game_label": null
   },
   {
-    "id": "94339836da93",
-    "slug": "final-fantasy-resonance-review",
-    "headline": "Final Fantasy Resonance Review",
-    "summary": "Final Fantasy Resonance combines impressive HD-2D visuals and turn-based combat with decent music, but a weak narrative holds it back. The game is a retool of Brave Exvius.",
-    "category": "reviews",
-    "platform_tags": [
-      "mobile",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/final-fantasy-resonance-review"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/19/final-fantasy-resonance-blogroll-1792451006645.jpg",
-    "published_at": "2026-10-20T13:00:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "final-fantasy-resonance",
-    "game_label": "Final Fantasy Resonance"
-  },
-  {
     "id": "0b0158f67d95",
     "slug": "final-fantasy-resonance-review-a-breezy-nostalgia-laced-jrpg-that-give",
     "headline": " Final Fantasy Resonance review: \"A breezy nostalgia-laced JRPG that gives the HD-2D style a shot in the arm\" ",
@@ -1679,6 +1840,50 @@
     "game_label": null
   },
   {
+    "id": "de1d81a91f1b",
+    "slug": "this-steam-next-fest-has-over-7000-games-so-far-almost-double-what-we",
+    "headline": " This Steam Next Fest has over 7,000 games so far, almost double what we saw in June 2026 ",
+    "summary": "You'll need to be careful about what you play",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/this-steam-next-fest-has-over-7-000-games-so-far-almost-double-what-we-saw-in-june-2026-and-so-so-many-of-them-are-using-ai/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/RPc3EpjxpEjtCQakd3QYXS-1920-80.jpg",
+    "published_at": "2026-10-20T10:51:44.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9d62b431e00f",
+    "slug": "hideo-kojima-has-seen-godzilla-minus-zero-and-is-being-totally-normal",
+    "headline": " Hideo Kojima has seen Godzilla Minus Zero and is being totally normal about it ",
+    "summary": "The Death Stranding developer gives Godzilla Minus Zero a glowing review",
+    "category": "reviews",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/sci-fi-movies/hideo-kojima-has-seen-godzilla-minus-zero-and-is-being-totally-normal-about-it-i-was-so-excited-that-i-practically-felt-dorsal-fins-sprouting-from-my-back/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/EsmboGuy2XRzwb5xRmZTxR-1920-80.jpg",
+    "published_at": "2026-10-20T10:50:55.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "7409bc4ba4a6",
     "slug": "kratos-almost-had-a-different-name-due-to-dominos-pizza-jokes",
     "headline": "Kratos Almost Had a Different Name Due to Domino's Pizza Jokes",
@@ -1698,6 +1903,27 @@
     "comment_count": 0,
     "game": "god-of-war",
     "game_label": "God of War"
+  },
+  {
+    "id": "e6502ffc8720",
+    "slug": "helldivers-2-is-getting-new-anti-cheat-targeting-modifications-that-cr",
+    "headline": " Helldivers 2 is getting new anti-cheat, targeting \"modifications that create unfair advantages\" ",
+    "summary": "\"The implementation of GameGuard for Helldivers 2 wasn't as effective as it could have been\"",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/third-person-shooter/helldivers-2-is-getting-new-anti-cheat-targeting-modifications-that-create-unfair-advantages-but-the-community-argues-these-gameplay-mods-are-only-used-to-target-glitches-the-devs-havent-fixed/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/faoq8iExriqsCPEBCek9Bd-1920-80.jpg",
+    "published_at": "2026-10-20T10:49:36.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "593fcb9dfe00",
@@ -4370,250 +4596,6 @@
     ],
     "image_url": "https://images.purexbox.com/54317be4f0a92/large.jpg",
     "published_at": "2026-10-19T16:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "77ae556c345b",
-    "slug": "playstation-shadowdrops-saros-zenith-update-with-boss-rush-new-game-an",
-    "headline": "PlayStation Shadowdrops Saros Zenith Update With Boss Rush, New Game+ and Fancy Golden Crown Powerups",
-    "summary": "A new update for Saros dropped today, adding some new features to the hectic Housemarque shooter.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/saros-zenith-update-boss-rush-new-game-plus"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/19/saros-1792423436499.png",
-    "published_at": "2026-10-19T15:57:20.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c04d4bc7b747",
-    "slug": "the-legend-of-zelda-ocarina-of-time-remake-incorporates-immersive-brea",
-    "headline": "The Legend of Zelda: Ocarina of Time remake incorporates immersive Breath of the Wild feature",
-    "summary": "The Legend of Zelda: Ocarina of Time remake is borrowing the immersive feature from Breath of the Wild, allowing players to turn off the UI",
-    "category": "releases",
-    "platform_tags": [
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-ocarina-of-time-remake-borrows-one-of-breath-of-the-wilds-most-immersive-features/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/PRJ8wSUzTLKscTeNFrUoG6-1920-80.png",
-    "published_at": "2026-10-19T15:54:07.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-legend-of-zelda-ocarina-of-time",
-    "game_label": "The Legend of Zelda: Ocarina of Time"
-  },
-  {
-    "id": "1c461706c155",
-    "slug": "grand-theft-auto-4-got-much-darker-because-san-andreas-took-the-pop-en",
-    "headline": " Grand Theft Auto 4 got much darker because San Andreas took the \"pop energy as far as it could go\"  ",
-    "summary": "\"We found a level of tonal consistency that we'd not had in the previous games\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/for-gta-to-stay-relevant-it-had-to-reinvent-itself-grand-theft-auto-4-got-much-darker-because-san-andreas-took-the-pop-energy-as-far-as-it-could-go-says-rockstars-dan-houser/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/EzQhiQa7sRNxBvydEdQLwR-1920-80.jpg",
-    "published_at": "2026-10-19T15:51:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ba9e65bb8afb",
-    "slug": "kojima-x-casetify-collection-now-available",
-    "headline": "Kojima x Casetify Collection Now Available",
-    "summary": "Casetify has launched a collaboration with Hideo Kojima, offering various phone cases and accessories featuring Death Stranding designs, with some items already sold out.",
-    "category": "deals",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/new-hideo-kojima-x-casetify-collection-paints-death-stranding-2-all-over-your-edc-but-my-favorite-design-has-already-sold-out/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/zNaXArxUTBQ4HqswVtKrP3-1920-80.jpg",
-    "published_at": "2026-10-19T15:43:27.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "death-stranding",
-    "game_label": "Death Stranding"
-  },
-  {
-    "id": "7ca00784cf4e",
-    "slug": "bungies-marathon-reboot-was-marred-by-disagreements",
-    "headline": "Bungie's Marathon Reboot Was Marred by Disagreements",
-    "summary": "Former Marathon director joins Bungie, citing a tumultuous transition to the studio after years at Riot Games",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/fps/former-marathon-director-says-bungie-had-a-lot-of-disagreements-about-what-to-do-with-the-game-which-it-is-now-trying-to-salvage-after-a-soft-launch/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/CN5qbJZS7mD6JZMVo5i5uT-1920-80.jpg",
-    "published_at": "2026-10-19T15:42:36.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6686e9c27e43",
-    "slug": "pokemon-skateboards-officially-launch-and-scalpers-are-already-buying",
-    "headline": "Pokémon Skateboards Officially Launch, and Scalpers Are Already Buying Them Up",
-    "summary": "A new line of Pokémon merchandise has launched, featuring skateboard designs, but scalpers are quickly reselling them online for inflated prices.",
-    "category": "deals",
-    "platform_tags": [
-      "mobile",
-      "vr",
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/pokemon-skateboard-santa-cruz-restock-shape-prices-charizard-eevee/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/skateboards2.JPG",
-    "published_at": "2026-10-19T15:40:28.000Z",
-    "hype_signal": 10,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "pokemon-skateboards",
-    "game_label": "Pokémon Skateboards"
-  },
-  {
-    "id": "4c0626f65677",
-    "slug": "skyrim-can-now-be-beaten-while-carrying-a-cat-around",
-    "headline": "Skyrim Can Now Be Beaten While Carrying A Cat Around",
-    "summary": "The Elder Scrolls V: Skyrim allows players to carry a cat while completing the game, a feature previously absent from the title.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/you-can-now-beat-skyrim-while-carrying-a-cat/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/1920x1080-2026-10-19t095842-404.png",
-    "published_at": "2026-10-19T15:31:18.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-elder-scrolls-v-skyrim",
-    "game_label": "The Elder Scrolls V: Skyrim"
-  },
-  {
-    "id": "245a2eff5e3f",
-    "slug": "ai-cloning-threatens-to-end-public-playtests-for-video-games",
-    "headline": "AI Cloning Threatens To End Public Playtests For Video Games",
-    "summary": "Moonlighter dev Digital Sun has cancelled plans for a public playtest of its next game, for fears of Claude clones",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/revamp-public-playtest-cancelled-digital-sun-claude-ai-clones-2000747558"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/revamp1-1280x720.jpg",
-    "published_at": "2026-10-19T15:30:36.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ef16eab28a1a",
-    "slug": "where-to-find-penny-buns-in-enshrouded",
-    "headline": "Where to find penny buns in Enshrouded",
-    "summary": "A helpful guide for players of the game Enshrouded on how to find the best spot to farm penny buns.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/enshrouded-penny-buns-how-to-get/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/enshrouded-penny-bun-1.jpg",
-    "published_at": "2026-10-19T15:30:22.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "enshrouded",
-    "game_label": "Enshrouded"
-  },
-  {
-    "id": "fc6b71debc2f",
-    "slug": "konami-president-discusses-ai-use-in-game-development",
-    "headline": "Konami President Discusses AI Use in Game Development",
-    "summary": "Konami's president shares his thoughts on the potential use of AI in game development, believing it will be most effective in certain areas.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/konami-president-generative-ai-statement/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/konami-president-ai-comment.jpg",
-    "published_at": "2026-10-19T15:30:15.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
