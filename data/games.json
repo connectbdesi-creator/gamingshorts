@@ -23779,5 +23779,60 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-20T20:21:11.895Z"
+  },
+  {
+    "slug": "opus-55",
+    "name": "Opus Magnum",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/dda/dda32189c8a4a0231fa9bd8012f72df1.jpg",
+    "released": "2017-10-19",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Puzzle"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Linux"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/ed6/ed6a9e9a9497895e6866cd2ecfd96f1a.jpg",
+      "https://media.rawg.io/media/screenshots/963/9636adcd104e9cf81c67cb94729b86ad.jpg",
+      "https://media.rawg.io/media/screenshots/ec7/ec77018328722ee95f44d5e0a8f06aed.jpg",
+      "https://media.rawg.io/media/screenshots/cf5/cf5af56d350d9dd6728f49f49b547327.jpg",
+      "https://media.rawg.io/media/screenshots/85d/85d0a5c413ed65b952e6c89d538b5e11.jpg",
+      "https://media.rawg.io/media/screenshots/435/435d4eb14fa819b61df15edefdd3dde3.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-20T22:23:15.418Z"
+  },
+  {
+    "slug": "mouthwashing",
+    "name": "Mouthwashing",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/ba1/ba1bf58929130f56be870b6217746aed.jpg",
+    "released": "2024-09-26",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Adventure"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a52/a52ae12aa4c404c3f28a4a32cf73d9f2.jpg",
+      "https://media.rawg.io/media/screenshots/0b5/0b56b7434d3d4364797c034c6efb318a.jpg",
+      "https://media.rawg.io/media/screenshots/3c2/3c2424c8d7cbab2a04bef7356dcbe171.jpg",
+      "https://media.rawg.io/media/screenshots/dbd/dbd17ee0860b125101fe7b8463ce2274.jpg",
+      "https://media.rawg.io/media/screenshots/7ac/7accd3b277eaeac78658b23f48af8f46.jpg",
+      "https://media.rawg.io/media/screenshots/6a2/6a2a91be54f4ad152982fb980286aa18.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-20T22:23:16.883Z"
   }
 ]
