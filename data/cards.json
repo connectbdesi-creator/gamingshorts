@@ -1,5 +1,903 @@
 [
   {
+    "id": "8d1c7b5ef623",
+    "slug": "mike-flanagan-confirms-the-dark-tower-tv-series-faithfulness",
+    "headline": "Mike Flanagan Confirms The Dark Tower TV Series Faithfulness",
+    "summary": "TV creator Mike Flanagan promises a faithful adaptation of Stephen King's The Dark Tower series, starting with the first novel, The Gunslinger.",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/dark-tower-tv-series-update-mike-flanagan-faithful-books/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dark-tower-cover-16-9.jpg",
+    "published_at": "2026-10-20T14:14:31.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-dark-tower",
+    "game_label": "The Dark Tower"
+  },
+  {
+    "id": "15e63ead14fd",
+    "slug": "new-steam-update-already-makes-xboxs-brand-new-achievements-feel-old",
+    "headline": "New Steam Update Already Makes Xbox's Brand-New Achievements Feel Old",
+    "summary": "Steam's new achievement update gives completionists more flexibility, making Xbox's brand-new Mythic Achievements feel dated almost immediately.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/steam-achievement-sets-xbox-mythic-achievements/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/steam-new-achievement-update-makes-xbox-mythic-achievements-feel-old-game-rant-1.jpg",
+    "published_at": "2026-10-20T14:00:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "50d7d1649975",
+    "slug": "new-double-fine-game-launches-to-strong-94-reviews-but-theres-a-catch",
+    "headline": "New Double Fine Game Launches to Strong 94% Reviews, But There's a Catch",
+    "summary": "The latest game release from newly-independent Double Fine is off to a strong start in player reviews, though it comes with a major caveat.",
+    "category": "reviews",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/double-fine-thank-you-bus-driver-reviews-charts/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/new-double-fine-game-launches-to-strong-94-reviews-but-there-s-a-catch-gamerant.jpg",
+    "published_at": "2026-10-20T14:00:14.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d3a5c824ba45",
+    "slug": "11-ps-plus-extra-game-removals-for-november-2026-confirmed",
+    "headline": "11 PS Plus Extra Game Removals for November 2026 Confirmed",
+    "summary": "Rockstar drops PS Plus support again. This month's PS Plus Extra and PS Plus Premium game update is now live for PS5, PS4 players (or some of it is, if you are in the UK, USA, or Japan), which means it's time to learn what titles will be taken off the service in November 2026. We already know that GTA…",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/11-ps-plus-extra-game-removals-for-november-2026-confirmed"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/32e7fe1347b78/large.jpg",
+    "published_at": "2026-10-20T14:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "31fe54ccf8ac",
+    "slug": "destiny-2-unvaulting-process-update",
+    "headline": "Destiny 2 Unvaulting Process Update",
+    "summary": "Bungie's Josh Deane has given fans a promising update on when they can expect to learn more about the unvaulting process for Destiny 2, promising it's soon.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/destiny-2-content-unvaulting-process-update-when/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/destiny-2-hunter.jpg",
+    "published_at": "2026-10-20T13:58:32.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "destiny-2",
+    "game_label": "Destiny 2"
+  },
+  {
+    "id": "ef1ce867165d",
+    "slug": "the-suits-made-all-the-money-from-call-of-duty-black-ops-1-and-2-ports",
+    "headline": "“The Suits” Made All The Money From Call Of Duty: Black Ops 1 And 2 Ports, OG Dev Says",
+    "summary": "Activision recently released ports of 2010's Call of Duty: Black Ops and 2012's Call of Duty: Black Ops 2 on PlayStation, and they were massive hits. According to a report, the games combined to sell more than 11 million copies on PS4 and PS5. Developer Gavin Goslin, who worked on these games at Treyarch, has reflected on the massive success…",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/the-suits-made-all-the-money-from-call-of-duty-black-ops-1-and-2-ports-og-dev-says/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/blackops-Large.jpeg?w=300",
+    "published_at": "2026-10-20T13:50:20.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "810f79430d82",
+    "slug": "palworld-side-by-side-is-the-survival-games-next-big-update-and-it-rel",
+    "headline": " Palworld: Side by Side is the survival game's next big update, and it releases in Winter 2026 ",
+    "summary": "Pocketpair has also announced the results of a fan poll that should bring no surprises",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/survival/palworld-side-by-side-is-the-survival-games-next-big-update-and-it-releases-in-winter-2026/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/4XPofY5ng55BeXD5pEF6TN-1920-80.png",
+    "published_at": "2026-10-20T13:48:59.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "4be2dc04f7c1",
+    "slug": "final-fantasy-resonance-is-launching-on-xbox-to-extremely-impressive-r",
+    "headline": "Final Fantasy Resonance Is Launching On Xbox To Extremely Impressive Reviews",
+    "summary": "The game arrives this Thursday. We've got a new Final Fantasy heading our way this Thursday in the form of Final Fantasy Resonance, which returns the series to the HD‑2D pixel-art world, and the critics are already heaping a whole ton of praise on it. Most of the reviews so far have been for the PS5 and Switch 2 versions,…",
+    "category": "reviews",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/final-fantasy-resonance-is-launching-on-xbox-to-extremely-impressive-reviews"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/8e4760911870b/large.jpg",
+    "published_at": "2026-10-20T13:47:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "254577cdf172",
+    "slug": "steam-frame-headset-could-see-price-drop-after-bouncing-screensaver-vi",
+    "headline": "Steam Frame Headset Could See Price Drop After Bouncing Screensaver Video",
+    "summary": "A video showcasing the Steam Frame headset's bouncing screensaver has been viewed millions of times, raising hopes that the device's price will decrease.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/vr-hardware/im-not-sure-if-the-steam-frame-hits-any-corners-in-this-bouncing-screensaver-but-maybe-if-i-watch-long-enough-the-headset-will-come-down-in-price/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/vY4ztJVBw6dNr9Zr4sVMMT-1920-80.jpg",
+    "published_at": "2026-10-20T13:43:57.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "steam-frame",
+    "game_label": "Steam Frame"
+  },
+  {
+    "id": "31e31684dc1f",
+    "slug": "final-fantasy-resonance-and-nintendo-switch-sports-resort-review-round",
+    "headline": "Final Fantasy Resonance And Nintendo Switch Sports Resort Review Roundup",
+    "summary": "Review scores are in for Final Fantasy Resonance and Nintendo Switch Sports Resort, with both games releasing on October 22.",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/final-fantasy-resonance-nintendo-switch-sports-resort-review-scores/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/10/new-project-2026-10-20t142309-304.jpg",
+    "published_at": "2026-10-20T13:38:24.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f284bc9865b1",
+    "slug": "masahiro-sakurai-says-gaming-needs-originality-or-it-will-die-slowly",
+    "headline": "Masahiro Sakurai Says Gaming Needs Originality Or It ‘Will Die Slowly’",
+    "summary": "Sakurai issues comments while warning that AI will introduce a flurry of 'unplayable' games",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/masahiro-sakurai-says-gaming-needs-originality-or-it-will-die-slowly-2000747672"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/10/Masahiro-Sakurai-1280x693.jpg",
+    "published_at": "2026-10-20T13:30:38.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f453cc53ae5d",
+    "slug": "pokemon-developers-new-rpg-proves-patches-cant-fix-everything",
+    "headline": "Pokemon Developer's New RPG Proves Patches Can't Fix Everything",
+    "summary": "Game Freak's latest RPG raises an interesting question about how much post-launch updates can really change a game's reception.",
+    "category": "patches",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/beast-of-reincarnation-update-final-combat-story/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/gamerant-78.jpg",
+    "published_at": "2026-10-20T13:30:14.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7882190073ae",
+    "slug": "how-final-fantasy-resonance-uses-visions-to-change-how-we-see-the-seri",
+    "headline": "How Final Fantasy Resonance uses Visions to change how we see the series",
+    "summary": "With its cinematic HD-2D visuals and flashy combat, Final Fantasy Resonance was already piquing the interest of turn-based RPG fans, but its powerful and fun Visions mechanic has really captured the imagination. I went hands-on with the final game to take a deep dive into what Visions are, how they work, and how they transform […]",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/10/20/how-final-fantasy-resonance-uses-visions-to-change-how-we-see-the-series/"
+      }
+    ],
+    "image_url": "https://blog.playstation.com/uploads/2048/10/6ccedd41c66c665979153fedd08ec8722ef52626.mp4",
+    "published_at": "2026-10-20T13:30:11.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6dcaf821bed2",
+    "slug": "adam-boyes-vivrato-issues-report-based-on-101-game-leaders-views-on-ai",
+    "headline": "Adam Boyes’ Vivrato issues report based on 101 game leaders’ views on AI in gaming | exclusive",
+    "summary": "Vivrato, a games industry consultancy headed by Adam Boyes, released the Vivrato AI Adoption (VAIA) Report 2026, saying AI is being used widely in...\nThe post Adam Boyes’ Vivrato issues report based on 101 game leaders’ views on AI in gaming | exclusive appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/adam-boyes-vivrato-issues-report-based-on-101-game-leaders-views-on-ai-in-gaming-exclusive/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/6dcaf821bed2/800/600",
+    "published_at": "2026-10-20T13:30:00.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3f3764907bd9",
+    "slug": "ps-store-must-copy-steam-if-pc-players-campaign-against-ai-content-suc",
+    "headline": "PS Store Must Copy Steam If PC Players' Campaign Against AI Content Succeeds",
+    "summary": "Steam Next Fest is a disaster. There's currently a huge push for an all-encompassing Steam filter that would allow users to disqualify any game that uses AI-generated assets from their search results. The campaign, which is underway across all of the usual social media platforms like Reddit, X (formerly Twitter), and Discord, has gained serious momentum because of this year's…",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/ps-store-must-copy-steam-if-pc-players-campaign-against-ai-content-succeeds"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/93c99a6dcd6b8/large.jpg",
+    "published_at": "2026-10-20T13:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2353f8848e0d",
+    "slug": "the-unlikely-encore-of-the-red-octane-gang-with-the-stage-tour-music-r",
+    "headline": "The unlikely encore of the Red Octane gang with the Stage Tour music rhythm game | exclusive interview",
+    "summary": "Once a gaming franchise dies off, it rarely gets on encore. That seemed to be the case with RedOctane, the company that brought us...\nThe post The unlikely encore of the Red Octane gang with the Stage Tour music rhythm game | exclusive interview appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/the-unlikely-encore-of-the-red-octane-gang-with-the-stage-tour-music-rhythm-game-exclusive-interview/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/2353f8848e0d/800/600",
+    "published_at": "2026-10-20T13:30:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "1d0f772cf816",
+    "slug": "gmktec-k8-plus-mini-pc-review",
+    "headline": "GMKTec K8 Plus Mini PC Review",
+    "summary": "The GMKTec K8 Plus offers affordable PC gaming entry, but a WiFi card is recommended for full connectivity.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/hardware/desktop-pc/gmktec-k8-plus-review/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/5o384ZPiKzUxCYA5bUX3qX-1920-80.jpg",
+    "published_at": "2026-10-20T13:18:48.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gmktec-k8-plus",
+    "game_label": "GMKTec K8 Plus"
+  },
+  {
+    "id": "f022bef85900",
+    "slug": "ys-viii-lacrimosa-of-dana-coming-to-nintendo-switch-2",
+    "headline": "Ys VIII: Lacrimosa of DANA Coming to Nintendo Switch 2",
+    "summary": "NIS America and Falcom are releasing a Switch 2 version of the action RPG Ys VIII: Lacrimosa of DANA on February 25, 2027.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/ys-viii-lacrimosa-of-dana-coming-to-switch-2-on-february-25-2027"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/f022bef85900/800/600",
+    "published_at": "2026-10-20T13:14:26.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ys-viii-lacrimosa-of-dana",
+    "game_label": "Ys VIII: Lacrimosa of DANA"
+  },
+  {
+    "id": "67efdb284544",
+    "slug": "helldivers-2s-gameguard-cheat-policing-wasnt-as-effective-as-it-could",
+    "headline": "Helldivers 2's GameGuard cheat policing \"wasn't as effective as it could have been\", cue a switch to Easy Anti-Cheat as part of a crackdown on cheat mods",
+    "summary": "Helldivers 2, a game that still appears to be missing in action from Steam here in the UK, is switching anti-cheat software. Developers Arrowhead are keen to tighten up security and crack down on the use of cheat mods that can influence the bug-slaying experience of folks beyond the person who's installed them.\nRead more",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/helldivers-2s-gameguard-cheat-policing-wasnt-as-effective-as-it-could-have-been-cue-a-switch-to-easy-anti-cheat-as-part-of-a-crackdown-on-cheat-mods"
+      },
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/helldivers-2-easy-anti-cheat-switch-game-guard"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/helldivers-2-anti-cheat-switch-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-20T13:13:19.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "52f859f5814d",
+    "slug": "six-years-later-cyberpunk-2077-is-still-getting-updates",
+    "headline": "Six Years Later, Cyberpunk 2077 Is Still Getting Updates",
+    "summary": "The 2.5 patch comes just as Cyberpunk: Edgerunners II premieres on Netflix",
+    "category": "patches",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/cyberpunk-2077-edgerunners-season-2-patch-update-netflix-2000747931"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2023/09/d01d81c8eec5957be48bc7819fce7f13-1280x720.jpg",
+    "published_at": "2026-10-20T13:09:52.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "17b26f25b726",
+    "slug": "review-final-fantasy-resonance-switch-2-plays-like-a-lost-entry-from-e",
+    "headline": "Review: Final Fantasy Resonance (Switch 2) - Plays Like A Lost Entry From Earlier In The Series",
+    "summary": "Good to have you back, old friend. Over the years, Final Fantasy has been nothing if not inventive, as its largely anthology-based approach has led to a variety of JRPG game design experiments. Yet in more recent years, it feels like the franchise has strayed from its roots, with more old-school fans pining for a return to the days when…",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/final-fantasy-resonance"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/e6a7165495f0a/large.jpg",
+    "published_at": "2026-10-20T13:05:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7a30499d73a6",
+    "slug": "nintendo-switch-sports-resort-review-2",
+    "headline": "Nintendo Switch Sports Resort review",
+    "summary": "One of my very favourite things to do in Switch Sports Resort isn't, technically, a sport at all. I can't get enough of Prop Plane's free-play mode, taking to the skies, and watching Wuhu Island do its thing below. Swing past the art museum or the shopping precinct and you'll see all sorts of little people milling around; take a…",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/nintendo-switch-sports-resort-review"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/switch-sports-resort-boxing.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-20T13:03:25.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "cdd667c64087",
+    "slug": "griffin-gaming-partners-and-entertainment-360-launch-new-company-to-su",
+    "headline": "Griffin Gaming Partners and Entertainment 360 launch new company to support video game adaptations for film and TV",
+    "summary": "Griffin Gaming Partners has launched a new company to support game adaptations for film and television in partnership with talent management and production firm Entertainment 360.\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/griffin-gaming-partners-and-entertainment-360-launch-new-company-to-support-video-game-adaptations-for-film-and-tv"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/zelda-live-action.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-20T13:00:45.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "630877994530",
+    "slug": "nintendo-switch-sports-resort-review-the-most-feature-packed-nintendo",
+    "headline": "Nintendo Switch Sports Resort review: The most feature-packed Nintendo sports game yet",
+    "summary": "Nintendo's Switch Sports Resort offers a packed experience with various sports and multiplayer options, suitable for both solo and co-op play.",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/review/nintendo-switch-sports-resort/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/630877994530/800/600",
+    "published_at": "2026-10-20T13:00:44.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "nintendo-switch-sports-resort",
+    "game_label": "Nintendo Switch Sports Resort"
+  },
+  {
+    "id": "72559e2729f7",
+    "slug": "nintendo-switch-sports-resort-review-a-worthy-wii-sports-successor",
+    "headline": "Nintendo Switch Sports Resort Review: A Worthy Wii Sports Successor",
+    "summary": "Nintendo Switch Sports Resort is the first entry in the series that gives Wii Sports a run for its money.",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/nintendo-switch-sports-resort-switch-2-review/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/10/new-project-2026-10-20t110137-877.jpg",
+    "published_at": "2026-10-20T13:00:17.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "45ded5fede27",
+    "slug": "new-open-world-game-launches-to-485-positive-reviews-on-ps5",
+    "headline": "New Open-World Game Launches to 4.8/5 Positive Reviews on PS5",
+    "summary": "One of the most anticipated open-world games on PlayStation 5 is finally out, and players have already given it rave reviews.",
+    "category": "reviews",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/ps5-new-open-world-games-beamngdrive-reviews/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/beamngdrive-ps5-release-reviews-gamerant.jpg",
+    "published_at": "2026-10-20T13:00:14.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2328da619271",
+    "slug": "final-fantasy-resonance-review-a-nostalgic-jrpg-limited-by-its-mobile",
+    "headline": "Final Fantasy Resonance Review: A nostalgic JRPG limited by its mobile origins",
+    "summary": "Alongside Square Enix's Pixel Remasters and other HD-2D games, Resonance isn't an essential experience",
+    "category": "reviews",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/review/final-fantasy-resonance/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/2328da619271/800/600",
+    "published_at": "2026-10-20T13:00:01.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "291b4b0c17eb",
+    "slug": "nintendo-switch-sports-resort-review",
+    "headline": "Nintendo Switch Sports Resort Review",
+    "summary": "A collection of sports games designed to spark deceptively heated rivalries.",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/nintendo-switch-sports-resort-review"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/19/nintendo-switch-sports-resort-blogroll-1792452507479.jpg",
+    "published_at": "2026-10-20T13:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c039b601c514",
+    "slug": "review-nintendo-switch-sports-resort-switch",
+    "headline": "Review: Nintendo Switch Sports Resort (Switch)",
+    "summary": "The author reviews Nintendo Switch Sports Resort, a sports game on the Nintendo Switch, mentioning their nostalgia for Wii Sports Resort and Wii Sports.",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/nintendo-switch-sports-resort"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/00a8f51995915/large.jpg",
+    "published_at": "2026-10-20T13:00:00.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "nintendo-switch-sports-resort",
+    "game_label": "Nintendo Switch Sports Resort"
+  },
+  {
+    "id": "063b6aa3de36",
+    "slug": "review-final-fantasy-resonance-ps5-squares-series-returns-to-its-roots",
+    "headline": "Review: Final Fantasy Resonance (PS5) - Square's Series Returns to Its Roots to Fantastic Effect",
+    "summary": "Crystal clear. For well over a decade now, some Final Fantasy fans have been demanding a return to a more traditional gameplay structure. And while Final Fantasy Resonance is a far cry from being a mainline AAA Final Fantasy game, it provides a glimpse of what a modern instalment could look like, if it adhered to old-school sensibilities. Resonance is…",
+    "category": "reviews",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/reviews/ps5/final-fantasy-resonance"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/0e8a6690507ed/large.jpg",
+    "published_at": "2026-10-20T13:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "94339836da93",
+    "slug": "final-fantasy-resonance-review",
+    "headline": "Final Fantasy Resonance Review",
+    "summary": "Final Fantasy Resonance combines impressive HD-2D visuals and turn-based combat with decent music, but a weak narrative holds it back. The game is a retool of Brave Exvius.",
+    "category": "reviews",
+    "platform_tags": [
+      "mobile",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/final-fantasy-resonance-review"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/19/final-fantasy-resonance-blogroll-1792451006645.jpg",
+    "published_at": "2026-10-20T13:00:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-resonance",
+    "game_label": "Final Fantasy Resonance"
+  },
+  {
+    "id": "0b0158f67d95",
+    "slug": "final-fantasy-resonance-review-a-breezy-nostalgia-laced-jrpg-that-give",
+    "headline": " Final Fantasy Resonance review: \"A breezy nostalgia-laced JRPG that gives the HD-2D style a shot in the arm\" ",
+    "summary": "A defunct gacha mobile game is reborn into a classic but modern adventure",
+    "category": "reviews",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-resonance-review/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/fb5UBr38cU3AzvxaBxR7sN-1920-80.jpg",
+    "published_at": "2026-10-20T13:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "bb72ae785da8",
+    "slug": "people-whove-finished-call-of-duty-modern-warfare-4-on-the-new-yolo-si",
+    "headline": "People who've finished Call of Duty: Modern Warfare 4 on the new YOLO, single-life difficulty share experiences and tips for doing so",
+    "summary": "The Call of Duty: Modern Warfare 4 campaign is currently available in early access, and if you're among the many who pre-ordered a copy in order to play it before launch, you've likely noticed a locked difficulty setting that's harder, even, than Realism.\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-finish-yolo-campaign-difficulty"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-campaign-launch-screen-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-20T12:57:42.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "afc9119b7605",
+    "slug": "gta-6-is-148-ahead-of-this-other-popular-aaa-game-so-far",
+    "headline": "GTA 6 Is 148% Ahead Of This Other Popular AAA Game So Far",
+    "summary": "GTA 6 launches in November, and everyone expects it to be a giant, record-breaking release. But just how big will the release be? Early signs are pointing to an enormous, unprecedented launch, and new data backs that up. Sensor Tower compiled preorder data for some of the biggest games released over the past six years, including Call of Duty: Modern…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-is-148-ahead-of-this-other-popular-aaa-game-so-far/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Jason_and_Lucia_11_be2530.jpg?w=300",
+    "published_at": "2026-10-20T12:51:41.000Z",
+    "hype_signal": 95,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9b4954c6da7b",
+    "slug": "amnesia-the-dark-descents-co-founder-explained-the-the-dynamic-of-stea",
+    "headline": " Amnesia: The Dark Descent's co-founder explained the 'the dynamic of Steam' to Red Barrels after Outlast's sales slowed down ",
+    "summary": "\"Basically, your sales curve becomes like a roller coaster.\"",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/horror/amnesia-the-dark-descents-co-founder-explained-the-the-dynamic-of-steam-to-red-barrels-after-outlasts-sales-slowed-down/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/KGJFwuu7PbJazeNxXfWNNn-1920-80.jpg",
+    "published_at": "2026-10-20T12:44:51.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2b0c52fa7cd1",
+    "slug": "vampire-the-masquerade-bloodlines-remastered-rumored-for-consoles",
+    "headline": "Vampire: The Masquerade - Bloodlines Remastered Rumored for Consoles",
+    "summary": "A remastered version of the classic RPG Vampire: The Masquerade - Bloodlines is reportedly in development, potentially bringing the game to consoles for the first time",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/rumour-iconic-rpg-vampire-the-masquerade-bloodlines-is-being-remastered"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/fc5c1dcdf4dde/large.jpg",
+    "published_at": "2026-10-20T12:30:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "vampire-the-masquerade-bloodlines",
+    "game_label": "Vampire: The Masquerade - Bloodlines"
+  },
+  {
+    "id": "cd7f5e404550",
+    "slug": "mattel-launches-game-studios-arm-on-roblox",
+    "headline": "Mattel Launches Game Studios Arm on Roblox",
+    "summary": "Mattel is creating a new game development studio, focusing on its own IPs, and releasing its first game on Roblox. This move highlights the growing importance of gaming and entertainment in the company's business strategy.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/players-want-to-engage-with-brands-not-just-consume-them-mattel-on-its-new-game-studios-arm-why-its-releasing-on-roblox-and-what-it-learnt-from-netease"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Mattel-logo.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-20T12:30:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "mattel-game-studios",
+    "game_label": "Mattel Game Studios"
+  },
+  {
+    "id": "3f084adc9aa3",
+    "slug": "the-evercade-nexus-is-blazes-best-retro-handheld-yet-but-i-wouldnt-com",
+    "headline": " The Evercade Nexus is Blaze's best retro handheld yet, but I wouldn't compare the physical cartridge champion to similarly priced rivals ",
+    "summary": "The Evercade Nexus helps take Blaze's physical cartridge platform to new heights with dual thumbsticks, a larger IPS display, and wireless local multiplayer.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/hardware/retro/evercade-nexus-review/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/MXByYb2UzkxeiotXKfx4GC-1920-80.jpg",
+    "published_at": "2026-10-20T12:28:03.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e2cd6db0757a",
+    "slug": "cyberpunk-2077-update-released-with-edgerunners-season-2",
+    "headline": "Cyberpunk 2077 Update Released with Edgerunners Season 2",
+    "summary": "CD Projekt Red has released a substantial update to Cyberpunk 2077, timed to coincide with the second season of the Netflix anime series Edgerunners.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/cyberpunk-2077-25-update-free-egerunners-2-release"
+      },
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/cyberpunk-2077-is-celebrating-edgerunners-season-2-with-a-surprise-update/"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Edgerunners-update.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-20T12:19:48.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "cyberpunk-2077",
+    "game_label": "Cyberpunk 2077"
+  },
+  {
     "id": "2509a46df8af",
     "slug": "disney-store-drops-new-muppets-christmas-carol-merchandise",
     "headline": "Disney Store Drops New Muppets Christmas Carol Merchandise",
@@ -240,34 +1138,6 @@
     "comment_count": 0,
     "game": "black-clover",
     "game_label": "Black Clover"
-  },
-  {
-    "id": "e2cd6db0757a",
-    "slug": "cyberpunk-2077-update-released-with-edgerunners-season-2",
-    "headline": "Cyberpunk 2077 Update Released with Edgerunners Season 2",
-    "summary": "CD Projekt Red has released a substantial update to Cyberpunk 2077, timed to coincide with the second season of the Netflix anime series Edgerunners.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/cyberpunk-2077-25-update-free-egerunners-2-release"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Edgerunners-update.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-20T11:29:50.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "cyberpunk-2077",
-    "game_label": "Cyberpunk 2077"
   },
   {
     "id": "8e6c9e360f1e",
@@ -872,30 +1742,6 @@
     ],
     "image_url": "https://cdn.mos.cms.futurecdn.net/MhUhVvM6DEEQVqXYfCpUiC-1920-80.jpg",
     "published_at": "2026-10-20T09:38:16.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "67efdb284544",
-    "slug": "helldivers-2s-gameguard-cheat-policing-wasnt-as-effective-as-it-could",
-    "headline": "Helldivers 2's GameGuard cheat policing \"wasn't as effective as it could have been\", cue a switch to Easy Anti-Cheat as part of a crackdown on cheat mods",
-    "summary": "Helldivers 2, a game that still appears to be missing in action from Steam here in the UK, is switching anti-cheat software. Developers Arrowhead are keen to tighten up security and crack down on the use of cheat mods that can influence the bug-slaying experience of folks beyond the person who's installed them.\nRead more",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/helldivers-2s-gameguard-cheat-policing-wasnt-as-effective-as-it-could-have-been-cue-a-switch-to-easy-anti-cheat-as-part-of-a-crackdown-on-cheat-mods"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/helldivers-2-anti-cheat-switch-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-20T09:32:27.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -3754,873 +4600,6 @@
     ],
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/magic-the-gathering-star-trek-teaser-basic-lands.jpg",
     "published_at": "2026-10-19T15:00:16.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f3d5d85e3d6a",
-    "slug": "does-kingdom-hearts-still-need-final-fantasy-in-under-5-minutes",
-    "headline": "Does Kingdom Hearts Still Need Final Fantasy? (In Under 5 Minutes)",
-    "summary": "Kingdom Hearts has been described as a crossover of Disney and Final Fantasy since the first game released on the PlayStation 2, but what exactly does this mean? While the original pitch sold players seeing characters like Cloud and Sephiroth in the same game as Donald Duck, Kingdom Hearts has grown into its own beast while maintaining the spirit of…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/video/does-kingdom-hearts-still-need-final-fantasy-in-under-5-minutes/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/kingdom-hearts-final-fantasy-5-minutes-of-less-site.jpg",
-    "published_at": "2026-10-19T15:00:16.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "30edc783b12e",
-    "slug": "final-fantasy-7-revelations-hardest-difficulty-accessible-from-start",
-    "headline": "Final Fantasy 7 Revelation's Hardest Difficulty Accessible from Start",
-    "summary": "Final Fantasy 7 Revelation allows players to access the game's hardest difficulty from the start, thanks to a wide variety of end-game content.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/final-fantasy-7-revelation-lets-you-play-on-the-hardest-difficulty-from-the-start-because-of-the-wide-variety-of-end-game-content-2000747557"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/09/cidred-1280x767.jpg",
-    "published_at": "2026-10-19T15:00:05.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "final-fantasy-7-revelation",
-    "game_label": "Final Fantasy 7 Revelation"
-  },
-  {
-    "id": "c7c5a52c385f",
-    "slug": "hands-on-beamngdrives-insanely-ambitious-simulation-sandbox-is-a-minor",
-    "headline": "Hands On: BeamNG.drive's Insanely Ambitious Simulation Sandbox Is a Minor Miracle on PS5",
-    "summary": "Will it blend? BeamNG.drive makes its debut on PS5 today, 19th October 2026, and it's unlike anything else available on the console. Squeezing this vehicular physics simulation onto the six-year-old machine is a feat that fans of driving games shouldn't ignore. This is a truly unique offering that packs in a surprising amount of stuff to do — so much…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/features/hands-on-beamng-drives-insanely-ambitious-simulation-sandbox-is-a-minor-miracle-on-ps5"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/fbfd7d11a12e0/large.jpg",
-    "published_at": "2026-10-19T15:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5294397a0488",
-    "slug": "crusader-kings-3s-merchant-republics-expansion-silk-and-silver-will-re",
-    "headline": "Crusader Kings 3's merchant republics expansion, Silk and Silver, will release during the very quiet time of mid-November 2026",
-    "summary": "The second big expansion coming to Crusader Kings 3 this year finally has a proper release date. Silk and Silver, the gold-clinking sibling of recently released Church-centric DLC By God Alone, will arrive on November 17th. Just a couple of days before that which shall not be named, but has resulted in a lot of studios opting to give mid-November…",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/crusader-kings-3s-merchant-republics-expansion-silk-and-silver-will-release-during-the-very-quiet-time-of-mid-november-2026"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/crusader-kings-3-silk-and-silver-release-date-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-19T14:55:52.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8660cc1e0035",
-    "slug": "final-fantasy-resonance-launches-on-multiple-platforms-today",
-    "headline": "Final Fantasy Resonance Launches on Multiple Platforms Today",
-    "summary": "Final Fantasy Resonance is now available on PC, PS5, Xbox, and Nintendo Switch, with launch times for various time zones",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/final-fantasy-resonance-release-time-countdown/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/rain-and-party-in-ff-resonance.jpg",
-    "published_at": "2026-10-19T14:51:54.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "final-fantasy-resonance",
-    "game_label": "Final Fantasy Resonance"
-  },
-  {
-    "id": "cb61d7fa9931",
-    "slug": "where-to-buy-xbox-x25-controller-for-release-day-delivery-tomorrow",
-    "headline": "Where to Buy Xbox X25 Controller for Release Day Delivery Tomorrow",
-    "summary": "The Xbox X25 special edition controller launches tomorrow, and those looking to buy one can do so at these retailers for release day delivery.",
-    "category": "deals",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/gaming-controllers/where-to-buy-the-xbox-x25-controller-and-still-nab-yourself-release-day-delivery-tomorrow/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/wntmXxGBomRVu56cMTRRcF-1920-80.jpg",
-    "published_at": "2026-10-19T14:44:12.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "xbox-x25",
-    "game_label": "Xbox X25"
-  },
-  {
-    "id": "3fd737521854",
-    "slug": "samsungs-better-switch-sd-card-deal-is-on-sale-now",
-    "headline": "Samsung's Better Switch SD Card Deal is on Sale Now",
-    "summary": "A Samsung 512GB microSD Express Card is being sold at a lower price than Nintendo's official Switch 2 SD card",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/accessories/the-official-512gb-switch-2-sd-card-is-on-sale-but-youre-better-off-picking-up-this-samsung-model-instead/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/hb2JZvm36qPSs3phf2ibC3-1920-80.jpg",
-    "published_at": "2026-10-19T14:38:24.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7f05145ea314",
-    "slug": "how-to-get-pacifist-trophy-in-modern-warfare-4s-assassins-mission",
-    "headline": "How to Get Pacifist Trophy in Modern Warfare 4's Assassins Mission",
-    "summary": "A guide on how to complete Modern Warfare 4's Assassins mission without killing any enemies to achieve the Pacifist trophy",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/cod-modern-warfare-4-assassins-pacifist-trophy-guide/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/modern-warfare-4-how-to-complete-assassins-by-only-killing-one-enemy.jpg",
-    "published_at": "2026-10-19T14:38:11.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "modern-warfare-4",
-    "game_label": "Modern Warfare 4"
-  },
-  {
-    "id": "839523825536",
-    "slug": "phantom-blade-zero-will-gobble-up-a-massive-chunk-of-your-ps5s-ssd",
-    "headline": "Phantom Blade Zero Will Gobble Up a Massive Chunk of Your PS5's SSD",
-    "summary": "Space raiders.\nIf you’re planning to play Phantom Blade Zero this month, then you may want to start juggling your PS5’s storage space in anticipation.\nPlayStation Game Size reports that the Chinese-developed console exclusive will eat up a whopping ~135GB – and this is presumably without any planned launch day patches installed.\nRead the full article on pushsquare.com",
-    "category": "patches",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/phantom-blade-zero-will-gobble-up-a-massive-chunk-of-your-ps5s-ssd"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/2877079cf81b1/large.jpg",
-    "published_at": "2026-10-19T14:30:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2f5e77a0a8f5",
-    "slug": "pure-xbox-community-weighs-in-on-valor-mortis",
-    "headline": "Pure Xbox Community Weighs In on Valor Mortis",
-    "summary": "Pure Xbox is asking its community for their opinions on Valor Mortis, a first-person soulslike game available on Xbox Game Pass since October 13th.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/10/poll-so-what-do-you-think-of-valor-mortis"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/9d16f50e2aeff/large.jpg",
-    "published_at": "2026-10-19T14:30:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "valor-mortis",
-    "game_label": "Valor Mortis"
-  },
-  {
-    "id": "5cc720431396",
-    "slug": "battlefield-6-dev-owns-up-to-mistakes-with-strange-looking-cosmetics-b",
-    "headline": "Battlefield 6 Dev Owns Up To Mistakes With Strange-Looking Cosmetics, But Stays Silent On Possible AI Use",
-    "summary": "Battlefield Studios has released a statement regarding Battlefield 6 after players came together to point out oddities and irregularities with some of the game's newest cosmetics, leading many to openly wonder whether they were the result of generative AI. The developer’s statement admits mistakes with some of the newly released cosmetics, but it did not say whether genAI played a…",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/battlefield-6-dev-owns-up-to-mistakes-with-strange-looking-cosmetics-but-stays-silent-on-possible-ai-use/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/BF6.jpg?w=300",
-    "published_at": "2026-10-19T14:29:16.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c3277e7efff0",
-    "slug": "capcom-ignored-development-flaws-in-resident-evil-7-according-to-dev",
-    "headline": "Capcom Ignored Development Flaws in Resident Evil 7, According to Dev",
-    "summary": "A Resident Evil 7 developer claims that the game's flaws were present during development but ignored by Capcom higher-ups.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/resident-evil/resident-evil-7-dev-says-a-lot-of-the-horror-games-flaws-were-vividly-present-during-development-and-roundly-ignored/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/kWeiU57AmD7Vvtwg86wciC-1920-80.jpg",
-    "published_at": "2026-10-19T14:27:39.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "resident-evil-7",
-    "game_label": "Resident Evil 7"
-  },
-  {
-    "id": "3840878cbb9a",
-    "slug": "castlevania-belmonts-curse-debuts-at-number-three-in-uk-charts",
-    "headline": "Castlevania: Belmont's Curse Debuts at Number Three in UK Charts",
-    "summary": "Castlevania: Belmont's Curse has entered the UK top 10 with 45% of its sales coming from the Nintendo Switch. It trails behind EA Sports FC 27 and Control Resonant in the latest chart",
-    "category": "releases",
-    "platform_tags": [
-      "switch",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/10/uk-charts-castlevania-belmonts-curse-whips-up-a-fine-debut-but-its-not-king-of-the-castle"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/4fb8b932252f0/large.jpg",
-    "published_at": "2026-10-19T14:15:00.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "castlevania-belmonts-curse",
-    "game_label": "Castlevania: Belmont's Curse"
-  },
-  {
-    "id": "0a8c475f4428",
-    "slug": "saros-biggest-update-yet-officially-gets-release-date-and-full-details",
-    "headline": "Saros' Biggest Update Yet Officially Gets Release Date and Full Details",
-    "summary": "Saros is getting the free Zenith update later today, which will add Boss Rush, New Game Plus, accessibility options, and more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/saros-zenith-update-accessibility-boss-rush-release-date/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/saros-isnt-a-roguelike-header.jpg",
-    "published_at": "2026-10-19T14:11:41.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "81875994802d",
-    "slug": "street-fighters-justin-wong-cameo-was-because-the-director-felt-the-mo",
-    "headline": " Street Fighter's Justin Wong cameo was because the director felt the movie \"needs to work for fans\" ",
-    "summary": "Exclusive: Kitao Sakurai on why fighting game legend Justin Wong made the cut",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/entertainment/live-action-movies/street-fighter-movies-justin-wong-cameo-was-because-the-director-felt-the-movie-needs-to-work-for-fans-first/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/NrdAJeQVvEFgeEBYLyqvn4-1920-80.jpg",
-    "published_at": "2026-10-19T14:01:47.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b7ecf7fc195f",
-    "slug": "beamngdrive-is-an-astonishing-driving-sim-in-search-of-a-game",
-    "headline": "BeamNG.drive Is an Astonishing Driving Sim in Search of a Game",
-    "summary": "BeamNG.drive is a driving simulator with impressive handling and physics, but does it deliver a fun gaming experience?",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/beamngdrive-ps5-impressions/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/beamng-drive-3.jpg",
-    "published_at": "2026-10-19T14:01:31.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "beamngdrive",
-    "game_label": "BeamNG.drive"
-  },
-  {
-    "id": "6303394aa329",
-    "slug": "new-horror-game-is-soma-on-a-train",
-    "headline": "New Horror Game is SOMA on a Train",
-    "summary": "One of the latest horror games is earning early praise for its similarities to genre hits like SOMA, while introducing a unique setting.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/games-like-soma-dreadline-express-horror/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/steam-logo-on-dreadline-express-train-blurred-background.jpg",
-    "published_at": "2026-10-19T14:00:15.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "02a1349e19c0",
-    "slug": "cute-but-unsettling-chess-inspired-roguelite-hitoriasobi-follows-an-in",
-    "headline": "Cute but unsettling chess-inspired roguelite HITORIASOBI follows an innocent girl as she plays a “special game” with her teddy bear",
-    "summary": "Hitoriasobi is set to release on Steam in 2026, with a playable demo coming soon.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/cute-but-unsettling-chess-inspired-roguelite-hitoriasobi-follows-an-innocent-girl-as-she-plays-a-special-game-with-her-teddy-bear/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/02a1349e19c0/800/600",
-    "published_at": "2026-10-19T14:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a7688b9e728e",
-    "slug": "griffin-gaming-partners-teams-up-with-entertainment-360-to-adapt-games",
-    "headline": "Griffin Gaming Partners Teams Up with Entertainment 360 to Adapt Games for Film and TV",
-    "summary": "Griffin Gaming Partners and Entertainment 360 are launching a new company, HITpoint Entertainment, to bring popular game franchises to the big screen and small screen",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/griffin-gaming-partners-teams-up-with-entertainment-360-to-take-games-to-film-and-tv/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a7688b9e728e/800/600",
-    "published_at": "2026-10-19T14:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "688204325cb7",
-    "slug": "zenless-zone-zeros-age-rating-boosted-to-16-on-ps5-in-europe",
-    "headline": "Zenless Zone Zero's Age Rating Boosted to 16 on PS5 in Europe",
-    "summary": "Zenless Zone Zero's PS5 age rating has been increased to 16 in Europe due to its current content, unlike in other regions where it remains at 12, 13, or 15.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/gooner-game-zenless-zone-zero-gets-an-age-rating-increase-on-ps5"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/984925dabbb87/large.jpg",
-    "published_at": "2026-10-19T14:00:00.000Z",
-    "hype_signal": 10,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "zenless-zone-zero",
-    "game_label": "Zenless Zone Zero"
-  },
-  {
-    "id": "e55f8fae3d29",
-    "slug": "ps5-bullet-ballet-game-saros-gets-a-big-update-to-make-it-both-easier",
-    "headline": "PS5 \"bullet ballet\" game Saros gets a big update to make it both easier and harder",
-    "summary": "Bullet-dodging PlayStation shooter Saros has welcomed a sizeable Zenith update today, which has the twin aims of making the game both more accessible for those who haven't played it (or are struggling to get into it) and more replayable for those who have.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/saros-update-zenith-ps5-new-game-plus"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/saros-screenshot-01-en-14feb25.webp?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-19T13:56:34.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a6b6e278d4ec",
-    "slug": "one-of-the-biggest-game-decompilation-sites-is-closing-because-ai-has",
-    "headline": "One of the biggest game decompilation sites is closing because AI has ‘broken the community aspect’",
-    "summary": "\"Bad actors\" are abusing open source decomps in \"increasingly troublesome ways\", it says",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/one-of-the-biggest-game-decompilation-sites-is-closing-because-ai-has-broken-the-community-aspect/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a6b6e278d4ec/800/600",
-    "published_at": "2026-10-19T13:47:59.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "fc72c065dba2",
-    "slug": "saros-zenith-update-now-available",
-    "headline": "Saros ‘Zenith’ update now available",
-    "summary": "Publisher Sony Interactive Entertainment and developer Housemarque have released the “Zenith” Update for fast-paced, cinematic …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/saros-zenith-update-now-available"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/saros-zenith-update-free-patch-notes/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/fc72c065dba2/800/600",
-    "published_at": "2026-10-19T13:47:07.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3fe4abbdd0d2",
-    "slug": "one-of-2026s-most-underappreciated-gems-is-on-sale-and-just-got-a-free",
-    "headline": "One of 2026's Most Underappreciated Gems Is On Sale And Just Got A Free Update",
-    "summary": "Saros' game Zenith received a new update, and it's now available for purchase with a free update, making it a great time to try it out.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/saros-zenith-update-sale-playstation-5-housemarque-2000747551"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/04/IMG_3282-1280x720.jpg",
-    "published_at": "2026-10-19T13:40:41.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "zenith",
-    "game_label": "Zenith"
-  },
-  {
-    "id": "59b9aced53e9",
-    "slug": "ps1-creator-officially-responds-to-playstation-ending-disc-production",
-    "headline": "PS1 Creator Officially Responds to PlayStation Ending Disc Production",
-    "summary": "The 'Father of PlayStation' gives an official response when questioned about the future of disc production.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/playstation-games-disc-ps1-creator-statement-friction/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/output.jpg",
-    "published_at": "2026-10-19T13:30:16.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "22896478bd17",
-    "slug": "ocarina-of-time-remake-may-disappoint-the-next-zelda-game",
-    "headline": "Ocarina of Time Remake May Disappoint the Next Zelda Game",
-    "summary": "The upcoming Zelda game may struggle to live up to the high expectations set by the Ocarina of Time remake",
-    "category": "industry",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/zelda-ocarina-of-time-remake-next-zelda-game-classic-formula/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/young-link-looks-intently-at-his-glowing-fairy-companion-navi-in-a-sunlit-grassy-forest-in-the-legend-of-zelda-ocarina-of-time-remake-for-nintendo-switch-2.jpg",
-    "published_at": "2026-10-19T13:30:16.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-legend-of-zelda",
-    "game_label": "The Legend of Zelda"
-  },
-  {
-    "id": "a3d8ab330871",
-    "slug": "gears-of-war-e-day-review-dont-skip-this-one-in-the-busy-season",
-    "headline": "Gears of War: E-Day review | Don’t skip this one in the busy season",
-    "summary": "We’re in the midst of an unprecedented launch of so many games, each of them racing to get out the door before the November...\nThe post Gears of War: E-Day review | Don’t skip this one in the busy season appeared first on GamesBeat.",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/gears-of-war-e-day-review-dont-skip-this-one-in-the-busy-season/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a3d8ab330871/800/600",
-    "published_at": "2026-10-19T13:30:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9bdee22f4f6b",
-    "slug": "snoop-dogg-and-singing-are-all-over-stranger-than-heavens-act-1-deep-d",
-    "headline": "Snoop Dogg and Singing Are All Over Stranger Than Heaven's Act 1 Deep Dive Trailer",
-    "summary": "See the PS5 game set its opening scenes. One of 2027's weirdest yet most intriguing releases, Stranger Than Heaven from Yakuza team RGG Studio, has shared a deep dive into the PS5 game's first act, explaining what the opening hours of the experience will entail. With the game split across five different eras (1915, 1929, 1943, 1951, and 1965), this…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/snoop-dogg-and-singing-are-all-over-stranger-than-heavens-act-1-deep-dive-trailer"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/cbb9e2581f2e3/large.jpg",
-    "published_at": "2026-10-19T13:30:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3f3d7ea97a70",
-    "slug": "razer-huntsman-v3-he-keyboard-review",
-    "headline": "Razer Huntsman V3 HE Keyboard Review",
-    "summary": "A review of the Razer Huntsman V3 HE keyboard, pitting it against its competitors and discussing its performance, value, and features.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/gaming-keyboards/razer-huntsman-v3-he-review/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/nQrhptXGNQGEYtfRNK6B6C-1920-80.jpg",
-    "published_at": "2026-10-19T13:29:36.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "razer-huntsman-v3-he",
-    "game_label": "Razer Huntsman V3 HE"
-  },
-  {
-    "id": "d070a2ab1059",
-    "slug": "french-game-store-employee-defies-rioters-amid-protests",
-    "headline": "French Game Store Employee Defies Rioters Amid Protests",
-    "summary": "A Micromania employee in Nice, France, thwarted a rioter's attempt to loot the store during protests, earning him a viral online reaction.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/french-game-store-employee-pierre-goes-viral-for-defying-rioters-amid-protests-2000747539"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/rioters-1280x708.jpg",
-    "published_at": "2026-10-19T13:29:33.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8bfd8c40be9d",
-    "slug": "endless-pile-of-needle-in-haystack-games-begins-to-emerge-as-viral-hit",
-    "headline": "Endless pile of Needle In Haystack games begins to emerge, as viral hit imitator's devs claim their code was nicked by a genAI-using clone",
-    "summary": "In a metaphor far too on the nose to turn into any form of fiction, at least without the writer getting mercilessly cyberbullied, a game about finding a needle in a haystack has now become the genuine needle at the heart of a pile of imitators. A pile so large, in fact, one copycat game stands accused of ripping code…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/endless-pile-of-needle-in-haystack-games-begins-to-emerge-as-viral-hit-imitators-devs-claim-their-code-was-nicked-by-a-genai-using-clone"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/needle-in-a-haystack-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-19T13:25:56.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "39e37c3a766c",
-    "slug": "super-meat-boy-3d-x-mouse-pi-for-hire-collaboration-update-now-availab",
-    "headline": "Super Meat Boy 3D x MOUSE: P.I. for Hire collaboration update now available",
-    "summary": "Publisher Headup and developer Sluggerfly have released a free update for Super Meat Boy 3D …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/super-meat-boy-3d-x-mouse-pi-for-hire-collaboration-update-now-available"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/39e37c3a766c/800/600",
-    "published_at": "2026-10-19T13:21:39.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a44234590d2f",
-    "slug": "all-campaign-rewards-in-modern-warfare-4",
-    "headline": "All Campaign Rewards in Modern Warfare 4",
-    "summary": "You can get 16 unique rewards for Modern Warfare 4's Multiplayer, DMZ, and Warzone by completing the Campaign. Here's what you can unlock!",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/cod-modern-warfare-4-campaign-rewards/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/cod-modern-warfare-4-every-death-scene/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/modern-warfare-4-all-campaign-rewards.jpg",
-    "published_at": "2026-10-19T13:20:15.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "641c646bdfbb",
-    "slug": "razers-pokemon-pixel-collection-exclusive-to-china-for-now",
-    "headline": "Razer's Pokémon Pixel Collection Exclusive to China for Now",
-    "summary": "Razer has released a Pokémon-themed PC gaming accessory collection, but it's currently only available in China",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/accessories/razers-retro-fueled-pixel-art-pokemon-set-is-my-favorite-yet-but-uk-and-us-fans-cant-catch-it-all/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/wjNrBAcNvf7Mfv4zMYqsnn-1920-80.jpg",
-    "published_at": "2026-10-19T13:14:15.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "pokemon-pixel-collection",
-    "game_label": "Pokémon Pixel Collection"
-  },
-  {
-    "id": "3f9ed1bcc1b9",
-    "slug": "littlelands-launches-in-early-access-on-november-16",
-    "headline": "Littlelands launches in Early Access on November 16",
-    "summary": "Cozy farming adventure life simulation game Littlelands will launch in Early Access for PC via …",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/littlelands-launches-in-early-access-on-november-16"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/3f9ed1bcc1b9/800/600",
-    "published_at": "2026-10-19T13:11:33.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c4d62c7c5d64",
-    "slug": "microsoft-employee-shares-their-truth-about-ai-usage-at-xbox-beyond",
-    "headline": "Microsoft Employee Shares Their 'Truth' About AI Usage At Xbox & Beyond",
-    "summary": "\"Gaming is the only industry where leaders are afraid to talk about AI.\". There's obviously been a lot of talk over the past few years, and particularly in the past few months, about how AI is making huge waves within the gaming industry and changing how we think about both playing and developing games. Just a few days ago, Asha…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/10/microsoft-employee-shares-their-truth-about-ai-usage-at-xbox-and-beyond"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/d3a57e7efbcad/large.jpg",
-    "published_at": "2026-10-19T13:10:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "61a7ec80b3f1",
-    "slug": "weve-had-two-great-star-wars-games-this-year-probably-because-lucasfil",
-    "headline": "We've had two great Star Wars games this year, probably because Lucasfilm Games says it's now \"more flexible\" about who it takes pitches from",
-    "summary": "This year has seen two highly-rated and beloved Star Wars games in the XCOM-like Zero Company, and the Burnout-like Galactic Racer. And both were made by independent studios rather than much bigger companies, which have typically taken on Star Wars games in recent years, such as Ubisoft with Star Wars Outlaws and EA with Star Wars Battlefront.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/star-wars-games-small-developers-lucasfilm-games-plan"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/star-wars-galactic-racer-biddy-blas-capture-1.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-19T13:06:53.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
