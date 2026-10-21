@@ -1,5 +1,128 @@
 [
   {
+    "id": "159599ad91ae",
+    "slug": "subnautica-2-enters-voyage-to-early-access-20",
+    "headline": "Subnautica 2 Enters 'Voyage to Early Access 2.0'",
+    "summary": "Subnautica 2 is set to receive its next major update with a new region, creature, and game mechanics, bringing a welcome change to the game's behavior.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/subnautica-2s-next-major-update-adds-the-scariest-region-weve-ever-done-together-with-frog-mechs-and-a-very-welcome-tweak-for-dashing"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-21-082915.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-21T08:07:06.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "subnautica-2",
+    "game_label": "Subnautica 2"
+  },
+  {
+    "id": "0f204b1c383c",
+    "slug": "demystifying-unions-for-games-leaders",
+    "headline": "Demystifying Unions for Games Leaders",
+    "summary": "As game companies face unionization, industry leaders must understand the implications and benefits of working with unions.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/demystifying-unions-what-games-leaders-need-to-know"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/IWGB_members_with_banner.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-21T08:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9cf551e7cf0e",
+    "slug": "pokemon-gos-newest-pokemon-is-already-banned",
+    "headline": "Pokemon GO's Newest Pokemon is Already Banned",
+    "summary": "Pokémon GO has removed the Minior Pokemon from tournament play due to concerns over its balance and competitive playability.",
+    "category": "industry",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/pokemon-go-minior-ban/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/minior-ban-pokemon-go.jpg",
+    "published_at": "2026-10-21T06:31:04.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pokemon-go",
+    "game_label": "Pokemon GO"
+  },
+  {
+    "id": "937ef9c58f97",
+    "slug": "wwe-2k26-collides-with-street-fighter-in-first-ever-collab-next-week",
+    "headline": "WWE 2K26 Collides With Street Fighter In \"First-Ever\" Collab Next Week",
+    "summary": "Inspired by WWE x Street Fighter figures.\n\nApart from the launch of the new live-action Street Fighter movie, the wrestling series WWE 2K has recently announced its \"first ever\" collaboration with Street Fighter.\nRead the full article on nintendolife.com",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/wwe-2k26-collides-with-street-fighter-in-first-ever-collab-next-week"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/7f260e8ad67bb/large.jpg",
+    "published_at": "2026-10-21T06:25:00.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0356574e8f59",
+    "slug": "ea-announces-new-fight-night-game",
+    "headline": "EA Announces New Fight Night Game",
+    "summary": "Electronic Arts has confirmed a new Fight Night game is in development, marking the first new installment in the series since 2011.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/new-fight-night-game-announced/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/new-project-2026-10-21t071218-799.jpg",
+    "published_at": "2026-10-21T06:16:33.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fight-night",
+    "game_label": "Fight Night"
+  },
+  {
     "id": "f03fdebd45ef",
     "slug": "all-aboard-denshattack-physical-edition-arriving-on-switch-2-in-2027",
     "headline": "All Aboard! Denshattack Physical Edition Arriving On Switch 2 In 2027",
@@ -4594,116 +4717,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "6dcaf821bed2",
-    "slug": "adam-boyes-vivrato-issues-report-based-on-101-game-leaders-views-on-ai",
-    "headline": "Adam Boyes’ Vivrato issues report based on 101 game leaders’ views on AI in gaming | exclusive",
-    "summary": "Vivrato, a games industry consultancy headed by Adam Boyes, released the Vivrato AI Adoption (VAIA) Report 2026, saying AI is being used widely in...\nThe post Adam Boyes’ Vivrato issues report based on 101 game leaders’ views on AI in gaming | exclusive appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/adam-boyes-vivrato-issues-report-based-on-101-game-leaders-views-on-ai-in-gaming-exclusive/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/6dcaf821bed2/800/600",
-    "published_at": "2026-10-20T13:30:00.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3f3764907bd9",
-    "slug": "ps-store-must-copy-steam-if-pc-players-campaign-against-ai-content-suc",
-    "headline": "PS Store Must Copy Steam If PC Players' Campaign Against AI Content Succeeds",
-    "summary": "Steam Next Fest is a disaster. There's currently a huge push for an all-encompassing Steam filter that would allow users to disqualify any game that uses AI-generated assets from their search results. The campaign, which is underway across all of the usual social media platforms like Reddit, X (formerly Twitter), and Discord, has gained serious momentum because of this year's…",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/ps-store-must-copy-steam-if-pc-players-campaign-against-ai-content-succeeds"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/93c99a6dcd6b8/large.jpg",
-    "published_at": "2026-10-20T13:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2353f8848e0d",
-    "slug": "the-unlikely-encore-of-the-red-octane-gang-with-the-stage-tour-music-r",
-    "headline": "The unlikely encore of the Red Octane gang with the Stage Tour music rhythm game | exclusive interview",
-    "summary": "Once a gaming franchise dies off, it rarely gets on encore. That seemed to be the case with RedOctane, the company that brought us...\nThe post The unlikely encore of the Red Octane gang with the Stage Tour music rhythm game | exclusive interview appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/the-unlikely-encore-of-the-red-octane-gang-with-the-stage-tour-music-rhythm-game-exclusive-interview/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/2353f8848e0d/800/600",
-    "published_at": "2026-10-20T13:30:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1d0f772cf816",
-    "slug": "gmktec-k8-plus-mini-pc-review",
-    "headline": "GMKTec K8 Plus Mini PC Review",
-    "summary": "The GMKTec K8 Plus offers affordable PC gaming entry, but a WiFi card is recommended for full connectivity.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/desktop-pc/gmktec-k8-plus-review/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/5o384ZPiKzUxCYA5bUX3qX-1920-80.jpg",
-    "published_at": "2026-10-20T13:18:48.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gmktec-k8-plus",
-    "game_label": "GMKTec K8 Plus"
-  },
-  {
-    "id": "f022bef85900",
-    "slug": "ys-viii-lacrimosa-of-dana-coming-to-nintendo-switch-2",
-    "headline": "Ys VIII: Lacrimosa of DANA Coming to Nintendo Switch 2",
-    "summary": "NIS America and Falcom are releasing a Switch 2 version of the action RPG Ys VIII: Lacrimosa of DANA on February 25, 2027.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/ys-viii-lacrimosa-of-dana-coming-to-switch-2-on-february-25-2027"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/f022bef85900/800/600",
-    "published_at": "2026-10-20T13:14:26.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "ys-viii-lacrimosa-of-dana",
-    "game_label": "Ys VIII: Lacrimosa of DANA"
   }
 ]
