@@ -1,5 +1,114 @@
 [
   {
+    "id": "d0cef4021cef",
+    "slug": "xbox-to-slash-even-more-jobs-this-month-with-further-cuts-in-november",
+    "headline": "Xbox to Slash Even More Jobs This Month, with Further Cuts in November and January",
+    "summary": "The cuts continue. Xbox’s unprecedented job cuts will continue this month, November, and January, according to a fresh Fortune article, focusing on CEO Asha Sharma. In yet another executive profile, reporter Sebastian Herrera reveals that Sharma has slashed 1,868 jobs so far, with 3,200 total planned. It sounds like we’ll get more news about what some of those will entail…",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/xbox-to-slash-even-more-jobs-this-month-with-further-cuts-in-november-and-january"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/5cf12c91da5ad/large.jpg",
+    "published_at": "2026-10-20T23:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d4bb5c3663a6",
+    "slug": "gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive",
+    "headline": "GTA 6 Fans Think Rockstar Games Is Shooting an Elaborate and Expensive Live-Action Trailer in Miami",
+    "summary": "Eagle-eyed Rockstar fans have noticed camera crews recording convoys of flashy GTA-themed cars in Miami, creating speculation over a new live-action trailer.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/08/06/gtaonothumb-1786018055324.png",
+    "published_at": "2026-10-20T22:48:37.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "92b8be4b406b",
+    "slug": "counter-strike-2-pro-aleksib-faces-four-month-suspended-prison-sentenc",
+    "headline": "Counter-Strike 2 Pro Aleksib Faces Four-Month Suspended Prison Sentence Over Charges of Aggravated Tax Fraud",
+    "summary": "Finnish Counter-Strike 2 pro Aleksi “Aleksib” Virolainen is facing a possible four-month suspended prison sentence over alleged “aggravated tax fraud” after failing to declare income from in-game sticker sales.",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/counter-strike-2-pro-aleksib-faces-four-month-suspended-prison-sentence-over-charges-of-aggravated-tax-fraud"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/20/cs2-pro-aleksib-charged-aggravated-tax-fraud-1792536150894.jpg",
+    "published_at": "2026-10-20T22:45:55.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d51e138d6c0e",
+    "slug": "single-player-fps-masterpieces-that-are-not-1010-ranked",
+    "headline": "Single-Player FPS Masterpieces That Are NOT 10/10, Ranked",
+    "summary": "These first-person shooters rank among the greatest masterpieces of all time, but they just fall short of that perfect 10.",
+    "category": "reviews",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/fps-games-masterpieces-not-perfect/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/fps-masterpieces-that-aren-t-perfect-10s-butcher-bay.jpg",
+    "published_at": "2026-10-20T22:38:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b65c6b53089d",
+    "slug": "best-power-surge-decks-in-clash-royale",
+    "headline": "Best Power Surge Decks in Clash Royale",
+    "summary": "This guide helps players understand the Power Surge Global Tournament in Clash Royale and recommends effective deck strategies.",
+    "category": "esports",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/clash-royale-best-power-surge-global-tournament-decks/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/best-power-surge-decks-clash-royale-3.jpg",
+    "published_at": "2026-10-20T22:37:25.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "clash-royale",
+    "game_label": "Clash Royale"
+  },
+  {
     "id": "eb3804131d13",
     "slug": "new-blood-of-dawnwalker-update-finally-fixes-one-of-the-rpgs-most-anno",
     "headline": "New Blood of Dawnwalker Update Finally Fixes One of the RPG's Most Annoying Problems",
@@ -4583,119 +4692,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "0b0158f67d95",
-    "slug": "final-fantasy-resonance-review-a-breezy-nostalgia-laced-jrpg-that-give",
-    "headline": " Final Fantasy Resonance review: \"A breezy nostalgia-laced JRPG that gives the HD-2D style a shot in the arm\" ",
-    "summary": "A defunct gacha mobile game is reborn into a classic but modern adventure",
-    "category": "reviews",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-resonance-review/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/fb5UBr38cU3AzvxaBxR7sN-1920-80.jpg",
-    "published_at": "2026-10-20T13:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "bb72ae785da8",
-    "slug": "people-whove-finished-call-of-duty-modern-warfare-4-on-the-new-yolo-si",
-    "headline": "People who've finished Call of Duty: Modern Warfare 4 on the new YOLO, single-life difficulty share experiences and tips for doing so",
-    "summary": "The Call of Duty: Modern Warfare 4 campaign is currently available in early access, and if you're among the many who pre-ordered a copy in order to play it before launch, you've likely noticed a locked difficulty setting that's harder, even, than Realism.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-finish-yolo-campaign-difficulty"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-campaign-launch-screen-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-20T12:57:42.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "afc9119b7605",
-    "slug": "gta-6-is-148-ahead-of-this-other-popular-aaa-game-so-far",
-    "headline": "GTA 6 Is 148% Ahead Of This Other Popular AAA Game So Far",
-    "summary": "GTA 6 launches in November, and everyone expects it to be a giant, record-breaking release. But just how big will the release be? Early signs are pointing to an enormous, unprecedented launch, and new data backs that up. Sensor Tower compiled preorder data for some of the biggest games released over the past six years, including Call of Duty: Modern…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gta-6-is-148-ahead-of-this-other-popular-aaa-game-so-far/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Jason_and_Lucia_11_be2530.jpg?w=300",
-    "published_at": "2026-10-20T12:51:41.000Z",
-    "hype_signal": 95,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9b4954c6da7b",
-    "slug": "amnesia-the-dark-descents-co-founder-explained-the-the-dynamic-of-stea",
-    "headline": " Amnesia: The Dark Descent's co-founder explained the 'the dynamic of Steam' to Red Barrels after Outlast's sales slowed down ",
-    "summary": "\"Basically, your sales curve becomes like a roller coaster.\"",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/horror/amnesia-the-dark-descents-co-founder-explained-the-the-dynamic-of-steam-to-red-barrels-after-outlasts-sales-slowed-down/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/KGJFwuu7PbJazeNxXfWNNn-1920-80.jpg",
-    "published_at": "2026-10-20T12:44:51.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2b0c52fa7cd1",
-    "slug": "vampire-the-masquerade-bloodlines-remastered-rumored-for-consoles",
-    "headline": "Vampire: The Masquerade - Bloodlines Remastered Rumored for Consoles",
-    "summary": "A remastered version of the classic RPG Vampire: The Masquerade - Bloodlines is reportedly in development, potentially bringing the game to consoles for the first time",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/rumour-iconic-rpg-vampire-the-masquerade-bloodlines-is-being-remastered"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/fc5c1dcdf4dde/large.jpg",
-    "published_at": "2026-10-20T12:30:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "vampire-the-masquerade-bloodlines",
-    "game_label": "Vampire: The Masquerade - Bloodlines"
   }
 ]
