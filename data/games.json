@@ -24031,5 +24031,70 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-21T18:13:20.065Z"
+  },
+  {
+    "slug": "star-wars-battlefront",
+    "name": "STAR WARS Battlefront",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/bd2/bd2cc7714e0b9b1adad1ba1b2400d436.jpg",
+    "released": "2015-11-17",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "Shooter",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/8ce/8ced2a642c401a1a294f15e1797b45be.jpg",
+      "https://media.rawg.io/media/screenshots/9cf/9cf0681c66ad789ba38f166d3b73142a.jpg",
+      "https://media.rawg.io/media/screenshots/edf/edf5eb20ab93537494edcb069e08a293.jpg",
+      "https://media.rawg.io/media/screenshots/022/0226ed40f8cdf6a75928eb2510a47d5a.jpg",
+      "https://media.rawg.io/media/screenshots/1e3/1e36819203695d2d4fc54b10fc8eac8e.jpg",
+      "https://media.rawg.io/media/screenshots/f1d/f1d3e56a17b13ef6d21ceb56bafcf673.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-21T20:23:36.110Z"
+  },
+  {
+    "slug": "psychonauts",
+    "name": "Psychonauts",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/c89/c89ca70716080733d03724277df2c6c7.jpg",
+    "released": "2005-04-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Platformer",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "iOS",
+      "macOS",
+      "Linux",
+      "Xbox 360",
+      "Xbox",
+      "PlayStation 3",
+      "PlayStation 2"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/2de/2dea22a973d765a5383940307b368268.jpg",
+      "https://media.rawg.io/media/screenshots/310/3103cb1e58a5d6bba1c356d8d1570920.jpg",
+      "https://media.rawg.io/media/screenshots/9c0/9c03e9baa71db649d849660067d07979.jpg",
+      "https://media.rawg.io/media/screenshots/f9a/f9a391f3d4a496195a5cbce41421fb03.jpg",
+      "https://media.rawg.io/media/screenshots/897/897ad883ed085ec7269fb0d235e41625.jpg",
+      "https://media.rawg.io/media/screenshots/224/224f218780ffdeeb1cec7062b8c61b41.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-21T20:23:37.065Z"
   }
 ]
