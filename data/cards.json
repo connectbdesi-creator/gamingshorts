@@ -1,5 +1,49 @@
 [
   {
+    "id": "265670d1d9ba",
+    "slug": "marvel-officially-made-the-saddest-death-in-mcu-history-more-tragic-wi",
+    "headline": "Marvel Officially Made the Saddest Death in MCU History More Tragic With Just 1 Sentence",
+    "summary": "Marvel reveals a shocking detail from the ending of Avengers: Endgame, adding a new layer to the emotional impact of the movie's conclusion",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/visionquest-episode-3-explained-friday-avengers-endgame-tony-stark-death/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mcdaven_ec256-1.jpg",
+    "published_at": "2026-10-21T03:00:19.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9650ca548365",
+    "slug": "riders-republic-switch-2-release-announced-for-december",
+    "headline": "Riders Republic Switch 2 Release Announced for December",
+    "summary": "Ubisoft is set to release Riders Republic on the Nintendo Switch 2 in December, as part of the console's fifth anniversary celebration.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/ubisofts-extreme-sports-playground-launches-on-switch-2-this-december"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/817a121549b3e/large.jpg",
+    "published_at": "2026-10-21T01:55:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "riders-republic",
+    "game_label": "Riders Republic"
+  },
+  {
     "id": "9fa5bf9855d3",
     "slug": "nothing-stays-oddinary-open-world-rpg-ordinary-oddness-announced-for-p",
     "headline": "‘Nothing-stays-oddinary’ open-world RPG Ordinary Oddness announced for PS5, Xbox Series, and PC",
@@ -2108,6 +2152,30 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "e979b43cd8d3",
+    "slug": "paper-shredder-launches-on-xbox-series-and-pc-this-winter",
+    "headline": "Paper Shredder Launches on Xbox Series and PC This Winter",
+    "summary": "Paper Shredder, an incremental game, is set to launch on Xbox Series and PC via Steam and Microsoft Store this winter",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/paper-shredder-adds-xbox-series-version-launches-this-winter"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/e979b43cd8d3/800/600",
+    "published_at": "2026-10-20T17:21:59.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "paper-shredder",
+    "game_label": "Paper Shredder"
   },
   {
     "id": "f1340343a359",
@@ -4631,73 +4699,6 @@
     ],
     "image_url": "https://images.nintendolife.com/e6a7165495f0a/large.jpg",
     "published_at": "2026-10-20T13:05:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cdd667c64087",
-    "slug": "griffin-gaming-partners-and-entertainment-360-launch-new-company-to-su",
-    "headline": "Griffin Gaming Partners and Entertainment 360 launch new company to support video game adaptations for film and TV",
-    "summary": "Griffin Gaming Partners has launched a new company to support game adaptations for film and television in partnership with talent management and production firm Entertainment 360.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/griffin-gaming-partners-and-entertainment-360-launch-new-company-to-support-video-game-adaptations-for-film-and-tv"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/zelda-live-action.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-20T13:00:45.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "630877994530",
-    "slug": "nintendo-switch-sports-resort-review-the-most-feature-packed-nintendo",
-    "headline": "Nintendo Switch Sports Resort review: The most feature-packed Nintendo sports game yet",
-    "summary": "Nintendo's Switch Sports Resort offers a packed experience with various sports and multiplayer options, suitable for both solo and co-op play.",
-    "category": "reviews",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/review/nintendo-switch-sports-resort/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/630877994530/800/600",
-    "published_at": "2026-10-20T13:00:44.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "nintendo-switch-sports-resort",
-    "game_label": "Nintendo Switch Sports Resort"
-  },
-  {
-    "id": "72559e2729f7",
-    "slug": "nintendo-switch-sports-resort-review-a-worthy-wii-sports-successor",
-    "headline": "Nintendo Switch Sports Resort Review: A Worthy Wii Sports Successor",
-    "summary": "Nintendo Switch Sports Resort is the first entry in the series that gives Wii Sports a run for its money.",
-    "category": "reviews",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/nintendo-switch-sports-resort-switch-2-review/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/10/new-project-2026-10-20t110137-877.jpg",
-    "published_at": "2026-10-20T13:00:17.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
