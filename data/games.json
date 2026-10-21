@@ -23949,5 +23949,62 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-21T16:23:09.546Z"
+  },
+  {
+    "slug": "mass-effect",
+    "name": "Mass Effect",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/a6c/a6ccd34125c594abf1a9c9821b9a715d.jpg",
+    "released": "2007-11-16",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/2c7/2c710533fe55e02facda408ce681640e.jpg",
+      "https://media.rawg.io/media/screenshots/f42/f42d116fcc691213ac11f651e231b214.jpg",
+      "https://media.rawg.io/media/screenshots/5db/5db5afc10fa39739c96c05f455f5d253.jpg",
+      "https://media.rawg.io/media/screenshots/7af/7af44f9b67fe50d162d630f07ae6900b.jpg",
+      "https://media.rawg.io/media/screenshots/67e/67e4fa3122553e5ad52b97d0efecf0e1.jpg",
+      "https://media.rawg.io/media/screenshots/196/196268519e753a7d53fbee7040fde318.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-21T17:21:50.995Z"
+  },
+  {
+    "slug": "tomb-raider",
+    "name": "Tomb Raider",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
+    "released": "2013-03-05",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/4f9/4f9d5efdecfb63cb99f1baa4c0ceb3bf.jpg",
+      "https://media.rawg.io/media/screenshots/80f/80f373082b2a74da3f9c3fe2b877dcd0.jpg",
+      "https://media.rawg.io/media/screenshots/a87/a8733e877f8fbe45e4a727c22a06aa2e.jpg",
+      "https://media.rawg.io/media/screenshots/3f9/3f91678c6805a76419fa4ea3a045a909.jpg",
+      "https://media.rawg.io/media/screenshots/417/4170bf07be43a8d8249193883f87f1c1.jpg",
+      "https://media.rawg.io/media/screenshots/2a4/2a4250f83ad9e959d8b4ca9376ae34ea.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-21T17:21:51.891Z"
   }
 ]
