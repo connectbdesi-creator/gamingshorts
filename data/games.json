@@ -23890,5 +23890,32 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-21T12:24:21.548Z"
+  },
+  {
+    "slug": "halo-3",
+    "name": "Halo 3",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/982/982ff61d574fed5e416cb1867b40d9b0.jpg",
+    "released": "2007-09-25",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Xbox 360"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/109/1099c73ce1ed6023ac8bcafb468aa024.jpg",
+      "https://media.rawg.io/media/screenshots/6c6/6c6a2eb5271690f56731a0b6b700aa0f.jpg",
+      "https://media.rawg.io/media/screenshots/0b2/0b2a502e4a589e0bdeafc72111b25c9b.jpg",
+      "https://media.rawg.io/media/screenshots/3a0/3a00600bc1948c2d6ea670e6897a5099.jpg",
+      "https://media.rawg.io/media/screenshots/c11/c11edbc5c8670efde76458c781acf59b.jpg",
+      "https://media.rawg.io/media/screenshots/504/504d9bd7c1f7100f81af3c976f6cccc3.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-21T14:21:59.644Z"
   }
 ]
