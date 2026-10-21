@@ -1,5 +1,176 @@
 [
   {
+    "id": "e6a6f3e56757",
+    "slug": "konami-has-staged-the-biggest-unlikely-gaming-comeback-of-2026",
+    "headline": "Konami Has Staged the Biggest Unlikely Gaming Comeback of 2026",
+    "summary": "Konami has reportedly regained momentum with its beloved franchises, ending a nearly decade-long struggle. The company's resurgence suggests a successful comeback strategy.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/konami-comeback-2026/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/castlevania-belmonts-curse-header-2.jpg",
+    "published_at": "2026-10-21T13:30:17.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "fd482853a3e5",
+    "slug": "new-skyrim-mod-just-raised-the-bar-for-the-elder-scrolls-6",
+    "headline": "New Skyrim Mod Just Raised the Bar for The Elder Scrolls 6",
+    "summary": "A new Skyrim mod showcases impressive detail, setting a high bar for Bethesda's upcoming Elder Scrolls 6 game",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/beyond-skyrim-iliac-bay-hammerfell-elder-scrolls-6/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/the-elder-scrolls-6-hammerfell-alik-r.jpg",
+    "published_at": "2026-10-21T13:30:14.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "elder-scrolls-6",
+    "game_label": "Elder Scrolls 6"
+  },
+  {
+    "id": "1e2dcb1e1b03",
+    "slug": "guide-65-switch-1-2-games-you-should-check-out-in-nintendos-screaming",
+    "headline": "Guide: 65 Switch 1 & 2 Games You Should Check Out In Nintendo's 'Screaming Deals' Sale (North America)",
+    "summary": "Every game we scored 9/10 or higher, plus a personal pick. Nintendo is welcoming the spooky season the only way it knows how: with a big old eShop sale, of course! The 'Screaming Deals' sale is now live on the North American eShop, bringing welcome discounts to a whole host of Switch 1 and 2 bangers until 31st October at…",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/guides/65-switch-1-and-2-games-you-should-check-out-in-nintendos-screaming-deals-sale-north-america"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/859160d554fe2/large.jpg",
+    "published_at": "2026-10-21T13:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6c07ce65bbb1",
+    "slug": "no-im-not-a-human-confirmed-for-ps5",
+    "headline": "No, I'm Not a Human Confirmed for PS5",
+    "summary": "PS5 exclusive game No, I'm Not a Human is coming to consoles, promising a unique and creepy experience as the world ends.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/one-of-the-creepiest-games-of-the-generation-is-finally-knocking-on-ps5s-door"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/617773c06c153/large.jpg",
+    "published_at": "2026-10-21T13:30:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "no-im-not-a-human",
+    "game_label": "No, I'm Not a Human"
+  },
+  {
+    "id": "61906dcd7c9a",
+    "slug": "permanent-pokemon-retail-store-coming-to-london",
+    "headline": "Permanent Pokémon Retail Store Coming to London",
+    "summary": "The Pokémon Company is set to open its first permanent retail store outside Asia, with London being the inaugural location, expected to open by 2029.",
+    "category": "deals",
+    "platform_tags": [
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/a-permanent-pokemon-retail-store-is-coming-to-london-the-first-of-several-outside-asia/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/61906dcd7c9a/800/600",
+    "published_at": "2026-10-21T13:23:05.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "bf7f11d078ee",
+    "slug": "cod-modern-warfare-4-dmz-players-are-spawning-in-the-middle-of-a-road",
+    "headline": "COD: Modern Warfare 4 DMZ players are spawning in the middle of a road and being flattened before they can do anything",
+    "summary": "Infinity Ward opened up early access to Call of Duty: Modern Warfare 4's DMZ extraction mode overnight, meaning anyone who has pre-ordered a copy can now play the game's campaign as well as DMZ. And while early reactions to DMZ are fairly positive, there's one issue in particular, which a number of players have experienced, that has the capability of…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-spawn-runover"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-dmz-screen-2-crop.jpeg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-21T13:21:37.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a7ed68e585e0",
+    "slug": "pratfall-coming-to-ps5-xbox-series-and-switch-2",
+    "headline": "Pratfall coming to PS5, Xbox Series, and Switch 2",
+    "summary": "Publisher Daedalic Entertainment and developer Quad Head will release cooperative cave digging and falling game …",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/pratfall-coming-to-ps5-xbox-series-and-switch-2"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/a7ed68e585e0/800/600",
+    "published_at": "2026-10-21T13:05:27.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "fa2c8fa23130",
     "slug": "obsession-fans-are-not-happy-with-nikki-freemans-fortnite-skin",
     "headline": "Obsession Fans Are Not Happy with Nikki Freeman's Fortnite Skin",
@@ -59,6 +230,29 @@
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/sam-keiser-325518-samkeiser-adventure2ambertomb-rgb.jpg",
     "published_at": "2026-10-21T13:00:17.000Z",
     "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "00614412f655",
+    "slug": "mika-games-raises-10m-to-help-mobile-game-studios-scale",
+    "headline": "Mika Games Raises $10M to Help Mobile Game Studios Scale",
+    "summary": "Gaming investment company Mika Games has secured $10 million in funding to support mobile game studios in reaching their full potential.",
+    "category": "deals",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/mika-games-raises-10m-to-take-mobile-game-studios-from-soft-launch-to-scale/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/00614412f655/800/600",
+    "published_at": "2026-10-21T13:00:00.000Z",
+    "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4476,190 +4670,6 @@
     "image_url": "https://assets-prd.ignimgs.com/2023/07/18/mrbuqkq9qvz8fyirhiiamrhduqcc8b5yddcjrurrns-1689724055708.jpg",
     "published_at": "2026-10-20T16:45:24.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cdd9d5b34467",
-    "slug": "overwatch-director-discusses-kings-row-iconicity",
-    "headline": "Overwatch Director Discusses King's Row Iconicity",
-    "summary": "Overwatch director talks about why King's Row stands out, revealing that every map in the game is subject to community input.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/fps/overwatchs-director-discusses-why-kings-row-is-so-iconic-but-admits-that-every-single-map-in-the-game-gets-a-vote/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/5sdLNAMP5KhGxtUQqZ2K53-1920-80.jpg",
-    "published_at": "2026-10-20T16:44:14.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "overwatch",
-    "game_label": "Overwatch"
-  },
-  {
-    "id": "498d4e0ad23f",
-    "slug": "modern-warfare-4-campaign-mission-guide",
-    "headline": "Modern Warfare 4 Campaign Mission Guide",
-    "summary": "A comprehensive guide detailing all missions and expectations in the single-player portion of Call of Duty: Modern Warfare 4.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/modern-warfare-4-campaign-mission-list/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/modern-warfare-4-mission-list-header.jpg",
-    "published_at": "2026-10-20T16:41:34.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "call-of-duty-modern-warfare-4",
-    "game_label": "Call of Duty: Modern Warfare 4"
-  },
-  {
-    "id": "60c9c9b05183",
-    "slug": "xbox-manager-tries-to-legitimize-ai-in-wild-rant-deletes-his-account-i",
-    "headline": "Xbox Manager Tries To Legitimize AI In Wild Rant, Deletes His Account Instead",
-    "summary": "When 'posting through it' goes horribly wrong",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/xbox-manager-tries-to-legitimize-ai-in-wild-rant-deletes-his-account-instead-2000747938"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/08/xbox-red-ring2-1280x720.jpg",
-    "published_at": "2026-10-20T16:40:58.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c2b2da70f5b7",
-    "slug": "totoki-ai-wont-replace-human-creativity-in-game-development",
-    "headline": "Totoki: AI Won't Replace Human Creativity in Game Development",
-    "summary": "Sony's Hiroki Totoki believes AI technology will not replace human creativity in game development, as it requires unique human perspectives and ideas.",
-    "category": "industry",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/playstation-boss-creativity-is-for-humans-not-ai/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/playstation-Large.jpeg?w=300",
-    "published_at": "2026-10-20T16:40:48.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d051ef55169f",
-    "slug": "palworld-lead-calls-steam-next-fest-a-gamble-thats-still-worth-taking",
-    "headline": " Palworld lead calls Steam Next Fest a gamble that's \"still worth taking\" despite the \"AI slop era\" ",
-    "summary": "The industry is simply changing",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/palworld-lead-calls-steam-next-fest-a-gamble-thats-still-worth-taking-despite-the-ai-slop-era-were-in-because-the-vast-majority-of-it-sinks-to-the-bottom-and-rots-almost-immediately/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/jU3HQtpVt8azFw4GmDC9f8-1920-80.jpg",
-    "published_at": "2026-10-20T16:36:11.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "77e31af5b47f",
-    "slug": "how-to-get-esper-in-kingdom-of-grandshelt-in-final-fantasy-resonance-s",
-    "headline": "How to Get Esper in Kingdom of Grandshelt in Final Fantasy Resonance (Sealing Stone)",
-    "summary": "There's a secret Esper summon in the Kingdom of Grandshelt, but you'll have to get a special weapon to break the Sealing Stone.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/final-fantasy-resonance-espers-dwelling-grandshelt-desert-sealing-stone/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/sealing-stone-espers-dwelling-final-fantasy-resonance.jpg",
-    "published_at": "2026-10-20T16:35:59.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9798f3726e71",
-    "slug": "10-years-after-switch-reveal-i-still-havent-played-a-game-at-a-rooftop",
-    "headline": "10 Years After Switch Reveal, I Still Haven't Played a Game at a Rooftop Party",
-    "summary": "A nostalgic reflection on Nintendo's 10-year-old Switch reveal, and the hype that still surrounds it",
-    "category": "industry",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/10-years-after-the-switch-1-reveal-i-still-havent-played-a-game-at-a-rooftop-party/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Nintendo-Switch-Reveal-Trailer-0-2-37.jpeg?w=300",
-    "published_at": "2026-10-20T16:35:14.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "nintendo-switch",
-    "game_label": "Nintendo Switch"
-  },
-  {
-    "id": "53b152a24318",
-    "slug": "amd-fsr-41-announced-for-xbox-series-xs-and-rog-xbox-handhelds",
-    "headline": "AMD FSR 4.1 Announced For Xbox Series X|S And ROG Xbox Handhelds",
-    "summary": "\"And there's even more ahead with Project Helix...\". Today, AMD and Xbox announced plans to bring FSR 4.1 to the ROG Xbox Ally X and Xbox Series X|S consoles in the future. Until now, Sony hardware has dominated the upscaling conversation with its QSSR tech, but it looks like Xbox is set to have its own horse in the race.…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/10/amd-fsr-4-1-announced-for-xbox-series-xs-and-rog-xbox-handhelds"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/d203e8464082c/large.jpg",
-    "published_at": "2026-10-20T16:35:00.000Z",
-    "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
