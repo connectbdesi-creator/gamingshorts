@@ -24144,5 +24144,35 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-22T14:24:56.057Z"
+  },
+  {
+    "slug": "katana-zero",
+    "name": "Katana ZERO",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/d37/d37e110ddcc0bd52d99f0f647b737a0a.jpg",
+    "released": "2019-04-17",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Platformer",
+      "Indie",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Nintendo Switch",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d4e/d4e033c1b504f7df5fb234287e28e990.jpg",
+      "https://media.rawg.io/media/screenshots/bc9/bc9fd02f32749fe15581bf8b692d7814.jpg",
+      "https://media.rawg.io/media/screenshots/3cc/3cc5aec6ba38ff277ac0d0be4573ec62.jpg",
+      "https://media.rawg.io/media/screenshots/5d1/5d154940b0b5fb5d3e99ff3c6d4f9b9e.jpg",
+      "https://media.rawg.io/media/screenshots/18b/18b9df6ba9fac61589376c96735e5a02.jpg",
+      "https://media.rawg.io/media/screenshots/f48/f48df10956744670bbd6cf7f14c5b511.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-22T15:46:25.733Z"
   }
 ]
