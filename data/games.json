@@ -24235,5 +24235,33 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-22T16:22:57.220Z"
+  },
+  {
+    "slug": "scum",
+    "name": "SCUM",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/52a/52a46fbbb085ab9c012ed4c8532fa3f7.jpg",
+    "released": "2018-08-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Massively Multiplayer",
+      "Adventure",
+      "Action",
+      "Indie"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/dbe/dbe41a0e98a7e8a876fef05a5acaed70.jpg",
+      "https://media.rawg.io/media/screenshots/aef/aef59a2b984318e6a1df3c576e9e4229.jpg",
+      "https://media.rawg.io/media/screenshots/ff2/ff2ae9d8c6c741b756c6500f86052802.jpg",
+      "https://media.rawg.io/media/screenshots/c0b/c0bba29844f11dd7429905727341d404.jpg",
+      "https://media.rawg.io/media/screenshots/329/3294cf83deeaaf753d712fd40e744765.jpg",
+      "https://media.rawg.io/media/screenshots/093/0937da6c59ead56de2ed9bcdeaf1d092.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-22T17:51:21.908Z"
   }
 ]
