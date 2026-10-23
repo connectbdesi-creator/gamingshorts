@@ -24419,5 +24419,33 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-23T02:21:23.614Z"
+  },
+  {
+    "slug": "star-trek-online",
+    "name": "Star Trek Online",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/a53/a533bac7350ea700022cf2be8e694c88.jpg",
+    "released": "2012-01-31",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/3fe/3fecf5600f8f1a5dd89bb1cffbbdb7bc.jpg",
+      "https://media.rawg.io/media/screenshots/77b/77bdf5321f6ee659bfd9ef0e68d54356.jpg",
+      "https://media.rawg.io/media/screenshots/fe8/fe8dc1f75a80d5afb1f78d11fec457d5.jpg",
+      "https://media.rawg.io/media/screenshots/236/236bebcadffb903bed432740c5a47de4.jpg",
+      "https://media.rawg.io/media/screenshots/69a/69a1c15952d94e40f84b26de273e6d90.jpg",
+      "https://media.rawg.io/media/screenshots/0eb/0ebacfe2217695d0dcc7bd62dacc8823.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-23T11:21:38.153Z"
   }
 ]
