@@ -1,5 +1,51 @@
 [
   {
+    "id": "b2ac640ddf37",
+    "slug": "new-3d-metroidvania-on-steam-is-god-of-war-meets-metroid-prime-and-it",
+    "headline": "New 3D Metroidvania on Steam Is God of War Meets Metroid Prime, and It Rules",
+    "summary": "A new Steam Metroidvania blends God of War-style combat with Metroid Prime exploration, and its free demo already feels remarkably polished.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/best-metroidvania-games-like-metroid-prime-god-of-war-elta-defy-all-gods-steam/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/victus-confronts-a-massive-glowing-eyed-monster-with-multiple-clawed-limbs-in-elta-defy-all-gods.jpg",
+    "published_at": "2026-10-23T21:45:16.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "425925872251",
+    "slug": "nintendo-switch-sports-resort-review",
+    "headline": "Nintendo Switch Sports Resort Review",
+    "summary": "Nintendo Switch Sports Resort is a delightful collection of sports that make great use of the Switch 2's motion controls.",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/nintendo-switch-sports-resort-review/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/nintendo-switch-sports-resort-review.jpg",
+    "published_at": "2026-10-23T21:19:19.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "94d439b1f41e",
     "slug": "the-most-unplayable-games-by-rockstar-ranked",
     "headline": "The Most Unplayable Games By Rockstar, Ranked",
@@ -4514,49 +4560,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "3ea6174fdaa4",
-    "slug": "wo-long-2-wings-of-ember-alpha-demo-survey-results-announced",
-    "headline": "Wo Long 2: Wings of Ember Alpha Demo survey results announced",
-    "summary": "Publisher Koei Tecmo and developer Team NINJA have released the results of the Alpha Demo …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/wo-long-2-wings-of-ember-alpha-demo-survey-results-announced"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/3ea6174fdaa4/800/600",
-    "published_at": "2026-10-23T01:27:17.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c758346a691e",
-    "slug": "nintendo-adds-3-classic-game-boy-titles-to-switch-online",
-    "headline": "Nintendo Adds 3 Classic Game Boy Titles to Switch Online",
-    "summary": "Nintendo is expanding its Switch Online service with the addition of three classic Game Boy titles: Avenging Spirit, Mole Mania, and Pinball: Revenge of the 'Gator",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-game-boy-library-with-three-more-titles"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/b5623332e96f3/large.jpg",
-    "published_at": "2026-10-23T01:25:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "avenging-spirit",
-    "game_label": "Avenging Spirit"
   }
 ]
