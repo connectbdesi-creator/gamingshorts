@@ -1,5 +1,124 @@
 [
   {
+    "id": "37fe4f1605ae",
+    "slug": "days-with-my-lo-fi-sister-gets-productivity-companion-game",
+    "headline": "Days With My Lo-Fi Sister Gets Productivity Companion Game",
+    "summary": "A new productivity game based on Days With My Lo-Fi Sister is in development, featuring an original story by series creator Ghost Mikawa",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/days-with-my-stepsister-gets-productivity-companion-game-with-original-story-penned-by-series-creator-ghost-mikawa/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/37fe4f1605ae/800/600",
+    "published_at": "2026-10-23T08:04:51.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "days-with-my-lo-fi-sister",
+    "game_label": "Days With My Lo-Fi Sister"
+  },
+  {
+    "id": "9727bcca0b9f",
+    "slug": "peaks-rebecca-lautner-on-next-project",
+    "headline": "Peak's Rebecca Lautner on Next Project",
+    "summary": "Landfall Games CBO Rebecca Lautner discusses the company's next steps after Peak's 23 million sales",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/podcast-landfalls-rebecca-lautner-on-peaks-23-million-sales-and-looking-past-friendslop"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Game-Republic-15-10-26-84.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-23T08:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "peak",
+    "game_label": "Peak"
+  },
+  {
+    "id": "515c8e49e569",
+    "slug": "mass-effect-prices-skyrocket-following-bioware-closure",
+    "headline": "Mass Effect Prices Skyrocket Following BioWare Closure",
+    "summary": "People are digging through their game libraries to try to make a quick buck off BioWare's closure.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/mass-effect-legendary-edition-price-skyrockets/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/1920x1080-2026-10-23t084630-033.png",
+    "published_at": "2026-10-23T07:48:16.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3b1f1c0744f0",
+    "slug": "17-dc-and-batman-references-you-might-have-missed-in-clayface",
+    "headline": "17 DC and Batman references you might have missed in Clayface",
+    "summary": "GamesRadar+ discovers 17 Easter eggs hidden in Clayface, including references to DC and Batman, from the latest DC game.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/dc-movies/clayface-easter-eggs-dc-references-batman/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/YVoJnBrGJRwszhjx6SxqfA-1920-80.jpg",
+    "published_at": "2026-10-23T07:00:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "clayface",
+    "game_label": "Clayface"
+  },
+  {
+    "id": "fa0281258ebe",
+    "slug": "muv-luvs-dark-mecha-spin-offs-to-hit-steam",
+    "headline": "Muv-Luv's Dark Mecha Spin-Offs to Hit Steam",
+    "summary": "Muv-Luv's Schwarzesmarken spin-offs are returning to Steam, following previous failed plans for release in 2015 and 2016.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/muv-luvs-dark-political-mecha-spin-offs-schwarzesmarken-bloodstained-crest-and-schwarzesmarken-the-martyrs-to-release-on-steam/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/fa0281258ebe/800/600",
+    "published_at": "2026-10-23T06:58:36.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "schwarzesmarken-bloodstained-crest-and-schwarzesmarken-the-martyrs",
+    "game_label": "Schwarzesmarken: Bloodstained Crest and Schwarzesmarken: The Martyrs"
+  },
+  {
     "id": "ba3fa02b7349",
     "slug": "mass-effect-universe-trailer-leaked",
     "headline": "Mass Effect Universe Trailer Leaked",
@@ -53,6 +172,29 @@
     "image_url": "https://picsum.photos/seed/77c89cc4d470/800/600",
     "published_at": "2026-10-23T04:43:06.000Z",
     "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "888e3430ef8e",
+    "slug": "miyamoto-receives-japans-highest-cultural-honor",
+    "headline": "Miyamoto Receives Japan's Highest Cultural Honor",
+    "summary": "Shigeru Miyamoto, creator of Nintendo's iconic Mario and Zelda franchises, has been awarded Japan's highest cultural honor, the Order of Culture, in recognition of his contributions to the gaming industry.",
+    "category": "industry",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/shigeru-miyamoto-becomes-first-game-developer-to-receive-the-order-of-culture-japans-highest-cultural-honor/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/888e3430ef8e/800/600",
+    "published_at": "2026-10-23T04:05:07.000Z",
+    "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4429,143 +4571,6 @@
     "image_url": "https://picsum.photos/seed/3b5d2b68792d/800/600",
     "published_at": "2026-10-22T13:04:51.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "47b3591e1ecb",
-    "slug": "mass-effect-5-trailer-reportedly-ready-to-go-before-bioware-closure",
-    "headline": "Mass Effect 5 Trailer Reportedly Ready to Go Before BioWare Closure",
-    "summary": "A Mass Effect 5 trailer was reportedly completed before EA canceled the game, but the project's fate remains uncertain due to BioWare's closure.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/mass-effect-5-trailer-reportedly-ready-to-go-before-bioware-closure"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/22/me-1792674182792.jpg",
-    "published_at": "2026-10-22T13:04:32.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "mass-effect-5",
-    "game_label": "Mass Effect 5"
-  },
-  {
-    "id": "ea00da6c7064",
-    "slug": "stardock-to-publish-colonus-a-medieval-city-builder",
-    "headline": "Stardock to Publish Colonus, a Medieval City Builder",
-    "summary": "Stardock is publishing Colonus, a city-building game with a focus on exploration and village life.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/stardock-to-publish-colonus-a-medieval-city-builder/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/ea00da6c7064/800/600",
-    "published_at": "2026-10-22T13:03:06.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "colonus",
-    "game_label": "Colonus"
-  },
-  {
-    "id": "70508d9a92d6",
-    "slug": "playstation-store-september-2026s-top-downloads",
-    "headline": "PlayStation Store: September 2026’s top downloads",
-    "summary": "It’s time to see which PS5, PS4, PS VR2, and free-to-play games topped last month’s download charts. In September, Marvel’s Wolverine led the PS5 charts in the US, followed by EA Sports FC 27, while in the EU, EA Sports FC 27 led the PS5 charts, followed by Marvel’s Wolverine. Check out the full listings […]",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "PlayStation Blog",
-        "url": "https://blog.playstation.com/2026/10/22/playstation-store-september-2026s-top-downloads/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/70508d9a92d6/800/600",
-    "published_at": "2026-10-22T13:00:25.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4e8ec14779e2",
-    "slug": "marvels-wolverine-leads-us-september-charts-achieves-highest-monthly-d",
-    "headline": "Marvel's Wolverine leads US September charts, achieves highest monthly dollar sales for a Sony-published title since Helldivers 2",
-    "summary": "Marvel's Wolverine led US game sales in September, achieving the highest monthly dollar sales for a Sony-published title since Helldivers 2.\n Read more",
-    "category": "deals",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/marvels-wolverine-leads-us-september-charts-achieves-highest-monthly-dollar-sales-for-a-sony-published-title-since-helldivers-2"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/marvels-wolverine.webp?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-22T13:00:08.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9c01f3195449",
-    "slug": "25-discounted-games-from-xboxs-shocktober-sale",
-    "headline": "25+ Discounted Games From Xbox's Shocktober Sale",
-    "summary": "Xbox is offering a range of discounted games as part of its Shocktober Sale, including spooky titles like Resident Evil Requiem and Alan Wake 2.",
-    "category": "deals",
-    "platform_tags": [
-      "xbox",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/features/25plus-of-the-best-discounted-games-from-xboxs-shocktober-sale"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/3e19c97b59d99/large.jpg",
-    "published_at": "2026-10-22T13:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0f1de3a4857b",
-    "slug": "devgamm-awards-2026-reveals-70-nominated-games-for-its-3rd-annual-show",
-    "headline": "DevGAMM Awards 2026 Reveals 70 Nominated Games For Its 3rd Annual Show: See the Full List",
-    "summary": "Check out the full list of nominees from the third annual DevGAMM Awards, which will celebrate 70 games from 25 different countries on November 18, 2026.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/devgamm-awards-2026-reveals-70-nominated-games-for-its-3rd-annual-show-see-the-full-list"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/21/devegam-1792624866535.png",
-    "published_at": "2026-10-22T13:00:00.000Z",
-    "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
