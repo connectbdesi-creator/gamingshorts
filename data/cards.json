@@ -1,5 +1,49 @@
 [
   {
+    "id": "02bce2cc944e",
+    "slug": "talking-point-what-are-you-playing-this-weekend-issue-655",
+    "headline": "Talking Point: What Are You Playing This Weekend? - Issue 655",
+    "summary": "Wet and windy. The weather is miserable, guys. Like, truly miserable. I’m not going out this weekend unless I have to. I’m playing games. Aaron Bayne Not exactly what I was expecting, but I'll be spending this weekend with Modern Warfare 4. It's been a couple of years since I last dove into a Call of Duty, so hopefully this…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-655"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/6976f1890c71d/large.jpg",
+    "published_at": "2026-10-23T23:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f32ac44128d8",
+    "slug": "the-best-thing-valve-has-added-to-steam-in-years-just-graduated-to-ful",
+    "headline": " The best thing Valve has added to Steam in years just graduated to \"full feature\" ",
+    "summary": "Personal Calendars are finally live for real",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/the-best-thing-valve-has-added-to-steam-in-years-just-graduated-to-full-feature/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/CV5BokUxQySiZQ5euunZvQ-1920-80.jpg",
+    "published_at": "2026-10-23T22:48:10.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "57d71349a300",
     "slug": "7-open-world-masterpieces-that-show-what-zelda-ocarina-of-time-remake",
     "headline": "7 Open-World Masterpieces That Show What Zelda: Ocarina of Time Remake Could Have Been, Ranked",
@@ -4510,51 +4554,5 @@
     "comment_count": 0,
     "game": "peak",
     "game_label": "Peak"
-  },
-  {
-    "id": "515c8e49e569",
-    "slug": "mass-effect-prices-skyrocket-following-bioware-closure",
-    "headline": "Mass Effect Prices Skyrocket Following BioWare Closure",
-    "summary": "People are digging through their game libraries to try to make a quick buck off BioWare's closure.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/mass-effect-legendary-edition-price-skyrockets/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/1920x1080-2026-10-23t084630-033.png",
-    "published_at": "2026-10-23T07:48:16.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3b1f1c0744f0",
-    "slug": "17-dc-and-batman-references-you-might-have-missed-in-clayface",
-    "headline": "17 DC and Batman references you might have missed in Clayface",
-    "summary": "GamesRadar+ discovers 17 Easter eggs hidden in Clayface, including references to DC and Batman, from the latest DC game.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/entertainment/dc-movies/clayface-easter-eggs-dc-references-batman/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/YVoJnBrGJRwszhjx6SxqfA-1920-80.jpg",
-    "published_at": "2026-10-23T07:00:00.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "clayface",
-    "game_label": "Clayface"
   }
 ]
