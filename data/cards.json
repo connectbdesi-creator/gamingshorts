@@ -1,5 +1,75 @@
 [
   {
+    "id": "54e849c3a853",
+    "slug": "geralt-returns-to-the-witcher-world",
+    "headline": "Geralt Returns to The Witcher World",
+    "summary": "Author Andrzej Sapkowski has confirmed a new The Witcher book is in the works, with a release date target of 2028.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/the-witcher-geralt-returns-in-2026-with-new-release/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24755996/The_Witcher_n_S3_E4_00_28_49_08.jpg",
+    "published_at": "2026-10-24T00:43:18.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher",
+    "game_label": "The Witcher"
+  },
+  {
+    "id": "97e50762e0d1",
+    "slug": "vinland-saga-season-3-receives-new-official-release-update",
+    "headline": "Vinland Saga Season 3 Receives New Official Release Update",
+    "summary": "The original creator of the Vinland Saga manga has released an update regarding the season 3 release, indicating that it may not be as expected.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/vinland-saga-season-3-release-update/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/vinland-saga-season-3-release-update.jpeg",
+    "published_at": "2026-10-24T00:30:16.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "vinland-saga",
+    "game_label": "Vinland Saga"
+  },
+  {
+    "id": "56662023df21",
+    "slug": "dead-by-daylight-to-remove-chucky-content",
+    "headline": "Dead by Daylight to Remove Chucky Content",
+    "summary": "Dead by Daylight fans are in a state of panic as Behaviour Interactive has announced that Chucky content will be completely removed from the game, just months after the Michael Myers content was also taken down.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/dead-by-daylight-to-remove-chucky-content-just-months-after-losing-michael-myers"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/23/dead-by-daylight-chucky-1792799484984.png",
+    "published_at": "2026-10-24T00:01:07.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dead-by-daylight",
+    "game_label": "Dead by Daylight"
+  },
+  {
     "id": "1f3c24553d2e",
     "slug": "glitch-officially-greenlights-gameoverse-for-an-8-episode-run",
     "headline": "Glitch Officially Greenlights Gameoverse For An 8 Episode Run",
@@ -333,6 +403,29 @@
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/black-ops-7-modern-warfare-4-banner.jpg",
     "published_at": "2026-10-23T22:15:16.000Z",
     "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "eb513c538d9f",
+    "slug": "xbox-chief-operating-officer-helen-chiang-steps-down-after-three-month",
+    "headline": "Xbox chief operating officer Helen Chiang steps down after three months",
+    "summary": "Helen Chiang has left her role as Xbox chief operating officer after just three months, …",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/xbox-chief-operating-officer-helen-chiang-steps-down-after-three-months"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/eb513c538d9f/800/600",
+    "published_at": "2026-10-23T22:00:23.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4452,94 +4545,6 @@
     "image_url": "https://assetsio.gnwcdn.com/The-Next-Mass-Effect---Official-Teaser-Trailer-1-20-screenshot.png?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-10-23T09:11:49.000Z",
     "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1fe5be460aa3",
-    "slug": "nintendo-switch-online-officially-confirms-3-new-game-boy-games",
-    "headline": "Nintendo Switch Online Officially Confirms 3 New Game Boy Games",
-    "summary": "Nintendo has confirmed the addition of three new Game Boy games to its online service, NSO.",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/nintendo-switch-online-nso-new-game-boy-list/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/classic_game_boy_nintendo_classics_poster.jpg",
-    "published_at": "2026-10-23T09:07:18.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "game-boy",
-    "game_label": "Game Boy"
-  },
-  {
-    "id": "4052ee51b13e",
-    "slug": "psa-hitman-absolutions-switch-2-upgrade-path-is-free-for-now-but-be-qu",
-    "headline": "PSA: Hitman: Absolution's Switch 2 Upgrade Path Is Free For Now, But Be Quick!",
-    "summary": "Limited-time freebie. Hitman: Absolution - Nintendo Switch 2 Edition finally snuck onto the new console earlier this week, and it's free to all those who own the game on Switch 1! At least, it's free for now. Yes, as flagged by Feral Interactive, the upgrade path to the Switch 2 edition is only free until 4th November, while the game…",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/10/psa-hitman-absolutions-switch-2-upgrade-path-is-free-for-now-but-be-quick"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/097fd103d011c/large.jpg",
-    "published_at": "2026-10-23T09:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7f030ff719e7",
-    "slug": "life-sim-mmo-loftia-early-access-launch-date-confirmed",
-    "headline": "Life-Sim MMO Loftia Early Access launch date confirmed",
-    "summary": "Independent developer Qloud Games has announced that its life-sim cozy solarpunk MMO Loftia will launch into Early Access on November 3.\nThe post Life-Sim MMO Loftia Early Access launch date confirmed appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/life-sim-mmo-loftia-early-access-launch-date-confirmed/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/7f030ff719e7/800/600",
-    "published_at": "2026-10-23T08:44:31.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7104a45b4b1c",
-    "slug": "half-life-3-speculation-grows-as-valve-developer-mentions-hlx-during-s",
-    "headline": "Half-Life 3 speculation grows as Valve developer mentions ‘HLX’ during stage panel",
-    "summary": "Valve music designer Mike Morasky mentioned 'HLX' during a GameSoundCon panel",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/half-life-3-speculation-grows-as-valve-developer-mentions-hlx-during-stage-panel/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/7104a45b4b1c/800/600",
-    "published_at": "2026-10-23T08:44:30.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
