@@ -1,5 +1,74 @@
 [
   {
+    "id": "e7d6248c82f5",
+    "slug": "nintendo-music-adds-arms-soundtrack",
+    "headline": "Nintendo Music Adds ARMS Soundtrack",
+    "summary": "Nintendo has expanded its music service with the addition of the ARMS game soundtrack, including the full list of songs and composer details.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/final-battle-nintendo-music-expands-its-library-with-the-arms-soundtrack"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/2676d7db38580/large.jpg",
+    "published_at": "2026-10-24T08:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "arms",
+    "game_label": "ARMS"
+  },
+  {
+    "id": "8725e4f20deb",
+    "slug": "what-weve-been-playing-shoving-moon-flesh-into-an-alien-grandmas-mouth",
+    "headline": "What we've been playing - \"Shoving Moon Flesh into an alien grandma's mouth\"",
+    "summary": "Hello, it is me, your regular weekend host Mertie and I am here once again to guide you gently into Saturday with our usual feature What We've Been Playing, where we write a little about the games we've been, yes, playing. This week, Bertie - before fleeing for a well-deserved break and leaving me with the keys to the place…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/what-weve-been-playing-warframe-over-the-hill-switch-sports-resort"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/warframe-moon-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-24T07:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6df6d552ff25",
+    "slug": "gamers-diy-disaster-sparks-gaming-retreat",
+    "headline": "Gamer's DIY Disaster Sparks Gaming Retreat",
+    "summary": "A gamer is taking a break from their living room renovation to indulge in gaming after a chaotic DIY project, including an exploding sink.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-405"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/weekend-plumbing.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-24T07:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "f134c948f482",
     "slug": "cult-of-the-lamb-gets-switch-2-version",
     "headline": "Cult of the Lamb Gets Switch 2 Version",
@@ -4486,72 +4555,5 @@
     "comment_count": 0,
     "game": "cyberpunk-2077",
     "game_label": "Cyberpunk 2077"
-  },
-  {
-    "id": "da56cb6f8d28",
-    "slug": "cyberpunk-2077s-new-dual-wielding-has-already-been-modded-to-include-s",
-    "headline": "Cyberpunk 2077's new dual wielding has already been modded to include shotguns and rifles, provided you're down to get \"janky and wildly overpowered\"",
-    "summary": "It was only ever going to be a matter of time, but I'm still surprised just how quickly Cyberpunk 2077 modders have taken pistol dual wielding mechanic the RPG's Edgerunners 2 update has just added in, and opened it up to include any gun Night City has to offer. Yep, twinning shotguns, assault rifles, sniper rifles, or any combo of…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/cyberpunk-2077s-new-dual-wielding-has-already-been-modded-to-include-shotguns-and-rifles-provided-youre-down-to-get-janky-and-wildly-overpowered"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/cyberpunk-2077-dual-wield-any-gun-mods-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-23T09:30:58.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2fbb6f6cc192",
-    "slug": "troublemaker-3-fallen-dynasty-announced-for-pc",
-    "headline": "Troublemaker 3: Fallen Dynasty announced for PC",
-    "summary": "Gamecom Team has announced open-world action comedy beat ’em up game sequel Troublemaker 3: Fallen …",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/troublemaker-3-fallen-dynasty-announced-for-pc"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/2fbb6f6cc192/800/600",
-    "published_at": "2026-10-23T09:30:29.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8ccb1c1000e7",
-    "slug": "a-public-outing-of-severe-and-unfixed-linux-kernel-vulnerabilities-sho",
-    "headline": " A public outing of severe and unfixed Linux kernel vulnerabilities should have you thinking of updating your SteamOS or other distros to beta branches ",
-    "summary": "The accidental reveal of unpatched vulnerabilities as high as 9 on the CVSS score chart is a little worrisome.",
-    "category": "patches",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/a-public-outing-of-severe-and-unfixed-linux-kernel-vulnerabilities-should-have-you-thinking-of-updating-your-steamos-or-other-distros-to-beta-branches/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/7EimC87J9aoLbZEbfWBX9H-1920-80.jpg",
-    "published_at": "2026-10-23T09:26:40.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]

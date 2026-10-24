@@ -24534,5 +24534,30 @@
     "screenshots": [],
     "stores": [],
     "fetched_at": "2026-10-23T18:24:09.103Z"
+  },
+  {
+    "slug": "arms",
+    "name": "ARMS",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/89b/89baea5dcaec4424853e8fb888328dd9.jpg",
+    "released": "2017-06-15",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/bdd/bdd949cf889de2ab5c42bd8080c6d195.jpg",
+      "https://media.rawg.io/media/screenshots/40a/40a82a884a032c457233af3b149e66cd.jpg",
+      "https://media.rawg.io/media/screenshots/a27/a27038060768815bcceef7be584c579d.jpg",
+      "https://media.rawg.io/media/screenshots/e1c/e1cf7c7c4b0297d2a96e141083f79b30.jpg",
+      "https://media.rawg.io/media/screenshots/d5c/d5c94a341d3aee5eda9f835660453ac9.jpg",
+      "https://media.rawg.io/media/screenshots/0f3/0f369b5f73428d05247d26a92e27f837.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-24T08:21:21.641Z"
   }
 ]
