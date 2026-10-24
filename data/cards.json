@@ -1,5 +1,74 @@
 [
   {
+    "id": "6a2b39503f58",
+    "slug": "xboxs-first-ever-coo-is-already-leaving-after-a-few-months",
+    "headline": "Xbox's First-Ever COO Is Already Leaving After A Few Months",
+    "summary": "Less than four months after becoming the first-ever Xbox COO, Helen Chiang has left the company",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/xbox-loses-coo/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/xbox-new-logo.png",
+    "published_at": "2026-10-24T14:34:52.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0a4be917c72b",
+    "slug": "i-drank-from-the-chalice-of-blood-indie-dev-scrubs-his-game-of-ai-gene",
+    "headline": " 'I drank from the chalice of blood': indie dev scrubs his game of AI-generated voice lines, having previously described the technology as 'anti-human and anti-art' ",
+    "summary": "Refund offered for players who \"still feel betrayed\" over AI use in Future? No Thanks!",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/game-development/i-drank-from-the-chalice-of-blood-indie-dev-scrubs-his-game-of-ai-generated-voice-lines-having-previously-described-the-technology-as-anti-human-and-anti-art/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/J2SZTYU49FSR6FCXmQ3dv9-1920-80.jpg",
+    "published_at": "2026-10-24T14:30:20.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ec55dbabc69a",
+    "slug": "bioware-advisor-claims-to-have-advised-canceled-mass-effect-universe-g",
+    "headline": "BioWare Advisor Claims to Have Advised Canceled Mass Effect Universe Game",
+    "summary": "A content creator who claims to have served on a BioWare community council shared details about the cancelled next Mass Effect game, titled Mass Effect Universe.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/mass-effect-universe-details-dantics-claims"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/mass-effect-shepard-sad.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-24T14:26:27.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "mass-effect-universe",
+    "game_label": "Mass Effect Universe"
+  },
+  {
     "id": "939840bf03ba",
     "slug": "epic-games-stores-final-free-game-for-october-2026-announced",
     "headline": "Epic Games Store's Final Free Game for October 2026 Announced",
@@ -4505,78 +4574,5 @@
     "comment_count": 0,
     "game": "sonic",
     "game_label": "Sonic"
-  },
-  {
-    "id": "e3aa07f03b53",
-    "slug": "xbox-fans-urge-microsoft-to-save-mass-effect-ip",
-    "headline": "Xbox Fans Urge Microsoft to Save Mass Effect IP",
-    "summary": "The gaming community is calling on Microsoft to purchase the Mass Effect IP and revitalize the BioWare studio, following the closure of the developer",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/10/the-internet-urges-xbox-to-save-mass-effect"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/39ca317b1c771/large.jpg",
-    "published_at": "2026-10-23T12:00:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "mass-effect",
-    "game_label": "Mass Effect"
-  },
-  {
-    "id": "c1beef06b147",
-    "slug": "final-fantasy-resonance-offers-a-twist-on-traditional-turn-based-comba",
-    "headline": "Final Fantasy Resonance Offers a Twist on Traditional Turn-Based Combat",
-    "summary": "Final Fantasy Resonance combines classic JRPG elements with innovative gameplay mechanics, featuring guest characters and a unique twist on the HD-2D formula.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/final-fantasy-resonance-lets-you-take-a-five-minute-single-turn-and-its-glorious/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/FFR-Fina.jpg?w=300",
-    "published_at": "2026-10-23T11:38:04.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "final-fantasy-resonance",
-    "game_label": "Final Fantasy Resonance"
-  },
-  {
-    "id": "d87bc4478435",
-    "slug": "sony-drops-prices-on-the-only-ps5-consoles-id-recommend-buying-this-ho",
-    "headline": " Sony drops prices on the only PS5 consoles I'd recommend buying this holiday season, just in time for GTA 6 ",
-    "summary": "PS Direct has a new deal for its Certified Refurbished PS5s, saving you $40 when you grab an extra controller at the same time.",
-    "category": "deals",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/sony-drops-prices-on-the-only-ps5-consoles-id-recommend-buying-this-holiday-season-just-in-time-for-gta-6/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/BGbhK7ZVMgRh8kdyihSc8Z-1920-80.jpg",
-    "published_at": "2026-10-23T11:38:03.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
