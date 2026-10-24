@@ -1,5 +1,28 @@
 [
   {
+    "id": "f134c948f482",
+    "slug": "cult-of-the-lamb-gets-switch-2-version",
+    "headline": "Cult of the Lamb Gets Switch 2 Version",
+    "summary": "Cult of the Lamb, a cult-building game, is getting a version on Nintendo Switch 2 with a free upgrade path, set to release next week.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/icymi-cult-of-the-lamb-summons-a-switch-2-version-includes-free-upgrade-path"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/105fa42933e8e/large.jpg",
+    "published_at": "2026-10-24T03:30:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "cult-of-the-lamb",
+    "game_label": "Cult of the Lamb"
+  },
+  {
     "id": "54e849c3a853",
     "slug": "geralt-returns-to-the-witcher-world",
     "headline": "Geralt Returns to The Witcher World",
@@ -40,6 +63,29 @@
     "comment_count": 0,
     "game": "vinland-saga",
     "game_label": "Vinland Saga"
+  },
+  {
+    "id": "2303c4aa6b36",
+    "slug": "helen-chiang-leaves-xbox-coo-role-after-3-months",
+    "headline": "Helen Chiang Leaves Xbox COO Role After 3 Months",
+    "summary": "Xbox COO Helen Chiang has reportedly departed the company just three months after joining, following a company-wide reset announced by CEO Asha Sharma.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/helen-chiang-reportedly-departs-xbox-coo-role-after-three-months/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/2303c4aa6b36/800/600",
+    "published_at": "2026-10-24T00:21:01.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "56662023df21",
@@ -4503,48 +4549,6 @@
     "image_url": "https://picsum.photos/seed/be1c1bc3c5e1/800/600",
     "published_at": "2026-10-23T09:15:07.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "971b74352ff3",
-    "slug": "gdai-gears-up-to-host-india-game-developer-conference-igdc-2026",
-    "headline": "GDAI gears up to host India Game Developer Conference (IGDC) 2026",
-    "summary": "GDAI gears up to host India Game Developer Conference (IGDC) 2026, which will be the 18th edition of the event. \nThe post GDAI gears up to host India Game Developer Conference (IGDC) 2026 appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/gdai-gears-up-to-host-india-game-developer-conference-igdc-2026/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/971b74352ff3/800/600",
-    "published_at": "2026-10-23T09:14:45.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b5cb4aed6c53",
-    "slug": "flashy-internal-trailer-for-now-cancelled-mass-effect-universe-appears",
-    "headline": "Flashy internal trailer for now-cancelled Mass Effect Universe appears online, following EA's closure of BioWare",
-    "summary": "An internal trailer for the cancelled Mass Effect game that was in-development at BioWare prior to its closure this week has appeared online. It's confirmed to be real, too, amid some initial suspicions it may have been an AI generated fake.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/mass-effect-universe-trailer-leak-real"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/The-Next-Mass-Effect---Official-Teaser-Trailer-1-20-screenshot.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-23T09:11:49.000Z",
-    "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
