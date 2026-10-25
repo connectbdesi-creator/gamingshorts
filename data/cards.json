@@ -1,5 +1,127 @@
 [
   {
+    "id": "386f116ae715",
+    "slug": "former-bioware-devs-spill-beans-on-cancelled-mass-effect-game",
+    "headline": "Former BioWare devs spill beans on cancelled Mass Effect game",
+    "summary": "Ex-BioWare developers share their thoughts on the cancelled Mass Effect game, including what they were working on before EA's decision",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/mass-effect-universe-would-have-allowed-players-to-generate-timelines-that-acknowledged-multiple-choices-from-the-trilogy-2000749344"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/10/meuniverse1-1280x720.jpg",
+    "published_at": "2026-10-25T01:46:01.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "mass-effect",
+    "game_label": "Mass Effect"
+  },
+  {
+    "id": "cbbc5631c735",
+    "slug": "5-most-perfect-1980s-games-that-nobody-remembers",
+    "headline": "5 Most Perfect 1980s Games That Nobody Remembers",
+    "summary": "From Tempest to Captain Blood, unearth these classic 1980s games from the 8-bit era that deserve to make a comeback.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/best-forgotten-1980s-games/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/paradroid.jpg",
+    "published_at": "2026-10-25T00:53:58.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3e44e66b6469",
+    "slug": "the-6-kingdom-hearts-4-worlds-we-want-to-see-and-4-we-absolutely-dont",
+    "headline": "The 6 Kingdom Hearts 4 Worlds We Want to See — and 4 We Absolutely Don't",
+    "summary": "Polygon discusses the ideal and non-ideal Disney worlds for Kingdom Hearts 4, considering the series' complicated history with representation.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/kingdom-hearts-4-worlds-theories/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/kh4_d23_4k_1.jpg",
+    "published_at": "2026-10-25T00:39:16.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "kingdom-hearts-4",
+    "game_label": "Kingdom Hearts 4"
+  },
+  {
+    "id": "9c80d8900242",
+    "slug": "new-single-player-fps-games-confirmed-coming-soon-ranked",
+    "headline": "New Single-Player FPS Games Confirmed Coming Soon, Ranked",
+    "summary": "These first-person shooters release in November 2026, and they cover a wide range of FPS subgenres and preferences.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/new-fps-games-releases-november-2026/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/new-fps-games-releasing-november-2026-deadboot.jpg",
+    "published_at": "2026-10-25T00:38:16.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a3e247fc12f8",
+    "slug": "psa-call-of-duty-modern-warfare-4-switch-update-now-live",
+    "headline": "PSA: Call of Duty: Modern Warfare 4 Switch Update Now Live",
+    "summary": "A new update for Call of Duty: Modern Warfare 4 on the Switch 2 console is now available, requiring a 30GB download. The update's details have not been officially announced by Activision.",
+    "category": "patches",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/call-of-duty-cod-modern-warfare-4-mw4-best-meta-kg-7-vulcan-loadout-build/"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/39d66f7a3e8d1/large.jpg",
+    "published_at": "2026-10-25T00:32:30.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "call-of-duty-modern-warfare-4",
+    "game_label": "Call of Duty: Modern Warfare 4"
+  },
+  {
     "id": "dda9745a7a1c",
     "slug": "best-cozy-games-with-wild-unexpectedly-dark-lore",
     "headline": "Best Cozy Games With Wild, Unexpectedly Dark Lore",
@@ -1148,29 +1270,6 @@
     "comment_count": 0,
     "game": "alan-wake",
     "game_label": "Alan Wake"
-  },
-  {
-    "id": "a3e247fc12f8",
-    "slug": "psa-call-of-duty-modern-warfare-4-switch-update-now-live",
-    "headline": "PSA: Call of Duty: Modern Warfare 4 Switch Update Now Live",
-    "summary": "A new update for Call of Duty: Modern Warfare 4 on the Switch 2 console is now available, requiring a 30GB download. The update's details have not been officially announced by Activision.",
-    "category": "patches",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/39d66f7a3e8d1/large.jpg",
-    "published_at": "2026-10-24T15:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "call-of-duty-modern-warfare-4",
-    "game_label": "Call of Duty: Modern Warfare 4"
   },
   {
     "id": "b75d28c4462a",
@@ -4482,98 +4581,6 @@
     "image_url": "https://cdn.mos.cms.futurecdn.net/zkJfqJuJFshsSF7f9nfBba-1920-80.jpg",
     "published_at": "2026-10-23T14:55:41.000Z",
     "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3b13a4dabb22",
-    "slug": "why-the-fk-would-they-add-a-perk-like-that-modern-warfare-4-dmz-player",
-    "headline": "\"Why the f**k would they add a perk like that?\" - Modern Warfare 4 DMZ players are up in arms over the ability to self-revive",
-    "summary": "Modern Warfare 4's DMZ extraction shooter mode has only been out for two days - and only for those who pre-ordered the game -  but already players are up in arms over a particular trait that allows competitors  to revive themselves after being killed.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/modern-warfare-4-dmz-playing-possum-perk-broke"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/modern-warfare-dmz-rose-edit.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-23T14:55:40.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b907a8426369",
-    "slug": "guide-61-switch-1-2-games-you-should-check-out-in-nintendos-halloween",
-    "headline": "Guide: 61 Switch 1 & 2 Games You Should Check Out In Nintendo's 'Halloween Sale' (Europe)",
-    "summary": "Every game we scored 9/10 or higher, plus a personal pick. After Nintendo of America launched its 'Screaming Deals' sale earlier this week, we knew it wouldn't be long before Europe followed suit. The 'Halloween Sale' is now live for those in Europe, with delicious discounts on a boatload of titles available until 1st November. So, naturally, we have assembled…",
-    "category": "reviews",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/guides/61-switch-1-and-2-games-you-should-check-out-in-nintendos-halloween-sale-europe"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/d41139d2fc297/large.jpg",
-    "published_at": "2026-10-23T14:45:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a13a107c8346",
-    "slug": "report-microsoft-is-running-out-of-time-to-save-xbox-studio-arkane",
-    "headline": "Report: Microsoft Is Running Out Of Time To Save Xbox Studio Arkane",
-    "summary": "A November 13th deadline looms. Back in July, Xbox announced that it was cutting 3,200 jobs and parting ways with four studios in Compulsion Games, Ninja Theory, Double Fine and Undead Labs. However, it was also mentioned at the time that Arkane Studios was reviewing \"potential strategic options\" ahead of potentially leaving Xbox's ownership as well. Then, in September, it…",
-    "category": "reviews",
-    "platform_tags": [
-      "xbox",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/10/report-microsoft-is-running-out-of-time-to-save-xbox-studio-arkane"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/a557c357a75fd/large.jpg",
-    "published_at": "2026-10-23T14:45:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0f65e7b23871",
-    "slug": "arkane-survival-negotiations-reportedly-seeing-several-forms-of-takeov",
-    "headline": "Arkane survival negotiations reportedly seeing \"several forms of takeover\" considered ahead of November deadline, as Marvel's Blade production nears end",
-    "summary": "Negotiations over the future of Dishonored and Deathloop developers Arkane Lyon are reportedly seeing \"several forms of takeover\" considered as a November deadline looms for the divorce Xbox set in motion back in July. French law makes the process of shuttering or chucking away studios a lot harder for companies like Microsoft than it is elsewhere in the world, hence…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/arkane-survival-negotiations-reportedly-seeing-several-forms-of-takeover-considered-ahead-of-november-deadline-as-marvels-blade-production-nears-end"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/marvel-blade-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-23T14:43:20.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
