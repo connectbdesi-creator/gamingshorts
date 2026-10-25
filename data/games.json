@@ -24703,5 +24703,92 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-25T10:51:35.898Z"
+  },
+  {
+    "slug": "deus-ex",
+    "name": "Deus Ex",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/fcf/fcf5ec8a73501581282796e4fa1b5cff.jpg",
+    "released": "2000-06-26",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "PlayStation 3",
+      "PlayStation 2"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/7a3/7a35f27b7099f259a399dd8f4821aafb.jpg",
+      "https://media.rawg.io/media/screenshots/3f5/3f5ee47a194bd94fa4d9896f00933484.jpg",
+      "https://media.rawg.io/media/screenshots/03e/03e5e328552e3a3622d18c8b082d6eb8.jpg",
+      "https://media.rawg.io/media/screenshots/913/9132d7d78ad34cb097764dc333ecd2e1.jpg",
+      "https://media.rawg.io/media/screenshots/f05/f0530c37367a0d1cf134ebcd5ed4a37d.jpg",
+      "https://media.rawg.io/media/screenshots/ae4/ae4f79d1e043fc2c7649c35561ccfa5e.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-25T14:51:33.447Z"
+  },
+  {
+    "slug": "mass-effect-2",
+    "name": "Mass Effect 2",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/3cf/3cff89996570cf29a10eb9cd967dcf73.jpg",
+    "released": "2010-01-26",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/3e9/3e987ae85497ded8e4fea09634be9c0a.jpg",
+      "https://media.rawg.io/media/screenshots/be5/be56c7c5c5b0f10644213f99051525f4.jpg",
+      "https://media.rawg.io/media/screenshots/61c/61c0fb8a92ffdd64e9355202cbf1d3f2.jpg",
+      "https://media.rawg.io/media/screenshots/2aa/2aa8bf125cb9c7c20ee1d296a3c4a45e.jpg",
+      "https://media.rawg.io/media/screenshots/90e/90ed4c6bb3c400ea3e825c47a09c41df.jpg",
+      "https://media.rawg.io/media/screenshots/824/824e85651ba98e8539ef39b205428e88.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-25T14:51:34.620Z"
+  },
+  {
+    "slug": "thrillville",
+    "name": "Thrillville",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/3f5/3f5e76ba45218113bd53b1f6accac0c3.jpg",
+    "released": "2006-11-21",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "Action"
+    ],
+    "platforms": [
+      "Xbox",
+      "PlayStation 2",
+      "PSP"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/269/269c0b233dbf78b13d7a882d21506467.jpg",
+      "https://media.rawg.io/media/screenshots/b25/b25f66c72799e03c1736e1eed70623d6.jpg",
+      "https://media.rawg.io/media/screenshots/e52/e52d1bf0776972ce6779e5bcf9c4072d.jpg",
+      "https://media.rawg.io/media/screenshots/d1a/d1af721584d779ba277d503cfb8ee6cf.jpg",
+      "https://media.rawg.io/media/screenshots/a29/a29806f149457dc2dd409f32f08a41f7.jpg",
+      "https://media.rawg.io/media/screenshots/05e/05e017428a63dba6d9e7221037755f37.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-25T14:51:35.060Z"
   }
 ]
