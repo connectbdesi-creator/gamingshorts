@@ -25120,5 +25120,86 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-26T20:52:33.839Z"
+  },
+  {
+    "slug": "pokemon-red",
+    "name": "Pokemon Red",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/d91/d912488ffd1b43ae26cfe18fb8fd0bef.jpg",
+    "released": "2022-04-22",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/2a3/2a3d19e041a5e3855b0c46530026528b.jpg",
+      "https://media.rawg.io/media/screenshots/e9b/e9b5ccc060c0a8bdcef797f83e887d63.jpg",
+      "https://media.rawg.io/media/screenshots/843/8431198810c5a892d3aa3119b7c16a30.jpg",
+      "https://media.rawg.io/media/screenshots/d91/d912488ffd1b43ae26cfe18fb8fd0bef.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-26T22:51:29.946Z"
+  },
+  {
+    "slug": "baldurs-gate-1",
+    "name": "Baldur's Gate",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/a91/a9108384b5d691080b294cd744f350c9.jpg",
+    "released": "1998-12-21",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "iOS",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c39/c399e200d32647a6028c776d50c5ffae.jpg",
+      "https://media.rawg.io/media/screenshots/c81/c81d2be2d79f438e48176ebe227162de.jpg",
+      "https://media.rawg.io/media/screenshots/0d7/0d7a370f4d8ae0c59d1945d3a151e456.jpg",
+      "https://media.rawg.io/media/screenshots/117/1179ac52027bedb172cbfa9e53d6e8c4.jpg",
+      "https://media.rawg.io/media/screenshots/74b/74bbc3c55708d740c69a6dc8fe96a176.jpg",
+      "https://media.rawg.io/media/screenshots/298/2980ff54971c12009924f94cc4313cbb.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-26T22:51:30.335Z"
+  },
+  {
+    "slug": "blue-archive",
+    "name": "Blue Archive",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/7ea/7ea528219d53d8987eac8d45292fb907_5OluUrF.jpg",
+    "released": "2021-02-04",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Casual",
+      "Strategy",
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "iOS",
+      "Android"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c5e/c5e1a401f7ab136958662c9f36a72b4b.jpg",
+      "https://media.rawg.io/media/screenshots/cb9/cb91aac73edd2cc8fabb9bcb645586c4_cvE6KwU.jpg",
+      "https://media.rawg.io/media/screenshots/356/356765d1e5f374fba302a363cf826a31_7SHcNO4.jpg",
+      "https://media.rawg.io/media/screenshots/4d9/4d9e06ad56838bc7978f454af03270d7_q1uooB5.jpg",
+      "https://media.rawg.io/media/screenshots/cb5/cb580be7dda3408b0437f4a2991c41a6_K65OaBm.jpg",
+      "https://media.rawg.io/media/screenshots/618/6185c4e357ade6cf918ca572bd1ff790.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-26T22:51:34.284Z"
   }
 ]
