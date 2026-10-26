@@ -1,5 +1,73 @@
 [
   {
+    "id": "9403e5e3e808",
+    "slug": "this-weeks-japanese-game-releases-phantom-blade-zero-anomalith-more",
+    "headline": "This Week’s Japanese Game Releases: Phantom Blade Zero, ANOMALITH, more",
+    "summary": "Phantom Blade Zero for PlayStation 5 and PC, and ANOMALITH for PlayStation 5, Switch 2, and …",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/this-weeks-japanese-game-releases-phantom-blade-zero-anomalith-more"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/9403e5e3e808/800/600",
+    "published_at": "2026-10-26T03:29:14.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "98c4c9a3963c",
+    "slug": "dragon-ball-xenoverse-2-gets-surprise-10th-anniversary-update-this-wee",
+    "headline": "Dragon Ball Xenoverse 2 Gets Surprise 10th Anniversary Update This Week",
+    "summary": "Bandai Namco has revealed a 10th anniversary update for Dragon Ball Xenoverse 2 as fans await the fighting game series' third installment.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/dragon-ball-xenoverse-2-gets-surprise-10th-anniversary-update-this-week"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/26/dragon-ball-xenoverse-2-1792984932660.jpg",
+    "published_at": "2026-10-26T03:28:52.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "1c8c6fa257b5",
+    "slug": "steam-week-in-review-ai-disclosures-enter-the-discourse-again-as-epic",
+    "headline": " Steam Week in Review: AI disclosures enter the discourse again, as Epic CEO calls them 'just as partisan as mandatory political essays' ",
+    "summary": "All the interesting Steam facts for the week ending October 25.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-ai-disclosures-enter-the-discourse-again-as-epic-ceo-calls-them-just-as-partisan-as-mandatory-political-essays/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/mquTcmtPeqPuULfWtDsgW-1920-80.jpg",
+    "published_at": "2026-10-26T03:12:41.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "291718af0b40",
     "slug": "the-10-best-snes-games-to-play-on-nintendo-switch-online",
     "headline": "The 10 Best SNES Games to Play on Nintendo Switch Online",
@@ -167,6 +235,50 @@
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/unplayable-1.jpg",
     "published_at": "2026-10-26T00:40:16.000Z",
     "hype_signal": 10,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "70ea889ba76c",
+    "slug": "deal-falls-apart-after-netflix-offers-500m-to-license-xbox-games-for-m",
+    "headline": "Deal falls apart after Netflix offers $500M to license Xbox games for motion picture adaptations",
+    "summary": "Netflix reportedly offered Microsoft $500 million to license Xbox games for adaptations, but the deal fell apart because Microsoft countered by asking for $800...\nThe post Deal falls apart after Netflix offers $500M to license Xbox games for motion picture adaptations appeared first on GamesBeat.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/deal-falls-apart-after-netflix-offers-500m-to-license-xbox-games-for-motion-picture-adaptations/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/70ea889ba76c/800/600",
+    "published_at": "2026-10-26T00:22:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "599d50d389f5",
+    "slug": "almost-200k-fans-sign-petition-to-save-mass-effect-series-after-ea-shu",
+    "headline": "Almost 200K fans sign petition to save Mass Effect series after EA shuts BioWare",
+    "summary": "More than 197,000 Mass Effect fans signed a petition to save the franchise after Electronic Arts announced last week it was shutting down BioWare....\nThe post Almost 200K fans sign petition to save Mass Effect series after EA shuts BioWare appeared first on GamesBeat.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/almost-200k-fans-sign-petition-to-save-mass-effect-series-after-ea-shuts-bioware/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/599d50d389f5/800/600",
+    "published_at": "2026-10-26T00:12:00.000Z",
+    "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4517,120 +4629,6 @@
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/the-legend-of-zelda-ocarina-of-time-needs-voice-acting.jpg",
     "published_at": "2026-10-23T20:45:16.000Z",
     "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6cdf186f0b77",
-    "slug": "mw4-dmz-deployment-bonus-explained",
-    "headline": "MW4 DMZ Deployment Bonus, Explained",
-    "summary": "Modern Warfare 4 Vault Edition owners can expect exclusive DMZ gear with their purchase.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/mw4-dmz-deployment-bonus-explained/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/what-is-the-dmz-deployment-bonus-in-modern-warfare-4.jpg",
-    "published_at": "2026-10-23T20:32:03.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "modern-warfare-4",
-    "game_label": "Modern Warfare 4"
-  },
-  {
-    "id": "28497d7084c8",
-    "slug": "developer-of-ecosocialist-game-future-no-thanks-offers-refunds-after-u",
-    "headline": "Developer Of ‘Ecosocialist’ Game Future? No Thanks! Offers Refunds After Using AI Despite Calling It ‘Technofascist’",
-    "summary": "He seems to still stand by his AI use, though",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/developer-of-ecosocialist-game-future-no-thanks-offers-refunds-after-using-ai-despite-calling-it-technofascist-2000749158"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/future-no-thanks-1280x720.jpg",
-    "published_at": "2026-10-23T20:30:36.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "04b9791b4189",
-    "slug": "top-20-most-played-steam-next-fest-demos-revealed",
-    "headline": "Top 20 Most-Played Steam Next Fest Demos Revealed",
-    "summary": "Valve has released a list of the most-played demos at Steam Next Fest, showcasing a diverse range of games including co-op adventures and mechanically-deep action games.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/steam-next-fest-most-played-demos-so-far-include-fart-together-emberville-archeage-chronicles"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/23/aac-1792785830454.jpg",
-    "published_at": "2026-10-23T20:20:41.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f63723beb4a5",
-    "slug": "most-perfect-single-player-fps-games-nobody-bought-ranked",
-    "headline": "Most Perfect Single-Player FPS Games Nobody Bought, Ranked",
-    "summary": "Some first-person shooters might be regarded as near-perfect masterpieces nowadays, but that doesn't mean anybody bought these FPS games at launch.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/most-perfect-fps-games-nobody-bought-ranked/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/fps-games-nobody-bought-darkness-2-gunplay.jpg",
-    "published_at": "2026-10-23T20:18:17.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f06291113dd4",
-    "slug": "nintendos-shigeru-miyamoto-says-even-if-gen-ai-were-to-eventually-hand",
-    "headline": "Nintendo's Shigeru Miyamoto says even if gen-AI \"were to eventually handle everything, there will always be a role left\" for human designers",
-    "summary": "Legendary Nintendo developer Shigeru Miyamoto - who led development on classic games such as Super Mario 64 and The Legend of Zelda: Ocarina of Time - has argued that the rise of generative AI tools won't necessarily replace human talent.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/nintendo-shigeru-miyamoto-gen-ai"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-23T20:12:34.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
