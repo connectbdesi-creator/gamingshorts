@@ -25015,5 +25015,64 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-26T15:51:54.991Z"
+  },
+  {
+    "slug": "game-of-thrones",
+    "name": "Game of Thrones - A Telltale Games Series",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/c81/c812e158129e00c9b0f096ae8a0bb7d6.jpg",
+    "released": "2014-12-02",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "iOS",
+      "Android",
+      "macOS",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/773/77374bac6e0d77809618950ccec058de.jpg",
+      "https://media.rawg.io/media/screenshots/6f1/6f1271081f578559d95e72a4bf6d031e.jpg",
+      "https://media.rawg.io/media/screenshots/14e/14e9c8bf0df8adb01f8837cd6711a1cd.jpg",
+      "https://media.rawg.io/media/screenshots/423/423ae9b68e94d96b1370f3c57171bcbb.jpg",
+      "https://media.rawg.io/media/screenshots/fb7/fb7585f1fccf31b9ed8f256407ec639f.jpg",
+      "https://media.rawg.io/media/screenshots/3b6/3b6c7f291533d6ffc816b0fcf6c7ba84.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-26T17:51:56.805Z"
+  },
+  {
+    "slug": "the-walking-trade",
+    "name": "The Walking Trade",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/8fc/8fc6d3bfbc6d48ced3dc3331413bbbc9.jpg",
+    "released": "2026-03-05",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "Simulation"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/08f/08ff1205409c70fb75e32209f6db330b.jpg",
+      "https://media.rawg.io/media/screenshots/6ad/6ade27d984ea6b1d295196e70b9fbd9e.jpg",
+      "https://media.rawg.io/media/screenshots/a9f/a9fca350984bfc364d1512d2de0a281b.jpg",
+      "https://media.rawg.io/media/screenshots/bd1/bd1b9233897a0b0eb8c4498023373d1a.jpg",
+      "https://media.rawg.io/media/screenshots/bd8/bd833c1bbc6338fcc5b36e394c78bd83.jpg",
+      "https://media.rawg.io/media/screenshots/8fc/8fc6d3bfbc6d48ced3dc3331413bbbc9.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-26T17:51:57.870Z"
   }
 ]
