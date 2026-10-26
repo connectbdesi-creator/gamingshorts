@@ -24876,5 +24876,90 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-26T08:51:20.455Z"
+  },
+  {
+    "slug": "super-mario-bros",
+    "name": "Super Mario Bros.",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/154/154fea9689109f26c49c6a2db6263ef9.jpg",
+    "released": "1985-09-13",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Platformer",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "Nintendo Switch",
+      "Nintendo 3DS",
+      "Wii U",
+      "Wii",
+      "Game Boy Advance",
+      "Game Boy Color",
+      "SNES",
+      "NES"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/467/467575d8104e886bfeb7fc3b1fbb0700.jpg",
+      "https://media.rawg.io/media/screenshots/62c/62cf19d93f5e68537e8006d24a89f51c.jpg",
+      "https://media.rawg.io/media/screenshots/c27/c2786b1d93e5feaec58c5be508bc883e.jpg",
+      "https://media.rawg.io/media/screenshots/b2b/b2b139b9b05d2477bdd6f5fedfb47bfd.jpg",
+      "https://media.rawg.io/media/screenshots/a3c/a3ccd83786304ee526ed0f901cd730e8.jpg",
+      "https://media.rawg.io/media/screenshots/130/13050bb564b2239932b365c427e0e869.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-26T12:58:24.989Z"
+  },
+  {
+    "slug": "the-elder-scrolls-3-morrowind",
+    "name": "The Elder Scrolls III: Morrowind",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/ccf/ccf26f6e3d553a04f0033a8107a521b8.jpg",
+    "released": "2002-05-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "Xbox"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/aad/aadaaaad6e236f42b12b9a4334d0e242.jpg",
+      "https://media.rawg.io/media/screenshots/939/939fa07c730385d2ccf16f340ff612b0.jpg",
+      "https://media.rawg.io/media/screenshots/d06/d06fedaf9f6cdf79e8f89fc7e971ba69.jpg",
+      "https://media.rawg.io/media/screenshots/4dd/4dd30cc6133aae026dc0869976f0eaba.jpg",
+      "https://media.rawg.io/media/screenshots/47e/47eb377d6dfd4286e9f8857b459abb80.jpg",
+      "https://media.rawg.io/media/screenshots/39e/39e1e212b32ebd68deacad9287ada462.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-26T12:58:26.865Z"
+  },
+  {
+    "slug": "ecstatica",
+    "name": "Ecstatica",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/f3b/f3b34c8df90a7b4dd489860454e350ec.jpg",
+    "released": "2026-10-25",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/2a4/2a4fc1a4250d8a884fcafe3c6809f805.jpg",
+      "https://media.rawg.io/media/screenshots/92f/92f2c2dd441400b4e9c132c7d00c7062.jpg",
+      "https://media.rawg.io/media/screenshots/92a/92a4355d7d0aa478cd0db3bbddadbac3.jpg",
+      "https://media.rawg.io/media/screenshots/deb/deb61fd9e62cd777f3b3b7e351e97bab.jpg",
+      "https://media.rawg.io/media/screenshots/6f0/6f0bbc0ea56d5459d3c95f951160347c.jpg",
+      "https://media.rawg.io/media/screenshots/f3b/f3b34c8df90a7b4dd489860454e350ec.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-26T12:58:28.373Z"
   }
 ]
