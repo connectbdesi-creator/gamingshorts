@@ -1,5 +1,210 @@
 [
   {
+    "id": "5693d9e8763a",
+    "slug": "phantom-blade-zero",
+    "headline": "Phantom Blade Zero",
+    "summary": "Phantom Blade Zero is a highly anticipated game that should not be overlooked amidst the upcoming releases like GTA 6.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/phantom-blade-zero-november-2026-must-play-before-gta-6/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/phantom-blade-zero-1guux.jpg",
+    "published_at": "2026-10-27T13:30:15.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "phantom-blade-zero",
+    "game_label": "Phantom Blade Zero"
+  },
+  {
+    "id": "08bbc70aebd8",
+    "slug": "developers-need-to-treat-early-access-like-a-real-launch-because-playe",
+    "headline": "\"Developers need to treat Early Access like a real launch, because players do\" – Early Access games are on the rise, but so are player expectations",
+    "summary": "The number of games released through Steam's Early Access program has risen significantly in recent years. According to SteamDB, 2,924 Early Access games launched on Valve's platform in 2026 (as of mid-October), an 18% increase from 2025 and a 60% increase from 2020.\n Read more",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/developers-need-to-treat-early-access-like-a-real-launch-because-players-do-early-access-games-are-on-the-rise-but-so-are-player-expectations"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Early-Access-on-Steam.jpeg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-27T13:30:00.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "efae86197eae",
+    "slug": "cyberpunk-reaches-new-player-record",
+    "headline": "Cyberpunk Reaches New Player Record",
+    "summary": "Cyberpunk 2077 has reached a peak of over 187,000 concurrent players on Steam, surpassing its previous high since the release of Phantom Liberty.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/cyberpunk-2077-highest-player-count-since-phantom-liberty-edgerunners-2/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/43foebqxmhhseffyrq9knr.jpg",
+    "published_at": "2026-10-27T13:23:56.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "cyberpunk-2077",
+    "game_label": "Cyberpunk 2077"
+  },
+  {
+    "id": "5560f62731ce",
+    "slug": "mtg-arena-announces-star-trek-direct-events",
+    "headline": "MTG Arena Announces Star Trek Direct Events",
+    "summary": "MTG Arena is hosting Star Trek-themed events, offering a chance for players to compete and potentially win Collector Booster boxes.",
+    "category": "esports",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/magic-the-gathering-arena-direct-star-trek-collector-booster-box/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/chekov-pointing-to-a-star-trek-mtg-collector-booster-box.jpg",
+    "published_at": "2026-10-27T13:21:58.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a5f5795dd69b",
+    "slug": "how-to-get-shroud-nexus-in-enshrouded",
+    "headline": "How to Get Shroud Nexus in Enshrouded",
+    "summary": "Game Rant provides a guide on obtaining Shroud Nexus, a rare crafting material in the game Enshrouded.",
+    "category": "esports",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/enshrouded-how-to-get-shroud-nexus/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/how-to-get-shroud-nexus-in-enshrouded.jpg",
+    "published_at": "2026-10-27T13:16:15.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "enshrouded",
+    "game_label": "Enshrouded"
+  },
+  {
+    "id": "15b9df84cb9b",
+    "slug": "capcom-has-temporarily-delisted-street-fighter-5-and-turned-off-its-se",
+    "headline": "Capcom has temporarily delisted Street Fighter 5 and turned off its servers as it works on PHP security issue",
+    "summary": "The game can still be played offline for now, Capcom says",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/capcom-has-temporarily-delisted-street-fighter-5-and-turned-off-its-servers-as-it-works-on-php-security-issue/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/15b9df84cb9b/800/600",
+    "published_at": "2026-10-27T13:09:51.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3cf9d26a76f4",
+    "slug": "valve-has-held-gaming-back-for-years-epic-games-ceo-proclaims-in-his-l",
+    "headline": " \"Valve has held gaming back for years,\" Epic Games CEO proclaims in his latest jab against Steam ",
+    "summary": "Just under two weeks after the new \"vibe coded\" Epic Games Store launched",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/valve-has-held-gaming-back-for-years-epic-games-ceo-tim-sweeney-proclaims-in-his-latest-jab-against-steam/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/925L6o9Ro3uNx7HgBCZWyn-1920-80.jpg",
+    "published_at": "2026-10-27T13:08:13.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "1a66d733d616",
+    "slug": "phantom-blade-zeros-pc-requirements-revealed",
+    "headline": "Phantom Blade Zero's PC Requirements Revealed",
+    "summary": "Chinese developer S-Game's debut action game is now live for pre-load, requiring 300GB of space on PC, double its actual file size of 145GB.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/phantom-blade-zero-300gb-pre-load-space"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Phantom-Blade-Zero-review-header-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-27T13:06:03.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "phantom-blade-zero",
+    "game_label": "Phantom Blade Zero"
+  },
+  {
+    "id": "1a58cfb10460",
+    "slug": "the-sound-of-saros-building-an-audio-identity-for-carcosa",
+    "headline": "The sound of Saros: Building an audio identity for Carcosa",
+    "summary": "When we started working on Saros, we knew we had an interesting challenge ahead of us. We had established a very distinctive audio identity with Returnal, and Housemarque gave us a clear direction from the beginning: “Refinement, not Reinvention.” That became a useful principle throughout development. We carried forward our gameplay-first approach, our emphasis on […]",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/10/27/the-sound-of-saros-building-an-audio-identity-for-carcosa/"
+      }
+    ],
+    "image_url": "https://blog.playstation.com/uploads/2048/10/fdac17094a5bc18737120a2fd67111391eabfa09.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECUaCXVzLWVhc3QtMSJGMEQCIDriBEATiVxuU9J1GAdAJuZDYVae7uWTWIUcV1B%2Bf%2FfIAiB%2BM4L6sNKS8qxT5zWWk7Bzv0%2B25qmvYSDY%2BUjYQ%2B7AOyqGBAju%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDU3NzQxODgxODQxMyIM6PFxQUk1Y0rKN2dfKtoDXI8C3RBHgdz%2Fep%2B%2FhJ2KE%2BbXFj%2FOQOUShBuIwAhlOC9IkCV8%2Bmf45R9P07dq8lpQuzlRVoA4McGamW186AOYtx%2F3BQ3ksELfUngraqNet7JJsghHE%2FoTset%2BvfOfrowKDfPi7%2FNSDrIc7VMTevLeiyvWdt0flOwIVqEJr3YR9LtNdNloUab1FWNo3EBT1g%2BsWHRFuxMVIa62gb6JUA1NpGqy5e%2BzVxw0EJv%2BFquOY%2Fo2iVsnX8VGO0qKnSJzcQ4hqH%2FF%2FBi19cfmOsvVZX5%2BE%2BdSk5hca4A47viiTPgG8MkH6L5ucKKt31k%2FH9qxczSfJSo%2B%2FeAin6x3xJ%2FxsUcr5jAF1xDAk63h03Lz0E95pU7eycx26Fm%2FlP2EfMGcynlx0OmTrf0g8HuPaZEANKaX5CIbTdlCyLTVQyyS6cO0X4Q8VOTNuJxXNtpkE7u5xzDR2to%2F699EMyE%2BOpTVkpT6iUPzG6%2FZkO4NT7nze63KQl77rNalNoMCro5WjGy5fv7QFCWtJSWDre1fGy30kTsPkuUuErOCWIdbdnS0%2Fyo%2Bgplpmi0SC4pIdLjyxor9fuDxDY9XifmdNFSr3adood6dI0%2Fi6lYRlmoY0lTiGE0P6AMRwvsgBn7QGSFrMLS2gtcGOqYBTXwSxyBTErfn3VPnHrVAU492u6qUoRy6hx4BpNvYyNb1LTSNeEZqyfgeK3QQpMIkGmjc5BieFDifuKAQiZolTUPl75BNkCAz7ZrYnLvtrz0XaSIKMTHUVFDKCsivay8poXf2xIX5ykb%2BtH19PEUSjhAS7VgCbgkyoujrRWob8Y0gUHPMNLcUpfq6iEX%2BuZqWFdiELTTn%2F9bwO70oqSSbAm3K2XQk6w%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYM4GX6NWTHGKM4W7%2F20261027%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T125335Z&X-Amz-SignedHeaders=host&X-Amz-Expires=900&X-Amz-Signature=6aed3e32306c1ee7bd74db504306c6773d583b521310e715629c80fbc91b2fa8",
+    "published_at": "2026-10-27T13:01:26.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "38b1f02ef68c",
     "slug": "the-wolf-among-us-remastered-released",
     "headline": "The Wolf Among Us Remastered Released",
@@ -50,6 +255,79 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "a9fc8c9b925b",
+    "slug": "guide-every-nintendo-switch-online-game-boy-color-game-ranked",
+    "headline": "Guide: Every Nintendo Switch Online Game Boy (Color) Game Ranked",
+    "summary": "All the GB and GBC games on NSO. Updated with Avenging Spirit, Mole Mania, and Pinball: Revenge of the 'Gator from the October 2026 update. Enjoy! Game Boy and GB Color titles first arrived on Nintendo Switch Online in February 2023, pleasing many old-school players in the process. The various Game Boys — the OG, Pocket, and Color — have…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/guides/every-nintendo-switch-online-game-boy-color-game-ranked"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/ca6d780600d00/large.jpg",
+    "published_at": "2026-10-27T13:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "298c4f5f6a85",
+    "slug": "capcoms-physical-game-sales-plummet-digital-dominance-expected-to-cont",
+    "headline": "Capcom's Physical Game Sales Plummet, Digital Dominance Expected to Continue",
+    "summary": "Capcom reveals that only 8% of its game sales come from physical copies, with the remaining 92% being digital sales, indicating a shift towards digital distribution",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/physical-copies-barely-register-for-capcom-plans-for-95percent-digital-sales"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/8b9a1e6a4ebb2/large.jpg",
+    "published_at": "2026-10-27T13:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e367bd5e2c58",
+    "slug": "xbox-teases-gta-6-with-halloween-setup",
+    "headline": "Xbox Teases GTA 6 with Halloween Setup",
+    "summary": "Xbox's social media post features a Halloween setup with a Grand Theft Auto VI game tile, sparking speculation about a potential leak or early reveal.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/xbox-racks-up-millions-of-views-teasing-gta-6-on-xbox-series-x"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/06eaa8bbe4544/large.jpg",
+    "published_at": "2026-10-27T13:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "b769020fcf13",
@@ -348,6 +626,27 @@
     ],
     "image_url": "https://assetsio.gnwcdn.com/nathaniel-cherian-2Z9isw4Pamk-unsplash.png?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-10-27T12:00:59.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "769925df1835",
+    "slug": "horrified-is-the-perfect-family-board-game-for-halloween-blending-horr",
+    "headline": " Horrified is the perfect family board game for Halloween, blending horror royalty with amazing team gameplay ",
+    "summary": "Our resident board game expert has advice on the perfect board game to play with your family this Halloween.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/board-games/horrified-is-the-perfect-family-board-game-for-halloween-blending-horror-royalty-with-amazing-team-gameplay/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/AVzPbJ9RPfJ676q8rLSRNb-1920-80.jpg",
+    "published_at": "2026-10-27T12:00:00.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -4292,299 +4591,6 @@
     ],
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/switch-2-third-party-partner-games-february-direct.jpg",
     "published_at": "2026-10-26T15:26:44.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "71e34993a928",
-    "slug": "i-no-longer-think-were-going-to-be-able-to-patch-all-bugs-says-ai-pand",
-    "headline": " 'I no longer think we’re going to be able to patch all bugs' says AI Pandora's box opener Sam Altman: 'We're going to have to completely switch the defense model' ",
-    "summary": "Cool, I'll get right on it.",
-    "category": "patches",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/software/ai/i-no-longer-think-were-going-to-be-able-to-patch-all-bugs-says-ai-pandoras-box-opener-sam-altman-were-going-to-have-to-completely-switch-the-defense-model/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/vz5qBaqfd6NbMao4igEKVN-1920-80.jpg",
-    "published_at": "2026-10-26T15:24:27.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "41e11cd7e456",
-    "slug": "darkstone-digitals-mortuary-assistant-team-launches-free-micro-horror",
-    "headline": "DarkStone Digital's Mortuary Assistant Team Launches Free Micro Horror Game Playable Archive",
-    "summary": "DarkStone Digital, the developer of The Mortuary Assistant, has released a free, micro horror game called Playable Archive for PC.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/the-mortuary-assistant-developer-releases-free-micro-horror-game-playable-archive-for-pc"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/41e11cd7e456/800/600",
-    "published_at": "2026-10-26T15:21:26.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "playable-archive",
-    "game_label": "Playable Archive"
-  },
-  {
-    "id": "176a1623eaa6",
-    "slug": "all-silo-locations-in-mw4-dmz",
-    "headline": "All Silo Locations in MW4 DMZ",
-    "summary": "A guide on where to find and open Silo Bunkers in Call of Duty: Warzone 4's DMZ mode for hidden loot without alerting enemies.",
-    "category": "esports",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/mw4-dmz-silo-bunkers-locations-how-to-open/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/mw4-dmz-all-silo-bunkers-how-to-open-them.jpg",
-    "published_at": "2026-10-26T15:18:10.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "call-of-duty-warzone-4",
-    "game_label": "Call of Duty: Warzone 4"
-  },
-  {
-    "id": "21c358c9fe19",
-    "slug": "steam-next-fest-is-overwhelmed-with-slop-and-ai-crap-valve-veteran-say",
-    "headline": " Steam Next Fest is \"overwhelmed with slop and AI crap,\" Valve veteran says ",
-    "summary": "\"It used to be that Valve was about Steam, about meritocracy…\"",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/valve-veteran-says-steam-is-overwhelmed-with-slop-and-ai-crap-in-next-fest-event-fears-pc-becoming-more-like-mobile-this-is-the-thing-that-im-worried-about-more-than-anything/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/bu9uXWDTCADvMFjdW5Psi3-1920-80.png",
-    "published_at": "2026-10-26T15:08:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2bfa73c7ef76",
-    "slug": "the-golden-joysticks-announces-its-game-of-the-year-nominees",
-    "headline": "The Golden Joysticks Announces Its Game of the Year Nominees",
-    "summary": "The Golden Joysticks have just announced their nominees for the Ultimate Game of the Year award, and a total of 12 games are featured this year.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/golden-joysticks-game-of-the-year-nominees/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/golden-joystick-awards-2026.jpg",
-    "published_at": "2026-10-26T15:02:26.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f5844b6a7ae8",
-    "slug": "paramount-canceled-a-paranormal-activity-game-right-before-release-now",
-    "headline": "Paramount Canceled a Paranormal Activity Game Right Before Release. Now It's the Next P.T.",
-    "summary": "Playable Archive is the result of a canceled Paranormal Activity game, from the maker of The Mortuary Assistant. It's playable free today.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/paranormal-activity-canceled-playable-archive-interview/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/playable-archive-shot5.png",
-    "published_at": "2026-10-26T15:00:20.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1ee068a2b4c4",
-    "slug": "steam-client-stuck-on-loading-user-data-yeah-that-happens-sometimes",
-    "headline": "Steam Client Stuck On ‘Loading User Data’? Yeah, That Happens Sometimes",
-    "summary": "There's a workaround, but as usual, waiting it out might be the best policy",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/steam-client-stuck-on-loading-user-data-yeah-that-happens-sometimes-2000749730"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2025/09/Steam-Library-1280x720.jpg",
-    "published_at": "2026-10-26T15:00:19.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "eac7b32dc3ae",
-    "slug": "palworld-officially-teases-the-games-version-11-update",
-    "headline": "Palworld Officially Teases the Game's Version 1.1 Update",
-    "summary": "Palworld is formally giving fans an early teaser about the next major content update coming to the monster-catching survival game.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/palworld-version-1-1-side-by-side-teaser/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/palworld-version-1-1-update-title-release-window.jpg",
-    "published_at": "2026-10-26T15:00:17.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "392acc9724ec",
-    "slug": "mini-review-minecraft-switch-2-a-satisfying-upgrade-overall-but-wheres",
-    "headline": "Mini Review: Minecraft (Switch 2) - A Satisfying Upgrade Overall, But Where's Mouse Mode?",
-    "summary": "Another day, another Minecraft port. Minecraft has received around 20 different ports and versions since 2011. It was only a matter of time before one would show up for Switch 2, and while there aren't any big new features, it's a solid upgrade over the now-creaky Switch version. At its core, Minecraft is still just as infinitely deep and imaginative…",
-    "category": "reviews",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/minecraft"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/88124efca385e/large.jpg",
-    "published_at": "2026-10-26T15:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b6c276d71ea4",
-    "slug": "phantom-blade-zero-ps5-trophy-list-revealed-plot-your-way-to-platinum",
-    "headline": "Phantom Blade Zero PS5 Trophy List Revealed, Plot Your Way to Platinum Trophy Now",
-    "summary": "36 Trophies for PS5 action game. Scheduled to release on 29th October 2026, the Trophy list for Phantom Blade Zero has gone live on PS5. The full list is published on Exophase, revealing 36 Trophies — including a Platinum Trophy, of course — for players to unlock. With the launch just days away, I uploaded my Phantom Blade Zero PS5…",
-    "category": "reviews",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/phantom-blade-zero-ps5-trophy-list-revealed-plot-your-way-to-platinum-trophy-now"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/c82d8ada4c8ac/large.jpg",
-    "published_at": "2026-10-26T15:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5539aa7c5be9",
-    "slug": "cyberpunk-2077-hits-its-biggest-steam-player-peak-since-phantom-libert",
-    "headline": "Cyberpunk 2077 Hits Its Biggest Steam Player Peak Since Phantom Liberty, And You Can Guess Why",
-    "summary": "Almost six years after launch, Cyberpunk 2077 still has a healthy player base, especially with a new anime spin-off driving people to the Night City source material. The second season of Edgerunners launched last week alongside a beefy update for Cyberpunk 2077, and unsurprisingly, PC player numbers have spiked. At the time of writing, Cyberpunk 2077 player numbers had surged…",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/cyberpunk-2077-hits-its-biggest-steam-player-peak-since-phantom-liberty-and-you-can-guess-why/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Cyberpunk-Edgerunners.jpg?w=300",
-    "published_at": "2026-10-26T14:57:15.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "772d2661d40b",
-    "slug": "steam-is-broken-its-still-up-but-some-users-cant-log-in",
-    "headline": " Steam is broken: It's still up but some users can't log in ",
-    "summary": "A persistent \"loading user data\" screen may be connected to problems with purchasing and installing games.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/steam-is-broken-its-still-up-but-some-users-cant-log-in/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ocyiDF76QwDQKRvvKB2hRQ-1920-80.jpg",
-    "published_at": "2026-10-26T14:57:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7e682b85797c",
-    "slug": "i-have-jumped-in-wow-forevers-beta-7738-times-roughly-135-jumps-an-hou",
-    "headline": " I have jumped in WoW: Forever's beta 7738 times, roughly 135 jumps an hour, and if you'd like to find out if you beat me there's a stat tracker ",
-    "summary": "Me jump that kind of orc.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/i-have-jumped-in-wow-forevers-beta-7738-times-roughly-135-jumps-an-hour-and-if-youd-like-to-find-out-if-you-beat-me-theres-a-stat-tracker/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/QpeMyYwaXhg3wvorTLpnnN-1920-80.png",
-    "published_at": "2026-10-26T14:52:49.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
