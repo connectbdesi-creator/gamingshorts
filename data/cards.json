@@ -1,5 +1,359 @@
 [
   {
+    "id": "1ec8bf49efcc",
+    "slug": "invisible-insider",
+    "headline": "Invisible Insider",
+    "summary": "Polygon's writer got to beta test WoW: Forever and interviewed the devs behind the revamped Azeroth experience.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/wow-forever-making-of-interview/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/wow_forever_announce_key_art_-_horde.jpeg",
+    "published_at": "2026-10-27T17:00:40.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "world-of-warcraft-forever",
+    "game_label": "World of Warcraft: Forever"
+  },
+  {
+    "id": "d1cb9f462a59",
+    "slug": "assassins-creed-iv-black-flag-resynceds-final-patch-brings-something-t",
+    "headline": "Assassin’s Creed IV: Black Flag Resynced’s Final Patch Brings Something The Original Never Had: A New Game+ That Sounds Pretty Cool",
+    "summary": "The game will get progressively harder each time you replay",
+    "category": "patches",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/assassins-creed-4-black-flag-patch-notes-new-game-plus-2000750196"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/04/Assassins-creed-black-flag-1280x707.jpg",
+    "published_at": "2026-10-27T17:00:26.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "15cfef02a481",
+    "slug": "resident-evil-meets-dead-space-in-new-horror-game",
+    "headline": "Resident Evil Meets Dead Space in New Horror Game",
+    "summary": "A new horror game combines the intense action of Resident Evil with the gruesome horror of Dead Space, promising a thrilling experience for fans of the genre.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/new-horror-games-2027-ill/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/horror-game-ill-8.jpg",
+    "published_at": "2026-10-27T17:00:15.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9e5099f8ccc7",
+    "slug": "warhorse-studio-hit-by-cyberattack-targeting-kingdom-come-deliverance",
+    "headline": "Warhorse Studio Hit by Cyberattack Targeting Kingdom Come: Deliverance 2",
+    "summary": "Kingdom Come: Deliverance 2 developer Warhorse has been targeted by a cyberattack aimed at accessing their systems and data",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/this-is-a-serious-incident-kingdom-come-deliverance-2-devs-warhorse-hit-by-cyberattack-targeting-their-systems-and-data"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/kingdom-come-deliverance-2-multiplayer-mod-work-in-progress-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-27T17:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "kingdom-come-deliverance-2",
+    "game_label": "Kingdom Come: Deliverance 2"
+  },
+  {
+    "id": "cf5ecf9079eb",
+    "slug": "final-fantasy-14s-evolved-mode-sparks-debate-over-power-creep",
+    "headline": "Final Fantasy 14's Evolved Mode Sparks Debate Over Power Creep",
+    "summary": "Final Fantasy 14 developers address concerns over Evolved mode's balance, saying the damage difference is negligible, but some players disagree.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-14-devs-say-evercolds-new-evolved-mode-isnt-massive-power-creep-if-you-dont-want-to-change-you-dont-have-to/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/deoVQcKNDDCdQuG4bVao2Y-1920-80.jpg",
+    "published_at": "2026-10-27T16:55:08.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-14",
+    "game_label": "Final Fantasy 14"
+  },
+  {
+    "id": "749074b0c884",
+    "slug": "kingdom-come-deliverance-developer-hit-by-serious-cybersecurity-incide",
+    "headline": "Kingdom Come: Deliverance Developer Hit by 'Serious' Cybersecurity Incident",
+    "summary": "Warhorse Studios — the developer behind Kingdom Come: Deliverance, its sequel and an upcoming Lord of the Rings RPG — has been hit by a “serious” cyberattack.",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/kingdom-come-deliverance-developer-serious-cybersecurity-incident"
+      },
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/warhorse-cyberattack-kingdom-come-deliverance"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2025/11/11/royaleditionthumbono-1762877837846.png",
+    "published_at": "2026-10-27T16:53:16.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5f48a08495e4",
+    "slug": "cd-projekt-red-turned-down-cyberpunk-edgerunners-studios-lore-breaking",
+    "headline": "CD Projekt Red turned down Cyberpunk: Edgerunners studio's lore-breaking suggestions",
+    "summary": "CD Projekt Red has rejected suggestions from Studio Trigger, the creators of Cyberpunk: Edgerunners, regarding the lore of the Night City universe",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/anime-shows/cd-projekt-red-says-it-tries-really-hard-not-to-say-no-to-ideas-but-drew-the-line-at-cyberpunk-edgerunners-studios-request-to-destroy-night-city/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/tiJgnSG7ZFzfKCa9v9acFk-1920-80.jpg",
+    "published_at": "2026-10-27T16:53:03.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "cyberpunk-edgerunners",
+    "game_label": "Cyberpunk: Edgerunners"
+  },
+  {
+    "id": "c0f531dbac7b",
+    "slug": "best-places-to-find-dmz-weapon-manuals-in-modern-warfare-4",
+    "headline": "Best Places to Find DMZ Weapon Manuals in Modern Warfare 4",
+    "summary": "Players in Modern Warfare 4's DMZ mode can discover weapon manuals in various locations, potentially unlocking new gear and upgrades.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/call-of-duty/modern-warfare-4-weapon-manuals-dmz/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/vCTe4VecUWrtbNriJ7XNmV-1920-80.jpg",
+    "published_at": "2026-10-27T16:46:20.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "call-of-duty-modern-warfare-4",
+    "game_label": "Call of Duty Modern Warfare 4"
+  },
+  {
+    "id": "72332b0a39c6",
+    "slug": "the-wolf-among-us-remastered-brings-a-classic-game-back-to-life",
+    "headline": "The Wolf Among Us Remastered Brings A Classic Game Back To Life",
+    "summary": "The Wolf Among Us Remastered delivers a polished experience for both new and returning players, leaving everyone hungry for the sequel.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/the-wolf-among-us-remastered-changes-review/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/10/closeup-of-bigby-wolf-in-partial-wolf-form-in-the-wolf-among-us-remastered.jpg",
+    "published_at": "2026-10-27T16:45:03.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5fddf9100ae1",
+    "slug": "kingdom-come-deliverance-developer-hit-by-cyberattack",
+    "headline": "Kingdom Come: Deliverance Developer Hit by Cyberattack",
+    "summary": "Warhorse Studios, the developer of Kingdom Come: Deliverance, confirmed a cyberattack on its systems, disrupting operations and impacting the game's future development.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/warhorse-studios-kingdom-come-deliverance-cyberattack/"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/kingdom-come-deliverance-cyberattack/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/kingdom-come-deliverance-dev-studio-hit-by-cyberattack-gamerant-feature.jpg",
+    "published_at": "2026-10-27T16:42:18.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "kingdom-come-deliverance",
+    "game_label": "Kingdom Come: Deliverance"
+  },
+  {
+    "id": "29bc98196cf0",
+    "slug": "south-korean-politician-urges-president-to-play-modern-warfare-4",
+    "headline": "South Korean Politician Urges President to Play Modern Warfare 4",
+    "summary": "A South Korean politician has recommended that the country's President play Call of Duty: Modern Warfare 4 to better understand the potential consequences of a North Korean invasion.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/south-korean-politician-urges-president-to-play-modern-warfare-4-to-understand-devastation-of-potential-invasion"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/15/ss-ee5f6b6aebe4dc9e86b49c4e309d361b132df308-1920x1080-1792058059953.jpg",
+    "published_at": "2026-10-27T16:39:57.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "call-of-duty-modern-warfare-4",
+    "game_label": "Call of Duty: Modern Warfare 4"
+  },
+  {
+    "id": "e403b38c201b",
+    "slug": "nvidia-and-amd-invest-billions-in-meta-amid-ai-competition",
+    "headline": "Nvidia and AMD Invest Billions in Meta Amid AI Competition",
+    "summary": "Nvidia and AMD are investing billions in Meta, a trillion-dollar company, as they compete to dominate the AI market.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/software/ai/nvidia-and-amd-invest-billions-into-meta-as-companies-egg-each-other-on-to-bet-even-more-on-ai/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/2W3UP8hvAdpRFHhXqoLnk6-1920-80.jpg",
+    "published_at": "2026-10-27T16:34:31.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3b6a0e9f2e31",
+    "slug": "target-black-friday-leak-reveals-big-deals-for-pokemon-tcg-fans",
+    "headline": "Target Black Friday Leak Reveals Big Deals for Pokémon TCG Fans",
+    "summary": "Target is expected to offer various Pokémon TCG products as doorbusters on Black Friday, catering to fans of the franchise.",
+    "category": "deals",
+    "platform_tags": [
+      "mobile",
+      "pc",
+      "playstation",
+      "switch",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/target-black-friday-2026-pokemon-sale-30th-anniversary-product-list/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/poke-mon-tcg-pocket_-dual-fusion-_-official-trailer-1-13-screenshot.jpeg",
+    "published_at": "2026-10-27T16:32:15.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pokemon-tcg",
+    "game_label": "Pokémon TCG"
+  },
+  {
+    "id": "ceb7ca105e2e",
+    "slug": "cod-mw4-multiplayer-best-meta-weapons-for-season-1",
+    "headline": "COD MW4 Multiplayer: Best meta weapons for Season 1",
+    "summary": "The weapons you need to use in Call of Duty: Modern Warfare 4's multiplayer mode",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/cod-mw4-multiplayer-best-meta-weapons/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/ceb7ca105e2e/800/600",
+    "published_at": "2026-10-27T16:32:11.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "d3bf434741f9",
     "slug": "street-fighter-v-down-street-fighter-6-still-ruling",
     "headline": "Street Fighter V Down, Street Fighter 6 Still Ruling",
@@ -25,6 +379,29 @@
     "comment_count": 0,
     "game": "street-fighter-v",
     "game_label": "Street Fighter V"
+  },
+  {
+    "id": "e39170f62ad3",
+    "slug": "vote-for-the-scariest-game-of-all-time-round-1",
+    "headline": "Vote for the Scariest Game of All Time: Round 1",
+    "summary": "PC gamers are narrowing down a 16-game bracket to crown the scariest game of all time. Now it's up to readers to vote for the next matchup.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/horror/vote-for-the-scariest-game-of-all-time-round-1/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/6jW75fauPxxgd9yjidAwgk-1920-80.jpg",
+    "published_at": "2026-10-27T16:28:58.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "74e7a233b74e",
@@ -2543,29 +2920,6 @@
     "game_label": "Pokémon Unite"
   },
   {
-    "id": "749074b0c884",
-    "slug": "kingdom-come-deliverance-developer-hit-by-serious-cybersecurity-incide",
-    "headline": "Kingdom Come: Deliverance Developer Hit by 'Serious' Cybersecurity Incident",
-    "summary": "Warhorse Studios — the developer behind Kingdom Come: Deliverance, its sequel and an upcoming Lord of the Rings RPG — has been hit by a “serious” cyberattack.",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/kingdom-come-deliverance-developer-serious-cybersecurity-incident"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2025/11/11/royaleditionthumbono-1762877837846.png",
-    "published_at": "2026-10-27T11:35:33.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
     "id": "010daaddda53",
     "slug": "assassins-creed-black-flag-resynced-gets-its-last-major-update-adding",
     "headline": "Assassin’s Creed Black Flag Resynced gets its last major update, adding New Game+ and other new features",
@@ -4323,335 +4677,5 @@
     "comment_count": 0,
     "game": "gta-6",
     "game_label": "GTA 6"
-  },
-  {
-    "id": "53af2c3c3593",
-    "slug": "rare-insight-into-ps5-sales-pattern-reveals-significant-wolverine-bump",
-    "headline": "Rare Insight into PS5 Sales Pattern Reveals Significant Wolverine Bump",
-    "summary": "Analyst Mat Piscatella shares a graph showing the PS5's sales pattern, confirming Wolverine's impact on console sales",
-    "category": "industry",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/rare-insight-into-ps5-sales-pattern-reveals-significant-wolverine-bump"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/ae7c6174d6a03/large.jpg",
-    "published_at": "2026-10-26T21:30:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "marvels-wolverine",
-    "game_label": "Marvel's Wolverine"
-  },
-  {
-    "id": "88c07ec88791",
-    "slug": "veteran-game-composer-in-talks-to-score-mass-effect-5-shares-20-minute",
-    "headline": "Veteran Game Composer in Talks to Score Mass Effect 5, Shares 20 Minutes of Written Music",
-    "summary": "PC Gamer reports that a veteran game composer is in talks to score Mass Effect 5, sharing a 20-minute music excerpt from the project",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/mass-effect/veteran-game-composer-in-talks-to-score-mass-effect-5-shares-20-minutes-of-music-he-wrote-for-the-project-to-even-dream-in-your-sandbox-was-a-privilege/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/33WUYSLXvafTaSzMF5E97i-1920-80.jpg",
-    "published_at": "2026-10-26T21:19:51.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "mass-effect-5",
-    "game_label": "Mass Effect 5"
-  },
-  {
-    "id": "f9c06415c6b6",
-    "slug": "ea-under-pressure-to-save-mass-effect",
-    "headline": "EA Under Pressure to 'Save' Mass Effect",
-    "summary": "A large number of fans have signed a petition, urging Electronic Arts to revive the Mass Effect series",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/223000-people-sign-petition-to-save-mass-effect"
-      },
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/mass-effect-5-universe-save-petition-bioware-signatures-shutdown-cancelled-2000749836"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Mass-Effect-3-2795540643.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-26T21:10:43.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "mass-effect",
-    "game_label": "Mass Effect"
-  },
-  {
-    "id": "f711c2ceb9d6",
-    "slug": "castlevania-belmonts-curse-ps5-tip-revealed",
-    "headline": "Castlevania: Belmont's Curse PS5 Tip Revealed",
-    "summary": "A Castlevania: Belmont's Curse tip reveals a convenient fast travel method that the game doesn't clearly explain, and players are sharing their own experiences with the shortcut.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/castlevania-belmonts-curse-psa-theres-an-easier-way-to-fast-travel-that-the-game-is-not-good-at-telling-you-about-2000749826"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/draculascastle-1280x720.jpg",
-    "published_at": "2026-10-26T21:00:38.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "castlevania-belmonts-curse",
-    "game_label": "Castlevania: Belmont's Curse"
-  },
-  {
-    "id": "b004406a0ad2",
-    "slug": "until-dawn-2-release-date-teased-by-sony",
-    "headline": "Until Dawn 2 Release Date Teased by Sony",
-    "summary": "Sony has revealed that Until Dawn 2 is slated for a January 2024 release on the PS5, despite missing its Halloween launch window.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/sonys-been-quietly-introducing-the-cast-of-until-dawn-2-ahead-of-its-ps5-release-next-year"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/c6202f6a7e1fc/large.jpg",
-    "published_at": "2026-10-26T21:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "until-dawn-2",
-    "game_label": "Until Dawn 2"
-  },
-  {
-    "id": "9778007808f3",
-    "slug": "forbidden-solitaires-the-discarded-dlc-is-here",
-    "headline": "Forbidden Solitaire's The Discarded DLC is Here",
-    "summary": "Forbidden Solitaire's new DLC, The Discarded, has arrived with a new puzzle to solve for fans of the game's unique card game mechanics.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/card-games/the-best-haunted-card-game-since-inscryption-is-back-with-a-new-mystery-only-solitaire-freaks-can-solve/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/N5wagYWsGsZ9ukmHRgYhp6-1920-80.jpg",
-    "published_at": "2026-10-26T20:47:17.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "forbidden-solitaire-the-discarded",
-    "game_label": "Forbidden Solitaire: The Discarded"
-  },
-  {
-    "id": "fad144ddfe3a",
-    "slug": "emberville-delayed-again",
-    "headline": "Emberville Delayed Again",
-    "summary": "Emberville, a PC RPG inspired by Stardew Valley, has been pushed back to January 2027 for combat improvements, delaying its Early Access release.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/emberville-early-access-launch-delay/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/emberville.jpg",
-    "published_at": "2026-10-26T20:46:38.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "emberville",
-    "game_label": "Emberville"
-  },
-  {
-    "id": "4859157fc845",
-    "slug": "the-composer-in-talks-to-write-mass-effect-5s-music-posts-22-minutes-o",
-    "headline": "The Composer In Talks To Write Mass Effect 5’s Music Posts 22 Minutes Of Unused Songs So Good I’m Bummed Out Again",
-    "summary": "Austin Wintory is best known for his work on games like Journey and the Banner Saga series",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/mass-effect-5-universe-music-austin-wintory-songs-stream-2000749849"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/me5-1280x720.jpg",
-    "published_at": "2026-10-26T20:45:58.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "91e1e6054d5a",
-    "slug": "assassins-creed-black-flag-resynced-final-major-content-update-coming",
-    "headline": "Assassin's Creed Black Flag Resynced Final Major Content Update Coming This Week",
-    "summary": "Ubisoft has detailed Assassin's Creed Black Flag Resynced's final major content update, revealing a closer look at new game+, Nightmare difficulty, and more.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-final-major-content-update-coming-this-week"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/26/assassins-creed-black-flag-resynced-final-update-1793047206541.png",
-    "published_at": "2026-10-26T20:43:26.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2abf5bd24d6c",
-    "slug": "rumor-ps6-handheld-could-have-unique-advantage-over-competition",
-    "headline": "Rumor: PS6 Handheld Could Have Unique Advantage Over Competition",
-    "summary": "A new report suggests Sony's upcoming PS6 handheld may have exclusive tech advantages over competitors, sparking interest in the console's potential.",
-    "category": "industry",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/ps6-handheld-rdna-5-amd-playstation-6-rumor/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/rumor-ps6-handheld-could-have-unique-advantage-over-competition.jpg",
-    "published_at": "2026-10-26T20:30:14.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "ps6-handheld",
-    "game_label": "PS6 Handheld"
-  },
-  {
-    "id": "ad35048faa96",
-    "slug": "phantom-blade-zero-just-became-a-shocking-must-play-ps5-exclusive-revi",
-    "headline": "Phantom Blade Zero Just Became a Shocking Must-Play PS5 Exclusive - Review Roundup",
-    "summary": "Phantom Blade Zero first wowed players during gaming showcases at the start of the generation thanks to its flashy combat and refreshingly stylistic action. Now, S-GAME has delivered their first AAA action game of this scale and managed to surprise everyone with a critical darling. Sitting as one of the best reviewed games of 2026 and one of the best…",
-    "category": "reviews",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/video/phantom-blade-zero-ps5-exclusive-review-roundup-summary/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/phantom-blade-zero-review-round-up-gamerant-web-b.jpg",
-    "published_at": "2026-10-26T20:26:02.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4b55a84476a3",
-    "slug": "walter-koenig-star-treks-pavel-chekhov-has-died",
-    "headline": " Walter Koenig, Star Trek's Pavel Chekhov, has died ",
-    "summary": "Koenig gained fame as the Russian navigator of the USS Enterprise in the original Star Trek television series, films, and games.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/movies-tv/walter-koenig-star-treks-pavel-chekhov-has-died/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/WSCNxQsPc23eUq6vfHumqH-1920-80.jpg",
-    "published_at": "2026-10-26T20:19:38.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a6bf2bbea4f6",
-    "slug": "best-video-game-villains-whose-worst-moment-was-their-final-boss-fight",
-    "headline": "Best Video Game Villains Whose Worst Moment Was Their Final Boss Fight, Ranked",
-    "summary": "Whether it's bad boss design, an underwhelming cutscene, or too much hand-holding, these great video game villains don't have great final boss fights.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/best-video-game-villains-worst-final-boss-fight-ranked/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/best-video-game-villains-whose-worst-moment-was-their-final-boss-fight.jpg",
-    "published_at": "2026-10-26T20:15:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e60b2bef2cbc",
-    "slug": "fans-try-to-save-mass-effect-with-billboard-in-times-square",
-    "headline": "Fans Try to Save Mass Effect with Billboard in Times Square",
-    "summary": "A group of fans has launched a petition to keep the Mass Effect series alive, and their efforts have been noticed by the public",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/mass-effect-save-petition-change-org-times-square-billboard-2000749767"
-      },
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/mass-effect-fans-save-rpg-times-square"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/mass-effect-fans-buy-savemasseffect-billboard-in-times-square-and-they-have-plans-for-more"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/meuniverse-1280x720.jpg",
-    "published_at": "2026-10-26T20:07:29.000Z",
-    "hype_signal": 10,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "mass-effect",
-    "game_label": "Mass Effect"
   }
 ]
