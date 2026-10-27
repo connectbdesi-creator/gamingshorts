@@ -25250,5 +25250,86 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-27T09:06:25.432Z"
+  },
+  {
+    "slug": "telltale-games",
+    "name": "Game of Thrones - A Telltale Games Series",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/c81/c812e158129e00c9b0f096ae8a0bb7d6.jpg",
+    "released": "2014-12-02",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "iOS",
+      "Android",
+      "macOS",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/773/77374bac6e0d77809618950ccec058de.jpg",
+      "https://media.rawg.io/media/screenshots/6f1/6f1271081f578559d95e72a4bf6d031e.jpg",
+      "https://media.rawg.io/media/screenshots/14e/14e9c8bf0df8adb01f8837cd6711a1cd.jpg",
+      "https://media.rawg.io/media/screenshots/423/423ae9b68e94d96b1370f3c57171bcbb.jpg",
+      "https://media.rawg.io/media/screenshots/fb7/fb7585f1fccf31b9ed8f256407ec639f.jpg",
+      "https://media.rawg.io/media/screenshots/3b6/3b6c7f291533d6ffc816b0fcf6c7ba84.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-27T13:09:16.100Z"
+  },
+  {
+    "slug": "lord-of-the-rings",
+    "name": "Lord Of The Rings",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/e70/e70e1c175d61ca29ef1697be060bda37.jpg",
+    "released": "2020-10-18",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Platformer"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/e70/e70e1c175d61ca29ef1697be060bda37.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-27T13:09:17.502Z"
+  },
+  {
+    "slug": "shadow-of-the-tomb-raider-definitive-edition",
+    "name": "Shadow of the Tomb Raider: Definitive Edition",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/63e/63e1419ccc655614bab6469b357023a6.jpeg",
+    "released": "2019-11-05",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/72e/72e84437947e58bdad4c50533516cb07.jpg",
+      "https://media.rawg.io/media/screenshots/346/3468bc72fd9c23f7c27ff647db1b1330.jpg",
+      "https://media.rawg.io/media/screenshots/d4b/d4b9a2408568c85f296e685a8e837303.jpg",
+      "https://media.rawg.io/media/screenshots/dae/dae7a74a2c50f02b18afc3096bc4231e.jpg",
+      "https://media.rawg.io/media/screenshots/515/5150786a9bf1a74a72085c3d54c731b1.jpg",
+      "https://media.rawg.io/media/screenshots/1a9/1a97b15d83892613da87b29ac82a236c.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-27T13:09:18.769Z"
   }
 ]
