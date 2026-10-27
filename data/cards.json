@@ -1,5 +1,78 @@
 [
   {
+    "id": "95985c5c791e",
+    "slug": "bloodborne-the-old-hunters-dlc-release-officially-announced",
+    "headline": "Bloodborne: The Old Hunters DLC Release Officially Announced",
+    "summary": "A new Bloodborne release is scheduled for May 2027, focusing on the popular DLC expansion The Old Hunters.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/bloodborne-the-old-hunters-dlc-figma-statue/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/bloodborne_playstation_blue_3840x2160.jpg",
+    "published_at": "2026-10-27T09:00:14.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "bloodborne-the-old-hunters",
+    "game_label": "Bloodborne: The Old Hunters"
+  },
+  {
+    "id": "c59cb737b2d6",
+    "slug": "mass-effect-fans-take-campaign-to-save-the-series-to-times-square",
+    "headline": "Mass Effect Fans Take Campaign To Save The Series To Times Square",
+    "summary": "A billboard in Times Square has sparked debate among BioWare fans about the future of the Mass Effect series.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/save-mass-effect-times-square-billboard/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/mele_xb1_super_hero_art_3840x2160_jpg.jpg",
+    "published_at": "2026-10-27T08:53:43.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "mass-effect",
+    "game_label": "Mass Effect"
+  },
+  {
+    "id": "88b46b6651e6",
+    "slug": "pokemon-game-permanently-shutting-down",
+    "headline": "Pokemon Game Permanently Shutting Down",
+    "summary": "The Pokemon Company confirms it is shutting down one of its many live-service Pokemon games.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/pokemon-games-unite-shutdown-2027/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/pikachu_sad_3840x2160.jpg",
+    "published_at": "2026-10-27T07:44:42.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "f0813d00dec2",
     "slug": "pokemon-unite-is-being-shut-down",
     "headline": "Pokemon Unite Is Being Shut Down",
@@ -4596,78 +4669,5 @@
     "comment_count": 0,
     "game": "shenmue-3-enhanced-edition",
     "game_label": "Shenmue 3: Enhanced Edition"
-  },
-  {
-    "id": "df675c837d6b",
-    "slug": "the-elder-scrolls-3-morrowind-is-making-an-official-comeback",
-    "headline": "The Elder Scrolls 3: Morrowind is Making an Official Comeback",
-    "summary": "A new release is set to revive interest in the classic Elder Scrolls 3: Morrowind, sparking renewed attention in 2026.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/elder-scrolls-games-morrowind-playable-dualscreen/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/morrowind_original_upscaled_3840x2160.jpg",
-    "published_at": "2026-10-26T12:00:17.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-elder-scrolls-3-morrowind",
-    "game_label": "The Elder Scrolls 3: Morrowind"
-  },
-  {
-    "id": "2a74290ce181",
-    "slug": "ea-cancels-mass-effect-series-and-removes-branding",
-    "headline": "EA Cancels Mass Effect Series and Removes Branding",
-    "summary": "EA is ending the Mass Effect series and removing its branding from other games, marking the end of the beloved RPG franchise",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/ea-scrubbing-mass-effect-from-other-games-as-series-starts-to-die-off"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/70a061908be5f/large.jpg",
-    "published_at": "2026-10-26T12:00:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "mass-effect",
-    "game_label": "Mass Effect"
-  },
-  {
-    "id": "072e5ed811a0",
-    "slug": "gamesradar-review-betrayal-at-house-on-the-hill-remains-a-halloween-cl",
-    "headline": "GamesRadar+ Review: Betrayal at House on the Hill Remains a Halloween Classic",
-    "summary": "The author revisits Betrayal at House on the Hill, a horror board game, and finds it still excels at balancing accessibility and atmosphere, making it a top choice for Halloween",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/board-games/this-is-still-my-favorite-horror-board-game-after-a-decade-of-play-and-its-my-go-to-for-halloween/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Fg9UawR3Kt84henHjrDcBc-1920-80.jpg",
-    "published_at": "2026-10-26T12:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "betrayal-at-house-on-the-hill",
-    "game_label": "Betrayal at House on the Hill"
   }
 ]
