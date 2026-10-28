@@ -25553,5 +25553,47 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-27T23:07:18.830Z"
+  },
+  {
+    "slug": "hunter-x-hunter",
+    "name": "Hunter x Hunter",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/8e2/8e22ed566a62005ea01d4371c2393ff0.jpg",
+    "released": "2022-11-17",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/8e2/8e22ed566a62005ea01d4371c2393ff0.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-28T01:07:33.084Z"
+  },
+  {
+    "slug": "aloft",
+    "name": "Aloft (itch)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/308/30801d77dcd1ac4936724759e013db4b.jpg",
+    "released": "2015-12-13",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Linux"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/898/898f67a1ebb3012878291198f9c6965b.jpg",
+      "https://media.rawg.io/media/screenshots/437/4379abc65fe6e4d2ba6f410c0487a76b.jpg",
+      "https://media.rawg.io/media/screenshots/308/30801d77dcd1ac4936724759e013db4b.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-28T01:07:41.625Z"
   }
 ]
