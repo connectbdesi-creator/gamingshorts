@@ -1,5 +1,28 @@
 [
   {
+    "id": "29c4095b9e52",
+    "slug": "psa-minecraft-switch-2-now-available-switch-physical-owners-get-a-digi",
+    "headline": "PSA: Minecraft Switch 2 Now Available, Switch Physical Owners Get A Digital Discount",
+    "summary": "Pay less for the Ultimate Edition. It's all happening on the Switch 2 this week, and to add to this, Minecraft is now available on the new hybrid system. While Mojang already confirmed it's a free upgrade for owners of the digital Switch version, we've now also got details about the upgrade for anyone who owns a physical Switch copy.…",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/psa-minecraft-switch-2-now-available-switch-physical-owners-get-a-digital-discount"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/683ba06371ebf/large.jpg",
+    "published_at": "2026-10-28T04:55:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "cadceede9b05",
     "slug": "digimon-alysion-pre-registration-now-available",
     "headline": "Digimon Alysion pre-registration now available",
@@ -58,6 +81,10 @@
       {
         "name": "Nintendo Life",
         "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-adds-shipment-to-its-map-rotation"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/call-of-duty-modern-warfare-4-update-adds-shipment-to-its-map-rotation"
       }
     ],
     "image_url": "https://assets-prd.ignimgs.com/2026/10/20/cod-oo-1792455882717.png",
@@ -118,6 +145,29 @@
     "comment_count": 0,
     "game": "mass-effect",
     "game_label": "Mass Effect"
+  },
+  {
+    "id": "eee36b1cf036",
+    "slug": "cyberpunk-2077s-edgerunners-2-update-is-a-mess-on-switch",
+    "headline": "Cyberpunk 2077's Edgerunners 2 Update Is a Mess on Switch",
+    "summary": "The Edgerunners 2 update for Cyberpunk 2077 on Switch has been plagued by technical issues, including game crashes, loading problems, and profile glitches.",
+    "category": "patches",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/cyberpunks-edgerunners-2-update-isnt-in-the-best-state-on-switch-2-right-now"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/a6171b47a5392/large.jpg",
+    "published_at": "2026-10-28T01:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "cyberpunk-2077",
+    "game_label": "Cyberpunk 2077"
   },
   {
     "id": "24bd6bd851c9",
@@ -4680,56 +4730,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "7062306346c8",
-    "slug": "call-of-duty-lifetime-revenue-surges-past-40-billion-microsoft-confirm",
-    "headline": "Call Of Duty Lifetime Revenue Surges Past $40 Billion, Microsoft Confirms",
-    "summary": "The Call of Duty franchise has now exceeded $40 billion in lifetime franchise revenue, Xbox CEO Asha Sharma has confirmed. She shared this milestone following the launch of Call of Duty: Modern Warfare 4 on October 23. \"Congrats to the team. And to the players, thank you for being with us,\" Sharma wrote. Sharma did not, however, share any insights…",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/call-of-duty-lifetime-revenue-surges-past-40-billion-microsoft-confirms/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/CODMW4.jpg?w=300",
-    "published_at": "2026-10-27T12:58:03.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f14e115de532",
-    "slug": "mtg-warhammer-40k-commander-reprint-prices-set-to-soar",
-    "headline": "MTG Warhammer 40K Commander Reprint Prices Set to Soar",
-    "summary": "Secondary-market prices for Magic: The Gathering Warhammer 40K Commander reprints are expected to rise, making it difficult for players to find affordable decks.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/mtg-warhammer-reprints-reportedly-us-only/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/a-close-up-image-of-artwork-from-calludius-assassin-from-the-warhammer-40k-commander-decks.jpg",
-    "published_at": "2026-10-27T12:49:37.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "mtg-warhammer-40k-commander",
-    "game_label": "MTG Warhammer 40K Commander"
   }
 ]
