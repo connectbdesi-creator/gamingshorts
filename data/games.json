@@ -26229,5 +26229,71 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-29T17:26:51.249Z"
+  },
+  {
+    "slug": "heir-of-the-dog",
+    "name": "Heir of the Dog (itch)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/f1a/f1a13f84106b703ec0dccd4b86d722f5.jpg",
+    "released": "2021-05-02",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Platformer",
+      "Adventure",
+      "Puzzle"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/bcf/bcfdc1c0e67276909fe092f43168d4b6.jpg",
+      "https://media.rawg.io/media/screenshots/089/089f1d6932f5d153ce5cc9cd32d1e23b.jpg",
+      "https://media.rawg.io/media/screenshots/b96/b9629bf40842d5ead1de194878b153c5.jpg",
+      "https://media.rawg.io/media/screenshots/bfe/bfe7d934b5117144046e320127318160.jpg",
+      "https://media.rawg.io/media/screenshots/f1a/f1a13f84106b703ec0dccd4b86d722f5.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-29T19:33:30.903Z"
+  },
+  {
+    "slug": "age-of-empires-iv",
+    "name": "Age of Empires IV",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/23e/23e45acbf29bd241913ddcf5cf4053d5.jpg",
+    "released": "2021-10-28",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/8b8/8b81f703d92ce0bc95525bbfee2c1d06.jpg",
+      "https://media.rawg.io/media/screenshots/f22/f226505b40915d34b614cfcb47bdefee.jpg",
+      "https://media.rawg.io/media/screenshots/4f0/4f0d7af95e5db9bd6d733dd6f2ccf166.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-29T19:33:31.385Z"
+  },
+  {
+    "slug": "virtue-and-a-sledgehammer",
+    "name": "Virtue and a Sledgehammer",
+    "description": null,
+    "background_image": null,
+    "released": "2026-10-27",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [],
+    "screenshots": [],
+    "stores": [],
+    "fetched_at": "2026-10-29T19:33:32.144Z"
   }
 ]
