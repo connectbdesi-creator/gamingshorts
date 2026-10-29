@@ -1,5 +1,30 @@
 [
   {
+    "id": "7dc1e23d4ac8",
+    "slug": "no-mans-sky-unveils-forsaken-update-710",
+    "headline": "No Man's Sky Unveils Forsaken Update 7.10",
+    "summary": "No Man's Sky receives a new update with spooky new gameplay, marking a decade of improvement for the space exploration title.",
+    "category": "patches",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/no-mans-sky-unveils-forsaken-update-7-10-here-are-the-full-patch-notes"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/3bc1e6869b3a5/large.jpg",
+    "published_at": "2026-10-29T05:30:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "no-mans-sky",
+    "game_label": "No Man's Sky"
+  },
+  {
     "id": "5477d6bd2973",
     "slug": "lilac-coming-to-switch-on-november-5",
     "headline": "Lilac coming to Switch on November 5",
@@ -243,6 +268,10 @@
       {
         "name": "TheGamer",
         "url": "https://www.thegamer.com/phantom-blade-zero-reinforced-bowstring-guide/"
+      },
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-banyans-heart-location/"
       }
     ],
     "image_url": "https://images.pushsquare.com/b020e5cc13503/large.jpg",
@@ -3651,6 +3680,27 @@
     "game_label": null
   },
   {
+    "id": "a05f4b58ff8c",
+    "slug": "cronos-the-new-dawn-story-dlc-cronos-lazarus-launches-december-3",
+    "headline": "Cronos: The New Dawn story DLC ‘Cronos: Lazarus’ launches December 3",
+    "summary": "Cronos: The New Dawn story downloadable content “Cronos: Lazarus” will launch on December 3, developer …",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/cronos-the-new-dawn-story-dlc-cronos-lazarus-launches-december-3"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/a05f4b58ff8c/800/600",
+    "published_at": "2026-10-28T15:00:09.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "6dc2ff863b5c",
     "slug": "ps5-revives-retro-transparent-hardware-with-3-new-gorgeous-accessory-c",
     "headline": "PS5 Revives Retro Transparent Hardware with 3 New Gorgeous Accessory Colours",
@@ -3902,6 +3952,101 @@
     "comment_count": 0,
     "game": "witchbrook",
     "game_label": "Witchbrook"
+  },
+  {
+    "id": "e362a2f62312",
+    "slug": "bakudo-adds-switch-2-version-launches-in-2027",
+    "headline": "BAKUDO adds Switch 2 version, launches in 2027",
+    "summary": "BAKUDO, a science-fiction boss‑rush action game that fuses “high‑octane ball‑sport mechanics with exhilarating combat,” will …",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/bakudo-adds-switch-2-version-launches-in-2027"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/e362a2f62312/800/600",
+    "published_at": "2026-10-28T14:30:36.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d24cdca90845",
+    "slug": "table-game-world-ccfolia-for-nintendo-switch-2-launches-november-10-in",
+    "headline": "Table Game World CCFOLIA for Nintendo Switch 2 launches November 10 in Japan",
+    "summary": "Table Game World CCFOLIA for Nintendo Switch 2 will launch via Nintendo eShop on November …",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/table-game-world-ccfolia-for-nintendo-switch-2-launches-november-10-in-japan"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/d24cdca90845/800/600",
+    "published_at": "2026-10-28T14:29:25.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5e53d31f01d8",
+    "slug": "hyperyuki-snowboard-syndicate-launches-switch-2-version",
+    "headline": "HYPERyuki: Snowboard Syndicate Launches Switch 2 Version",
+    "summary": "Extreme snowboarding game HYPERyuki: Snowboard Syndicate is coming to the Nintendo Switch 2 in early 2027, marking its second console release.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/hyperyuki-snowboard-syndicate-adds-switch-2-version-launches-in-early-2027"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/5e53d31f01d8/800/600",
+    "published_at": "2026-10-28T14:28:11.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "hyperyuki-snowboard-syndicate",
+    "game_label": "HYPERyuki: Snowboard Syndicate"
+  },
+  {
+    "id": "e3c185be0e81",
+    "slug": "everything-is-crab-coming-to-ios-and-android-on-november-24-ps5-xbox-s",
+    "headline": "Everything is Crab coming to iOS and Android on November 24; PS5, Xbox Series, Switch 2, and Switch on January 26, 2027",
+    "summary": "Publisher Secret Mode and developer Odd Dreams Digital will release roguelite evolution game Everything is …",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/everything-is-crab-coming-to-ios-and-android-on-november-24-ps5-xbox-series-switch-2-and-switch-on-january-26-2027"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/e3c185be0e81/800/600",
+    "published_at": "2026-10-28T14:27:31.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "0be39cd81dc9",
@@ -4513,147 +4658,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "9ae39e582f9b",
-    "slug": "ken-kutaragi-discusses-state-of-gaming-industry",
-    "headline": "Ken Kutaragi Discusses State of Gaming Industry",
-    "summary": "Ken Kutaragi, the creator of PlayStation, shares his thoughts on the gaming industry's current state, citing Middlesbrough as an unexpected location for a talk.",
-    "category": "industry",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/taking-several-years-with-several-thousand-people-its-almost-impossible-playstation-creator-ken-kutaragi-on-the-current-state-of-gaming"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Game-Republic-15-10-26-142_8Olw2Zm.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-28T13:30:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "046846779d59",
-    "slug": "ps5-exclusive-astro-bot-outfit-revealed-for-rayman-remake",
-    "headline": "PS5 Exclusive Astro Bot Outfit Revealed for Rayman Remake",
-    "summary": "Out on 3rd December. Ubisoft and Sony have announced a collaboration for the PS5 remake of Rayman Legends that sees the fan-favourite character Astro Bot appear in the game. The little guy that could will be an outfit you can customise Rayman with, and it only appears in the PS5 version of the game. This is a free costume that's…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/ps5-exclusive-astro-bot-outfit-revealed-for-rayman-remake"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/560f33948d996/large.jpg",
-    "published_at": "2026-10-28T13:30:00.000Z",
-    "hype_signal": 95,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1c53b5e57df8",
-    "slug": "hot-wax-sets-fire-to-the-tetris-playbook-with-slow-burn-puzzle-mechani",
-    "headline": "Hot Wax sets fire to the Tetris playbook with slow-burn puzzle mechanics and a dollop of eldritch menace",
-    "summary": "Over the past couple of weeks, I've been conscious of an eerie background humming and hissing. For a while I thought it was just tinnitus, brought on by one too many listens of Control's Ashtray Maze OST, but then I realised that it was actually RPS regular quasiotter whispering in my ear about Hot Wax, which launches on Steam this…",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/hot-wax-sets-fire-to-the-tetris-playbook-with-slow-burn-puzzle-mechanics-and-a-dollop-of-eldritch-menace"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/20261028123222_1.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-28T13:30:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "db58d2d1b138",
-    "slug": "with-the-division-3-still-in-active-development-ubisoft-announces-the",
-    "headline": "With The Division 3 Still in Active Development, Ubisoft Announces The Division Franchise Has Hit More Than 50 Million Players",
-    "summary": "Massive Entertainment has announced that The Division series has recorded over 50 million players across its games, just as the series hits its 10th anniversary. That’s a lot of +1 defense beanies!",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/the-division-series-50-million-players"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/28/ss-6a63daf99f4725057f6959b95ffa2f3adc6842c1-1920x1080-1793193337632.jpg",
-    "published_at": "2026-10-28T13:29:29.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e5f86f8467a3",
-    "slug": "skydance-mandates-return-to-office-amid-mergers",
-    "headline": "Skydance Mandates Return to Office Amid Mergers",
-    "summary": "Skydance, the merged company of Warner Bros and Paramount, has issued a five-day return-to-office mandate and voluntary buyouts to its employees as the companies begin merging.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/skydance-return-to-office-voluntary-buyouts"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/batman-arkham-spin-offs-gotham-knights.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-28T13:22:47.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3a28c299a91a",
-    "slug": "xbox-says-it-has-to-fix-its-review-code-system-after-missing-modern-wa",
-    "headline": "Xbox Says It Has To Fix Its Review Code System After Missing Modern Warfare 4 Metacritic Score",
-    "summary": "Xbox is facing criticism for its review system, with the platform missing Modern Warfare 4's Metacritic score",
-    "category": "reviews",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/xbox-says-it-has-to-fix-its-review-code-system-after-missing-modern-warfare-4-metacritic-score-2000750474"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/call-duty-1280x722.jpg",
-    "published_at": "2026-10-28T13:20:38.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "modern-warfare-4",
-    "game_label": "Modern Warfare 4"
   }
 ]
