@@ -1,5 +1,131 @@
 [
   {
+    "id": "b279f9934c41",
+    "slug": "bethesda-teases-elder-scrolls-vi-title",
+    "headline": "Bethesda Teases Elder Scrolls VI Title",
+    "summary": "Bethesda is reportedly ready to reveal the official title of The Elder Scrolls VI, with a recent playthrough hinting at the game's identity.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/bethesda-is-reportedly-ready-to-reveal-the-official-title-of-the-elder-scrolls-vi"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/8383acd1a6e77/large.jpg",
+    "published_at": "2026-10-30T04:35:00.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-elder-scrolls-vi",
+    "game_label": "The Elder Scrolls VI"
+  },
+  {
+    "id": "6798ad26db61",
+    "slug": "crimson-deserts-charting-the-unknown-dlc-introduces-romance-option",
+    "headline": "Crimson Desert's Charting the Unknown DLC Introduces Romance Option",
+    "summary": "Crimson Desert's latest DLC adds romance as an option, allowing players to get married and divorced, in a new update.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/crimson-desert-romance-guide/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/how-to-romance-characters-in-crimson-desert.jpg",
+    "published_at": "2026-10-30T04:10:29.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "crimson-desert",
+    "game_label": "Crimson Desert"
+  },
+  {
+    "id": "a1ac1267424e",
+    "slug": "seeker-eye-adds-switch-2-version-launches-february-25-2027-in-japan",
+    "headline": "Seeker Eye adds Switch 2 version, launches February 25, 2027 in Japan",
+    "summary": "“Non-science” occult suspense visual novel Seeker Eye will launch for PlayStation 5, Switch 2, and …",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/seeker-eye-adds-switch-2-version-launches-february-25-2027-in-japan"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/a1ac1267424e/800/600",
+    "published_at": "2026-10-30T03:32:21.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "213f6cc313b7",
+    "slug": "getting-ships-in-crimson-desert",
+    "headline": "Getting Ships in Crimson Desert",
+    "summary": "Crimson Desert's Chartering the Unknown DLC has introduced new ocean exploration features and ship options.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/crimson-desert-all-ships-guide-chartering-the-unknown/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/how-to-build-ships-in-crimson-desert.jpg",
+    "published_at": "2026-10-30T03:31:39.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "crimson-desert",
+    "game_label": "Crimson Desert"
+  },
+  {
+    "id": "d77a9e17b30d",
+    "slug": "poll-so-have-you-got-the-zelda-40th-anniversary-switch-2",
+    "headline": "Poll: So, Have You Got The Zelda 40th Anniversary Switch 2?",
+    "summary": "Go on, tell us. Nintendo's Zelda-themed Switch 2 is out in stores this week, but as you've probably seen by now, there's been some last-minute pre-order drama. To add to this, some users who have pre-ordered the system from Target are now supposedly being told their orders won't arrive until the middle of November. Walmart is also reportedly claiming there's…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/poll-so-have-you-got-the-zelda-40th-anniversary-switch-2"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/a42cda6ec8fa8/large.jpg",
+    "published_at": "2026-10-30T02:55:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "68ce821070b6",
     "slug": "petit-planet-launches-december-4",
     "headline": "Petit Planet launches December 4",
@@ -4683,127 +4809,6 @@
     "image_url": "https://assetsio.gnwcdn.com/world-of-warcraft-grimtide-housejpeg.jpg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-10-29T11:59:54.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "96be74d05768",
-    "slug": "phantom-blade-zero-leads-2026-launches-with-over-500000-concurrent-ste",
-    "headline": "Phantom Blade Zero Leads 2026 Launches with Over 500,000 Concurrent Steam Players",
-    "summary": "Phantom Blade Zero has broken records with its massive launch, becoming the second-largest launch of 2026, behind only Palworld 1.0.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/action-rpg/phantom-blade-zero-immediately-tops-over-half-a-million-concurrent-steam-players-beating-silksong-and-slay-the-spire-2s-all-time-records-in-a-matter-of-hours/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/SPhh2mMBK8VngLpubYEqQ4-1920-80.jpg",
-    "published_at": "2026-10-29T11:57:48.000Z",
-    "hype_signal": 90,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "phantom-blade-zero",
-    "game_label": "Phantom Blade Zero"
-  },
-  {
-    "id": "eef87dfba698",
-    "slug": "monster-hunter-outlanders-codes-and-rewards",
-    "headline": "Monster Hunter Outlanders Codes and Rewards",
-    "summary": "Monster Hunter Outlanders offers redemption codes that grant players supplies, including Zenny, potions, and antidotes, to aid in hunting and battling creatures.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/monster-hunter/monster-hunter-outlanders-codes/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/KknjM97TYSmyvJTK8GrpNK-1920-80.jpg",
-    "published_at": "2026-10-29T11:49:21.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "monster-hunter-outlanders",
-    "game_label": "Monster Hunter Outlanders"
-  },
-  {
-    "id": "26fade04ef6e",
-    "slug": "ea-employees-speak-out-against-mismanagement",
-    "headline": "EA Employees Speak Out Against Mismanagement",
-    "summary": "EA employees claim poor morale due to AI mandates and mismanagement, describing the company as a 'cold dead place', sparking concerns about leadership's priorities.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/gaming-industry/morale-has-been-terrible-at-ea-workers-claim-saying-that-ai-mandates-and-mismanagement-have-left-the-company-a-cold-dead-place-thats-slowly-decaying-as-leadership-pilfers-every-last-cent/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ZkfRgQoWCNtPFShNDkfMS9-1920-80.jpg",
-    "published_at": "2026-10-29T11:47:20.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "dd29a9ce0eec",
-    "slug": "silent-hill-townfall-keeps-changing-difficulty-patch-16-adds-hard-mode",
-    "headline": "Silent Hill: Townfall Keeps Changing Difficulty, Patch 1.6 Adds Hard Mode",
-    "summary": "Plus more balance changes to general difficulty. Having just adjusted the behaviour of its worst enemy and made a baffling puzzle actually solvable, Silent Hill: Townfall is back with yet another round of changes and updates to its overall difficulty. Update 1.6 is available to download now on PS5, and first and foremost, it adds a hard difficulty mode. The…",
-    "category": "patches",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/silent-hill-townfall-keeps-changing-difficulty-patch-1-6-adds-hard-mode"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/8251fc694e49c/large.jpg",
-    "published_at": "2026-10-29T11:45:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ab1a2a0dd257",
-    "slug": "phantom-blade-zero-protagonist-voice-actor-revealed-as-sonic-the-hedge",
-    "headline": "Phantom Blade Zero Protagonist Voice Actor Revealed as Sonic the Hedgehog's Roger Craig Smith",
-    "summary": "In the trailers leading up to launch, Phantom Blade Zero protagonist Soul was voiced by up and coming actor Jay Maksenuk, best known for playing V in Once Human. As the game moved into release, however, he was replaced.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/roger-craig-smith-replaced-original-phantom-blade-zero-actor"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/29/rcs-1793274118076.png",
-    "published_at": "2026-10-29T11:42:08.000Z",
-    "hype_signal": 95,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
