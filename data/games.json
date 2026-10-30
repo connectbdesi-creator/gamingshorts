@@ -26413,5 +26413,87 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-30T13:40:45.443Z"
+  },
+  {
+    "slug": "world-of-horror",
+    "name": "World of Horror",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/b75/b75b3ef16edf5bbce3160ca337efeef2.jpg",
+    "released": "2023-10-19",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a48/a48243dc2d91448c3daeb7be30a9c15f.jpg",
+      "https://media.rawg.io/media/screenshots/622/622f50371920c24d2bccb3d6db2e719e.jpg",
+      "https://media.rawg.io/media/screenshots/f0d/f0df3c96eae618e4f5472f672e8d132e.jpg",
+      "https://media.rawg.io/media/screenshots/11e/11e7932dc243e06f8aae9a9f0edd9772.jpg",
+      "https://media.rawg.io/media/screenshots/791/7917a9087b12a862993f9af6837434d2.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-30T15:41:01.577Z"
+  },
+  {
+    "slug": "modern-warfare-2",
+    "name": "Call of Duty: Modern Warfare 2",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/9af/9af24c1886e2c7b52a4a2c65aa874638.jpg",
+    "released": "2009-11-10",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "macOS",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/468/468450c797e2388adb27f43a9bfb545f.jpg",
+      "https://media.rawg.io/media/screenshots/1d7/1d72fb0ca12c48ecd67806949bee047e.jpg",
+      "https://media.rawg.io/media/screenshots/560/560b2add9ece92850b7f9913a5825557.jpg",
+      "https://media.rawg.io/media/screenshots/f7e/f7e36079a094e963548b1f4a7bcad862.jpg",
+      "https://media.rawg.io/media/screenshots/65d/65da9ca595bea8b6984f5e376c8cb6f8.jpg",
+      "https://media.rawg.io/media/screenshots/00a/00a164bde7b8aa7dfc90b3b8a51caac6.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-30T15:41:02.677Z"
+  },
+  {
+    "slug": "crimson-desert-charting-the-unknown",
+    "name": "Crimson Desert: Charting the Unknown",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/83c/83ca2a4e4e94eecad38064f34304af49.jpg",
+    "released": "2026-10-29",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/3cb/3cb21f82d16a4a59b71fbc0cdbd617ad.jpg",
+      "https://media.rawg.io/media/screenshots/4b9/4b915738133ceac1fe4ff23b1bf95f64.jpg",
+      "https://media.rawg.io/media/screenshots/83c/83ca2a4e4e94eecad38064f34304af49.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-30T15:41:03.265Z"
   }
 ]
