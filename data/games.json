@@ -26495,5 +26495,173 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-30T15:41:03.265Z"
+  },
+  {
+    "slug": "the-crimson-desert",
+    "name": "Crimson Desert",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/dac/dacfcdeaef957a36416f4e6d5ec76229.jpg",
+    "released": "2026-03-19",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/db1/db13b535ce6539774459f4a5890d1da5.jpg",
+      "https://media.rawg.io/media/screenshots/a6f/a6f876b7fe5f558f942920a33d75d432.jpg",
+      "https://media.rawg.io/media/screenshots/bd5/bd52be2b0f166bd43501e3088144d771.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-30T17:40:29.030Z"
+  },
+  {
+    "slug": "dark-souls-2-dark-souls-3",
+    "name": "Bark souls - Dark souls demake",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/c56/c56b2b8129dea69e437ff68f5fce28f6.jpg",
+    "released": "2021-04-27",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/e9e/e9edebd3f0c21c77c3c6b14db18b4899.jpg",
+      "https://media.rawg.io/media/screenshots/d72/d728faee566d668b602b12a255a679f3.jpg",
+      "https://media.rawg.io/media/screenshots/ff0/ff0e2fc1f00b9895e2ed4187ac200b4e.jpg",
+      "https://media.rawg.io/media/screenshots/feb/febca29b3998b00a5cba43b8b9e75498.jpg",
+      "https://media.rawg.io/media/screenshots/0d0/0d0152d9e240c88642014915b647c94e.jpg",
+      "https://media.rawg.io/media/screenshots/6e4/6e43130a0927688213343079df8b3768.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-30T17:40:29.978Z"
+  },
+  {
+    "slug": "sims",
+    "name": "The Sims",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/639/639b45004ba5ff983d790f39641393c7.jpg",
+    "released": "2000-02-04",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "PC",
+      "Linux",
+      "Xbox",
+      "PlayStation 2",
+      "PlayStation",
+      "GameCube",
+      "Classic Macintosh"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/e3b/e3b6f9afe556e5bc08aa439e52137cad.jpg",
+      "https://media.rawg.io/media/screenshots/f19/f19708740488b8b7e344295504b79472.jpg",
+      "https://media.rawg.io/media/screenshots/99d/99d60a87b8a9cabb56fefe6919ec6cc9.jpg",
+      "https://media.rawg.io/media/screenshots/47f/47fef7e4a501555c6f89acbcd7a1ef87.jpg",
+      "https://media.rawg.io/media/screenshots/03b/03b7637e26f24a4a56902801bd26fae9.jpg",
+      "https://media.rawg.io/media/screenshots/fb6/fb6b2dc1cd1a4644a3f98f136ea13f13.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-30T17:40:30.429Z"
+  },
+  {
+    "slug": "call-of-duty-modern-warfare-2",
+    "name": "Call of Duty: Modern Warfare 2",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/9af/9af24c1886e2c7b52a4a2c65aa874638.jpg",
+    "released": "2009-11-10",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "macOS",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/468/468450c797e2388adb27f43a9bfb545f.jpg",
+      "https://media.rawg.io/media/screenshots/1d7/1d72fb0ca12c48ecd67806949bee047e.jpg",
+      "https://media.rawg.io/media/screenshots/560/560b2add9ece92850b7f9913a5825557.jpg",
+      "https://media.rawg.io/media/screenshots/f7e/f7e36079a094e963548b1f4a7bcad862.jpg",
+      "https://media.rawg.io/media/screenshots/65d/65da9ca595bea8b6984f5e376c8cb6f8.jpg",
+      "https://media.rawg.io/media/screenshots/00a/00a164bde7b8aa7dfc90b3b8a51caac6.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-30T17:40:31.045Z"
+  },
+  {
+    "slug": "star-wars-battlefront-3",
+    "name": "Star Wars: Battlefront (2004)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/f0e/f0ec103fb02562f9eafbcd73f124deb0.jpg",
+    "released": "2004-09-20",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Xbox",
+      "PlayStation 2"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/44a/44aa3792ce6c5fe1a4494df16f58ca0e.jpg",
+      "https://media.rawg.io/media/screenshots/261/2617f78654fa0b7825747d49e6d1a653.jpg",
+      "https://media.rawg.io/media/screenshots/74d/74dd0cd118d539b7f8584ac17faa0590.jpg",
+      "https://media.rawg.io/media/screenshots/139/1394502149c8613a6dd1ddabdfa4e8fe.jpg",
+      "https://media.rawg.io/media/screenshots/960/960f34db78ed5a1deec091451ee29c9a.jpg",
+      "https://media.rawg.io/media/screenshots/e3c/e3c27e1690f043a6320905c714094526.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-30T17:40:32.255Z"
+  },
+  {
+    "slug": "resonance-of-fate",
+    "name": "Resonance of Fate",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/23c/23c05dddf504b4990619f5aca006ce53.jpg",
+    "released": "2010-01-28",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c6e/c6e667008dbc96caeafb4f00c1650df2.jpg",
+      "https://media.rawg.io/media/screenshots/5e4/5e49b9cc7f73f154ac4066589b829d08.jpg",
+      "https://media.rawg.io/media/screenshots/cfa/cfa4a1792eb946682b8e683adb9c49b2.jpg",
+      "https://media.rawg.io/media/screenshots/e6a/e6ae4d22d17ce53c8c13b11ef19478ec.jpg",
+      "https://media.rawg.io/media/screenshots/abe/abe10cbe4f857edbd206daee6bc99a9c.jpg",
+      "https://media.rawg.io/media/screenshots/8ea/8eaa4cfee615a81bc1343af73c9e4533.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-30T17:40:37.440Z"
   }
 ]
