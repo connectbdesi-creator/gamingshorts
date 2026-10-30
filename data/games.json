@@ -26709,5 +26709,78 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-30T21:40:52.004Z"
+  },
+  {
+    "slug": "star-wars-jedi-3",
+    "name": "Star Wars: Jedi Starfighter",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/839/8399a76a597fc93b43ae3103f041ea9e.jpg",
+    "released": "2002-03-10",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PlayStation 4",
+      "Xbox",
+      "PlayStation 3",
+      "PlayStation 2"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/b43/b43be64722890a8508214397618cb670.jpg",
+      "https://media.rawg.io/media/screenshots/e64/e64e853eea629ad1a7cbc72bd059339f.jpg",
+      "https://media.rawg.io/media/screenshots/069/0693732d2250e578731d7982e47bdb15.jpg",
+      "https://media.rawg.io/media/screenshots/0ea/0ea7058e96dc19550d6c41455645331b.jpg",
+      "https://media.rawg.io/media/screenshots/839/8399a76a597fc93b43ae3103f041ea9e.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-30T23:38:19.474Z"
+  },
+  {
+    "slug": "lords-of-the-fallen-ii",
+    "name": "Lords of The Fallen II",
+    "description": null,
+    "background_image": null,
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [],
+    "stores": [],
+    "fetched_at": "2026-10-30T23:38:20.449Z"
+  },
+  {
+    "slug": "star-wars-old-republic",
+    "name": "Star Wars: The Old Republic",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/baa/baac774072d6319a166a453b8b3506df.jpg",
+    "released": "2011-12-20",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/962/962c3a6af61aeb98bd5daa7dac5e5e68.jpg",
+      "https://media.rawg.io/media/screenshots/3bc/3bcd052fee83137a6793c276b253b98b.jpg",
+      "https://media.rawg.io/media/screenshots/5f5/5f5113be1059e9d433277cda80af8161_33zSz2T.jpg",
+      "https://media.rawg.io/media/screenshots/6d2/6d2c2b5fd3fe79da3e0810f29c07dd47.jpg",
+      "https://media.rawg.io/media/screenshots/25d/25dea07eb24893a69fb9f340b965dfbc.jpg",
+      "https://media.rawg.io/media/screenshots/c67/c67bcdb4b8456007b553c314dacfbec1.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-30T23:38:21.010Z"
   }
 ]
