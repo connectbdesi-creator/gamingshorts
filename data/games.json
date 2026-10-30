@@ -26663,5 +26663,51 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-30T17:40:37.440Z"
+  },
+  {
+    "slug": "soulframe",
+    "name": "Soulframe",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/7aa/7aa987a13a4115aae149a72aedde1931.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [],
+    "screenshots": [],
+    "stores": [],
+    "fetched_at": "2026-10-30T21:40:51.240Z"
+  },
+  {
+    "slug": "vrchat",
+    "name": "VRChat",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/11f/11fd681c312c14644ab360888dba3486.jpg",
+    "released": "2017-02-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Simulation",
+      "Sports",
+      "Massively Multiplayer"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/1b5/1b5c71bc5d948b8d7bf674e757c49c1f.jpg",
+      "https://media.rawg.io/media/screenshots/900/9003f973b584b5f0bba9511851e562ba.jpg",
+      "https://media.rawg.io/media/screenshots/af9/af989d6f28d48c3b9b2442caf15c8586.jpg",
+      "https://media.rawg.io/media/screenshots/ba8/ba81e54dc720255cc2747900a217f9fa.jpg",
+      "https://media.rawg.io/media/screenshots/d40/d400f4a4544a7b72d6117c94eabc6435.jpg",
+      "https://media.rawg.io/media/screenshots/01a/01a6feceffd86668980877368c1823a8.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-30T21:40:52.004Z"
   }
 ]

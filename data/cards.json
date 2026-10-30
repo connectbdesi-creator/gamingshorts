@@ -1,5 +1,515 @@
 [
   {
+    "id": "1034ca2fa029",
+    "slug": "pokemon-officially-reveals-30th-anniversary-release",
+    "headline": "Pokemon Officially Reveals 30th Anniversary Release",
+    "summary": "The Pokémon franchise is celebrating its 30th anniversary with a brand-new exclusive product, paying homage to its original games.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/pokemon-fender-guitars-30th-anniversary/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/pokemon-fender-red-green-guitars.jpg",
+    "published_at": "2026-10-30T21:31:14.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pokemon",
+    "game_label": "Pokemon"
+  },
+  {
+    "id": "538224562d4e",
+    "slug": "why-is-pc-gaming-outpacing-consoles-pc-players-have-a-bit-more-choice",
+    "headline": " Why is PC gaming outpacing consoles? \"PC players have a bit more choice,\" analyst says ",
+    "summary": "\"Slower growth for console compared to PC and mobile,\" analyst predicts",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/why-is-pc-gaming-outpacing-consoles-pc-players-have-a-bit-more-choice-analyst-says-and-pc-has-really-strong-momentum-as-playstation-and-xbox-struggle/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/PzhhLQXTym9Dw6BLfF3oHL-1920-80.jpg",
+    "published_at": "2026-10-30T21:18:51.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ddb4777379ff",
+    "slug": "last-gen-open-world-games-that-still-feel-next-gen",
+    "headline": "Last-Gen Open-World Games That Still Feel Next-Gen",
+    "summary": "Several last-gen open-world games boast impressive mechanics and world design that rival newer releases",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/last-gen-open-world-games-still-feel-next-gen/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/gamerant-2026-10-29t141536-628.jpg",
+    "published_at": "2026-10-30T21:15:14.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9613fbe8b431",
+    "slug": "the-worst-gta-game-is-one-rockstar-could-never-make-today",
+    "headline": "The Worst GTA Game Is One Rockstar Could Never Make Today",
+    "summary": "Polygon argues that GTA Advance, despite being a poor game, laid the groundwork for the GTA series' success",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-advance-worst-grand-theft-auto-game/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gta-advance.jpg",
+    "published_at": "2026-10-30T21:01:18.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-advance",
+    "game_label": "GTA Advance"
+  },
+  {
+    "id": "d5b02c4e7eb0",
+    "slug": "fans-think-blizzard-is-teasing-a-return-to-its-most-beloved-setting-in",
+    "headline": "Fans Think Blizzard Is Teasing A Return To Its Most Beloved Setting In World Of Warcraft: Forever",
+    "summary": "Blizzard fans speculate about a potential return to the original setting of World of Warcraft, citing a mysterious teaser from the developer. No official announcement has been made, but fans are eagerly awaiting news about a possible expansion or game. ",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/fans-think-blizzard-is-teasing-a-return-to-its-most-beloved-setting-in-world-of-warcraft-forever-2000751630"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/10/wow-forever-animation2-1280x720.jpg",
+    "published_at": "2026-10-30T21:00:04.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "world-of-warcraft-forever",
+    "game_label": "World of Warcraft: Forever"
+  },
+  {
+    "id": "93228d2bd730",
+    "slug": "activision-apologizes-for-modern-warfare-4-footage",
+    "headline": "Activision Apologizes for Modern Warfare 4 Footage",
+    "summary": "Activision acknowledges using real footage from a South Korean tragedy in Modern Warfare 4's intro, apologizing to the families of victims and promising to remove the footage.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/activision-apologizes-and-says-it-will-remove-south-korean-crush-footage-from-modern-warfare-4-after-victims-families-speak-out/"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/modern-warfare-4-activision-apologizes-itaewon-tragedy/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/93228d2bd730/800/600",
+    "published_at": "2026-10-30T20:56:45.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "modern-warfare-4",
+    "game_label": "Modern Warfare 4"
+  },
+  {
+    "id": "ea8d8e22ce22",
+    "slug": "jagex-explains-runescape-reignited-plans-a-25-year-mmo-relaunch",
+    "headline": "Jagex Explains RuneScape Reignited Plans, a 25-Year MMO Relaunch",
+    "summary": "Jagex has revealed its ambitious plans to revitalize RuneScape with a relaunch called Reignited, promising a 25-year future for the classic MMO",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/mmo/jagex-explains-runescape-reignited-plans-an-mmo-relaunch-so-divisive-it-was-canceled-in-weeks-it-wasnt-just-lets-find-new-players/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/R3ZQfHdw6pdFueNso6yjnK-1920-80.jpg",
+    "published_at": "2026-10-30T20:46:25.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "runescape-reignited",
+    "game_label": "RuneScape Reignited"
+  },
+  {
+    "id": "237646b5c7cb",
+    "slug": "roblox-boasts-70000-games-on-platform-in-5-months",
+    "headline": "Roblox Boasts 70,000 Games on Platform in 5 Months",
+    "summary": "Roblox says its AI-powered game development is leading to an explosion of content, with 70,000 games published in just 5 months.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/software/ai/ai-powered-game-development-is-leading-to-an-explosion-of-content-roblox-says-as-it-brags-about-70-000-games-published-on-its-platform-in-the-last-5-months-alone/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/F5pVc8uQjTuUcWQjaREnac-1920-80.jpg",
+    "published_at": "2026-10-30T20:39:57.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "41ee4b93252e",
+    "slug": "anthropic-nerfs-claude-again-to-stop-users-from-making-ai-slop-out-of",
+    "headline": "Anthropic Nerfs Claude Again To Stop Users From Making AI Slop Out Of Any ‘Specific Existing Game’",
+    "summary": "Anthropic's new Claude guardrail is stopping users from recreating a game 'even if it is renamed or called original'",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/anthropic-nerfs-claude-again-to-stop-users-from-making-ai-slop-out-of-any-specific-existing-game-2000751665"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/02/anthropic-1280x720.jpg",
+    "published_at": "2026-10-30T20:30:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c26414bd33fc",
+    "slug": "save-20-off-minecraft-dungeons-2-for-nintendo-switch-2-ahead-of-black",
+    "headline": "Save 20% Off Minecraft Dungeons 2 for Nintendo Switch 2 Ahead of Black Friday",
+    "summary": "IGN is offering a discount on Minecraft Dungeons 2 for Nintendo Switch 2, making it a great gift option for kids this holiday season.",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/minecraft-dungeons-2-deal-october-2026"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/30/minecraftdungeons2-1793390585254.jpg",
+    "published_at": "2026-10-30T20:30:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "minecraft-dungeons-2",
+    "game_label": "Minecraft Dungeons 2"
+  },
+  {
+    "id": "9a187f45298a",
+    "slug": "soulframe-to-undergo-major-update-as-warframe-developers-prepare-for-l",
+    "headline": "Soulframe to Undergo Major Update as Warframe Developers Prepare for Launch",
+    "summary": "Upcoming update aims to simplify gameplay for new players, while also being one of the game's most violent updates yet.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rpg/soulframe-opens-up-for-everyone-today-as-the-warframe-devs-prepare-the-fantasy-action-rpg-for-one-of-its-biggest-most-violent-updates-ever-next-month/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/cCLC8fwuuCnZmwqbMGTsea-1920-80.jpg",
+    "published_at": "2026-10-30T20:30:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "soulframe",
+    "game_label": "Soulframe"
+  },
+  {
+    "id": "160d89710cb5",
+    "slug": "warframes-fantasy-pilled-sister-soulframe-finally-goes-open-to-all-thi",
+    "headline": "Warframe's fantasy-pilled sister Soulframe finally goes open to all this November, though Digital Extremes are \"nervous\" about certain changes",
+    "summary": "Warframe creators Digital Extremes have announced that their free-to-play fantasy RPG Soulframe will be available for everyone to download on 6th November, after two years in closed alpha. Finally, you serfs without \"prelude\" keys will be able to fire up Soulframe.com and make sense of my ranting about the sleeping animals on the lobby screen. The new \"open prelude\" will…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/warframes-fantasy-pilled-sister-soulframe-finally-goes-open-to-all-this-november-though-digital-extremes-are-nervous-about-certain-changes"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/SF_OpenPreludes4K(1).png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-30T20:30:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "38197929a2cc",
+    "slug": "vrchat-devs-spark-outrage-after-ai-label-snub",
+    "headline": "VRChat Devs Spark Outrage After AI Label Snub",
+    "summary": "VRChat developers ignored 95% of user requests for AI label inclusion, sparking backlash among users.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/vrchat-devs-spark-outrage-after-refusing-to-include-ai-label-despite-95-of-fans-asking-for-it"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/30/vrchat-devs-spark-outrage-over-ai-label-1793390533984.jpg",
+    "published_at": "2026-10-30T20:11:52.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "vrchat",
+    "game_label": "VRChat"
+  },
+  {
+    "id": "bf84b4acc01f",
+    "slug": "crimson-desert-expands-with-new-charting-the-unknown-dlc",
+    "headline": "Crimson Desert Expands with New Charting the Unknown DLC",
+    "summary": "The new Charting the Unknown DLC for Crimson Desert has increased the game's massive open world, making it a significantly larger experience for players.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/the-scale-of-crimson-desert-just-got-even-more-absurd-after-new-ps5-dlc"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/crimson-desert-charting-the-unknown-review"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/c41636458cee0/large.jpg",
+    "published_at": "2026-10-30T20:08:11.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "crimson-desert",
+    "game_label": "Crimson Desert"
+  },
+  {
+    "id": "b94b98da0134",
+    "slug": "xbox-game-pass-gets-a-spooky-halloween-lineup",
+    "headline": "Xbox Game Pass Gets a Spooky Halloween Lineup",
+    "summary": "Xbox Game Pass is offering a collection of free horror games for Halloween, including 18 titles. The service is providing spooky picks for the holiday, including some lesser-known options.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/game-pass-horror-halloween-pc-resident-evil-2000640197"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2025/10/ss_d582f6e384652c1a05fb6e928ab6557b0abba1b3.1920x1080-1280x720.jpg",
+    "published_at": "2026-10-30T20:05:57.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "bef39dd2138b",
+    "slug": "overwatchs-first-year-long-story-reached-its-climax-as-fans-ask-what-w",
+    "headline": "Overwatch's First Year-Long Story Reached Its Climax As Fans Ask What Was Even The Point",
+    "summary": "Kotaku discusses Overwatch's storyline, specifically the role of Vendetta, and whether it was effectively utilized to grow the character of Doomfist",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/overwatch-reign-of-talon-vendetta-doomfist-cinematic-fight-2000751678"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/10/doomfist-1280x720.jpg",
+    "published_at": "2026-10-30T20:00:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "overwatch",
+    "game_label": "Overwatch"
+  },
+  {
+    "id": "fa66598b984a",
+    "slug": "mtg-darkhold-destiny-4-commander-deck-bundles",
+    "headline": "MTG Darkhold Destiny 4 Commander Deck Bundles",
+    "summary": "Magic: The Gathering experts weigh in on the value of Destiny 4's new Commander bundle, a set of expensive deck bundles with a promise of exciting gameplay.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/mtg-darkhold-destiny-4-commander-deck-bundles"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/18/magic-the-gathering-darkhold-destiny-commander-deck-bundle-1792353467227.jpg",
+    "published_at": "2026-10-30T20:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "mtg-darkhold-destiny-4",
+    "game_label": "MTG Darkhold Destiny 4"
+  },
+  {
+    "id": "ee72eb0e4ec3",
+    "slug": "goty-hopeful-mina-the-hollower-bought-the-studio-financial-stability-f",
+    "headline": "GOTY hopeful Mina the Hollower bought the studio financial stability \"for now,\" while the Shovel Knight devs work on a new 3D game",
+    "summary": "Yacht Club Games has confirmed that most of its developers are now working on a brand new 3D game (potentially Shovel Knight 3D), after the critically-acclaimed Mina the Hollower did well enough for the team to continue.\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/shovel-knight-3d-mina-financial-stability"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/mina-treated.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-10-30T19:55:21.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b9d58dfe2cc6",
+    "slug": "krafton-makes-socially-intelligent-ai-that-understands-people",
+    "headline": "Krafton makes socially intelligent AI that understands people",
+    "summary": "Krafton today announced that its subsidiary, Ludo Robotics, had created a new version of its robotic intelligence system. Called Ludi 0.2, this intelligence system...\nThe post Krafton makes socially intelligent AI that understands people appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/krafton-makes-socially-intelligent-ai-that-understands-people/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/b9d58dfe2cc6/800/600",
+    "published_at": "2026-10-30T19:52:51.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "932d1581acb4",
+    "slug": "blood-of-dawnwalker-devs-aim-to-create-rpgs-players-themselves-want-to",
+    "headline": "Blood of Dawnwalker devs aim to create RPGs players themselves want to play",
+    "summary": "In a new interview, the developers behind Blood of Dawnwalker emphasize the importance of creating RPGs that meet their own gaming expectations, rather than chasing industry trends.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/action-rpg/the-blood-of-dawnwalker-devs-want-to-make-rpgs-that-we-ourselves-want-to-play-instead-of-chasing-trends/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/H247pQoc3FW6iDNZASGXKR-1920-80.jpg",
+    "published_at": "2026-10-30T19:33:06.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "blood-of-dawnwalker",
+    "game_label": "Blood of Dawnwalker"
+  },
+  {
+    "id": "bc06df423bee",
+    "slug": "xbox-spent-500-million-on-gears-of-war-e-day",
+    "headline": "Xbox Spent $500 Million on Gears of War: E-Day",
+    "summary": "Bloomberg reports that Xbox invested over $500 million in Gears of War: E-Day's release, with some objections reportedly raised within the company.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/rumours-persist-that-xbox-spent-usd500-million-on-gears-of-war-e-day-despite-some-objections"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/85c2c90cd2031/large.jpg",
+    "published_at": "2026-10-30T19:33:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gears-of-war-e-day",
+    "game_label": "Gears of War: E-Day"
+  },
+  {
     "id": "7546ff388d08",
     "slug": "pokemon-tcg-officially-reveals-special-new-rayquaza-release",
     "headline": "Pokemon TCG Officially Reveals Special New Rayquaza Release",
@@ -542,6 +1052,31 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "ff5cc253ef07",
+    "slug": "fallout-4-horror-mod-turns-commonwealth-into-silent-hill",
+    "headline": "Fallout 4 Horror Mod Turns Commonwealth into Silent Hill",
+    "summary": "A new Fallout 4 horror mod is transforming the game's Boston suburbs into the eerie world of Silent Hill, complete with Pyramid Head and other iconic figures from the classic survival horror series.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/fallout/this-brutal-fallout-4-horror-mod-turns-the-commonwealth-into-silent-hill/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/PeAau3qEFPYMhtJzMWN7qe-1920-80.jpg",
+    "published_at": "2026-10-30T17:38:41.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fallout-4",
+    "game_label": "Fallout 4"
   },
   {
     "id": "cef9741bb50e",
@@ -1277,6 +1812,37 @@
     "game_label": null
   },
   {
+    "id": "4a029defac94",
+    "slug": "the-best-han-86-builds-in-mw4",
+    "headline": "The Best Han 86 Builds in MW4",
+    "summary": "Call of Duty: Modern Warfare 4's starting assault rifle, the Han 86, is a powerful weapon when equipped with the right attachments, according to GamesRadar+.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/call-of-duty/mw4-han-86-build-call-of-duty/"
+      },
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/call-of-duty/mw4-vel-46-builds-call-of-duty/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/JNAsHQpKKohzz89vaaxvtC-1920-80.jpg",
+    "published_at": "2026-10-30T16:28:07.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "call-of-duty-modern-warfare-4",
+    "game_label": "Call of Duty: Modern Warfare 4"
+  },
+  {
     "id": "41b75fa0a078",
     "slug": "sonics-voice-actor-takes-over-phantom-blade-zeros-protagonist-at-the-l",
     "headline": "Sonic's Voice Actor Takes Over Phantom Blade Zero's Protagonist at the Last Minute",
@@ -1302,32 +1868,6 @@
     "comment_count": 0,
     "game": "phantom-blade-zero",
     "game_label": "Phantom Blade Zero"
-  },
-  {
-    "id": "93228d2bd730",
-    "slug": "activision-apologizes-for-modern-warfare-4-footage",
-    "headline": "Activision Apologizes for Modern Warfare 4 Footage",
-    "summary": "Activision acknowledges using real footage from a South Korean tragedy in Modern Warfare 4's intro, apologizing to the families of victims and promising to remove the footage.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/activision-apologizes-and-says-it-will-remove-south-korean-crush-footage-from-modern-warfare-4-after-victims-families-speak-out/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/93228d2bd730/800/600",
-    "published_at": "2026-10-30T16:18:03.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "modern-warfare-4",
-    "game_label": "Modern Warfare 4"
   },
   {
     "id": "8d511db2747c",
@@ -1757,33 +2297,6 @@
     "comment_count": 0,
     "game": "modern-warfare-4",
     "game_label": "Modern Warfare 4"
-  },
-  {
-    "id": "4a029defac94",
-    "slug": "the-best-han-86-builds-in-mw4",
-    "headline": "The Best Han 86 Builds in MW4",
-    "summary": "Call of Duty: Modern Warfare 4's starting assault rifle, the Han 86, is a powerful weapon when equipped with the right attachments, according to GamesRadar+.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/call-of-duty/mw4-han-86-build-call-of-duty/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/JNAsHQpKKohzz89vaaxvtC-1920-80.jpg",
-    "published_at": "2026-10-30T15:19:52.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "call-of-duty-modern-warfare-4",
-    "game_label": "Call of Duty: Modern Warfare 4"
   },
   {
     "id": "d2d8dc980fff",
@@ -2415,27 +2928,6 @@
     "comment_count": 0,
     "game": "honkai-star-rail",
     "game_label": "Honkai: Star Rail"
-  },
-  {
-    "id": "bf84b4acc01f",
-    "slug": "crimson-desert-expands-with-new-charting-the-unknown-dlc",
-    "headline": "Crimson Desert Expands with New Charting the Unknown DLC",
-    "summary": "The new Charting the Unknown DLC for Crimson Desert has increased the game's massive open world, making it a significantly larger experience for players.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/the-scale-of-crimson-desert-just-got-even-more-absurd-after-new-ps5-dlc"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/c41636458cee0/large.jpg",
-    "published_at": "2026-10-30T13:15:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "crimson-desert",
-    "game_label": "Crimson Desert"
   },
   {
     "id": "98b42c3b82b7",
@@ -4353,485 +4845,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "d3c1d8d1ca1f",
-    "slug": "crimson-deserts-dlc-release-date-announced",
-    "headline": "Crimson Desert's DLC Release Date Announced",
-    "summary": "GamesRadar+ has confirmed that Crimson Desert's first major DLC will be released on October 29. The exact details and content of the DLC are not specified.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/rpg/crimson-desert-charting-the-unknown-dlc-release-time-date/"
-      },
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/rpg/crimson-desert-how-to-start-charting-the-unknown-dlc/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/WNRoCyVQF9ZkCSGhy7zYw9-1920-80.jpg",
-    "published_at": "2026-10-29T22:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "crimson-desert",
-    "game_label": "Crimson Desert"
-  },
-  {
-    "id": "c90444fd7d10",
-    "slug": "bethesda-pays-tribute-to-patrick-stewart-for-his-role-in-oblivion-fans",
-    "headline": "Bethesda Pays Tribute to Patrick Stewart for His Role in Oblivion, Fans Remember His Role in Games like Castlevania",
-    "summary": "Bethesda has paid tribute to Sir Patrick Stewart for his role in The Elder Scrolls 4: Oblivion after his death.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/bethesda-pays-tribute-to-patrick-stewart-for-his-role-in-oblivion-fans-remember-his-role-in-games-like-castlevania"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/29/hv06502wmaayufx-1793310464924.jpeg",
-    "published_at": "2026-10-29T21:57:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2988f2248883",
-    "slug": "none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zes",
-    "headline": " 'None of these people have ever made a game,' BioWare co-founder Greg Zeschuk says of game industry executives: 'They just don't know how it works' ",
-    "summary": "In a rare interview, Zeschuk said the closure of BioWare is sad, but his greater concern is for the people put out of work.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/SzmN5gBZ4AzPwnUJwehJHj-1920-80.jpg",
-    "published_at": "2026-10-29T21:47:36.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9f47dadaef05",
-    "slug": "new-open-world-rpg-looks-like-game-boy-color-pokemon-and-its-perfect-f",
-    "headline": "New Open-World RPG Looks Like Game Boy Color Pokemon, and It's Perfect for Switch 2",
-    "summary": "A new open-world RPG is coming to the Switch 2, capitalizing on the console's retro gaming appeal.",
-    "category": "releases",
-    "platform_tags": [
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/petal-runner-switch-2-open-world-rpg-game-boy-pokemon/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/bazaart_2026-10-28_161217.jpeg",
-    "published_at": "2026-10-29T21:30:15.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "387de4703c71",
-    "slug": "phantom-blade-zero-launches-with-day-one-patch",
-    "headline": "Phantom Blade Zero Launches with Day One Patch",
-    "summary": "Phantom Blade Zero, a wuxia-inspired action game, has launched with a day one patch addressing issues like ray tracing and bug fixes.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/phantom-blade-zero-kicks-off-its-launch-with-a-day-one-patch-that-offers-improvements-to-ray-tracing-and-some-bug-fixes-to-boot"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/phantom-blade-zero_1JoQaW0.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-29T21:27:20.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "phantom-blade-zero",
-    "game_label": "Phantom Blade Zero"
-  },
-  {
-    "id": "c1daff17c31a",
-    "slug": "xbox-console-update-adds-mythic-achievements",
-    "headline": "Xbox Console Update Adds Mythic Achievements",
-    "summary": "A new Xbox console update has been released, introducing Mythic Achievements and other enhancements, along with bug fixes.",
-    "category": "patches",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/xbox-console-update-patch-notes-mythic-achievements/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/xbox-mythic-achievement-logo-green.jpg",
-    "published_at": "2026-10-29T21:26:23.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3da5d045cd33",
-    "slug": "jrpgs-with-near-perfect-endgames-ranked",
-    "headline": "JRPGs With Near-Perfect Endgames, Ranked",
-    "summary": "Ready for more? These JRPG endgames bring their characters' stories and journeys to a close on a brilliant note.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/jrpgs-games-near-perfect-endgames-ranked/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/final-fantasy-10-endgame-jrpgs.jpg",
-    "published_at": "2026-10-29T21:15:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "39a4f72aabe0",
-    "slug": "official-the-elder-scrolls-6-announcement-imminent-report-says",
-    "headline": "Official The Elder Scrolls 6 Announcement Imminent, Report Says",
-    "summary": "Skyrim's 15th anniversary will give fans a real reason to be excited about a new Bethesda RPG",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/the-elder-scrolls-6-sentinel-news-tes6-skyrim-anniversary-bethesda/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/elder-scrolls-online-skyrim-update-1.jpg",
-    "published_at": "2026-10-29T21:14:52.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ff3dda0a85dc",
-    "slug": "south-koreans-demand-changes-to-call-of-duty-mw4-opening-sequence",
-    "headline": "South Koreans Demand Changes to Call of Duty: MW4 Opening Sequence",
-    "summary": "South Korean gamers are calling for modifications to the opening sequence of Call of Duty: Modern Warfare 4, citing cultural sensitivities.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/call-of-duty-mw4-itaewon-crowd-crush/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/call-of-duty-modern-warfare-4-character-armed-in-warehouse-with-troops-official-cropped-screenshot.jpg",
-    "published_at": "2026-10-29T21:08:35.000Z",
-    "hype_signal": 10,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "call-of-duty-modern-warfare-4",
-    "game_label": "Call of Duty: Modern Warfare 4"
-  },
-  {
-    "id": "000d415e3093",
-    "slug": "ubisoft-shelves-assassins-creed-remakes-for-now-focuses-on-new-project",
-    "headline": "Ubisoft Shelves Assassin's Creed Remakes for Now, Focuses on New Projects",
-    "summary": "Ubisoft has put its plans for Assassin's Creed remakes on hold, shifting focus to new unannounced titles",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/assassin-s-creed/ubisoft-says-its-done-with-assassins-creed-remakes-for-now-after-black-flag-resynced-and-assassins-creed-hexe-is-making-steady-progress-toward-2027-update/"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/assassins-creed-remakes-development-update-fall-2026/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/rauxXobaWThCYYkP85g28d-1920-80.jpg",
-    "published_at": "2026-10-29T20:48:18.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "assassins-creed",
-    "game_label": "Assassin's Creed"
-  },
-  {
-    "id": "6dc01c944c1e",
-    "slug": "steam-makes-96-positive-puzzle-game-completely-free",
-    "headline": "Steam Makes 96% Positive Puzzle Game Completely Free",
-    "summary": "Polygon reports that a Sudoku-inspired puzzle game, Hexologic, is currently free on Steam for a limited time, offering over 90 levels for players to solve.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/hexologic-free-steam-game-october-2026/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/polygon-graphic-free-game-sale-banner-steam.jpg",
-    "published_at": "2026-10-29T20:45:03.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "hexologic",
-    "game_label": "Hexologic"
-  },
-  {
-    "id": "7ef8e17dbb7c",
-    "slug": "roblox-reports-q3-revenue-growth-despite-post-market-decline",
-    "headline": "Roblox Reports Q3 Revenue Growth, Despite Post-Market Decline",
-    "summary": "Roblox reports a 16% increase in revenue for its Q3, but its stock price falls in after-hours trading. The company's financial performance suggests growth in various areas, but the stock market reaction indicates caution.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/roblox-grows-revenues-in-q3-by-16-but-stock-falls-in-after-hours-trading/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/7ef8e17dbb7c/800/600",
-    "published_at": "2026-10-29T20:41:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8d9e68778051",
-    "slug": "we-didnt-want-the-brooding-hero-out-for-revenge-how-quiet-lulls-and-a",
-    "headline": "\"We didn't want the brooding hero out for revenge\": How quiet lulls and a bird-sketching lead make Control Resonant a more introspective kind of action game",
-    "summary": "Like the repeating pattern effect afflicting its warped Manhattan, Control Resonant threw me for a loop. One minute I would be brutally slashing and smashing my way through hordes of inhuman enemies, enacting a never-ending chain combo of bellowing violence with my Aberrant, and the next minute I would be scanning nearby rooftops for signs of a squeaking purple dragon…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/we-didnt-want-the-brooding-hero-out-for-revenge-how-quiet-lulls-and-a-bird-sketching-lead-make-control-resonant-a-more-introspective-kind-of-action-game"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Control-Resonant-Dylan-midshot.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-29T20:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d9bd63dcc8c4",
-    "slug": "astarion-endings-guide",
-    "headline": "Astarion Endings Guide",
-    "summary": "This guide provides an overview of all possible endings for Astarion in Baldur's Gate 3, allowing players to decide his fate.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/baldurs-gate-3-all-astarion-endings-explained/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/10/sun-king-astarion-with-an-outstretched-hand-in-baldur-s-gate-3.jpg",
-    "published_at": "2026-10-29T20:18:40.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "baldurs-gate-3",
-    "game_label": "Baldur's Gate 3"
-  },
-  {
-    "id": "1c97466d7ce2",
-    "slug": "19-excellent-horror-games-you-can-play-for-free-with-ps-plus-this-hall",
-    "headline": "19 Excellent Horror Games You Can Play For Free With PS Plus This Halloween",
-    "summary": "The PlayStation subscription service is full of great horror picks",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/ps-plus-horror-halloween-silent-hill-2-free-ps4-ps5-2000637341"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2025/10/image-2026-10-29T161725.999-1280x720.jpg",
-    "published_at": "2026-10-29T20:15:46.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "75a17c12efdf",
-    "slug": "roblox-reveals-ai-adoption-rate-for-top-games",
-    "headline": "Roblox Reveals AI Adoption Rate for Top Games",
-    "summary": "Roblox reports that over 80% of its most popular games utilized AI to accelerate development, highlighting the growing importance of artificial intelligence in game creation.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "mobile",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/roblox-says-more-than-80-of-its-top-100-games-used-ai-to-accelerate-creation/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/75a17c12efdf/800/600",
-    "published_at": "2026-10-29T20:10:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "175f181253e7",
-    "slug": "steam-copier-accused-of-stealing-code-from-original-game-developer",
-    "headline": "Steam Copier Accused of Stealing Code from Original Game Developer",
-    "summary": "A game developer claims another Steam user has copied their game, with the accused thief alleging the original developer copied their code first.",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/dev-who-copied-a-popular-game-on-steam-complains-another-copycat-stole-our-code-and-now-its-apparently-been-kicked-out-by-valve/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Pj4qvtvnDpaEcwvFH33d8D-1920-80.jpg",
-    "published_at": "2026-10-29T20:06:11.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "880a022d994b",
-    "slug": "square-enix-should-never-make-a-final-fantasy-game-without-turn-based",
-    "headline": "Square Enix Should Never Make a Final Fantasy Game Without Turn-Based Combat Again",
-    "summary": "Polygon argues that Square Enix's new RPG, Final Fantasy Resonance, embodies the perfect formula for the series and should serve as a guiding force for future installments.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/final-fantasy-resonance-blueprint-for-new-ff-games/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/final-fantasy-resonance-future-of-final-fantasy.jpg",
-    "published_at": "2026-10-29T20:00:18.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "final-fantasy-resonance",
-    "game_label": "Final Fantasy Resonance"
-  },
-  {
-    "id": "653273009512",
-    "slug": "ubisoft-confirms-no-assassins-creed-remakes-in-the-works",
-    "headline": "Ubisoft Confirms No Assassin's Creed Remakes in the Works",
-    "summary": "Ubisoft has confirmed that it does not have any other Assassin's Creed remakes in development, following the success of Assassin's Creed: Black Flag Resynced.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/no-new-assassins-creed-remakes-in-the-works-at-ubisoft"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/19a940563fbeb/large.jpg",
-    "published_at": "2026-10-29T20:00:00.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "assassins-creed-black-flag-resynced",
-    "game_label": "Assassin's Creed: Black Flag Resynced"
-  },
-  {
-    "id": "bffb05c28866",
-    "slug": "football-manager-27-launch-preview-now-available",
-    "headline": "Football Manager 27 Launch Preview Now Available",
-    "summary": "Sports Interactive has released a free preview version of Football Manager 27, allowing players to experience the game before its official launch.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/after-the-rough-start-that-was-last-years-entry-football-manager-27-is-looking-to-bring-you-in-with-a-few-free-days-of-play-before-the-games-even-out"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/football-manager-27_8wRms5l.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-29T19:56:12.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "football-manager-27",
-    "game_label": "Football Manager 27"
   }
 ]
