@@ -26925,5 +26925,33 @@
     ],
     "stores": [],
     "fetched_at": "2026-10-31T15:38:13.966Z"
+  },
+  {
+    "slug": "magic-the-gathering-arena",
+    "name": "Magic: The Gathering Arena",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/0ac/0acd19461e0dec43a60103e7e8346099.jpg",
+    "released": "2018-09-27",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Card",
+      "Strategy",
+      "Board Games"
+    ],
+    "platforms": [
+      "PC",
+      "iOS",
+      "Android",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/6aa/6aa5e27c333bc34e92c600e17939f5b0.jpg",
+      "https://media.rawg.io/media/screenshots/716/71670fdee630fa48a793d5a836cc79af.jpg",
+      "https://media.rawg.io/media/screenshots/c44/c44f9dbc1bc10cc55735fb9116e65b4a.jpg",
+      "https://media.rawg.io/media/screenshots/c0a/c0a630e49cb9f39bd322e72920cd31bd.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-10-31T17:37:09.514Z"
   }
 ]
