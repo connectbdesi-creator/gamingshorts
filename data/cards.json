@@ -1,5 +1,103 @@
 [
   {
+    "id": "a5dbce6fa60f",
+    "slug": "silver-palace-launches-on-december-14",
+    "headline": "Silver Palace Launches on December 14",
+    "summary": "Free-to-play open-world action-adventure RPG Silver Palace is set to launch on PlayStation 5 and PC via client",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/silver-palace-launches-december-14"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/a5dbce6fa60f/800/600",
+    "published_at": "2026-10-31T04:15:39.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "silver-palace",
+    "game_label": "Silver Palace"
+  },
+  {
+    "id": "6358e28faa52",
+    "slug": "5-must-play-new-xbox-games-coming-in-november-including-gta-6",
+    "headline": "5 Must-Play New Xbox Games Coming in November, Including GTA 6",
+    "summary": "Polygon predicts several notable games will release on Xbox Series X in November, including Grand Theft Auto 6.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/new-xbox-games-november-2026/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/grassrivers_06.jpg",
+    "published_at": "2026-10-31T04:00:18.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "6c44809a7538",
+    "slug": "final-fantasy-xiv-onlines-sixth-expansion-evercold-pushed-to-february",
+    "headline": "Final Fantasy XIV Online's Sixth Expansion 'Evercold' Pushed to February 2027",
+    "summary": "Square Enix has announced that the sixth expansion for Final Fantasy XIV Online, Evercold, will launch on February 23, 2027, rather than the previously scheduled January 2027 release. Pre-orders will begin on that date.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/final-fantasy-xiv-onlines-sixth-expansion-evercold-launches-february-2027"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/b8ab9102b2c84/large.jpg",
+    "published_at": "2026-10-31T03:55:00.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-xiv-online-evercold",
+    "game_label": "Final Fantasy XIV Online: Evercold"
+  },
+  {
+    "id": "e84f2a3ebd55",
+    "slug": "rgg-studio-makes-most-of-current-gen-consoles-with-stranger-than-heave",
+    "headline": "RGG Studio Makes Most of Current-Gen Consoles with Stranger Than Heaven",
+    "summary": "RGG Studio is utilizing current-gen consoles more fully with its new game Stranger Than Heaven, skipping last-gen systems",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/by-skipping-last-gen-systems-stranger-than-heaven-is-allowing-rgg-studio-to-fully-leverage-the-power-of-current-gen-consoles-at-long-last"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/16/strangerthumb-1792159745896.png",
+    "published_at": "2026-10-31T03:33:09.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "stranger-than-heaven",
+    "game_label": "Stranger Than Heaven"
+  },
+  {
     "id": "f58ad8a90399",
     "slug": "15-classic-games-that-prove-gameplay-is-more-important-than-graphics",
     "headline": "15 Classic Games That Prove Gameplay Is More Important Than Graphics",
@@ -4502,6 +4600,33 @@
     "game_label": null
   },
   {
+    "id": "93bb78b2ce92",
+    "slug": "corsairs-latest-gaming-mouse-packs-virtual-stream-deck-but-falls-short",
+    "headline": "Corsair's Latest Gaming Mouse Packs Virtual Stream Deck, But Falls Short",
+    "summary": "Corsair's Nightsword V2 Wireless combines virtual Stream Deck controls with a traditional mouse design, but its main buttons feel cramped and lacking in tactility",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/hardware/gaming-mice/corsair-nightsword-v2-wireless-review/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/YuSJR3wVyY5GFRRhU2X6NP-1920-80.jpg",
+    "published_at": "2026-10-30T11:28:42.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "corsair-nightsword-v2-wireless",
+    "game_label": "Corsair Nightsword V2 Wireless"
+  },
+  {
     "id": "4d1fcfa6f189",
     "slug": "bioware-fans-are-now-petitioning-to-save-anthem-not-just-mass-effect",
     "headline": "BioWare Fans Are Now Petitioning To Save Anthem, Not Just Mass Effect",
@@ -4569,6 +4694,30 @@
     "comment_count": 0,
     "game": "call-of-duty-modern-warfare-4",
     "game_label": "Call of Duty: Modern Warfare 4"
+  },
+  {
+    "id": "b28d48a02b12",
+    "slug": "fans-create-permanent-tribute-to-patrick-stewart-in-star-trek-online",
+    "headline": "Fans Create Permanent Tribute to Patrick Stewart in Star Trek Online",
+    "summary": "Players of Star Trek Online have created a permanent tribute to late actor Patrick Stewart in the game, leaving a message in the game's space to remember him.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/mmo/star-trek-online-players-gather-to-remember-patrick-stewart-with-some-hoping-for-a-permanent-tribute-to-captain-picard-from-the-mmos-devs-you-will-be-missed/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/oRJfgHT8fwRTVxExowHsgc-1920-80.jpg",
+    "published_at": "2026-10-30T11:14:44.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "star-trek-online",
+    "game_label": "Star Trek Online"
   },
   {
     "id": "83a3100ad176",
@@ -4662,146 +4811,6 @@
     "image_url": "https://picsum.photos/seed/d8a4750e77f3/800/600",
     "published_at": "2026-10-30T11:00:00.000Z",
     "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ad55924cd95f",
-    "slug": "elder-scrolls-6-fans-disapprove-of-focus-on-scrolls",
-    "headline": "Elder Scrolls 6 Fans Disapprove of Focus on Scrolls",
-    "summary": "Fans of the Elder Scrolls series are concerned that the upcoming game, The Elder Scrolls 6, will focus on the scrolls themselves rather than the game's typical open-world exploration and character-driven story.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/the-elder-scrolls-6-name-reveal-hammerfell-story-details/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/10/new-project-2026-10-30t103731-807.jpg",
-    "published_at": "2026-10-30T10:52:47.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-elder-scrolls-6",
-    "game_label": "The Elder Scrolls 6"
-  },
-  {
-    "id": "ba84c9e4df6f",
-    "slug": "bethesda-to-reveal-the-elder-scrolls-6-next-month",
-    "headline": "Bethesda to Reveal The Elder Scrolls 6 Next Month",
-    "summary": "A new report claims that Bethesda is set to reveal The Elder Scrolls 6 in a month, potentially alongside its subtitle, amidst Microsoft's restructuring efforts.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/elder-scrolls-6-reportedly-revealed-november"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/elder-scrolls-6-guide-possible-location-everything-we-know-5600-1529070927461.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-30T10:52:39.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-elder-scrolls-6",
-    "game_label": "The Elder Scrolls 6"
-  },
-  {
-    "id": "4dfede72443c",
-    "slug": "baldurs-gate-3-custom-campaign-mod-channels-world-of-warcraft-with-an",
-    "headline": "Baldur's Gate 3 custom campaign mod channels World of Warcraft with an adventure about undead former slaves fighting to reclaim a kingdom",
-    "summary": "The opening act of a Baldur's Gate 3 custom campaign mod which injects an adventure set in the World of Warcraft universe into Larian's RPG has been released. The mod, Forsaken, is another ambitious bit of work from a modder who recently expanded the second act of BG3's main story with a new region to explore before you head into…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/baldurs-gate-3-custom-campaign-mod-channels-world-of-warcraft-with-an-adventure-about-undead-former-slaves-fighting-to-reclaim-a-kingdom"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/baldurs-gate-3-custom-campaign-mod-forsaken-act-one-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-30T10:33:55.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "74911e1da9a4",
-    "slug": "zelda-chief-eiji-aonuma-says-some-of-the-younger-members-of-the-ocarin",
-    "headline": "Zelda Chief Eiji Aonuma Says Some of the Younger Members of the Ocarina of Time Remake Team Had Never Played the Original Game — and That's a Good Thing",
-    "summary": "Eiji Aonuma, producer of the Zelda series at Nintendo, has said some of the younger members of his team had never played the original Ocarina of Time, but insisted that was very much a good thing for the development of the remake.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/zelda-chief-eiji-aonuma-says-some-of-the-younger-members-of-the-ocarina-of-time-remake-team-had-never-played-the-original-game-and-thats-a-good-thing"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/30/gettyimages-2301856430-1793355176145.jpg",
-    "published_at": "2026-10-30T10:14:57.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6261dee448bc",
-    "slug": "death-stranding-isolations-anime-tv-series-gets-first-trailer-out-in-2",
-    "headline": "Death Stranding Isolations Anime TV Series Gets First Trailer, Out in 2027",
-    "summary": "My mom became a crater. Revealed almost a year ago, Kojima Productions and Disney+ have today debuted the teaser trailer for Death Stranding Isolations, a new anime TV series set in the universe of the two PS5, PS4 games. Catch the short clip above. Under the tagline \"My mom became a crater\", the TV show takes place just after Sam…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/death-stranding-isolations-anime-tv-series-gets-first-trailer-out-in-2027"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/62f07b9c2ec91/large.jpg",
-    "published_at": "2026-10-30T10:00:00.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "486225b2d19c",
-    "slug": "aaa-publishers-abusing-early-access-are-setting-unrealistic-expectatio",
-    "headline": "AAA publishers ‘abusing’ Early Access are setting unrealistic expectations, say Deadhaus Sonata leads",
-    "summary": "It's just a \"marketing beat\" for them, says Eternal Darkness director Denis Dyack",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/aaa-publishers-abusing-early-access-are-setting-unrealistic-expectations-say-deadhaus-sonata-leads/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/486225b2d19c/800/600",
-    "published_at": "2026-10-30T09:47:26.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
