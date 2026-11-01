@@ -1,5 +1,130 @@
 [
   {
+    "id": "941e6da73cb1",
+    "slug": "attack-on-titan-character-ages-revealed",
+    "headline": "Attack on Titan Character Ages Revealed",
+    "summary": "The Attack on Titan anime has revealed the ages, heights, and birthdays of its main characters, keeping the popular series in the spotlight.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/attack-titan-characters-age-height-birthday/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/attack-on-titan-characters-ages-heights-and-birthdays-levi-eren-and-mikasa.jpg",
+    "published_at": "2026-11-01T01:16:14.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "38cddcb07498",
+    "slug": "10-video-games-with-the-best-twist-endings-nobody-saw-coming",
+    "headline": "10 Video Games With the Best Twist Endings Nobody Saw Coming",
+    "summary": "From Spec Ops: The Line to Link’s Awakening, these 10 video games have the best twist endings, with reveals that recast everything before them.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/best-video-game-twist-endings/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19231262/Link_s_Awakening_Wind_Fish_s_Egg_cover.jpg",
+    "published_at": "2026-11-01T01:00:17.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d1457e85f90d",
+    "slug": "final-fantasy-14s-highly-anticipated-upgrade-delayed-again",
+    "headline": "Final Fantasy 14's Highly Anticipated Upgrade Delayed Again",
+    "summary": "Final Fantasy 14 fans are frustrated as an eagerly-awaited upgrade to one of the game's features has been delayed yet again.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/final-fantasy-14-housing-interior-expansion-delay-evercold/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/angry-lalafell-rage-emote.jpg",
+    "published_at": "2026-11-01T01:00:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-14",
+    "game_label": "Final Fantasy 14"
+  },
+  {
+    "id": "1f80e2424d55",
+    "slug": "persona-1-remake-footage-leaks-online",
+    "headline": "Persona 1 Remake Footage Leaks Online",
+    "summary": "Unannounced footage for a Persona 1 remake has been shared online, sparking speculation about the project's development status.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/persona-1-remake-footage-seemingly-leaks-online"
+      },
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/rumor-persona-remake-footage-appears-online"
+      },
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/rumour-alleged-persona-1-remake-gameplay-leaks-online"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/08/10/persona-1-and-2-remakes-1786397745091.png",
+    "published_at": "2026-11-01T01:00:00.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "persona-1-rebirth",
+    "game_label": "Persona 1: Rebirth"
+  },
+  {
+    "id": "a64d70ddd07a",
+    "slug": "pokemon-tcg-unveils-new-promo-cards-before-release",
+    "headline": "Pokemon TCG Unveils New Promo Cards Before Release",
+    "summary": "The official Pokémon Trading Card Game is showing off new promo cards a year before their release, giving fans a sneak peek at the upcoming additions.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/pokemon-tcg-mcdonalds-promo-2027-early/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/pokemon-tcg-mcdonalds-2027-early-promos.jpg",
+    "published_at": "2026-11-01T00:00:14.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pokemon-tcg",
+    "game_label": "Pokemon TCG"
+  },
+  {
     "id": "eac6e092bc18",
     "slug": "rumour-days-gone-dev-to-announce-and-launch-new-ps5-game-in-2027",
     "headline": "Rumour: Days Gone Dev to Announce and Launch New PS5 Game in 2027",
@@ -21,6 +146,29 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "d93258409104",
+    "slug": "call-of-duty-modern-warfare-4-suffers-from-severe-input-lag-on-nintend",
+    "headline": "Call of Duty: Modern Warfare 4 Suffers from Severe Input Lag on Nintendo Switch 2",
+    "summary": "Call of Duty: Modern Warfare 4 players on Nintendo Switch 2 are experiencing competitive disadvantages due to lag, with some claiming it's worse than on other platforms",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/input-lag-is-so-bad-in-call-of-duty-modern-warfare-4-on-nintendo-switch-2-that-players-suffer-from-a-competitive-disadvantage"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/26/codmw4-1793039849361.jpg",
+    "published_at": "2026-10-31T23:32:09.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "call-of-duty-modern-warfare-4",
+    "game_label": "Call of Duty: Modern Warfare 4"
   },
   {
     "id": "6432aed703b4",
@@ -45,6 +193,34 @@
     "comment_count": 0,
     "game": "phantom-blade-zero",
     "game_label": "Phantom Blade Zero"
+  },
+  {
+    "id": "76565ed8e41b",
+    "slug": "save-mass-effect-graffiti-vandalism-hits-ea-building",
+    "headline": "Save Mass Effect Graffiti Vandalism Hits EA Building",
+    "summary": "A graffiti incident targeting EA has sparked concern after the company announced the closure of BioWare, the developer behind the Mass Effect series.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/save-mass-effect-graffiti-reportedly-spray-painted-outside-ea-building"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/04/04/ss-2358d92931529dba0cadecadca4137860e6304b1-1920x1080-1775300343877.jpg",
+    "published_at": "2026-10-31T23:08:02.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "mass-effect",
+    "game_label": "Mass Effect"
   },
   {
     "id": "fd67653f2a08",
@@ -91,35 +267,6 @@
     "comment_count": 0,
     "game": "the-legend-of-zelda-ocarina-of-time-remake",
     "game_label": "The Legend of Zelda: Ocarina of Time remake"
-  },
-  {
-    "id": "1f80e2424d55",
-    "slug": "persona-1-remake-footage-leaks-online",
-    "headline": "Persona 1 Remake Footage Leaks Online",
-    "summary": "Unannounced footage for a Persona 1 remake has been shared online, sparking speculation about the project's development status.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/persona-1-remake-footage-seemingly-leaks-online"
-      },
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/rumor-persona-remake-footage-appears-online"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/08/10/persona-1-and-2-remakes-1786397745091.png",
-    "published_at": "2026-10-31T22:35:02.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "persona-1-rebirth",
-    "game_label": "Persona 1: Rebirth"
   },
   {
     "id": "b80e2e954032",
@@ -4601,157 +4748,5 @@
     "comment_count": 0,
     "game": "crimson-desert",
     "game_label": "Crimson Desert"
-  },
-  {
-    "id": "b79ff6a5396a",
-    "slug": "best-beginner-tips-for-phantom-blade-zero",
-    "headline": "Best Beginner Tips for Phantom Blade Zero",
-    "summary": "New player struggling with Phantom Blade Zero? This article offers helpful tips to improve skills and conquer the game.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/phantom-blade-zero-beginner-tips-tricks-guide/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/10/phantom-blade-zero-soul-laying-on-the-ground.jpg",
-    "published_at": "2026-10-30T16:48:25.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "phantom-blade-zero",
-    "game_label": "Phantom Blade Zero"
-  },
-  {
-    "id": "0ebc18bf3d16",
-    "slug": "ea-shelves-mysterious-sims-project-possibly-a-blessing-for-players",
-    "headline": "EA Shelves Mysterious Sims Project, Possibly a Blessing for Players",
-    "summary": "EA cancelled a mysterious Sims project, potentially a blessing for players who have been frustrated with the series' recent changes.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/ea-just-shelved-a-mysterious-sims-project-that-could-be-good-news-for-players/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/GrimReaper.png?w=300",
-    "published_at": "2026-10-30T16:46:06.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "sims",
-    "game_label": "Sims"
-  },
-  {
-    "id": "91c1cda5aad4",
-    "slug": "village-of-lu-treasure-location-guide-for-phantom-blade-zero",
-    "headline": "Village Of Lu Treasure Location Guide For Phantom Blade Zero",
-    "summary": "A guide for players looking to find treasure in Phantom Blade Zero, with locations and tips.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/phantom-blade-zero-quick-hand-zhangs-treasures-village-of-lu/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/10/phantom-blade-zero-village-of-lu-quick-hand-zhang-hideout.jpg",
-    "published_at": "2026-10-30T16:45:44.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "phantom-blade-zero",
-    "game_label": "Phantom Blade Zero"
-  },
-  {
-    "id": "682f3b6ca90d",
-    "slug": "nintendo-showcases-every-switch-1-2-indie-world-game-in-new-infographi",
-    "headline": "Nintendo Showcases Every Switch 1 & 2 Indie World Game In New Infographic",
-    "summary": "Do any take your fancy? It has been a couple of days since the Indie World Showcase, so, just like clockwork, Nintendo is on hand with its handy infographic, featuring every title in the presentation. While it might not have been wall-to-wall bangers, a quick glance at the pic showcases that there was a lot of good stuff on display…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/10/nintendo-showcases-every-switch-1-and-2-indie-world-game-in-new-infographic"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/609b1ed657f9c/large.jpg",
-    "published_at": "2026-10-30T16:45:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0f5aaebb0dea",
-    "slug": "ea-reportedly-canned-bioware-and-mass-effect-5-for-new-star-wars-battl",
-    "headline": "EA Reportedly Canned BioWare and Mass Effect 5 for New Star Wars: Battlefront",
-    "summary": "EA allegedly scrapped BioWare and Mass Effect 5 to develop a new Star Wars: Battlefront game, according to reports.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/mass-effect/ea-reportedly-canned-bioware-and-mass-effect-5-to-make-a-new-star-wars-battlefront-instead/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/T38rFJEmczQW8vbnLGC69a-1920-80.jpg",
-    "published_at": "2026-10-30T16:43:23.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "star-wars-battlefront",
-    "game_label": "Star Wars: Battlefront"
-  },
-  {
-    "id": "7d930691386d",
-    "slug": "call-of-duty-modern-warfare-2-port-leak-suggests-classic-shooter-may-r",
-    "headline": "Call of Duty: Modern Warfare 2 Port Leak Suggests Classic Shooter May Return",
-    "summary": "The Australian Classification Board has revealed a potentially leaked port of the original 2009 Call of Duty: Modern Warfare 2, sparking speculation about a potential remake or re-release.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-2-rating-potentially-leaks-port-for-original-2009-fps"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/07/19/call-of-duty-ambience-lobbies-1784502331743.png",
-    "published_at": "2026-10-30T16:42:45.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "call-of-duty-modern-warfare-2",
-    "game_label": "Call of Duty: Modern Warfare 2"
   }
 ]
