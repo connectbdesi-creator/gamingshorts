@@ -1,5 +1,28 @@
 [
   {
+    "id": "e0079d1d25ba",
+    "slug": "playstation-fans-arent-happy-with-prism-collection-colors",
+    "headline": "PlayStation Fans Aren't Happy With Prism Collection Colors",
+    "summary": "Some PlayStation fans are criticizing the color choices for Sony's new Prism Collection, although the company insists they are very much deliberate.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/ps5-prism-collection-colors-bad/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/playstation-5-dualsense-prism-collection-ps5-controller-red-on-dark-smoky-background.jpg",
+    "published_at": "2026-11-01T22:30:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "384dba5ec03c",
     "slug": "new-animal-crossing-like-game-coming-to-nintendo-switch-2",
     "headline": "New Animal Crossing-Like Game Coming to Nintendo Switch 2",
@@ -4682,30 +4705,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "7e459bb27eaf",
-    "slug": "magic-the-gathering-designers-discuss-reality-fractures-jace-arc",
-    "headline": "Magic: The Gathering Designers Discuss Reality Fracture's Jace Arc",
-    "summary": "IGN interviews Yoni Skolnik and Meris Mullaley about Reality Fracture's Jace storyline, Echoed Pairs pack changes, and the future of Secret Lair bundles.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "mobile",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/magic-the-gathering-designers-on-making-jace-relevant-for-reality-fracture-favorite-cards-and-that-secret-lair-bundle"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/05/05/header-1778019833054.jpg",
-    "published_at": "2026-10-30T23:30:00.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "magic-the-gathering-reality-fracture",
-    "game_label": "Magic: The Gathering Reality Fracture"
   }
 ]
