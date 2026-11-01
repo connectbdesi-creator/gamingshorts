@@ -27082,5 +27082,31 @@
     ],
     "stores": [],
     "fetched_at": "2026-11-01T17:37:36.915Z"
+  },
+  {
+    "slug": "persona-1",
+    "name": "Revelations: Persona",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/dad/dadf2e08de92d8351634baf51424188a.jpg",
+    "released": "1996-09-20",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "PSP"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/47c/47c432bf64dbc084d842660c3409f4bc.jpg",
+      "https://media.rawg.io/media/screenshots/104/1049907d0c53802161055d52a1bb1699.jpg",
+      "https://media.rawg.io/media/screenshots/324/32419328b125e6ec934aa440aedd829e.jpg",
+      "https://media.rawg.io/media/screenshots/0b1/0b151760675ff67297b36596eb4b8357.jpg",
+      "https://media.rawg.io/media/screenshots/957/957ba870e8ce492122c37deefd441123.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-01T18:06:54.690Z"
   }
 ]

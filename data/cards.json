@@ -1,5 +1,167 @@
 [
   {
+    "id": "1d4815fac0d6",
+    "slug": "fable-ditches-iconic-feature",
+    "headline": "Fable Ditches Iconic Feature",
+    "summary": "Fable is rebooting as a single-player game, losing a key element that made the original series successful.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/fable-reboot-no-co-op/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/assets_2026_08_1787724859_fable_gamescom2026_officialquestgameplay_screenshot_bowerstone_4k_nologo.png",
+    "published_at": "2026-11-01T18:00:02.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fable",
+    "game_label": "Fable"
+  },
+  {
+    "id": "68fbb8569dce",
+    "slug": "should-you-kill-john-verdun-or-take-his-coin-in-the-witcher-3",
+    "headline": "Should You Kill John Verdun Or Take His Coin In The Witcher 3",
+    "summary": "TheGamer explores the morality of sparing John Verdun in The Witcher 3, considering the consequences of his actions and the player's decision.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/the-witcher-3-at-the-mercy-of-strangers-side-quest-walkthrough/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/11/john-verdun-in-the-witcher-3.jpg",
+    "published_at": "2026-11-01T17:45:18.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
+    "id": "ae894a59fce7",
+    "slug": "gog-wants-to-bring-back-physical-games-but-its-a-very-very-complicated",
+    "headline": " GOG wants to bring back physical games, but it's 'a very, very complicated thing' ",
+    "summary": "\"You click on the game that you would like to receive a physical copy of, you order it, and it gets to you. That would be a perfect scenario.\"",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/gog-wants-to-bring-back-physical-games-but-its-a-very-very-complicated-thing/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/pbMYsNHxiFa2RoRirv3edd-1920-80.jpg",
+    "published_at": "2026-11-01T17:45:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e75cb13b6124",
+    "slug": "valves-lost-portal-prequel-f-stop-emerges-after-20-years",
+    "headline": "Valve's Lost Portal Prequel F-Stop Emerges After 20 Years",
+    "summary": "A long-lost Valve game prototype, F-Stop, has surfaced online after nearly two decades, shedding light on the developer's post-Orange Box creative process.",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/fps/valves-long-lost-prototype-portal-prequel-appears-online-after-nearly-20-years/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/nCJfziz7aTjfkS37SmwqTc-1920-80.jpg",
+    "published_at": "2026-11-01T17:44:47.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "portal",
+    "game_label": "Portal"
+  },
+  {
+    "id": "e06e0acd8863",
+    "slug": "petit-planet-coming-to-switch-2-in-2027",
+    "headline": "Petit Planet coming to Switch 2 in 2027",
+    "summary": "miHoYo will release a Switch 2 version of free-to-play cosmic life simulation game Petit Planet …",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/petit-planet-coming-to-switch-2-in-2027"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/petit-planet-switch-2-release-date"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/e06e0acd8863/800/600",
+    "published_at": "2026-11-01T17:38:30.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "638245ccca9a",
+    "slug": "fortnite-exmarks-sprite-variants-effects-locations-revealed",
+    "headline": "Fortnite Exmarks Sprite Variants, Effects, & Locations Revealed",
+    "summary": "Fortnite's Exmarks item has been detailed, with its locations, effects, and variants now revealed, aiming to increase players' chances of acquiring it.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/fortnite-exmarks-sprite-effects-variants-location/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/fortnite-plundarrgh-sprite-location-variants/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/fortnite-halfpeeld-sprite-location-effects-variants/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/fortnite-lil-squibbly-sprite-effects-variants-location/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/fortnite-how-to-get-the-exmarks-sprite-what-it-does.jpg",
+    "published_at": "2026-11-01T17:34:48.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fortnite",
+    "game_label": "Fortnite"
+  },
+  {
     "id": "815d8d6f7e47",
     "slug": "2026s-most-underrated-games-you-need-to-play",
     "headline": "2026's Most Underrated Games You Need to Play",
@@ -78,33 +240,6 @@
     "game_label": null
   },
   {
-    "id": "638245ccca9a",
-    "slug": "fortnite-exmarks-sprite-variants-effects-locations-revealed",
-    "headline": "Fortnite Exmarks Sprite Variants, Effects, & Locations Revealed",
-    "summary": "Fortnite's Exmarks item has been detailed, with its locations, effects, and variants now revealed, aiming to increase players' chances of acquiring it.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/fortnite-exmarks-sprite-effects-variants-location/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/fortnite-how-to-get-the-exmarks-sprite-what-it-does.jpg",
-    "published_at": "2026-11-01T17:19:41.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "fortnite",
-    "game_label": "Fortnite"
-  },
-  {
     "id": "636ee6a29dbf",
     "slug": "it-looks-like-footage-of-a-persona-1-remake-has-leaked-and-if-its-legi",
     "headline": "It looks like footage of a Persona 1 remake has leaked, and if it's legit I really hope you don't hate the colour purple",
@@ -140,6 +275,27 @@
     ],
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/best-local-coop-games-split-fiction.jpg",
     "published_at": "2026-11-01T17:13:08.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "408fcf3723fc",
+    "slug": "official-pokemon-firered-and-leafgreen-update-is-bad-news-for-players",
+    "headline": "Official Pokemon FireRed and LeafGreen Update is Bad News For Players",
+    "summary": "Pokemon FireRed and LeafGreen's latest update is actually bad news for those hoping to beat the game.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/pokemon-firered-leafgreen-free-celebi-national-dex-bad/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/image-69.jpg",
+    "published_at": "2026-11-01T17:00:15.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -529,6 +685,33 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "d6290e07c110",
+    "slug": "persona-1-remake-leak-supported-by-30th-anniversary-reveal",
+    "headline": "Persona 1 Remake Leak Supported By 30th Anniversary Reveal",
+    "summary": "A 30th-anniversary celebration for Persona 1 may be more than just a fan service, with rumors of a remake already in the works",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/persona-1-remake-backed-up-by-30th-anniversary-collab-art/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/persona130thanniversaryart.jpg",
+    "published_at": "2026-11-01T15:33:34.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "persona-1",
+    "game_label": "Persona 1"
   },
   {
     "id": "34a564ff486a",
@@ -924,29 +1107,6 @@
     "comment_count": 0,
     "game": "dungeons-dragons",
     "game_label": "Dungeons & Dragons"
-  },
-  {
-    "id": "e06e0acd8863",
-    "slug": "petit-planet-coming-to-switch-2-in-2027",
-    "headline": "Petit Planet coming to Switch 2 in 2027",
-    "summary": "miHoYo will release a Switch 2 version of free-to-play cosmic life simulation game Petit Planet …",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/petit-planet-coming-to-switch-2-in-2027"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/e06e0acd8863/800/600",
-    "published_at": "2026-11-01T12:00:44.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   },
   {
     "id": "736b402eaf47",
@@ -4591,152 +4751,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "41ee4b93252e",
-    "slug": "anthropic-nerfs-claude-again-to-stop-users-from-making-ai-slop-out-of",
-    "headline": "Anthropic Nerfs Claude Again To Stop Users From Making AI Slop Out Of Any ‘Specific Existing Game’",
-    "summary": "Anthropic's new Claude guardrail is stopping users from recreating a game 'even if it is renamed or called original'",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/anthropic-nerfs-claude-again-to-stop-users-from-making-ai-slop-out-of-any-specific-existing-game-2000751665"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/02/anthropic-1280x720.jpg",
-    "published_at": "2026-10-30T20:30:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c26414bd33fc",
-    "slug": "save-20-off-minecraft-dungeons-2-for-nintendo-switch-2-ahead-of-black",
-    "headline": "Save 20% Off Minecraft Dungeons 2 for Nintendo Switch 2 Ahead of Black Friday",
-    "summary": "IGN is offering a discount on Minecraft Dungeons 2 for Nintendo Switch 2, making it a great gift option for kids this holiday season.",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/minecraft-dungeons-2-deal-october-2026"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/30/minecraftdungeons2-1793390585254.jpg",
-    "published_at": "2026-10-30T20:30:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "minecraft-dungeons-2",
-    "game_label": "Minecraft Dungeons 2"
-  },
-  {
-    "id": "9a187f45298a",
-    "slug": "soulframe-to-undergo-major-update-as-warframe-developers-prepare-for-l",
-    "headline": "Soulframe to Undergo Major Update as Warframe Developers Prepare for Launch",
-    "summary": "Upcoming update aims to simplify gameplay for new players, while also being one of the game's most violent updates yet.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/rpg/soulframe-opens-up-for-everyone-today-as-the-warframe-devs-prepare-the-fantasy-action-rpg-for-one-of-its-biggest-most-violent-updates-ever-next-month/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/cCLC8fwuuCnZmwqbMGTsea-1920-80.jpg",
-    "published_at": "2026-10-30T20:30:00.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "soulframe",
-    "game_label": "Soulframe"
-  },
-  {
-    "id": "160d89710cb5",
-    "slug": "warframes-fantasy-pilled-sister-soulframe-finally-goes-open-to-all-thi",
-    "headline": "Warframe's fantasy-pilled sister Soulframe finally goes open to all this November, though Digital Extremes are \"nervous\" about certain changes",
-    "summary": "Warframe creators Digital Extremes have announced that their free-to-play fantasy RPG Soulframe will be available for everyone to download on 6th November, after two years in closed alpha. Finally, you serfs without \"prelude\" keys will be able to fire up Soulframe.com and make sense of my ranting about the sleeping animals on the lobby screen. The new \"open prelude\" will…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/warframes-fantasy-pilled-sister-soulframe-finally-goes-open-to-all-this-november-though-digital-extremes-are-nervous-about-certain-changes"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/SF_OpenPreludes4K(1).png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-10-30T20:30:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "38197929a2cc",
-    "slug": "vrchat-devs-spark-outrage-after-ai-label-snub",
-    "headline": "VRChat Devs Spark Outrage After AI Label Snub",
-    "summary": "VRChat developers ignored 95% of user requests for AI label inclusion, sparking backlash among users.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/vrchat-devs-spark-outrage-after-refusing-to-include-ai-label-despite-95-of-fans-asking-for-it"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/30/vrchat-devs-spark-outrage-over-ai-label-1793390533984.jpg",
-    "published_at": "2026-10-30T20:11:52.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "vrchat",
-    "game_label": "VRChat"
-  },
-  {
-    "id": "bf84b4acc01f",
-    "slug": "crimson-desert-expands-with-new-charting-the-unknown-dlc",
-    "headline": "Crimson Desert Expands with New Charting the Unknown DLC",
-    "summary": "The new Charting the Unknown DLC for Crimson Desert has increased the game's massive open world, making it a significantly larger experience for players.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/the-scale-of-crimson-desert-just-got-even-more-absurd-after-new-ps5-dlc"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/crimson-desert-charting-the-unknown-review"
-      },
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/rpg/crimson-desert-dlc-start-charting-the-unknown/"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/c41636458cee0/large.jpg",
-    "published_at": "2026-10-30T20:08:11.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "crimson-desert",
-    "game_label": "Crimson Desert"
   }
 ]
