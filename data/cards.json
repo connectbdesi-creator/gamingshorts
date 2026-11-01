@@ -1,5 +1,79 @@
 [
   {
+    "id": "581fb9328136",
+    "slug": "new-pokemon-release-takes-fans-back-to-alola",
+    "headline": "New Pokémon Release Takes Fans Back to Alola",
+    "summary": "A new Pokémon game is set in the Alola region, the last time Pokémon was seen in this area was Gen 7",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/pokemon-ultra-eclipse-alola-demake/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/pokemon-ultra-eclipse-alola-demake.jpg",
+    "published_at": "2026-11-01T19:01:15.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pokemon",
+    "game_label": "Pokémon"
+  },
+  {
+    "id": "51d1c26dcaf7",
+    "slug": "fortnite-chapter-7-mini-season-brings-map-and-loot-changes",
+    "headline": "Fortnite Chapter 7 Mini Season Brings Map and Loot Changes",
+    "summary": "Fortnite's latest mini season overhauls the map with significant changes, including new locations and loot pool adjustments.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/fortnite-chapter-7-mini-season-map-weapons-loot-pool-poi/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/fortnite-treasure-hunters-key-art_en.jpg",
+    "published_at": "2026-11-01T18:55:45.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fortnite",
+    "game_label": "Fortnite"
+  },
+  {
+    "id": "e7921940da59",
+    "slug": "runescape-spinoff-announced-with-idle-game-partnership",
+    "headline": "RuneScape Spinoff Announced with Idle Game Partnership",
+    "summary": "Game developer Jagex has partnered with Melvor Idle to create an official spinoff of RuneScape, titled A RuneScape Adventure",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rpg/jagex-partnered-with-a-runescape-inspired-idle-game-to-turn-the-sequel-into-an-official-spinoff/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/zwesSkcLZ5MbbfzKLKK7xP-1920-80.jpg",
+    "published_at": "2026-11-01T18:41:29.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "a-runescape-adventure",
+    "game_label": "A RuneScape Adventure"
+  },
+  {
     "id": "1cba1b1e310e",
     "slug": "the-elder-scrolls-valenwood-officially-announced",
     "headline": "The Elder Scrolls: Valenwood Officially Announced",
@@ -4671,83 +4745,5 @@
     "comment_count": 0,
     "game": "big-walks-game",
     "game_label": "Big Walk's game"
-  },
-  {
-    "id": "538224562d4e",
-    "slug": "why-is-pc-gaming-outpacing-consoles-pc-players-have-a-bit-more-choice",
-    "headline": " Why is PC gaming outpacing consoles? \"PC players have a bit more choice,\" analyst says ",
-    "summary": "\"Slower growth for console compared to PC and mobile,\" analyst predicts",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/why-is-pc-gaming-outpacing-consoles-pc-players-have-a-bit-more-choice-analyst-says-and-pc-has-really-strong-momentum-as-playstation-and-xbox-struggle/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/PzhhLQXTym9Dw6BLfF3oHL-1920-80.jpg",
-    "published_at": "2026-10-30T21:18:51.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ddb4777379ff",
-    "slug": "last-gen-open-world-games-that-still-feel-next-gen",
-    "headline": "Last-Gen Open-World Games That Still Feel Next-Gen",
-    "summary": "Several last-gen open-world games boast impressive mechanics and world design that rival newer releases",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/last-gen-open-world-games-still-feel-next-gen/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/gamerant-2026-10-29t141536-628.jpg",
-    "published_at": "2026-10-30T21:15:14.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9613fbe8b431",
-    "slug": "the-worst-gta-game-is-one-rockstar-could-never-make-today",
-    "headline": "The Worst GTA Game Is One Rockstar Could Never Make Today",
-    "summary": "Polygon argues that GTA Advance, despite being a poor game, laid the groundwork for the GTA series' success",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-advance-worst-grand-theft-auto-game/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gta-advance.jpg",
-    "published_at": "2026-10-30T21:01:18.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gta-advance",
-    "game_label": "GTA Advance"
   }
 ]
