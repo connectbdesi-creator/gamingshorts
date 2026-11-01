@@ -1,5 +1,78 @@
 [
   {
+    "id": "5f908198238a",
+    "slug": "lego-2027-sets-officially-revealed",
+    "headline": "LEGO 2027 Sets Officially Revealed",
+    "summary": "LEGO has announced three new, fully original sets that will be released in January 2027, joining a growing list of confirmed 2027 products.",
+    "category": "deals",
+    "platform_tags": [
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/lego-friends-2027-sets-revealed/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/lego-2027-logo-over-official-42719-heartlake-city-shopping-mall-lego-friends-set-lifestyle-image-composite.jpg",
+    "published_at": "2026-11-01T23:01:14.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "32f61c1d7b5d",
+    "slug": "fortnite-pirate-shop-unlocks-free-item-shop-for-two-weeks",
+    "headline": "Fortnite Pirate Shop Unlocks Free Item Shop for Two Weeks",
+    "summary": "Fortnite's Pirate Shop event has made the Item Shop free for two weeks, giving squads a shared reward. The event is part of a pirate-themed season with One Piece crossover content.",
+    "category": "esports",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/fortnites-pirate-shop-unlocks-the-entire-item-shop-for-free"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/ce57d15a7af15/large.jpg",
+    "published_at": "2026-11-01T23:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fortnite",
+    "game_label": "Fortnite"
+  },
+  {
+    "id": "e51431a9359a",
+    "slug": "gag-order-is-a-co-op-scp-ish-horror-shooter-about-surviving-as-best-yo",
+    "headline": "Gag Order is a co-op, SCP-ish horror shooter about surviving as best you can against some nasty, tentacle covered cephalopod creatures",
+    "summary": "What makes Carrion interesting obviously lies in playing as the monster in a horror game rather than being the one chased down by it. The game's nasty tentacle monster still gives me the heebie jeebies, so I really would hate to be hunted by one. This is where I point you towards Gag Order, a shooter where you are in…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/gag-order-is-a-co-op-scp-ish-horror-shooter-about-surviving-as-best-you-can-against-some-nasty-tentacle-covered-cephalopod-creatures"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/gag-order.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-01T22:56:41.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "e0079d1d25ba",
     "slug": "playstation-fans-arent-happy-with-prism-collection-colors",
     "headline": "PlayStation Fans Aren't Happy With Prism Collection Colors",
@@ -186,6 +259,27 @@
     "game_label": "Star Wars Jedi: Survivor"
   },
   {
+    "id": "b403a0671157",
+    "slug": "anthropic-may-be-cracking-down-on-use-of-claude-to-remake-popular-game",
+    "headline": "Anthropic may be cracking down on use of Claude to remake popular games",
+    "summary": "Anthropic is reportedly taking action to stop the use of its Claude AI tools to remake popular or upcoming games, according to a story...\nThe post Anthropic may be cracking down on use of Claude to remake popular games appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/anthropic-may-be-cracking-down-on-use-of-claude-to-remake-popular-games/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/b403a0671157/800/600",
+    "published_at": "2026-11-01T20:50:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "152d1aaf659c",
     "slug": "fallout-76-hits-massive-new-milestone",
     "headline": "Fallout 76 Hits Massive New Milestone",
@@ -224,6 +318,27 @@
     ],
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/outlast-hunted.jpg",
     "published_at": "2026-11-01T20:22:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ebe3ad58222e",
+    "slug": "saudi-arabias-aramco-buy-49-stake-in-ai-firm-humain-for-26b",
+    "headline": "Saudi Arabia’s Aramco buy 49% stake in AI firm Humain for $2.6B",
+    "summary": "Saudi Arabia-based oil and energy firm Aramco has acquired a 49% stake in AI firm Humain for $2.6 billion today. The Saudi Arabia Public...\nThe post Saudi Arabia’s Aramco buy 49% stake in AI firm Humain for $2.6B appeared first on GamesBeat.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/saudi-arabias-aramco-buy-49-stake-in-ai-firm-humain-for-2-6b/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/ebe3ad58222e/800/600",
+    "published_at": "2026-11-01T20:18:00.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -4596,114 +4711,5 @@
     "comment_count": 0,
     "game": "chronicles",
     "game_label": "Chronicles"
-  },
-  {
-    "id": "c0c64e9306e2",
-    "slug": "the-6-best-books-set-in-video-games-ranked",
-    "headline": "The 6 Best Books Set In Video Games, Ranked",
-    "summary": "Video games have inspired some great books, and these titles are the best options for gamers who crave a different side of gaming.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/best-books-set-in-games-ranked/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/bazaart_2026-10-29_112338.jpeg",
-    "published_at": "2026-10-31T00:37:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "425230640829",
-    "slug": "crimson-desert-players-share-money-making-tips-after-the-new-dlc-added",
-    "headline": " Crimson Desert players share money making tips after the new DLC added a ridiculously expensive ship ",
-    "summary": "\"I'm not sailing any time soon\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/open-world/crimson-desert-players-are-sharing-their-best-money-making-grinds-after-the-new-dlc-added-a-ship-that-costs-more-than-kliffs-soul/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/E9Fdym8GtKsX2nq4spUnqg-1920-80.jpg",
-    "published_at": "2026-10-31T00:27:47.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b81604397005",
-    "slug": "terrible-lizards-features-matpat-in-fnaf-style-dinosaur-horror-game",
-    "headline": "Terrible Lizards Features Matpat In FNAF Style Dinosaur Horror Game",
-    "summary": "Horror fans are in for a treat with this new dinosaur-themed adventure, starring none other than Game Theory's MatPat himself.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/terrible-lizards-indie-game-featuring-matpat-release/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/ss_b13eabd4dc8484f14a0c1f3bd38b6e3171ce46c2-1920x1080.jpg",
-    "published_at": "2026-10-31T00:10:40.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9214a1643dcb",
-    "slug": "xboxs-doom-wolfenstein-developers-working-more-closely-than-ever-follo",
-    "headline": "Xbox's Doom, Wolfenstein Developers Working 'More Closely Than Ever' Following Xbox 'Reset' Layoffs",
-    "summary": "Bethesda and Xbox development studio id Software, maker of the Doom franchise, has deepened its partnership with fellow Bethesda and Xbox studio MachineGames, makers of the most recent Wolfenstein games as well as 2024's Indiana Jones and the Great Circle.",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/xboxs-doom-wolfenstein-developers-working-more-closely-than-ever-following-xbox-reset-layoffs"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/31/doom-1793406375983.jpg",
-    "published_at": "2026-10-31T00:01:34.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b50f38fc439c",
-    "slug": "video-11-exciting-new-games-coming-to-switch-1-2-in-november-2026",
-    "headline": "Video: 11 Exciting New Games Coming To Switch 1 & 2 In November 2026",
-    "summary": "Zelda, Stellar Blade and much more! November is almost here, and that means it's time to revisit The Legend of Zelda: Ocarina of Time. Of course, there are plenty of other games still coming to the Switch 1 & 2 this month. We start off with Stellar Blade on the same date, and later on in the month, Pikmin 4's…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/10/video-11-exciting-new-games-coming-to-switch-1-and-2-in-november-2026"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/48c0276e759ed/large.jpg",
-    "published_at": "2026-10-31T00:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
