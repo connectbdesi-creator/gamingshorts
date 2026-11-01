@@ -1,5 +1,28 @@
 [
   {
+    "id": "a46cef743bf5",
+    "slug": "mega-man-dual-overrides-latest-robot-master-revealed",
+    "headline": "Mega Man: Dual Override's Latest Robot Master Revealed",
+    "summary": "Capcom has announced Cook Man, the latest Robot Master for Mega Man: Dual Override, set to launch on the Switch in 2027",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/capcom-officially-reveals-fourth-mega-man-dual-override-robot-master"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/fa666ebd7149e/large.jpg",
+    "published_at": "2026-11-01T08:00:00.000Z",
+    "hype_signal": 75,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "mega-man-dual-override",
+    "game_label": "Mega Man: Dual Override"
+  },
+  {
     "id": "d8fb6b9bb272",
     "slug": "watch-nintendo-treehouse-play-pikmin-4-nintendo-switch-2-edition-dando",
     "headline": "Watch: Nintendo Treehouse Play Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy",
@@ -4716,28 +4739,5 @@
     "comment_count": 0,
     "game": "petit-planet",
     "game_label": "Petit Planet"
-  },
-  {
-    "id": "bb74d2e5ce4b",
-    "slug": "call-of-duty-black-ops-3-modders-are-launching-free-buried-remake-next",
-    "headline": "Call Of Duty: Black Ops 3 Modders Are Launching Free Buried Remake Next Month",
-    "summary": "One of Black Ops 2's best maps is getting a fan-made remake in November, launching for free on the Steam Workshop.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/call-of-duty-black-ops-3-buried-remake-steam-workshop/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/zombies-crowding-a-mineshaft-in-the-fan-made-black-ops-3-buried-remake.jpg",
-    "published_at": "2026-10-30T17:02:30.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
