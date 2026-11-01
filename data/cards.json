@@ -1,5 +1,47 @@
 [
   {
+    "id": "b67871e68efc",
+    "slug": "jon-bernthals-action-series-is-a-masterpiece-from-start-to-finish",
+    "headline": "Jon Bernthal's Action Series Is a Masterpiece From Start to Finish",
+    "summary": "Polygon praises Jon Bernthal's action series, calling it a masterpiece from start to finish after 9 years. The article likely discusses the series, possibly including its latest installment or a review of the entire franchise.",
+    "category": "reviews",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/jon-bernthal-punisher-action-masterpiece-marvel-disney-plus/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/jon-bernthal-punisher-born-again.jpg",
+    "published_at": "2026-11-01T05:30:17.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d14d70c3c124",
+    "slug": "all-8-dungeon-crawler-carl-books-ranked-by-their-goodreads-score",
+    "headline": "All 8 Dungeon Crawler Carl Books Ranked (by Their Goodreads Score)",
+    "summary": "Matt Dinniman's hit LitRPG series keeps raising the stakes, but which Dungeon Crawler Carl book ranks highest?",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/every-dungeon-crawler-carl-book-ranked-by-their-goodreads-score/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dungeon-crawler-carl.jpg",
+    "published_at": "2026-11-01T04:00:17.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "cfda39473618",
     "slug": "indie-horror-games-that-officially-changed-the-genre-forever",
     "headline": "Indie Horror Games That Officially Changed the Genre Forever",
@@ -4695,51 +4737,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "6359a8c14283",
-    "slug": "curse-of-resthaven-tips-and-tricks-to-unravel-the-islands-secrets",
-    "headline": "Curse of Resthaven: Tips and Tricks to Unravel the Island’s Secrets",
-    "summary": "Hi there! I’m Scott Christian, the studio director of Hilltop Studios here in Toronto, and the game director of Curse of Resthaven. We make games with a particular emphasis on strong characters, intricate storytelling, unique mechanics, and the occasional musical interlude. Before making games, I spent fifteen years working as a composer and conductor here […] The post Curse of…",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/10/30/curse-of-resthaven-tips-and-tricks-xbox/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/6359a8c14283/800/600",
-    "published_at": "2026-10-30T17:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1d45d5683e31",
-    "slug": "queens-domain-a-retro-inspired-ps5-rpg",
-    "headline": "Queen's Domain: A Retro-Inspired PS5 RPG",
-    "summary": "Indie game Queen's Domain releases today on PS5, blending retro visuals with fantasy RPG elements, inspired by classic FromSoftware titles like King's Field. Available for $20.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/inspired-by-classic-fromsoftware-queens-domain-looks-a-fascinating-ps5-adventure"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/40419e57838e3/large.jpg",
-    "published_at": "2026-10-30T17:00:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "queens-domain",
-    "game_label": "Queen's Domain"
   }
 ]
