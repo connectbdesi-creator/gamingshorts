@@ -1,5 +1,29 @@
 [
   {
+    "id": "7fd3d639b1b9",
+    "slug": "dark-souls-2-and-3-have-suddenly-lost-major-features",
+    "headline": "Dark Souls 2 and 3 Have Suddenly Lost Major Features",
+    "summary": "FromSoftware has not explained the reason behind the sudden removal of major features from Dark Souls 2 and 3, leaving players uncertain about when they will be restored.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/dark-souls-2-3-online-servers-down-features-disabled/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/dark-souls-3-2.jpg",
+    "published_at": "2026-11-01T23:03:44.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dark-souls-2",
+    "game_label": "Dark Souls 2"
+  },
+  {
     "id": "5f908198238a",
     "slug": "lego-2027-sets-officially-revealed",
     "headline": "LEGO 2027 Sets Officially Revealed",
@@ -4684,32 +4708,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "ced22b5b5a2d",
-    "slug": "raw-power-games-warns-of-closure-amid-lack-of-funding",
-    "headline": "Raw Power Games Warns of Closure Amid Lack of Funding",
-    "summary": "Medieval open-world game developer Raw Power Games is struggling to secure funding, putting the studio's future and the game's launch in jeopardy.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/chronicles-medieval-developer-at-real-risk-of-closing-before-release-as-funding-no-longer-in-place"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/31/chronicles-1793407292181.jpg",
-    "published_at": "2026-10-31T00:40:27.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "chronicles",
-    "game_label": "Chronicles"
   }
 ]
