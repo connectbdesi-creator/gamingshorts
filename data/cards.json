@@ -1,5 +1,151 @@
 [
   {
+    "id": "55debe5324e4",
+    "slug": "anthropic-restricts-ai-game-creation",
+    "headline": "Anthropic Restricts AI Game Creation",
+    "summary": "AI software developer Anthropic has limited the capabilities of its Claude AI tool, preventing the creation of exact game clones.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/anthropic-claude-generative-ai-game-clones-update"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Stellar-Blade_robotic-old-man.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-02T14:29:41.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "claude",
+    "game_label": "Claude"
+  },
+  {
+    "id": "c9fd399fd4e8",
+    "slug": "ocarina-of-time-could-inspire-the-next-wave-of-zelda-games",
+    "headline": "Ocarina Of Time Could Inspire The Next Wave Of Zelda Games",
+    "summary": "We may get new, traditional Zelda games after all.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/the-next-zelda-game-could-be-more-like-ocarina-of-time/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/1920x1080-2026-11-02t142435-640.png",
+    "published_at": "2026-11-02T14:25:53.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d0835b016fe6",
+    "slug": "gears-of-war-e-day-reportedly-spent-500-million-on-production",
+    "headline": "Gears of War: E-Day Reportedly Spent $500 Million on Production",
+    "summary": "A report suggests that Gears of War: E-Day had a production budget of $500 million, spanning multiple years, and may not be the full story.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gears-of-war-e-day-apparent-500-million-budget-may-not-tell-the-full-story-report/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Gears-E-Day.jpg?w=300",
+    "published_at": "2026-11-02T14:21:24.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gears-of-war-e-day",
+    "game_label": "Gears of War: E-Day"
+  },
+  {
+    "id": "61a68ee4fafd",
+    "slug": "googles-new-zelda-ocarina-of-time-easter-egg-takes-us-back-to-1998-in",
+    "headline": " Google's new Zelda: Ocarina of Time Easter egg takes us back to 1998 in time for Nintendo's remake ",
+    "summary": "Click on the Master Sword…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/the-legend-of-zelda/googles-new-zelda-ocarina-of-time-easter-egg-takes-us-back-to-1998-just-in-time-for-nintendos-remake-and-its-perfectly-nostalgic/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ErDdsTyC2m34mUupFpdnq3-1920-80.jpg",
+    "published_at": "2026-11-02T14:21:03.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3a3036425c7e",
+    "slug": "phoenix-cyclops-is-available-now-as-marvel-tokon-receives-major-ps5-pa",
+    "headline": "Phoenix Cyclops Is Available Now as Marvel Tokon Receives Major PS5 Patch",
+    "summary": "Born again. The first post-launch DLC character for Marvel Tokon: Fighting Souls is now available. Phoenix Cyclops joins the fun today, 2nd November 2026, and he's accompanied by a major game update that makes a ton of improvements. Those who own the Year 1 Pass will already have access to Phoenix Cyclops, but he's also available as a standalone purchase,…",
+    "category": "patches",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/phoenix-cyclops-is-available-now-as-marvel-tokon-receives-major-ps5-patch"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/56e558d61bdad/large.jpg",
+    "published_at": "2026-11-02T14:15:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d43040406b3a",
+    "slug": "godzilla-destroy-all-monsters-melee-remastered-released-on-ps5-with-fi",
+    "headline": "Godzilla: Destroy All Monsters Melee Remastered Released on PS5 with Fighter Guide",
+    "summary": "Godzilla: Destroy All Monsters Melee Remastered has been released on PlayStation 5, offering a kaiju brawler experience with 12 playable monsters. A fighter guide is available to help newcomers choose their character.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/11/02/godzilla-destroy-all-monsters-melee-remastered-fighter-guide/"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/godzilla-destroy-all-monsters-melee-remastered"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/a20ddc10086d2/large.jpg",
+    "published_at": "2026-11-02T14:01:16.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "godzilla-destroy-all-monsters-melee-remastered",
+    "game_label": "Godzilla: Destroy All Monsters Melee Remastered"
+  },
+  {
     "id": "930373e5f0ef",
     "slug": "order-of-the-sinking-star-stones-illuminated-walkthrough",
     "headline": "Order of the Sinking Star: Stones Illuminated Walkthrough",
@@ -1507,6 +1653,48 @@
     "game_label": "Dead by Daylight"
   },
   {
+    "id": "3a5296bb16f7",
+    "slug": "marvelous-reports-1105-profit-growth-during-the-first-half-of-the-year",
+    "headline": "Marvelous reports 1,105% profit growth during the first half of the year as overseas game sales exceed expectations",
+    "summary": "The company's game business has returned to profitability after posting a loss in the same period last year.",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/marvelous-reports-1105-profit-growth-during-the-first-half-of-the-year-as-overseas-game-sales-exceed-expectations/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/3a5296bb16f7/800/600",
+    "published_at": "2026-11-02T09:47:05.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "501d2a0b2c96",
+    "slug": "suda51-teases-next-game-with-dark-chaotic-style",
+    "headline": "Suda51 Teases Next Game with Dark, Chaotic Style",
+    "summary": "Game creator Suda51 hints at a new game inspired by his earlier titles, including Moonlight Syndrome and Silver Case, promising a dark and chaotic experience.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/suda51s-next-game-will-likely-revisit-the-dark-and-chaotic-creative-style-of-moonlight-syndrome-silver-case-and-killer7/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/501d2a0b2c96/800/600",
+    "published_at": "2026-11-02T09:31:10.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "9cff19d8498d",
     "slug": "phantom-blade-zero-gets-unofficial-soulslike-mode",
     "headline": "Phantom Blade Zero Gets Unofficial Soulslike Mode",
@@ -1622,6 +1810,27 @@
     "game_label": null
   },
   {
+    "id": "90338e58270b",
+    "slug": "wizardy-variants-daphne-continues-to-see-significant-growth-with-2nd-a",
+    "headline": "Wizardy Variants Daphne continues to see significant growth, with 2nd anniversary bringing in record-breaking revenue ",
+    "summary": "The game has surpassed $120 million USD in lifetime revenue.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/wizardy-variants-daphne-continues-to-see-significant-growth-with-2nd-anniversary-bringing-in-record-breaking-revenue/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/90338e58270b/800/600",
+    "published_at": "2026-11-02T08:44:38.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "8525abd11821",
     "slug": "sony-ps5-firmware-update-attempt-to-stifle-jailbreak-efforts-ahead-of",
     "headline": "Sony PS5 Firmware Update Attempt to Stifle Jailbreak Efforts Ahead of GTA 6",
@@ -1685,6 +1894,56 @@
     "comment_count": 0,
     "game": "gang-of-dragon",
     "game_label": "Gang of Dragon"
+  },
+  {
+    "id": "6cde4373114b",
+    "slug": "forza-horizon-6-devs-clarify-moderation-policy-amid-controversy",
+    "headline": "Forza Horizon 6 Devs Clarify Moderation Policy Amid Controversy",
+    "summary": "Forza Horizon 6 developers addressed the itasha ban controversy by outlining their moderation criteria, but their statement sparked further debate with seemingly suggestive language",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/forza-horizon-6-devs-explain-moderation-criteria-following-itasha-ban-controversy-but-statement-only-adds-fuel-to-the-fire-with-glassy-eyes-and-parted-lips-cited-as-problematic/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/6cde4373114b/800/600",
+    "published_at": "2026-11-02T07:09:42.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "forza-horizon-6",
+    "game_label": "Forza Horizon 6"
+  },
+  {
+    "id": "e17b4861cb1f",
+    "slug": "hypnosis-rhythm-game-hypnosync-out-on-steam-following-brief-delay-brai",
+    "headline": "Hypnosis rhythm game HYPNOSYNC out on Steam following brief delay. Brainwash customers into becoming your own mindless employees",
+    "summary": "The title is free-to-play on Steam and mobile.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/hypnosis-rhythm-game-hypnosync-out-on-steam-following-brief-delay-brainwash-customers-into-becoming-your-own-mindless-employees/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/e17b4861cb1f/800/600",
+    "published_at": "2026-11-02T06:11:42.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "94406b226608",
@@ -4481,261 +4740,5 @@
     "comment_count": 0,
     "game": "claude-opus",
     "game_label": "Claude Opus"
-  },
-  {
-    "id": "8a1fdd37c36f",
-    "slug": "fromsoftware-closes-dark-souls-2-and-3-multiplayer-due-to-server-issue",
-    "headline": "FromSoftware Closes Dark Souls 2 and 3 Multiplayer due to Server Issue",
-    "summary": "FromSoftware has temporarily shut down the multiplayer modes for Dark Souls 2 and 3 due to a server issue, but the cause and restoration timeline remain unknown.",
-    "category": "patches",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/dark-souls/fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multiplayer-over-server-issue/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/M6zM5WU9WHi2vy6AB7ptFc-1920-80.jpg",
-    "published_at": "2026-10-31T21:40:23.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "dark-souls-2-3",
-    "game_label": "Dark Souls 2 & 3"
-  },
-  {
-    "id": "0f1f49717ace",
-    "slug": "new-open-world-rpg-coming-to-ps5-on-december-14",
-    "headline": "New Open-World RPG Coming to PS5 on December 14",
-    "summary": "A free-to-play open-world RPG is launching on PS5 on December 14, marking a new holiday release for the console.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/ps5-open-world-rpg-silver-palace/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/ps5-rpg-silver-palace.jpg",
-    "published_at": "2026-10-31T21:30:14.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e435dc7a9873",
-    "slug": "zelda-ocarina-of-time-remake-revives-one-of-skyrims-best-tricks",
-    "headline": "Zelda: Ocarina of Time Remake Revives One of Skyrim's Best Tricks",
-    "summary": "The Zelda: Ocarina of Time remake has adopted a gameplay mechanic from Skyrim, allowing players to approach dungeons more effectively. This borrowing could have significant implications for the series' future",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/zelda-ocarina-of-time-remake-business-scrub-seed-skyrim-merchant/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/link-sits-atop-epona-while-facing-ingo-at-lon-lon-ranch-in-the-zelda-ocarina-of-time-remake.jpg",
-    "published_at": "2026-10-31T21:30:14.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "zelda-ocarina-of-time",
-    "game_label": "Zelda: Ocarina of Time"
-  },
-  {
-    "id": "1612b8f0c6ea",
-    "slug": "lego-set-leaked-in-store-ahead-of-november-2026-reveal",
-    "headline": "LEGO Set Leaked in Store Ahead of November 2026 Reveal",
-    "summary": "A retailer accidentally revealed a massive LEGO set set to launch in November 2026, sparking excitement among fans.",
-    "category": "deals",
-    "platform_tags": [
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/lego-ideas-21375-godzilla-set-final-design-box-leak/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/lego-logo-on-red-background-smiling-minifigure-face-composite.jpg",
-    "published_at": "2026-10-31T21:01:14.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "lego",
-    "game_label": "LEGO"
-  },
-  {
-    "id": "5a798ce2184f",
-    "slug": "elder-scrolls-skyblivion-modder-faces-lawsuit-project-lead-urges-cauti",
-    "headline": "Elder Scrolls Skyblivion modder faces lawsuit, project lead urges caution",
-    "summary": "A volunteer team behind a popular Elder Scrolls mod is facing a lawsuit, while the project lead warns against turning the situation into a witch hunt",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/HjFB9gstkbAF8dFMnxtqic-1920-80.jpg",
-    "published_at": "2026-10-31T20:29:22.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "elder-scrolls-skyblivion",
-    "game_label": "Elder Scrolls Skyblivion"
-  },
-  {
-    "id": "7def06baa8e4",
-    "slug": "gta-6s-side-activities-need-more-depth",
-    "headline": "GTA 6's Side Activities Need More Depth",
-    "summary": "Rockstar's GTA 6 side activities may be vast, but they lack depth, according to the author, who hopes for more complexity in future gameplay",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-side-activities/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/img_1128.webp",
-    "published_at": "2026-10-31T20:01:17.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "abedfe8ac024",
-    "slug": "ea-offices-tagged-with-save-mass-effect-graffiti",
-    "headline": "EA Offices Tagged With ‘Save Mass Effect’ Graffiti",
-    "summary": "As stumbled upon overnight by a Reddit user, one incensed fan is taking the fight right to the publisher’s gates",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/ea-offices-tagged-with-save-mass-effect-graffiti-2000751962"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2022/07/452cce7a4e33f51ab2dd8aaa30dcb516-1280x720.jpg",
-    "published_at": "2026-10-31T19:48:02.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4f829581efa7",
-    "slug": "the-best-deals-today-apple-watch-ultra-4-ocarina-of-time-remake-pikmin",
-    "headline": "The Best Deals Today: Apple Watch Ultra 4, Ocarina of Time Remake, Pikmin 4, and More",
-    "summary": "Today's top deals include discounts on the Apple Watch Ultra 4, an Ocarina of Time remake, and Pikmin 4, among other games and accessories.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/best-deals-for-october-31-2026"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/06/10/applewatchultra-1781130805138.jpg",
-    "published_at": "2026-10-31T19:34:38.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "90b4019008c1",
-    "slug": "classic-games-to-play-before-kicking-the-bucket-ranked",
-    "headline": "Classic Games To Play Before Kicking The Bucket, Ranked",
-    "summary": "If you haven't played these games, take this as a sign. There are a lot of great classic games, but these are the ones you have to play before you die",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/best-classic-retro-games-play-before-you-die-kick-the-bucket-ranked/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/classic-games-to-play-before-kicking-the-bucket.jpg",
-    "published_at": "2026-10-31T19:30:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "537c36a01a11",
-    "slug": "celeste-and-towerfall-have-delisted-from-xboxs-digital-storefronts-to",
-    "headline": " Celeste and TowerFall have delisted from Xbox's digital storefronts to support BDS boycott ",
-    "summary": "Director of both games, Maddy Thorson, confirmed the intent on BlueSky.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/action/celeste-and-towerfall-have-delisted-from-xboxs-digital-storefronts-to-support-bds-boycott/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/PUEtmTeJPKib37LmemrwyA-1920-80.jpeg",
-    "published_at": "2026-10-31T18:57:47.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5a7187b1339b",
-    "slug": "cult-pc-98-zombie-gore-fest-re-animated-on-steam-with-first-official-e",
-    "headline": "Cult PC-98 Zombie Gore Fest Re-Animated On Steam With First Official English Port",
-    "summary": "Dead of the Brian was developer FairyTale’s first foray out of erotica into horror and funnily enough that seems to be the case with its new publisher too",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/cult-pc-98-zombie-gore-fest-re-animated-on-steam-with-first-official-english-port-2000751956"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/deadofthebrain.jpg",
-    "published_at": "2026-10-31T18:09:03.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
