@@ -1,5 +1,121 @@
 [
   {
+    "id": "205bd965e085",
+    "slug": "yu-gi-oh-9-cards-mentioned-in-the-anime-but-never-revealed",
+    "headline": "Yu-Gi-Oh!: 9 Cards Mentioned in the Anime But Never Revealed",
+    "summary": "Yu-Gi-Oh! has 9 secret cards from the anime that have never been shown",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/yu-gi-oh-anime-cards-mentioned-but-not-shown/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/yugi-holding-his-cards-on-his-hand.jpg",
+    "published_at": "2026-11-02T22:30:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8705a8b234ca",
+    "slug": "ps2-classics-that-are-better-than-you-remember",
+    "headline": "PS2 Classics That Are Better Than You Remember",
+    "summary": "Some PlayStation 2 classics have aged much better than expected, offering surprisingly enjoyable experiences even decades after their release.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/ps2-games-classics-better-than-you-remember/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/gamerant-2.jpg",
+    "published_at": "2026-11-02T22:18:14.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "22a8b5e9de6a",
+    "slug": "gog-explains-how-dune-2-the-building-of-a-dynasty-became-trapped-in-li",
+    "headline": "GOG Explains How Dune 2: The Building of a Dynasty Became Trapped in Licensing Hell",
+    "summary": "GOG discusses how the influential PC real-time strategy game Dune 2: The Building of a Dynasty is currently stuck in licensing limbo due to multiple ownership changes.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/gog-explains-how-one-of-the-most-important-pc-games-ever-made-is-trapped-in-licensing-hell-2000752406"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/11/Dune2-westwood-1280x720.jpg",
+    "published_at": "2026-11-02T22:00:23.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dune-2-the-building-of-a-dynasty",
+    "game_label": "Dune 2: The Building of a Dynasty"
+  },
+  {
+    "id": "a1340ffcfe15",
+    "slug": "stellar-blade-switch-2-port-review",
+    "headline": "Stellar Blade Switch 2 Port Review",
+    "summary": "Polygon praises Stellar Blade's action gameplay, but notes occasional visual issues on the Nintendo Switch 2 in handheld mode.",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/stellar-blade-nintendo-switch-2-impressions/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/stellar-blade-nintendo-switch-2.jpg",
+    "published_at": "2026-11-02T22:00:17.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "stellar-blade",
+    "game_label": "Stellar Blade"
+  },
+  {
+    "id": "09084d0f48fd",
+    "slug": "review-stellar-blade-complete-edition-switch-2-perfectly-playable-desp",
+    "headline": "Review: Stellar Blade: Complete Edition (Switch 2) - Perfectly Playable, Despite Drawbacks",
+    "summary": "Razor sharp, but a little unrefined. Though the genre has evolved and deepened over time, gacha games have historically not been praised for their depth and complexity, often being criticised for being thinly veiled gambling machines. People were understandably incredulous, then, when Shift Up — the studio behind Goddess of Victory: Nikke — announced in 2019 that it would pursue…",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/stellar-blade-complete-edition"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/a8f04e6a4de55/large.jpg",
+    "published_at": "2026-11-02T22:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "316846bc97e2",
     "slug": "buggy-mount-sparks-frustration-among-retail-world-of-warcraft-players",
     "headline": "Buggy Mount Sparks Frustration Among Retail World of Warcraft Players",
@@ -231,6 +347,29 @@
     "comment_count": 0,
     "game": "crimson-desert",
     "game_label": "Crimson Desert"
+  },
+  {
+    "id": "411c781c533a",
+    "slug": "switch-2-games-that-are-perfect-for-new-nintendo-players",
+    "headline": "Switch 2 Games That Are Perfect for New Nintendo Players",
+    "summary": "These games offer approachable adventures for Nintendo Switch 2 beginners, and they each introduce a different side of gaming.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/nintendo-switch-2-best-games-perfect-new-players/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/gamerant-11.jpg",
+    "published_at": "2026-11-02T21:21:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "c707484cbef2",
@@ -4621,140 +4760,6 @@
     "image_url": "https://images.nintendolife.com/a7720b6a8f9c3/large.jpg",
     "published_at": "2026-11-02T11:45:00.000Z",
     "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0b3fc99988ec",
-    "slug": "dragon-ball-super-beerus-ranked-8th-strongest-character",
-    "headline": "Dragon Ball Super: Beerus Ranked 8th Strongest Character",
-    "summary": "The introduction of Super Saiyan God and God Ki has revolutionized the power system in Dragon Ball Super: Beerus, making it a game-changer for the series.",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/dragon-ball-super-beerus-episode-4-strongest-characters-ranked/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/super-saiyan-videl-super-saiyan-god-goku-and-shenron-in-dragon-ball-super-beerus-episode-4.png",
-    "published_at": "2026-11-02T11:30:14.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "dragon-ball-super-beerus",
-    "game_label": "Dragon Ball Super: Beerus"
-  },
-  {
-    "id": "50b096a0e6f3",
-    "slug": "steam-cracks-down-on-ai-game-clones",
-    "headline": "Steam Cracks Down on AI Game Clones",
-    "summary": "Steam is implementing measures to stop users from recreating games using AI technology, aiming to prevent 'vibe-coded' game recompilations and unauthorized PC ports.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/amid-steams-battle-with-ai-clones-claude-stops-users-from-recreating-games-using-its-controversial-tech-to-prevent-ip-infringement/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/5B6AqCDzVwnJLF9hDdVj9E-1920-80.jpg",
-    "published_at": "2026-11-02T11:30:06.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e3dd5b8e85e4",
-    "slug": "last-chance-to-buy-these-50-ps5-ps4-games-in-ps-stores-planet-of-the-d",
-    "headline": "Last Chance to Buy These 50+ PS5, PS4 Games in PS Store's Planet of the Deals Sale",
-    "summary": "The PS Store's Planet of the Deals sale is ending on November 4th, 2026, and offers thousands of PS5 and PS4 games at discounted prices.",
-    "category": "deals",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/features/last-chance-to-buy-these-50plus-ps5-ps4-games-in-ps-stores-planet-of-the-deals-sale"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/b73e27df787ab/large.jpg",
-    "published_at": "2026-11-02T11:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "69f6a0f759ac",
-    "slug": "robert-downey-jr-and-pedro-pascals-halloween-costume-reveals-a-big-ave",
-    "headline": "Robert Downey Jr. and Pedro Pascal's Halloween Costume Reveals a Big Avengers: Doomsday Easter Egg",
-    "summary": "Robert Downey Jr. and Pedro Pascal wore Halloween costumes to a party that included a clever Avengers: Doomsday reference, sparking speculation about the upcoming movie's plot.",
-    "category": "esports",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/entertainment/marvel-movies/robert-downey-jr-and-pedro-pascals-halloween-costume-might-hide-a-major-avengers-doomsday-easter-egg/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ZfAbft5usJp5qbmBZHyyBK-1920-80.jpg",
-    "published_at": "2026-11-02T11:28:09.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "avengers-doomsday",
-    "game_label": "Avengers: Doomsday"
-  },
-  {
-    "id": "5e0a9aa47ea6",
-    "slug": "yakuza-creators-studio-officially-shuts-down-after-backers-desert-it",
-    "headline": "Yakuza Creator's Studio Officially Shuts Down After Backers Desert It",
-    "summary": "Nagoshi Studio, founded by Like a Dragon/Ryu Ga Gotoku creator Toshihiro Nagoshi, and its game Gang of Dragon are no more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/nagoshi-studio-shuts-down-yakuza-gang-of-dragon/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/tgas-2025-gang-of-dragon-grimace.png",
-    "published_at": "2026-11-02T11:25:24.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8a6f4ac13777",
-    "slug": "elon-musk-officially-confirms-he-doesnt-get-star-wars",
-    "headline": "Elon Musk Officially Confirms He Doesn't Get Star Wars",
-    "summary": "Elon Musk has made it clear he doesn't have a Star Wars franchise under his control, seemingly setting himself up for a humorous misunderstanding with fans.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/elon-musk-star-wars-tweet-x-post/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/star-wars-musk.jpg",
-    "published_at": "2026-11-02T11:20:26.000Z",
-    "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
