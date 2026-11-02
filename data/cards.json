@@ -1,5 +1,26 @@
 [
   {
+    "id": "aac831a8fbfc",
+    "slug": "nagoshi-studio-officially-shut-down",
+    "headline": "Nagoshi Studio Officially Shut Down",
+    "summary": "Nagoshi Studio, the developer of Gang of Dragon, has been dissolved by its shareholders less than a year after its reveal, leading to the studio's official closure.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/gang-of-dragon-nagoshi-studio-shut-down/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/large.webp",
+    "published_at": "2026-11-02T07:13:58.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gang-of-dragon",
+    "game_label": "Gang of Dragon"
+  },
+  {
     "id": "94406b226608",
     "slug": "the-heroquest-board-game-is-coming-to-steam-with-a-quest-editor-and-mu",
     "headline": " The HeroQuest board game is coming to Steam with a quest editor and multiplayer ",
@@ -4687,32 +4708,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "6c44809a7538",
-    "slug": "final-fantasy-xiv-onlines-sixth-expansion-evercold-pushed-to-february",
-    "headline": "Final Fantasy XIV Online's Sixth Expansion 'Evercold' Pushed to February 2027",
-    "summary": "Square Enix has announced that the sixth expansion for Final Fantasy XIV Online, Evercold, will launch on February 23, 2027, rather than the previously scheduled January 2027 release. Pre-orders will begin on that date.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/10/final-fantasy-xiv-onlines-sixth-expansion-evercold-launches-february-2027"
-      },
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/final-fantasy-xiv-evercold-expansion-delayed-to-february-23-2027"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/b8ab9102b2c84/large.jpg",
-    "published_at": "2026-10-31T04:25:20.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "final-fantasy-xiv-online-evercold",
-    "game_label": "Final Fantasy XIV Online: Evercold"
   }
 ]
