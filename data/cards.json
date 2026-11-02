@@ -1,5 +1,28 @@
 [
   {
+    "id": "94406b226608",
+    "slug": "the-heroquest-board-game-is-coming-to-steam-with-a-quest-editor-and-mu",
+    "headline": " The HeroQuest board game is coming to Steam with a quest editor and multiplayer ",
+    "summary": "The best thing about HeroQuest...",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/board-games/the-heroquest-board-game-is-coming-to-steam-with-a-quest-editor-and-multiplayer/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/gLqAa4wPnkvgeuhZLy2Dyj-1920-80.jpg",
+    "published_at": "2026-11-02T04:12:30.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "92ba761970d4",
     "slug": "hoyoverse-announces-petit-planet-for-switch-2",
     "headline": "HoYoverse Announces Petit Planet for Switch 2",
@@ -4691,29 +4714,5 @@
     "comment_count": 0,
     "game": "final-fantasy-xiv-online-evercold",
     "game_label": "Final Fantasy XIV Online: Evercold"
-  },
-  {
-    "id": "a5dbce6fa60f",
-    "slug": "silver-palace-launches-on-december-14",
-    "headline": "Silver Palace Launches on December 14",
-    "summary": "Free-to-play open-world action-adventure RPG Silver Palace is set to launch on PlayStation 5 and PC via client",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/10/silver-palace-launches-december-14"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a5dbce6fa60f/800/600",
-    "published_at": "2026-10-31T04:15:39.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "silver-palace",
-    "game_label": "Silver Palace"
   }
 ]
