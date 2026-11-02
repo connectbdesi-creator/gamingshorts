@@ -1,5 +1,124 @@
 [
   {
+    "id": "92b717ec933b",
+    "slug": "fortnite-treasure-hunters-weekly-schedule",
+    "headline": "Fortnite Treasure Hunters Weekly Schedule",
+    "summary": "Fortnite is releasing a new Treasure Hunters weekly schedule, which includes new Sprites and loot pool",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/fortnite-treasure-hunters-weekly-schedule-new-sprites/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/fortnite-treasure-hunters-weekly-schedule-sprites-weapons-more.jpg",
+    "published_at": "2026-11-02T11:57:42.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fortnite",
+    "game_label": "Fortnite"
+  },
+  {
+    "id": "12bf25e014e9",
+    "slug": "phantom-blade-zero-sells-4-million-copies-in-3-days",
+    "headline": "Phantom Blade Zero Sells 4 Million Copies in 3 Days",
+    "summary": "Action game Phantom Blade Zero achieves rapid commercial success, with a high Steam player count, but lacks a detailed analysis of the game's content or reception.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/action-rpg/phantom-blade-zero-has-sold-4-million-copies-in-just-3-days-and-sailed-past-battlefield-6-and-marvel-rivals-on-steam-with-a-peak-player-count-of-820-000/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/bUJsHp7RK2Q8P9MjAhCSG8-1920-80.png",
+    "published_at": "2026-11-02T11:56:37.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "phantom-blade-zero",
+    "game_label": "Phantom Blade Zero"
+  },
+  {
+    "id": "1b0448450d97",
+    "slug": "final-fantasy-14-evercolds-story-will-have-a-faster-tempo",
+    "headline": "Final Fantasy 14: Evercold's Story Will Have a Faster Tempo",
+    "summary": "Final Fantasy 14 director Yoshi-P talks about the game's upcoming Evercold expansion, stating that the story's tempo will be faster and worldbuilding will be incorporated into side quests.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/mmo/final-fantasy-14-evercolds-story-will-have-a-faster-tempo-with-worldbuilding-in-side-quests-says-yoshi-p-but-im-not-sure-that-was-the-problem-with-dawntrail/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/dWm8e7VSGLiAXrVJqHSHJX-1920-80.png",
+    "published_at": "2026-11-02T11:53:51.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "final-fantasy-14",
+    "game_label": "Final Fantasy 14"
+  },
+  {
+    "id": "58f3593c5303",
+    "slug": "among-us-vr-co-developer-schell-games-announces-second-round-of-layoff",
+    "headline": "Among Us VR co-developer Schell Games announces second round of layoffs this year",
+    "summary": "VR developer Schell Games has announced a second round of layoffs this year.\n Read more",
+    "category": "industry",
+    "platform_tags": [
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/among-us-vr-co-developer-schell-games-announces-second-round-of-layoffs-this-year"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/among-us-vr_wbXHFDI.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-02T11:51:05.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2247d8232fd7",
+    "slug": "pokemon-company-counting-down-to-mysterious-date",
+    "headline": "Pokémon Company Counting Down to Mysterious Date",
+    "summary": "The Pokémon Company is teasing a big announcement on social media, sparking speculation about a new game or event.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/the-pokemon-company-is-counting-down-to-a-mysterious-date-on-social-media"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/a7720b6a8f9c3/large.jpg",
+    "published_at": "2026-11-02T11:45:00.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "0b3fc99988ec",
     "slug": "dragon-ball-super-beerus-ranked-8th-strongest-character",
     "headline": "Dragon Ball Super: Beerus Ranked 8th Strongest Character",
@@ -19,6 +138,54 @@
     "comment_count": 0,
     "game": "dragon-ball-super-beerus",
     "game_label": "Dragon Ball Super: Beerus"
+  },
+  {
+    "id": "50b096a0e6f3",
+    "slug": "steam-cracks-down-on-ai-game-clones",
+    "headline": "Steam Cracks Down on AI Game Clones",
+    "summary": "Steam is implementing measures to stop users from recreating games using AI technology, aiming to prevent 'vibe-coded' game recompilations and unauthorized PC ports.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/amid-steams-battle-with-ai-clones-claude-stops-users-from-recreating-games-using-its-controversial-tech-to-prevent-ip-infringement/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/5B6AqCDzVwnJLF9hDdVj9E-1920-80.jpg",
+    "published_at": "2026-11-02T11:30:06.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "69f6a0f759ac",
+    "slug": "robert-downey-jr-and-pedro-pascals-halloween-costume-reveals-a-big-ave",
+    "headline": "Robert Downey Jr. and Pedro Pascal's Halloween Costume Reveals a Big Avengers: Doomsday Easter Egg",
+    "summary": "Robert Downey Jr. and Pedro Pascal wore Halloween costumes to a party that included a clever Avengers: Doomsday reference, sparking speculation about the upcoming movie's plot.",
+    "category": "esports",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/marvel-movies/robert-downey-jr-and-pedro-pascals-halloween-costume-might-hide-a-major-avengers-doomsday-easter-egg/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ZfAbft5usJp5qbmBZHyyBK-1920-80.jpg",
+    "published_at": "2026-11-02T11:28:09.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "avengers-doomsday",
+    "game_label": "Avengers: Doomsday"
   },
   {
     "id": "5e0a9aa47ea6",
@@ -78,6 +245,27 @@
     "image_url": "https://assetsio.gnwcdn.com/Soulframe_Screenshot_10.png?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-11-02T11:17:46.000Z",
     "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5fc900112cc3",
+    "slug": "speedrunner-breaks-super-mario-bros-world-record-while-dressed-as-the",
+    "headline": "Speedrunner Breaks Super Mario Bros. World Record While Dressed as the Italian Plumber, Now Just 2 Frames From Theoretical Perfect Run",
+    "summary": "Niftski, the speedrunning world record holder for Super Mario Bros., beat his own record on a Halloween livestream while dressed as Mario. Speaking in character, he said: “Hopefully I don’t get this today because that would be very stupid.” Guess what?",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/niftski-breaks-super-mario-bros-world-record"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/02/screenshot-2026-11-02-111401-1793618060128.png",
+    "published_at": "2026-11-02T11:14:58.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4510,192 +4698,6 @@
     ],
     "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/03/kingdomcomedeliverance2henryfacepalm.jpg",
     "published_at": "2026-10-31T14:30:03.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2909ee6d69b6",
-    "slug": "silver-palace-free-to-play-game-coming-to-ps5-on-december-14th",
-    "headline": "Silver Palace Free-to-Play Game Coming to PS5 on December 14th",
-    "summary": "A Victorian-inspired, open-world free-to-play game called Silver Palace is set to release on the PS5 on December 14th, following a surprise announcement.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/ps5-adds-another-free-open-world-game-to-your-rotation-with-surprise-silver-palace-release-date"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/2c5ef6e5c1368/large.jpg",
-    "published_at": "2026-10-31T14:30:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "silver-palace",
-    "game_label": "Silver Palace"
-  },
-  {
-    "id": "732e32b662e5",
-    "slug": "xbox-game-pass-guide-upcoming-titles-for-november-2026",
-    "headline": "Xbox Game Pass Guide: Upcoming Titles for November 2026",
-    "summary": "Pure Xbox provides an upcoming guide for Xbox Game Pass, listing new titles to be added in November 2026",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/guides/xbox-game-pass-all-games-coming-soon-in-november-2026"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/bcc58134c5151/large.jpg",
-    "published_at": "2026-10-31T14:30:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4442e2779b3c",
-    "slug": "nintendo-reveals-surprise-pikmin-day-direct",
-    "headline": "Nintendo Reveals Surprise Pikmin Day Direct",
-    "summary": "Nintendo is hosting a surprise Direct presentation on Pikmin Day, a new annual event. The company did not previously announce such a day, and the reason for this new tradition remains unclear.",
-    "category": "industry",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/nintendo-reveals-surprise-pikmin-day-direct"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/nintendo-hello-pikmin-direct-day-shigeru-miyamoto-switch-2/"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/10/31/pikmin-day-direct-1793456725415.png",
-    "published_at": "2026-10-31T14:26:26.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "pikmin",
-    "game_label": "Pikmin"
-  },
-  {
-    "id": "b1e97276b9d0",
-    "slug": "it-welcome-to-derry-season-4-special-episode-drops-on-hbo-max",
-    "headline": "It: Welcome to Derry Season 4 Special Episode Drops on HBO Max",
-    "summary": "A new special episode of the It: Welcome to Derry series is available to stream on HBO Max this Halloween, marking the start of the spooky season.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/it-welcome-to-derry-halloween-special/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/it-welcome-to-derry-pennywise.jpg",
-    "published_at": "2026-10-31T14:21:44.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "it-welcome-to-derry",
-    "game_label": "It: Welcome to Derry"
-  },
-  {
-    "id": "6518e6e04b50",
-    "slug": "nintendo-drops-surprise-pikmin-day-direct",
-    "headline": "Nintendo Drops Surprise 'Pikmin Day' Direct",
-    "summary": "Yes, Pikmin Day.\nSurprise! Nintendo had shadow dropped a Nintendo Direct presentation for Pikmin Day. Yes, that’s right, Pikmin day.\nAs of this year, Nintendo is officially referring to 1st November as ‘Pikmin Day’ - three ones like three Pikmin, get it? We don’t, really, but yay! Pikmin!\nRead the full article on nintendolife.com",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/10/nintendo-drops-surprise-pikmin-day-direct"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/8aca49f180cac/large.jpg",
-    "published_at": "2026-10-31T14:15:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a01f35f587ce",
-    "slug": "overwatchs-director-explain-why-its-pve-missions-failed",
-    "headline": "Overwatch's Director Explain Why Its PvE Missions Failed",
-    "summary": "Overwatch director Aaron Keller explains why the game's PvE missions struggled to retain players and whether more story content could return.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/overwatch-pve-missions-future-explained/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/lucio-using-his-ult-in-overwatch.jpg",
-    "published_at": "2026-10-31T14:12:30.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e58ec187e9b5",
-    "slug": "red-barrels-co-founder-confesses-to-being-stumped-by-outlasts-success",
-    "headline": "Red Barrels' Co-Founder Confesses to Being Stumped by Outlast's Success",
-    "summary": "Red Barrels' co-founder expresses surprise at the lack of successful horror games like Outlast, attributing it to the game's unique blend of survival mechanics and intense scares.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/horror/red-barrels-co-founder-is-just-as-confused-as-we-are-as-to-why-no-ones-tried-to-replicate-outlasts-success-honestly-i-dont-know/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/HZNJzXs28GBi8Snt9ianX5-1920-80.jpg",
-    "published_at": "2026-10-31T14:11:55.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "outlast",
-    "game_label": "Outlast"
-  },
-  {
-    "id": "2589f58df4b8",
-    "slug": "the-outlast-trials-is-an-exercise-in-bad-taste-and-good-politics",
-    "headline": "The Outlast Trials Is An Exercise In Bad Taste And Good Politics",
-    "summary": "This multiplayer prequel is as gruesome as it is relevant",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/the-outlast-trials-is-an-exercise-in-bad-taste-and-good-politics-2000750631"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/outlaststrialspookyweek-1.jpg",
-    "published_at": "2026-10-31T14:05:59.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
