@@ -1,5 +1,436 @@
 [
   {
+    "id": "e0832d4c6528",
+    "slug": "review-wild-blue-skies-switch-an-unoriginal-alternative-to-star-fox-64",
+    "headline": "Review: Wild Blue Skies (Switch) - An Unoriginal Alternative To Star Fox 64",
+    "summary": "Can't let you do that, Blue Bombers! Wild Blue Skies is Star Fox 64-lite. Gameplay, identity, story: everything is pretty much a license-free version of Star Fox 64. That isn’t necessarily a bad thing, but in a year with Star Fox (2026), a superb remake of the N64 classic, the question immediately becomes: Who is Wild Blue Skies for? Stop…",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/reviews/switch-eshop/wild-blue-skies"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/77b18aa74de3a/large.jpg",
+    "published_at": "2026-11-03T11:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e89c93ba5318",
+    "slug": "it-looks-like-call-of-duty-modern-warfare-4-had-fewer-active-players-a",
+    "headline": "It looks like Call of Duty: Modern Warfare 4 had fewer active players at launch in the US compared to last year's Black Ops 7",
+    "summary": "It's been speculated for a while that Call of Duty may be losing its lustre. Although we don't have concrete data with detailed statistics for each game released in the last several years, there's an observable trend in player numbers that's hard to ignore.\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-player-engagement-black-ops-7"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/DMZ-COD-MW4-(4).jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-03T11:22:41.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a8146468af35",
+    "slug": "go-play-gta-6-we-need-to-detox-wardogs-studio-bulkhead-is-taking-a-mon",
+    "headline": "Go play GTA 6, we need to detox: Wardogs studio Bulkhead is taking a month-long break",
+    "summary": "Game studio Bulkhead is taking a break due to stress from playing GTA 6, a game they didn't develop but are 'highly invested' in",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/fps/go-play-gta-6-we-need-to-detox-wardogs-studio-bulkhead-is-taking-a-month-long-break-and-it-wants-to-make-sure-players-know-they-can-f-off/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/chGKjGhGFws2hxHNBXt6CW-1920-80.jpg",
+    "published_at": "2026-11-03T11:19:24.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f8e468efd3e4",
+    "slug": "behaviour-interactive-addresses-dead-by-daylight-controversy",
+    "headline": "Behaviour Interactive Addresses Dead by Daylight Controversy",
+    "summary": "Behaviour Interactive has responded to controversy surrounding Dead by Daylight by issuing a statement, amid allegations of support for a divisive VTuber.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/dead-by-daylight-theburntpeanut-controversy-response/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/leatherface-dead-by-daylight.jpg",
+    "published_at": "2026-11-03T11:13:57.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dead-by-daylight",
+    "game_label": "Dead by Daylight"
+  },
+  {
+    "id": "4bde63198899",
+    "slug": "gta-6-pre-loads-begin-on-november-12",
+    "headline": "GTA 6 Pre-Loads Begin on November 12",
+    "summary": "Grand Theft Auto 6 pre-load availability is set to start on November 12, getting players ready for the highly anticipated game's release.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-pre-load-when/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/gta_6_3840x2160-1.jpg",
+    "published_at": "2026-11-03T11:07:14.000Z",
+    "hype_signal": 90,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "9b6302c65662",
+    "slug": "name-that-game",
+    "headline": "Name That Game",
+    "summary": "Game Rant presents a Name That Game quiz where players must identify a game based on its description, which involves surviving pirate warlords and flesh-eating zombies on sun-soaked LA streets.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/game/name-that-game-2026-11-04/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/game-rant-games-name-that-game-site-banner-graphic.jpg",
+    "published_at": "2026-11-03T11:00:14.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b60665ca5ff1",
+    "slug": "gamerant-daily-crossword-november-4-2026",
+    "headline": "GameRant Daily Crossword (November 4, 2026)",
+    "summary": "Travel across mist-covered continents with Pandaren Monks and survive zombie-infested cities with today's GameRant Daily Crossword.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/game/gamerant-daily-crossword-2026-11-04/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/game-rant-games-game-rant-daily-crossword-puzzle-site-banner-graphic.jpg",
+    "published_at": "2026-11-03T11:00:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e557432b69d7",
+    "slug": "gamerant-daily-crossword-mini-november-4-2026",
+    "headline": "GameRant Daily Crossword Mini (November 4, 2026)",
+    "summary": "Step into the shoes of Templar Grand Masters and explore the galaxy in classic Star Wars RPGs with today's mini video game crossword.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/game/gamerant-daily-crossword-mini-2026-11-04/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/game-rant-games-game-rant-daily-crossword-puzzle-mini-site-banner-graphic.jpg",
+    "published_at": "2026-11-03T11:00:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "37c03c2052fd",
+    "slug": "playstation-stores-black-friday-deals-2026",
+    "headline": "PlayStation Store’s Black Friday Deals 2026 ",
+    "summary": "This year, PlayStation’s Black Friday Deals kick off early on PlayStation Store! Starting tomorrow, Wednesday November 4, you’ll find deep discounts up to 75% off*, across thousands of PS5, PS4 and PS VR2 games, expansions, and DLC.  Below is a small preview of just some of the titles that will be discounted as part of […]",
+    "category": "reviews",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/11/03/playstations-black-friday-deals-2026/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/37c03c2052fd/800/600",
+    "published_at": "2026-11-03T11:00:10.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d4ee7132942e",
+    "slug": "eight-xbox-games-are-out-today-including-the-next-great-espionage-rpg",
+    "headline": "Eight Xbox Games Are Out Today, Including The Next Great Espionage RPG",
+    "summary": "Eight new games released on Xbox, including the remastered action game Godzilla: Destroy All Monsters Melee and the next game from developer ZA/UM, ZERO PARADES: Director's Cut.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/eight-xbox-games-are-out-today-including-the-next-great-espionage-rpg-november-3"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/cc9cea498ddaf/large.jpg",
+    "published_at": "2026-11-03T11:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "zero-parades-directors-cut",
+    "game_label": "Zero Parades: Director's Cut"
+  },
+  {
+    "id": "05e54f7c2ca0",
+    "slug": "borderlands-franchise-hits-100-million-units-sold",
+    "headline": "Borderlands Franchise Hits 100 Million Units Sold",
+    "summary": "2K and Gearbox Software announce that the Borderlands franchise has sold over 100 million units, marking a significant milestone for the series.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/borderlands-franchise-crosses-100m-units-sold/"
+      },
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/borderlands-has-sold-100-million-units-across-the-series-and-theres-a-shift-key-to-celebrate"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/05e54f7c2ca0/800/600",
+    "published_at": "2026-11-03T11:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "borderlands",
+    "game_label": "Borderlands"
+  },
+  {
+    "id": "035aa8c4e175",
+    "slug": "stardew-valley-update-17-to-be-largest-yet-concernedape-confirms",
+    "headline": "Stardew Valley Update 1.7 to Be 'Largest' Yet, ConcernedApe Confirms",
+    "summary": "ConcernedApe has hinted at the release of Stardew Valley update 1.7, promising it will be the largest update yet and arriving sometime next year.",
+    "category": "patches",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "switch",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/simulation/stardew-valley-update-1-7-is-looking-to-be-the-largest-yet-concernedape-says-and-itll-probably-come-out-sometime-next-year/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ojc8usbvS7Hpi3A5NBWvZe-1920-80.jpg",
+    "published_at": "2026-11-03T10:58:30.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "stardew-valley",
+    "game_label": "Stardew Valley"
+  },
+  {
+    "id": "ade645afdb4e",
+    "slug": "south-of-midnight-director-says-he-wouldnt-have-funded-game-if-he-was",
+    "headline": "South of Midnight Director Says He Wouldn't Have Funded Game If He Was Xbox",
+    "summary": "Director David Sears expresses concerns about the unsustainability of funding games, particularly if it meant aligning with an Xbox-owned studio. He also acknowledges that the game's release was inevitable despite his reservations.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/south-of-midnight-director-says-he-wouldnt-have-funded-it-if-he-was-xbox-and-a-bad-outcome-was-inevitable/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/ade645afdb4e/800/600",
+    "published_at": "2026-11-03T10:57:21.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "south-of-midnight",
+    "game_label": "South of Midnight"
+  },
+  {
+    "id": "8d38334411df",
+    "slug": "global-release-times-for-the-legend-of-zelda-ocarina-of-time-remake",
+    "headline": "Global Release Times for The Legend of Zelda: Ocarina of Time Remake",
+    "summary": "IGN shares the global release times for the upcoming remake of The Legend of Zelda: Ocarina of Time, allowing players to plan their release accordingly.",
+    "category": "releases",
+    "platform_tags": [
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-global-release-times"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/03/thelegendofzeldaocarinaoftime-46-1793701805613.jpg",
+    "published_at": "2026-11-03T10:33:07.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-legend-of-zelda-ocarina-of-time-remake",
+    "game_label": "The Legend of Zelda: Ocarina of Time Remake"
+  },
+  {
+    "id": "e474b72e302e",
+    "slug": "itchio-will-soon-let-you-filter-games-with-genai-disclosures-out-of-yo",
+    "headline": "itch.io will soon let you filter games with genAI disclosures out of your search results on the site, after admitting it was previously \"critically lacking\"",
+    "summary": "itch.io has unfortunately, much like Steam, long had an issue with genAI content being uploaded in droves, drowning out perfectly good games made by human hands. The apparent standard method against this, voluntary genAI disclosure, has been itch's primary tool to combat this wave of low-quality slop, but hasn't worked out too well; itch revealed a few days ago that…",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/itchio-will-soon-let-you-filter-games-with-genai-disclosures-out-of-your-search-results-on-the-site-after-admitting-it-was-previously-critically-lacking"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/itch-AI-filter.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-03T10:12:22.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "fd6e02143005",
+    "slug": "remedys-revenue-soars-226-following-control-resonants-release",
+    "headline": "Remedy's Revenue Soars 226% Following Control Resonant's Release",
+    "summary": "Remedy's quarterly financial report reveals a 226% surge in revenue after the release of Control Resonant, their fastest-selling game to date.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/control-resonant-remedy-revenue-leaps"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Control-Resonant_Dhpy5QW.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-03T09:56:48.000Z",
+    "hype_signal": 85,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "control-resonant",
+    "game_label": "Control Resonant"
+  },
+  {
+    "id": "94f93b3117aa",
+    "slug": "final-fantasy-7-remake-and-rebirth-currently-have-huge-price-drops-on",
+    "headline": "Final Fantasy 7 Remake and Rebirth currently have huge price drops on the Switch 2 eShop",
+    "summary": "Each game is at least 80% off, with Rebirth on sale for $7.49 / £7.49",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/final-fantasy-7-remake-and-rebirth-currently-have-huge-price-drops-on-the-switch-2-eshop/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/94f93b3117aa/800/600",
+    "published_at": "2026-11-03T09:35:53.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e298481e8ab3",
+    "slug": "bend-studios-next-ps-exclusive-announced-for-2027",
+    "headline": "Bend Studio's Next PS Exclusive Announced for 2027",
+    "summary": "Bend Studio is working on a new PlayStation exclusive game, set to be revealed in 2027 and released the same year.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/sony-bend-studio-next-playstation-game-2027"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/The-main-character-from-Days-Gone-holding-a-large-gun-in-his-hands.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-03T09:18:39.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "days-gone",
+    "game_label": "Days Gone"
+  },
+  {
     "id": "005eeb9d8eb6",
     "slug": "avatar-seven-havens-season-2-teased",
     "headline": "Avatar: Seven Havens Season 2 Teased",
@@ -87,32 +518,6 @@
     "comment_count": 0,
     "game": "queens-blood",
     "game_label": "Queen's Blood"
-  },
-  {
-    "id": "05e54f7c2ca0",
-    "slug": "borderlands-franchise-hits-100-million-units-sold",
-    "headline": "Borderlands Franchise Hits 100 Million Units Sold",
-    "summary": "2K and Gearbox Software announce that the Borderlands franchise has sold over 100 million units, marking a significant milestone for the series.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/borderlands-franchise-crosses-100m-units-sold/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/05e54f7c2ca0/800/600",
-    "published_at": "2026-11-03T07:54:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "borderlands",
-    "game_label": "Borderlands"
   },
   {
     "id": "77fe85aa1ec8",
@@ -4349,417 +4754,5 @@
     "comment_count": 0,
     "game": "gears-of-war-e-day",
     "game_label": "Gears of War: E-Day"
-  },
-  {
-    "id": "61a68ee4fafd",
-    "slug": "googles-new-zelda-ocarina-of-time-easter-egg-takes-us-back-to-1998-in",
-    "headline": " Google's new Zelda: Ocarina of Time Easter egg takes us back to 1998 in time for Nintendo's remake ",
-    "summary": "Click on the Master Sword…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/the-legend-of-zelda/googles-new-zelda-ocarina-of-time-easter-egg-takes-us-back-to-1998-just-in-time-for-nintendos-remake-and-its-perfectly-nostalgic/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ErDdsTyC2m34mUupFpdnq3-1920-80.jpg",
-    "published_at": "2026-11-02T14:21:03.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3a3036425c7e",
-    "slug": "phoenix-cyclops-is-available-now-as-marvel-tokon-receives-major-ps5-pa",
-    "headline": "Phoenix Cyclops Is Available Now as Marvel Tokon Receives Major PS5 Patch",
-    "summary": "Born again. The first post-launch DLC character for Marvel Tokon: Fighting Souls is now available. Phoenix Cyclops joins the fun today, 2nd November 2026, and he's accompanied by a major game update that makes a ton of improvements. Those who own the Year 1 Pass will already have access to Phoenix Cyclops, but he's also available as a standalone purchase,…",
-    "category": "patches",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/phoenix-cyclops-is-available-now-as-marvel-tokon-receives-major-ps5-patch"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/56e558d61bdad/large.jpg",
-    "published_at": "2026-11-02T14:15:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d43040406b3a",
-    "slug": "godzilla-destroy-all-monsters-melee-remastered-released-on-ps5-with-fi",
-    "headline": "Godzilla: Destroy All Monsters Melee Remastered Released on PS5 with Fighter Guide",
-    "summary": "Godzilla: Destroy All Monsters Melee Remastered has been released on PlayStation 5, offering a kaiju brawler experience with 12 playable monsters. A fighter guide is available to help newcomers choose their character.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "PlayStation Blog",
-        "url": "https://blog.playstation.com/2026/11/02/godzilla-destroy-all-monsters-melee-remastered-fighter-guide/"
-      },
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/godzilla-destroy-all-monsters-melee-remastered"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/a20ddc10086d2/large.jpg",
-    "published_at": "2026-11-02T14:01:16.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "godzilla-destroy-all-monsters-melee-remastered",
-    "game_label": "Godzilla: Destroy All Monsters Melee Remastered"
-  },
-  {
-    "id": "930373e5f0ef",
-    "slug": "order-of-the-sinking-star-stones-illuminated-walkthrough",
-    "headline": "Order of the Sinking Star: Stones Illuminated Walkthrough",
-    "summary": "A guide for the Stones Illuminated area of Order of the Sinking Star, including tips for opening the SxB gold room and solving puzzles.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/order-of-the-sinking-star-stones-illuminated-walkthrough/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/order-of-the-sinking-star-stones-illuminated.jpg",
-    "published_at": "2026-11-02T14:00:35.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "order-of-the-sinking-star",
-    "game_label": "Order of the Sinking Star"
-  },
-  {
-    "id": "634560f88ae7",
-    "slug": "zelda-producer-wanted-to-remake-ocarina-of-time-to-spark-new-insights",
-    "headline": "Zelda Producer Wanted to Remake Ocarina of Time to Spark New Insights",
-    "summary": "Shigeru Aonuma reveals he was surprised by the minimal changes made to the Ocarina of Time remake despite the team having creative freedom",
-    "category": "industry",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/zelda-producer-aonuma-wanted-to-remake-ocarina-of-time-to-trigger-new-insights-in-the-teams-younger-developers/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/634560f88ae7/800/600",
-    "published_at": "2026-11-02T14:00:21.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-legend-of-zelda-ocarina-of-time-remastered",
-    "game_label": "The Legend of Zelda: Ocarina of Time Remastered"
-  },
-  {
-    "id": "96a18b24577e",
-    "slug": "star-wars-zero-companys-cast-talks-about-that-huge-order-66-moment",
-    "headline": "Star Wars Zero Company’s Cast Talks about that Huge Order 66 Moment",
-    "summary": "Star Wars Zero Company has a huge Order 66 moment. Polygon chatted with three cast members about it as well as the game's director.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/star-wars-zero-company-order-66-interview/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/star-wars-zero-company-review-header.jpg",
-    "published_at": "2026-11-02T14:00:17.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d539f468e6b6",
-    "slug": "should-you-play-phantom-blade-zero-in-english-or-chinese",
-    "headline": "Should You Play Phantom Blade Zero in English or Chinese?",
-    "summary": "Players in Phantom Blade Zero must choose between playing in English or Chinese, with each option potentially affecting gameplay and immersion.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/phantom-blade-zero-english-chinese-audio-language-choose/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/phantom-blade-zero-should-you-play-english-or-chinese.jpg",
-    "published_at": "2026-11-02T14:00:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "phantom-blade-zero",
-    "game_label": "Phantom Blade Zero"
-  },
-  {
-    "id": "8ae758ac75dc",
-    "slug": "monster-train-2s-final-faction-reveals-new-winning-strategies",
-    "headline": "Monster Train 2's Final Faction Reveals New Winning Strategies",
-    "summary": "PC Gamer shares a player's experience with the upcoming deckbuilder, where the Punished faction teaches new ways to win",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/card-games/monster-train-2-the-punished-review/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/gEeFDmntDtpD9m8PESstaN-1920-80.jpg",
-    "published_at": "2026-11-02T14:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "monster-train-2",
-    "game_label": "Monster Train 2"
-  },
-  {
-    "id": "32057aec6723",
-    "slug": "ray-tracing-memory-usage-could-be-reduced-by-up-to-90-thanks-to-most-s",
-    "headline": "Ray tracing memory usage could be reduced by up to 90% thanks to 'most significant' DirectX update",
-    "summary": "A new DirectX update could significantly improve ray tracing performance on PC by reducing memory usage by up to 90%.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/memory/ray-tracing-memory-usage-could-be-reduced-by-up-to-90-percent-thanks-to-most-significant-directx-update/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/3vaLZrUADLuNub9iKdwiX6-1920-80.jpg",
-    "published_at": "2026-11-02T13:38:24.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5c1cd7efae55",
-    "slug": "over-a-decade-later-bloodborne-remains-so-popular-it-reportedly-sold-a",
-    "headline": "Over a decade later, Bloodborne remains so popular it reportedly sold a quarter of a million copies this year alone",
-    "summary": "Bloodborne, FromSoftware's singular Lovecraftian action-RPG, has reportedly sold more than 251,000 copies this year alone.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/bloodborne-251-000-sales-in-2016-ps4"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Bloodborne-artwork-showing-a-cloaked-male-known-as-a-Hunter-skulking-in-a-moonlit-gothic-city.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-02T13:35:31.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "eb301392d0b0",
-    "slug": "arc-raiders-music-sample-origin-revealed",
-    "headline": "Arc Raiders Music Sample Origin Revealed",
-    "summary": "PC Gamer shares a behind-the-scenes look at the game's unique sound design, including a piano sample from the Chernobyl Exclusion Zone.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-devs-have-used-a-music-sample-from-a-piano-in-chernobyl-that-someone-had-discovered-in-the-forbidden-zone/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Ug4nVvwefGBmjJc3rujcHB-1920-80.png",
-    "published_at": "2026-11-02T13:35:31.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "arc-raiders",
-    "game_label": "Arc Raiders"
-  },
-  {
-    "id": "acec7beae087",
-    "slug": "this-week-in-pc-games-go-helldiving-in-gravhounds-wreck-a-hoverbike-in",
-    "headline": "This week in PC games: go helldiving in Gravhounds, wreck a hoverbike in Airframe Ultra, or feed humans to a cutaway spaceship in Hull Rupture",
-    "summary": "Recently, I managed to dupe that preposterous hack Julian into signing a form committing him to alternate weeks of Maw-feeding duty. How he whined last Monday, as we strapped him into his neoprene bodysuit. How he begged for mercy, as we handed him his 12-foot Gallium toasting fork and elbowed him out the airlock.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-go-helldiving-in-gravhounds-wreck-a-hoverbike-in-airframe-ultra-or-feed-humans-to-a-cutaway-spaceship-in-hull-rupture"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/hull-rupture-1.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-02T13:34:28.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6af160200f44",
-    "slug": "resident-evil-movie-surpasses-400-million-at-box-office",
-    "headline": "Resident Evil Movie Surpasses $400 Million at Box Office",
-    "summary": "The movie adaptation of Resident Evil, starring Zach Creggar, has achieved significant commercial success, joining the top ten highest-grossing video game movies of all time.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/resident-evil-top-ten-video-game-movies-ever-box-office/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/11/new-project-2026-11-02t131757-296-1.jpg",
-    "published_at": "2026-11-02T13:32:35.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "resident-evil",
-    "game_label": "Resident Evil"
-  },
-  {
-    "id": "0335ef670b7c",
-    "slug": "new-kingdom-come-games-rumored-twist-could-be-its-best-move",
-    "headline": "New Kingdom Come Game's Rumored Twist Could Be Its Best Move",
-    "summary": "Warhorse Studios is reportedly considering a drastic change for its next Kingdom Come game, which could be a refreshing move for the series.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/kingdom-come-new-game-spinoff-rumor-warhorse-lord-of-the-rings/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/untitled-1.jpg",
-    "published_at": "2026-11-02T13:30:14.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "kingdom-come-deliverance",
-    "game_label": "Kingdom Come: Deliverance"
-  },
-  {
-    "id": "dc56eab9c8c7",
-    "slug": "we-all-met-by-doing-improv-comedy",
-    "headline": "We all met by doing improv comedy",
-    "summary": "A Los Angeles indie studio is working on a comedy game, despite the city being one of the most expensive places for game development",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/we-all-met-by-doing-improv-comedy-the-los-angeles-indie-studio-making-a-comedy-game-in-one-of-the-most-expensive-places-for-game-dev-in-the-world"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/send-in-the-clown-key-art.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-02T13:30:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8f5dd69334cb",
-    "slug": "ea-studios-graveyard-mourned-by-gaming-community-this-halloween",
-    "headline": "EA Studios Graveyard Mourned by Gaming Community This Halloween",
-    "summary": "A fan has created a haunting display at EA offices in memory of beloved IPs and shut down studios, highlighting the gaming community's emotional response to these losses.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/bioware-ea-shut-down-studios-graveyard/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/datv_class-page-header_16x9.jpg",
-    "published_at": "2026-11-02T13:28:32.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a4ec1cfeb7f6",
-    "slug": "valves-steam-frame-has-taken-a-spot-in-the-top-ten-most-popular-vr-hea",
-    "headline": " Valve's Steam Frame has taken a spot in the top ten most popular VR headsets on Steam ",
-    "summary": "The Quest 3 still holds a significant lead, though.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/vr-hardware/valves-steam-frame-has-taken-a-spot-in-the-top-ten-most-popular-vr-headsets-on-steam/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/vY4ztJVBw6dNr9Zr4sVMMT-1920-80.jpg",
-    "published_at": "2026-11-02T13:26:24.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
