@@ -1,5 +1,28 @@
 [
   {
+    "id": "59d89a781081",
+    "slug": "walmart-to-send-519-gift-cards-to-zelda-switch-2-pre-order-cancellers",
+    "headline": "Walmart to Send $519 Gift Cards to Zelda Switch 2 Pre-Order Cancellers",
+    "summary": "Walmart is reportedly sending out gift cards to customers whose Zelda Switch 2 pre-orders were cancelled due to an oversold console issue.",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/after-cancelling-zelda-switch-2-pre-orders-walmart-is-now-supposedly-sending-out-usd519-gift-cards"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/5b3c5bb652577/large.jpg",
+    "published_at": "2026-11-03T03:30:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-legend-of-zelda-breath-of-the-wild",
+    "game_label": "The Legend of Zelda: Breath of the Wild"
+  },
+  {
     "id": "1b3bc8a87b95",
     "slug": "one-piece-creator-oda-makes-sanji-yonko-tier",
     "headline": "One Piece Creator Oda Makes Sanji Yonko Tier",
@@ -33,6 +56,10 @@
       {
         "name": "Nintendo Life",
         "url": "https://www.nintendolife.com/news/2026/11/square-enixs-harvest-sale-includes-80percent-discounts-on-final-fantasy-vii-remake-intergrade-and-rebirth"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/square-enixs-harvest-sale-includes-huge-discounts-on-final-fantasy-vii-remake-intergrade-and-rebirth"
       }
     ],
     "image_url": "https://images.nintendolife.com/18cbd9df5eb05/large.jpg",
@@ -278,6 +305,29 @@
     "comment_count": 0,
     "game": "gta-6",
     "game_label": "GTA 6"
+  },
+  {
+    "id": "4540b848d82f",
+    "slug": "pikmin-4-nintendo-switch-2-edition-dandori-academy-overview-trailer",
+    "headline": "Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy ‘Overview’ trailer",
+    "summary": "Nintendo has released a four-minute overview trailer for Pikmin 4 – Nintendo Switch 2 Edition …",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/pikmin-4-nintendo-switch-2-edition-dandori-academy-overview-trailer"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/4540b848d82f/800/600",
+    "published_at": "2026-11-02T23:05:25.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "81154a3fe885",
@@ -4715,51 +4765,5 @@
     "comment_count": 0,
     "game": "fortnite",
     "game_label": "Fortnite"
-  },
-  {
-    "id": "49d983dfd060",
-    "slug": "crimson-deserts-no-download-twitch-demo-is-driving-steam-traffic-and-a",
-    "headline": "Crimson Desert’s no-download Twitch demo is driving Steam traffic, and Amazon plans to expand the format | exclusive",
-    "summary": "Two months after launching a no-download demo for Crimson Desert on Twitch, Pearl Abyss is shouting from the heavens about the positive impact of...\nThe post Crimson Desert’s no-download Twitch demo is driving Steam traffic, and Amazon plans to expand the format | exclusive appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/crimson-deserts-no-download-twitch-demo-is-driving-steam-traffic-and-amazon-plans-to-expand-the-format-exclusive/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/49d983dfd060/800/600",
-    "published_at": "2026-11-02T13:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c821d0ec94d9",
-    "slug": "former-xbox-manager-explains-why-500m-cost-for-gears-e-day-doesnt-tell",
-    "headline": "Former Xbox Manager Explains Why $500M Cost For Gears: E-Day Doesn't Tell The Whole Story",
-    "summary": "A former Xbox executive shares his perspective on the reported $500 million development cost for Gears of War: E-Day and its relation to Microsoft's involvement",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/11/former-xbox-manager-explains-why-usd500m-cost-for-gears-e-day-doesnt-tell-the-whole-story"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/11a2c2db3b9f2/large.jpg",
-    "published_at": "2026-11-02T13:00:00.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gears-of-war-e-day",
-    "game_label": "Gears of War: E-Day"
   }
 ]
