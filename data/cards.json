@@ -1,5 +1,28 @@
 [
   {
+    "id": "d129de16b9ca",
+    "slug": "ubisoft-reportedly-seeking-to-acquire-arkane-lyon-from-xbox",
+    "headline": "Ubisoft reportedly seeking to acquire Arkane Lyon from Xbox",
+    "summary": "Ubisoft is reportedly seeking to acquire Arkane Lyon following an extension of its consultation period with Xbox.\n Read more",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/ubisoft-reportedly-seeking-to-acquire-arkane-lyon-from-xbox"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/marvel-blade-(2).webp?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-04T08:35:49.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "35f8d72946e7",
     "slug": "genshin-impact-puzzle-guide",
     "headline": "Genshin Impact Puzzle Guide",
@@ -23,6 +46,27 @@
     "comment_count": 0,
     "game": "genshin-impact",
     "game_label": "Genshin Impact"
+  },
+  {
+    "id": "078b7581838d",
+    "slug": "street-fighter-6-winter-pocket-present-fighting-pass-adds-super-gem-fi",
+    "headline": "Street Fighter 6 'Winter Pocket Present' Fighting Pass Adds Super Gem Fighter Mini Mix",
+    "summary": "And a bunch of other rewards. Capcom continues to roll out regular updates for Street Fighter 6, and it's now lifted the lid on its \"Winter Pocket Present\" Fighting Pass, arriving this week. This new pass is themed around the 1997 arcade chibi-style title Super Gem Fighter Mini Mix (aka Pocket Fighter) and includes all sorts of rewards inspired by…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/street-fighter-6-winter-pocket-present-fighting-pass-adds-super-gem-fighter-mini-mix"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/383e6737a8b8f/large.jpg",
+    "published_at": "2026-11-04T06:55:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "94386282f4f5",
@@ -4579,58 +4623,5 @@
     "comment_count": 0,
     "game": "wardogs",
     "game_label": "Wardogs"
-  },
-  {
-    "id": "8dfdea320d61",
-    "slug": "sega-services-hit-by-massive-hack",
-    "headline": "Sega Services Hit by Massive Hack",
-    "summary": "Japanese arcade games Sega Fave's Aime and ALL.net are currently unavailable due to a major hack of Sega's services.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/sega-taiko-no-tatsujin-arcade-machines-service-breach-hack-2000752477"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/11/Arcade-Machines-Under-Maintenance-1280x741.jpg",
-    "published_at": "2026-11-03T12:30:28.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "36edad0eda13",
-    "slug": "7-characters-who-defied-fan-expectations-in-dragon-ball",
-    "headline": "7 Characters Who Defied Fan Expectations in Dragon Ball",
-    "summary": "The Dragon Ball franchise featured unexpected wins by surprising characters, changing fan expectations.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/dragon-ball-characters-who-won-fights-they-had-no-business-winning/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/04/goku-vegeta-meta-coolers.jpg",
-    "published_at": "2026-11-03T12:30:14.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "dragon-ball",
-    "game_label": "Dragon Ball"
   }
 ]
