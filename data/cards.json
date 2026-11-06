@@ -1,5 +1,845 @@
 [
   {
+    "id": "8ddeafa7afcb",
+    "slug": "how-to-complete-the-treasure-chest-minigame-in-zelda-ocarina-of-time",
+    "headline": "How to complete the Treasure Chest minigame in Zelda Ocarina of Time",
+    "summary": "Here's how to complete the Treasure Chest game in The Legend of Zelda: Ocarina of Time remake and how to know which chest to open.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-treasure-chest-minigame/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zeldaootremake_guide_treasurechest_lead.jpg",
+    "published_at": "2026-11-06T17:43:06.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "de83201d8da8",
+    "slug": "finding-mojis-house-key-in-phantom-blade-zero",
+    "headline": "Finding Moji's House Key in Phantom Blade Zero",
+    "summary": "GamesRadar+ provides a solution to locate Moji's House Key in the action game Phantom Blade Zero.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/action-rpg/phantom-blade-zero-mojis-house-key/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/vz9djogcmKVP2UNFykoe6S-1920-80.jpg",
+    "published_at": "2026-11-06T17:39:51.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "phantom-blade-zero",
+    "game_label": "Phantom Blade Zero"
+  },
+  {
+    "id": "31998ff794bb",
+    "slug": "fans-honor-saga-emerald-beyond-translator-who-continued-to-work-despit",
+    "headline": "Fans Honor SaGa Emerald Beyond Translator Who Continued to Work Despite Cancer",
+    "summary": "Square Enix translator who passed away from cancer is being remembered by fans, who salute his dedication to his work, including his recent role in SaGa Emerald Beyond.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/jrpg/fans-salute-square-enix-localization-veteran-who-died-of-cancer-but-kept-translating-jrpgs-during-treatment-my-work-had-been-very-healing-for-me/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/DcobhBbuNabTcpHDzforTV-1920-80.jpg",
+    "published_at": "2026-11-06T17:34:17.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "saga-emerald-beyond",
+    "game_label": "SaGa Emerald Beyond"
+  },
+  {
+    "id": "a19d9bcc8e90",
+    "slug": "linux-distro-hack-fix",
+    "headline": "Linux Distro Hack Fix",
+    "summary": "A 257-character string can prevent hackers from gaining admin privileges on some Linux distros, but a fix is already available.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/software/linux/all-that-stands-between-a-hacker-and-admin-privileges-on-some-linux-distros-is-a-257-character-long-string-of-literally-anything/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/FzqWo3fsvLDFRpTumixHaY-1920-80.jpg",
+    "published_at": "2026-11-06T17:31:29.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7d33e182e42c",
+    "slug": "playstation-ends-ratchet-clank-game-development",
+    "headline": "PlayStation Ends Ratchet & Clank Game Development",
+    "summary": "PlayStation is discontinuing a new Ratchet & Clank game, effectively ending its development and removing it from store shelves.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/ratchet-clank-ranger-rumble-delist-shutdown/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/03/rivet-in-ratchet-clank-a-rift-apart.jpg",
+    "published_at": "2026-11-06T17:30:15.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ratchet-clank",
+    "game_label": "Ratchet & Clank"
+  },
+  {
+    "id": "d10fe0bdddc9",
+    "slug": "marvel-cosmic-invasions-new-doom-themed-dlc-game-mode-revealed",
+    "headline": "Marvel Cosmic Invasion's New Doom-Themed DLC Game Mode Revealed",
+    "summary": "A new roguelike game mode called Castle Doom is coming to Marvel Cosmic Invasion on November 10th, showcasing a unique gameplay experience with many pathways and a central Siege Gauge mechanism.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/heres-a-closer-look-at-marvel-cosmic-invasions-new-dlc-game-mode"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/a889a45162978/large.jpg",
+    "published_at": "2026-11-06T17:30:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "marvel-cosmic-invasion-castle-doom",
+    "game_label": "Marvel Cosmic Invasion: Castle Doom"
+  },
+  {
+    "id": "1fc68ef2e5e9",
+    "slug": "real-time-strategy-game-the-fertile-crescent-2-is-an-isometric-odyssey",
+    "headline": "Real-time strategy game The Fertile Crescent 2 is an isometric odyssey inspired by Age of Empires, with the 1.0 release out now",
+    "summary": "Age of Empires-influenced real-time strategy game The Fertile Crescent 2: Collapse of the Bronze Age leaves early access today, publishers MicroProse have announced, with the 1.0 version adding the final chapters of the singleplayer story. You'll also get your grubby fingers on the very same map editor developers Wield Interactive used to design the campaign. I'm new to The Fertile…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/real-time-strategy-game-the-fertile-crescent-2-is-an-isometric-odyssey-inspired-by-age-of-empires-releasing-out-of-early-access-now"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/fertile-crescent-2a.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-06T17:20:50.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "54b33ef57e59",
+    "slug": "zelda-ocarina-of-time-remake-how-to-deal-with-the-cow-on-death-mountai",
+    "headline": "Zelda: Ocarina of Time Remake - How to Deal with the Cow on Death Mountain Trail",
+    "summary": "Game Rant provides a helpful guide for players in The Legend of Zelda: Ocarina of Time Remake, offering tips on how to deal with the cow on the Death Mountain trail. No gameplay details are provided.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/tloz-ocarina-of-time-remake-cow-death-mountain-trail-what-to-do/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/cow-death-mountain-trail-cave-ocarina-of-time-remake-zelda.jpg",
+    "published_at": "2026-11-06T17:20:33.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-legend-of-zelda-ocarina-of-time-remake",
+    "game_label": "The Legend of Zelda: Ocarina of Time Remake"
+  },
+  {
+    "id": "375f71e161d8",
+    "slug": "skyrim-lead-cant-wait-to-play-the-elder-scrolls-6-sentinel",
+    "headline": "Skyrim Lead Can't Wait to Play The Elder Scrolls 6: Sentinel",
+    "summary": "Skyrim lead, Todd Howard, expressed excitement for playing The Elder Scrolls 6: Sentinel, developed by a former Bethesda employee, in a way that shows a new approach.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/the-elder-scrolls/skyrim-lead-cant-wait-to-play-the-elder-scrolls-6-sentinel-because-he-didnt-work-on-it-its-a-good-time-for-someone-else-to-take-those-reins/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/BUm2ZnvQ2scEsFuDdbuUzk-1920-80.jpg",
+    "published_at": "2026-11-06T17:16:44.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-elder-scrolls-6-sentinel",
+    "game_label": "The Elder Scrolls 6: Sentinel"
+  },
+  {
+    "id": "12bc8f87f442",
+    "slug": "ps-plus-free-games-for-november-2026-are-yet-another-case-of-sony-doub",
+    "headline": "PS Plus Free Games for November 2026 Are Yet Another Case of Sony Double-Dipping",
+    "summary": "PS Plus subscribers may find this month's free game offering is too familiar, sparking concerns of Sony's business practices. The offered game may not be what players expected, leading to potential disappointment.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/ps-plus-games-november-2026-dead-island-tiers/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/ps-plus-logos-game-rant-98.jpg",
+    "published_at": "2026-11-06T17:01:16.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ps-plus-free-games-for-november-2026",
+    "game_label": "PS Plus Free Games for November 2026"
+  },
+  {
+    "id": "23bf2062aa45",
+    "slug": "godzilla-minus-zero-fixes-king-ghidorah-canon-in-1-brilliant-way",
+    "headline": "Godzilla Minus Zero Fixes King Ghidorah Canon in 1 Brilliant Way",
+    "summary": "The Godzilla Minus Zero team discusses the game's approach to King Ghidorah, highlighting its impact on the character's appearance and behavior.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/its-almost-singing-how-godzilla-minus-zero-brought-king-ghidorah-to-life-like-never-before/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mcdgomi_ec019.jpg",
+    "published_at": "2026-11-06T17:00:20.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "godzilla-minus-zero",
+    "game_label": "Godzilla Minus Zero"
+  },
+  {
+    "id": "ef4322344dff",
+    "slug": "hozy-brings-home-restoration-to-ps5",
+    "headline": "Hozy brings home restoration to PS5",
+    "summary": "A new game is coming to PS5, focusing on home restoration and cleaning",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/11/06/hozy-brings-calm-tactile-home-restoration-to-ps5-on-november-9/"
+      }
+    ],
+    "image_url": "https://blog.playstation.com/uploads/2048/11/2e063e9840dc9abba48b901d9fe84b35320b2971.mp4",
+    "published_at": "2026-11-06T17:00:12.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "hozy",
+    "game_label": "Hozy"
+  },
+  {
+    "id": "7d2ee3b3d680",
+    "slug": "playstation-is-already-killing-off-ratchet-clank-mobile-game-just-12-m",
+    "headline": "PlayStation Is Already Killing Off Ratchet & Clank Mobile Game Just 12 Months After It Was Revealed",
+    "summary": "PlayStation has shut down Ratchet & Clank: Ranger Rumble, a mobile game, just a year after its initial announcement.",
+    "category": "deals",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/playstation-mobile-game-shuts-down-just-12-months-after-it-was-revealed-2000754657"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2025/11/ratchclankmobile-1280x720.jpg",
+    "published_at": "2026-11-06T17:00:11.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ratchet-clank-ranger-rumble",
+    "game_label": "Ratchet & Clank: Ranger Rumble"
+  },
+  {
+    "id": "4a4a1786bab2",
+    "slug": "xboxs-new-pc-app-update-is-impressive-even-if-theres-a-few-teething-pr",
+    "headline": "Xbox's New PC App Update Is Impressive, Even If There's A Few Teething Problems",
+    "summary": "It's definitely faster! Just yesterday, Microsoft began rolling out an update for the Xbox PC app, making it faster and more responsive on Windows desktop and handheld. We've had a little play with the new version, and our first impressions are mostly positive. Xbox boss Asha Sharma posted a short video showing off the boot speed of the revamped Xbox…",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/xboxs-new-pc-app-update-is-impressive-even-if-theres-a-few-teething-problems"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/3d1aefc928700/large.jpg",
+    "published_at": "2026-11-06T17:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9167d3527572",
+    "slug": "into-the-war-torn-hutuo-region-on-xbox",
+    "headline": "Into the War-Torn Hutuo Region on Xbox",
+    "summary": "Xbox is revealing a new region, Hutuo, as part of their anniversary theme, where players will navigate a war-torn area with a 16-year conflict.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/11/06/where-winds-meet-anniversary-update-hutuo/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/9167d3527572/800/600",
+    "published_at": "2026-11-06T17:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "where-winds-meet",
+    "game_label": "Where Winds Meet"
+  },
+  {
+    "id": "be49ff8bf119",
+    "slug": "ea-officially-brings-back-25-pc-classics-with-huge-sale",
+    "headline": "EA Officially Brings Back 25 PC Classics With Huge Sale",
+    "summary": "EA just released 25 of its classic games on Steam, which includes seven new remasters.",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/ea-classic-games-rerelease-wing-commander-remaster-ultima/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/wing-commander-3.jpg",
+    "published_at": "2026-11-06T16:57:40.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8c85945cd253",
+    "slug": "finding-richard-in-the-legend-of-zelda-ocarina-of-time-remake",
+    "headline": "Finding Richard in The Legend of Zelda: Ocarina of Time Remake",
+    "summary": "A guide on how to locate and identify Richard, the white dog in the remake of the classic game Ocarina of Time, to complete the mission.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-richard-dog-location-how-to-find/"
+      },
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-remake-was-co-developed-by-xenoblade-studio-monolith-soft-which-continues-to-produce-bangers-for-nintendo/"
+      },
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/ocarina-of-time-developers-were-told-ignore-zeldas-confusing-timeline/"
+      },
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/the-legend-of-zelda-ocarina-of-time-remake-already-has-mods-pc/"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/costco-members-can-score-a-digital-copy-of-the-legend-of-zelda-ocarina-of-time-for-55"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zeldaootremake_guide_richard_lead.jpg",
+    "published_at": "2026-11-06T16:52:36.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-legend-of-zelda-ocarina-of-time",
+    "game_label": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "c8b5d28f0002",
+    "slug": "the-resident-evil-biohazard-unleashed-bundle-from-humble-includes-9-ca",
+    "headline": "The Resident Evil: Biohazard Unleashed Bundle From Humble Includes 9 Capcom Classics for $40",
+    "summary": "Humble Bundle's latest drop of PC games is a Resident Evil: Biohazard Unleashed bundle, featuring 9 games from Capcom's series that you can snag for your Steam library for as low as $40.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/the-resident-evil-biohazard-unleashed-bundle-from-humble-includes-9-capcom-classics-for-40"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2022/10/20/ladyd-1666304346466.jpg",
+    "published_at": "2026-11-06T16:52:28.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "902153df7e43",
+    "slug": "civ-7-is-at-the-center-of-a-switch-2-hacking-situation",
+    "headline": "Civ 7 Is At The Center Of A Switch 2 Hacking Situation",
+    "summary": "2K has reportedly started recalling the physical version of the strategy game due to the exploit",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/civ-7-is-at-the-center-of-a-switch-2-hacking-situation-2000754656"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/11/civ7-1280x720.jpg",
+    "published_at": "2026-11-06T16:45:25.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "90fab59b805a",
+    "slug": "psa-want-to-learn-links-ocarina-tunes-nintendos-got-the-sheet-music-fo",
+    "headline": "PSA: Want To Learn Link's Ocarina Tunes? Nintendo's Got The Sheet Music For All Of Them",
+    "summary": "Hylian how-to. Whether you have been playing Ocarina of Time on Switch 2, watching the trailers, or just been in the ether of its release, you almost certainly have an ocarina melody or two stuck in your head right now. For those who want to channel their earworm into a lesson, Nintendo has shared the sheet music for each of…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/psa-want-to-learn-links-ocarina-tunes-nintendos-got-the-sheet-music-for-all-of-them"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/ec92cd7148c0c/large.jpg",
+    "published_at": "2026-11-06T16:45:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8a84e8cdc263",
+    "slug": "new-ratchet-clank-game-officially-cancelled-by-sony",
+    "headline": "New Ratchet & Clank Game Officially Cancelled by Sony",
+    "summary": "Sony has cancelled its upcoming Ratchet & Clank: Ranger Rumble multiplayer shooter, citing a lack of progress. The game will be delisted and shut down next May.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/ratchet-and-clank-ranger-rumble-canceled-delisted/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/ratchet-clank-ranger-rumble.jpg",
+    "published_at": "2026-11-06T16:42:44.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ratchet-clank-ranger-rumble",
+    "game_label": "Ratchet & Clank: Ranger Rumble"
+  },
+  {
+    "id": "f71f664a6af5",
+    "slug": "gta-6-is-going-all-out-on-details-you-might-never-even-notice",
+    "headline": "GTA 6 Is Going All Out On Details You Might Never Even Notice",
+    "summary": "It's the smallest details that stand out most in Grand Theft Auto 6, and thanks to all the screenshots that developer Rockstar Games has posted since the game was officially announced, there's been no shortage of stuff to analyze. Last week, senior video producer Jake Dekker grabbed all 99 of those official screenshots--with the number of images increasing this week…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-is-going-all-out-on-details-you-might-never-even-notice/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-4.jpg?w=300",
+    "published_at": "2026-11-06T16:25:51.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "326037cbaea4",
+    "slug": "podcast-ocarina-still-has-the-magic-after-all-this-time",
+    "headline": "Podcast: Ocarina still has the magic after all this Time",
+    "summary": "Industry insider discusses the enduring appeal of The Legend of Zelda: Ocarina of Time, highlighting its influence on 3D gaming and its timeless story.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/blog/podcast/podcast-ocarina-still-has-the-magic-after-all-this-time/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/326037cbaea4/800/600",
+    "published_at": "2026-11-06T16:15:23.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-legend-of-zelda-ocarina-of-time",
+    "game_label": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "36a48f82a902",
+    "slug": "skyrim-director-reveals-specific-wishlist-for-elder-scrolls-vi-sentine",
+    "headline": "Skyrim Director Reveals Specific Wishlist for Elder Scrolls VI: Sentinel",
+    "summary": "Bethesda's Skyrim director shares his vision for Elder Scrolls VI: Sentinel, the upcoming MMO, with a couple of specific requests that hint at the game's direction",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/skyrim-game-director-has-a-very-specific-wishlist-for-the-elder-scrolls-vi-sentinel"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/04/theelderscrolls6-sentinel-xboxexclusive-blogroll-1793836140379.jpg",
+    "published_at": "2026-11-06T16:12:51.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "elder-scrolls-vi-sentinel",
+    "game_label": "Elder Scrolls VI: Sentinel"
+  },
+  {
+    "id": "af25dc93089e",
+    "slug": "election-results-have-little-impact-on-gaming-industry",
+    "headline": "Election Results Have Little Impact on Gaming Industry",
+    "summary": "An election result may not affect the gaming industry's decision-making, as customer demographics and purchasing habits remain relatively stable",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/elections-signal-cultural-shifts-that-no-creative-industry-can-dare-to-ignore-opinion"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/luke-michael-Tdwu35bCUj0-unsplash.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-06T16:10:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a5598b3714fc",
+    "slug": "ratchet-clank-ranger-rumble-game-shutting-down",
+    "headline": "Ratchet & Clank: Ranger Rumble Game Shutting Down",
+    "summary": "Developer Oh BiBi announces phone and tablet game will be removed from digital stores before release due to unknown reasons.",
+    "category": "deals",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/ratchet-clank-game-shutting-down-before-ever-fully-launching/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/ranger.png?w=300",
+    "published_at": "2026-11-06T16:09:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ratchet-clank-ranger-rumble",
+    "game_label": "Ratchet & Clank: Ranger Rumble"
+  },
+  {
+    "id": "391de4b7d44f",
+    "slug": "share-of-the-week-shadows",
+    "headline": "Share of the Week: Shadows",
+    "summary": "Last week, we asked you to share moments spent in the shadows from your favorite games using #PSshare #PSBlog for a chance to be featured. Here are this week’s highlights: John_Varela_R shared Ada peering out from the shadows in Resident Evil 4’s DLC kerplaaaah shared James Bond peering around a shadowy corner in 007 First […]",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/11/06/share-of-the-week-shadows-2/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/391de4b7d44f/800/600",
+    "published_at": "2026-11-06T16:00:21.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0bec9645b662",
+    "slug": "20-years-of-gears",
+    "headline": "20 Years of Gears",
+    "summary": "It’s hard to believe that 20 years ago, Gears of War launched on XBOX 360 and introduced the world to Marcus Fenix, Dominic Santiago, and the genius of putting a chainsaw on a gun. Since then, a lot has happened. We’ve released new games, introduced new characters and enemies, and welcomed millions of players into […] The post 20 Years…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/11/06/gears-of-war-e-day-season-2-20th-anniversary/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/0bec9645b662/800/600",
+    "published_at": "2026-11-06T16:00:00.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7c28d704e8f5",
+    "slug": "ex-playstation-xboxsega-and-nintendo-leaders-say-gamings-biggest-probl",
+    "headline": "Ex PlayStation, Xbox/Sega, and Nintendo leaders say gaming’s biggest problem is losing its appetite for risk | exclusive GamesBeat Next legends panel",
+    "summary": "copyright GamesBeat Three former console leaders from Nintendo, PlayStation, and Xbox/Sega agreed that the games industry has become overly focused on efficiency, consolidation, and...\nThe post Ex PlayStation, Xbox/Sega, and Nintendo leaders say gaming’s biggest problem is losing its appetite for risk | exclusive GamesBeat Next legends panel appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/ex-playstation-xbox-sega-and-nintendo-leaders-say-gamings-biggest-problem-is-losing-its-appetite-for-risk-exclusive-gamesbeat-next-legends-panel/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/7c28d704e8f5/800/600",
+    "published_at": "2026-11-06T16:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9f5f99d10f92",
+    "slug": "review-titanium-court-switch-2-the-freakiest-dream-youve-ever-had",
+    "headline": "Review: Titanium Court (Switch 2) - The Freakiest Dream You've Ever Had",
+    "summary": "Nintendo Life reviews Titanium Court, a Switch 2 game created by AP Thomson, describing it as a unique and bewildering experience",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/titanium-court"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/c394b170fd13d/large.jpg",
+    "published_at": "2026-11-06T16:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "titanium-court",
+    "game_label": "Titanium Court"
+  },
+  {
+    "id": "55e899d3a7eb",
+    "slug": "epomaker-he75-v2-tmr-review",
+    "headline": "Epomaker HE75 V2 TMR Review",
+    "summary": "PC Gamer reviews the Epomaker HE75 V2 TMR, a mid-range gaming keyboard with a unique design, and finds it to be a mighty option for those seeking a balance between size and performance.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/epomaker-he75-v2-tmr-review/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/DZmhCPFJWSinTGsEejYTQK-1920-80.jpg",
+    "published_at": "2026-11-06T15:58:29.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "fc495f241b4a",
+    "slug": "david-gaider-has-been-working-on-owlcats-expanse-rpg-the-expanse-has-l",
+    "headline": " David Gaider has been working on Owlcat's Expanse RPG: 'The Expanse has long been one of my favourite series, and so obviously I jumped at the opportunity to be involved' ",
+    "summary": "Owlcat has also just shown off the new voice for the game's male protagonist.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rpg/david-gaider-has-been-working-on-owlcats-expanse-rpg-the-expanse-has-long-been-one-of-my-favourite-series-and-so-obviously-i-jumped-at-the-opportunity-to-be-involved/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/jEUimKkSwUVRYYRkazhJhg-1920-80.jpg",
+    "published_at": "2026-11-06T15:53:01.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "13b0ea0c4567",
+    "slug": "world-of-warcraft-forever-demands-250gb-of-memory",
+    "headline": "World of Warcraft: Forever Demands 250GB of Memory",
+    "summary": "World of Warcraft: Forever requires a massive 250GB of memory to run, according to its developer. The game's enormous resource demands have sparked jokes about a hypothetical reaction from Elon Musk or Sam Altman to a similarly small memory requirement.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-takes-250-000-gb-of-memory-to-run-and-i-cant-even-joke-about-sam-altman-being-jealous-because-thats-almost-nothing-compared-to-the-monolithic-demands-of-ai/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/BTbLNfxrcctnP9Wk6NyQ2Z-1920-80.png",
+    "published_at": "2026-11-06T15:50:34.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "world-of-warcraft-forever",
+    "game_label": "World of Warcraft: Forever"
+  },
+  {
+    "id": "59e377c8af16",
+    "slug": "spectrum-customers-get-free-1gb-boost-to-download-gta-6",
+    "headline": "Spectrum Customers Get Free 1GB Boost to Download GTA 6",
+    "summary": "Spectrum customers in the US can get faster internet access to download the upcoming GTA 6 game",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/grand-theft-auto-6-spectrum-pro-free-1gb-internet-boost/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/jason-holding-a-pistol-and-looking-into-a-car-while-lucia-walks-up-with-a-bag-over-her-shoulder-in-gta-6.jpg",
+    "published_at": "2026-11-06T15:47:27.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
+    "id": "4e4679afad89",
+    "slug": "nintendos-shigeru-miyamoto-misses-financial-briefing-due-to-sudden-ill",
+    "headline": "Nintendo's Shigeru Miyamoto Misses Financial Briefing Due To Sudden Illness",
+    "summary": "Nintendo's Shigeru Miyamoto was absent from a financial briefing due to health issues, but is expected to recover soon.",
+    "category": "industry",
+    "platform_tags": [
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/nintendos-shigeru-miyamoto-misses-financial-briefing-due-to-a-sudden-illness-but-is-expected-to-recover-soon-2000754655"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/11/miyamoto-1280x720.jpg",
+    "published_at": "2026-11-06T15:46:04.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "7d75880dedf5",
     "slug": "steam-wishlist-hack-saves-40-on-total-war-warhammer-3",
     "headline": "Steam Wishlist Hack Saves $40 on Total War: Warhammer 3",
@@ -350,6 +1190,33 @@
     "game_label": null
   },
   {
+    "id": "db851a56abed",
+    "slug": "infineon-ceo-on-ai-boom-and-chip-demand",
+    "headline": "Infineon CEO on AI Boom and Chip Demand",
+    "summary": "Infineon CEO Andreas Urschitz discusses the impact of the AI boom on chip demand and infrastructure growth",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/infineon-bets-ai-boom-will-raise-demand-for-underlying-infrastructure-chips-andreas-urschitz-interview/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/db851a56abed/800/600",
+    "published_at": "2026-11-06T15:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "400425c39583",
     "slug": "synth-riders-dropping-80s-mixtape-vice-wave-dlc-to-immerse-you-in-some",
     "headline": "Synth Riders Dropping '80s MixTape: Vice Wave' DLC to Immerse You in Some Neon Dreams",
@@ -532,6 +1399,27 @@
     "game_label": null
   },
   {
+    "id": "972e281560b4",
+    "slug": "nvidia-announces-3-more-dlss-5-games",
+    "headline": "Nvidia announces 3 more DLSS 5 games",
+    "summary": "Nvidia announced that there are three games releasing this month with DLSS 5. They include Hogwarts Legacy, which became available yesterday; War Thunder, which...\nThe post Nvidia announces 3 more DLSS 5 games appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/nvidia-announces-3-more-dlss-5-games/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/972e281560b4/800/600",
+    "published_at": "2026-11-06T14:30:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "984fe141d3bb",
     "slug": "the-expanse-osiris-reborn-recasts-male-protagonist",
     "headline": "The Expanse: Osiris Reborn Recasts Male Protagonist",
@@ -626,6 +1514,30 @@
     "game_label": "Zelda: Ocarina of Time Remake"
   },
   {
+    "id": "a5d09d37447a",
+    "slug": "jyoka-a-new-sengoku-era-castle-town-building-game",
+    "headline": "Jyoka: A New Sengoku-era Castle Town-Building Game",
+    "summary": "A solo-developed strategy game about building a Sengoku-era castle town is coming to Steam on November 16, with development spanning over three years.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/solo-developed-sengoku-era-castle-town-building-strategy-game-jyoka-coming-to-steam-november-16/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/a5d09d37447a/800/600",
+    "published_at": "2026-11-06T14:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "jyoka",
+    "game_label": "Jyoka"
+  },
+  {
     "id": "0d7bbf70067d",
     "slug": "phantom-blade-zeros-kung-fu-punk-inspired-bold-musical-decisions-to-ma",
     "headline": "Phantom Blade Zero's Kung Fu Punk Inspired 'Bold Musical Decisions to Match the Visuals'",
@@ -661,6 +1573,29 @@
     ],
     "image_url": "https://assetsio.gnwcdn.com/NG-announce-V2.jpg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-11-06T13:53:10.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5f78e69922bf",
+    "slug": "stellar-blade-on-switch-2-looks-like-a-great-port-until-you-start-figh",
+    "headline": "Stellar Blade On Switch 2 Looks Like A Great Port, Until You Start Fighting",
+    "summary": "There's no denying that Stellar Blade is one seriously good-looking game. On Switch 2, it runs surprisingly well on Nintendo's hybrid system, and it'd be a perfect port if it wasn't for one glaring issue that holds it back. On the surface, Stellar Blade looks like a smooth port with few compromises, as it still offers plenty of graphical detail…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/stellar-blade-on-switch-2-looks-like-a-great-port-until-you-start-fighting/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4496255-stellar-blade-1.jpg?w=300",
+    "published_at": "2026-11-06T13:46:33.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -778,6 +1713,29 @@
     ],
     "image_url": "https://cdn.mos.cms.futurecdn.net/Nk7vKq5LUw4KbBmJjhSnwX-1920-80.jpg",
     "published_at": "2026-11-06T13:00:04.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b63e173f6afd",
+    "slug": "pixel-art-high-school-adventure-game-1days-out-on-steam-delivering-a-l",
+    "headline": "Pixel art high school adventure game 1daYs out on Steam. Delivering a love letter to your crush takes an unexpected turn ",
+    "summary": "1DaYs is a solo-developed narrative adventure game.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/indie-games/pixel-art-high-school-adventure-game-1days-out-on-steam-delivering-a-love-letter-to-your-crush-takes-an-unexpected-turn/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/b63e173f6afd/800/600",
+    "published_at": "2026-11-06T13:00:00.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -1150,6 +2108,33 @@
     "image_url": "https://picsum.photos/seed/391c35a246f6/800/600",
     "published_at": "2026-11-06T12:00:07.000Z",
     "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5a66b9630646",
+    "slug": "fuji-tv-to-leverage-ai-in-all-live-action-series-by-2027",
+    "headline": "Fuji TV to Leverage AI in All Live-Action Series by 2027",
+    "summary": "Japanese broadcaster Fuji TV plans to incorporate generative AI in all its live-action dramas by 2027, establishing a dedicated AI testing site called AI Sandbox.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/nongaming-news/major-japanese-broadcaster-fuji-tv-plans-to-use-generative-ai-in-all-its-live-action-series-by-the-end-of-2027-establishes-dedicated-ai-testing-site/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/5a66b9630646/800/600",
+    "published_at": "2026-11-06T12:00:00.000Z",
+    "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -1587,6 +2572,27 @@
     "game_label": null
   },
   {
+    "id": "242d60c59d83",
+    "slug": "a-personal-winter-is-a-short-bl-visual-novel-about-a-boy-and-his-senpa",
+    "headline": "A Personal Winter is a short BL visual novel about a boy and his senpai setting their school on fire ",
+    "summary": "A new title by Land of Ghosts developer brutal_vap.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/a-personal-winter-is-a-short-bl-visual-novel-about-a-boy-and-his-senpai-setting-their-school-on-fire/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/242d60c59d83/800/600",
+    "published_at": "2026-11-06T11:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "cb6454d20034",
     "slug": "eight-xbox-games-are-releasing-today-including-an-excuse-to-start-buil",
     "headline": "Eight Xbox Games Are Releasing Today, Including An Excuse To Start Building An Ice Cream Empire (November 6)",
@@ -1678,6 +2684,30 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "9ba269f67c61",
+    "slug": "cozy-life-sim-japanese-rural-life-adventure-released-on-ps",
+    "headline": "Cozy Life Sim Japanese Rural Life Adventure Released on PS",
+    "summary": "Cozy life sim Japanese Rural Life Adventure has launched on PlayStation following its initial release on Steam and Switch in March 2026.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/very-positive-cozy-life-sim-japanese-rural-life-adventure-is-out-on-playstation/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/9ba269f67c61/800/600",
+    "published_at": "2026-11-06T10:11:57.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "japanese-rural-life-adventure",
+    "game_label": "Japanese Rural Life Adventure"
   },
   {
     "id": "b200f894b05e",
@@ -1977,37 +3007,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "8c85945cd253",
-    "slug": "finding-richard-in-the-legend-of-zelda-ocarina-of-time-remake",
-    "headline": "Finding Richard in The Legend of Zelda: Ocarina of Time Remake",
-    "summary": "A guide on how to locate and identify Richard, the white dog in the remake of the classic game Ocarina of Time, to complete the mission.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-richard-dog-location-how-to-find/"
-      },
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-remake-was-co-developed-by-xenoblade-studio-monolith-soft-which-continues-to-produce-bangers-for-nintendo/"
-      },
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/ocarina-of-time-developers-were-told-ignore-zeldas-confusing-timeline/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zeldaootremake_guide_richard_lead.jpg",
-    "published_at": "2026-11-06T08:46:36.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-legend-of-zelda-ocarina-of-time",
-    "game_label": "The Legend of Zelda: Ocarina of Time"
   },
   {
     "id": "22873efae2ab",
@@ -3768,985 +4767,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "eb6f43dde7b1",
-    "slug": "25-discounted-games-to-grab-during-xboxs-idxbox-deep-discounts-sale",
-    "headline": "25+ Discounted Games to Grab During Xbox's ID@XBOX Deep Discounts Sale",
-    "summary": "Xbox is offering significant discounts on various indie titles through its ID@XBOX Deep Discounts sale, including some awesome indie games.",
-    "category": "deals",
-    "platform_tags": [
-      "xbox",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/features/25plus-of-the-best-discounted-games-from-xboxs-deep-discounts-sale"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/1397c001d6a13/large.jpg",
-    "published_at": "2026-11-05T18:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "fa84c62c5538",
-    "slug": "the-legend-of-khiimoris-mongolian-expanse-update-brings-in-frosty-moun",
-    "headline": "The Legend of Khiimori's Mongolian Expanse update brings in frosty mountains and scorching deserts that'll require a lot more than a fur coat and a sturdy horse",
-    "summary": "Another day, another opportunity for some horsing around! I'm being literal here, to be clear, as a new update for The Legend of Khiimori dropped yesterday. It's called The Mongolian Expanse, opening up the map a whole lot more and making a sweep of other additions to the game.\r\n \nRead more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/the-legend-of-khiimoris-mongolian-expanse-update-brings-in-frosty-mountains-and-scorching-deserts-thatll-require-a-lot-more-than-a-fur-coat-and-a-sturdy-horse"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/the-legend-of-khiimori-mongolian-expanse.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-05T18:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8749a135794a",
-    "slug": "nintendo-download-5th-november-north-america-plus-3-discounted-games-y",
-    "headline": "Nintendo Download: 5th November (North America) + Plus 3 Discounted Games You Should Snap Up",
-    "summary": "Games? That aren't Zelda?!? The latest Nintendo Download update for North America has arrived, and it's bringing Ocarina of Time — but also other new games — to the eShop. As always, be sure to drop a vote in our poll and comment down below with your potential picks for the week. Enjoy! Switch eShop - Highlights The Legend of…",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/11/nintendo-download-5th-november-north-america-plus-plus-3-discounted-games-you-should-snap-up"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/d2df95c3f6918/large.jpg",
-    "published_at": "2026-11-05T18:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "268473af225c",
-    "slug": "bundle-up-with-two-beloved-classics-now-on-ea-play",
-    "headline": "Bundle Up With Two Beloved Classics, Now on EA Play",
-    "summary": "From garden chaos to cozy creations, two classics are on The Play List. Plants vs. Zombies: Replanted and MySims: Cozy Bundle are now on EA Play for XBOX! Members can fall back into beloved favorites with unlimited access. Game Pass Ultimate members can settle into sweater weather now with EA Play. Get unlimited access today, […] The post Bundle Up…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/11/05/ea-play-november/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/268473af225c/800/600",
-    "published_at": "2026-11-05T18:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a5f5c67f3a9b",
-    "slug": "007-first-light-one-of-2026s-biggest-surprises-will-now-let-you-play-t",
-    "headline": "007 First Light, One Of 2026’s Biggest Surprises, Will Now Let You Play The First Mission For Free",
-    "summary": "Players will be able to carry over progress into the full game if they decide to buy it and continue",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/007-first-light-one-of-2026s-biggest-surprises-will-now-let-you-play-the-first-mission-for-free-2000754211"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2025/06/bfb725166a99ccabb7cd25ed810a4e8e-1280x720.jpg",
-    "published_at": "2026-11-05T17:34:03.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "eeb8433adda9",
-    "slug": "rapper-kodak-black-will-be-an-npc-in-gta-6-creating-speculation-over-o",
-    "headline": "Rapper Kodak Black Will Be an NPC in GTA 6, Creating Speculation Over Other Artists Appearing In-Game",
-    "summary": "Rapper Kodak Black has been confirmed to be featured as an NPC in GTA 6 via a new batch of screenshots.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/rapper-kodak-black-will-be-in-npc-in-gta-6-creating-speculation-over-other-artists-appearing-in-game"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/05/gta-6-kodak-black-1793895386725.jpg",
-    "published_at": "2026-11-05T17:32:34.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d898d747e045",
-    "slug": "escape-academy-2-back-2-school-clocktower-puzzle-solution",
-    "headline": "Escape Academy 2: Back 2 School Clocktower Puzzle Solution",
-    "summary": "A comprehensive guide for solving the puzzles in the 'That Rings a Bell' challenge in Escape Academy 2: Back 2 School, helping players complete all puzzles to progress through the Clocktower.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/escape-academy-2-back-2-school-clocktower-puzzle-solutions-guide/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/11/clocktower-puzzle-using-the-clock-face-in-escape-academy-2.jpg",
-    "published_at": "2026-11-05T17:30:20.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "escape-academy-2-back-2-school",
-    "game_label": "Escape Academy 2: Back 2 School"
-  },
-  {
-    "id": "c8b55951c3de",
-    "slug": "nintendo-highlights-7-switch-2-exclusive-games-coming-soon",
-    "headline": "Nintendo Highlights 7 Switch 2 Exclusive Games Coming Soon",
-    "summary": "Nintendo has announced seven exclusive games coming to the Switch 2 in late 2026 and 2027",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/nintendo-switch-2-exclusive-games-releases-soon-2026-2027/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/switch-2-upcoming-exclusives-games.jpg",
-    "published_at": "2026-11-05T17:30:15.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "nintendo-switch-2",
-    "game_label": "Nintendo Switch 2"
-  },
-  {
-    "id": "7b384a56426e",
-    "slug": "we-have-so-many-questions-about-this-stellar-blade-launch-trailer",
-    "headline": "We Have So Many Questions About This Stellar Blade Launch Trailer",
-    "summary": "\"Take EVE everywhere\". Shift Up has launched a new live-action launch trailer for Stellar Blade: Complete Edition on Switch 2, and it's... well, we have so many questions. To be fair, the message is clear: take EVE wherever you go, right? It's a nod toward the Switch 2's portable nature, though why EVE is interrupting someone's gaming session to brush…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/11/we-have-so-many-questions-about-this-stellar-blade-launch-trailer"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/b48473f3a67e3/large.jpg",
-    "published_at": "2026-11-05T17:30:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "851c594bcd07",
-    "slug": "opinion-hey-that-hellraiser-revival-game-is-pretty-good",
-    "headline": "Opinion: Hey, That Hellraiser: Revival Game Is Pretty Good",
-    "summary": "Liam finds fun in AA horror. For as much as I love the horror genre, I've never seen a Hellraiser film. If they're as fun to watch as Hellraiser: Revival is to play, though, then maybe I need to catch up. Since we've got The Legend of Zelda: Ocarina of Time and GTA 6 right around the corner (I'm now…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/features/opinion-hey-that-hellraiser-revival-game-is-pretty-good"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/5d26e6003d31d/large.jpg",
-    "published_at": "2026-11-05T17:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b8a7c331ac34",
-    "slug": "zelda-lead-says-nintendo-doesnt-do-layoffs-as-theres-a-real-benefit-to",
-    "headline": " Zelda lead says Nintendo doesn't do layoffs as there's \"a real benefit\" to keeping staff long-term ",
-    "summary": "A \"continuity of core staff\" is a good thing, actually",
-    "category": "industry",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/the-legend-of-zelda/legend-of-zelda-lead-says-nintendo-doesnt-do-layoffs-because-theres-a-real-benefit-to-keeping-staff-long-term-we-have-that-base-that-we-can-build-from/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/XU5kNkRg3c62toFgyKLdXf-1920-80.jpg",
-    "published_at": "2026-11-05T17:29:30.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c29a7ea8257d",
-    "slug": "unlock-exclusive-rewards-in-cloverlines-with-november-codes",
-    "headline": "Unlock Exclusive Rewards in Cloverlines with November Codes",
-    "summary": "GamesRadar+ reveals codes for Cloverlines that grant free Crystal Mana, EXP boosts, and other valuable items.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/action-rpg/cloverlines-codes/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/nNLJhDboLRn7Y8naxXhJnX-1920-80.jpg",
-    "published_at": "2026-11-05T17:28:09.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "cloverlines",
-    "game_label": "Cloverlines"
-  },
-  {
-    "id": "7112aa66a252",
-    "slug": "world-of-warcraft-forever-launch-reveals-surprising-server-requirement",
-    "headline": "World of Warcraft Forever Launch Reveals Surprising Server Requirements",
-    "summary": "Blizzard's new World of Warcraft Forever has reportedly stable servers, with 200,000 GB of RAM allocated for server stability.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/world-of-warcraft-forevers-launch-was-running-on-over-200000-gigabytes-of-ram"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/03/wowthumb-1793742518107.png",
-    "published_at": "2026-11-05T17:27:56.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "world-of-warcraft-forever",
-    "game_label": "World of Warcraft Forever"
-  },
-  {
-    "id": "97a6dc8679b2",
-    "slug": "nintendo-officially-addresses-switch-2-price-hike-concerns",
-    "headline": "Nintendo Officially Addresses Switch 2 Price Hike Concerns",
-    "summary": "Nintendo president Shuntaro Furukawa said the company isn't currently considering another Nintendo Switch 2 price increase.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/nintendo-switch-2-price-increase-november-2026/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/switch-2-third-party-partner-games-february-direct.jpg",
-    "published_at": "2026-11-05T17:27:25.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0e0df3fde42c",
-    "slug": "grand-theft-auto-vi-launch-screenshots",
-    "headline": "Grand Theft Auto VI launch screenshots",
-    "summary": "Rockstar Games has released a gallery of nearly 40 launch screenshots for Grand Theft Auto …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/grand-theft-auto-vi-launch-screenshots"
-      },
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/11/heres-another-30plus-new-gta-6-screenshots-to-drool-over"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-launch-update-screenshots-rockstar-games-nov-5/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/0e0df3fde42c/800/600",
-    "published_at": "2026-11-05T17:17:12.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ec5bcefcbdde",
-    "slug": "no-more-switch-2-price-hikes-yet-nintendo-president-says-as-the-compan",
-    "headline": " No more Switch 2 price hikes yet, Nintendo president says as the company weathers AI memory crisis ",
-    "summary": "Nintendo's doing what it can to keep prices down",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/tech/no-more-switch-2-price-hikes-yet-nintendo-president-says-as-the-company-weathers-the-ai-driven-memory-shortage/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/pRmjeTEUPHcPKaGxeVmmTB-1920-80.jpg",
-    "published_at": "2026-11-05T17:13:25.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "61e2fe88d168",
-    "slug": "gears-of-war-e-day-gets-its-first-price-cut-ahead-of-black-friday-sale",
-    "headline": "Gears of War: E-Day Gets Its First Price Cut Ahead of Black Friday Sales",
-    "summary": "Both Amazon and Target have slashed $9 off physical copies of Gears of War: E-Day on Xbox Series X, dropping it to $60.99 ahead of Black Friday sales.",
-    "category": "deals",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gears-of-war-e-day-gets-its-first-price-cut-ahead-of-black-friday-sales-2026"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/05/gears-of-war-e-day-deal-1793892245131.jpg",
-    "published_at": "2026-11-05T17:07:45.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8dc5f1d8db87",
-    "slug": "my-new-favorite-horror-game-turns-reconnecting-with-your-ex-into-a-har",
-    "headline": "My New Favorite Horror Game Turns Reconnecting With Your Ex Into A Harrowing Experience",
-    "summary": "Tenebris Somnia is a horror game that uses FMV elements, blurring the line between gameplay and a cinematic experience",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/tenebris-somnia-an-fmv-game-that-turns-reconnecting-with-your-ex-into-a-harrowing-experience-2000753435"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/11/TenebrisSomnia-Julia-1280x720.jpg",
-    "published_at": "2026-11-05T17:00:55.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "tenebris-somnia",
-    "game_label": "Tenebris Somnia"
-  },
-  {
-    "id": "d76a0c9ca448",
-    "slug": "a-faster-simpler-xbox-experience-is-coming-to-pc-web-and-cloud",
-    "headline": "A Faster, Simpler XBOX Experience Is Coming to PC, Web and Cloud",
-    "summary": "Starting today, XBOX Insiders can try an updated XBOX PC app that launches up to 60% faster and makes it easier to find games, connect with friends, and play. We’re also bringing the refreshed XBOX web experience to more players and rolling out updates to XBOX cloud gaming apps on supported TVs and VR headsets. […] The post A Faster,…",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "xbox",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/11/05/a-faster-simpler-xbox-experience-is-coming-to-pc-web-and-cloud/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/d76a0c9ca448/800/600",
-    "published_at": "2026-11-05T17:00:04.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a54adab363d3",
-    "slug": "kihan-launches-constitutional-computing-to-bring-enforceable-authority",
-    "headline": "Kihan launches Constitutional Computing to bring enforceable authority to enterprise AI agents",
-    "summary": "Kihan, a tech firm developing Constitutional Computing, announced its formation and unveiled a math-based architecture designed to make AI governance enforceable at the point...\nThe post Kihan launches Constitutional Computing to bring enforceable authority to enterprise AI agents appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/kihan-launches-constitutional-computing-to-bring-enforceable-authority-to-enterprise-ai-agents/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a54adab363d3/800/600",
-    "published_at": "2026-11-05T17:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "152ec15afe1c",
-    "slug": "grimes-will-star-in-ai-film-coming-to-theaters-gods-dont-give-gifts",
-    "headline": "Grimes will star in AI film coming to theaters: Gods Don’t Give Gifts",
-    "summary": "Grimes, the popstar with over four billion views and streams, is part of the cast of the first AI film to come to theaters...\nThe post Grimes will star in AI film coming to theaters: Gods Don’t Give Gifts appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/grimes-will-star-in-ai-film-coming-to-theaters-gods-dont-give-gifts/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/152ec15afe1c/800/600",
-    "published_at": "2026-11-05T17:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b6d9fa01bfcc",
-    "slug": "jemas-launches-trading-card-games-based-on-superman-animations",
-    "headline": "Jemas Launches Trading Card Games Based on Superman Animations",
-    "summary": "Former Marvel president Bill Jemas is reviving his passion for trading card games with a new company inspired by Superman animations.",
-    "category": "deals",
-    "platform_tags": [
-      "mobile",
-      "pc",
-      "vr",
-      "switch",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/ex-marvel-leader-bill-jemas-launches-trading-card-games-based-on-superman-animations/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/b6d9fa01bfcc/800/600",
-    "published_at": "2026-11-05T17:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "426fc02fdaef",
-    "slug": "xbox-pc-app-receives-significant-upgrade-starting-today-plus-more-clou",
-    "headline": "Xbox PC App Receives Significant Upgrade Starting Today, Plus More Cloud Gaming Improvements",
-    "summary": "\"A faster, simpler Xbox experience.\". Xbox is officially rolling out an updated version of the Xbox PC app to members of the Insider program as of today, aiming to deliver a \"faster\" and \"simpler\" experience compared to the version we've been using in recent years. The new app is something that leaked a while ago, and adopts a cleaner visual…",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/11/xbox-pc-app-receives-significant-upgrade-starting-today-plus-more-cloud-gaming-improvements"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/041016a923048/large.jpg",
-    "published_at": "2026-11-05T17:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c33bbdb907f5",
-    "slug": "nvidia-ensure-unboxing-a-ludicrously-expensive-new-graphics-card-isnt",
-    "headline": "Nvidia ensure unboxing a ludicrously expensive new graphics card isn't limited to real life in these RAM crisis times by releasing a GeForce 8800 GTX unpacking sim",
-    "summary": "In what feels a fairly cheeky move during a time when memory shortages have infamously made it pretty much impossible to buy a decently powerful new graphics card without spending approximately a gazillion pounds/dollars/dollarpounds, Nvidia have decided to put out a Steam demo that allows folks to re-live the feeling of unboxing a ludicrously expensive graphics card in 2006. Read…",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/nvidia-ensure-unboxing-a-ludicrously-expensive-new-graphics-card-isnt-limited-to-real-life-in-these-ram-crisis-times-by-releasing-a-geforce-8800-gtx-unpacking-sim"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/nvidia-steam-GeForce-8800-GTX-tribute-demo-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-05T16:55:40.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4ec0d25110e8",
-    "slug": "gta-6-looks-pretty-realistic-until-it-comes-to-gym-etiquette",
-    "headline": "GTA 6 Looks Pretty Realistic, Until It Comes To Gym Etiquette",
-    "summary": "Compared to previous games in the series, Grand Theft Auto 6 looks like it'll only be a few steps removed from reality when it launches this month. Actions have consequences, working on a relationship requires more than just hitting a few button prompts, and bulking up means that you'll have to visit an in-game gym regularly. Will all of that…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gta-6-looks-pretty-realistic-until-it-comes-to-gym-etiquette/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-22.jpg?w=300",
-    "published_at": "2026-11-05T16:47:41.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "93707007c7ef",
-    "slug": "massive-gta-6-mural-tagged-by-graffiti-artist-overnight-and-people-are",
-    "headline": "Massive GTA 6 Mural Tagged By Graffiti Artist Overnight And People Aren’t Happy: ‘As A Graffiti Artist Myself, I Honestly Think This Is Pretty Disrespectful’",
-    "summary": "Some have defended the artist, claiming the mural is just a big advertisement and fair game for tagging",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/massive-gta-6-mural-tagged-by-graffiti-artist-overnight-and-people-arent-happy-as-a-graffiti-artist-myself-i-honestly-think-this-is-pretty-disrespectful-2000754181"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/11/GTa-6-mural-1280x720.jpg",
-    "published_at": "2026-11-05T16:32:30.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d84e107a3aa4",
-    "slug": "modern-warfare-4-has-made-call-of-dutys-biggest-problem-even-worse",
-    "headline": "Modern Warfare 4 Has Made Call of Duty's Biggest Problem Even Worse",
-    "summary": "The latest installment in Call of Duty's Modern Warfare series makes enemy locations more transparent, leading to a significant loss of challenge and engagement for players.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/modern-warfare-4-call-of-duty-biggest-problem/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mw4-cod-biggest-problem-header.jpg",
-    "published_at": "2026-11-05T16:30:20.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "call-of-duty-modern-warfare-4",
-    "game_label": "Call of Duty: Modern Warfare 4"
-  },
-  {
-    "id": "cea5d95ff4a8",
-    "slug": "stellar-blades-free-bayonetta-crossover-outfits-are-available-now-on-p",
-    "headline": "Stellar Blade's Free Bayonetta Crossover Outfits Are Available Now on PS5, PC",
-    "summary": "Witch will you pick?\nAction game royalty has officially arrived in Sony and ShiftUp's fan favourite hack-and-slasher, Stellar Blade.\nThe sci-fi action title has been updated with a selection of new outfits for Eve, all inspired by SEGA's beloved Bayonetta series. They're freely available to all players.\nRead the full article on pushsquare.com",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/stellar-blades-free-bayonetta-crossover-outfits-are-available-now-on-ps5-pc"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/77be64defb24a/large.jpg",
-    "published_at": "2026-11-05T16:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ae56a7ebd996",
-    "slug": "japanese-charts-switch-2-sales-get-a-nice-bump-ahead-of-zelda-ocarina",
-    "headline": "Japanese Charts: Switch 2 Sales Get A Nice Bump Ahead Of Zelda: Ocarina Of Time",
-    "summary": "Link will see you now. We are back with another look at the Japanese charts, courtesy of Famitsu, and it has been another big week for Nintendo. On the software side of things, Nintendo Switch Sports Resort continues to lead the charge, holding onto its pole position from last week with another ~23,000 units to its name. The Switch 2…",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/11/japanese-charts-switch-2-sales-get-a-nice-bump-ahead-of-zelda-ocarina-of-time"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/794969a20e4ec/large.jpg",
-    "published_at": "2026-11-05T16:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1ba182bf98bd",
-    "slug": "pc-gamer-magazines-latest-issue-highlights-a-diverse-range-of-games",
-    "headline": "PC Gamer Magazine's Latest Issue Highlights a Diverse Range of Games",
-    "summary": "The latest issue of PC Gamer magazine features a diverse selection of games, including Metro 2039, StarCraft, and Diablo 5, with no specific focus or in-depth analysis of any single game.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-metro-2039/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/6uR2ASAqLXhiXu4rvch8w9-1920-80.jpg",
-    "published_at": "2026-11-05T16:28:57.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0818037a0a2e",
-    "slug": "drinkable-street-fighter-6-trading-cards-found-on-japanese-news-show",
-    "headline": "Drinkable Street Fighter 6 Trading Cards Found on Japanese News Show",
-    "summary": "A Japanese news program has discovered a new trend: edible Street Fighter 6 trading cards, containing a 12ml energy shot. The cards feature Capcom's fighting game designs.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/drinkable-street-fighter-trading-cards"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2023/03/24/streetfighter6zangief-blog-1679661087129.jpg",
-    "published_at": "2026-11-05T16:25:37.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "street-fighter-6",
-    "game_label": "Street Fighter 6"
-  },
-  {
-    "id": "25afcc55004f",
-    "slug": "rockstar-shares-38-new-screenshots-of-grand-theft-auto-6-showing-off-v",
-    "headline": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more",
-    "summary": "Rockstar Games have released 38 new screenshots of Grand Theft Auto 6, ahead of its release later this month.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/grand-theft-auto-6-38-new-screenshots"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Jason-GTA-header.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-05T16:18:40.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a7d4d764bc54",
-    "slug": "should-you-buy-the-steam-controller-this-deals-season",
-    "headline": " Should you buy the Steam Controller this deals season? ",
-    "summary": "With the Holidays and deals season coming up, you might be considering buying a Steam Controller - but who is this fancy new gamepad best for?",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/gaming-controllers/should-you-buy-the-steam-controller-this-deals-season/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/q89U4h2xNuFbNv9vJK8sbh-1920-80.jpg",
-    "published_at": "2026-11-05T16:01:47.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "382687c19b6d",
-    "slug": "ocarina-of-time-remake-confirmed-to-be-nintendos-mysterious-owl-projec",
-    "headline": "Ocarina of Time Remake Confirmed To Be Nintendo's Mysterious Owl Project",
-    "summary": "The long-rumored Ocarina of Time remake has been officially confirmed, with Nintendo confirming its development under the codename 'Owl Project'. Details on the remake remain scarce, but fans of the original game are eagerly awaiting more information.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/the-legend-of-zelda-ocarina-of-time-remake-codename-owl-found-years-ago/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/ocarinaoftimeremakelinknavi.jpg",
-    "published_at": "2026-11-05T16:00:19.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-legend-of-zelda-ocarina-of-time",
-    "game_label": "The Legend of Zelda: Ocarina of Time"
-  },
-  {
-    "id": "92d065489ee3",
-    "slug": "poll-will-you-be-using-zelda-notes-with-ocarina-of-time",
-    "headline": "Poll: Will You Be Using Zelda Notes With Ocarina Of Time?",
-    "summary": "Nintendo Life poll asks users if they plan to use the Zelda Notes app with The Legend of Zelda: Ocarina of Time Switch 2 remake.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/features/poll-will-you-be-using-zelda-notes-with-ocarina-of-time"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/30cceb417e635/large.jpg",
-    "published_at": "2026-11-05T16:00:00.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-legend-of-zelda-ocarina-of-time-switch-2",
-    "game_label": "The Legend of Zelda: Ocarina of Time Switch 2"
-  },
-  {
-    "id": "0e5128b2d158",
-    "slug": "denmu-closes-fund-above-50m-target",
-    "headline": "Denmu Closes Fund Above $50M Target",
-    "summary": "Investment firm Denmu has successfully raised $50 million to support global game developers throughout development and launch phases.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/denmu-closes-debut-fund-above-50-million-target-to-support-global-game-developers/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/0e5128b2d158/800/600",
-    "published_at": "2026-11-05T16:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "181c9d7783a8",
-    "slug": "free-play-days-payday-3-anno-117-ball-x-pit-deceive-inc-age-of-wonders",
-    "headline": "Free Play Days – PAYDAY 3, Anno 117, BALL x PIT, Deceive Inc, Age of Wonders 4, and More",
-    "summary": "Skip the safe picks – play something daring with Free Play Days! PAYDAY 3, Nowhere Prophet, BALL x PIT, Deceive Inc, and Age of Wonders 4 are available this weekend for XBOX Game Pass Ultimate, Premium and Essential members to play from Thursday November 5 until Sunday, November 8. IXION will have a 2-hour trial […] The post Free Play…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/11/05/free-play-days-11-04-2026/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/181c9d7783a8/800/600",
-    "published_at": "2026-11-05T16:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3d558e52ff74",
-    "slug": "where-to-buy-the-hori-ocarina-of-time-accessory",
-    "headline": "Where to buy the Hori Ocarina of Time accessory",
-    "summary": "GamesRadar+ helps you find the Hori Ocarina of Time accessory, a peripheral for The Legend of Zelda: Ocarina of Time fans.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/toys-collectibles/where-to-buy-hori-ocarina-of-time-the-hard-to-find-accessory-for-nintendo-switch-2/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/j6V8AMi5qsXHqpfxjvAvC8-1920-80.jpg",
-    "published_at": "2026-11-05T15:57:37.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "ocarina-of-time",
-    "game_label": "Ocarina of Time"
-  },
-  {
-    "id": "400c93d4b6ad",
-    "slug": "mass-effect-can-still-live-on-baldurs-gate-3-and-fable-are-proof",
-    "headline": "Mass Effect Can Still Live On - Baldur's Gate 3 and Fable Are Proof",
-    "summary": "GamesRadar+ argues that the survival of Baldur's Gate 3 and Fable suggests Mass Effect can still find life, even if its initial campaign isn't a huge success.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/mass-effect/mass-effect-can-still-live-on-baldurs-gate-3-and-fable-are-proof/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/kari2gQwNNYtHbhBGpoRYK-1920-80.jpg",
-    "published_at": "2026-11-05T15:56:52.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "baldurs-gate-3",
-    "game_label": "Baldur's Gate 3"
-  },
-  {
-    "id": "ee849aa6b7e3",
-    "slug": "gta-6-lots-of-new-images-have-been-released",
-    "headline": "GTA 6: Lots Of New Images Have Been Released",
-    "summary": "Rockstar has released a big batch of new Grand Theft Auto 6 screenshots as part of what the developer is calling a \"launch gallery.\" The brand-new images show off main characters Jason and Lucia in a variety of settings, including a nightclub, the dive bar The Rusty Anchor, and the gym, where Jason is putting in some work on the…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gta-6-lots-of-new-images-have-been-released/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason.jpg?w=300",
-    "published_at": "2026-11-05T15:55:32.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0fa05ec6a696",
-    "slug": "arkane-union-accuses-microsoft-of-sabotaging-development-of-marvels-bl",
-    "headline": "Arkane Union Accuses Microsoft Of “Sabotaging” Development Of Marvel’s Blade",
-    "summary": "As the fate of Arkane Lyon hangs in the balance, a union representing workers from the French studio offered strong words toward Arkane's parent company, Microsoft. In short, the union blames Microsoft for \"sabotaging\" the production of its Blade game. French trade union STJV (per VGC) claimed that development on Marvel's Blade is \"going fine,\" but said that workers face…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/arkane-union-accuses-microsoft-of-sabotaging-development-of-marvels-blade/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Marvels-Blade-_-Announcement-Trailer-_-The-Game-Awards-2023-0-1-15.jpeg?w=300",
-    "published_at": "2026-11-05T15:45:56.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "349433bb53c7",
-    "slug": "goddess-of-victory-pc-launcher-hit-with-potential-malware",
-    "headline": "Goddess of Victory PC Launcher Hit with Potential Malware",
-    "summary": "PC launcher of gacha shooter/RPG Goddess of Victory has been compromised by third-party malware, prompting a quick fix and caution from Level Infinite publishers.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/goddess-of-victory-nikkes-pc-launcher-suffers-potential-malware-infection-with-its-publishers-suggesting-folks-whove-booted-since-late-september-do-a-security-check"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/goddess-of-victory-nikke-pc-launcher-hacked-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-05T15:43:10.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "goddess-of-victory",
-    "game_label": "Goddess of Victory"
   }
 ]
