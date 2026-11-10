@@ -1,5 +1,633 @@
 [
   {
+    "id": "f3a16296a2f6",
+    "slug": "most-perfect-masterpieces-on-the-game-boy-advance-ranked",
+    "headline": "Most Perfect Masterpieces On The Game Boy Advance, Ranked",
+    "summary": "These classic Game Boy Advance masterpieces range form strategy brilliance to RPG icons, and even on a handheld console, they still hold up today.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/best-most-perfect-masterpieces-game-boy-advance-gba-ranked/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/most-perfect-masterpieces-on-the-gba-ranked.jpg",
+    "published_at": "2026-11-10T20:15:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "34cde72d1633",
+    "slug": "call-of-duty-mw4-has-basically-ruined-its-best-game-mode",
+    "headline": "Call of Duty: MW4 Has Basically Ruined Its Best Game Mode",
+    "summary": "A recent update to Call of Duty: Modern Warfare 4 ruins one of the best multiplayer modes in the game.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/call-of-duty-mw4-gunfight-only-3-rounds-kill-block/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/call-of-duty-mw4-gunfight-ruined.jpg",
+    "published_at": "2026-11-10T20:02:02.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e9502fb13810",
+    "slug": "zelda-ocarina-of-time-remake-already-reaches-big-sales-milestone",
+    "headline": "Zelda: Ocarina of Time Remake Already Reaches Big Sales Milestone",
+    "summary": "The Legend of Zelda: Ocarina of Time hits a major sales milestone in one key region just days after its highly-anticipated release on Switch 2.",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/zelda-ocarina-of-time-remake-sales-milestone/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/zelda-ocarina-of-time-remake-already-reaches-big-sales-milestone.jpg",
+    "published_at": "2026-11-10T20:00:14.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7a6745a88f38",
+    "slug": "poll-is-gta-6-being-stuck-at-30fps-on-ps5-a-dealbreaker",
+    "headline": "Poll: Is GTA 6 Being Stuck at 30fps on PS5 a Dealbreaker?",
+    "summary": "Doubled trouble.\nYour (potential) nightmare has become a reality: GTA 6 runs at just 30 frames-per-second on PS5 and PS5 Pro.\nThe target frame rate was confirmed earlier today by Rockstar Games itself, prompting an outpouring of relative disappointment from those who were banking on a silky 60fps experience.\nRead the full article on pushsquare.com",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/features/poll-is-gta-6-being-stuck-at-30fps-on-ps5-a-dealbreaker"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/7503b796c69e2/large.jpg",
+    "published_at": "2026-11-10T20:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f42cf267b40e",
+    "slug": "football-manager-27-out-now-with-game-pass-discover-5-unmissable-addit",
+    "headline": "Football Manager 27 Out Now with Game Pass: Discover 5 Unmissable Additions",
+    "summary": "It’s time for you to start making this season’s big calls, with FM27 and FM27 Console out now, including with Game Pass. FM27 delivers greater control over your tactical vision and a deeper football world to explore from the moment your career begins. In FM27 Console, meanwhile, a host of new additions, refinements and returning […] The post Football Manager…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/11/10/football-manager-27-game-pass-pc-console-xbox/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/f42cf267b40e/800/600",
+    "published_at": "2026-11-10T20:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e621def66d05",
+    "slug": "ahead-of-gta-6-and-as-concerns-over-genai-pc-ports-grow-take-twos-ceo",
+    "headline": "Ahead of GTA 6 and as concerns over genAI PC ports grow, Take-Two's CEO says they're revving up their \"technical defences\" and \"legal activites\" over piracy",
+    "summary": "It's a bit of a time for AI and games at the moment, 'ey? A bad time, obviously, as it's infecting everything from game development, to the modding community, to native PC ports of a remake of a very popular game that I won't link to for fear of a certain company finding out where I live and ending me…",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/ahead-of-gta-6-and-as-concerns-over-genai-pc-ports-grow-take-twos-ceo-says-theyre-revving-up-their-technical-defences-and-legal-activites-over-piracy"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/gta-6-grand-theft-auto-6-main-characters-hot-4.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-10T19:59:40.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7639593d044b",
+    "slug": "bandai-namco-closes-studio-behind-flop-game-unknown-9-awakening-2-year",
+    "headline": "Bandai Namco Closes Studio Behind Flop Game Unknown 9: Awakening 2 Years Later",
+    "summary": "Bandai Namco is shutting down Reflector Entertainment, the studio behind the disappointing game Unknown 9: Awakening, which released two years ago. The company decided not to pursue a new game in pre-production",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/2-years-after-unknown-9-awakening-bombed-bandai-namco-is-closing-the-studio-that-made-it/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/WTrJjDChn3v8ozas2KjHmf-1920-80.jpg",
+    "published_at": "2026-11-10T19:55:36.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "unknown-9-awakening",
+    "game_label": "Unknown 9: Awakening"
+  },
+  {
+    "id": "e6e4f6325a48",
+    "slug": "playstation-plus-app-shutting-down",
+    "headline": "PlayStation Plus App Shutting Down",
+    "summary": "Sony is discontinuing the PlayStation Plus app, allowing it to focus on high-quality experiences for its members.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/sonys-pc-presence-shrinks-again-as-playstation-plus-app-shuts-down-in-december/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/oUndSHioENppGTEUoBEg7B-1920-80.jpg",
+    "published_at": "2026-11-10T19:34:33.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "79b9999ee1c1",
+    "slug": "ps-plus-games-for-november-2026",
+    "headline": "PS Plus Games for November 2026",
+    "summary": "Sony has announced the next wave of games for PlayStation Plus Premium and Extra, featuring Death Stranding 2: On the Beach and other big-name titles.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/ps-plus-games-november-2026-pc-app"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/playstation-plus-monthly-games-for-november-2026-announced"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Death-Stranding-2-trailer-screenshot-showing-a-masked-figure-in-red-pointing-to-themself-with-their-thumb.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-10T19:33:04.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "death-stranding-2-on-the-beach",
+    "game_label": "Death Stranding 2: On the Beach"
+  },
+  {
+    "id": "09664a6a0625",
+    "slug": "marathon-to-add-new-co-op-roguelite-mode-social-spaces-and-other-major",
+    "headline": "Marathon To Add New Co-Op Roguelite Mode, Social Spaces, And Other Major Features In December",
+    "summary": "It's beginning to look a lot like Destiny. Bungie isn't prepared to let its extraction shooter go quietly. Instead, Marathon's upcoming 'Symbiosis' update arrives on December 8, bringing a whole host of new PvE and PvP modes. Having just finished watching the new gameplay trailer above, I've got to say, It's giving off plenty of Destiny vibes. I'm a big,…",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/marathon-to-add-new-co-op-roguelite-mode-social-spaces-and-other-major-features-in-december"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/2e19009332a73/large.jpg",
+    "published_at": "2026-11-10T19:30:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "781f40b994c3",
+    "slug": "ps-plus-pulls-plug-on-pc-streaming-after-fewer-than-1-used-it",
+    "headline": "PS Plus Pulls Plug on PC Streaming After Fewer Than 1% Used It",
+    "summary": "End of the road. Sony will kill the ability to stream PlayStation games on the PC beginning 10th December, with the platform holder stating fewer than 0.4% of eligible PS Plus Premium subscribers used it. Members of the manufacturer’s most expensive tier can currently stream and play titles from the PS Plus Premium catalogue using a PC app, which will…",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/ps-plus-pulls-plug-on-pc-streaming-after-fewer-than-1percent-used-it"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/3f42218054785/large.jpg",
+    "published_at": "2026-11-10T19:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e84d23636bce",
+    "slug": "big-walk-ai-controversy-is-a-goty-awards-twist-sparking-a-bigger-debat",
+    "headline": "Big Walk AI Controversy Is a GOTY Awards Twist Sparking a Bigger Debate",
+    "summary": "Big Walk faces a hurdle ahead of GOTY season, as IGF jury members draw a hardline stance against voting for games that have any AI use whatsoever.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/big-walks-ai-controversy-goty-2026/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/big-walk.png",
+    "published_at": "2026-11-10T19:25:34.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5db7f0045a0f",
+    "slug": "gta-6-was-never-going-to-hit-60-frames-per-second-on-consoles",
+    "headline": "GTA 6 Was Never Going to Hit 60 Frames per Second on Consoles",
+    "summary": "Back when Rockstar showed off a bunch of GTA 6 gameplay on Netflix, one thing was incredibly clear – the game was running around 30 fps. And now that Rockstar has confirmed that it is targeting 30 fps on every console, including the PS5 Pro, it's clear that the game likely never would have run at a solid 60 on…",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-was-never-going-to-be-60-frames-per-second-on-consoles"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/09/ultimate-edition-electric-fang-03-1794260488819.jpg",
+    "published_at": "2026-11-10T19:15:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c6d338f81345",
+    "slug": "i-want-an-uglier-gta-6-that-runs-at-60-fps-30-fps-on-console-is-more-r",
+    "headline": " I want an uglier GTA 6 that runs at 60 FPS – 30 FPS on console is more reason to wait for PC ",
+    "summary": "Opinion | Please, Rockstar, join us in the light of 60 FPS",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/i-want-an-uglier-gta-6-that-runs-at-60-fps-30-fps-on-ps5-and-xbox-series-x-is-more-reason-to-wait-for-pc/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Zb3Q2uW5q96AnLSCtr2AVA-1920-80.jpg",
+    "published_at": "2026-11-10T19:14:37.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5d9379cb5d5f",
+    "slug": "valve-is-giving-you-more-ways-to-know-if-a-game-runs-well-on-steam-dec",
+    "headline": "Valve Is Giving You More Ways To Know If A Game Runs Well On Steam Deck",
+    "summary": "Valve's Steam Deck verification program has been a helpful, if somewhat flawed, method of determining if a game is a good fit for the company's handheld PC. But while many games might be granted a \"Verified\" badge, there have been many cases where real-world performance doesn't live up to the expectation of players. That's why Valve has introduced a more…",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/valve-is-giving-you-more-ways-to-know-if-a-game-runs-well-on-steam-deck/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/2e7f9079b6be9a3c99c5014fc1ee0eaede8d5edb.jpg?w=300",
+    "published_at": "2026-11-10T19:07:47.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8478e382ad50",
+    "slug": "2027s-most-stylish-action-game-looks-spectacular-in-first-official-gam",
+    "headline": "2027's Most Stylish Action Game Looks Spectacular in First Official Gameplay",
+    "summary": "Tsarevna is an upcoming hack-and-slash action game that uses motion capture from a real ballerina for its dance-inspired melee combat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/tsarevna-official-gameplay-trailer-dancer-slasher-game/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/tsarevna-screenshot.jpg",
+    "published_at": "2026-11-10T19:07:20.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c143f447f3eb",
+    "slug": "absolute-batman",
+    "headline": "Absolute Batman",
+    "summary": "Polygon reports that DC Comics' new direction might be owed to a film project called Absolute Batman, potentially saving the company from a negative trajectory after James Gunn's departure from Skydance",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/absolute-batman-saves-dc-comics-skydance-shakeup-james-gunn-fired/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/absolute-batman-cover.jpg",
+    "published_at": "2026-11-10T19:06:46.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "absolute-batman",
+    "game_label": "Absolute Batman"
+  },
+  {
+    "id": "6009d2ad9043",
+    "slug": "wow-forever-just-received-its-first-big-post-launch-changes",
+    "headline": "WoW: Forever Just Received Its First Big Post-Launch Changes",
+    "summary": "World of Warcraft: Forever received its first post-launch updates over the weekend, giving players a good reason to run each dungeon more than once alongside upcoming class tweaks. On November 8, developer Blizzard issued a hotfix that increased kill experience while in dungeons by 50%. According to the forum post, Blizzard said this is so it \"feels better to go…",
+    "category": "patches",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/wow-forever-just-received-its-first-big-post-launch-changes/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-First-Post-Launch-Changes.jpg?w=300",
+    "published_at": "2026-11-10T19:03:44.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ea8ab7045e70",
+    "slug": "talking-point-with-big-walk-the-ai-in-game-dev-debate-just-got-a-lot-m",
+    "headline": "Talking Point: With Big Walk, The AI-In-Game-Dev Debate Just Got A Lot Murkier",
+    "summary": "Big talk. \"The line must be drawn here! This far, no further!\" Please forgive the Captain Picard First Contact quote (it's been a couple of weeks since Patrick Stewart's death and only now can I mention his most famous character without welling up) - I promise it's relevant as an illustration of an admirable, principled stance. Read the full article…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/features/talking-point-with-big-walk-the-ai-in-game-dev-debate-just-got-a-lot-murkier"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/35bdc8dc74477/large.jpg",
+    "published_at": "2026-11-10T19:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2aa8ef7a7b09",
+    "slug": "grand-theft-auto-6-becomes-most-pre-ordered-game-in-ps-store-history",
+    "headline": "Grand Theft Auto 6 becomes most pre-ordered game in PS Store history",
+    "summary": "Grand Theft Auto 6 has broken records with the most pre-orders in PlayStation Store history, beating Cyberpunk 2077's record of 8 million copies, according to analysts.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history"
+      },
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-officially-the-most-pre-ordered-game-in-playstation-and-xbox-store-history-sony-and-microsoft-confirm/"
+      },
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/gta-6-on-ps5-is-ps-stores-most-pre-ordered-digital-game-in-history"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/8AR3zqZmYarRCg66YJcqnm-1920-80.jpg",
+    "published_at": "2026-11-10T19:00:00.000Z",
+    "hype_signal": 75,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto",
+    "game_label": "Grand Theft Auto"
+  },
+  {
+    "id": "1cadd12c8657",
+    "slug": "playstation-plus-pc-app-is-being-shut-down-in-december-because-less-th",
+    "headline": " PlayStation Plus PC app is being shut down in December because less than 0.4% of eligible subscribers are using it ",
+    "summary": "Yes, this fits with Sony's broader pullback from PC, but the real reason the app is \"retiring\" is a simple lack of interest.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/playstation-plus-pc-app-is-being-shut-down-in-december-because-less-than-0-4-percent-of-eligible-subscribers-are-using-it/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/wkTrHGFcrPxmNFFGDeyYtH-1920-80.jpg",
+    "published_at": "2026-11-10T18:57:18.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d7aede60d9d6",
+    "slug": "marathon-is-becoming-a-whole-new-game-next-month-with-a-roguelite-pve",
+    "headline": "Marathon is becoming a whole new game next month with a roguelite PvE mode, a beta for a very Halo-esque team deathmatch mode, a vibey social space and more",
+    "summary": "Marathon is getting a lot bigger next month. In September, Bungie outlined their plans for the shooter making some big promises, namely the arrival of a PvE mode, and now they've shown off what you can expect from its next season, Symbiosis.\r\n \nRead more",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/marathon-is-becoming-a-whole-new-game-next-month-with-a-roguelite-pve-mode-a-beta-for-a-very-halo-esque-team-deathmatch-mode-a-vibey-social-space-and-more"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/marathon-symbiosis.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-10T18:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a174f335a5af",
+    "slug": "mouse-work-launches-december-7",
+    "headline": "Mouse Work launches December 7",
+    "summary": "Party game Mouse Work will launch for Switch 2 on December 7, developer Nitrome announced. …",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/mouse-work-launches-december-7"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/a174f335a5af/800/600",
+    "published_at": "2026-11-10T18:29:05.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0bc7d603ea6f",
+    "slug": "astro-bot-ps5-price-drops-to-3895",
+    "headline": "Astro Bot PS5 Price Drops to $38.95",
+    "summary": "Astro Bot on PS5 is now $38.95 at Amazon and Walmart, saving $20 off its usual price, marking a new all-time low.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/astro-bot-dips-below-40-at-amazon-and-walmart-before-black-friday-sales-kick-off"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/10/astro-bot-deal-1794321464679.jpg",
+    "published_at": "2026-11-10T18:23:05.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "astro-bot",
+    "game_label": "Astro Bot"
+  },
+  {
+    "id": "e85817498ada",
+    "slug": "there-is-no-doubt-that-persona-influenced-this-title-series-veteran-sa",
+    "headline": " \"There is no doubt that Persona influenced this title,\" series veteran says of his new RPG ",
+    "summary": "How Atlus veteran Kouji Okada shaped his next RPG",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/persona/there-is-no-doubt-that-persona-influenced-this-title-series-veteran-says-of-his-new-rpg-but-our-intention-was-not-to-create-a-different-version-of-persona/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/BwPi3SyVtzP8M8jUejRBPb-1920-80.jpg",
+    "published_at": "2026-11-10T18:18:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "cb7d3720ede0",
+    "slug": "the-outer-worlds-2s-first-dlc-arrives-on-december-2",
+    "headline": "The Outer Worlds 2's First DLC Arrives on December 2",
+    "summary": "The Outer Worlds 2's first story expansion, Side Effects Guaranteed, is coming on December 2, adding a new story chapter to the game.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/11/10/the-outer-worlds-2s-first-dlc-arrives-december-2/"
+      },
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/the-outer-worlds-2-dlc-side-effects-guaranteed-launches-december-2"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/cb7d3720ede0/800/600",
+    "published_at": "2026-11-10T18:17:44.000Z",
+    "hype_signal": 75,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-outer-worlds-2",
+    "game_label": "The Outer Worlds 2"
+  },
+  {
+    "id": "8a8be7d19d55",
+    "slug": "take-two-ceo-teases-rockstar-future-amid-gta-6-speculation",
+    "headline": "Take-Two CEO Teases Rockstar Future Amid GTA 6 Speculation",
+    "summary": "Take-Two CEO Adam Sessler hints at upcoming Rockstar announcements, fueling speculation about the future of the company and potential Grand Theft Auto 6 details.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/a-week-before-gta-6-take-two-ceo-is-already-teasing-what-comes-next-from-rockstar/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/rBaUR4AoTLWh6KK3oMo8ud-1920-80.jpg",
+    "published_at": "2026-11-10T18:15:11.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto",
+    "game_label": "Grand Theft Auto"
+  },
+  {
     "id": "f058ffa9d274",
     "slug": "marvel-rivals-announces-x-men-heroes-for-season-11",
     "headline": "Marvel Rivals Announces X-Men Heroes for Season 11",
@@ -102,30 +730,6 @@
     "comment_count": 0,
     "game": "call-of-duty-modern-warfare-4-warzone",
     "game_label": "Call of Duty: Modern Warfare 4 & Warzone"
-  },
-  {
-    "id": "cb7d3720ede0",
-    "slug": "the-outer-worlds-2s-first-dlc-arrives-on-december-2",
-    "headline": "The Outer Worlds 2's First DLC Arrives on December 2",
-    "summary": "The Outer Worlds 2's first story expansion, Side Effects Guaranteed, is coming on December 2, adding a new story chapter to the game.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "PlayStation Blog",
-        "url": "https://blog.playstation.com/2026/11/10/the-outer-worlds-2s-first-dlc-arrives-december-2/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/cb7d3720ede0/800/600",
-    "published_at": "2026-11-10T18:00:31.000Z",
-    "hype_signal": 75,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-outer-worlds-2",
-    "game_label": "The Outer Worlds 2"
   },
   {
     "id": "fcabfe89cbeb",
@@ -680,29 +1284,6 @@
     "game_label": null
   },
   {
-    "id": "79b9999ee1c1",
-    "slug": "ps-plus-games-for-november-2026",
-    "headline": "PS Plus Games for November 2026",
-    "summary": "Sony has announced the next wave of games for PlayStation Plus Premium and Extra, featuring Death Stranding 2: On the Beach and other big-name titles.",
-    "category": "deals",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/ps-plus-games-november-2026-pc-app"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Death-Stranding-2-trailer-screenshot-showing-a-masked-figure-in-red-pointing-to-themself-with-their-thumb.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-10T17:10:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "death-stranding-2-on-the-beach",
-    "game_label": "Death Stranding 2: On the Beach"
-  },
-  {
     "id": "fea4be43ae69",
     "slug": "gta-6-preload-starts-today-but-upgrading-your-ssd-may-be-a-waste",
     "headline": "GTA 6 Preload Starts Today, but Upgrading Your SSD May Be a Waste",
@@ -791,6 +1372,27 @@
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/resident-evil-original-sin-prelude-to-biohazard-official-cover-art-gamerant.jpg",
     "published_at": "2026-11-10T17:00:14.000Z",
     "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "06fed415aca8",
+    "slug": "clearx-is-a-smart-shoe-cleaning-robot-that-washes-dries-and-sanitizes",
+    "headline": "ClearX is a smart shoe-cleaning robot that washes, dries, and sanitizes in one cycle",
+    "summary": "Brolan is unveiling ClearX, an intelligent shoe-cleaning robot that washes, dries and sanitizes your shoes in one fully automated cycle. The automated home appliance...\nThe post ClearX is a smart shoe-cleaning robot that washes, dries, and sanitizes in one cycle appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/clearx-is-a-smart-shoe-cleaning-robot-that-washes-dries-and-sanitizes-in-one-cycle/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/06fed415aca8/800/600",
+    "published_at": "2026-11-10T17:00:00.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -1066,34 +1668,6 @@
     "game_label": null
   },
   {
-    "id": "2aa8ef7a7b09",
-    "slug": "grand-theft-auto-6-becomes-most-pre-ordered-game-in-ps-store-history",
-    "headline": "Grand Theft Auto 6 becomes most pre-ordered game in PS Store history",
-    "summary": "Grand Theft Auto 6 has broken records with the most pre-orders in PlayStation Store history, beating Cyberpunk 2077's record of 8 million copies, according to analysts.",
-    "category": "industry",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history"
-      },
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-officially-the-most-pre-ordered-game-in-playstation-and-xbox-store-history-sony-and-microsoft-confirm/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/8AR3zqZmYarRCg66YJcqnm-1920-80.jpg",
-    "published_at": "2026-11-10T16:31:30.000Z",
-    "hype_signal": 75,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto",
-    "game_label": "Grand Theft Auto"
-  },
-  {
     "id": "c2e51d10d475",
     "slug": "nintendo-switch-gains-popular-steam-feature-after-years-of-demand",
     "headline": "Nintendo Switch Gains Popular Steam Feature After Years of Demand",
@@ -1323,6 +1897,27 @@
     "game_label": null
   },
   {
+    "id": "e5e3aa3801d9",
+    "slug": "troy-baker-honored-with-andrew-yoon-legend-award",
+    "headline": "Troy Baker Honored with Andrew Yoon Legend Award",
+    "summary": "Troy Baker receives the Andrew Yoon Legend Award for his contributions to the gaming industry.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/troy-baker-honored-as-the-andrew-yoon-legend-award-recipient-for-the-16th-annual-new-york-game-awards/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/e5e3aa3801d9/800/600",
+    "published_at": "2026-11-10T16:02:38.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "24ad67b065ee",
     "slug": "10-craziest-things-to-happen-in-gaming-before-we-got-gta-6",
     "headline": "10 CRAZIEST Things to Happen in Gaming Before We Got GTA 6",
@@ -1361,6 +1956,29 @@
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/ps5-prism.jpg",
     "published_at": "2026-11-10T16:00:14.000Z",
     "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d5d68e1f347f",
+    "slug": "nzxt-launches-pc-gaming-cases-and-kraken-coolers",
+    "headline": "NZXT launches PC gaming cases and Kraken Coolers",
+    "summary": "NZXT, a maker of PC gaming components and prebuilt systems, launched new generations of two case lines and two liquid coolers. The cases for...\nThe post NZXT launches PC gaming cases and Kraken Coolers appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/nzxt-launches-pc-gaming-cases-and-kraken-coolers/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/d5d68e1f347f/800/600",
+    "published_at": "2026-11-10T16:00:00.000Z",
+    "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -1480,6 +2098,29 @@
     "comment_count": 0,
     "game": "the-legend-of-zelda-ocarina-of-time-remake",
     "game_label": "The Legend of Zelda: Ocarina of Time Remake"
+  },
+  {
+    "id": "46e270a1eee4",
+    "slug": "the-mobile-premiere-2026-showcases-22-games-from-16-studios",
+    "headline": "The Mobile Premiere 2026 showcases 22 games from 16 studios",
+    "summary": "The Mobile Premiere concluded bringing together 22 exclusive game reveals and updates for mobile gaming players.\nThe post The Mobile Premiere 2026 showcases 22 games from 16 studios appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/the-mobile-premiere-2026-showcases-22-games-from-16-studios/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/46e270a1eee4/800/600",
+    "published_at": "2026-11-10T15:41:54.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "294edac2a90c",
@@ -4023,663 +4664,5 @@
     "comment_count": 0,
     "game": "tanuki-pons-summer",
     "game_label": "Tanuki: Pon's Summer"
-  },
-  {
-    "id": "bb6fa343b81b",
-    "slug": "silent-hill-2-remake-patch-addresses-graphics-issues-on-ps5-and-ps5-pr",
-    "headline": "Silent Hill 2 Remake Patch Addresses Graphics Issues on PS5 and PS5 Pro",
-    "summary": "A new update for the Silent Hill 2 remake is live, focusing on PS5 and PS5 Pro, and addressing graphical issues plaguing the game.",
-    "category": "patches",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/dedicated-ps5-ps5-pro-patch-aims-to-fix-silent-hill-2-graphics-issues"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/85d8e5a94821b/large.jpg",
-    "published_at": "2026-11-10T11:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "silent-hill-2",
-    "game_label": "Silent Hill 2"
-  },
-  {
-    "id": "a3514217c1ef",
-    "slug": "world-of-warcraft-forever-might-live-officially-on-pc-but-people-are-p",
-    "headline": "World of Warcraft: Forever might live officially on PC, but people are playing it on phones and handhelds already",
-    "summary": "If you're a World of Warcraft: Forever player you're almost certainly having your free time drained as you chain yourself to your desktop PC to play the game, or maybe a laptop. But for a small selection of true enthusiasts, the game is already working on mobile and handheld devices.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/world-of-warcraft-forever-ipad-handheld"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/WoW_Forever_SCENIC_Announce_Camping_Players_064.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-10T10:55:40.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8d919d3600eb",
-    "slug": "gta-6-countdown-app-revealed",
-    "headline": "GTA 6 Countdown App Revealed",
-    "summary": "A fan has created a countdown app for Grand Theft Auto VI, sparking excitement among gamers.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-converted-gta-5-to-its-final-form-a-gta-6-countdown-app/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Uhxf4WLX2y9A75bEUnq5h7-1920-80.jpg",
-    "published_at": "2026-11-10T10:52:35.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-v",
-    "game_label": "Grand Theft Auto V"
-  },
-  {
-    "id": "a746d8c03ac8",
-    "slug": "house-house-uses-generative-ai-sparingly-in-big-walk-development",
-    "headline": "House House Uses Generative AI Sparingly in Big Walk Development",
-    "summary": "Developer House House reveals it used generative AI in a limited capacity to aid in the creation of their hit indie multiplayer puzzle game Big Walk",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/house-house-big-walk-generative-ai-development"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/big-walk-house-house.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-10T10:51:40.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "big-walk",
-    "game_label": "Big Walk"
-  },
-  {
-    "id": "e06e1fd5f33e",
-    "slug": "winter-whiskers-cleaning-sim-launches-on-december-9",
-    "headline": "Winter Whiskers Cleaning Sim Launches on December 9",
-    "summary": "A relaxing cleaning simulation game called Winter Whiskers is set to launch on December 9.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/winter-whiskers-launches-december-9"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/e06e1fd5f33e/800/600",
-    "published_at": "2026-11-10T10:45:50.000Z",
-    "hype_signal": 10,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "winter-whiskers",
-    "game_label": "Winter Whiskers"
-  },
-  {
-    "id": "0dfd7383ef50",
-    "slug": "nintendo-optimistic-about-zelda-ocarina-of-time",
-    "headline": "Nintendo Optimistic About Zelda: Ocarina of Time",
-    "summary": "Nintendo's financial briefing reveals a positive outlook for Zelda: Ocarina of Time, citing 'off to a great start' remarks from president Shuntaro Furukawa.",
-    "category": "industry",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-off-to-a-great-start-says-nintendo"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/7b4200d058863/large.jpg",
-    "published_at": "2026-11-10T10:45:00.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "zelda-ocarina-of-time",
-    "game_label": "Zelda: Ocarina of Time"
-  },
-  {
-    "id": "c882cc391737",
-    "slug": "skydance-announces-games-division-layoffs-following-111bn-merger",
-    "headline": "Skydance Announces Games Division Layoffs Following $111bn Merger",
-    "summary": "Skydance has laid off an undisclosed number of employees from its games division after merging with a $111bn company, reportedly due to restructuring efforts.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/skydance-announces-layoffs-to-games-division-following-111bn-merger"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/last-ronin-(1).webp?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-10T10:34:40.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c86bd45b5d15",
-    "slug": "stellar-blade-studio-shift-up-says-it-wont-be-revealing-project-spirit",
-    "headline": "Stellar Blade studio Shift Up says it won’t be revealing Project Spirits until next year",
-    "summary": "The game was planned for a 2026 reveal, but has been moved to avoid clashing with major releases",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/stellar-blade-studio-shift-up-says-it-wont-be-revealing-project-spirits-until-next-year/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/c86bd45b5d15/800/600",
-    "published_at": "2026-11-10T10:33:32.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6443eeaf4fec",
-    "slug": "why-is-it-not-fun-doug-bowser-gives-a-peek-into-nintendos-strategy-ses",
-    "headline": "\"Why Is It Not Fun?\" - Doug Bowser Gives A Peek Into Nintendo's Strategy Sessions",
-    "summary": "The eyes have it. It's no secret that when it comes to game development, Nintendo is all about fun. We all know this firsthand, of course, but it's still interesting to get a peek behind the curtain and find out how this mission statement works its way into development itself. At the recent GamesBeat Next 2026 event, former Nintendo of…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/11/why-is-it-not-fun-doug-bowser-gives-a-peek-into-nintendos-strategy-sessions"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/bd5460fe34203/large.jpg",
-    "published_at": "2026-11-10T10:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "349acfc4dad4",
-    "slug": "house-house-reveal-use-of-generative-ai-in-big-walk",
-    "headline": "House House Reveal Use of Generative AI in Big Walk",
-    "summary": "Game developer House House clarified their use of generative AI in the development of Big Walk, stating it was used sparingly to tackle technical challenges.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/big-walk-developer-house-house-reveal-genai-use-in-final-stretch-of-development-only-revealing-it-now-as-it-has-become-a-matter-of-public-interest"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Big-Walk_SivZWZr.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-10T10:19:30.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "big-walk",
-    "game_label": "Big Walk"
-  },
-  {
-    "id": "e3640a41ee68",
-    "slug": "gta-6-pre-orders-exceed-expectations",
-    "headline": "GTA 6 Pre-Orders Exceed Expectations",
-    "summary": "Take-Two's CEO says pre-orders for Grand Theft Auto 6 far exceeded their expectations, with no release date announced.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstars-owner-expected-gta-6-to-be-big-but-not-this-big-we-know-that-the-numbers-will-speak-for-themselves-soon-enough/"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/gta-6-pre-orders-are-far-above-initial-expectations-but-nba-2k27-was-below-our-forecast-take-two-says/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/DjHygAvVxq5SRXiCL2bj3i-1920-80.jpg",
-    "published_at": "2026-11-10T10:01:55.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gta-6",
-    "game_label": "GTA 6"
-  },
-  {
-    "id": "fce217172e55",
-    "slug": "gta-6s-missing-data-suggests-it-might-be-censored-in-certain-regions",
-    "headline": "GTA 6's Missing Data Suggests It Might Be Censored In Certain Regions",
-    "summary": "Rockstar Games' upcoming title, Grand Theft Auto 6, may be censored in Australia and New Zealand due to missing metadata",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/gta-6-preload-missing-data-censored-australia-new-zealand/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/man-covering-his-face-in-gta-6.jpg",
-    "published_at": "2026-11-10T10:00:19.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "95befc80e9cc",
-    "slug": "warhammer-survivors-review",
-    "headline": "Warhammer Survivors Review",
-    "summary": "The article reviews Warhammer Survivors, a game that, while not matching Vampire Survivors, offers satisfying gameplay with pixelated tyranids.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/warhammer-survivors-review/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/11/warhammer-survivors-tank-rolling-across-sand-with-dice-flying-past.jpg",
-    "published_at": "2026-11-10T10:00:19.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "warhammer-survivors",
-    "game_label": "Warhammer Survivors"
-  },
-  {
-    "id": "d83c4d188094",
-    "slug": "warhammer-survivors-all-40k-evolutions",
-    "headline": "Warhammer Survivors: All 40K Evolutions",
-    "summary": "Warhammer Survivors has 21 evolutions in its 40K universe, and players can unlock them all to receive a special in-game reward.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/warhammer-survivors-all-40k-evolutions/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/11/warhammer-survivors-40k-chest-opening-to-reveal-an-evolution.jpg",
-    "published_at": "2026-11-10T10:00:19.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "warhammer-survivors",
-    "game_label": "Warhammer Survivors"
-  },
-  {
-    "id": "18a230242634",
-    "slug": "warhammer-survivors-isnt-good-enough-to-be-a-vampire-survivors-replace",
-    "headline": "Warhammer Survivors Isn't Good Enough to Be a Vampire Survivors Replacement",
-    "summary": "Polygon praises Warhammer Survivors as a solid but not exceptional alternative to popular 'Vampire Survivors' clone, highlighting its engaging gameplay and charming presentation.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/warhammer-survivors-impressions/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/warhammer-survivors-screenshot-brother-luca-s-might.png",
-    "published_at": "2026-11-10T10:00:18.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "warhammer-survivors",
-    "game_label": "Warhammer Survivors"
-  },
-  {
-    "id": "f4489134dac3",
-    "slug": "avatar-the-last-airbender-game-completely-shutting-down-amid-franchise",
-    "headline": "Avatar: The Last Airbender Game Completely Shutting Down Amid Franchise Comeback",
-    "summary": "A game set in the Avatar: The Last Airbender universe is shutting down during a massive franchise comeback.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/avatar-last-airbender-atla-game-shutdown-december-2026/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/stoic_bald_anime_portrait_3840x2160.jpg",
-    "published_at": "2026-11-10T10:00:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5be9aa1392ae",
-    "slug": "how-to-unlock-all-warhammer-survivors-characters",
-    "headline": "How to Unlock All Warhammer Survivors Characters",
-    "summary": "Warhammer Survivor has numerous characters to unlock, but some are locked behind stages. This guide helps players figure out how to unlock all of them.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/warhammer-survivors-all-characters-champions-how-to-get/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/how-to-unlock-all-characters-warhammer-survivors.jpg",
-    "published_at": "2026-11-10T10:00:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "warhammer-survivors",
-    "game_label": "Warhammer Survivors"
-  },
-  {
-    "id": "bc5cb0f7d136",
-    "slug": "warhammer-survivors-now-available-on-xbox-game-pass",
-    "headline": "Warhammer Survivors Now Available on XBOX Game Pass",
-    "summary": "Warhammer Survivors, a bullet-heaven survival game, is now live on XBOX Game Pass. Developed by Auroch Digital, the game is set in the Warhammer 40,000 universe and features addictive gameplay across various battlefields.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/11/10/warhammer-survivors-gloomspite-gitz/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/bc5cb0f7d136/800/600",
-    "published_at": "2026-11-10T10:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "warhammer-survivors",
-    "game_label": "Warhammer Survivors"
-  },
-  {
-    "id": "69aa82d8cc1a",
-    "slug": "nintendo-switch-consoles-updated-to-2350-with-eshop-gifting-feature",
-    "headline": "Nintendo Switch consoles updated to 23.5.0 with eShop gifting feature",
-    "summary": "Nintendo has updated Switch and Switch 2 consoles to version 23.5.0, adding support for in-family game gifting on the eShop.",
-    "category": "patches",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/switch-2-and-switch-consoles-updated-to-version-2350-as-nintendo-quietly-re-introduces-eshop-gifting"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/nintendo-switch-2-digital-games-eshop-gifts/"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/switch-2-gifting.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-10T09:52:40.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "nintendo-switch",
-    "game_label": "Nintendo Switch"
-  },
-  {
-    "id": "ad0c44b83910",
-    "slug": "james-gunn-was-working-on-superman-3-and-a-justice-league-team-up-when",
-    "headline": "James Gunn Was Working on Superman 3 and a Justice League Team-Up When He Was Ousted at DC",
-    "summary": "Game director James Gunn was suddenly let go from his role at DC Comics, leaving behind projects for Superman 3 and a Justice League team-up",
-    "category": "deals",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/entertainment/dc-movies/james-gunn-was-working-on-superman-3-and-a-justice-league-team-up-when-he-was-ousted-at-dc/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/bZ4PbMXactUicXQec6p96k-1920-80.jpg",
-    "published_at": "2026-11-10T09:45:18.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7e5c059c96b7",
-    "slug": "where-to-pre-order-ps5-prism-dualsense-and-console-cover-collection",
-    "headline": "Where to Pre-Order PS5 Prism DualSense and Console Cover Collection",
-    "summary": "Pre-orders for Sony's Prism DualSense controller and PS5 console cover collection are now available, allowing customers to get their hands on these exclusive accessories.",
-    "category": "deals",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/live/news/where-to-buy-ps5-prism-dualsense-console-covers/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Mfr6oowKTNgPJb6JfgV5nB-1920-80.jpg",
-    "published_at": "2026-11-10T09:41:54.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6493d902fe2c",
-    "slug": "ocarina-of-time-remaster-now-has-multiplayer",
-    "headline": "Ocarina of Time Remaster Now Has Multiplayer",
-    "summary": "The Ocarina of Time remaster has unexpectedly added multiplayer mode, following a brief transition from PC port to mods to the new feature.",
-    "category": "patches",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/ocarina-of-time-remaster-multiplayer-version/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/1920x1080-2026-11-10t093722-980.png",
-    "published_at": "2026-11-10T09:40:13.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "ocarina-of-time",
-    "game_label": "Ocarina of Time"
-  },
-  {
-    "id": "543a1cf3b1fa",
-    "slug": "japanese-horror-medical-sim-magical-girl-er-sells-over-10k-units-on-st",
-    "headline": "Japanese horror medical sim Magical Girl ER sells over 10k units on Steam, dev considering potential major update or sequel",
-    "summary": "Japanese indie horror medical sim Magical Girl ER recently sold over 10,000 units, with a \"Very Positive\" Steam review score.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/japanese-horror-medical-sim-magical-girl-er-sells-over-10k-units-on-steam-dev-considering-potential-major-update-or-sequel/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/543a1cf3b1fa/800/600",
-    "published_at": "2026-11-10T09:35:03.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "00dd94d4c257",
-    "slug": "cool-japan-fund-postmortem-finds-that-video-game-anime-and-manga-inves",
-    "headline": "Cool Japan Fund postmortem finds that video game, anime and manga investments were profitable, while live-action sector suffered losses ",
-    "summary": "30% of all content-related investments went into the live-action sector, which was \"a non-growth market at the time.\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/cool-japan-fund-postmortem-finds-that-video-game-anime-and-manga-investments-were-profitable-while-live-action-sector-suffered-losses/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/00dd94d4c257/800/600",
-    "published_at": "2026-11-10T09:34:04.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9a040c6a7965",
-    "slug": "switch-2-us-sales-surge-due-to-zelda",
-    "headline": "Switch 2 US sales surge due to Zelda",
-    "summary": "The Legend of Zelda: Ocarina of Time's release has contributed to an increase in Nintendo Switch 2 sales in the US, marking its best week of sales this year",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-switch-2-best-week-sales"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/switch-2-the-legend-of-zelda--40th-anniversary-edition-grab-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-10T09:25:20.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-legend-of-zelda-ocarina-of-time",
-    "game_label": "The Legend of Zelda: Ocarina of Time"
-  },
-  {
-    "id": "ac148c032d18",
-    "slug": "ravenswatch-nintendo-switch-2-edition-launches-december-18",
-    "headline": "Ravenswatch - Nintendo Switch 2 Edition Launches December 18",
-    "summary": "Cooperative roguelike action game Ravenswatch is coming to the Nintendo Switch 2 Edition on December 18, a day earlier in North America.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/ravenswatch-nintendo-switch-2-edition-launches-december-10-worldwide-december-18-in-north-america"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/ac148c032d18/800/600",
-    "published_at": "2026-11-10T09:15:30.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "ravenswatch-nintendo-switch-2-edition",
-    "game_label": "Ravenswatch - Nintendo Switch 2 Edition"
-  },
-  {
-    "id": "fea2564ebc5f",
-    "slug": "el-shaddai-ascension-of-the-metatrons-official-reversi-based-spin-off",
-    "headline": "El Shaddai: Ascension of the Metatron's Official Reversi-Based Spin-Off Gets Steam Release and Online Play",
-    "summary": "El Shaddai: Ascension of the Metatron's Reversi spin-off is coming to Steam with online play, building on its mobile release in February 2026.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/el-shaddai-ascension-of-the-metatrons-official-reversi-based-spin-off-gets-steam-release-and-online-play/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/fea2564ebc5f/800/600",
-    "published_at": "2026-11-10T09:10:25.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "el-shaddai-ascension-of-the-metatron",
-    "game_label": "El Shaddai: Ascension of the Metatron"
-  },
-  {
-    "id": "77a65f7f2076",
-    "slug": "dont-be-fooled-by-horses-of-hoofprint-bays-hand-drawn-art-this-stable",
-    "headline": "Don't be fooled by Horses of Hoofprint Bay's hand-drawn art, this stable management game has all the drama of a Jilly Cooper novel",
-    "summary": "Poema is my pride and joy. She was my first horse and she's a competition winner, but she's reached her potential. She'll never be a show jumper, and that's where the money and prestige are to be found. If I'm ever to grow my horse farm into a nationally renowned equestrian centre, I need the cash to expand and upgrade…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/dont-be-fooled-by-horses-of-hoofprint-bays-hand-drawn-art-this-stable-management-game-has-all-the-drama-of-a-jilly-cooper-novel"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/horses-of-hoofstep-bay-jump-header.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-10T09:02:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
