@@ -1,5 +1,121 @@
 [
   {
+    "id": "8de30e5d6acf",
+    "slug": "wuwa-38-update-shines-a-light-on-lily",
+    "headline": "WuWa 3.8 Update Shines a Light on Lily",
+    "summary": "The latest update for Wuthering Waves, version 3.8, puts Lily in the spotlight with a new update called Lilies in a Dying Dream.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/wuthering-waves-wuwa-38-release-date-time-update-maintenance-ends-countdown/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/wuthering-waves-wuwa-38-release-date-time-update-maintenance-ends-countdown-lily-banner-when-come-coming-out-wuwa-3-8-lily.jpg",
+    "published_at": "2026-11-10T04:15:46.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "wuwa",
+    "game_label": "WuWa"
+  },
+  {
+    "id": "2d81fef671f5",
+    "slug": "gbnext-hollywood-30-panel-xr-creators-say-participatory-shared-worlds",
+    "headline": "GBNext Hollywood 3.0 panel: XR creators say participatory, shared worlds are the next entertainment frontier",
+    "summary": "At GamesBeat Next 2026 in San Francisco, a panel of immersive-media creators discussed how spatial computing could turn places like Hollywood into worlds people...\nThe post GBNext Hollywood 3.0 panel: XR creators say participatory, shared worlds are the next entertainment frontier appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/gbnext-hollywood-3-0-panel-xr-creators-say-participatory-shared-worlds-are-the-next-entertainment-frontier/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/2d81fef671f5/800/600",
+    "published_at": "2026-11-10T03:12:26.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7e775f963c1a",
+    "slug": "mouse-work-is-finally-on-its-way-to-the-switch-2",
+    "headline": "Mouse Work Is Finally On Its Way To The Switch 2",
+    "summary": "It's all about Joy-Con 2 mouse controls. Remember Mouse Work? It was announced by developer Nitrome for the Switch 2 just a few months before the system's launch and requires you to use mouse controls to complete all sorts of fun and challenging jobs. We've not heard an update about this title since last year, but it looks like it…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/mouse-work-is-finally-on-its-way-to-the-switch-2"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/bdb998fc09606/large.jpg",
+    "published_at": "2026-11-10T03:05:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5547f2d578d2",
+    "slug": "the-settlers-of-catan-movie-has-finally-found-its-directors",
+    "headline": "The Settlers of Catan Movie Has Finally Found Its Directors",
+    "summary": "Netflix has tapped Aaron and Adam Nee to direct its live-action Catan adaptation based on the best-selling board game.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/settlers-of-catan-movie-netflix-directors/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/3426134/catan.0.jpg",
+    "published_at": "2026-11-10T02:53:02.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "46b437e8627a",
+    "slug": "medabots-classics-plus-pc-release-confirmed-for-december-in-japan",
+    "headline": "Medabots Classics Plus PC Release Confirmed for December in Japan",
+    "summary": "Medabots Classics Plus is coming to PC via Steam in December, with the release confirmed for Japan. The game will be published by Imagineer and developed by SUCCESS Corporation.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/medabots-classics-plus-coming-to-pc-in-december-in-japan"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/46b437e8627a/800/600",
+    "published_at": "2026-11-10T02:32:20.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "medabots-classics-plus",
+    "game_label": "Medabots Classics Plus"
+  },
+  {
     "id": "149b79b11487",
     "slug": "super-mario-party-jamboree-update-released-for-switch",
     "headline": "Super Mario Party Jamboree Update Released for Switch",
@@ -4622,127 +4738,5 @@
     "comment_count": 0,
     "game": "grand-theft-auto-6",
     "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "1946065c439b",
-    "slug": "phantom-blade-zero-best-accessories",
-    "headline": "Phantom Blade Zero Best Accessories",
-    "summary": "The article provides a list of the most useful accessories in Phantom Blade Zero, ranking them by their benefits for combat, survival, and progression.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/phantom-blade-zero-best-accessories-tier-list/"
-      },
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/phantom-blade-zeros-best-bosses-are-now-playable-characters/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/phantom-blade-zero-best-accessories-tier-list.jpg",
-    "published_at": "2026-11-09T11:30:19.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "phantom-blade-zero",
-    "game_label": "Phantom Blade Zero"
-  },
-  {
-    "id": "b4a514a68369",
-    "slug": "nvidia-ceo-embroiled-in-affair-scandal-shares-plummet",
-    "headline": "Nvidia CEO Embroiled in Affair Scandal, Shares Plummet",
-    "summary": "Nvidia CEO Jensen Huang's personal scandal has led to a significant decline in the company's stock value, causing a ripple effect in the tech industry.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/nvidia-share-price-jensen-huang-ai-affair-alice-megaspeed-markets-2000755054"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2025/01/93ba8ed2f12378e18f51ab48cc12aba1-1280x854.jpg",
-    "published_at": "2026-11-09T11:30:08.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4070432b6331",
-    "slug": "eve-vanguard-takes-hard-won-playtest-lessons-into-247-alpha",
-    "headline": "EVE Vanguard Takes Hard-Won Playtest Lessons into 24/7 Alpha",
-    "summary": "EVE Vanguard is launching a 24/7 alpha test, using insights from its early playtesting phase to improve the game.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/fps/i-think-wed-accidentally-created-the-most-hardcore-extraction-game-of-all-time-eve-vanguard-is-taking-hard-won-playtest-lessons-into-a-24-7-alpha/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Ar6zd5huxuDbunoDSuzDx5-1920-80.jpg",
-    "published_at": "2026-11-09T11:30:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "eve-vanguard",
-    "game_label": "EVE Vanguard"
-  },
-  {
-    "id": "3212d6be52ef",
-    "slug": "star-wars-zero-company-developer-bit-reactor-has-laid-off-an-unspecifi",
-    "headline": "Star Wars Zero Company developer Bit Reactor has laid off an unspecified number of people",
-    "summary": "Bit Reactor furloughed \"many of its workers\" ahead of the release of the turn-based tactics game Star Wars Zero Company in August, before starting the process of returning furloughed staff to work in October. Now, it has emerged that an unspecified number of workers at the developer have been laid off.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-has-laid-off-an-unspecified-number-of-people"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/star-wars-zero-company-headline-steam.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-09T11:29:50.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8e84f5c3a046",
-    "slug": "new-mod-adds-more-adventures-to-geralts-time-in-toussaint",
-    "headline": "New Mod Adds More Adventures to Geralt's Time in Toussaint",
-    "summary": "A modder has created an unofficial expansion to Geralt's life in Toussaint, Blood and Wine's French duchy, ahead of The Witcher 3's official Songs of the Past expansion.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/ahead-of-the-witcher-3-songs-of-the-past-heres-a-lore-friendly-unofficial-expansion-to-geralts-life-in-toussaint-from-a-well-established-quest-modder"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/witcher-3-mod-quest-annals-of-the-duchy-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-09T11:25:50.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-witcher-3-wild-hunt",
-    "game_label": "The Witcher 3: Wild Hunt"
   }
 ]
