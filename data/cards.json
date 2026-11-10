@@ -1,5 +1,28 @@
 [
   {
+    "id": "7c3245a354a9",
+    "slug": "rayman-legends-retold-exclusive-rabbids-costume-coming-to-switch",
+    "headline": "Rayman Legends Retold Exclusive Rabbids Costume Coming To Switch",
+    "summary": "Rayman Legends Retold will feature an exclusive Rabbids costume on the Nintendo Switch 2, adding to the game's already impressive costume selection.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/rayman-legends-retold-reveals-rabbids-outfit-exclusive-to-switch-2"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/cd1f67d9b817a/large.jpg",
+    "published_at": "2026-11-10T04:45:00.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "rayman-legends-retold",
+    "game_label": "Rayman Legends Retold"
+  },
+  {
     "id": "8de30e5d6acf",
     "slug": "wuwa-38-update-shines-a-light-on-lily",
     "headline": "WuWa 3.8 Update Shines a Light on Lily",
@@ -26,6 +49,27 @@
     "comment_count": 0,
     "game": "wuwa",
     "game_label": "WuWa"
+  },
+  {
+    "id": "8afe3e0e6948",
+    "slug": "steinsgate-reboot-is-seeing-strong-sales-among-a-wide-range-of-generat",
+    "headline": "Steins;Gate RE:BOOT is seeing strong sales among a “wide range of generations” according to MAGES. parent company ",
+    "summary": "COLOPL mentioned the game in its financial briefing for the fiscal year ended September 2026.",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/steinsgate-reboot-is-seeing-strong-sales-among-a-wide-range-of-generations-according-to-mages-parent-company/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/8afe3e0e6948/800/600",
+    "published_at": "2026-11-10T04:15:45.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "2d81fef671f5",
@@ -156,6 +200,29 @@
     "image_url": "https://picsum.photos/seed/fd191f7a791b/800/600",
     "published_at": "2026-11-10T02:00:16.000Z",
     "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c2b5cc95c53e",
+    "slug": "switch-2-supposedly-jailbroken-via-software-only-exploit",
+    "headline": "Switch 2 Supposedly Jailbroken Via Software-Only Exploit",
+    "summary": "Update: It's apparently been patched in the latest system update.\n:\nNintendo appears to have removed the programming software SmileBASIC 4 from the eShop following the supposed discovery of a Switch 2 jailbreak.\nRead the full article on nintendolife.com",
+    "category": "patches",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/switch-2-supposedly-jailbroken-via-software-only-exploit"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/6888cfa4ddfb2/large.jpg",
+    "published_at": "2026-11-10T02:00:00.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4664,79 +4731,5 @@
     "comment_count": 0,
     "game": "ocarina-of-time",
     "game_label": "Ocarina of Time"
-  },
-  {
-    "id": "2457ca8dc2dd",
-    "slug": "bit-reactor-studios-lay-off-staff-after-reviving-furloughed-devs",
-    "headline": "Bit Reactor Studios Lay Off Staff After Reviving Furloughed Devs",
-    "summary": "Game developer Bit Reactor, which brought back furloughed staff, is laying off employees, following a successful launch of its Star Wars game",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/star-wars-zero-company-studio-bit-reactor-is-laying-off-staff-a-month-after-it-started-bringing-back-furloughed-devs/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/2457ca8dc2dd/800/600",
-    "published_at": "2026-11-09T11:41:59.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "star-wars-zero-company",
-    "game_label": "Star Wars Zero Company"
-  },
-  {
-    "id": "f910ee78377b",
-    "slug": "world-of-warcraft-forever-gets-big-xp-boost",
-    "headline": "World of Warcraft: Forever Gets Big XP Boost",
-    "summary": "World of Warcraft: Forever has received a significant boost to the XP gained from dungeon mobs, making it more rewarding to repeat runs and potentially reviving an old levelling strategy.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/world-of-warcraft-forever-dungeon-mob-xp-rate-buff"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/world-of-warcraft-forever-dwarf-shaman-jpg.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-09T11:41:20.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "world-of-warcraft-forever",
-    "game_label": "World of Warcraft: Forever"
-  },
-  {
-    "id": "f58727295d36",
-    "slug": "gta-6-online-launch-files-hint-at-early-arrival",
-    "headline": "GTA 6 Online Launch Files Hint at Early Arrival",
-    "summary": "Reports suggest GTA 6 online multiplayer may be launching sooner than expected, with files hinting at a possible earlier launch than previously thought.",
-    "category": "deals",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-launch-files-already-hint-at-online-multiplayer-playstation-store-sleuth-reports-leading-to-hopes-we-wont-be-waiting-for-a-gta-online-follow-up-for-long/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/kWw9FEwneArzWxypW9xKMh-1920-80.jpg",
-    "published_at": "2026-11-09T11:33:05.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   }
 ]
