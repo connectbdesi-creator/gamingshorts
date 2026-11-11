@@ -1,5 +1,584 @@
 [
   {
+    "id": "97811a7864d7",
+    "slug": "world-of-warcraft-forever-secret-hunters-have-found-the-mmos-first-hid",
+    "headline": "World of Warcraft: Forever secret hunters have found the MMO's first hidden treasure",
+    "summary": "World of Warcraft secret hunters are a noble breed, known for scouring the MMO for years for hidden trinkets and treasures. With World of Warcraft: Forever's launch, they've uncovered a quest chain for an especially fancy sword.\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/world-of-warcraft-forever-secret-dawn-walker-sword"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/WoW_Forever_SCENIC_Announce_Skyborne_Customization_061.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-11T12:15:50.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7b0872c925a2",
+    "slug": "microsofts-own-upscaler-and-alternative-to-fsr-just-landed-on-xbox-all",
+    "headline": " Microsoft’s own upscaler and alternative to FSR just landed on Xbox Ally X handhelds - actually uses an NPU for something useful ",
+    "summary": "FSR is still preferred, when available and well-implemented, though.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/microsofts-own-upscaler-and-alternative-to-fsr-just-landed-on-xbox-ally-x-handhelds-actually-uses-an-npu-for-something-useful/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/YP43KX8Ttr8qaaXDtVVoU8-1920-80.jpg",
+    "published_at": "2026-11-11T12:11:36.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b2619f8c7d79",
+    "slug": "gta-6-becomes-most-pre-ordered-game-on-playstation-and-xbox-storefront",
+    "headline": "GTA 6 becomes most pre-ordered game on PlayStation and Xbox storefronts",
+    "summary": "Grand Theft Auto 6 has become the most pre-ordered game on the PlayStation Store and Microsoft Store.\n Read more",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/gta-6-becomes-most-pre-ordered-game-on-playstation-and-xbox-storefronts"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/gta_6_jason_screenshot.webp?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-11T12:10:40.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f72f8dc39df0",
+    "slug": "indie-studios-release-games-despite-gta-6",
+    "headline": "Indie Studios Release Games Despite GTA 6",
+    "summary": "Indie game developers are releasing their titles in November, unaffected by the hype surrounding GTA 6",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/we-see-it-as-an-opportunity-indie-studios-releasing-games-this-month-explain-how-it-feels-to-go-up-against-gta-6/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/f72f8dc39df0/800/600",
+    "published_at": "2026-11-11T12:05:47.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6dd6e42f83d8",
+    "slug": "dragon-quest-creator-says-new-game-will-capture-the-series-unmistakabl",
+    "headline": "Dragon Quest Creator Says New Game Will Capture the Series' 'Unmistakable Feeling'",
+    "summary": "A turn-based Dragon Quest RPG is set to launch on smartphones next year, allowing fans to enjoy a classic adventure anywhere they go.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/dragon-quest-rpg-mobile-game-announcement/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/dragon-quest-rpg-cinematic.jpg",
+    "published_at": "2026-11-11T12:02:52.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2b07daf7c199",
+    "slug": "gta-vis-file-size-is-smaller-in-australia-and-japan-sparking-censorshi",
+    "headline": "GTA VI's File Size Is Smaller In Australia And Japan, Sparking Censorship Concerns",
+    "summary": "Grand Theft Auto VI's preload file size has been reported to be smaller in Australia and Japan, sparking concerns about censorship and potential implications for the game's content.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/gta-6-smaller-in-australia-japan-censorship-concerns-rockstar-2000755882"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/10/GTA-launch-trailer_0000_Brightness_Contrast-1-1280x720.jpg",
+    "published_at": "2026-11-11T12:00:12.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-vi",
+    "game_label": "Grand Theft Auto VI"
+  },
+  {
+    "id": "340105d274ca",
+    "slug": "microsoft-announces-last-minute-restock-of-the-xbox-series-x25-console",
+    "headline": "Microsoft Announces Last-Minute Restock Of The Xbox Series X25 Console",
+    "summary": "Available at launch through the Microsoft Store and participating retailers. Ever since the Xbox Series X25 console first became available for pre-order in August, it's become hard to get your hands on one. The \"Limited Edition\" system quickly sold out, and became a target for scalpers within 24 hours as well. If you were hoping to add the Series X25…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/microsoft-announces-last-minute-restock-of-the-xbox-series-x25-console"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/639d70ff27d7a/large.jpg",
+    "published_at": "2026-11-11T12:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9e7c4adfad9a",
+    "slug": "blizzard-admits-world-of-warcraft-forever-has-a-gold-problem",
+    "headline": "Blizzard Admits World of Warcraft: Forever Has a Gold Problem",
+    "summary": "Blizzard developers are making changes to World of Warcraft: Forever, shifting focus from the gold conversion system to buffs instead.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/world-of-warcraft/blizzard-knows-world-of-warcraft-forever-has-a-gold-problem-but-that-doesnt-mean-a-feature-everyone-used-to-grind-it-in-the-og-mmo-is-coming-back/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ieQSaiDGnawf2Ucp4pc7Hm-1920-80.jpg",
+    "published_at": "2026-11-11T11:48:16.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "world-of-warcraft-forever",
+    "game_label": "World of Warcraft: Forever"
+  },
+  {
+    "id": "9e231ae8adb9",
+    "slug": "replays-november-theme-is-captain-price-approves-for-call-of-duty-mode",
+    "headline": " Replay's November theme is 'Captain Price approves' for Call of Duty: Modern Warfare 4 send in COD clips for a chance to win a £/$250 Amazon voucher! ",
+    "summary": "You can enter any gaming clips for Replay, but November is all about pleasing the big man",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/replays-november-theme-is-captain-price-approves-for-call-of-duty-modern-warfare-4-send-cod-clips-for-a-chance-to-win-a-gbp-usd250-amazon-voucher/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ij5H5Gn5vhmhtWi3Q3iUtc-1920-80.jpg",
+    "published_at": "2026-11-11T11:42:29.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5d55fc1e23af",
+    "slug": "how-to-win-the-super-cucco-findin-game-in-ocarina-of-time-remake",
+    "headline": " How to win the Super Cucco-findin' Game in Ocarina of Time Remake ",
+    "summary": "The Super Cucco-findin' Game in the OoT Remake depends on speed and luck",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-super-cuccos/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/hG53v52RXXV5RhQxkQnC4W-1920-80.jpg",
+    "published_at": "2026-11-11T11:35:32.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5effe26ada8c",
+    "slug": "digital-fairness-act-could-have-major-impact-on-games-industry",
+    "headline": "Digital Fairness Act Could Have Major Impact on Games Industry",
+    "summary": "The European Commission has presented a draft for the Digital Fairness Act, which could affect the games sector, particularly with regards to virtual currencies.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/what-the-digital-fairness-act-means-for-the-games-industry"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/pexels-marco-288924445-13153479.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-11T11:29:10.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e204edb9a4c6",
+    "slug": "jackbox-games-ceo-believes-party-games-are-trending-positively",
+    "headline": "Jackbox Games CEO Believes Party Games Are Trending Positively",
+    "summary": "Jackbox Games CEO says party games are popular, but doesn't think the term 'friendslomp' is inherently negative.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/were-kind-of-friendslop-ceo-of-jackbox-games-sees-the-link-between-party-games-and-this-new-trend-but-doesnt-think-its-necessarily-a-negative-moniker/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/CfPExkt5CSM4jRfS6smJnW-1920-80.jpg",
+    "published_at": "2026-11-11T11:22:49.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "4bf702b2a287",
+    "slug": "burger-king-partners-with-magic-the-gathering-for-exclusive-tournament",
+    "headline": "Burger King Partners with Magic: The Gathering for Exclusive Tournament",
+    "summary": "Burger King is hosting a Magic: The Gathering tournament in Italy, featuring exclusive deck boxes and sleeves, as part of a collaboration with the game.",
+    "category": "deals",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/magic-burger-king-collaboration-tournament/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/raluca-marinescu-woe-321-provisions-merchant1.jpg",
+    "published_at": "2026-11-11T11:22:30.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "magic-the-gathering",
+    "game_label": "Magic: The Gathering"
+  },
+  {
+    "id": "170e95ecb617",
+    "slug": "playstation-5-officially-clears-100-million-consoles-shipped",
+    "headline": "PlayStation 5 officially clears 100 million consoles shipped",
+    "summary": "PS5 reached the 100m milestone a few months slower than PS4",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/playstation-5-officially-clears-100-million-consoles-shipped/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/170e95ecb617/800/600",
+    "published_at": "2026-11-11T11:22:19.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "03f50979d0e4",
+    "slug": "monster-hunter-wilds-beta-spots-suggest-early-ascendance-expansion-acc",
+    "headline": "Monster Hunter Wilds Beta Spots Suggest Early Ascendance Expansion Access",
+    "summary": "A beta for Monster Hunter Wilds' Ascendance expansion may be available earlier than expected, according to suspicious Steam backend changes.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/monster-hunter-wilds-ascendance-beta-steam-backend"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/monster-hunter-wilds-lagiacrus-monster-screen-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-11T11:16:50.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "monster-hunter-wilds-ascendance",
+    "game_label": "Monster Hunter Wilds: Ascendance"
+  },
+  {
+    "id": "89eee8cfd01e",
+    "slug": "world-of-warcraft-forevers-magical-opening-week-reminds-us-all-about-t",
+    "headline": "World of Warcraft: Forever's magical opening week reminds us all about the power of the MMO, and the threat it poses to your free time",
+    "summary": "World of Warcraft: Forever is a time vampire. Since its release last Wednesday, I have spent 78 hours in Azeroth. Some of that I was AFK, sure. But for many of those hours, I was lost, happily, in the rolling hills and vast planes of Blizzard's MMO - now enhanced, beautified, and given a new social energy that makes the…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/world-of-warcraft-forever-now-playing"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/WoW_Forever_Cinematic_Still_7.jpeg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-11T11:08:30.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e61abb237d86",
+    "slug": "zelda-ocarina-of-time-remake-is-set-to-outsell-the-n64-original-in-its",
+    "headline": "Zelda: Ocarina Of Time Remake Is Set To Outsell The N64 Original In Its First Week",
+    "summary": "Nintendo's remake has already reached 70 percent of the first game's lifetime sales in just four days",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/zelda-ocarina-of-time-remake-nintendo-64-sales-figures-switch-2-2000755871"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/11/ocarina-4-1280x720.jpg",
+    "published_at": "2026-11-11T11:00:20.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c0111470d87e",
+    "slug": "big-event-for-pokemon-go-players-on-the-horizon",
+    "headline": "Big Event for Pokémon GO Players on the Horizon",
+    "summary": "Pokémon GO is building up to a big event, but another event is looming for players on November 21.",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/pokemon-go-eternatus-return-date/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/eternatus-pokemon-go-calendar.jpg",
+    "published_at": "2026-11-11T11:00:15.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pokemon-go",
+    "game_label": "Pokémon GO"
+  },
+  {
+    "id": "16c81dff8480",
+    "slug": "two-games-are-available-today-with-xbox-game-pass-november-11",
+    "headline": "Two Games Are Available Today With Xbox Game Pass (November 11)",
+    "summary": "A charming pair of day one releases. Welcome to your latest Xbox Game Pass update! Today, we've got two day one releases joining the Ultimate and PC tiers of the service. As per the usual, we'll summarise your two new XGP additions with trailers and descriptions down below, alongside a wee poll to let us know if you'll be playing…",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/two-games-are-available-today-with-xbox-game-pass-november-11"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/074bb02bc1e21/large.jpg",
+    "published_at": "2026-11-11T11:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "affca7640664",
+    "slug": "nintendo-defends-decision-to-cut-mario-and-yoshi-easter-eggs-from-the",
+    "headline": "Nintendo Defends Decision to Cut Mario and Yoshi Easter Eggs From The Legend of Zelda: Ocarina of Time Remake",
+    "summary": "Nintendo has defended its decision to scrub the secret appearance of Mario characters from its The Legend of Zelda: Ocarina of Time remake.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/nintendo-defends-decision-to-cut-mario-and-yoshi-easter-eggs-from-the-legend-of-zelda-ocarina-of-time-remake"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/11/untitled-1-1794393973423.jpg",
+    "published_at": "2026-11-11T10:51:26.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "44a9c0bded70",
+    "slug": "nintendos-battle-against-piracy-continues-with-a-dmca-takedown-on-swit",
+    "headline": "Nintendo’s battle against piracy continues with a DMCA takedown on Switch mod chip firmware",
+    "summary": "GitHub has shut down 144 repositories hosting firmware for Picofly and other chips",
+    "category": "industry",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/nintendos-battle-against-piracy-continues-with-a-dmca-takedown-on-switch-mod-chip-firmware/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/44a9c0bded70/800/600",
+    "published_at": "2026-11-11T10:44:57.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "4ee6ace1a2c5",
+    "slug": "playstation-cancels-live-service-shooter-fairgames",
+    "headline": "PlayStation cancels live-service shooter Fairgames",
+    "summary": "PlayStation has cancelled Fairgames, the live-service shooter previously in development at its Montreal-based subsidiary Haven Studios.\n Read more",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/playstation-cancels-live-service-shooter-fairgames"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Fairgames-Cancelled_11-10-26.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-11T10:40:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "76d42c23ae9c",
+    "slug": "the-legend-of-zelda-ocarina-of-time-remake-players-use-in-game-ocarina",
+    "headline": "The Legend of Zelda: Ocarina of Time Remake Players Use In-Game Ocarina to Play Everything From Linkin Park, Titanic, and Japanese Supermarket Themes",
+    "summary": "The much anticipated remake of The Legend of Zelda: Ocarina of Time launched on November 5, and one feature has fast become a big hit: the fact that you can now play any tune you like on Link’s ocarina. Now, social media has become awash with players sharing the results.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-players-use-in-game-ocarina-to-play-everything-from-linkin-park-titanic-and-japanese-supermarket-themes"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/11/thelegendofzeldaocarinaoftime-46-1794393387768.jpg",
+    "published_at": "2026-11-11T10:37:33.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "57f82024bf3e",
+    "slug": "shrek-2-remastered-receives-mixed-steam-reviews",
+    "headline": "Shrek 2 Remastered Receives Mixed Steam Reviews",
+    "summary": "Shrek 2 Remastered has received mixed reviews on Steam due to issues with co-op requirements and broken cutscenes, prompting mixed user ratings.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/shrek-2-remaster-steam-reviews-epic-account-co-op-cutscenes-end-early/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/ss_611847cd2878d3ffb2efcffb9f896bfa84fcf595-1920x1080.jpg",
+    "published_at": "2026-11-11T10:30:18.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "shrek-2-remastered",
+    "game_label": "Shrek 2 Remastered"
+  },
+  {
+    "id": "ac4a5d9940bc",
+    "slug": "casualties-unknown-is-a-total-pain-simulator-that-makes-other-survival",
+    "headline": "Casualties: Unknown is a total pain simulator that makes other survival games seem like massive cowards",
+    "summary": "Content warning for discussion of extreme violence and self-harm.\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/casualties-unknown-is-a-total-pain-simulator-that-makes-other-survival-games-seem-like-massive-cowards"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/20261110144234_1.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-11T10:28:40.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "94390af99100",
     "slug": "baldurs-gate-3-just-got-two-new-subclasses-and-a-new-class-on-console",
     "headline": "Baldur’s Gate 3 Just Got Two New Subclasses And A New Class On Console",
@@ -4093,570 +4672,6 @@
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zelda-ocarina-of-time-great-deku-tree-and-link.jpg",
     "published_at": "2026-11-10T15:01:18.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "92f5eb698698",
-    "slug": "rockstar-details-grand-theft-auto-6-ps5-pro-enhancements-but-itll-stil",
-    "headline": "Rockstar details Grand Theft Auto 6 PS5 Pro enhancements, but it'll still only run at 30FPS",
-    "summary": "As Grand Theft Auto 6 preloads go live, developer Rockstar has detailed the enhancements coming to the PS5 Pro version of the game, confirming these won't include framerates above the 30 FPS its targeting for consoles.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/gta-6-30-fps-platforms-absolute-limit"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/GTA-frame-rate.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-10T15:01:10.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "43426effb943",
-    "slug": "zelda-ocarina-of-time-remake-data-points-to-master-quest",
-    "headline": "Zelda: Ocarina of Time Remake Data Points to Master Quest",
-    "summary": "Newly discovered data within the Zelda: Ocarina of Time remake suggests Master Quest content could be coming to the Nintendo Switch 2 in the future.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/zelda-oot-remake-master-quest/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/ocarina-of-time-remake-master-quest.jpg",
-    "published_at": "2026-11-10T15:00:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2af671341e05",
-    "slug": "gta-6-preloads-are-now-available",
-    "headline": "GTA 6 Preloads Are Now Available",
-    "summary": "You can now preload Grand Theft Auto 6 onto your PS5 or Xbox Series X|S. But you still have to wait until November 19 to play it.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6-preloads-are-now-available-ps5-xbox"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/10/gta-6-preload-1794322351146.jpeg",
-    "published_at": "2026-11-10T15:00:07.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "45e112e3aace",
-    "slug": "overwolf-pledges-400m-to-creators-by-2026",
-    "headline": "Overwolf Pledges $400M to Creators by 2026",
-    "summary": "Community-driven games platform Overwolf has committed to paying creators $400 million by 2026, surpassing a lifetime total of $1.2 billion.",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/overwolf-pays-400-million-to-creators-in-2026-surpassing-1-2-billion-in-lifetime-payouts/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/45e112e3aace/800/600",
-    "published_at": "2026-11-10T15:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c9222bc50d19",
-    "slug": "review-metaphor-refantazio-switch-2-an-extraordinary-jrpg-that-could-u",
-    "headline": "Review: Metaphor: ReFantazio (Switch 2) - An Extraordinary JRPG That Could Use Another Optimisation Pass",
-    "summary": "Atlus shrugged. A game with the name 'Metaphor' that tackles issues such as culture diversity, democracy, and classism isn't exactly subtle in its delivery, but is just as poignant in 2026 as it was when the game first released in 2024. Atlus has brought its critically acclaimed turn-based role-playing to Switch 2, and in doing so, reminded everyone of two…",
-    "category": "reviews",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/metaphor-refantazio"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/5d2aa699b5ff6/large.jpg",
-    "published_at": "2026-11-10T15:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e478e8c29bb5",
-    "slug": "how-silent-hill-townfalls-developer-created-a-fictional-town-thats-sti",
-    "headline": " How Silent Hill: Townfall's developer created a fictional town that's still real—'It exists. It's there' ",
-    "summary": "Welcome to St. Amelia.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/horror/how-silent-hill-townfalls-developer-created-a-fictional-town-thats-still-real-it-exists-its-there/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/NrL8Psamwm6va9UKBXjkea-1920-80.jpg",
-    "published_at": "2026-11-10T15:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "133befc424bd",
-    "slug": "unknown-9-dev-being-shut-down-two-years-after-disaster-ps5-launch",
-    "headline": "Unknown 9 Dev Being Shut Down Two Years After Disaster PS5 Launch",
-    "summary": "Bandai Namco confirms. Do you remember Unknown 9: Awakening? Published by Bandai Namco, the story-driven stealth-action title had a fairly hard marketing push ahead of its release back in October 2024 — but it was labelled a \"failure\" just months after its launch. It was a commercial disaster, selling way below expectations, and developer Reflector Entertainment was subsequently hit with…",
-    "category": "industry",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/unknown-9-dev-being-shut-down-two-years-after-disaster-ps5-launch"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/2ce0672922c96/large.jpg",
-    "published_at": "2026-11-10T15:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a5df9f223572",
-    "slug": "bioware-co-founder-and-star-wars-kotor-director-say-theyre-interested",
-    "headline": "BioWare co-founder and Star Wars KOTOR director say they’re interested in reuniting to try and save BioWare’s IP",
-    "summary": "Trent Oster says he wants to save Mass Effect and Dragon Age, and James Ohlen says he's game",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/bioware-co-founder-and-star-wars-kotor-director-say-theyre-interested-in-reuniting-to-try-and-save-biowares-ip/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a5df9f223572/800/600",
-    "published_at": "2026-11-10T14:51:58.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b2ad5e9c4911",
-    "slug": "2d-action-platformer-isekizima-ruins-and-tails-journey-launches-januar",
-    "headline": "2D Action Platformer isekizima: Ruins and Tails Journey Launches January 19, 2027",
-    "summary": "isekizima: Ruins and Tails Journey, a 2D action platformer, is set to launch on PC via Steam on January 19, 2027, with a later release on the Nintendo Switch.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/2d-action-platformer-isekizima-ruins-and-tails-journey-launches-january-19-2027-for-pc-later-for-switch"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/b2ad5e9c4911/800/600",
-    "published_at": "2026-11-10T14:50:17.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "isekizima-ruins-and-tails-journey",
-    "game_label": "isekizima: Ruins and Tails Journey"
-  },
-  {
-    "id": "ab04569525cd",
-    "slug": "ocarina-of-time-remake-mastering-hyrule-castle-town",
-    "headline": "Ocarina of Time Remake: Mastering Hyrule Castle Town",
-    "summary": "Get expert tips to complete Hyrule Castle Town in The Legend of Zelda: Ocarina of Time remake, including locations of all collectibles.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/zelda-ocarina-of-time-remake-hyrule-castle-heart-piece-gold-skulltula-oot/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/zelda-oot-remake-hyrule-castle-town.jpg",
-    "published_at": "2026-11-10T14:49:08.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-legend-of-zelda-ocarina-of-time-remake",
-    "game_label": "The Legend of Zelda: Ocarina of Time remake"
-  },
-  {
-    "id": "a17191fefb68",
-    "slug": "europe-is-about-to-get-very-tough-on-loot-boxes-in-games-according-to",
-    "headline": "Europe is about to get very tough on loot boxes in games, according to a leaked draft of the landmark Digital Fairness Act",
-    "summary": "An alleged draft of the potentially game-changing Digital Fairness Act has leaked ahead of its scheduled publication tomorrow (11th November), containing proposals that could dramatically affect the way games operate and are monetised within the European Union.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/digital-fairness-act-eu-europe-loot-boxes-regulation"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/evil_lootbox.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-10T14:46:50.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0a26dd557ea1",
-    "slug": "gta-6-wont-run-at-60fps-on-ps5-pro-but-sonys-console-still-has-an-excl",
-    "headline": " GTA 6 won't run at 60fps on PS5 Pro, but Sony's console still has an exclusive: ray-traced shadows ",
-    "summary": "Rockstar says GTA 6 will push consoles \"to their absolute limits\"",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wont-run-at-60fps-even-on-ps5-pro-but-sonys-console-does-have-an-exclusive-ray-traced-shadows-and-pssr/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/SoqRGRXPXTex2RK3Ah2C4C-1920-80.jpg",
-    "published_at": "2026-11-10T14:43:07.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ee21e8027f3d",
-    "slug": "rockstar-teases-gta-vi-performance-at-30-fps-plans-ps5-pro-pssr",
-    "headline": "Rockstar Teases GTA VI Performance at 30 FPS, Plans PS5 Pro PSSR",
-    "summary": "Rockstar Games has confirmed that Grand Theft Auto VI will target a 30 frames per second (FPS) frame rate and will utilize the PS5 Pro's Performance-Enhanced Software Rendering (PSSR) technology.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/gta-6-30-fps-confirmed-ps5-pro-pssr-xbox-cloud-streaming-2000755517"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/10/GTA-launch-trailer_0005_Brightness_Contrast-6-1280x720.jpg",
-    "published_at": "2026-11-10T14:42:54.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-vi",
-    "game_label": "Grand Theft Auto VI"
-  },
-  {
-    "id": "15e73167e895",
-    "slug": "rockstar-kills-any-hopes-of-streaming-gta-6-from-xbox-to-pc-but-you-ca",
-    "headline": "Rockstar kills any hopes of streaming GTA 6 from Xbox to PC, but you can stream it to your old Xbox One if you like",
-    "summary": "Rockstar Games has today clarified a few remaining details about Grand Theft Auto 6's framerate target and visual settings on PlayStation 5, PS5 Pro and Xbox Series X/S. And as part of the same announcement, the developer revealed a key detail about the game's cloud streaming options.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/gta-6-xbox-cloud-streaming-pc-xbox-one"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/xbox-one-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-10T14:40:10.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3d326648bd41",
-    "slug": "gta-6-ps5-pro-features-revealed",
-    "headline": "GTA 6 PS5 Pro Features Revealed",
-    "summary": "Rockstar has shared details on Grand Theft Auto 6 on PS5 Pro, including support for PSSR and frame rates. The game will also run at the same frame rate on all platforms.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gta-6-ps5-pro-features-frame-rates-and-xbox-cloud-gaming-details-confirmed-by-rockstar/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-PC-sooner-than-expected-scaled-1.jpg?w=300",
-    "published_at": "2026-11-10T14:37:16.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "24c2d1458695",
-    "slug": "house-house-reveals-generative-ai-use",
-    "headline": "House House Reveals Generative AI Use",
-    "summary": "House House confirms generative AI was used in one of its games, estimating less than 0.1% of the game's code was generated by LLMs.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/puzzle/big-walk-developer-reveals-it-used-generative-ai-sparingly-estimates-well-under-0-1-percent-was-actually-coded-using-llms/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/opLfRff2WdB2jTWDfA2RSc-1920-80.jpg",
-    "published_at": "2026-11-10T14:36:16.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "house-house",
-    "game_label": "House House"
-  },
-  {
-    "id": "e681d1a665d5",
-    "slug": "big-walks-ai-usage-was-tiny-but-its-disclosure-has-sparked-a-bigger-de",
-    "headline": "Big Walk’s AI Usage Was Tiny, But Its Disclosure Has Sparked A Bigger Debate",
-    "summary": "Big Walk developer House House has confirmed that it used AI during the \"final stretch\" of its development. The studio recently updated its FAQs page to confirm its use of the tech, with the news coming after 19 Independent Games Festival jurors announced they'll decline to vote for \"any game that uses generative AI in any capacity\" during the 2027…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/big-walks-ai-usage-was-tiny-but-its-disclosure-has-sparked-a-bigger-debate/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Big-Walk-2.jpg?w=300",
-    "published_at": "2026-11-10T14:35:13.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4edb58066d67",
-    "slug": "dandori-academy-is-the-perfect-addition-to-pikmin-4-switch-2-edition-f",
-    "headline": "Dandori Academy Is The Perfect Addition To Pikmin 4 Switch 2 Edition For Major Pikmin Fans",
-    "summary": "Pikmin 4's Switch 2 Edition brings some welcome upgrades to the original game, but whether they're worth the cost depends on your love for Pikmin.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/pikmin-4-switch-2-edition-dandori-academy-review/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/11/a-red-pikmin-looking-at-the-player-in-pikmin-4-switch-2-edition.jpg",
-    "published_at": "2026-11-10T14:32:10.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "45bcbca0021d",
-    "slug": "grand-theft-auto-vi-the-festival-to-take-place-in-miami-on-november-21",
-    "headline": "Grand Theft Auto VI: The Festival to take place in Miami on November 21",
-    "summary": "GTA fans can experience the music of Vice City and Leonida at Grand Theft Auto VI: The Festival, on November 21 at Mana Wynwood in Miami.\nThe post Grand Theft Auto VI: The Festival to take place in Miami on November 21 appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/grand-theft-auto-vi-the-festival-to-take-place-in-miami-on-november-21/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/45bcbca0021d/800/600",
-    "published_at": "2026-11-10T14:30:11.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6bf44e135b48",
-    "slug": "the-witcher-3s-new-expansion-has-me-wondering-if-bioware-should-have-f",
-    "headline": "The Witcher 3’s New Expansion Has Me Wondering if BioWare Should Have Focused on Dragon Age and Mass Effect DLC Rather Than Big New Games",
-    "summary": "The Witcher 3's Songs of the Past expansion has me wondering: what if BioWare had returned to its older games and made new expansions?",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/the-witcher-3s-new-expansion-has-me-wondering-if-bioware-should-have-focused-on-dragon-age-and-mass-effect-dlc-rather-than-big-new-games"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/10/mass-effect-dlc-blogroll-1794316062131.jpg",
-    "published_at": "2026-11-10T14:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b6245a4a85f2",
-    "slug": "nintendos-holiday-gift-giving-feature-returns-with-some-surprising-rul",
-    "headline": "Nintendo's Holiday Gift-Giving Feature Returns, with Some Surprising Rules",
-    "summary": "Nintendo is bringing back its digital game gifting feature for family plan members, but with some conditions that might raise an eyebrow or two.",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/nintendo-new-gift-giving-feature-comes-with-some-very-nintendo-restrictions/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Nintendo-Gift-4.jpg?w=300",
-    "published_at": "2026-11-10T14:27:46.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "nintendo-switch",
-    "game_label": "Nintendo Switch"
-  },
-  {
-    "id": "875e2c6bc33b",
-    "slug": "krafton-reports-116-revenue-growth-despite-q3-profit-drop",
-    "headline": "Krafton Reports 11.6% Revenue Growth Despite Q3 Profit Drop",
-    "summary": "Krafton's operating profit decreased 35.5% in Q3, but revenue rose 11.6% due to cost-related expenses from attending Gamescom and other events.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/krafton-q3-revenue-rises-116-despite-decreases-in-pc-and-console-segments"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Image1_KRAFTON-CI-scaled.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-10T14:27:40.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "04bfed0d750e",
-    "slug": "gta-5-simply-refuses-to-stop-selling-even-with-gta-6-on-the-way",
-    "headline": "GTA 5 Simply Refuses To Stop Selling, Even With GTA 6 On The Way",
-    "summary": "As Grand Theft Auto 6 gets ready to launch, GTA 5 is still selling impressively. The GTA series has sold more than 480 million copies, with GTA 5 making up 235 million of those. Take-Two Interactive, the publisher, recently shared that another 5 million copies of GTA 5 were sold in the past 90 days during its second-quarter fiscal year…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gta-5-simply-refuses-to-stop-selling-even-with-gta-6-on-the-way/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/original/1595/15950357/4064252-gta5.jpeg?w=300",
-    "published_at": "2026-11-10T14:25:12.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1ae054ea0b00",
-    "slug": "how-to-get-inside-ganondorfs-castle-in-zelda-ocarina-of-time-remake",
-    "headline": "How to Get Inside Ganondorf's Castle in Zelda Ocarina of Time Remake",
-    "summary": "A Zelda Ocarina of Time remake tip guide provides players with a way to access Ganon's Castle early on",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/zelda-ocarina-of-time-how-to-enter-ganon-castle/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/ganons-castle.jpg",
-    "published_at": "2026-11-10T14:19:33.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "zelda-ocarina-of-time-remake",
-    "game_label": "Zelda Ocarina of Time Remake"
-  },
-  {
-    "id": "4242f607466e",
-    "slug": "the-falconeer-revolution-remaster-coming-to-ps5-xbox-series-on-decembe",
-    "headline": "The Falconeer: Revolution Remaster coming to PS5, Xbox Series on December 2",
-    "summary": "Publisher Wired Productions and developer Tomas Sala will release aerial combat RPG remaster The Falconeer: …",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/the-falconeer-revolution-remaster-coming-to-ps5-xbox-series-on-december-2"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/4242f607466e/800/600",
-    "published_at": "2026-11-10T14:17:30.000Z",
-    "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
