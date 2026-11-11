@@ -1,5 +1,72 @@
 [
   {
+    "id": "8a86c9cc140b",
+    "slug": "this-isnt-a-video-from-miami-its-a-gta-6-gameplay-clip",
+    "headline": "This Isn’t A Video From Miami, It’s A GTA 6 Gameplay Clip",
+    "summary": "The video fooled many online who thought it was real life",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/this-isnt-a-video-from-miami-its-a-gta-6-gameplay-clip-2000756038"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/11/GTa-6-reallife-vid-1280x720.jpg",
+    "published_at": "2026-11-11T23:30:19.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2d0de600a37a",
+    "slug": "steam-users-can-claim-2-games-for-free-before-theyre-gone",
+    "headline": "Steam Users Can Claim 2 Games for Free Before They're Gone",
+    "summary": "While Steam's free-to-keep promotions seem scarce in November, players still have two games they can claim for free and keep before they're gone.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/steam-free-keep-promotion-games-november/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/steam-free-keep-promotions-november-games-gamerant.jpg",
+    "published_at": "2026-11-11T23:30:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0541204cdbc5",
+    "slug": "arrowheads-helldivers-2-anti-cheat-hotfix",
+    "headline": "Arrowhead's Helldivers 2 Anti-Cheat Hotfix",
+    "summary": "Helldivers 2 developer Arrowhead has implemented a hotfix to improve anti-cheat functionality, following criticism from players and Steam reviewers.",
+    "category": "patches",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/third-person-shooter/after-cracking-down-on-cheat-mods-in-helldivers-2-and-taking-another-steam-review-beating-arrowhead-plans-hotfix-that-should-allow-harmless-cosmetics/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Ezff6eq7GdhApmB5Dax2Zi-1920-80.jpg",
+    "published_at": "2026-11-11T23:29:59.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "helldivers-2",
+    "game_label": "Helldivers 2"
+  },
+  {
     "id": "7e4ef8b40e14",
     "slug": "hey-nintendo-whats-going-on-with-zelda-ocarina-of-times-most-insuffera",
     "headline": "Hey, Nintendo, What’s Going On With Zelda: Ocarina Of Time’s Most Insufferable Couple?",
@@ -4594,77 +4661,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "98a33db3d5c3",
-    "slug": "playstations-embattled-shooter-fairgames-has-finally-been-cancelled-a",
-    "headline": "PlayStation's embattled shooter Fairgames has finally been cancelled, a new report says, as live service push withers away",
-    "summary": "After years of silence, we finally know the fate of PlayStation's embattled live service game Fairgames. The Haven-developed co-op heist shooter has been cancelled, with the silver lining that the studio is not closing down or laying off staff.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/fairgames-playstation-heist-shooter-live-service-cancelled-haven"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Fairgame%24---CGI-Reveal-Trailer-_-PS5-%26-PC-Games-1-31-screenshot.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-11T09:29:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cb169a73d962",
-    "slug": "fortis-games-closes-down-affects-up-to-440-employees",
-    "headline": "Fortis Games Closes Down, Affects Up to 440 Employees",
-    "summary": "Mobile game publisher Fortis Games is shutting down, impacting thousands of employees, in a major blow to the industry.",
-    "category": "industry",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/mobile-publisher-fortis-games-shuts-down-up-to-440-workers-affected"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/3836d06b7f7004cb9f857e824ab3d56651505b21-1200x630.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-11T09:10:30.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "88bf97369275",
-    "slug": "marvels-greatest-quote-about-grief-just-got-even-more-devastating",
-    "headline": "Marvel's Greatest Quote About Grief Just Got Even More Devastating",
-    "summary": "Polygon reminisces about a pivotal quote from VisionQuest and how it remains impactful five years later",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/visionquest-wandavision-grief-quote-love/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/15995144/stone.jpg",
-    "published_at": "2026-11-11T09:00:17.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "visionquest",
-    "game_label": "VisionQuest"
   }
 ]
