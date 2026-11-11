@@ -1,5 +1,136 @@
 [
   {
+    "id": "a3a79eb79472",
+    "slug": "the-best-open-world-rpgs-for-action-packed-combat",
+    "headline": "The Best Open-World RPGs for Action-Packed Combat",
+    "summary": "Several open-world RPGs stand out for their responsive action, customization options, and satisfying combat systems.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/open-world-rpg-games-virtually-perfect-combat-systems-ranked/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/open-world-rpgs-with-virtually-perfect-combat-systems-ranked.jpg",
+    "published_at": "2026-11-11T19:15:14.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "de51256cb08f",
+    "slug": "dead-by-daylight-studio-develops-co-op-shooter",
+    "headline": "Dead By Daylight Studio Develops Co-op Shooter",
+    "summary": "A new co-op shooter is in development by the studio behind Dead By Daylight, sparking interest from fans of the genre and those who enjoy the studio's previous work.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/third-person-shooter/exterminauts-looks-like-another-helldivers-2-but-its-really-the-deep-rock-galactic-sickos-who-should-take-notice/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/hcfJYVuA8JFu3U4R9UyZKQ-1920-80.jpg",
+    "published_at": "2026-11-11T19:09:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "67151a9cb55e",
+    "slug": "cod-modern-warfare-4-wager-match-event-rewards-revealed",
+    "headline": "COD Modern Warfare 4 Wager Match Event Rewards Revealed",
+    "summary": "Call of Duty: Modern Warfare 4 is offering new rewards for its Wager Match Event, including exclusive Camo and Operator Skin, via collecting trophies.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/call-of-duty-cod-modern-warfare-4-mw4-wager-match-event-rewards-how-to-get-trophies/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/all-wager-match-event-rewards-in-cod-modern-warfare-4-best-trophy-farm.jpg",
+    "published_at": "2026-11-11T19:02:28.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "call-of-duty-modern-warfare-4",
+    "game_label": "Call of Duty: Modern Warfare 4"
+  },
+  {
+    "id": "006aef905cc1",
+    "slug": "visionquest-is-one-of-the-coolest-things-marvels-done-in-a-while",
+    "headline": "VisionQuest Is One Of The Coolest Things Marvel's Done In A While",
+    "summary": "Kotaku discusses VisionQuest, a Marvel project that stands out in recent years, with the first episode free to stream on its website.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/visionquest-disney-plus-streaming-free-youtube-first-episode-1-2000755961"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/10/vision-1280x720.jpg",
+    "published_at": "2026-11-11T19:00:28.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "13d51300760f",
+    "slug": "speedrunners-discover-new-jump-button-in-ocarina-of-time-remake",
+    "headline": "Speedrunners Discover New Jump Button in Ocarina of Time Remake",
+    "summary": "Speedrunners have found a new way to break the game using a recently introduced jump button in the Ocarina of Time remake, and the possibilities are just beginning to be explored.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/zelda-ocarina-of-time-remake-speedrun-glitches/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/young-link-jumping-in-kokiri-forest-in-the-zelda-ocarina-of-time-remake.jpg",
+    "published_at": "2026-11-11T19:00:15.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-legend-of-zelda-ocarina-of-time-remake",
+    "game_label": "The Legend of Zelda: Ocarina of Time Remake"
+  },
+  {
     "id": "f7631d017d3f",
     "slug": "bethesda-issues-new-official-statement-on-skyrims-anniversary",
     "headline": "Bethesda Issues New Official Statement on Skyrim's Anniversary",
@@ -90,6 +221,30 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "22e64e4a27d6",
+    "slug": "how-to-find-mad-magglish-in-wow-forever",
+    "headline": "How to Find Mad Magglish in WoW Forever",
+    "summary": "In the WoW Forever quest 'Wailing Caverns', players must track down a challenging target. This guide will provide tips on how to locate Mad Magglish, a sneaky character.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/wow-forever-where-to-find-mad-magglish-location-trouble-at-the-docks/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/trouble-at-the-docks-quest-in-wow-forever-featured-image.jpg",
+    "published_at": "2026-11-11T18:29:42.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "world-of-warcraft-forever",
+    "game_label": "World of Warcraft: Forever"
   },
   {
     "id": "2b401651b55c",
@@ -1545,6 +1700,29 @@
     "game_label": null
   },
   {
+    "id": "983526a4bac9",
+    "slug": "world-of-warcraft-forever-review-a-love-letter-to-the-mmorpg-i-fell-fo",
+    "headline": "World of Warcraft: Forever review: A love letter to the MMORPG I fell for over 20 years ago",
+    "summary": "GamesRadar+ reviews World of Warcraft: Forever, a nostalgic MMORPG experience that reignites passion in players 20+ years in, with a strong focus on storytelling, characters, and community.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-forever-review/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/xLz3orT6Mgb8heTSNmw4an-1920-80.jpg",
+    "published_at": "2026-11-11T15:00:00.000Z",
+    "hype_signal": 90,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "world-of-warcraft-forever",
+    "game_label": "World of Warcraft: Forever"
+  },
+  {
     "id": "d6628ebc13c5",
     "slug": "katsuhiro-harada-says-xbox-series-s-is-like-doing-extra-work-for-a-sli",
     "headline": "Katsuhiro Harada says Xbox Series S is like doing 'extra work for a slightly weaker child'",
@@ -1631,6 +1809,33 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "1fbda03e8dfa",
+    "slug": "the-weeknd-to-star-in-stellar-blade-blood-rain",
+    "headline": "The Weeknd to star in Stellar Blade: Blood Rain",
+    "summary": "The Weeknd is set to appear in the upcoming action-adventure game Stellar Blade: Blood Rain, according to Shift Up. The project's developer has expressed interest in meeting the enthusiasm surrounding the game.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/action-rpg/the-weeknd-turning-up-to-play-stellar-blade-blood-rain-shows-the-action-rpgs-appeal-goes-beyond-gaming-into-the-wider-cultural-sphere-shift-up-says/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/DidcHpaRRhoubAGiyGxR6C-1920-80.jpg",
+    "published_at": "2026-11-11T14:44:18.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "stellar-blade-blood-rain",
+    "game_label": "Stellar Blade: Blood Rain"
   },
   {
     "id": "d30bb7d7f951",
@@ -2069,6 +2274,27 @@
     ],
     "image_url": "https://cdn.mos.cms.futurecdn.net/PAyH44t76kADMXqtedRwtk-1920-80.jpg",
     "published_at": "2026-11-11T13:09:01.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "fecf0d202237",
+    "slug": "final-fantasy-7-rebirth-and-other-jrpgs-help-square-enix-to-sales-boos",
+    "headline": " Final Fantasy 7 Rebirth and other JRPGs help Square Enix to sales boost amid multi-platform pivot ",
+    "summary": "Allowing more people to play your game leads to more sales, who'd have thought?",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-rebirth-and-other-jrpg-hits-help-square-enix-to-a-21-9-percent-sales-boost-as-multi-platform-pivot-to-switch-2-and-xbox-pays-off/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/MTGPEVamkoccencbddzeyY-1920-80.jpg",
+    "published_at": "2026-11-11T13:03:53.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -4490,228 +4716,5 @@
     "comment_count": 0,
     "game": "fairgame",
     "game_label": "Fairgame$"
-  },
-  {
-    "id": "2a18cbfa008e",
-    "slug": "gta-6-review-scores-predicted",
-    "headline": "GTA 6 Review Scores Predicted",
-    "summary": "GameSpot speculates on Grand Theft Auto 6's critical reception after its release on November 19",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gta-6-what-will-review-scores-be-you-can-win-a-500-gift-card-for-getting-it-right/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_13_84120d.jpg?w=300",
-    "published_at": "2026-11-10T20:55:32.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "abaa1d24584b",
-    "slug": "playstation-reportedly-cancels-fairgames-after-recent-playtests",
-    "headline": "PlayStation reportedly cancels Fairgames after recent playtests",
-    "summary": "After a long development, it's being reported that Fairgames is no more",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/playstation-reportedly-cancels-fairgames-after-recent-playtests/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/abaa1d24584b/800/600",
-    "published_at": "2026-11-10T20:52:41.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a3b4b3391c8c",
-    "slug": "playstation-cancels-fairgames-after-years-of-silence",
-    "headline": "PlayStation Cancels Fairgames After Years Of Silence",
-    "summary": "PlayStation has cancelled game developer Fairgames after years of silence, with the platform opting to focus on more active studios. Fairgames' multiplayer shooter was revealed in 2023 but received little attention before being shelved.",
-    "category": "industry",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/fairgames-haven-studios-jade-raymond-playstation-canceled-2000755584"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/11/fairgames.jpg",
-    "published_at": "2026-11-10T20:49:43.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8261eb044c1f",
-    "slug": "sony-cancels-live-service-ps5-game-fairgames-but-no-layoffs",
-    "headline": "Sony Cancels Live-Service PS5 Game Fairgames, But No Layoffs",
-    "summary": "Sony has canceled the upcoming live-service shooter Fairgame$, but there will be no job cuts connected to the game's closure. This is according to a report from Bloomberg today. The game was in the works at Haven Studios in Montreal, a team founded by former Assassin's Creed veteran Jade Raymond. She left the studio back in 2023, and Fairgame$ was…",
-    "category": "industry",
-    "platform_tags": [
-      "playstation",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/sony-cancels-live-service-ps5-game-fairgames-but-no-layoffs/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/fairgames.png?w=300",
-    "published_at": "2026-11-10T20:43:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cb7d3720ede0",
-    "slug": "the-outer-worlds-2s-first-dlc-arrives-on-december-2",
-    "headline": "The Outer Worlds 2's First DLC Arrives on December 2",
-    "summary": "The Outer Worlds 2's first story expansion, Side Effects Guaranteed, is coming on December 2, adding a new story chapter to the game.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "PlayStation Blog",
-        "url": "https://blog.playstation.com/2026/11/10/the-outer-worlds-2s-first-dlc-arrives-december-2/"
-      },
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/the-outer-worlds-2-dlc-side-effects-guaranteed-launches-december-2"
-      },
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/the-outer-worlds-2-ps5-dlc-split-into-two-parts-first-in-december"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/cb7d3720ede0/800/600",
-    "published_at": "2026-11-10T20:30:00.000Z",
-    "hype_signal": 75,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-outer-worlds-2",
-    "game_label": "The Outer Worlds 2"
-  },
-  {
-    "id": "e7688e8f9ac2",
-    "slug": "fortis-games-closes-down-affecting-440-jobs-exclusive",
-    "headline": "Fortis Games closes down, affecting 440 jobs | exclusive",
-    "summary": "Fortis Games, an ambitious game publisher with a lot of financial back, is closing down and could be shedding as many as 440 jobs,...\nThe post Fortis Games closes down, affecting 440 jobs | exclusive appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/fortis-games-closes-down-affecting-440-jobs/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/e7688e8f9ac2/800/600",
-    "published_at": "2026-11-10T20:29:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1d1433064a8e",
-    "slug": "gta-6-backflips-look-good-now-but-there-could-be-more-to-the-story",
-    "headline": "GTA 6 Backflips Look Good Now, But There Could Be More To The Story",
-    "summary": "Rockstar Games has released a new trailer for Grand Theft Auto 6, featuring a character performing a backflip, sparking mixed reactions online.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gta-6-backflips-look-good-now-but-there-could-be-more-to-the-story/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/backflip.png?w=300",
-    "published_at": "2026-11-10T20:26:18.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "26ec7ae43edc",
-    "slug": "how-to-get-through-the-lost-woods-in-zelda-ocarina-of-time",
-    "headline": "How to get through the Lost Woods in Zelda Ocarina of Time",
-    "summary": "GamesRadar+ offers a solution for navigating the infamous Lost Woods in The Legend of Zelda: Ocarina of Time remake for Nintendo Switch.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-lost-woods/"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/zelda-ocarina-of-time-oot-remake-sinking-lure-location/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/sYPNujsge7887hYzLWfHvU-1920-80.png",
-    "published_at": "2026-11-10T20:23:51.000Z",
-    "hype_signal": 10,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-legend-of-zelda-ocarina-of-time",
-    "game_label": "The Legend of Zelda: Ocarina of Time"
-  },
-  {
-    "id": "f3a16296a2f6",
-    "slug": "most-perfect-masterpieces-on-the-game-boy-advance-ranked",
-    "headline": "Most Perfect Masterpieces On The Game Boy Advance, Ranked",
-    "summary": "These classic Game Boy Advance masterpieces range form strategy brilliance to RPG icons, and even on a handheld console, they still hold up today.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/best-most-perfect-masterpieces-game-boy-advance-gba-ranked/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/most-perfect-masterpieces-on-the-gba-ranked.jpg",
-    "published_at": "2026-11-10T20:15:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
