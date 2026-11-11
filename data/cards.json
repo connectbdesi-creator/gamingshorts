@@ -1,5 +1,75 @@
 [
   {
+    "id": "e743ef2773be",
+    "slug": "ps5-shipments-top-100-million",
+    "headline": "PS5 shipments top 100 million",
+    "summary": "PlayStation 5 has shipped more than 100 million units worldwide as of November 10, 2026, …",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/ps5-shipments-top-100-million"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/e743ef2773be/800/600",
+    "published_at": "2026-11-11T03:54:30.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d49b49bc76a7",
+    "slug": "honkai-star-rail-guide-to-dan-heng-imbibitor-lunae-buff",
+    "headline": "Honkai: Star Rail Guide to Dan Heng Imbibitor Lunae Buff",
+    "summary": "Honkai: Star Rail players can now utilize the buff from Dan Heng Imbibitor Lunae to increase their performance, but who should use it and how can it be maximized?",
+    "category": "esports",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/honkai-star-rail-hsr-affinitive-eidolon-ex1-acheron-imbibitor-lunae-jing-yuan/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/which-affinitive-eidolon-should-you-pick-in-honkai-star-rail.jpg",
+    "published_at": "2026-11-11T03:00:24.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "honkai-star-rail",
+    "game_label": "Honkai: Star Rail"
+  },
+  {
+    "id": "3dce6e9890c8",
+    "slug": "unknown-mega-man-legends-project-surfaces-online",
+    "headline": "Unknown 'Mega Man Legends' Project Surfaces Online",
+    "summary": "What could it be for?\n\nAs Capcom gears up for Mega Man's 40th anniversary next year, more findings related to the long-running IP are surfacing online.\nRead the full article on nintendolife.com",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/unknown-mega-man-legends-project-surfaces-online"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/25df7a5723fbe/large.jpg",
+    "published_at": "2026-11-11T02:55:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "e35fa208deda",
     "slug": "monopoly-gos-charm-parade-rewards-and-milestones",
     "headline": "Monopoly GO's Charm Parade Rewards and Milestones",
@@ -4591,77 +4661,5 @@
     "comment_count": 0,
     "game": "arc-raiders",
     "game_label": "ARC Raiders"
-  },
-  {
-    "id": "69c22b3e0c35",
-    "slug": "cryptic-puzzle-solved",
-    "headline": "Cryptic Puzzle Solved",
-    "summary": "TheGamer provides a solution to a recent Minute Cryptic puzzle, 'Prime locations in marketable neighbourhood', which requires decoding a cryptic clue.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/minute-cryptic-answers-hints-november-11-2026/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/10/hints-written-in-the-minute-cryptic-font-with-party-poppers.jpg",
-    "published_at": "2026-11-10T13:37:16.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "80f0ee0e6650",
-    "slug": "steam-now-shows-optimal-frame-rates-for-games",
-    "headline": "Steam Now Shows Optimal Frame Rates for Games",
-    "summary": "Steam has added a feature to display optimal frame rates for games, giving users more insight into their gaming experience.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/steam-now-lets-you-see-exactly-what-frame-rate-you-should-get-in-games-using-a-steam-deck/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ayjXuyTNyLQvfidxvnbpF-1920-80.jpg",
-    "published_at": "2026-11-10T13:31:56.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "19e3b03eed39",
-    "slug": "how-to-solve-todays-connections-november-11",
-    "headline": "How to Solve Today's Connections - November 11",
-    "summary": "A helpful guide to today's Connections puzzle, with a solution number of 1249.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/nyt-connections-answers-hints-november-11-2026/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2023/12/feature-image-for-nyt-connections-guides-1.jpg",
-    "published_at": "2026-11-10T13:31:56.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
