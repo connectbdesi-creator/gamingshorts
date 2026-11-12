@@ -1,5 +1,111 @@
 [
   {
+    "id": "8aeaff5bd685",
+    "slug": "the-witcher-3-wild-hunts-songs-of-the-past-expansion-will-feature-ai-g",
+    "headline": "The Witcher 3: Wild Hunt's Songs of the Past Expansion Will Feature AI-Generated Geralt Voice",
+    "summary": "The upcoming Wild Hunt expansion, Songs of the Past, is reportedly utilizing AI technology to generate Geralt's voice, a departure from the traditional voice acting used in the game.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/the-witcher-3-songs-of-the-past-geralt-ai-voice/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/the-witcher-geralt-closeup.jpg",
+    "published_at": "2026-11-12T07:45:49.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
+    "id": "c7cfdf454cc6",
+    "slug": "marvel-1943-has-not-been-canceled",
+    "headline": "Marvel 1943 Has Not Been Canceled",
+    "summary": "Skydance producers have assured the team that Marvel 1943 is not canceled despite rumors of development struggles",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/marvel-1943-has-not-been-canceled-despite-development-struggles-2000756025"
+      },
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/marvel-1943-rise-of-hydra-not-canceled-one-button-gameplay/"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2024/03/8e222a1ffe01d783603d3ca4a3c0b240.jpg",
+    "published_at": "2026-11-12T07:35:40.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "marvel-1943",
+    "game_label": "Marvel 1943"
+  },
+  {
+    "id": "0cefbf3ce700",
+    "slug": "final-kirby-air-riders-amiibo-now-available",
+    "headline": "Final Kirby Air Riders Amiibo Now Available",
+    "summary": "Nintendo has released the final amiibo for Kirby Air Riders on the Switch, following a regular series of releases since the game's launch last year.",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/reminder-the-final-kirby-air-riders-amiibo-are-now-available"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/6b585f1bee2a5/large.jpg",
+    "published_at": "2026-11-12T06:45:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "kirby-air-riders",
+    "game_label": "Kirby Air Riders"
+  },
+  {
+    "id": "03386a5db775",
+    "slug": "romance-visual-novel-renai-hajimemashite-coming-to-ps5-ps4-and-switch",
+    "headline": "Romance visual novel Renai, Hajimemashite coming to PS5, PS4, and Switch on March 25, 2027 in Japan",
+    "summary": "AirVelocity will release ASa Project-developed romance visual novel Renai, Hajimemashite for PlayStation 5, PlayStation 4, …",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/romance-visual-novel-renai-hajimemashite-coming-to-ps5-ps4-and-switch-on-march-25-2027-in-japan"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/03386a5db775/800/600",
+    "published_at": "2026-11-12T06:29:54.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "f32c16254064",
     "slug": "kojima-productions-celebrates-10-years-with-tokyo-exhibition",
     "headline": "Kojima Productions Celebrates 10 Years with Tokyo Exhibition",
@@ -649,33 +755,6 @@
     "comment_count": 0,
     "game": "world-of-warcraft",
     "game_label": "World of Warcraft"
-  },
-  {
-    "id": "c7cfdf454cc6",
-    "slug": "marvel-1943-has-not-been-canceled",
-    "headline": "Marvel 1943 Has Not Been Canceled",
-    "summary": "Skydance producers have assured the team that Marvel 1943 is not canceled despite rumors of development struggles",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/marvel-1943-has-not-been-canceled-despite-development-struggles-2000756025"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2024/03/8e222a1ffe01d783603d3ca4a3c0b240.jpg",
-    "published_at": "2026-11-11T22:06:26.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "marvel-1943",
-    "game_label": "Marvel 1943"
   },
   {
     "id": "45aba5645340",
@@ -4569,75 +4648,6 @@
     "image_url": "https://images.purexbox.com/074bb02bc1e21/large.jpg",
     "published_at": "2026-11-11T11:00:00.000Z",
     "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "affca7640664",
-    "slug": "nintendo-defends-decision-to-cut-mario-and-yoshi-easter-eggs-from-the",
-    "headline": "Nintendo Defends Decision to Cut Mario and Yoshi Easter Eggs From The Legend of Zelda: Ocarina of Time Remake",
-    "summary": "Nintendo has defended its decision to scrub the secret appearance of Mario characters from its The Legend of Zelda: Ocarina of Time remake.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/nintendo-defends-decision-to-cut-mario-and-yoshi-easter-eggs-from-the-legend-of-zelda-ocarina-of-time-remake"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/11/untitled-1-1794393973423.jpg",
-    "published_at": "2026-11-11T10:51:26.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "866204188765",
-    "slug": "zelda-ocarina-of-time-remake-sets-a-nintendo-record-for-switch-2-with",
-    "headline": " Zelda: Ocarina of Time remake sets a Nintendo record for Switch 2 with 5.2 million sales in 4 days ",
-    "summary": "It's already eclipsed the lifetime sales of most Nintendo-published Switch 2 games",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-remake-sets-a-nintendo-record-for-the-switch-2-with-5-2-million-sales-in-4-days-not-even-pokemon-pokopia-comes-close/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/z4DqNyWzmYeWeysAvkQjgR-1920-80.jpg",
-    "published_at": "2026-11-11T10:50:43.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "44a9c0bded70",
-    "slug": "nintendos-battle-against-piracy-continues-with-a-dmca-takedown-on-swit",
-    "headline": "Nintendo’s battle against piracy continues with a DMCA takedown on Switch mod chip firmware",
-    "summary": "GitHub has shut down 144 repositories hosting firmware for Picofly and other chips",
-    "category": "industry",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/nintendos-battle-against-piracy-continues-with-a-dmca-takedown-on-switch-mod-chip-firmware/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/44a9c0bded70/800/600",
-    "published_at": "2026-11-11T10:44:57.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
