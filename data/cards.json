@@ -1,5 +1,253 @@
 [
   {
+    "id": "1c980e9cfe73",
+    "slug": "marvel-1943-rise-of-hydra",
+    "headline": "Marvel 1943: Rise of Hydra",
+    "summary": "Staff reportedly told the game's delay was not a cancellation despite online rumors, but the exact reason for the delay remains unclear.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/marvel-1943-rise-of-hydra-staff-were-reportedly-told-the-game-hasnt-been-cancelled-despite-online-rumour/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/1c980e9cfe73/800/600",
+    "published_at": "2026-11-12T13:12:45.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "marvel-1943-rise-of-hydra",
+    "game_label": "Marvel 1943: Rise of Hydra"
+  },
+  {
+    "id": "562fc1d9db56",
+    "slug": "vindictus-defying-fate-coming-to-ps5-next-year",
+    "headline": "Vindictus: Defying Fate Coming to PS5 Next Year",
+    "summary": "Medieval fantasy action RPG Vindictus: Defying Fate is confirmed for PS5, set in a world inspired by Celtic mythology, with a release date set for next year.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/vindictus-defying-fate-confirmed-for-ps5-cinematic-trailer-teaser"
+      },
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/11/12/vindictus-defying-fate-comes-to-ps5-next-year/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/562fc1d9db56/800/600",
+    "published_at": "2026-11-12T13:07:48.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "vindictus-defying-fate",
+    "game_label": "Vindictus: Defying Fate"
+  },
+  {
+    "id": "1227cdd118a3",
+    "slug": "baldurs-gate-3-writer-joins-struggling-the-witcher-multiplayer-project",
+    "headline": "Baldur's Gate 3 Writer Joins Struggling The Witcher Multiplayer Project",
+    "summary": "A key writer from Baldur's Gate 3 is joining the staff of the troubled The Witcher multiplayer game project, Sirius, amid layoffs and staffing issues.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/the-witcher/struggling-the-witcher-multiplayer-project-lands-baldurs-gate-3-writer-behind-some-of-larians-best-storylines/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/fTDa4YcGt4aUwMd2kMRFYS-1920-80.jpg",
+    "published_at": "2026-11-12T13:04:32.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-multiplayer-project-sirius",
+    "game_label": "The Witcher multiplayer project, Sirius"
+  },
+  {
+    "id": "8d4b9621b928",
+    "slug": "famitsu-sales-week-of-nov-2-8-2022",
+    "headline": "Famitsu Sales: Week of Nov 2-8, 2022",
+    "summary": "Famitsu has released its estimated physical game software data for Japan for the week of November 2-8, 2022",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/famitsu-sales-11-2-26-11-8-26"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/8d4b9621b928/800/600",
+    "published_at": "2026-11-12T13:04:20.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ec82b0602ec4",
+    "slug": "wow-forevers-secret-quest-revealed",
+    "headline": "WoW: Forever's Secret Quest Revealed",
+    "summary": "Blizzard's upcoming WoW: Forever game has a hidden quest sequence called the Dawn Waker, which is a major part of the game's storyline.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/wow-forever-ancient-heirloom-skyborne-secret-quest-chain/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/wow_forever_scenic_announce_skyborne_customization_062-1.png",
+    "published_at": "2026-11-12T13:03:33.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "wow-forever",
+    "game_label": "WoW: Forever"
+  },
+  {
+    "id": "6507b44564d6",
+    "slug": "star-wars-jedi-3-is-officially-the-final-chapter-according-to-ea",
+    "headline": "Star Wars Jedi 3 is Officially the Final Chapter, According to EA",
+    "summary": "EA has confirmed that the upcoming Star Wars Jedi game is the final installment in the series",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/star-wars-jedi-3-cal-kestis-final-chapter/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/star-wars-jedi-3-cal-kestis-game-rant.jpg",
+    "published_at": "2026-11-12T13:00:15.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "star-wars-jedi",
+    "game_label": "Star Wars Jedi"
+  },
+  {
+    "id": "7cbffffb0331",
+    "slug": "free-play-days-try-these-xbox-games-for-free",
+    "headline": "Free Play Days: Try These Xbox Games For Free",
+    "summary": "Xbox is offering free play weekends for four games, but the full lineup isn't yet confirmed. Fans are speculating about additional titles that might be added.",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/free-play-days-try-these-xbox-games-for-free-november-12-15"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/2bbbbac2bfde2/large.jpg",
+    "published_at": "2026-11-12T13:00:00.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "free-play-days",
+    "game_label": "Free Play Days"
+  },
+  {
+    "id": "bc8144df1b87",
+    "slug": "this-gta-6-clip-looks-so-real-fans-cant-believe-its-in-game-footage",
+    "headline": "This GTA 6 Clip Looks So Real, Fans Can't Believe It's In-Game Footage",
+    "summary": "#OnlyinViceCity.\nIf you're at all interested in GTA 6, you'll probably have seen this doing the rounds already. A video is going viral on social media, because it's fooling people into thinking it's real-life footage — but it's actually the game.\nHere's the clip in question:\nRead the full article on pushsquare.com",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/this-gta-6-clip-looks-so-real-fans-cant-believe-its-in-game-footage"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/8b3f634e3dcfc/large.jpg",
+    "published_at": "2026-11-12T13:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "1d4cc0c3ceac",
+    "slug": "naughty-dogs-intergalactic-the-heretic-prophet-takes-inspiration-from",
+    "headline": "Naughty Dog's Intergalactic: The Heretic Prophet Takes Inspiration from Iconic Franchises",
+    "summary": "Naughty Dog's upcoming game takes cues from Jak and Daxter, Uncharted, and The Last of Us, according to Neil Druckmann. The project is still in production stages.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/intergalactic-the-heretic-prophet-in-last-stages-of-production-neil-druckmann-calls-it-a-mash-up-of-jak-and-daxter-uncharted-and-the-last-of-us"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2025/11/05/intergalacticthumb-1762367380714.png",
+    "published_at": "2026-11-12T12:47:30.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "intergalactic-the-heretic-prophet",
+    "game_label": "Intergalactic: The Heretic Prophet"
+  },
+  {
+    "id": "22224487950a",
+    "slug": "gta-6-almost-faced-rejection-in-south-korea-over-nudity",
+    "headline": "GTA 6 Almost Faced Rejection in South Korea Over Nudity",
+    "summary": "South Korea's ratings board struggled with approving GTA 6 due to genital nudity, but ultimately approved the game",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-was-almost-refused-rating-in-south-korea"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/12/vintage-vice-city-pack-exclusive-looks-01-1794487245980.jpg",
+    "published_at": "2026-11-12T12:44:19.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
     "id": "4e9f6c22a3ad",
     "slug": "how-to-complete-the-frog-side-quest-in-zelda-ocarina-of-time-remake",
     "headline": " How to complete the Frog side quest in Zelda Ocarina of Time Remake ",
@@ -133,6 +381,32 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "a53dd4d6ec9c",
+    "slug": "magic-the-gathering-marvel-super-heroes-play-booster-box-deal",
+    "headline": "Magic: The Gathering Marvel Super Heroes Play Booster Box Deal",
+    "summary": "Amazon is offering a 40% discount on the Magic: The Gathering Marvel Super Heroes Play Booster Box, dropping the price from $209.70 to $129.99.",
+    "category": "deals",
+    "platform_tags": [
+      "mobile",
+      "pc",
+      "switch",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/magic-the-gathering-marvel-super-heroes-play-booster-box-black-friday-deal"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/05/29/marvel-super-heroes-play-booster-box-sale-amazon-best-deal-1780054155676.png",
+    "published_at": "2026-11-12T12:19:36.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "magic-the-gathering-marvel-super-heroes-play-booster-box",
+    "game_label": "Magic: The Gathering Marvel Super Heroes Play Booster Box"
   },
   {
     "id": "0ebec02141fb",
@@ -336,6 +610,31 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "a65950443077",
+    "slug": "gta-6-boss-says-never-say-never-to-a-new-grand-theft-auto-game-set-out",
+    "headline": "GTA 6 Boss Says 'Never Say Never' to a New Grand Theft Auto Game Set Outside America",
+    "summary": "Rockstar Games' boss leaves door open for a potential GTA game outside the US, fueling speculation about a London-set installment",
+    "category": "industry",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-boss-says-never-say-never-when-it-comes-to-a-new-grand-theft-auto-game-set-outside-america-but-theres-still-so-much-to-do-with-the-us/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Vts2gARY5nVyEoNVefxML5-1920-80.jpg",
+    "published_at": "2026-11-12T11:40:24.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto",
+    "game_label": "Grand Theft Auto"
   },
   {
     "id": "d3c216cd6d39",
@@ -922,6 +1221,31 @@
     "game_label": null
   },
   {
+    "id": "f841b8ee0d73",
+    "slug": "the-spectrum-retreat-redux-coming-to-ps5-xbox-series-and-pc-on-novembe",
+    "headline": "The Spectrum Retreat: Redux coming to PS5, Xbox Series, and PC on November 26",
+    "summary": "Ripstone will release The Spectrum Retreat: Redux, a remastered version of the 2018-released first-person puzzler …",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/the-spectrum-retreat-redux-coming-to-ps5-xbox-series-and-pc-on-november-26"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/f841b8ee0d73/800/600",
+    "published_at": "2026-11-12T09:15:26.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "4ff4dba32876",
     "slug": "brand-new-gta-6-footage-released",
     "headline": "Brand-New GTA 6 Footage Released",
@@ -937,6 +1261,30 @@
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/gta-6-new-trailer-clip-miami-cars-real-life-recreated-only-dade-gamerant.jpg",
     "published_at": "2026-11-12T09:01:49.000Z",
     "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3db548dccd67",
+    "slug": "guide-playstation-studios-all-sony-first-party-developers-and-what-the",
+    "headline": "Guide: PlayStation Studios: All Sony First-Party Developers and What They're Working On",
+    "summary": "Every game coming from PS Studios. Sony's first-party developers are known collectively as PlayStation Studios, and it's these teams that make all the games published by the company. Whether it's PS5, PC, or beyond, there are always new games in the works. While we don't always know everything about what's in development, we've done our best to collate all the…",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/guides/playstation-studios-all-sony-first-party-developers-and-what-theyre-working-on"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/0bdbbbb8328a3/large.jpg",
+    "published_at": "2026-11-12T09:00:00.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4318,333 +4666,6 @@
     ],
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/link-in-bed-talking-to-navi.avif",
     "published_at": "2026-11-11T15:00:18.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "983526a4bac9",
-    "slug": "world-of-warcraft-forever-review-a-love-letter-to-the-mmorpg-i-fell-fo",
-    "headline": "World of Warcraft: Forever review: A love letter to the MMORPG I fell for over 20 years ago",
-    "summary": "GamesRadar+ reviews World of Warcraft: Forever, a nostalgic MMORPG experience that reignites passion in players 20+ years in, with a strong focus on storytelling, characters, and community.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-forever-review/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/xLz3orT6Mgb8heTSNmw4an-1920-80.jpg",
-    "published_at": "2026-11-11T15:00:00.000Z",
-    "hype_signal": 90,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "world-of-warcraft-forever",
-    "game_label": "World of Warcraft: Forever"
-  },
-  {
-    "id": "d6628ebc13c5",
-    "slug": "katsuhiro-harada-says-xbox-series-s-is-like-doing-extra-work-for-a-sli",
-    "headline": "Katsuhiro Harada says Xbox Series S is like doing 'extra work for a slightly weaker child'",
-    "summary": "Former Tekken boss Katsuhiro Harada expresses his dislike for the Xbox Series S console, stating it's like performing extra work for a less powerful device.",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/katsuhiro-harada-says-he-wishes-xbox-series-s-didnt-exist-because-its-like-doing-extra-work-for-a-slightly-weaker-child/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/d6628ebc13c5/800/600",
-    "published_at": "2026-11-11T14:55:32.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8ce3cf4f4cdf",
-    "slug": "lego-digital-play-acquires-forthstar-games-to-bring-lego-to-the-promin",
-    "headline": "Lego Digital Play acquires ForthStar Games \"to bring Lego to the prominence it truly deserves on mobile\"",
-    "summary": "Lego Digital Play has acquired mobile studio ForthStar Games for an undisclosed sum.\n Read more",
-    "category": "industry",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/lego-digital-play-acquires-forthstar-games-to-bring-lego-to-the-prominence-it-truly-deserves-on-mobile"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/forthstar.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-11T14:46:40.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a451043f8d9e",
-    "slug": "the-games-that-defined-this-generation",
-    "headline": "The games that defined this generation",
-    "summary": "SPONSORED: With the huge release of GTA 6 pending, we look back at how this generation changed gaming",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/the-games-that-defined-this-generation/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a451043f8d9e/800/600",
-    "published_at": "2026-11-11T14:46:34.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d37d8abd1fab",
-    "slug": "square-enixs-big-reset-is-working-as-it-increases-its-full-year-foreca",
-    "headline": "Square Enix's Big Reset Is Working As It Increases Its Full-Year Forecast",
-    "summary": "Publisher reports \"solid performance\" for FF7 Rebirth. Square Enix has released its latest financial data for the six-month period ending 30th September 2026. In short, it looks like the company's efforts to reset its business is working. It reported increased sales compared to the same period in 2025 and has therefore increased its overall forecast for the remainder of the…",
-    "category": "deals",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/11/square-enixs-big-reset-is-working-as-it-increases-its-full-year-forecast"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/9d3e8cb526d33/large.jpg",
-    "published_at": "2026-11-11T14:45:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1fbda03e8dfa",
-    "slug": "the-weeknd-to-star-in-stellar-blade-blood-rain",
-    "headline": "The Weeknd to star in Stellar Blade: Blood Rain",
-    "summary": "The Weeknd is set to appear in the upcoming action-adventure game Stellar Blade: Blood Rain, according to Shift Up. The project's developer has expressed interest in meeting the enthusiasm surrounding the game.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/action-rpg/the-weeknd-turning-up-to-play-stellar-blade-blood-rain-shows-the-action-rpgs-appeal-goes-beyond-gaming-into-the-wider-cultural-sphere-shift-up-says/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/DidcHpaRRhoubAGiyGxR6C-1920-80.jpg",
-    "published_at": "2026-11-11T14:44:18.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "stellar-blade-blood-rain",
-    "game_label": "Stellar Blade: Blood Rain"
-  },
-  {
-    "id": "d30bb7d7f951",
-    "slug": "amds-zen-6-gaming-cpus-might-be-absolute-monsters-by-the-looks-of-the",
-    "headline": " AMD's Zen 6 gaming CPUs might be absolute monsters by the looks of the server chips—and there's a 3D V-Cache variant to keep an eye on ",
-    "summary": "A tantalising tease.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/processors/amds-zen-6-gaming-cpus-might-be-absolute-monsters-by-the-looks-of-the-server-chips-and-theres-a-3d-v-cache-variant-to-keep-an-eye-on/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/rzParbRmcG9d7cPPxniue9-1920-80.jpg",
-    "published_at": "2026-11-11T14:36:40.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "215d3b0ba36f",
-    "slug": "lanterns-producer-addresses-cancellation-rumors",
-    "headline": "Lanterns Producer Addresses Cancellation Rumors",
-    "summary": "Polygon reports that the producer of Lanterns has denied cancellation rumors, but the game remains unrenewed",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/lanterns-season-2-canceled-james-gunn-hbo-max/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/john-stewart-aaron-pierre-looks-down-at-the-green-lantern-ring-he-is-wearing-in-lanterns.jpg",
-    "published_at": "2026-11-11T14:33:48.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "lanterns",
-    "game_label": "Lanterns"
-  },
-  {
-    "id": "23a9fc5a6a1c",
-    "slug": "ces-2027-preview-ai-enters-its-deployment-era-cta-ceo-kinsey-fabrizio",
-    "headline": "CES 2027 preview: AI enters its deployment era | CTA CEO Kinsey Fabrizio exclusive interview",
-    "summary": "CES 2027 is expected to be biggest edition of the tech industry’s annual gathering in Las Vegas since the pandemic. Kinsey Fabrizio, CEO of...\nThe post CES 2027 preview: AI enters its deployment era | CTA CEO Kinsey Fabrizio exclusive interview appeared first on GamesBeat.",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/ces-2027-preview-ai-enters-its-deployment-era-cta-ceo-kinsey-fabrizio-exclusive-interview/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/23a9fc5a6a1c/800/600",
-    "published_at": "2026-11-11T14:30:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "66aebb23567d",
-    "slug": "some-players-are-crashing-out-about-gta-6-only-being-30-fps-starfield",
-    "headline": "Some Players Are Crashing Out About GTA 6 Only Being 30 FPS: ‘Starfield Got Assaulted For Being Locked To 30 FPS’",
-    "summary": "Others are showing some grace to what could be the most detailed open-world game ever",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/some-players-are-crashing-out-about-gta-6-only-being-30-fps-starfield-got-assaulted-for-being-locked-to-30-fps-2000755892"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/11/drivin-1280x720.jpg",
-    "published_at": "2026-11-11T14:20:46.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "801dedcb03f3",
-    "slug": "i-wish-hardware-like-the-xbox-series-s-wouldnt-be-released-former-tekk",
-    "headline": "\"I wish hardware like the Xbox Series S wouldn't be released\" - former Tekken director Katsuhiro Harada trashes Microsoft's console in front of senior Xbox staff",
-    "summary": "Katsuhiro Harada, formerly director on the Tekken series, is known for not pulling his punches. This truth was reinforced recently, as he said he wished the Xbox Series S \"wouldn't be released\" at a developer panel. All while a member of the Xbox team was in the room.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/katsuhiro-harada-xbox-series-s-wish-it-wouldnt-release"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Harada-Series-S.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-11T14:09:30.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d0dc740da40b",
-    "slug": "the-legend-of-zelda-ocarina-of-time-remake-sees-massive-sales",
-    "headline": "The Legend of Zelda: Ocarina of Time Remake Sees Massive Sales",
-    "summary": "Nintendo's Switch 2 remake of The Legend of Zelda: Ocarina of Time has shattered records, selling over 5.2 million copies in just four days.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/zelda-ocarina-of-time-switch-2-sales-nintendo"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/zelda-ocarina-of-time-remake-goron-city-heart-piece-gold-skulltula-oot/"
-      },
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/the-legend-of-zelda-ocarina-of-time-remake-sales-top-5-2-million-in-four-days"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Zelda_Ocarina_Of_Time_Songs_Header.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-11T14:00:14.000Z",
-    "hype_signal": 90,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-legend-of-zelda-ocarina-of-time-remake",
-    "game_label": "The Legend of Zelda: Ocarina of Time Remake"
-  },
-  {
-    "id": "250f15782513",
-    "slug": "playstation-hero-project-will-show-presence-at-gamescom-latam-2027",
-    "headline": "PlayStation Hero Project will show presence at Gamescom Latam 2027",
-    "summary": "Gamescom Latam, the Latin American edition of Gamescom, said the PlayStation Hero Project will participate in its 2027 event. The gaming expo also opened...\nThe post PlayStation Hero Project will show presence at Gamescom Latam 2027 appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/playstation-hero-project-will-show-presence-at-gamescom-latam-2027/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/250f15782513/800/600",
-    "published_at": "2026-11-11T14:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2b32fcf43ad9",
-    "slug": "xbox-brings-halos-iconic-pelican-to-microsoft-flight-sim-2024-as-limit",
-    "headline": "Xbox Brings Halo's Iconic Pelican To Microsoft Flight Sim 2024 As Limited-Time Freebie",
-    "summary": "Act fast and claim the combat dropship for free! Asobo Studios is commemorating the 25th anniversary of Halo by introducing the iconic UNSC Pelican into Microsoft Flight Simulator 2024. Over the years, the combat dropshop has seen a plethora of talented pilots don its cockpit: Carol 'Foehammer' Rawley, the reluctant Fernando Esparza, and now you! Read the full article on…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/11/xbox-brings-halos-iconic-pelican-to-microsoft-flight-sim-2024-as-limited-time-freebie"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/4a03ab95aa824/large.jpg",
-    "published_at": "2026-11-11T14:00:00.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
