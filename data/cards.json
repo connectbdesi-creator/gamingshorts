@@ -1,5 +1,263 @@
 [
   {
+    "id": "701b97c27616",
+    "slug": "naughty-dogs-intergalactic-teaser-to-reveal-next-year",
+    "headline": "Naughty Dog's Intergalactic Teaser to Reveal Next Year",
+    "summary": "Neil Druckmann teases that Intergalactic's full reveal is coming next year, hinting at an upcoming game announcement.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/intergalactic-is-in-the-last-stage-of-production-where-its-playable-and-being-refined-neil-druckmann-says/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/701b97c27616/800/600",
+    "published_at": "2026-11-12T14:49:46.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "intergalactic",
+    "game_label": "Intergalactic"
+  },
+  {
+    "id": "db6e71bdc669",
+    "slug": "nvidia-ceo-jensen-huang-resigns-amid-scandal",
+    "headline": "Nvidia CEO Jensen Huang Resigns Amid Scandal",
+    "summary": "Nvidia's Jensen Huang has stepped down as CEO amid allegations of extramarital affairs, and the company is now searching for his replacement. A interim CEO has been appointed in the meantime.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/nvidia-boss-jensen-huang-resigns-amid-scandal-surrounding-two-alleged-affairs-interim-ceo-appointed-as-search-for-sexy-leather-jacket-mans-successor-begins"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Nvidia-Jensen-RTX-4090.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-12T14:49:00.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f3e25330b757",
+    "slug": "zelda-ocarina-of-time-physical-edition-sees-massive-sales-in-japan",
+    "headline": "Zelda: Ocarina of Time Physical Edition Sees Massive Sales in Japan",
+    "summary": "The Legend of Zelda: Ocarina of Time physical edition has sold over 537,000 units in its debut on the Japanese charts, solidifying its position as a best-seller in Japan",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/japanese-charts-zelda-ocarina-of-time-physical-takes-the-lions-share-of-its-japanese-sales"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/70c8fc57cca9e/large.jpg",
+    "published_at": "2026-11-12T14:45:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-legend-of-zelda-ocarina-of-time",
+    "game_label": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "96a02f1b001a",
+    "slug": "mw4-dmz-keys-location",
+    "headline": "MW4 DMZ Keys Location",
+    "summary": "The location to use MW4 DMZ keys has been revealed, offering players a new way to access the game's battle royale mode.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/call-of-duty/mw4-dmz-keys-locations/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/JNdAa9kzYBiojXmuQXX8ZJ-1920-80.jpg",
+    "published_at": "2026-11-12T14:44:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "mw4",
+    "game_label": "MW4"
+  },
+  {
+    "id": "c48236ce71a9",
+    "slug": "resident-evil-requiem-wins-four-golden-joystick-awards-including-ultim",
+    "headline": "Resident Evil Requiem wins four Golden Joystick Awards, including Ultimate and Console GOTY",
+    "summary": "The 44th Golden Joystick Awards took place last night, with Resident Evil Requiem winning four awards including Ultimate Game of the Year and Console Game of the Year.\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/resident-evil-requiem-wins-four-golden-joystick-awards-including-ultimate-and-console-goty"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/grace-ashcroft-resident-evil.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-12T14:42:10.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d78273ba934e",
+    "slug": "german-games-industry-association-warns-digital-fairness-act-could-cau",
+    "headline": "German Games Industry Association warns Digital Fairness Act could cause \"double regulation and legal uncertainty\"",
+    "summary": "The German Games Industry Association (Game) has criticised the Digital Fairness Act (DFA), warning that the legislation creates \"double regulation and legal uncertainty\" that could significantly harm European developers.\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/german-games-industry-association-warns-digital-fairness-act-could-cause-double-regulation-and-legal-uncertainty"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/game-the-german-games-industry-association-logo.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-12T14:36:10.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "79cb12e266e4",
+    "slug": "zero-hour-for-ps5-xbox-series-launches-on-december-3",
+    "headline": "Zero Hour for PS5, Xbox Series Launches on December 3",
+    "summary": "The PS5 and Xbox Series versions of tactical first-person shooter Zero Hour will be released on December 3, marking the launch of these consoles' respective games.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/zero-hour-for-ps5-xbox-series-launches-december-3"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/79cb12e266e4/800/600",
+    "published_at": "2026-11-12T14:34:34.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "zero-hour",
+    "game_label": "Zero Hour"
+  },
+  {
+    "id": "27b5e6f2a6d6",
+    "slug": "nintendo-announces-black-friday-2026-deals",
+    "headline": "Nintendo announces Black Friday 2026 deals",
+    "summary": "Nintendo has announced its Black Friday 2026 deals, which include $50 in savings on a …",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/nintendo-announces-black-friday-2026-deals"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/27b5e6f2a6d6/800/600",
+    "published_at": "2026-11-12T14:31:04.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b4083c342a0e",
+    "slug": "professor-layton-makes-ps5-and-switch-debut-with-new-game",
+    "headline": "Professor Layton Makes PS5 and Switch Debut with New Game",
+    "summary": "Professor Layton is coming to the PS5 and Switch for the first time with its latest game, priced at $64.99, marking a shift from handheld DS and 3DS releases.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/for-its-home-console-debut-new-ps5-professor-layton-game-ups-the-price-to-usd65"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/b2ce58623fc32/large.jpg",
+    "published_at": "2026-11-12T14:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "professor-layton-and-the-new-world-of-steam",
+    "game_label": "Professor Layton and the New World of Steam"
+  },
+  {
+    "id": "6ec14225503b",
+    "slug": "dark-souls-2-3s-multiplayer-servers-rebooted-after-two-week-outage",
+    "headline": "Dark Souls 2 & 3's Multiplayer Servers Rebooted After Two-Week Outage",
+    "summary": "Dark Souls 2 and 3's online multiplayer servers have been restored following a prolonged outage, allowing players to connect with each other again.",
+    "category": "patches",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/dark-souls-2-3-servers-back-online"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/DS2-Scholar_main.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-12T14:24:50.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dark-souls-2-3",
+    "game_label": "Dark Souls 2 & 3"
+  },
+  {
+    "id": "b8495b00fdf6",
+    "slug": "all-x01-vault-keys-in-mw4-dmz",
+    "headline": "All X01 Vault Keys in MW4 DMZ",
+    "summary": "Guidance on obtaining specific keys in the Deep Vault of the X01 location in Metal Gear Solid 4: Diamond Dogs multiplayer mode.",
+    "category": "esports",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/mw4-dmz-all-x01-vault-keys-locations/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/mw4-dmz-all-x01-vault-keys-locations.jpg",
+    "published_at": "2026-11-12T14:22:15.000Z",
+    "hype_signal": 10,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "metal-gear-solid-4-diamond-dogs",
+    "game_label": "Metal Gear Solid 4: Diamond Dogs"
+  },
+  {
     "id": "a4b0cfe53b7b",
     "slug": "fatal-fury-city-of-the-wolves-dlc-character-laocorn-gaudeamus-launches",
     "headline": "Fatal Fury: City of the Wolves DLC character Laocorn Gaudeamus launches November 19",
@@ -19,6 +277,31 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "9a97c7d6c2b5",
+    "slug": "how-to-redeem-bey-rivals-codes-for-spins-tickets-and-more",
+    "headline": "How to Redeem Bey Rivals Codes for Spins, Tickets, and More",
+    "summary": "Bey Rivals offers redeemable codes for in-game rewards, including spins for new parts and ticket bonuses.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/action/bey-rivals-codes/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/AVNLHWLf3UwhtEuP4LSBT3-1920-80.jpg",
+    "published_at": "2026-11-12T14:18:43.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "bey-rivals",
+    "game_label": "Bey Rivals"
   },
   {
     "id": "616685b5198f",
@@ -283,6 +566,27 @@
     "comment_count": 0,
     "game": "gears-of-war-e-day",
     "game_label": "Gears of War: E-Day"
+  },
+  {
+    "id": "1077f739a476",
+    "slug": "world-of-warcraft-forever-makes-major-change-to-high-level-quest-rewar",
+    "headline": "World of Warcraft Forever Makes Major Change to High-Level Quest Rewards",
+    "summary": "World of Warcraft: Forever introduces a change to high-level quest rewards, which marks another notable adjustment to the popular MMORPG.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/world-of-warcraft-forever-makes-major-change-to-high-level-quest-rewards/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/gamerant-95.jpg",
+    "published_at": "2026-11-12T13:57:06.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "d6d296565291",
@@ -4378,309 +4682,6 @@
     "image_url": "https://kotaku.com/app/uploads/2022/11/9ae7d3f5fce39f547f1f2284a3d9c25b-1280x720.jpg",
     "published_at": "2026-11-11T17:17:42.000Z",
     "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "eef1744a6b4a",
-    "slug": "skyrim-celebrates-15th-anniversary-with-creation-club-dlc-bundle-big-s",
-    "headline": "Skyrim Celebrates 15th Anniversary with Creation Club DLC Bundle, Big Sales, and More",
-    "summary": "Reach for the Skyrim.\nThe Elder Scrolls 5: Skyrim is officially 15 years old today, having originally launched on the 11th November, 2011.\nAnd no, Bethesda doesn't have a new re-release lined up or anything like that, so the memes will have to be put on hold for now.\nRead the full article on pushsquare.com",
-    "category": "deals",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/skyrim-celebrates-15th-anniversary-with-creation-club-dlc-bundle-big-sales-and-more"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/750761635a423/large.jpg",
-    "published_at": "2026-11-11T17:15:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0685afd3e082",
-    "slug": "steams-review-backlog-snags-another-games-launch-date",
-    "headline": "Steam's Review Backlog Snags Another Game's Launch Date",
-    "summary": "Another game, Australia Did It: End-of-the-World Railway Defense Business, is stuck in Steam's review process, delaying its launch from November 10.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/steam-growing-review-backlog-has-cost-another-game-its-launch-date/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Australia-Did-It.jpg?w=300",
-    "published_at": "2026-11-11T17:09:14.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "australia-did-it-end-of-the-world-railway-defense-business",
-    "game_label": "Australia Did It: End-of-the-World Railway Defense Business"
-  },
-  {
-    "id": "8adf0a3d05d4",
-    "slug": "world-of-stands-codes-november-2026-and-how-to-redeem-them-for-arrows",
-    "headline": " World of Stands codes (November 2026) and how to redeem them for Arrows and more ",
-    "summary": "Codes for World of Stands will give you more Arrows, which can be used to summon Stands to fight alongside you",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/action-rpg/world-of-stands-codes/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/noEdDMGMiAz9YnKEtbaPAR-1920-80.jpg",
-    "published_at": "2026-11-11T17:06:11.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "72cb09b43768",
-    "slug": "dark-souls-2-and-3-multiplayer-is-back-we-still-dont-know-what-went-wr",
-    "headline": " Dark Souls 2 and 3 multiplayer is back: We still don't know what went wrong but at least it didn't take almost a year to fix it ",
-    "summary": "A \"server issue\" knocked both games offline, across all platforms, for nearly two weeks.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/dark-souls/dark-souls-2-and-3-multiplayer-is-back-we-still-dont-know-what-went-wrong-but-at-least-it-didnt-take-almost-a-year-to-fix-it/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/TwRkXYr4TgjdEKjC4xvjz7-1920-80.jpg",
-    "published_at": "2026-11-11T17:05:30.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "48d9259afe15",
-    "slug": "dont-fret-launches-december-8",
-    "headline": "Don’t Fret launches December 8",
-    "summary": "First-person psychological horror game Don’t Fret will launch for PlayStation 5, Xbox Series, and PC …",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/dont-fret-launches-december-8"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/48d9259afe15/800/600",
-    "published_at": "2026-11-11T17:04:36.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d51c6239f0aa",
-    "slug": "the-best-controllers-for-gta-6",
-    "headline": "The Best Controllers for GTA 6",
-    "summary": "GamesRadar+ recommends gaming controllers for PS5 and Xbox players looking to play GTA 6",
-    "category": "industry",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/gaming-controllers/the-best-controllers-for-gta-6-the-gamepads-id-recommend-for-ps5-and-xbox-players-jumping-into-vice-city/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/37hiLFtAfeBnr2PMHMnRKB-1920-80.jpg",
-    "published_at": "2026-11-11T17:04:09.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "7f687542ab10",
-    "slug": "minerva-rising-frostpunk-inspired-city-builder-with-a-twist",
-    "headline": "Minerva Rising: Frostpunk-Inspired City Builder with a Twist",
-    "summary": "Minerva Rising is a post-apocalyptic city builder where you manage an underground city with levels, resources, and communities, all while avoiding subversive AI-powered citizens who can sabotage your system",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/minerva-rising-is-a-frostpunk-meets-silo-underground-city-builder-in-which-rebel-citizens-can-hack-your-camera"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Minerva-Rising.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-11T17:04:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "minerva-rising",
-    "game_label": "Minerva Rising"
-  },
-  {
-    "id": "e6774b5a819f",
-    "slug": "sony-officially-confirms-major-ps5-hardware-sales-milestone",
-    "headline": "Sony Officially Confirms Major PS5 Hardware Sales Milestone",
-    "summary": "Sony confirms PS5 has surpassed PS4 in sales, positioning it to potentially surpass its predecessor in the near future.",
-    "category": "industry",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/sony-ps5-sales-numbers-november-2026/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22411094/jbareham_201022_ply1040_ps5_lead_0001.jpg",
-    "published_at": "2026-11-11T17:01:41.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5c7f5ce43c1b",
-    "slug": "the-abxylute-m6-is-an-ideal-bluetooth-mobile-controller-for-those-on-t",
-    "headline": "The Abxylute M6 Is An Ideal Bluetooth Mobile Controller For Those On The Go",
-    "summary": "The Abxylute M6 is a portable Bluetooth mobile controller that's packed with features, making it an ideal option for gamers on-the-go.",
-    "category": "deals",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/abxylute-m6-mobile-bluetooth-controller-review/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/abxylute-m6-mobile-controller-render-2.jpg",
-    "published_at": "2026-11-11T17:01:22.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8ebfa0284f86",
-    "slug": "ps5-sales-just-wont-quit",
-    "headline": "PS5 Sales Just Won’t Quit",
-    "summary": "Sony's current console just crossed the 100 million mark",
-    "category": "deals",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/ps5-sales-just-wont-quit-2000755917"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2025/04/5cd2a1c9902c73c35c325178454b52d9-1280x720.jpg",
-    "published_at": "2026-11-11T17:00:36.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a4d6f32ef040",
-    "slug": "what-sonys-live-service-ps5-games-are-still-alive",
-    "headline": "What Sony's Live Service PS5 Games Are Still Alive?",
-    "summary": "Sony has faced significant cancellations of its PS5 live service games, marking a significant change in its approach to online gaming.",
-    "category": "industry",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/features/what-sony-live-service-ps5-games-are-still-alive"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/312a961a9bebf/large.jpg",
-    "published_at": "2026-11-11T17:00:00.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "sony-live-service",
-    "game_label": "Sony Live Service"
-  },
-  {
-    "id": "e81f197ccc9e",
-    "slug": "we-will-put-in-our-best-efforts-to-develop-for-it-stellar-blade-cto-wa",
-    "headline": "'We Will Put In Our Best Efforts To Develop For It' - Stellar Blade CTO Wants Xbox Helix Dev Kit",
-    "summary": "\"Personally, I am looking forward to the next-gen Xbox\". Shift Up CTO DongKi Lee, best known for his work on Stellar Blade and the studio's mobile games, recently spoke at a developer panel about his excitement to get hands-on with Xbox Project Helix development kits. All whilst in front of a senior official of team Xbox. As Inven Global puts…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/11/we-will-put-in-our-best-efforts-to-develop-for-it-stellar-blade-cto-wants-xbox-helix-dev-kit"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/b236f6c32709f/large.jpg",
-    "published_at": "2026-11-11T17:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6b15cc537d1a",
-    "slug": "antec-c6-curve-air-review",
-    "headline": "Antec C6 Curve Air review",
-    "summary": "PC Gamer reviews Antec's C6 Curve Air chassis, praising its affordability and features.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/pc-cases/antec-c6-curve-air-review/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/vQqWnMGFhqArpZdDU4K3YT-1920-80.jpg",
-    "published_at": "2026-11-11T16:50:44.000Z",
-    "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
