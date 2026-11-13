@@ -1,5 +1,97 @@
 [
   {
+    "id": "6b7eefd00b37",
+    "slug": "ps-plus-extra-gets-exclusive-kojima-game-in-november",
+    "headline": "PS Plus Extra Gets Exclusive Kojima Game in November",
+    "summary": "Kojima Productions is joining PS Plus Extra with a new game in November, but players may be surprised by its deliberate pace",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/ps-plus-extra-november-2026-death-stranding-2/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/sam-looking-out-at-the-moon-in-death-stranding-2.jpg",
+    "published_at": "2026-11-13T22:30:14.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "death-stranding",
+    "game_label": "Death Stranding"
+  },
+  {
+    "id": "cdea28f41165",
+    "slug": "yes-some-brave-games-are-still-launching-on-steam-during-gta-6-launch",
+    "headline": " Yes, some brave games are still launching on Steam during GTA 6 launch week ",
+    "summary": "Roundabouts, merchant republics, and dark fantasy roguelikes aren't budging their release plans.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/yes-some-brave-games-are-still-launching-on-steam-during-gta-6-launch-week/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/8TjNUwvCTei477eGjE9ymL-1920-80.jpg",
+    "published_at": "2026-11-13T22:28:10.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f639d02b8343",
+    "slug": "pearl-abyss-expands-ai-use-in-games-amidst-controversy",
+    "headline": "Pearl Abyss Expands AI Use in Games Amidst Controversy",
+    "summary": "Crimson Desert developer Pearl Abyss is increasing AI use in games despite previous controversy over AI-generated art, and the company is not backing down",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/nLRUSe282Y7dBidATad2pm-1920-80.jpg",
+    "published_at": "2026-11-13T22:17:06.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "crimson-desert",
+    "game_label": "Crimson Desert"
+  },
+  {
+    "id": "980d06a061ba",
+    "slug": "every-remake-ever-nominated-for-game-of-the-year-and-what-beat-it",
+    "headline": "Every Remake Ever Nominated for Game of the Year, and What Beat It",
+    "summary": "The Game Awards has recognized some remarkable remakes over the years, but their history in the Game of the Year race tells a surprising story.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/game-awards-remakes-nominated-game-of-the-year/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/cloud-from-final-fantasy-7-rebirth-behind-a-game-award-from-the-game-awards.jpg",
+    "published_at": "2026-11-13T22:15:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "9f855647551e",
     "slug": "you-can-get-paid-100k-to-study-gta-6",
     "headline": "You Can Get Paid $100K to Study GTA 6",
@@ -107,6 +199,30 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "feac26977638",
+    "slug": "magic-the-gatherings-star-trek-commander-precons-ranked",
+    "headline": "Magic: The Gathering's Star Trek Commander Precons Ranked",
+    "summary": "IGN ranks Magic: The Gathering Star Trek precons by gameplay, value, and reprints",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/magic-the-gathering-star-trek-commander-decks-ranked"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/07/17/star-trek-commander-deck-deal-amazon-ign-1784274048211.png",
+    "published_at": "2026-11-13T21:30:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "magic-the-gathering-star-trek-commander",
+    "game_label": "Magic: The Gathering Star Trek Commander"
   },
   {
     "id": "aff3db8291a7",
@@ -4549,120 +4665,5 @@
     "comment_count": 0,
     "game": "metaphor-refantazio",
     "game_label": "Metaphor: ReFantazio"
-  },
-  {
-    "id": "b28a35b7f0f6",
-    "slug": "one-piece-breaks-devil-fruit-rules-forever",
-    "headline": "One Piece Breaks Devil Fruit Rules Forever",
-    "summary": "The One Piece series has taken a significant turn with Luffy's new transformation, shattering the rules of Devil Fruits in the latest arc.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/one-piece-oda-breaks-devil-fruit-rules/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/devil-fruit-rules-change-in-one-piece.jpg",
-    "published_at": "2026-11-13T02:30:14.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7e6e67f3821f",
-    "slug": "girls-und-panzer-all-star-tank-carnival-adds-ps5-and-pc-versions-launc",
-    "headline": "Girls und Panzer: All-Star Tank Carnival adds PS5 and PC versions, launches March 25, 2027 in Japan",
-    "summary": "Tank battle action Girls und Panzer: All-Star Tank Carnival will launch for PlayStation 5, Switch …",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/girls-und-panzer-all-star-tank-carnival-adds-ps5-and-pc-versions-launches-march-25-2027-in-japan"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/7e6e67f3821f/800/600",
-    "published_at": "2026-11-13T02:05:02.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5ae2cfad5438",
-    "slug": "id-software-confirms-its-working-on-a-new-game-after-layoffs",
-    "headline": "Id Software confirms it’s working on a new game after layoffs",
-    "summary": "Asha Sharma says id Software is \"already working on its next game\", despite recent layoffs",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/id-software-confirms-its-working-on-a-new-game-after-layoffs/"
-      },
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/11/doom-developer-id-software-confirms-its-working-on-a-new-game"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/5ae2cfad5438/800/600",
-    "published_at": "2026-11-13T01:55:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e387a1976902",
-    "slug": "attack-on-titan-3-character-interactions-and-expeditions-beyond-the-wa",
-    "headline": "Attack on Titan 3 ‘Character Interactions and Expeditions Beyond the Walls’ gameplay",
-    "summary": "Publisher Koei Tecmo and developer Omega Force have released an 11-minute gameplay video for Attack …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/attack-on-titan-3-character-interactions-and-expeditions-beyond-the-walls-gameplay"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/e387a1976902/800/600",
-    "published_at": "2026-11-13T01:15:06.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "36f92db6af07",
-    "slug": "thanks-for-25-years-xbox-players-from-wolfenstein-3-and-halo-firefight",
-    "headline": "Thanks for 25 Years, XBOX Players — From Wolfenstein 3 and Halo Firefight to Classic XBOX Games on PC: Everything Announced Today",
-    "summary": "Twenty-five years after the very first XBOX launched, Team XBOX came home to Seattle, the city where it all began, to close out our eight-city FanFest tour. The celebration has always been about you. Every achievement, every midnight launch, every friend you made along the way: that’s what built XBOX. So before anything else, thank […] The post Thanks for…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/11/12/xbox-25th-anniversary-news-recap/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/36f92db6af07/800/600",
-    "published_at": "2026-11-13T01:00:00.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
