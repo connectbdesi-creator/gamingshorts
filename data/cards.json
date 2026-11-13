@@ -1,5 +1,50 @@
 [
   {
+    "id": "75fa48002657",
+    "slug": "slay-the-spire-2s-new-character-is-absolutely-busted",
+    "headline": "Slay The Spire 2's New Character Is 'Absolutely Busted'",
+    "summary": "Slay The Spire 2's latest character, the Fool, is reportedly the most powerful in the game, according to fans. No details on their abilities are provided.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/slay-the-spire-2-new-fool-character-expecting-nerfs/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/1920x1080-2026-11-13t073804-185.png",
+    "published_at": "2026-11-13T08:12:39.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "slay-the-spire-2",
+    "game_label": "Slay The Spire 2"
+  },
+  {
+    "id": "f7df89845301",
+    "slug": "netflixs-disappointing-new-western-thriller-wastes-its-brilliant-conce",
+    "headline": "Netflix's Disappointing New Western Thriller Wastes Its Brilliant Concept",
+    "summary": "Netflix's Heartland is a western, noir, and musical that surprisingly falls short due to predictability",
+    "category": "reviews",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/heartland-netflix-review/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/_dsc4031_r-1.jpg",
+    "published_at": "2026-11-13T08:00:17.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "555b1e6cf059",
     "slug": "zelda-ocarinas-redead-were-set-to-be-very-very-scary-in-the-remake-but",
     "headline": "Zelda Ocarina's ReDead Were Set To Be \"Very, Very Scary\" In The Remake, But Nintendo Decided To \"Dial It Back\"",
@@ -4649,55 +4694,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "79cb12e266e4",
-    "slug": "zero-hour-for-ps5-xbox-series-launches-on-december-3",
-    "headline": "Zero Hour for PS5, Xbox Series Launches on December 3",
-    "summary": "The PS5 and Xbox Series versions of tactical first-person shooter Zero Hour will be released on December 3, marking the launch of these consoles' respective games.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/zero-hour-for-ps5-xbox-series-launches-december-3"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/79cb12e266e4/800/600",
-    "published_at": "2026-11-12T14:34:34.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "zero-hour",
-    "game_label": "Zero Hour"
-  },
-  {
-    "id": "e4813aac79f4",
-    "slug": "gtas-strangest-myths-a-full-history",
-    "headline": "GTA's Strangest Myths: A Full History",
-    "summary": "IGN investigates the most talked-about urban myths in the Grand Theft Auto series, including Bigfoot and the Mount Chilliad mystery, ahead of the release of GTA 6.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gtas-strangest-myths-a-full-history"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/09/gta-myths-1794236071663.jpg",
-    "published_at": "2026-11-12T14:30:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto",
-    "game_label": "Grand Theft Auto"
   }
 ]
