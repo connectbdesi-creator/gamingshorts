@@ -27643,5 +27643,56 @@
     ],
     "stores": [],
     "fetched_at": "2026-11-13T14:38:57.417Z"
+  },
+  {
+    "slug": "berserk",
+    "name": "Berserk",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/f72/f727b3b4a5b30516f82cdb7adf731ede.jpg",
+    "released": "2018-02-26",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Android",
+      "macOS",
+      "Linux"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f72/f727b3b4a5b30516f82cdb7adf731ede.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-13T18:37:45.865Z"
+  },
+  {
+    "slug": "dokev",
+    "name": "DokeV",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/bcb/bcb57fd15f1bbcfee171afdb41db0444.jpg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a94/a9465c9f10efbd0149613864518c99df.jpg",
+      "https://media.rawg.io/media/screenshots/a19/a19838cb1cfc513f18781ee7fdd67b2d.jpg",
+      "https://media.rawg.io/media/screenshots/6f4/6f40e60d1893435f10d1296f2bef65f5.jpg",
+      "https://media.rawg.io/media/screenshots/e91/e916b12b147a8775c59c5e039b43239e.jpg",
+      "https://media.rawg.io/media/screenshots/396/396c13eb88aff8c1495b2e2f11493f9f.jpg",
+      "https://media.rawg.io/media/screenshots/646/646a627db712eb2f542b279837f73d50.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-13T18:37:48.958Z"
   }
 ]
