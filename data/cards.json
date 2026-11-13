@@ -1,5 +1,127 @@
 [
   {
+    "id": "be1d8a4b70bd",
+    "slug": "magic-the-gathering-planeswalker-officially-revealed",
+    "headline": "Magic: The Gathering Planeswalker Officially Revealed",
+    "summary": "Rumors of a new Magic: The Gathering release have been confirmed, with a 2027 release date announced.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/magic-the-gathering-mtg-planeswalker/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/mtg-planeswalker-chandra-1.jpg",
+    "published_at": "2026-11-13T20:30:01.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "magic-the-gathering-planeswalker",
+    "game_label": "Magic: The Gathering Planeswalker"
+  },
+  {
+    "id": "27afc579e9f9",
+    "slug": "the-game-awards-2026-nominations-to-be-announced",
+    "headline": "The Game Awards 2026 Nominations to be Announced",
+    "summary": "The Game Awards will reveal its 2026 nominees on November 17, including Game of the Year",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/the-game-awards-2026-nominees-announcement-date/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/tga_key_art_side.jpg",
+    "published_at": "2026-11-13T20:23:24.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9ccda3f16508",
+    "slug": "the-6-most-unplayable-masterpieces-on-super-nintendo",
+    "headline": "The 6 Most Unplayable Masterpieces on Super Nintendo",
+    "summary": "Classic Super Nintendo games are revisited with a critical eye, highlighting their frustrating aspects that are often overlooked due to nostalgia.",
+    "category": "reviews",
+    "platform_tags": [
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/snes-games-that-aged-poorly/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/gamerant-60.jpg",
+    "published_at": "2026-11-13T20:15:14.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "super-nintendo",
+    "game_label": "Super Nintendo"
+  },
+  {
+    "id": "7c6a0c0f5483",
+    "slug": "every-free-game-you-can-keep-on-steam-epic-playstation-plus-and-xbox-n",
+    "headline": "Every Free Game You Can Keep on Steam, Epic, PlayStation Plus, and Xbox (Nov. 13-19)",
+    "summary": "Epic Games Store, Steam, and Xbox have some free games to keep you busy before GTA 6 drops.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/free-games-right-now-steam-epic-ps-plus-nov-13-19/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/knightica-steam.jpg",
+    "published_at": "2026-11-13T20:14:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "107004469232",
+    "slug": "wolfenstein-3-is-in-production-at-machine-games-asha-sharma",
+    "headline": "Wolfenstein 3 is in production at Machine Games | Asha Sharma",
+    "summary": "Asha Sharma, CEO of Xbox, announced that Wolfenstein 3 is in production at Machine Games. In a tweet, she said, “One of gaming’s most...\nThe post Wolfenstein 3 is in production at Machine Games | Asha Sharma appeared first on GamesBeat.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/wolfenstein-3-is-in-production-at-machine-games-asha-sharma/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/107004469232/800/600",
+    "published_at": "2026-11-13T20:02:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "cc1e77b9711f",
     "slug": "the-legend-of-zelda-series-was-in-dire-straights-before-breath-of-the",
     "headline": "The Legend of Zelda Series Was in 'Dire Straights' Before Breath of the Wild, Former Nintendo Marketing Leads Say",
@@ -90,6 +212,30 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "e83861f14c78",
+    "slug": "magic-the-gatherings-nauctis-the-sunken-realm-preorders-now-live",
+    "headline": "Magic: The Gathering's Nauctis: The Sunken Realm Preorders Now Live",
+    "summary": "Preorders for Magic: The Gathering's new game, Nauctis: The Sunken Realm, are now available on Amazon.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/magic-the-gathering-nauctis-sunken-realm-where-to-buy"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/13/nauctis-the-sunken-realm-mtg-preorders-1794597718585.png",
+    "published_at": "2026-11-13T19:24:51.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "nauctis-the-sunken-realm",
+    "game_label": "Nauctis: The Sunken Realm"
   },
   {
     "id": "a9d1a7c12e32",
@@ -390,6 +536,60 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "4b4cccab0e2a",
+    "slug": "vindictus-defying-fate-let-the-righteous-judge-cinematic-trailer",
+    "headline": "Vindictus: Defying Fate ‘Let the Righteous Judge’ cinematic trailer",
+    "summary": "NEXON has released a new cinematic trailer for Vindictus: Defying Fate, a medieval fantasy action RPG.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/vindictus-defying-fate-let-the-righteous-judge-cinematic-trailer"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/4b4cccab0e2a/800/600",
+    "published_at": "2026-11-13T18:05:39.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "vindictus-defying-fate",
+    "game_label": "Vindictus: Defying Fate"
+  },
+  {
+    "id": "4a49b97d2e2c",
+    "slug": "byteproduct-reveal-sturmjager-co-op-trailer",
+    "headline": "Byteproduct Reveal Sturmjager Co-Op Trailer",
+    "summary": "Byteproduct has released a new trailer for Sturmjager, a science-fiction shoot 'em up game, showcasing its co-op features.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/sturmjager-co-op-trailer"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/4a49b97d2e2c/800/600",
+    "published_at": "2026-11-13T18:00:35.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "sturmjager",
+    "game_label": "Sturmjager"
   },
   {
     "id": "dcd29a9550e3",
@@ -4478,185 +4678,6 @@
     "image_url": "https://picsum.photos/seed/7b8411a9beba/800/600",
     "published_at": "2026-11-12T23:00:01.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d1a81fc46d65",
-    "slug": "game-awards-disney-plus-partnership-sparks-new-kingdom-hearts-theories",
-    "headline": "Game Awards Disney Plus Partnership Sparks New Kingdom Hearts Theories",
-    "summary": "Fans are speculating about a potential Kingdom Hearts series on Disney+, fueled by a recent partnership announcement",
-    "category": "deals",
-    "platform_tags": [
-      "mobile",
-      "switch",
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/the-game-awards-official-disney-plus-announcement/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/geoff-keighly-in-front-of-game-awards-key-art.jpg",
-    "published_at": "2026-11-12T22:53:42.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "kingdom-hearts",
-    "game_label": "Kingdom Hearts"
-  },
-  {
-    "id": "3f929fd77806",
-    "slug": "slay-the-spire-2-beta-patch-adds-new-content",
-    "headline": "Slay the Spire 2 Beta Patch Adds New Content",
-    "summary": "Slay the Spire 2's beta branch has received a significant update with new early access content, character, and game modes, according to Mega Crit.",
-    "category": "patches",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/slay-the-spire-2s-biggest-beta-patch-yet-adds-its-first-new-early-access-and-foolish-character-two-game-modes-and-more-tweaks-than-you-can-shake-a-stick-at"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/slay-the-spire-2-the-fool.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-12T22:53:40.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "slay-the-spire-2",
-    "game_label": "Slay the Spire 2"
-  },
-  {
-    "id": "d04b986503c3",
-    "slug": "brand-new-switch-2-jrpg-offers-something-for-stardew-valley-and-pokemo",
-    "headline": "Brand-New Switch 2 JRPG Offers Something for Stardew Valley and Pokemon Fans",
-    "summary": "A new Switch 2 RPG is poised to appeal to fans of Stardew Valley and Pokémon, with a unique feature that diverges from the usual formula of these games.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/ova-magica-switch-2-stardew-valley-pokemon/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/ova-magica.jpeg",
-    "published_at": "2026-11-12T22:45:38.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ea213a3d84c2",
-    "slug": "new-4-minute-fable-gameplay-trailer-shows-a-game-that-doesnt-look-much",
-    "headline": " New 4-minute Fable gameplay trailer shows a game that doesn't look much like Fable ",
-    "summary": "Maybe it's just me. Is it just me?",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/rpg/new-4-minute-fable-gameplay-trailer-shows-a-game-that-doesnt-look-much-like-fable/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/vQV33tgAikCCCHGpnBucEo-1920-80.jpg",
-    "published_at": "2026-11-12T22:43:21.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "55d049dd0c97",
-    "slug": "company-of-heroes-3-free-to-play-this-weekend-on-steam",
-    "headline": "Company of Heroes 3 Free to Play This Weekend on Steam",
-    "summary": "Steam is offering a free trial of Company of Heroes 3, a World War II strategy game, this weekend. Players can try the game before purchasing it at a discount.",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/company-of-heroes-3-free-steam-weekend-sale-november-2026/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24446280/COH3_NorthAfrica_Gazala_Trenches.jpg",
-    "published_at": "2026-11-12T22:33:32.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "company-of-heroes-3",
-    "game_label": "Company of Heroes 3"
-  },
-  {
-    "id": "9d33bae93ae2",
-    "slug": "resident-evil-requiem-just-won-its-first-goty-award-but-its-real-test",
-    "headline": "Resident Evil Requiem Just Won Its First GOTY Award, but Its Real Test Is Still Coming",
-    "summary": "Resident Evil Requiem has its first major Game of the Year award, but the next competition could make that victory look very different.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/resident-evil-requiem-goty-golden-joystick-game-awards/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/bazaart_2026-11-12_110758.jpeg",
-    "published_at": "2026-11-12T22:30:34.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "29e7e219a091",
-    "slug": "new-fable-gameplay-seemingly-brings-back-an-og-fable-enemy",
-    "headline": " New Fable gameplay seemingly brings back an OG Fable enemy ",
-    "summary": "It seems evil fairies are back",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/rpg/new-fable-gameplay-seemingly-brings-back-an-og-fable-enemy/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/GpPMsnyd8DyET82KmYH9oY-1920-80.jpg",
-    "published_at": "2026-11-12T22:29:04.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "82e5bac6f8c2",
-    "slug": "fable-reveals-four-full-minutes-of-gameplay",
-    "headline": "Fable Reveals Four Full Minutes of Gameplay",
-    "summary": "Playground Games reveals a new look at the upcoming action RPG Fable, with four minutes of gameplay for interested fans to look at.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/fable-gameplay-combat/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/fable-reveals-four-full-minutes-of-gameplay.jpg",
-    "published_at": "2026-11-12T22:21:35.000Z",
-    "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
