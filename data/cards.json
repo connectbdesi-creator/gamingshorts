@@ -1,5 +1,74 @@
 [
   {
+    "id": "7843791ae5c7",
+    "slug": "new-steam-game-is-basically-minecraft-with-guns",
+    "headline": "New Steam Game is Basically Minecraft With Guns",
+    "summary": "For Minecraft players who ever wanted the same style of game with a more modern arsenal of combat tools, this upcoming Steam game has them covered.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/games-like-minecraft-guns-strayward/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/strayward-press-screenshot-6.jpg",
+    "published_at": "2026-11-14T13:31:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8fd83405d835",
+    "slug": "the-steam-machine-is-already-ahead-of-playstation-6-and-the-next-xbox",
+    "headline": "The Steam Machine Is Already Ahead of PlayStation 6 and the Next Xbox in One Way",
+    "summary": "A new industry survey puts Valve's Steam Machine in an unexpected position against the next PlayStation and Xbox, but the numbers need context.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/steam-machine-developer-support-ps6-next-xbox/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/y9i6cylktswrfeqnfgvepr.jpg",
+    "published_at": "2026-11-14T13:30:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "844239f1e3bc",
+    "slug": "ahead-of-gta-6-take-two-ceo-calls-out-anthropic-and-openai-over-ai-gam",
+    "headline": " Ahead of GTA 6, Take-Two CEO calls out Anthropic and OpenAI over AI game clones ",
+    "summary": "After Claude blocked users from \"recreating someone else's specific game\"",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/ahead-of-gta-6-take-two-ceo-calls-out-anthropic-and-openai-over-ai-game-clones-as-its-ironic-to-stomp-on-someone-elses-ip/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/q9VEvTmjqXdkuDN5ZDPPxh-1920-80.jpg",
+    "published_at": "2026-11-14T13:10:08.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "19c964f0cc99",
     "slug": "new-3d-pokemon-release-goes-back-to-the-og-kanto-region",
     "headline": "New 3D Pokemon Release Goes Back to the OG Kanto Region",
@@ -19,6 +88,50 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "e9261e1f7253",
+    "slug": "poll-are-you-hyped-for-novembers-10-new-ps-plus-games",
+    "headline": "Poll: Are You Hyped for November's 10 New PS Plus Games?",
+    "summary": "Plus or minus? I don't want to influence your opinion right out of the gate here, but November's PS Plus Extra lineup will surely go down as one of the service's strongest offerings in recent memory. It's got a bit of everything, but it's also packed with highly rated titles. Death Stranding 2: On the Beach was a Game of…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/features/poll-are-you-hyped-for-novembers-10-new-ps-plus-games"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/00873b00ea66f/large.jpg",
+    "published_at": "2026-11-14T13:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "cddcad5e52b9",
+    "slug": "gta-6-leads-the-pack-in-xbox-games-roundup",
+    "headline": "GTA 6 Leads the Pack in Xbox Games Roundup",
+    "summary": "Xbox gamers can expect a busy week with the release of GTA 6, along with other notable titles like Ranger's Path: National Park Simulator and Vice: Magic City Mayhem.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/these-10plus-games-are-coming-to-xbox-next-week-november-16-20"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/6b0361c67b717/large.jpg",
+    "published_at": "2026-11-14T13:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
   },
   {
     "id": "a2b952e42a9f",
@@ -4542,125 +4655,5 @@
     "comment_count": 0,
     "game": "fable",
     "game_label": "Fable"
-  },
-  {
-    "id": "d9af9a8db904",
-    "slug": "every-2026-pokemon-tcg-set-ranked-from-worst-to-best",
-    "headline": "Every 2026 Pokemon TCG Set Ranked From Worst To Best",
-    "summary": "TheGamer staff opens 100+ packs from 2026 Pokemon TCG sets and ranks them from worst to best.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "mobile",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/pokemon-tcg-2026-sets-ranked/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/11/1920x1080-2026-11-13t123632-892.png",
-    "published_at": "2026-11-13T12:44:16.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "pokemon-tcg-2026",
-    "game_label": "Pokemon TCG 2026"
-  },
-  {
-    "id": "2ceec9f7b973",
-    "slug": "amd-patches-gpu-driver-bug-with-optional-adrenalin-update",
-    "headline": "AMD Patches GPU Driver Bug with Optional Adrenalin Update",
-    "summary": "AMD has released an optional update to fix issues with its GPU drivers, specifically affecting RX 7000-series graphics cards and above",
-    "category": "patches",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-has-patched-its-ssd-eating-gpu-driver-bug-with-an-optional-adrenalin-update-for-rx-7000-series-graphics-cards-and-above/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/HhgRs2q5wjBRkGzn6o32Mh-1920-80.jpg",
-    "published_at": "2026-11-13T12:42:43.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cff85677d9db",
-    "slug": "get-metal-gear-solid-delta-snake-eater-and-all-bonus-dlc-cheaper-than",
-    "headline": "Get Metal Gear Solid Delta: Snake Eater And All Bonus DLC Cheaper Than The Standard Edition Right Now",
-    "summary": "GameSpot has found a way to purchase Metal Gear Solid Delta: Snake Eater and its bonus DLC at a discounted price compared to the standard edition.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/get-metal-gear-solid-delta-snake-eater-and-all-bonus-dlc-cheaper-than-the-standard-edition-right-now/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/fanatical-warhammer-survivors-lowest-price-1.jpg?w=300",
-    "published_at": "2026-11-13T12:33:28.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "metal-gear-solid-delta-snake-eater",
-    "game_label": "Metal Gear Solid Delta: Snake Eater"
-  },
-  {
-    "id": "ec17e7f1e179",
-    "slug": "blood-of-dawnwalkers-golden-joystick-results-tell-two-stories",
-    "headline": "Blood of Dawnwalker's Golden Joystick Results Tell Two Stories",
-    "summary": "The Blood of Dawnwalker's Golden Joystick results show a notable difference between the game's overall performance and one reviewer's score, sparking interest in the game's reception.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/blood-of-dawnwalker-golden-joystick-awards-review/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/the-blood-of-dawnwalker-coen-day-and-night-split.jpg",
-    "published_at": "2026-11-13T12:30:14.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-blood-of-dawnwalkers-golden-joystick-results",
-    "game_label": "The Blood of Dawnwalker's Golden Joystick Results"
-  },
-  {
-    "id": "23266b21389c",
-    "slug": "ps5-jailbreak-dev-says-just-buy-gta-6-because-things-arent-looking-goo",
-    "headline": " PS5 jailbreak dev says \"just buy\" GTA 6, because \"things aren't looking good\" for a game dump ",
-    "summary": "The dev suggests fans have waited long enough already",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/ps5-jailbreak-dev-says-just-buy-gta-6-because-things-arent-looking-good-for-a-game-dump-dont-say-i-didnt-warn-you/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/iMZ4fo3KMu7yRL2FouceCg-1920-80.jpg",
-    "published_at": "2026-11-13T12:24:11.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
