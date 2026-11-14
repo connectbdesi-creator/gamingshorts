@@ -1,5 +1,70 @@
 [
   {
+    "id": "19c964f0cc99",
+    "slug": "new-3d-pokemon-release-goes-back-to-the-og-kanto-region",
+    "headline": "New 3D Pokemon Release Goes Back to the OG Kanto Region",
+    "summary": "The developer gives Pokemon fans a first look at its 3D WIP Pokemon release, unofficially dubbed a remaster of Pokemon FireRed.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/pokemon-firered-remaster-3d/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/pokemon_firered_viridian_city_3840x2160.jpg",
+    "published_at": "2026-11-14T13:00:14.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a2b952e42a9f",
+    "slug": "report-suggests-ai-is-having-a-negative-impact-on-the-games-industry",
+    "headline": "Report Suggests AI is Having a Negative Impact on the Games Industry",
+    "summary": "A new report from GDC shows that 40% of game developers are using generative AI, but more than half believe the technology has a negative impact on the industry",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/software/ai/40-percent-of-game-developers-use-generative-ai-according-to-a-new-report-but-more-than-half-reckon-the-technology-has-a-negative-impact-on-the-games-industry/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Kig4bpRgMrvxFJcjUprT4Y-1920-80.jpg",
+    "published_at": "2026-11-14T12:53:03.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "21adc5f449c8",
+    "slug": "mario-kart-64-gets-unofficial-online-multiplayer-browser-port",
+    "headline": "Mario Kart 64 Gets Unofficial Online Multiplayer Browser Port",
+    "summary": "It may not be the best Mario Kart, but there's an epic multiplayer version available in-browser.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/mario-kart-64-now-free-in-browser/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/1920x1080-2026-11-14t123541-851.png",
+    "published_at": "2026-11-14T12:38:11.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "e8bcad7be6ec",
     "slug": "ubisoft-is-reportedly-making-a-new-rainbow-six-vegas-game-nearly-two-d",
     "headline": "Ubisoft is reportedly making a new Rainbow Six Vegas game, nearly two decades after Vegas 2",
@@ -277,6 +342,74 @@
     ],
     "image_url": "https://images.purexbox.com/3840f440e9e26/large.jpg",
     "published_at": "2026-11-14T11:02:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5edbe1efa125",
+    "slug": "gamerant-daily-crossword-mini-november-15-2026",
+    "headline": "GameRant Daily Crossword Mini (November 15, 2026)",
+    "summary": "Freeze rival kombatants with icy Lin Kuei techniques and put your tactical endurance to the test with today's mini video game crossword.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/game/gamerant-daily-crossword-mini-2026-11-15/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/game-rant-games-game-rant-daily-crossword-puzzle-mini-site-banner-graphic.jpg",
+    "published_at": "2026-11-14T11:00:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "eca07d48fff6",
+    "slug": "gamerant-daily-crossword-november-15-2026",
+    "headline": "GameRant Daily Crossword November 15, 2026",
+    "summary": "GameRant Daily Crossword offers immersive, pirate-themed experiences with realistic 15th-century landscapes and engaging gameplay.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/game/gamerant-daily-crossword-2026-11-15/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/game-rant-games-game-rant-daily-crossword-puzzle-site-banner-graphic.jpg",
+    "published_at": "2026-11-14T11:00:14.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "4dd62ae1dc1a",
+    "slug": "name-that-game-november-15-2026",
+    "headline": "Name That Game (November 15, 2026)",
+    "summary": "Survive shopping mall zombie hordes and dig through retro 8-bit platforming levels with today's Name That Game quiz.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/game/name-that-game-2026-11-15/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/game-rant-games-name-that-game-site-banner-graphic.jpg",
+    "published_at": "2026-11-14T11:00:14.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -4524,142 +4657,6 @@
     ],
     "image_url": "https://cdn.mos.cms.futurecdn.net/iMZ4fo3KMu7yRL2FouceCg-1920-80.jpg",
     "published_at": "2026-11-13T12:24:11.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "24fad105ac99",
-    "slug": "dragon-age-fans-save-one-of-the-series-most-beloved-features",
-    "headline": "Dragon Age Fans Save One of the Series' Most Beloved Features",
-    "summary": "Gamers have successfully saved the ability to import world states in the Dragon Age series, a feature that was removed in recent games.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/dragon-age-fans-save-one-of-the-series-most-beloved-features"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2022/10/26/dragonageinquisitionjpg-a2a564-1280w-1415667815153-1666759988152.jpg",
-    "published_at": "2026-11-13T12:20:11.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "dragon-age",
-    "game_label": "Dragon Age"
-  },
-  {
-    "id": "1d59e1cafd1d",
-    "slug": "how-to-get-the-golden-scale-in-ocarina-of-time",
-    "headline": " How to get the Golden Scale in Ocarina of Time ",
-    "summary": "The Golden Scale in Zelda OoT is a reward and prize from the Fishing Minigame in Lake Hylia",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-golden-scale-fishing/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Q5NaFjugJUqHbQQC8SbJEe-1920-80.png",
-    "published_at": "2026-11-13T12:19:35.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8e037a0da903",
-    "slug": "its-a-wild-situation-an-investor-and-publisher-perspective-on-the-rise",
-    "headline": "\"It's a wild situation\" – An investor and publisher perspective on the rise of AI copycats, the discoverability crisis, and more",
-    "summary": "GamesIndustry.biz attended the AI and Games Conference in London this week, where a publisher and investor panel discussed the problems and opportunities of AI when it comes to marketing, funding, and publishing games (the full talk will be available via the AI and Games Conference YouTube channel at a later date).\n Read more",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/its-a-wild-situation-an-investor-and-publisher-perspective-on-the-rise-of-ai-copycats-the-discoverability-crisis-and-more"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/IMG_8131-(1).jpeg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-13T12:04:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5ed953c6e730",
-    "slug": "xbox-ceo-asha-sharma-issues-new-official-statement-on-the-elder-scroll",
-    "headline": "Xbox CEO Asha Sharma Issues New Official Statement on The Elder Scrolls 6: Sentinel",
-    "summary": "Xbox CEO Asha Sharma releases a new statement about The Elder Scrolls 6: Sentinel following BEthesda's latest reveal.",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/tes6-sentinel-xbox-statement-incredible-next-chapter/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/elder-scrolls-sentinel-asha-sharma-game-rant.jpg",
-    "published_at": "2026-11-13T12:00:14.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "73ccd4855ad3",
-    "slug": "warota-i-live-next-to-the-demon-kings-castle-lol-launches-on-steam",
-    "headline": "Warota: I Live Next to The Demon King's Castle LOL Launches on Steam",
-    "summary": "Warota: I Live Next to The Demon King's Castle LOL, a Japanese sandbox RPG, has launched in Early Access on Steam, debuting among the top 5 best-selling games in Japan",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/bratty-demoness-sandbox-rpg-warota-i-live-next-to-the-demon-kings-castle-lol-debuts-among-steams-top-5-best-selling-games-in-japan/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/73ccd4855ad3/800/600",
-    "published_at": "2026-11-13T12:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "warota-i-live-next-to-the-demon-kings-castle-lol",
-    "game_label": "Warota: I Live Next to The Demon King's Castle LOL"
-  },
-  {
-    "id": "18d19a065920",
-    "slug": "guide-heres-how-to-claim-all-the-xbox-25th-anniversary-in-game-items",
-    "headline": "Guide: Here's How To Claim All The Xbox 25th Anniversary In-Game Items",
-    "summary": "That translucent green do be looking fire. Xbox's 25th Anniversary translucent green look is killer, and I'm a big fan of the cosmetics that Xbox's first-party titles have whipped up to support the milestone. We thought we'd do a quick guide on how to get all Xbox Anniversary items across Forza Horizon 6, Halo: Campaign Evolved, Gears of War: E-Day,…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/guides/heres-how-to-claim-all-the-xbox-25th-anniversary-in-game-items"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/d1ad55bf1bbb9/large.jpg",
-    "published_at": "2026-11-13T12:00:00.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
