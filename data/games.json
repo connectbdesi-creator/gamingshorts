@@ -27892,5 +27892,82 @@
     ],
     "stores": [],
     "fetched_at": "2026-11-15T14:36:35.585Z"
+  },
+  {
+    "slug": "super-meat-boy",
+    "name": "Super Meat Boy",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/e04/e04963f3ac4c4fa83a1dc0b9231e50db.jpg",
+    "released": "2010-10-20",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Platformer",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "Android",
+      "macOS",
+      "Linux",
+      "Xbox 360",
+      "PS Vita",
+      "Wii U",
+      "Web"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/b1e/b1e6c4d530035326da66fb85ae57519b.jpg",
+      "https://media.rawg.io/media/screenshots/09f/09f743bc5acc26aba844b3a092cdcddf.jpg",
+      "https://media.rawg.io/media/screenshots/995/9951726156ed69933ec1eff9a65c0e60.jpg",
+      "https://media.rawg.io/media/screenshots/db4/db4747c3913bd81e3e6754bb51a34838.jpg",
+      "https://media.rawg.io/media/screenshots/e1d/e1d4006f82564f0d654f2959042a3acc.jpg",
+      "https://media.rawg.io/media/screenshots/14c/14c8b551343374231fa07987e5a2d9e3.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-15T16:37:09.939Z"
+  },
+  {
+    "slug": "gta",
+    "name": "GTA-bankrob",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/70d/70d98f3c42cdc6db6cfd6318e6519b96.jpg",
+    "released": "2017-04-10",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/70d/70d98f3c42cdc6db6cfd6318e6519b96.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-15T16:37:10.675Z"
+  },
+  {
+    "slug": "sonic-06",
+    "name": "Sonic P-06",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/9db/9db5e9bc5e64ac72c66195cc182ab977.jpg",
+    "released": "2019-04-19",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Platformer",
+      "Adventure"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/dc5/dc527213ba77d38bd623c8f0347552d6.jpg",
+      "https://media.rawg.io/media/screenshots/4f0/4f089ffa5e965758ec66e53238c85056.jpg",
+      "https://media.rawg.io/media/screenshots/663/663d3d6482bf1e3ec2ef370dc803ba46.jpg",
+      "https://media.rawg.io/media/screenshots/9db/9db5e9bc5e64ac72c66195cc182ab977.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-15T16:37:11.099Z"
   }
 ]
