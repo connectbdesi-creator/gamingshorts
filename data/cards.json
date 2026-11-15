@@ -1,5 +1,81 @@
 [
   {
+    "id": "a83b7105f53e",
+    "slug": "poll-which-dr-mario-puzzle-league-box-art-is-the-best",
+    "headline": "Poll: Which Dr. Mario & Puzzle League Box Art Is The Best?",
+    "summary": "Be patient. We are back with another edition of Box Art Brawl! It was a Zelda blowout last time, as we matched up every cover from Ocarina of Time across its various releases. Somewhat surprisingly, the newest Switch 2 design took the win quite comfortably with 31% of the vote — it could be recency bias, but it really is…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/features/poll-which-dr-mario-and-puzzle-league-box-art-is-the-best"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/a4be9bc345e1b/large.jpg",
+    "published_at": "2026-11-15T10:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6ae574c5c0c2",
+    "slug": "gta-6s-burger-shot-expansion",
+    "headline": "GTA 6's Burger Shot Expansion",
+    "summary": "Grand Theft Auto 6 is partnering with Burger Shot to bring the fast food chain to the game's world, following its success in Vice City, ahead of the game's release.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-burger-shot-real-world-locations/"
+      },
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/the-big-question-whats-the-best-gta"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/gta-6-s-burger-shot-is-expanding-to-more-real-world-locations.jpg",
+    "published_at": "2026-11-15T10:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "d67571fb1ea4",
+    "slug": "laocorn-joins-fatal-fury-city-of-the-wolves-season-3",
+    "headline": "Laocorn Joins Fatal Fury: City of the Wolves Season 3",
+    "summary": "The Fatal Fury: City of the Wolves game will receive a new character addition, Laocorn, as part of its Season 3 DLC, set to release on November 19th, 2026.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/fatal-fury-city-of-the-wolves-is-adding-laocorn-from-the-motion-picture"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/283e980586455/large.jpg",
+    "published_at": "2026-11-15T08:30:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fatal-fury-city-of-the-wolves",
+    "game_label": "Fatal Fury: City of the Wolves"
+  },
+  {
     "id": "36f882c8c846",
     "slug": "i-cant-wait-to-ignore-the-main-story-of-gta-6",
     "headline": "I Can't Wait to Ignore the Main Story of GTA 6",
@@ -329,31 +405,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "6ae574c5c0c2",
-    "slug": "gta-6s-burger-shot-expansion",
-    "headline": "GTA 6's Burger Shot Expansion",
-    "summary": "Grand Theft Auto 6 is partnering with Burger Shot to bring the fast food chain to the game's world, following its success in Vice City, ahead of the game's release.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-burger-shot-real-world-locations/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/gta-6-s-burger-shot-is-expanding-to-more-real-world-locations.jpg",
-    "published_at": "2026-11-14T23:30:14.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "8e426548af4e",
@@ -4570,51 +4621,6 @@
     ],
     "image_url": "https://assetsio.gnwcdn.com/worst-class-ever.jpg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-11-13T16:34:50.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "189fab420749",
-    "slug": "pearl-abyss-adopt-ai-integration-for-game-development",
-    "headline": "Pearl Abyss Adopt AI Integration for Game Development",
-    "summary": "Pearl Abyss, the developer behind Crimson Desert, has started implementing AI throughout their entire development pipeline to enhance game development processes.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/open-world/despite-crimson-deserts-ai-backlash-pearl-abyss-is-now-implementing-the-tech-throughout-our-entire-development-pipeline-including-for-upcoming-pokemon-like-dokev/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Diz9EunMknKCPcmYpyFJcC-1920-80.jpg",
-    "published_at": "2026-11-13T16:33:47.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "crimson-desert",
-    "game_label": "Crimson Desert"
-  },
-  {
-    "id": "ce9e10956693",
-    "slug": "gta-6s-official-first-update-is-great-news-for-fans",
-    "headline": "GTA 6's Official First Update Is Great News For Fans",
-    "summary": "Even GTA 6 fans who already preloaded the game have more files to download now",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-nov-13-patch-102-what-is-download-size-ps5-xbox/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vice_city_24-1.jpg",
-    "published_at": "2026-11-13T16:32:13.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
