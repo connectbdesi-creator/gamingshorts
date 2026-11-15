@@ -1,5 +1,150 @@
 [
   {
+    "id": "36f882c8c846",
+    "slug": "i-cant-wait-to-ignore-the-main-story-of-gta-6",
+    "headline": "I Can't Wait to Ignore the Main Story of GTA 6",
+    "summary": "A writer is looking forward to the side activities in GTA 6, such as mini-golf and parachuting, over the main storyline of the game.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-main-story-side-activities/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/screenshot-2026-05-18-at-10-16-01-am.jpg",
+    "published_at": "2026-11-15T08:00:17.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "4fa5f96b4564",
+    "slug": "it-took-6-years-but-lego-is-finally-giving-gamers-what-they-want",
+    "headline": "It Took 6 Years, But LEGO is Finally Giving Gamers What They Want",
+    "summary": "The LEGO Mario line has offered fans a lot of variety, but there is one aspect that has been missing up until now.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/lego-mario-minifig-list/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/lego-mario-minifig.jpg",
+    "published_at": "2026-11-15T08:00:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "399fc86eb994",
+    "slug": "zelda-notes-reveals-top-game-over-causes-and-more-global-play-data-in",
+    "headline": "Zelda Notes Reveals Top 'Game Over Causes' And More Global Play Data In Ocarina Of Time Remake",
+    "summary": "Watch out for ReDead.\n\nZelda Notes might not appeal to everyone, but in the Ocarina of Time remake on Switch 2, Nintendo is using it to track global player data.\nRead the full article on nintendolife.com",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/zelda-notes-reveals-top-game-over-causes-and-more-global-play-data-in-ocarina-of-time-remake"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/ed94ce12e7b94/large.jpg",
+    "published_at": "2026-11-15T07:30:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "216db20e03aa",
+    "slug": "the-most-annoying-questgivers-in-pc-games",
+    "headline": "The Most Annoying Questgivers in PC Games",
+    "summary": "PC Gamer identifies the most frustrating questgivers in various games, sparking debate among players.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/the-most-annoying-questgivers-in-pc-games/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/AYyTypwYVPussabQGzn9TJ-1920-80.jpg",
+    "published_at": "2026-11-15T07:21:40.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ed72e20bd435",
+    "slug": "riot-games-unveils-league-of-legends-new-dawn",
+    "headline": "Riot Games Unveils League of Legends: New Dawn",
+    "summary": "Riot Games has announced League of Legends: New Dawn, a major overhaul of the game's client, visuals, and gameplay, set to launch in 2027.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/league-of-legends-new-dawn-unveiled-with-debut-trailer-riot-announces-major-overhaul-coming-in-2027"
+      },
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/at-worlds-esports-event-riot-games-unveils-league-of-legends-new-dawn/"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/14/still003-1794673734402.png",
+    "published_at": "2026-11-15T06:57:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "league-of-legends-new-dawn",
+    "game_label": "League of Legends: New Dawn"
+  },
+  {
+    "id": "6a87eb11c9a2",
+    "slug": "minecraft-to-get-joy-con-mouse-controls-on-switch-2",
+    "headline": "Minecraft to Get Joy-Con Mouse Controls on Switch 2",
+    "summary": "Minecraft will soon receive Joy-Con 2 mouse controls on Switch 2 via an upcoming update, allowing players to enjoy more precise aiming and movement.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/minecraft-is-getting-joy-con-mouse-controls-on-switch-2-in-a-future-update"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/96d300dd2c811/large.jpg",
+    "published_at": "2026-11-15T06:30:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "minecraft",
+    "game_label": "Minecraft"
+  },
+  {
     "id": "d5e5d7df8017",
     "slug": "tomb-raider-remake-gameplay-changes-are-dividing-fans",
     "headline": "Tomb Raider Remake Gameplay Changes Are Dividing Fans",
@@ -331,29 +476,6 @@
     "comment_count": 0,
     "game": "world-of-warcraft",
     "game_label": "World of Warcraft"
-  },
-  {
-    "id": "ed72e20bd435",
-    "slug": "riot-games-unveils-league-of-legends-new-dawn",
-    "headline": "Riot Games Unveils League of Legends: New Dawn",
-    "summary": "Riot Games has announced League of Legends: New Dawn, a major overhaul of the game's client, visuals, and gameplay, set to launch in 2027.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/league-of-legends-new-dawn-unveiled-with-debut-trailer-riot-announces-major-overhaul-coming-in-2027"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/14/still003-1794673734402.png",
-    "published_at": "2026-11-14T22:05:38.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "league-of-legends-new-dawn",
-    "game_label": "League of Legends: New Dawn"
   },
   {
     "id": "0db7fef281fd",
@@ -4498,117 +4620,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "da5c04f70125",
-    "slug": "devs-promise-to-pay-5000-to-help-cover-your-divorce-if-you-can-be-the",
-    "headline": "Devs Promise To Pay $5,000 To Help Cover Your Divorce If You Can Be The First To Beat Their Lock-Picking Game",
-    "summary": "You have to do it without cheating, and no, not those kind of love locks",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/devs-promise-to-pay-5000-to-help-cover-your-divorce-if-you-can-be-the-first-to-beat-their-lock-picking-game-2000756596"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/11/lovelocks-1280x720.jpg",
-    "published_at": "2026-11-13T16:30:43.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0c9a396197e2",
-    "slug": "diablo-4-may-have-crushed-overwatch-2-according-to-former-dev",
-    "headline": "Diablo 4 May Have Crushed Overwatch 2, According to Former Dev",
-    "summary": "New comments from a former Blizzard developer suggest Diablo 4 may be connected to one of Overwatch 2's biggest development struggles.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/diablo-4-overwatch-2-development-jeff-kaplan-blizzard/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/diablo-4-may-have-crushed-overwatch-2-according-to-former-dev.jpg",
-    "published_at": "2026-11-13T16:30:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "35067c23bbc8",
-    "slug": "play-the-blood-of-dawnwalker-again-in-new-game-part-of-ps5-patch-12",
-    "headline": "Play The Blood of Dawnwalker Again in New Game+, Part of PS5 Patch 1.2",
-    "summary": "Extra songs, enemy balancing, and terrain tweaks too.\nRebel Wolves has teased what to expect from PS5 update 1.2 for The Blood of Dawnwalker, which arrives next week.\nWhile the first major patch promised over 1,000 improvements, this second one doesn't, but the highlight of it is a major one: new game+.\nRead the full article on pushsquare.com",
-    "category": "patches",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/play-the-blood-of-dawnwalker-again-in-new-gameplus-part-of-ps5-patch-1-2"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/422f469fcb6da/large.jpg",
-    "published_at": "2026-11-13T16:30:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7ca365a8c113",
-    "slug": "marvel-rivals-to-overhaul-storms-skin",
-    "headline": "Marvel Rivals to Overhaul Storm's Skin",
-    "summary": "PC Gamer reports that Marvel Rivals Season 10 has addressed favouritism complaints by reworking Storm's legendary skin, with the update set to arrive during Christmas.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/season-10-has-been-a-challenging-one-for-us-marvel-rivals-is-upgrading-storms-summer-skin-after-favouritism-complaints/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/b44s8hV8RRuLwftHWbopk-1920-80.jpg",
-    "published_at": "2026-11-13T16:28:30.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "marvel-rivals",
-    "game_label": "Marvel Rivals"
-  },
-  {
-    "id": "1cacfa607d00",
-    "slug": "gerudo-fortress-guide-and-walkthrough-for-ocarina-of-time-remake",
-    "headline": "Gerudo Fortress guide and walkthrough for Ocarina of Time Remake",
-    "summary": "A guide for finding the four carpenters held prisoner in the Gerudo Fortress in Ocarina of Time Remake",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-gerudo-fortress/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/hdeKLnTdqNtY7suB2tpVa7-1920-80.jpg",
-    "published_at": "2026-11-13T16:25:53.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "ocarina-of-time-remake",
-    "game_label": "Ocarina of Time Remake"
   }
 ]
