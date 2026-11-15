@@ -1,5 +1,79 @@
 [
   {
+    "id": "d6c9ecb642d8",
+    "slug": "prime-video-adapts-stephen-kings-underrated-1980-horror-thriller",
+    "headline": "Prime Video Adapts Stephen King's Underrated 1980 Horror Thriller",
+    "summary": "Prime Video is adapting the underrated 1980 horror thriller Crouch End into a miniseries, promising fans of Stephen King a new Lovecraftian crime-thriller epic.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/stephen-king-prime-video-crouch-end-tv-show/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/img_1600.jpeg",
+    "published_at": "2026-11-15T01:36:17.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9a81573b7711",
+    "slug": "10-must-play-co-op-games-for-busy-gamers",
+    "headline": "10 Must-Play Co-Op Games for Busy Gamers",
+    "summary": "Polygon recommends 10 co-op games for players with limited time, including one-level sessions and month-long campaigns.",
+    "category": "esports",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/co-op-games-real-life-schedules/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22389863/snow__2_.png",
+    "published_at": "2026-11-15T01:00:17.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "30d18a9dd9ce",
+    "slug": "forgotten-game-boy-games-that-were-much-better-than-their-reputation-s",
+    "headline": "Forgotten Game Boy Games That Were Much Better Than Their Reputation Suggests, Ranked",
+    "summary": "The article highlights underrated Game Boy classics with innovative ideas, calling for a reevaluation of their reputation.",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/forgotten-game-boy-games-much-better-than-their-reputation-ranked/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/gamerant-61.jpg",
+    "published_at": "2026-11-15T00:45:14.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "game-boy",
+    "game_label": "Game Boy"
+  },
+  {
     "id": "f238a867b689",
     "slug": "kirby-and-the-world-beyond-coming-to-nintendo-switch-2",
     "headline": "Kirby and the World Beyond Coming to Nintendo Switch 2",
@@ -4555,78 +4629,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "8de0a15ca468",
-    "slug": "spider-man-2-and-a-bunch-of-other-great-games-are-about-to-look-even-b",
-    "headline": "Spider-Man 2 And A Bunch Of Other Great Games Are About To Look Even Better On Base PS5",
-    "summary": "AI upscaling is finally coming to more than just Wolverine and Ghost of Yotei",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/spider-man-2-and-a-bunch-of-other-great-games-are-about-to-look-even-better-on-base-ps5-2000756594"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/11/spider-man-2-1280x731.jpg",
-    "published_at": "2026-11-13T16:11:41.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9569a0ec923c",
-    "slug": "best-xp-cash-and-resource-farms-in-cod-mw4-dmz",
-    "headline": "Best XP, Cash, and Resource Farms in COD MW4 DMZ",
-    "summary": "This article provides tips for maximizing resource collection in Call of Duty: Modern Warfare 4's DMZ mode.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/cod-mw4-dmz-best-cash-xp-resource-farming-spots/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/mw4-best-way-to-get-longshot-kills1.jpg",
-    "published_at": "2026-11-13T16:00:15.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "call-of-duty-modern-warfare-4",
-    "game_label": "Call of Duty: Modern Warfare 4"
-  },
-  {
-    "id": "b3f6d45c366b",
-    "slug": "psa-gta-6-does-not-have-online-multiplayer-at-launch",
-    "headline": "PSA: GTA 6 Does Not Have Online Multiplayer at Launch",
-    "summary": "Grand Theft Auto 6 is launching on November 19, 2026, for PS5, but its initial release will not feature online multiplayer. The game's hype is expected to be high, with many fans eagerly awaiting its arrival after the success of GTA 5.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/psa-gta-6-does-not-have-online-multiplayer-at-launch"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/99c10bed6b2dc/large.jpg",
-    "published_at": "2026-11-13T16:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gta-6",
-    "game_label": "GTA 6"
   }
 ]
