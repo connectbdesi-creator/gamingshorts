@@ -28083,5 +28083,30 @@
     ],
     "stores": [],
     "fetched_at": "2026-11-16T13:07:19.111Z"
+  },
+  {
+    "slug": "goldeneye-007",
+    "name": "GoldenEye 007 (1997)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/5a1/5a145fe3002fc988140f7f00edcb9715.jpg",
+    "released": "1997-08-23",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "Nintendo 64"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a3a/a3a0047c031ef5ebd6b73f3990e4152e.jpg",
+      "https://media.rawg.io/media/screenshots/a2c/a2c9645dd83faafdde6d1c4f9e01bfcf.jpg",
+      "https://media.rawg.io/media/screenshots/4cc/4cca1b529a5c2cd7ae248406092bcdbf.jpg",
+      "https://media.rawg.io/media/screenshots/58d/58d5673cecfd387f3f16f312eb0531a1.jpg",
+      "https://media.rawg.io/media/screenshots/242/242bc99092b1ea144c1a8454d2ad9773.jpg",
+      "https://media.rawg.io/media/screenshots/079/0799419f0c905e4cba6043ce44375032.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-16T14:03:42.365Z"
   }
 ]
