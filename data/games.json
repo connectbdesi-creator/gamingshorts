@@ -28137,5 +28137,32 @@
     ],
     "stores": [],
     "fetched_at": "2026-11-16T15:06:34.702Z"
+  },
+  {
+    "slug": "tekken",
+    "name": "Tekken (1994)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/18f/18f3ef9aa2b8ed7047a1ee46abcb8228.jpg",
+    "released": "1994-12-09",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "PlayStation"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/e9c/e9c269ae53529f154f978d80208fae90.jpg",
+      "https://media.rawg.io/media/screenshots/b08/b0834e2047041e4beceb8448d7f35824.jpg",
+      "https://media.rawg.io/media/screenshots/a4e/a4e469ad015196b32be99ad3b6c1b0b4.jpg",
+      "https://media.rawg.io/media/screenshots/30e/30e8ac07fcb46d28e08b54de57d63ed4.jpg",
+      "https://media.rawg.io/media/screenshots/0f4/0f495a6f3df5d1820a664bb1a17de70d.jpg",
+      "https://media.rawg.io/media/screenshots/830/830df5ddd61a34e55c5ed70e7e4cebc4.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-16T20:22:18.485Z"
   }
 ]
