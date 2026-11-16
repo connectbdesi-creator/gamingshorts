@@ -1,5 +1,246 @@
 [
   {
+    "id": "701c861201ab",
+    "slug": "cyberpunk-2077-multiplayer-mod-enters-open-beta",
+    "headline": "Cyberpunk 2077 Multiplayer Mod Enters Open Beta",
+    "summary": "A long-awaited multiplayer mod for Cyberpunk 2077 is now live in open beta, offering a chance for players to experience the mod's features, but with known bugs and crashes.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/weve-finally-reached-this-milestone-cyberpunk-2077-multiplayer-mod-cybermp-kicks-off-open-beta-after-around-six-years-preparing-for-cybermayhem"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/cyberpunk-2077-multiplayer-mod-cybermp-open-beta-01.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-16T10:28:20.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "cyberpunk-2077",
+    "game_label": "Cyberpunk 2077"
+  },
+  {
+    "id": "00f5c7d73f8c",
+    "slug": "gta-5-and-red-dead-redemption-2-leave-ps-plus-extra-ahead-of-gta-6",
+    "headline": "GTA 5 and Red Dead Redemption 2 Leave PS Plus Extra Ahead of GTA 6",
+    "summary": "Rockstar Games is removing two classic titles from PS Plus Extra as anticipation builds for the highly anticipated release of GTA 6. The decision was made in advance of the game's launch, suggesting a possible shift in focus for the platform's library.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/gta-5-red-dead-redemption-2-leaving-ps-plus/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/11/new-project-2026-11-16t095625-653.jpg",
+    "published_at": "2026-11-16T10:20:53.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
+    "id": "e9e4f72f9714",
+    "slug": "ps-plus-subscriptions-on-sale-now",
+    "headline": "PS Plus Subscriptions on Sale Now",
+    "summary": "PS Plus memberships will be discounted for new sign-ups for two weeks, but current members will not have access to the offer.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/ps-plus-subscriptions-on-sale-now-but-theres-a-big-catch"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/171560abca49f/large.jpg",
+    "published_at": "2026-11-16T10:15:00.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ps-plus",
+    "game_label": "PS Plus"
+  },
+  {
+    "id": "32f543741326",
+    "slug": "rockstars-real-life-research-inspired-grand-theft-auto-games",
+    "headline": "Rockstar's Real-Life Research Inspired Grand Theft Auto Games",
+    "summary": "A former Rockstar developer shares stories about the authentic research that went into making the Grand Theft Auto games",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/rockstars-real-life-grand-theft-auto-research"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/16/vice-city-21-1794822946581.jpg",
+    "published_at": "2026-11-16T10:00:49.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto",
+    "game_label": "Grand Theft Auto"
+  },
+  {
+    "id": "09ea39906094",
+    "slug": "feature-80-ps5-ps4-games-to-buy-in-ps-stores-updated-black-friday-sale",
+    "headline": "Feature: 80+ PS5, PS4 Games to Buy in PS Store's Updated Black Friday Sale",
+    "summary": "PS5 and PS4 games going cheap we recommend. The PS Store's Black Friday sale is on now, running until 30th November, 2026 — and it's just been refreshed with even more discounts. As with nearly every offer in Sony's digital store, there are literally thousands of PS5 and PS4 games going cheap. Obviously, nobody has the time to scroll through…",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/features/80plus-ps5-ps4-games-to-buy-in-ps-stores-updated-black-friday-sale"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/6a7a113f0bf1a/large.jpg",
+    "published_at": "2026-11-16T10:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5ac88a30769d",
+    "slug": "xbox-says-project-helix-is-a-console-that-can-play-pc-games-not-a-pc-t",
+    "headline": "Xbox says Project Helix is a console that can play PC games, not a PC that can play console games",
+    "summary": "A focus on neural rendering is also intended to offset constantly increasing costs",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/xbox-says-project-helix-is-a-console-that-can-play-pc-games-not-a-pc-that-can-play-console-games/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/5ac88a30769d/800/600",
+    "published_at": "2026-11-16T09:54:09.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "29868d5f5ae3",
+    "slug": "mega-man-dual-override-reveals-robot-master-design-contest-winner",
+    "headline": "Mega Man: Dual Override Reveals Robot Master Design Contest Winner",
+    "summary": "Gold Prize Man. Capcom has announced the winner of the Mega Man: Dual Override Robot Master design contest, with the winning character set to officially appear as an in-game boss. In a video hosted by director Shinya Ikuta and producer Hiroyuki Minamitani, the pair showcased the six finalists before revealing that the winner is... Cleanser Man! Read the full article…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/mega-man-dual-override-reveals-robot-master-design-contest-winner"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/d4f62e999e670/large.jpg",
+    "published_at": "2026-11-16T09:45:00.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7537a24f50c9",
+    "slug": "pikmin-4s-switch-2-edition-has-a-user-score-of-just-18-on-metacritic",
+    "headline": "Pikmin 4's Switch 2 Edition Has A User Score Of Just 1.8 On Metacritic",
+    "summary": "Pikmin 4's Switch 2 Edition is being review-bombed for a lack of new content and for dramatically slower load times.",
+    "category": "reviews",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/pikmin-4-dandori-academy-switch-2-edition-review-bombed/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/mixcollage-16-nov-2026-09-07-am-661.jpg",
+    "published_at": "2026-11-16T09:27:18.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "4da46df33d0f",
+    "slug": "gta-6-coming-out-this-week",
+    "headline": "GTA 6 Coming Out This Week",
+    "summary": "Rockstar's highly anticipated Grand Theft Auto 6 is finally releasing on PS5, sending shockwaves through the gaming community.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/guides/these-13plus-ps5-and-ps-plus-games-are-coming-out-this-week-16th-22nd-november"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/4e839a0e43e26/large.jpg",
+    "published_at": "2026-11-16T09:00:00.000Z",
+    "hype_signal": 90,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "bc6b11366257",
+    "slug": "wolverine-and-control-headline-playstations-latest-black-friday-discou",
+    "headline": "Wolverine And Control Headline PlayStation's Latest Black Friday Discounts",
+    "summary": "PlayStation is offering discounts on various titles, including Wolverine and Control, as part of its second wave of Black Friday deals.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/wolverine-control-ace-combat-8-discounted-playstation-black-friday/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/marvel-s-wolverine_20260907170354.jpg",
+    "published_at": "2026-11-16T08:43:57.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "e4ee97d73730",
     "slug": "black-mirror-season-8-in-production",
     "headline": "Black Mirror Season 8 in Production",
@@ -4435,253 +4676,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "61fc9dbc1c36",
-    "slug": "pikmins-mobile-soundtrack-has-been-added-to-nintendo-music-heres-every",
-    "headline": "Pikmin's Mobile Soundtrack Has Been Added To Nintendo Music, Here's Every Song Included",
-    "summary": "Celebrating five years of \"blooming together\".\n\nAlongside the release of Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy this week, Nintendo added the mobile soundtrack Pikmin Bloom to its music app. This also happens to line up with the mobile title's fifth anniversary.\nRead the full article on nintendolife.com",
-    "category": "releases",
-    "platform_tags": [
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/11/pikmins-mobile-soundtrack-has-been-added-to-nintendo-music-heres-every-song-included"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/b7bb881087c51/large.jpg",
-    "published_at": "2026-11-14T06:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b8751e29da08",
-    "slug": "super-meat-boy-again-announced-for-pc",
-    "headline": "Super Meat Boy Again+ announced for PC",
-    "summary": "Team Meat has announced Super Meat Boy Again+, a game described as “everything you remember …",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/super-meat-boy-again-announced-for-pc"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/b8751e29da08/800/600",
-    "published_at": "2026-11-14T04:36:04.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "849e47e88e79",
-    "slug": "limited-run-games-restocks-tomb-raider-definitive-edition-for-switch",
-    "headline": "Limited Run Games Restocks Tomb Raider: Definitive Edition for Switch",
-    "summary": "Limited Run Games has restocked Tomb Raider: Definitive Edition on the Nintendo Switch, offering a second chance for fans to secure a copy of the classic action-adventure game.",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/11/icymi-limited-run-games-announces-restock-of-tomb-raider-definitive-edition-for-switch-2"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/de0ee2887d85b/large.jpg",
-    "published_at": "2026-11-14T03:30:00.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "tomb-raider-definitive-edition",
-    "game_label": "Tomb Raider: Definitive Edition"
-  },
-  {
-    "id": "19cba4232b2a",
-    "slug": "warhammer-survivors-roadmap-teased-with-free-updates-and-a-big-somethi",
-    "headline": "Warhammer Survivors Roadmap Teased with Free Updates and a Big Something",
-    "summary": "Auroch Digital reveals plans for Warhammer Survivors, including upcoming characters and free updates, with a hint at a major new feature",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/the-excellent-warhammer-survivors-reveals-roadmap-full-of-free-updates-teases-something-big"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/3563d32b833ed/large.jpg",
-    "published_at": "2026-11-14T02:30:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "warhammer-survivors",
-    "game_label": "Warhammer Survivors"
-  },
-  {
-    "id": "477361b16837",
-    "slug": "20-years-later-a-classic-nintendo-ds-puzzle-game-officially-returns",
-    "headline": "20 Years Later, A Classic Nintendo DS Puzzle Game Officially Returns",
-    "summary": "Level-5 is remaking the classic Nintendo DS puzzle game Professor Layton and the Curious Village and it's due out in 2027",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/professor-layton-nintendo-ds-remake-release-date-2027/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/professor-layton-and-the-new-world-of-steam.jpg",
-    "published_at": "2026-11-14T02:25:17.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5db4474a2e85",
-    "slug": "dokev-set-for-2028-launch-but-youll-see-it-again-this-year",
-    "headline": "DokeV Set for 2028 Launch, But You'll See It Again This Year",
-    "summary": "But the Crimson Desert dev is embracing AI. Remember DokeV? The bizarre Pokémon-esque game announced over five years ago from Pearl Abyss? The developer has gone on to make Crimson Desert, but in a new financial report, it's shared its wild take on Pokémon is still coming. Now its Charting the Unknown expansion for Crimson Desert is out, it's shifting…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/dokev-set-for-2028-launch-but-youll-see-it-again-this-year"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/69c2fa4976137/large.jpg",
-    "published_at": "2026-11-14T02:00:00.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "83b875fd9818",
-    "slug": "girls-und-panzer-hakunetsu-mahjong-tag-battle-desu-announced-for-ps5-s",
-    "headline": "Girls und Panzer Hakunetsu! Mahjong Tag Battle Desu! announced for PS5, Switch 2",
-    "summary": "MAGES. has announced Girls und Panzer Hakunetsu! Mahjong Tag Battle Desu! for PlayStation 5 and …",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/girls-und-panzer-hakunetsu-mahjong-tag-battle-desu-announced-for-ps5-switch-2"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/83b875fd9818/800/600",
-    "published_at": "2026-11-14T01:57:41.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c22a069d3d23",
-    "slug": "the-game-awards-2026-nominees-to-be-announced-next-week",
-    "headline": "The Game Awards 2026 Nominees To Be Announced Next Week",
-    "summary": "The Game Awards are coming up, with nominees to be announced live next week. The annual show will take place on December 10th, 2026, and includes Zelda and GTA 6 in the running.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/11/the-game-awards-2026-nominees-to-be-announced-next-week-zelda-and-gta-6-eligible"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/26d6a5deab4e5/large.jpg",
-    "published_at": "2026-11-14T01:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c7c8bdb5fe10",
-    "slug": "gta-6-physical-copies-might-be-vulnerable-to-theft",
-    "headline": "GTA 6 Physical Copies Might Be Vulnerable to Theft",
-    "summary": "Grand Theft Auto 6 was launched without traditional discs, but its packaging may make it susceptible to theft with the right flashlight.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/physical-gta-6-copies-might-be-vulnerable-to-a-very-stupid-but-serious-trick/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-physical-code-in-box-problems/"
-      },
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-codes-potentially-being-stolen-from-physical-copies-using-flashlight-trick"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA6-1.webp?w=300",
-    "published_at": "2026-11-14T01:00:00.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "57744bdebbeb",
-    "slug": "how-to-play-the-lottery-in-probably-stolen",
-    "headline": "How to Play the Lottery in Probably Stolen",
-    "summary": "The article provides a guide on how to play the lottery in the game Probably Stolen, covering the basics of the game's lottery system and its potential rewards.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/probably-stolen-how-to-play-the-lottery-tickets/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/how-does-the-lottery-work-probably-stolen.jpg",
-    "published_at": "2026-11-14T00:52:50.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "probably-stolen",
-    "game_label": "Probably Stolen"
   }
 ]
