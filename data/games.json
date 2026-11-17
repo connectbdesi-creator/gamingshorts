@@ -28342,5 +28342,35 @@
     ],
     "stores": [],
     "fetched_at": "2026-11-17T16:37:47.592Z"
+  },
+  {
+    "slug": "xcom",
+    "name": "XCOM: Enemy Unknown",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/238/2383a172b4d50a7b44e07980eb7141ea.jpg",
+    "released": "2012-10-09",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "PC",
+      "iOS",
+      "Android",
+      "macOS",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/805/805471a778d484cdd5305b36f68ee1b6.jpg",
+      "https://media.rawg.io/media/screenshots/3da/3dab13378be0dc687857c1899c2db3bd.jpg",
+      "https://media.rawg.io/media/screenshots/1b9/1b9536d06fdc789caa3f839548178ba0.jpg",
+      "https://media.rawg.io/media/screenshots/bca/bca4db9d97ced7c3a42b2c7a90d4d28c.jpg",
+      "https://media.rawg.io/media/screenshots/5a4/5a43d75d6517163772f492e2a5b278d6.jpg",
+      "https://media.rawg.io/media/screenshots/77f/77feafcf416de96e61d7a6461b8b29f7.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-17T17:37:47.996Z"
   }
 ]
