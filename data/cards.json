@@ -1,5 +1,52 @@
 [
   {
+    "id": "6526e929b1f5",
+    "slug": "sleeping-dogs-still-holds-up-as-a-life-of-crime-sim",
+    "headline": "Sleeping Dogs Still Holds Up as a Life of Crime Sim",
+    "summary": "The developer and publisher of Sleeping Dogs, a classic open-world crime game, revisit the title's enduring appeal, praising its influence on the genre.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/im-not-saying-sleeping-dogs-is-the-worlds-best-life-of-crime-sim-but-no-other-game-has-replicated-the-importance-of-pork-buns-to-whole-manhood-as-deftly"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Sleeping-Dogs-6.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-17T15:00:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "sleeping-dogs",
+    "game_label": "Sleeping Dogs"
+  },
+  {
+    "id": "58ac85b174ce",
+    "slug": "nintendos-switch-2-holiday-experience-coming-to-us-cities",
+    "headline": "Nintendo's Switch 2 Holiday Experience Coming to US Cities",
+    "summary": "Nintendo is hosting a holiday experience for the Switch 2 in select US cities, featuring playable demos of upcoming games like Pokopia and Mario Kart World.",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/nintendos-switch-2-holiday-experience-might-be-coming-to-a-city-near-you-next-month-us"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/77d6288b7770b/large.jpg",
+    "published_at": "2026-11-17T14:45:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "nintendo-switch-2",
+    "game_label": "Nintendo Switch 2"
+  },
+  {
     "id": "865352c4988e",
     "slug": "devolver-digital-runs-free-game-contest-asking-people-to-delete-gta-6",
     "headline": "Devolver Digital Runs Free Game Contest Asking People To Delete GTA 6",
@@ -397,6 +444,54 @@
     ],
     "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/11/new-project-2026-11-17t124844-570.jpg",
     "published_at": "2026-11-17T13:09:52.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d46327ecd0a6",
+    "slug": "xsolla-zk-introduces-xsolla-gas-as-part-of-blockchain-network-for-game",
+    "headline": "Xsolla ZK introduces Xsolla Gas as part of blockchain network for games",
+    "summary": "Xsolla ZK is introducing Xsolla Gas (XLA), the native token of Xsolla ZK, a blockchain network for games. It seems a little late for...\nThe post Xsolla ZK introduces Xsolla Gas as part of blockchain network for games appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/xsolla-zk-introduces-xsolla-gas-as-part-of-blockchain-network-for-games/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/d46327ecd0a6/800/600",
+    "published_at": "2026-11-17T13:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a769dd6cdfc6",
+    "slug": "game-makers-utilize-short-form-clips-to-create-micro-influencers",
+    "headline": "Game Makers Utilize Short-Form Clips to Create Micro-Influencers",
+    "summary": "Game publishers are leveraging short-form video clips to promote individual players and turn them into micro-influencers, reflecting the growing influence of short-form video content in the gaming industry.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/how-clips-are-turning-spontaneous-gameplay-moments-into-discovery-and-promotion-opportunities-gamesbeat-next-2026/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/a769dd6cdfc6/800/600",
+    "published_at": "2026-11-17T13:00:00.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -4473,94 +4568,6 @@
     "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/big-company-gives-thousands-of-employees-paid-leave-for-gta-6.jpg",
     "published_at": "2026-11-16T15:30:15.000Z",
     "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2360b5c90317",
-    "slug": "rumour-persona-6-blowout-primed-for-the-game-awards",
-    "headline": "Rumour: Persona 6 Blowout Primed for The Game Awards",
-    "summary": "Green for go. There's reason to believe that we'll get our first proper look Persona 6 next month, during The Game Awards. This rumour stems from Reddit user ronakwya, who has, rather diligently, been keeping tabs on the game's Japanese website. The idea being that if the domain receives any backend updates, it could mean that an announcement is incoming.…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/rumour-persona-6-blowout-primed-for-the-game-awards"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/023ec01de9d73/large.jpg",
-    "published_at": "2026-11-16T15:30:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "74a5266adb36",
-    "slug": "how-riot-games-teamed-up-with-local-government-and-businesses-to-bring",
-    "headline": "How Riot Games teamed up with local government and businesses to bring League of Legends Worlds to New York",
-    "summary": "The League of Legends World Championship final in New York was a carefully-crafted collaboration between Riot Games and the city itself. Between November 12...\nThe post How Riot Games teamed up with local government and businesses to bring League of Legends Worlds to New York appeared first on GamesBeat.",
-    "category": "esports",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/how-riot-games-teamed-up-with-local-government-and-businesses-to-bring-league-of-legends-worlds-to-new-york/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/74a5266adb36/800/600",
-    "published_at": "2026-11-16T15:24:17.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ac3dad914f9b",
-    "slug": "dd-world-of-warcraft-designer-hopes-to-push-the-rest-of-the-design-tea",
-    "headline": " D&D World of Warcraft designer hopes \"to push the rest of the design team forward\" with new skills learned from making this book ",
-    "summary": "D&D World of Warcraft's principal designer James Wyatt talks about avoiding grind, cherry-picking the best bits about the MMO, and more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/tabletop-gaming/d-and-d-world-of-warcraft-designer-hopes-to-push-the-rest-of-the-design-team-forward-with-new-skills-learned-from-making-the-book/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/C33nNwezGZt2J4Cwjt9qZN-1920-80.jpg",
-    "published_at": "2026-11-16T15:22:48.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "58bc7c16521e",
-    "slug": "machine-party-coming-to-ps5-xbox-series-and-switch-on-november-26",
-    "headline": "Machine Party coming to PS5, Xbox Series, and Switch on November 26",
-    "summary": "Publisher Oro Interactive and developer Mike Klubnika will release violent party game collection Machine Party …",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/machine-party-coming-to-ps5-xbox-series-and-switch-on-november-26"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/58bc7c16521e/800/600",
-    "published_at": "2026-11-16T15:07:18.000Z",
-    "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
