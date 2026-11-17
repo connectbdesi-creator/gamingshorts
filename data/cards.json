@@ -1,5 +1,73 @@
 [
   {
+    "id": "68a8f753a4d5",
+    "slug": "uncharted-fans-just-got-terrific-news",
+    "headline": "Uncharted Fans Just Got Terrific News",
+    "summary": "Uncharted 3's multiplayer is returning after years offline, and its revival includes some surprising additions for longtime players.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/uncharted-3-multiplayer-return-pc-ps3/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/uncharted-3-is-finally-getting-its-multiplayer-back.jpg",
+    "published_at": "2026-11-17T05:45:28.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f2c304236728",
+    "slug": "gta-6-release-time-in-your-time-zone",
+    "headline": "GTA 6 Release Time in Your Time Zone",
+    "summary": "A guide explaining how to find GTA 6's release time and preload details based on your location.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-grand-theft-auto-release-time-pdt-edt/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-release-time-header.jpg",
+    "published_at": "2026-11-17T05:01:18.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "4588188f3bbd",
+    "slug": "how-to-play-gta-6-early-using-the-new-zealand-trick",
+    "headline": "How to play GTA 6 early using the 'New Zealand trick'",
+    "summary": "This guide explains how to play Grand Theft Auto 6 as early as possible, by changing the time and date on your console to the New Zealand timezone.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-grand-theft-auto-new-zealand-trick-how-to-play-early/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-new-zealand-trick-header.jpg",
+    "published_at": "2026-11-17T05:01:18.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "32a3c44a6f51",
     "slug": "rpg-maker-u2u-launches-january-28-2027",
     "headline": "RPG Maker U2U launches January 28, 2027",
@@ -109,6 +177,30 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "9832ec78194f",
+    "slug": "harma-early-access-roadmap-announced",
+    "headline": "HARMA Early Access roadmap announced",
+    "summary": "Publisher Astrolabe Games and developer INDIRECT SHINE have revealed their plans for the Early Access phase of their upcoming Roguelike game.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/harma-early-access-roadmap-announced"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/9832ec78194f/800/600",
+    "published_at": "2026-11-17T02:00:16.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "roguelike",
+    "game_label": "Roguelike"
   },
   {
     "id": "54200d02e2d0",
@@ -4489,99 +4581,5 @@
     "comment_count": 0,
     "game": "halo",
     "game_label": "Halo"
-  },
-  {
-    "id": "72684964d3ec",
-    "slug": "best-roguelites-with-the-best-permanent-progression-ranked",
-    "headline": "Best Roguelites With the Best Permanent Progression, Ranked",
-    "summary": "This article ranks the best roguelites that master permanent progression, encouraging players to keep playing to feel a sense of progression.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/roguelites-games-best-permanent-progression/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/greatest-roguelites-with-the-permanent-progression-ranked.jpg",
-    "published_at": "2026-11-16T01:42:14.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f4d019adbdf0",
-    "slug": "extremely-rare-pokemon-game-found-20-years-later",
-    "headline": "Extremely Rare Pokémon Game Found 20 Years Later",
-    "summary": "A collector has discovered a playable copy of the lost Pokémon game PokéPark Fishing Rally DS, 20 years after its initial loss.",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/pokemon-pokepark-fishing-rally-ds-found/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/pokemon-winds-and-waves-screen-wailord.png",
-    "published_at": "2026-11-16T00:59:53.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "pokepark-fishing-rally-ds",
-    "game_label": "PokéPark Fishing Rally DS"
-  },
-  {
-    "id": "aabb2ff9ce23",
-    "slug": "the-7-best-star-wars-galactic-racer-replacements-you-can-play-right-no",
-    "headline": "The 7 Best Star Wars: Galactic Racer Replacements You Can Play Right Now",
-    "summary": "Star Wars: Galactic Racer has no exact replicas, but there are plenty of obvious influences. Here are the best games like Star War: Galactic Racer.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/best-games-like-star-wars-galactic-racer/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/star-wars-galactic-racer-story-trailer-screenshot.jpg",
-    "published_at": "2026-11-16T00:58:15.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8455972cd04d",
-    "slug": "10-most-underrated-rpgs-of-the-past-decade",
-    "headline": "10 Most Underrated RPGs of the Past Decade",
-    "summary": "A listicle highlighting 10 hidden gems in RPGs over the past decade, featuring games that deserve more recognition for their quality and impact.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/most-underrated-new-rpgs/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/08/trails-in-the-sky-first-chapter-demo.jpg",
-    "published_at": "2026-11-16T00:50:58.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "10-most-underrated-rpgs-of-the-past-decade",
-    "game_label": "10 Most Underrated RPGs of the Past Decade"
   }
 ]
