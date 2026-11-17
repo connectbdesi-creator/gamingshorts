@@ -1,5 +1,251 @@
 [
   {
+    "id": "f796a1cd5cd8",
+    "slug": "project-helix-is-a-console-not-a-pc-says-xbox-vp",
+    "headline": "Project Helix Is a Console, Not a PC, Says Xbox VP",
+    "summary": "Xbox VP clarifies the identity of Project Helix and offers a better understanding of the upcoming Xbox next-gen gaming system.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/xbox-project-helix-pc-games/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/gamerant-2026-11-16t143645-510-1.jpg",
+    "published_at": "2026-11-17T15:31:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "442cb41bdba9",
+    "slug": "exodus-reveal-female-lead-character-femjun",
+    "headline": "Exodus Reveal Female Lead Character, 'FemJun'",
+    "summary": "The sci-fi RPG Exodus continues to draw Mass Effect comparisons with the introduction of its female lead character, FemJun. The game's studio, Archetype, has started marketing the character, sparking excitement among fans.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/exodus-femjun-femshep-mass-effect-bioware-sci-fi-rpg"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/exodus-femjun-2.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-17T15:30:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "exodus",
+    "game_label": "Exodus"
+  },
+  {
+    "id": "f16fd26c15c1",
+    "slug": "sony-defeats-26-billion-class-action-lawsuit-over-claimed-playstation",
+    "headline": "Sony Defeats $2.6 Billion Class-Action Lawsuit Over Claimed PlayStation Store Monopoly",
+    "summary": "A UK court has ruled against a class-action lawsuit claiming Sony's PlayStation Store has a monopoly, despite the lawsuit dragging on for years. The ruling dismisses evidence supporting the claim.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/sony-playstation-store-ps5-lawsuit-monopoly-you-owe-us-2000757669"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/11/sony-gavel.jpeg",
+    "published_at": "2026-11-17T15:16:21.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f344d5f065b4",
+    "slug": "roblox-creator-program-allows-developers-to-port-games-to-its-platform",
+    "headline": "Roblox Creator Program Allows Developers to Port Games to Its Platform for Free",
+    "summary": "Roblox has introduced a creator program that enables developers to convert their games to its platform without any upfront costs or fees",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/roblox-launches-creator-program-for-devs-to-bring-games-to-its-platform-for-free"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-17T15:07:20.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "767eebb0dcc2",
+    "slug": "the-witcher-3-songs-of-the-past-to-get-a-major-change-to-its-formula",
+    "headline": "The Witcher 3: Songs of the Past to Get a Major Change to Its Formula",
+    "summary": "CD Projekt Red is making significant changes to The Witcher 3: Songs of the Past, altering its atmosphere, according to the developer. Details on the changes are not yet available.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/the-witcher-3-songs-of-the-past-changes/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ar3lze-1.jpg",
+    "published_at": "2026-11-17T15:05:49.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-songs-of-the-past",
+    "game_label": "The Witcher 3: Songs of the Past"
+  },
+  {
+    "id": "d00596c70858",
+    "slug": "gta-6-reviews-already-removed-from-metacritic",
+    "headline": "GTA 6 Reviews Already Removed from Metacritic",
+    "summary": "Metacritic removed fake user reviews for Grand Theft Auto 6 shortly after they appeared, highlighting the need for robust review moderation.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/metacritic-has-already-had-to-remove-fake-gta-6-user-reviews/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/d00596c70858/800/600",
+    "published_at": "2026-11-17T15:03:04.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "3f1165fdbb13",
+    "slug": "hounded-crafting-the-dog-adventure-coming-to-ps5-in-2027",
+    "headline": "Hounded: Crafting the Dog Adventure Coming to PS5 in 2027",
+    "summary": "Imprnt Studios and Silver Lining Interactive announce Hounded, a PS5 exclusive, for release in 2027. The game follows a brave and adorable Border Collie named Duke.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/11/17/introducing-hounded-crafting-the-dog-adventure-coming-to-ps5-in-2027/"
+      }
+    ],
+    "image_url": "https://blog.playstation.com/uploads/2048/11/cef71c72856b07afcb2ee2df2bf822c097617f33.mp4",
+    "published_at": "2026-11-17T15:00:56.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "hounded",
+    "game_label": "Hounded"
+  },
+  {
+    "id": "6c9a93fc15cb",
+    "slug": "sony-to-re-release-spider-man-brand-new-day-in-theaters",
+    "headline": "Sony to Re-release Spider-Man: Brand New Day in Theaters",
+    "summary": "Sony is re-releasing Spider-Man: Brand New Day in theaters with new scenes and surprises, suggesting they're trying to squeeze out every last drop of sales from the film.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/spider-man-brand-new-day-extended-cut-theaters-release-date-2000757665"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/11/spidey.jpg",
+    "published_at": "2026-11-17T15:00:43.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "34f2d54b7c9c",
+    "slug": "3-ps-plus-extra-game-removals-for-december-2026-confirmed",
+    "headline": "3 PS Plus Extra Game Removals for December 2026 Confirmed",
+    "summary": "Just a shortlist this time around. The bulk of your PS Plus Extra and PS Plus Premium titles for this month are available now, which means it is now time to learn what PS5, PS4 titles are leaving the service in December. It's a very short list compared to what the Last Chance to Play section normally looks like, with…",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/3-ps-plus-extra-game-removals-for-december-2026-confirmed"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/5d28e03f295a9/large.jpg",
+    "published_at": "2026-11-17T15:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9a5b113c45fb",
+    "slug": "the-expected-financial-and-cultural-impact-of-grand-theft-auto-vi",
+    "headline": "The expected financial and cultural impact of Grand Theft Auto VI",
+    "summary": "Grand Theft Auto VI isn’t just a game launch. It’s arguably the largest entertainment product launch in history. Let’s start with the numbers. But...\nThe post The expected financial and cultural impact of Grand Theft Auto VI appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/the-expected-financial-and-cultural-impact-of-grand-theft-auto-vi/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/9a5b113c45fb/800/600",
+    "published_at": "2026-11-17T15:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "6526e929b1f5",
     "slug": "sleeping-dogs-still-holds-up-as-a-life-of-crime-sim",
     "headline": "Sleeping Dogs Still Holds Up as a Life of Crime Sim",
@@ -61,6 +307,29 @@
     ],
     "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/11/new-project-2026-11-17t141528-064.jpg",
     "published_at": "2026-11-17T14:36:47.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f91691d3d58a",
+    "slug": "ocarina-of-time-is-more-than-a-nostalgia-trip-it-proves-nintendos-fami",
+    "headline": "Ocarina of Time Is More Than a Nostalgia Trip – It Proves Nintendo’s Family Friendly Days Are Still Going Strong",
+    "summary": "Ocarina of Time revisits Nintendo's past in multiple ways, echoing not just its N64 origins, but the wonderful family-focused era of the Wii, which celebrates its 20th anniversary this week.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/ocarina-of-time-is-more-than-a-nostalgia-trip-it-proves-nintendos-family-friendly-days-are-still-going-strong"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/16/wiiocarina-blogroll-1794839236785.jpg",
+    "published_at": "2026-11-17T14:30:00.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -4324,250 +4593,6 @@
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/image-18.png",
     "published_at": "2026-11-16T16:02:17.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "08aa03162dd6",
-    "slug": "actively-makes-the-game-worse-fans-are-furious-with-pikmin-4s-paid-nin",
-    "headline": "‘Actively Makes The Game Worse’: Fans Are Furious With Pikmin 4′s Paid Nintendo Switch 2 ‘Upgrade’",
-    "summary": "'This is essentially a paid downgrade'",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/actively-makes-the-game-worse-fans-are-furious-with-pikmin-4s-paid-nintendo-switch-2-upgrade-2000757449"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2023/07/a6c5dbb05bd03a93773d1d76caf6f8ba-1280x720.jpg",
-    "published_at": "2026-11-16T16:00:35.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7e1e37788ae8",
-    "slug": "predicting-the-game-awards-goty-nominations",
-    "headline": "Predicting The Game Awards GOTY Nominations",
-    "summary": "The end of the year approaches and so too do The Game Awards, Geoff Keighley's big night of games, trailers and accolades, and in a stacked year like 2026, the conversation about Game of the Year is louder than ever. With so many top-rated games appearing month after month, it can be hard to narrow down the final 6 nominees,…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/video/predicting-the-game-awards-goty-nominations/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/whos-up-for-goty-site.jpg",
-    "published_at": "2026-11-16T16:00:15.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "30a59ff96d4a",
-    "slug": "nba-2k27s-gta-6-crossover-includes-a-whole-gta-inspired-limited-editio",
-    "headline": "NBA 2K27’s GTA 6 Crossover Includes A Whole GTA-Inspired Limited Edition Of The Game",
-    "summary": "Ahead of the GTA 6 release this week, publisher Take-Two Interactive and 2K Sports have announced an NBA 2K27 crossover with the game. Starting November 27, Vice City will take over the digital basketball courts, and a special-edition NBA 2K27 Vice City Edition will also be released to promote GTA 6. The $80 digital-only NBA 2K27 Vice City Edition features…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/nba-2k27-gta-6-crossover-includes-a-whole-gta-inspired-limited-edition-of-the-game/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/NBA-2K27-Bam.jpg?w=300",
-    "published_at": "2026-11-16T16:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b5f2d16a18b1",
-    "slug": "nearly-3-in-5-kids-want-video-game-gifts-this-holiday-season-esa",
-    "headline": "Nearly 3 in 5 kids want video game gifts this holiday season | ESA",
-    "summary": "Nearly three in five (58%) kids ages five to 17 plan to ask for a video game-related gift this holiday season. According to the...\nThe post Nearly 3 in 5 kids want video game gifts this holiday season | ESA appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/nearly-3-in-5-kids-want-video-game-gifts-this-holiday-season-esa/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/b5f2d16a18b1/800/600",
-    "published_at": "2026-11-16T16:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cfb71d69b318",
-    "slug": "xbox-offers-doctors-note-for-undefined-gaming-session-definitely-not-l",
-    "headline": "Xbox Offers Doctor’s Note for Undefined Gaming Session Definitely Not Linked to GTA 6",
-    "summary": "Xbox has kicked off its marketing for the game it’s not allowed to mention in its marketing. Like the weird alligator-shaped Xbox recently announced, Microsoft is doing its best to get Xbox players excited about GTA 6 without saying the game’s name.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/xbox-offers-doctors-note-for-not-gta-6"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/10/ultimate-edition-vice-city-style-03-1794326189563.jpg",
-    "published_at": "2026-11-16T15:54:18.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "fac43e865009",
-    "slug": "final-fantasy-14-really-wants-evercold-to-be-the-expansion-everyone-co",
-    "headline": " Final Fantasy 14 really wants Evercold to be the expansion everyone comes back to, so much so it's giving you 30 days free gametime if you've been gone long enough ",
-    "summary": "Time to finish up that post-Dawntrail MSQ, folks.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-really-wants-evercold-to-be-the-expansion-everyone-comes-back-to-so-much-so-its-giving-you-30-days-free-gametime-if-youve-been-gone-long-enough/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/byi8pPpAtL5YpqFdqnHY23-1920-80.jpg",
-    "published_at": "2026-11-16T15:53:44.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5d749c9c8e51",
-    "slug": "dave-the-divers-latest-crossover-update-sees-another-beloved-indie-joi",
-    "headline": "Dave The Diver's Latest Crossover Update Sees Another Beloved Indie Join The Fray",
-    "summary": "Hook, line, and Core Keeper. Since its arrival on Switch a few years back, Dave The Diver has crossed over with just about every other indie game imaginable (a slight exaggeration, but you get our point). Today, developer Mintrocket has announced yet another of these crossovers for its roster, as it is teaming up with Fireshine Games and Pugstorm on…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/11/dave-the-divers-latest-crossover-update-sees-another-beloved-indie-join-the-fray"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/74ba4e0732410/large.jpg",
-    "published_at": "2026-11-16T15:45:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "dbb2c51b4bb7",
-    "slug": "pokemon-tcg-30th-celebration-ultra-premium-collection-restocked-at-ama",
-    "headline": "Pokémon TCG 30th Celebration Ultra-Premium Collection Restocked at Amazon",
-    "summary": "Amazon has restocked the Pokémon TCG 30th Celebration Ultra-Premium Collection, but at a catch: bots and scalpers are expected to claim the restock soon.",
-    "category": "deals",
-    "platform_tags": [
-      "mobile",
-      "switch",
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/pokemon-tcg-30th-celebration-ultra-premium-collection-in-stock-black-friday"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/16/pokemon-tcg-upc-night-in-stock-ign-2026-black-friday-1794843505493.png",
-    "published_at": "2026-11-16T15:40:09.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "pokemon-tcg-30th-celebration-ultra-premium-collection",
-    "game_label": "Pokémon TCG 30th Celebration Ultra-Premium Collection"
-  },
-  {
-    "id": "f46fb34ca1d4",
-    "slug": "book-nook-launches-december-1-for-pc-later-for-switch",
-    "headline": "Book Nook launches December 1 for PC, later for Switch",
-    "summary": "Cozy diorama crafting game Book Nook will launch for PC via Steam on December 1, …",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/book-nook-launches-december-1-for-pc-later-for-switch"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/f46fb34ca1d4/800/600",
-    "published_at": "2026-11-16T15:37:09.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ffc21c2dbee8",
-    "slug": "gta-6-hacker-pleads-guilty-to-2022-rockstar-games-breach-which-the-com",
-    "headline": "GTA 6 hacker pleads guilty to 2022 Rockstar Games breach which the company claim cost them $5 million",
-    "summary": "A hacker has pleaded guilty to a number of online crimes, including the 2022 breach of Rockstar Games which resulted in a bunch of mid-development clips of GTA 6 in action leaking onto the net.\nRead more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/gta-6-hacker-pleads-guilty-to-2022-rockstar-games-breach-which-the-company-claim-cost-them-5-million"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-9.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-16T15:36:40.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c542e539f522",
-    "slug": "big-company-gives-thousands-of-employees-paid-leave-for-gta-6",
-    "headline": "Big Company Gives Thousands of Employees Paid Leave for GTA 6",
-    "summary": "A major brand that gamers may be familiar with gives its thousands of employees a paid day off just in time for the launch of Grand Theft Auto 6.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/logitech-7000-employees-day-off-gta-6-launch/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/big-company-gives-thousands-of-employees-paid-leave-for-gta-6.jpg",
-    "published_at": "2026-11-16T15:30:15.000Z",
-    "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
