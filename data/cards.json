@@ -1,5 +1,97 @@
 [
   {
+    "id": "31000b6fc7f1",
+    "slug": "carenado-releases-a-microsoft-flight-simulator-marketplace-exclusive-t",
+    "headline": "Carenado Releases a Microsoft Flight Simulator Marketplace Exclusive: The DO228-200",
+    "summary": "Carenado has released a new aircraft for Microsoft Flight Simulator, the DO228-200, exclusively on the marketplace.",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/11/17/carenado-releases-a-microsoft-flight-simulator-marketplace-exclusive-the-do228-200/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/31000b6fc7f1/800/600",
+    "published_at": "2026-11-17T21:30:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "microsoft-flight-simulator",
+    "game_label": "Microsoft Flight Simulator"
+  },
+  {
+    "id": "f3cb1a510a88",
+    "slug": "gta-onlines-miami-heat-stadium-revealed",
+    "headline": "GTA Online's Miami Heat Stadium Revealed",
+    "summary": "Rockstar Games has revealed the full stadium transformation in GTA Online's Miami Heat, a new addition to the game's sports series. The new stadium features improved graphics and gameplay mechanics.",
+    "category": "esports",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/first-look-at-gtas-miami-heat-full-stadium-transformation/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/f3cb1a510a88/800/600",
+    "published_at": "2026-11-17T21:23:55.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-online",
+    "game_label": "GTA Online"
+  },
+  {
+    "id": "3ce1ef169b89",
+    "slug": "when-are-the-game-awards-2026-date-time-and-how-to-watch",
+    "headline": "When Are The Game Awards 2026: Date, Time, and How to Watch",
+    "summary": "Everything you need to know about where and when to watch The Game Awards 2026, including date, start time, and how long The Game Awards are.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/game-awards-2026-how-to-watch-when-date-time/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/signin-bg.jpg",
+    "published_at": "2026-11-17T21:20:01.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0985fb7b4e87",
+    "slug": "world-of-fallout-exhibit-at-the-las-vegas-atomic-museum-expands-and-it",
+    "headline": "World of Fallout Exhibit at the Las Vegas Atomic Museum Expands – and It’s Full of Easter Eggs for Fans",
+    "summary": "This past weekend, the National Atomic Testing Museum in Las Vegas, Nevada (aka, “Old Vegas”) doubled the size of its “World of Fallout” exhibit, which has been open to the public since November 2025. The exhibit juxtaposes recreated objects from the Fallout universe with the real-life artifacts from the nuclear era that inspired the game’s […] The post World of…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/11/17/world-of-fallout-expansion/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/0985fb7b4e87/800/600",
+    "published_at": "2026-11-17T21:10:49.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "3237d8e0ba5c",
     "slug": "gta-6-to-feature-62-bird-species",
     "headline": "GTA 6 to Feature 62 Bird Species",
@@ -79,27 +171,6 @@
     "game_label": "Ice Cream Simulator"
   },
   {
-    "id": "7781ffc8c931",
-    "slug": "tomb-raider-developer-makes-fifth-round-of-layoffs-in-less-than-2-year",
-    "headline": " Tomb Raider developer makes fifth round of layoffs in less than 2 years ",
-    "summary": "Crystal Dynamics confirmed that eight people have been let go in a \"necessary business decision.\"",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/gaming-industry/tomb-raider-developer-makes-fifth-round-of-layoffs-in-less-than-2-years/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Lbizrv9fd5HBKk8EnRW29C-1920-80.jpg",
-    "published_at": "2026-11-17T20:57:44.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
     "id": "9c80b942d6ff",
     "slug": "gta-6-nominated-for-game-of-the-year-at-the-game-awards",
     "headline": "GTA 6 Nominated for Game of the Year at The Game Awards",
@@ -122,15 +193,63 @@
       {
         "name": "Polygon",
         "url": "https://www.polygon.com/gta-6-game-awards-nominations-expectations/"
+      },
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/gta-6-nominated-for-game-of-the-year-before-ps5-reviews-are-released"
       }
     ],
     "image_url": "https://cdn.mos.cms.futurecdn.net/N4D5ufALYqpsjWJqjtBi4J-1920-80.jpg",
-    "published_at": "2026-11-17T20:52:32.000Z",
+    "published_at": "2026-11-17T21:00:00.000Z",
     "hype_signal": 80,
     "like_count": 0,
     "comment_count": 0,
     "game": "grand-theft-auto-6",
     "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "7770d8968b66",
+    "slug": "2xko-fighting-game-nominated-for-tga-despite-dev-shutdown",
+    "headline": "2XKO Fighting Game Nominated for TGA Despite Dev Shutdown",
+    "summary": "2XKO, a fighting game, was unexpectedly nominated for Best Fighting Game at The Game Awards 2026 despite its developer, Riot Games, shutting down earlier this year.",
+    "category": "esports",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/this-fighting-game-is-nominated-for-a-tga-despite-development-shutting-down/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/2xko.jpg?w=300",
+    "published_at": "2026-11-17T20:59:17.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "2xko",
+    "game_label": "2XKO"
+  },
+  {
+    "id": "7781ffc8c931",
+    "slug": "tomb-raider-developer-makes-fifth-round-of-layoffs-in-less-than-2-year",
+    "headline": " Tomb Raider developer makes fifth round of layoffs in less than 2 years ",
+    "summary": "Crystal Dynamics confirmed that eight people have been let go in a \"necessary business decision.\"",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/tomb-raider-developer-makes-fifth-round-of-layoffs-in-less-than-2-years/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Lbizrv9fd5HBKk8EnRW29C-1920-80.jpg",
+    "published_at": "2026-11-17T20:57:44.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "cd47c268049d",
@@ -243,6 +362,29 @@
     "image_url": "https://images.purexbox.com/8c1eae891c774/large.jpg",
     "published_at": "2026-11-17T20:30:00.000Z",
     "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "bb060db34b58",
+    "slug": "xbox-announces-official-black-friday-sale-on-digital-games-and-accesso",
+    "headline": "Xbox Announces Official Black Friday Sale on Digital Games and Accessories — But No Consoles ",
+    "summary": "Xbox Announces Official Black Friday Sale on Digital Games and Accessories — But No Consoles",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/xbox-announces-black-friday-sale-for-2026"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/17/xboxblackfridaysale-1794946009012.jpg",
+    "published_at": "2026-11-17T20:11:23.000Z",
+    "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4522,138 +4664,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "7fa1d921d680",
-    "slug": "world-of-warcraft-forevers-in-game-economy-has-been-ravaged-by-an-expl",
-    "headline": "World of Warcraft: Forever's in-game economy has been ravaged by an exploit that allowed players to farm thousands of gold",
-    "summary": "World of Warcraft: Forever has suffered its first economic nightmare, as a dungeon farm exploit has left some players with thousands of gold in their bags while the vast majority of players are barely above their first hundred.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/world-of-warcraft-forever-gold-farm-exploit"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Wow-gold-2.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-17T09:51:30.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5a30f9d3810a",
-    "slug": "ambitious-fangame-based-on-the-saga-of-tanya-the-evil-taken-down-by-de",
-    "headline": "Ambitious fangame based on The Saga of Tanya the Evil taken down by developer following community backlash ",
-    "summary": "Japanese users on X raised concerns about the project's legality after the developer started distributing a paid beta build.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/ambitious-fangame-based-on-the-saga-of-tanya-the-evil-taken-down-by-developer-following-community-backlash/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/5a30f9d3810a/800/600",
-    "published_at": "2026-11-17T09:50:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "fc241f6d392e",
-    "slug": "microsofts-sidewinder-strategic-commander-was-a-failed-attempt-to-reim",
-    "headline": "Microsoft's SideWinder Strategic Commander was a failed attempt to reimagine RTS controls. 23 years later, why are some players still using it?",
-    "summary": "PC players have been conditioned for decades to accept the keyboard-and-mouse setup for RTS games. One hand has to handle movement and commands through a keyboard, while the other points, drags, and selects with a mouse. Peripheral makers have, usually with the addition of more buttons, made many minor variations to this time-honored arrangement, but there's only ever been one…",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/microsofts-sidewinder-strategic-commander-was-a-failed-attempt-to-reimagine-rts-controls-23-years-later-why-are-some-players-still-using-it"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Microsoft-SideWinder-Strategic-Commander-header.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-17T09:31:20.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "bcc1db24a81a",
-    "slug": "eight-games-are-leaving-xbox-game-pass-in-late-november-2026",
-    "headline": "Eight Games Are Leaving Xbox Game Pass In Late November 2026",
-    "summary": "The final batch of departures this month. Microsoft has revealed the next eight games leaving Xbox Game Pass in late November 2026, with all of these being highlighted as \"leaving soon\" on the official Xbox mobile app. Two of them particularly stand out to us - Aliens: Dark Descent and Banishers: Ghosts of New Eden. Both of these are well…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/11/eight-games-are-leaving-xbox-game-pass-in-late-november-2026"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/82a8637d885d0/large.jpg",
-    "published_at": "2026-11-17T09:30:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5bc09545a0ee",
-    "slug": "chrono-trigger-composer-yasunori-mitsuda-conflicted-about-dragon-quest",
-    "headline": "Chrono Trigger composer Yasunori Mitsuda conflicted about Dragon Quest’s use of late Akira Toriyama’s art, suggests the series might be better off retiring in favor of a fresh start",
-    "summary": "Chrono Trigger composer  comments on Dragon Quest RPG: The Cursed Tree and the Chosen Isle's use of Akira Toriyama's art style.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/chrono-trigger-composer-yasunori-mitsuda-conflicted-about-dragon-quests-use-of-late-akira-toriyamas-art-suggests-the-series-might-be-better-of-retiring-in-favor-of-a-fresh-start/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/5bc09545a0ee/800/600",
-    "published_at": "2026-11-17T09:24:36.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4f37b23663bf",
-    "slug": "zelda-ocarina-of-time-remake-tops-1-million-sales-in-us",
-    "headline": "Zelda Ocarina of Time Remake Tops 1 Million Sales in US",
-    "summary": "The remake of the classic Zelda Ocarina of Time has broken the US sales record with 1 million physical copies sold in its first week, surpassing the new Zelda: Tears of the Kingdom.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/zelda-ocarina-of-time-remake-is-the-best-selling-physical-game-in-the-us-in-2026-so-far-passing-1-million-in-its-first-week/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/4f37b23663bf/800/600",
-    "published_at": "2026-11-17T09:24:28.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-legend-of-zelda-ocarina-of-time-remake",
-    "game_label": "The Legend of Zelda: Ocarina of Time - Remake"
   }
 ]
