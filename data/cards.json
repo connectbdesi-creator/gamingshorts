@@ -1,5 +1,30 @@
 [
   {
+    "id": "0947a0672548",
+    "slug": "miami-heat-unveils-new-uniforms-inspired-by-grand-theft-auto-vice-city",
+    "headline": "Miami Heat Unveils New Uniforms Inspired by Grand Theft Auto: Vice City",
+    "summary": "The Miami Heat basketball team has unveiled new uniforms inspired by the iconic video game Grand Theft Auto: Vice City. The team's president says the uniforms are a nod to the game's 'Vice City hardwood'.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/miami-heat-shows-off-its-vice-city-hardwood-ahead-of-the-big-grand-theft-auto-6-basketball-game/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/29sQApQ46ucNntjpnWn88T-1920-80.jpg",
+    "published_at": "2026-11-17T23:08:11.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "b143ae6fa11d",
     "slug": "resident-evil-requiems-game-awards-nominee-is-ready-for-resident-evil",
     "headline": "Resident Evil Requiem’s Game Awards Nominee Is Ready for Resident Evil 10",
@@ -43,6 +68,31 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "8228297d854b",
+    "slug": "elon-musks-mom-drops-by-in-infinity-nikkis-latest-trailer",
+    "headline": "Elon Musk's Mom Drops by in Infinity Nikki's Latest Trailer",
+    "summary": "Infinity Nikki players are confused after Elon Musk's mother, Maye Musk, appeared in the game's update trailers.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/infinity-nikki-players-baffled-after-elon-musks-mom-appears-in-games-update-trailers"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/17/maye-musk-infinity-nikki-confusion-1794955678498.jpg",
+    "published_at": "2026-11-17T22:56:11.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "infinity-nikki",
+    "game_label": "Infinity Nikki"
   },
   {
     "id": "c453c69df98c",
@@ -4607,53 +4657,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "55bc7af0613f",
-    "slug": "zelda-ocarina-of-time-remake-paid-dlc-leaked",
-    "headline": "Zelda: Ocarina of Time Remake Paid DLC Leaked",
-    "summary": "Recent leaks suggest that fans of The Legend of Zelda: Ocarina of Time remake have paid DLC to look forward to in the future.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/zelda-oot-remake-dlc-master-quest-ganondorf-amiibo/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/zelda-oot-remake-dlc-leak.jpg",
-    "published_at": "2026-11-17T11:00:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5119df0452c9",
-    "slug": "gta-6-leads-playstation-store-sales-worldwide",
-    "headline": "GTA 6 Leads PlayStation Store Sales Worldwide",
-    "summary": "Grand Theft Auto 6 has topped the PlayStation Store sales charts in over 40 countries, except for one region",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-playstation-sales-worldwide-japan-bad-why/"
-      },
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/gta-6-number-1-game-every-playstation-store/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/gta-6-ps-store-sales-chart-tops-all-countries-except-japan-explaied-gamerant.jpg",
-    "published_at": "2026-11-17T11:00:13.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   }
 ]
