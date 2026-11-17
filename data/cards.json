@@ -1,5 +1,98 @@
 [
   {
+    "id": "fc7205bdcf6b",
+    "slug": "the-hunger-games-officially-changes-genres-with-a-near-perfect-new-mov",
+    "headline": "The Hunger Games Officially Changes Genres With a Near-Perfect New Movie",
+    "summary": "The new Hunger Games movie focuses on dread and tragic inevitability, marking a shift from survival to a more ominous tone.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/hunger-games-sunrise-on-the-reaping-review/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mcdhuga_lg068.jpg",
+    "published_at": "2026-11-17T14:00:18.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-hunger-games",
+    "game_label": "The Hunger Games"
+  },
+  {
+    "id": "4cd351268cff",
+    "slug": "the-hunger-games-sunrise-on-the-reaping-review",
+    "headline": "The Hunger Games: Sunrise On The Reaping Review",
+    "summary": "GamesRadar+ reviewers found The Hunger Games: Sunrise On The Reaping to be an enjoyable, yet unremarkable, experience that doesn't quite live up to its predecessors.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/sci-fi-movies/hunger-games-sunrise-on-the-reaping-review/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/GLv44JJ3mvWfTTWDtm46JE-1920-80.jpg",
+    "published_at": "2026-11-17T14:00:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-hunger-games-sunrise-on-the-reaping",
+    "game_label": "The Hunger Games: Sunrise On The Reaping"
+  },
+  {
+    "id": "ff088243be23",
+    "slug": "dragon-quest-franchise-faces-uncertainty-after-akira-toriyamas-passing",
+    "headline": "Dragon Quest Franchise Faces Uncertainty After Akira Toriyama's Passing",
+    "summary": "Square Enix faces criticism for its handling of the Dragon Quest series, with the franchise's future looking uncertain after the reveal of a new mobile game and the tragic loss of Akira Toriyama, a key artist behind the series.",
+    "category": "industry",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/retire-dragon-quest-and-make-a-new-rpg-drama-surrounds-dragon-quest-after-mobile-game-reveal"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/c2a3d1e3ff199/large.jpg",
+    "published_at": "2026-11-17T14:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "dragon-quest",
+    "game_label": "Dragon Quest"
+  },
+  {
+    "id": "33c993fee45e",
+    "slug": "lenore-dove-actor-says-her-hunger-games-sunrise-on-the-reaping-charact",
+    "headline": " Lenore Dove actor says her Hunger Games: Sunrise on the Reaping character and Lucy Gray \"share a lot of the same pieces\" ",
+    "summary": "Exclusive: Whitney Peak drew inspiration from Rachel Zegler's Lucy Gray Baird for her Lenore Dove character in Sunrise on the Reaping",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/action-movies/lenore-dove-actor-whitney-peak-says-her-hunger-games-sunrise-on-the-reaping-character-and-lucy-gray-share-a-lot-of-the-same-pieces/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/WgHzMXM5fe349BChFwkqcS-1920-80.jpg",
+    "published_at": "2026-11-17T14:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "b30ea46cba4b",
     "slug": "how-austin-abrams-drove-into-the-world-of-whalefall",
     "headline": "How Austin Abrams Drove into the World of Whalefall",
@@ -49,6 +142,33 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "9dd06a0a5b6d",
+    "slug": "schools-prepare-for-gta-6-launch-day-absences",
+    "headline": "Schools Prepare for GTA 6 Launch Day Absences",
+    "summary": "Schools are preparing for mass absences on GTA 6 launch day by issuing warnings to parents and offering gift cards to students who attend.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/warnings-encouragement-and-gift-cards-how-schools-are-preparing-for-mass-absences-on-gta-6-launch-day"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/10/29/gta-6-jason-and-lucia-drive-by-1793234705694.jpg",
+    "published_at": "2026-11-17T13:32:25.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "582a67f1d08b",
@@ -4444,117 +4564,5 @@
     "comment_count": 0,
     "game": "grand-theft-auto-6",
     "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "743d0b58f7db",
-    "slug": "cool-new-cyberpunk-2077-mod-adds-3d-rain-effects-that-catch-the-light",
-    "headline": "Cool New Cyberpunk 2077 Mod Adds 3D Rain Effects That Catch the Light and Blow in the Wind",
-    "summary": "A new Cyberpunk 2077 mod understands that, and changes the game’s 2D rain effects into a proper 3D weather simulation. It’s called Torrent, and comes from a Modder called CyanideX.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/cyberpunk-2077-mod-adds-3d-rain-effects"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/16/cyberpunk-rain-1794839997532.webp",
-    "published_at": "2026-11-16T14:44:29.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1033b40ce369",
-    "slug": "xbox-game-pass-adds-new-titles-for-november",
-    "headline": "Xbox Game Pass Adds New Titles for November",
-    "summary": "Xbox Game Pass subscribers can look forward to new releases in November, including a kid-friendly game and a sports title, bringing a welcome boost to the service's content during the month's quieter periods.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/xbox-game-pass-gets-even-more-games-in-november/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Paw-Patrol-Dino-World.jpg?w=300",
-    "published_at": "2026-11-16T14:33:49.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f832e6f55401",
-    "slug": "we-got-a-grand-theft-at-disney-world-before-gta-6",
-    "headline": "We Got A Grand Theft At Disney World Before GTA 6",
-    "summary": "The \"We got X before GTA 6\" meme continues as a Grand Theft has been reported at Walt Disney World's Epcot theme park just days before Rockstar's open-world crime game releases, and the meme comes to an end. The Walt Disney World: Active Calls account, which tracks police reports in the Disney World area, said a Grand Theft call at…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/we-got-a-grand-theft-at-disney-world-before-gta-6/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_11.jpg?w=300",
-    "published_at": "2026-11-16T14:32:07.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "48de7d466d32",
-    "slug": "ever-wanted-to-play-a-multiplayer-version-of-cyberpunk-2077-with-your",
-    "headline": "Ever wanted to play a multiplayer version of Cyberpunk 2077 with your friends? Well, thanks to a mod now in beta, you can",
-    "summary": "You may have recently read that CD Projekt Red's in-development Cyberpunk 2 may be trying to revive the original game's online ambitions. But, if you don't want to wait the many years it'll likely be before the Cyberpunk 2077 sequel arrives, then I've got good news for you: Cyberpunk 2077 multiplayer mod CyberMP is now out in open beta. Read…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/cyberpunk-2077-multiplayer-mod-open-beta"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/CyberMP-header.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-16T14:19:10.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "11f55e7dd672",
-    "slug": "phantom-blade-zero-moji-house-key-location",
-    "headline": "Phantom Blade Zero Moji House Key Location",
-    "summary": "Players can find the Moji House Key in the Mandate Encampment region of Phantom Blade Zero and need to know where to use it to progress through the game.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/phantom-blade-zero-moji-house-key-use/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/where-to-use-moji-house-key.jpg",
-    "published_at": "2026-11-16T14:05:48.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "phantom-blade-zero",
-    "game_label": "Phantom Blade Zero"
   }
 ]
