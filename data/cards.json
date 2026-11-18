@@ -1,5 +1,26 @@
 [
   {
+    "id": "9aea01d8712e",
+    "slug": "grand-theft-auto-6-includes-a-joke-about-gta-7",
+    "headline": "Grand Theft Auto 6 Includes A Joke About GTA 7",
+    "summary": "The massive open-world game features its own social media network complete with a GTA joke",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/grand-theft-auto-6-includes-a-joke-about-gta-7-2000755921"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/11/Jason_Duval_17-1280x720.jpg",
+    "published_at": "2026-11-18T12:00:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "8999a22f73f8",
     "slug": "grand-theft-auto-6-review",
     "headline": "Grand Theft Auto 6 review",
@@ -22,15 +43,173 @@
       {
         "name": "TheGamer",
         "url": "https://www.thegamer.com/gta-6-review-round-up/"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/grand-theft-auto-vi-review"
+      },
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/grand-theft-auto-6-cheats-explained-are-cheats-in-gta-6/"
       }
     ],
     "image_url": "https://assetsio.gnwcdn.com/GTA-6-review-15.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-18T11:23:25.000Z",
+    "published_at": "2026-11-18T11:54:42.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "73f16467f0c4",
+    "slug": "gta-6-already-has-25-million-twitch-viewers",
+    "headline": "GTA 6 Already Has 2.5 Million Twitch Viewers",
+    "summary": "Grand Theft Auto VI is generating significant buzz on Twitch, with 2.5 million viewers already tuning in after just 35 minutes of its release",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/there-are-already-25-million-people-watching-gta-6-on-twitch/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/jason_duval_07.jpg",
+    "published_at": "2026-11-18T11:51:49.000Z",
+    "hype_signal": 90,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "7a50040a3ec8",
+    "slug": "gta-6-trailers-revealed-most-early-game-moments",
+    "headline": "GTA 6 Trailers Revealed Most Early Game Moments",
+    "summary": "Rockstar confirms that its marketing didn't spoil major game moments, and its trailers instead showcased early game footage.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/after-finishing-gta-6-i-can-confirm-its-trailers-and-teasers-mostly-featured-very-early-moments-from-the-game-2000755910"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/11/Jason_and_Lucia_17-1280x720.jpg",
+    "published_at": "2026-11-18T11:45:46.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
+    "id": "482ae4744ca3",
+    "slug": "gta-6s-metacritic-score-makes-it-the-highest-rated-game-of-all-time-ma",
+    "headline": "GTA 6's Metacritic score makes it the highest-rated game of all time, matching OG Ocarina of Time",
+    "summary": "GTA 6 has achieved the highest Metacritic score of all time, surpassing The Legend of Zelda: Ocarina of Time.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-metacritic-score-makes-it-the-highest-rated-game-of-all-time-matching-the-og-zelda-ocarina-of-time/"
+      },
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/gta-6-ties-with-zelda-ocarina-of-time-as-the-highest-rated-game-ever"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/GCd8hcqg6HgcBnZgBPxaZ3-1920-80.jpg",
+    "published_at": "2026-11-18T11:45:00.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "d6d26578fc55",
+    "slug": "slay-the-spire-2-is-one-of-this-years-best-selling-games-despite-only",
+    "headline": "Slay the Spire 2 is one of this year's best selling games despite only being available on PC, and its players are \"obsessed\"",
+    "summary": "One million copies for each month on sale, it seems. Slay the Spire 2, Mega Crit's roguelike deckbuilder, is estimated to have sold 7.9m copies since its release in Steam Early Access in March.\n Read more",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/slay-the-spire-2-8-million-sales-steam-estimates"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/slay-the-spire-2-key-art.webp?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-18T11:33:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8933014fed02",
+    "slug": "despite-being-617-million-in-debt-bankrupt-mindseye-devs-build-a-rocke",
+    "headline": "Despite being £61.7 million in debt, bankrupt MindsEye devs Build a Rocket Boy are splurging on legal action against \"a coordinated campaign of negative online reviews\"",
+    "summary": "Freshly published bankruptcy documents for perennially troubled MindsEye developer Build A Rocket Boy have spelled out the scale of the company's debt, with around £61.7 million owed to creditors. The documents also touch on founder Leslie Benzies and CEO Mark Gerhard's repeated claims that MindsEye is the victim of an organised sabotage campaign. The company's leaders have apparently taken out…",
+    "category": "reviews",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/despite-being-617-million-in-debt-bankrupt-mindseye-devs-build-a-rocket-boy-are-splurging-on-legal-action-against-a-coordinated-campaign-of-negative-online-reviews"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/mindseye-I-saw-her-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-18T11:31:20.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "381477b730ac",
+    "slug": "gta-6-achievement-list-every-unlawful-challenge-standing-between-you-a",
+    "headline": "GTA 6 achievement list: Every unlawful challenge standing between you and 100% completion ",
+    "summary": "PC Gamer shares the achievement list for Grand Theft Auto 6, providing a roadmap to 100% completion, including various unlawful challenges.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-achievements-list/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/yCS72Lc94fAskYJ8fGzmvj-1920-80.jpg",
+    "published_at": "2026-11-18T11:30:04.000Z",
+    "hype_signal": 75,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "c8f2300d3d1f",
@@ -156,31 +335,6 @@
     "comment_count": 0,
     "game": "gta-6",
     "game_label": "GTA 6"
-  },
-  {
-    "id": "482ae4744ca3",
-    "slug": "gta-6s-metacritic-score-makes-it-the-highest-rated-game-of-all-time-ma",
-    "headline": "GTA 6's Metacritic score makes it the highest-rated game of all time, matching OG Ocarina of Time",
-    "summary": "GTA 6 has achieved the highest Metacritic score of all time, surpassing The Legend of Zelda: Ocarina of Time.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-metacritic-score-makes-it-the-highest-rated-game-of-all-time-matching-the-og-zelda-ocarina-of-time/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/GCd8hcqg6HgcBnZgBPxaZ3-1920-80.jpg",
-    "published_at": "2026-11-18T11:08:56.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "c3d99ccc95e6",
@@ -397,6 +551,48 @@
     "comment_count": 0,
     "game": "gamerant-daily-crossword",
     "game_label": "GameRant Daily Crossword"
+  },
+  {
+    "id": "1a64a2cd0cb7",
+    "slug": "gta-6-doesnt-let-you-replay-story-missions-heres-why",
+    "headline": "GTA 6 Doesn’t Let You Replay Story Missions — Here’s Why",
+    "summary": "Unlike previous games in the series, you can't replay missions in GTA 6.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-doesnt-let-you-replay-story-missions-heres-why"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/18/gtavi-missions-1794996224895.jpg",
+    "published_at": "2026-11-18T11:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "28ea23a9e25e",
+    "slug": "as-gta-6-finally-releases-rockstar-boss-sam-houser-issues-rare-stateme",
+    "headline": " As GTA 6 finally releases, Rockstar boss Sam Houser issues rare statement ",
+    "summary": "\"Rockstar Games was founded on the belief that games could achieve the same distinction as all other forms of storytelling\"",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/as-gta-6-finally-releases-rockstar-boss-sam-houser-issues-rare-statement-we-are-incredibly-grateful-and-look-forward-to-many-more-years-of-sharing-these-experiences-with-you/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/WCUSnDP6CwC78uviCLYwfU-1920-80.jpg",
+    "published_at": "2026-11-18T11:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "f2b25d749244",
@@ -4530,189 +4726,6 @@
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/avengers_-doomsday-_-special-look-_-in-theaters-december-18-1-40-screenshot.jpg",
     "published_at": "2026-11-17T15:40:23.000Z",
     "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c9b36e64a82e",
-    "slug": "wow-forever-economy-takes-hit-as-players-exploit-system",
-    "headline": "WoW Forever Economy Takes Hit as Players Exploit System",
-    "summary": "Players in World of Warcraft: Forever are being banned for exploiting a system that allows them to farm gold at an excessive rate, with some players reportedly earning over $100 per hour.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/world-of-warcraft/wow-forever-economy-takes-a-hit-as-players-go-big-on-100-gold-per-hour-exploit-before-blizzard-can-step-in/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/m7wPWfLYkvxRd4yjgYdHDF-1920-80.jpg",
-    "published_at": "2026-11-17T15:37:51.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "world-of-warcraft-forever",
-    "game_label": "World of Warcraft: Forever"
-  },
-  {
-    "id": "7e7161070ae0",
-    "slug": "former-dishonored-designer-joins-the-team-on-new-bloods-victorian-imme",
-    "headline": "Former Dishonored designer joins the team on New Blood's Victorian immersive sim Gloomwood, with a new level and new weapons coming this year",
-    "summary": "Gloomwood, the Victorian survival horror immersive sim (or, wait, I'm getting reports that we shouldn't call it an immersive sim, apparently) by Dillon Rogers is a game that is quite happily inspired by its predecessors such as Thief, Resident Evil and Dishonored; you could call it 'Thief with guns', if you really wanted to. (Sorry, I've just seen that the…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/former-dishonored-designer-joins-the-team-on-new-bloods-victorian-immersive-sim-gloomwood-with-a-new-level-and-new-weapons-coming-this-year"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Gloomwood-Cursed-Fishdogs.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-17T15:32:10.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "63e7351c6afe",
-    "slug": "austin-creed-brings-nes-power-glove-to-pro-wrestling",
-    "headline": "Austin Creed Brings NES Power Glove to Pro Wrestling",
-    "summary": "Austin Creed used a vintage NES Power Glove in a Texas Death Match at All Elite Wrestling's Full Gear event, stealing the show with a move inspired by Street Fighter.",
-    "category": "esports",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/an-nes-power-glove-just-became-the-most-dangerous-weapon-in-pro-wrestling/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Creed-Shoryuken.jpg?w=300",
-    "published_at": "2026-11-17T15:31:36.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f796a1cd5cd8",
-    "slug": "project-helix-is-a-console-not-a-pc-says-xbox-vp",
-    "headline": "Project Helix Is a Console, Not a PC, Says Xbox VP",
-    "summary": "Xbox VP clarifies the identity of Project Helix and offers a better understanding of the upcoming Xbox next-gen gaming system.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/xbox-project-helix-pc-games/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/gamerant-2026-11-16t143645-510-1.jpg",
-    "published_at": "2026-11-17T15:31:15.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3e1f12530126",
-    "slug": "i-cant-believe-they-chose-to-do-this-exodus-newly-revealed-actors-on-h",
-    "headline": " \"I can't believe they chose to do this\": Exodus' newly-revealed actors on how the RPG's complexity shaped their performances ",
-    "summary": "\"This is just objectively so much more expensive, so much more time-consuming\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/rpg/i-cant-believe-they-chose-to-do-this-exodus-newly-revealed-actors-on-how-the-rpgs-complexity-shaped-their-performances/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/cmbvMwXdLmxNiPPTeQZ5nh-1920-80.jpg",
-    "published_at": "2026-11-17T15:30:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "866477f8775f",
-    "slug": "actors-stepping-into-biowares-new-rpg-feel-the-legacy-of-mass-effect",
-    "headline": "Actors Stepping into BioWare's New RPG 'Feel the Legacy' of Mass Effect",
-    "summary": "BioWare developers are developing a new RPG from the same team that worked on Mass Effect, and they're focusing on honoring the series' legacy to win over fans",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/action-rpg/with-mass-effect-5-gone-lead-actors-of-new-sci-fi-action-rpg-from-ex-bioware-devs-feel-the-legacy-more-than-ever/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/B6Ubm9HWPSKCGAaVeqjDSn-1920-80.jpg",
-    "published_at": "2026-11-17T15:30:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "mass-effect-5",
-    "game_label": "Mass Effect 5"
-  },
-  {
-    "id": "1e847b3c3fb0",
-    "slug": "we-don",
-    "headline": "We Don",
-    "summary": "MLB The Show 27 is coming to PS5 after a year of struggles for the series, with developer San Diego Studio emphasizing the importance of player support.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/we-dont-take-your-support-for-granted-mlb-the-show-27-revealed-for-ps5-after-tough-year"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/b6facbedaef11/large.jpg",
-    "published_at": "2026-11-17T15:30:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "mlb-the-show-27",
-    "game_label": "MLB The Show 27"
-  },
-  {
-    "id": "f16fd26c15c1",
-    "slug": "sony-defeats-26-billion-class-action-lawsuit-over-claimed-playstation",
-    "headline": "Sony Defeats $2.6 Billion Class-Action Lawsuit Over Claimed PlayStation Store Monopoly",
-    "summary": "A UK court has ruled against a class-action lawsuit claiming Sony's PlayStation Store has a monopoly, despite the lawsuit dragging on for years. The ruling dismisses evidence supporting the claim.",
-    "category": "industry",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/sony-playstation-store-ps5-lawsuit-monopoly-you-owe-us-2000757669"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/11/sony-gavel.jpeg",
-    "published_at": "2026-11-17T15:16:21.000Z",
-    "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
