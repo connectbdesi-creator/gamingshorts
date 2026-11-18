@@ -1,5 +1,49 @@
 [
   {
+    "id": "a4b55951ecf6",
+    "slug": "birdwatchers-catholic-schools-and-the-weather-channel-everyones-hyping",
+    "headline": "Birdwatchers, Catholic Schools, And The Weather Channel: Everyone’s Hyping Up GTA 6 Release Day",
+    "summary": "They're making sandwiches about video games now, I guess",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/birdwatchers-catholic-schools-and-the-weather-channel-everyones-hyping-up-gta-6-release-day-2000757823"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/10/GTA-launch-trailer_0004_Brightness_Contrast-4-1280x720.jpg",
+    "published_at": "2026-11-18T01:48:33.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "fef6d07ddb81",
+    "slug": "ps5-open-world-games-with-the-most-packed-maps-ranked",
+    "headline": "PS5 Open-World Games With the Most Packed Maps, Ranked",
+    "summary": "These open-world games balance a convincing sense of scale with dense maps full of places to explore and things to do.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/ps5-open-world-games-most-packed-maps-ranked/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/ps5-open-world-games-with-the-most-packed-maps-ranked.jpg",
+    "published_at": "2026-11-18T01:38:13.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "6fdabe1d43e5",
     "slug": "sonic-racing-crossworlds-free-mclaren-racing-update-adds-new-sonic-ski",
     "headline": "Sonic Racing: CrossWorlds Free McLaren Racing Update Adds New Sonic Skin And Machine",
@@ -4625,51 +4669,5 @@
     "comment_count": 0,
     "game": "aliens-dark-descent",
     "game_label": "Aliens: Dark Descent"
-  },
-  {
-    "id": "ad32be6f6871",
-    "slug": "modder-beats-valve-to-the-punch-adding-steam-controller-tracking-for-t",
-    "headline": " Modder beats Valve to the punch adding Steam Controller tracking for the Steam Frame ",
-    "summary": "\"I'll try to maintain this at least until Valve releases official tracking support for the Steam Controller.\"",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/vr-hardware/modder-beats-valve-to-the-punch-adding-steam-controller-tracking-for-the-steam-frame/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/8WGv9Ya9efi6zrCWFJxEy7-1920-80.jpg",
-    "published_at": "2026-11-17T11:30:45.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6a0b5ab70c3e",
-    "slug": "steel-gullet-review",
-    "headline": "Steel Gullet Review",
-    "summary": "Steel Gullet is a factory puzzle game that excels at thermodynamics, drawing comparisons to Zachtronics and Modulus. It's a satisfyingly funereal experience that challenges players to manage resources and optimize production.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/break-up-and-re-commodify-a-fallen-earth-in-steel-gullet-a-satisfyingly-funereal-factory-puzzler-that-really-loves-thermodynamics"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Steel-Gullet.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-17T11:30:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "steel-gullet",
-    "game_label": "Steel Gullet"
   }
 ]
