@@ -1,5 +1,129 @@
 [
   {
+    "id": "812c689a3ac8",
+    "slug": "amd-says-it-loves-gamers-only-weeks-after-proclaiming-it-is-a-datacent",
+    "headline": " AMD says it 'loves gamers' only weeks after proclaiming it is a datacenter-first company ",
+    "summary": "Someone, please, think of the gamers.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-says-it-loves-gamers-only-weeks-after-proclaiming-it-is-a-datacenter-first-company/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/HPZZoqVz3GyBbJX3DsQ4GR-1920-80.jpg",
+    "published_at": "2026-11-18T12:57:35.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b0e3dfa34637",
+    "slug": "sony-misses-out-on-a-game-awards-goty-nomination-for-the-first-time-in",
+    "headline": " Sony misses out on a Game Awards GOTY nomination for the first time in 12 years ",
+    "summary": "After 14 nominations and 3 wins",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/action/sony-misses-out-on-a-game-awards-goty-nomination-for-the-first-time-in-12-years-with-marvels-wolverine-saros-and-marathon-failing-to-continue-its-record-breaking-run/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/SFrYduvqVY2dBjvrHgZq84-1920-80.jpg",
+    "published_at": "2026-11-18T12:55:09.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d2a6be41eb03",
+    "slug": "review-gta-6-xbox",
+    "headline": "Review: GTA 6 (Xbox)",
+    "summary": "Review of Grand Theft Auto 6, the latest installment in the iconic open-world series, on Xbox, calling it the most breathtaking game of all time.",
+    "category": "reviews",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/reviews/xbox-series-x/grand-theft-auto-6"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-15-minutes-of-first-mission-gameplay"
+      },
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/gta-6-fast-travel-explained-how-to-fast-travel-in-gta-6/"
+      },
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/gta-6-prologue-mission-walkthrough/"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/fa08a34c7283f/large.jpg",
+    "published_at": "2026-11-18T12:54:14.000Z",
+    "hype_signal": 90,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
+    "id": "9048abe0c7e9",
+    "slug": "coffee-stain-to-revive-bankrupt-chronicles-medieval",
+    "headline": "Coffee Stain to Revive Bankrupt Chronicles: Medieval",
+    "summary": "Coffee Stain Group buys Chronicles: Medieval IP, assets, and funds development after Raw Power Games bankruptcy",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/chronicles-medieval-devs-raw-power-are-bankrupt-but-their-sandbox-rpg-lives-on-at-a-new-studio-co-founded-by-satisfactory-devs-coffee-stain"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/chronicles-medieval-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-18T12:53:00.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "chronicles-medieval",
+    "game_label": "Chronicles: Medieval"
+  },
+  {
+    "id": "853c4a2f35be",
+    "slug": "crimson-desert-snubs-at-the-game-awards-are-a-terrible-shame-palworld",
+    "headline": " Crimson Desert snubs at The Game Awards are \"a terrible shame,\" Palworld lead says ",
+    "summary": "Crimson Desert was only nominated for one award",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/open-world/crimson-desert-snubs-at-the-game-awards-are-a-terrible-shame-palworld-lead-says-to-say-im-disappointed-would-be-an-understatement/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/D7Q4p44SNTDgUMeASDHj68-1920-80.jpg",
+    "published_at": "2026-11-18T12:31:59.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "3ff38f233fab",
     "slug": "how-wuthering-waves-brings-its-evolving-world-to-life-through-characte",
     "headline": "How Wuthering Waves Brings Its Evolving World to Life Through Character Design, Music and Storytelling",
@@ -36,6 +160,27 @@
     "image_url": "https://cdn.mos.cms.futurecdn.net/QLpazr6y5eHDC7b3SDFkkh-1920-80.jpg",
     "published_at": "2026-11-18T12:25:05.000Z",
     "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "aae7e93d3977",
+    "slug": "gta-6s-gta-subscription-includes-a-free-supercar-discounts-and-more",
+    "headline": "GTA 6’s GTA+ Subscription Includes A Free Supercar, Discounts, And More",
+    "summary": "Grand Theft Auto 6 is rolling out worldwide, and if you have a GTA+ subscription, you can pick up extra goodies for your trip to Vice City. Developer Rockstar Games has revealed that it'll be evolving its subscription service to cover both GTA Online and GTA 6, and for $8 a month, players can unlock several in-game benefits, including store…",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-gta-subscription-includes-a-free-supercar-discounts-and-more/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-23.jpg?w=300",
+    "published_at": "2026-11-18T12:22:55.000Z",
+    "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -203,37 +348,6 @@
     "comment_count": 0,
     "game": "grand-theft-auto-6",
     "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "d2a6be41eb03",
-    "slug": "review-gta-6-xbox",
-    "headline": "Review: GTA 6 (Xbox)",
-    "summary": "Review of Grand Theft Auto 6, the latest installment in the iconic open-world series, on Xbox, calling it the most breathtaking game of all time.",
-    "category": "reviews",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/reviews/xbox-series-x/grand-theft-auto-6"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6-15-minutes-of-first-mission-gameplay"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/gta-6-fast-travel-explained-how-to-fast-travel-in-gta-6/"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/fa08a34c7283f/large.jpg",
-    "published_at": "2026-11-18T12:09:21.000Z",
-    "hype_signal": 90,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gta-6",
-    "game_label": "GTA 6"
   },
   {
     "id": "c8f2300d3d1f",
@@ -4624,121 +4738,6 @@
     ],
     "image_url": "https://assetsio.gnwcdn.com/playstation-5-reet-talreja-unsplash.jpg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-11-17T16:17:40.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9dc1d7890574",
-    "slug": "playstation-beats-26-billion-lawsuit-over-its-game-prices",
-    "headline": "PlayStation beats $2.6 billion lawsuit over its game prices",
-    "summary": "PlayStation will not be compelled to allow third-party stores on its consoles",
-    "category": "industry",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/playstation-beats-2-6-billion-lawsuit-over-its-game-prices/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/9dc1d7890574/800/600",
-    "published_at": "2026-11-17T16:08:05.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6a3f47348c4f",
-    "slug": "crystal-dynamics-layoffs-continue-amidst-development-of-two-tomb-raide",
-    "headline": "Crystal Dynamics Layoffs Continue Amidst Development of Two Tomb Raider Games",
-    "summary": "Gaming studio Crystal Dynamics is undergoing another round of layoffs, affecting several key staff members, while still working on two Tomb Raider games.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/embracer-begin-yet-another-round-of-layoffs-at-crystal-dynamics-while-theyre-still-midway-through-development-on-two-tomb-raider-games"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Tomb-Raider-LoA.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-17T16:03:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "tomb-raider",
-    "game_label": "Tomb Raider"
-  },
-  {
-    "id": "dd3b9f2ba950",
-    "slug": "how-to-complete-aniimos-pumpkin-gods-journey-quest",
-    "headline": "How to Complete Aniimo's Pumpkin God's Journey Quest",
-    "summary": "Get a step-by-step guide to completing the Pumpkin God's Journey Quest in Aniimo, including tasks and rewards.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/aniimo-pumpkin-gods-journey-homestead-halloween-quest-guide/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/aniimo-s2-pumpkin-gods-journey-quest-guide.jpg",
-    "published_at": "2026-11-17T16:01:59.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "aniimo",
-    "game_label": "Aniimo"
-  },
-  {
-    "id": "3868f1e16af5",
-    "slug": "people-are-just-straight-up-porting-games-like-undertale-into-roblox-n",
-    "headline": "People Are Just Straight-Up Porting Games Like Undertale Into Roblox Now",
-    "summary": "Like, not a recreation, not a remake with Roblox assets. Just. The whole game.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/people-are-just-straight-up-porting-games-like-undertale-into-roblox-now-2000757514"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2017/08/riljkrck8lf2j3dci37y-1280x721.jpg",
-    "published_at": "2026-11-17T16:00:54.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4a38264d3306",
-    "slug": "ps-plus-officially-adds-5-more-games-for-november-2026",
-    "headline": "PS Plus Officially Adds 5 More Games for November 2026",
-    "summary": "The Second and largest wave of PS Plus games for November 2026 is now live, bringing five new titles to the multiple tiers of the service.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/ps-plus-november-2026-extra-premium-games-wave-2-complete-list/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/playstation-plus-bright-yellow-d-pad-submark-logo-over-blue-dot-halftone-abstract-pattern-composite.jpg",
-    "published_at": "2026-11-17T16:00:15.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
