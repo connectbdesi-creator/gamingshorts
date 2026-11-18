@@ -1,5 +1,93 @@
 [
   {
+    "id": "c8f2300d3d1f",
+    "slug": "grand-theft-auto-6-leads-all-time-metacritic-score",
+    "headline": "Grand Theft Auto 6 Leads All-Time Metacritic Score",
+    "summary": "Grand Theft Auto 6 has achieved the highest Metacritic score of all time, with a 99 out of 100, tied with The Legend of Zelda: Ocarina of Time",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/grand-theft-auto-6-is-currently-the-highest-scoring-video-game-of-all-time-according-to-metacritic/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/all-grand-theft-auto-vi-gta-6-cheat-codes-list/"
+      },
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/43-soldiers-re-enlisted-in-the-army-in-exchange-for-time-off-to-play-grand-theft-auto-6-im-all-about-the-heist-2000758133"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/c8f2300d3d1f/800/600",
+    "published_at": "2026-11-18T21:30:03.000Z",
+    "hype_signal": 90,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "e4624dec06f5",
+    "slug": "ps5-pro-is-not-powerful-enough-to-run-gta-6-at-60fps-rockstar-explains",
+    "headline": "'PS5 Pro Is Not Powerful Enough to Run GTA 6 at 60fps': Rockstar Explains Frame Rate Decision",
+    "summary": "And why it's not the end of the world. I’ve played GTA 6 on PS5 Pro for over 150 hours and it’s a remarkable experience. You can read my review through here. This is the densest open world ever designed. The sheer amount of art assets on screen at any given time is simply unprecedented. Read the full article on…",
+    "category": "reviews",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/ps5-pro-is-not-powerful-enough-to-run-gta-6-at-60fps-rockstar-explains-frame-rate-decision"
+      },
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/ps5-pro-not-powerful-enough-gta-6-60fps"
+      },
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-at-60fps-on-ps5-pro-isnt-possible-because-the-console-is-not-powerful-enough-rockstar-says/"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/1e617481ebc21/large.jpg",
+    "published_at": "2026-11-18T21:27:03.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "78b245f5323b",
+    "slug": "playstation-network-outage-hits-on-gta-6-release-day-eve",
+    "headline": "PlayStation Network Outage Hits On GTA 6 Release Day Eve",
+    "summary": "PS5 users are reporting widespread technical issues during GTA 6's window as millions try and download Rockstar's open-world shooter.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-is-psn-down-detector-account-services-busy-server-connection-error/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ultimate_edition_grotti_cheetah_02.jpg",
+    "published_at": "2026-11-18T21:03:51.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "bdae04095e2b",
     "slug": "gta-san-andreas-remastered-was-teasing-gta-6-back-in-2021",
     "headline": "GTA San Andreas Remastered Was Teasing GTA 6 Back In 2021",
@@ -23,6 +111,29 @@
     "comment_count": 0,
     "game": "gta-san-andreas",
     "game_label": "GTA San Andreas"
+  },
+  {
+    "id": "a978cc24e365",
+    "slug": "psn-went-down-sorta-on-gta-6-eve",
+    "headline": "PSN Went Down Sorta On GTA 6 Eve",
+    "summary": "On the eve of GTA 6's official launch on November 19, Sony's PlayStation Network appears to be facing some issues, at least for some people, at some point, today. Reports have emerged that the PSN is borked, and although the PlayStation Status website says everything is fine, that might not be true for everyone. As with all outages, your mileage…",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/psn-went-down-sorta-on-gta-6-eve/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261031155532_.jpg?w=300",
+    "published_at": "2026-11-18T20:55:37.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "f3d3777a3fd1",
@@ -838,33 +949,6 @@
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vice_city_24-1.jpg",
     "published_at": "2026-11-18T18:20:58.000Z",
     "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e4624dec06f5",
-    "slug": "ps5-pro-is-not-powerful-enough-to-run-gta-6-at-60fps-rockstar-explains",
-    "headline": "'PS5 Pro Is Not Powerful Enough to Run GTA 6 at 60fps': Rockstar Explains Frame Rate Decision",
-    "summary": "And why it's not the end of the world. I’ve played GTA 6 on PS5 Pro for over 150 hours and it’s a remarkable experience. You can read my review through here. This is the densest open world ever designed. The sheer amount of art assets on screen at any given time is simply unprecedented. Read the full article on…",
-    "category": "reviews",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/ps5-pro-is-not-powerful-enough-to-run-gta-6-at-60fps-rockstar-explains-frame-rate-decision"
-      },
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/ps5-pro-not-powerful-enough-gta-6-60fps"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/1e617481ebc21/large.jpg",
-    "published_at": "2026-11-18T18:17:50.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -3491,36 +3575,6 @@
     "game_label": "Grand Theft Auto 6"
   },
   {
-    "id": "c8f2300d3d1f",
-    "slug": "grand-theft-auto-6-leads-all-time-metacritic-score",
-    "headline": "Grand Theft Auto 6 Leads All-Time Metacritic Score",
-    "summary": "Grand Theft Auto 6 has achieved the highest Metacritic score of all time, with a 99 out of 100, tied with The Legend of Zelda: Ocarina of Time",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/grand-theft-auto-6-is-currently-the-highest-scoring-video-game-of-all-time-according-to-metacritic/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/all-grand-theft-auto-vi-gta-6-cheat-codes-list/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/c8f2300d3d1f/800/600",
-    "published_at": "2026-11-18T12:07:57.000Z",
-    "hype_signal": 90,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
     "id": "ba1ad7ef35a4",
     "slug": "gta-6-has-a-metacritic-score-so-high-its-only-happened-once-before",
     "headline": "GTA 6 Has A Metacritic Score So High It’s Only Happened Once Before",
@@ -4788,52 +4842,6 @@
     "image_url": "https://assetsio.gnwcdn.com/digitalfoundry-2017-kingdom-hearts-3-vs-toy-story-face-off-1500711980973.jpg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-11-18T09:13:30.000Z",
     "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "869641000e01",
-    "slug": "gta-6-leads-the-game-awards-2026-with-eight-nominations",
-    "headline": "GTA 6 Leads The Game Awards 2026 with Eight Nominations",
-    "summary": "Grand Theft Auto 6 has secured eight nominations at The Game Awards 2026, including a nod for Game of the Year.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/gta-6-leads-the-game-awards-2026-with-eight-nominations"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-14.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-18T09:12:10.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "a1b4328efa01",
-    "slug": "elon-musks-mother-is-promoting-a-dress-up-gacha-game-for-some-reason",
-    "headline": " Elon Musk's mother is promoting a dress-up gacha game, for some reason ",
-    "summary": "I mean, sure.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/adventure/elon-musks-mother-is-promoting-a-dress-up-gacha-game-for-some-reason/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/npMeRV7W8ViqsgYNKrw33o-1920-80.jpg",
-    "published_at": "2026-11-18T09:11:49.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
