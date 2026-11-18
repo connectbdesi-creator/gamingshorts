@@ -28445,5 +28445,87 @@
     ],
     "stores": [],
     "fetched_at": "2026-11-18T11:06:55.535Z"
+  },
+  {
+    "slug": "the-finals",
+    "name": "The Finals",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/fa2/fa28280bb6f7bec50b94bc821d412795.jpg",
+    "released": "2023-12-07",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a41/a41a053fbf12f4e8254fa0e65cb0eaf4.jpg",
+      "https://media.rawg.io/media/screenshots/8fd/8fd5fc6c20493e0a37046d4ad941e6eb.jpg",
+      "https://media.rawg.io/media/screenshots/4ab/4ab08acb3158632300e5069b06067956.jpg",
+      "https://media.rawg.io/media/screenshots/c46/c46f0e09079470e21c30cfe8ff9c956a.jpg",
+      "https://media.rawg.io/media/screenshots/ba2/ba22618c64848d0a0a07962b0c367e7d.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-18T19:39:18.469Z"
+  },
+  {
+    "slug": "the-elder-scrolls-online",
+    "name": "The Elder Scrolls Online",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/1af/1af8786543bcd0ec61a509604902a41f.jpg",
+    "released": "2014-04-04",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/b38/b3882cd012c4fa888fad01e4071abcf4.jpg",
+      "https://media.rawg.io/media/screenshots/3b3/3b310ba93202c978dbe23aac4a0cb69d.jpg",
+      "https://media.rawg.io/media/screenshots/9ab/9abd418f264b7957a4e57a6f1a3ca082.jpg",
+      "https://media.rawg.io/media/screenshots/048/0486979a93b15fa6d87d84f2e17e5903.jpg",
+      "https://media.rawg.io/media/screenshots/1ff/1ff8be4b7be64a3fe9cbf9d94bde51c6.jpg",
+      "https://media.rawg.io/media/screenshots/7f1/7f155d0ebd92f9b0186395242ecffceb.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-18T19:39:21.636Z"
+  },
+  {
+    "slug": "arknights-endfield",
+    "name": "Arknights: Endfield",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/6da/6da7a407b0d98c5346a544c00061f754.jpg",
+    "released": "2026-01-22",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "iOS",
+      "Android"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a4e/a4ee62536c41fc4285e782452d547d6e.jpg",
+      "https://media.rawg.io/media/screenshots/405/405771a6e1853afd4383de9c46ea79be.jpg",
+      "https://media.rawg.io/media/screenshots/6dd/6dd701d9c532b425424c483f0fcfc1ac.jpg",
+      "https://media.rawg.io/media/screenshots/e60/e607ba324644685d6d3b573b7a5cba7b.jpg",
+      "https://media.rawg.io/media/screenshots/6da/6da7a407b0d98c5346a544c00061f754.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-18T19:39:23.939Z"
   }
 ]
