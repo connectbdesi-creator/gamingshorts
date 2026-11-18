@@ -1,5 +1,71 @@
 [
   {
+    "id": "d2a6be41eb03",
+    "slug": "review-gta-6-xbox",
+    "headline": "Review: GTA 6 (Xbox)",
+    "summary": "Review of Grand Theft Auto 6, the latest installment in the iconic open-world series, on Xbox, calling it the most breathtaking game of all time.",
+    "category": "reviews",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/reviews/xbox-series-x/grand-theft-auto-6"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-15-minutes-of-first-mission-gameplay"
+      },
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/gta-6-fast-travel-explained-how-to-fast-travel-in-gta-6/"
+      },
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/gta-6-prologue-mission-walkthrough/"
+      },
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-has-a-hilarious-riff-on-easter-eggs/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-how-weapons-work/"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/fa08a34c7283f/large.jpg",
+    "published_at": "2026-11-18T20:28:07.000Z",
+    "hype_signal": 90,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
+    "id": "fbb4fb284627",
+    "slug": "homura-hime-coming-to-ps5-in-2027",
+    "headline": "Homura Hime Coming to PS5 in 2027",
+    "summary": "Japanese publisher PLAYISM is releasing 3D bullet hell action game Homura Hime with developer Crimson Dusk for the PS5 in 2027",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/homura-hime-coming-to-ps5-in-2027"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/fbb4fb284627/800/600",
+    "published_at": "2026-11-18T20:05:22.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "homura-hime",
+    "game_label": "Homura Hime"
+  },
+  {
     "id": "b1a6981c53e4",
     "slug": "final-fantasy-7-characters-have-official-star-wars-connection",
     "headline": "Final Fantasy 7 Characters Have Official Star Wars Connection",
@@ -19,6 +85,54 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "bf303cf1c6cd",
+    "slug": "devgamm-awards-2026-winners-revealed",
+    "headline": "DevGamm Awards 2026 Winners Revealed",
+    "summary": "The 3rd annual DevGAMM Awards took place today, November 18, in Lisbon, Portugal, and celebrated 70 nominated games from 25 countries across 17 award categories. You can check out all of the winners right here, including Phonopolis, the game that led the way by securing both the Grand Prize and Excellence in Visual Art award.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/devgamm-awards-2026-winners-revealed"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/18/devegam-1792624866535-1795013597166.png",
+    "published_at": "2026-11-18T20:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6aa334c74229",
+    "slug": "xbox-promotes-gta-6-with-default-background",
+    "headline": "Xbox Promotes GTA 6 with Default Background",
+    "summary": "Xbox has set a default background on the console for GTA 6, promoting the game to users who visit the Xbox dashboard today.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/xbox-unveils-new-halo-background-and-default-event-background-for-gta-6"
+      },
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/how-xboxs-streaming-deal-for-gta-6-could-expand-its-marketshare-by-30/"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/94e97d78794fd/large.jpg",
+    "published_at": "2026-11-18T19:53:58.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "0f1839edc47e",
@@ -371,45 +485,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "d2a6be41eb03",
-    "slug": "review-gta-6-xbox",
-    "headline": "Review: GTA 6 (Xbox)",
-    "summary": "Review of Grand Theft Auto 6, the latest installment in the iconic open-world series, on Xbox, calling it the most breathtaking game of all time.",
-    "category": "reviews",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/reviews/xbox-series-x/grand-theft-auto-6"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6-15-minutes-of-first-mission-gameplay"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/gta-6-fast-travel-explained-how-to-fast-travel-in-gta-6/"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/gta-6-prologue-mission-walkthrough/"
-      },
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gta-6-has-a-hilarious-riff-on-easter-eggs/"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/fa08a34c7283f/large.jpg",
-    "published_at": "2026-11-18T18:49:38.000Z",
-    "hype_signal": 90,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gta-6",
-    "game_label": "GTA 6"
   },
   {
     "id": "707277d3aec8",
@@ -910,6 +985,29 @@
     "game_label": "Grand Theft Auto 6"
   },
   {
+    "id": "416010e13476",
+    "slug": "how-to-get-a-parachute-in-gta-6-buy-before-you-fly",
+    "headline": "How to get a parachute in GTA 6: Buy before you fly",
+    "summary": "PC Gamer provides tips on acquiring parachutes in Grand Theft Auto 6, allowing players to navigate the game's world with more control.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-parachute-how-to-get/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/mnt9JkyWF2kKne4zyqEG2n-1920-80.jpg",
+    "published_at": "2026-11-18T18:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
     "id": "68632bbcb9b7",
     "slug": "gta-6-is-highest-rated-game-of-all-time",
     "headline": "GTA 6 Is Highest-Rated Game of All Time",
@@ -933,29 +1031,6 @@
     "comment_count": 0,
     "game": "gta-6",
     "game_label": "GTA 6"
-  },
-  {
-    "id": "6aa334c74229",
-    "slug": "xbox-promotes-gta-6-with-default-background",
-    "headline": "Xbox Promotes GTA 6 with Default Background",
-    "summary": "Xbox has set a default background on the console for GTA 6, promoting the game to users who visit the Xbox dashboard today.",
-    "category": "industry",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/11/xbox-unveils-new-halo-background-and-default-event-background-for-gta-6"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/94e97d78794fd/large.jpg",
-    "published_at": "2026-11-18T18:00:00.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "0f65dbb05e53",
@@ -983,6 +1058,31 @@
     "comment_count": 0,
     "game": "grand-theft-auto-6",
     "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "8aac03b2538c",
+    "slug": "how-to-get-60-fps-in-gta-6",
+    "headline": "How to Get 60 FPS in GTA 6",
+    "summary": "With Frame Generation and a PC, you can play GTA 6 in 60 FPS. Here's what you need to do.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-60-fps-guide-pc-frame-generation/"
+      },
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-save-game/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/how-to-get-60-fps-in-gta-6-with-pc-frame-generation.jpg",
+    "published_at": "2026-11-18T18:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "4eb46d47ada6",
@@ -2680,27 +2780,6 @@
     "game_label": null
   },
   {
-    "id": "8aac03b2538c",
-    "slug": "how-to-get-60-fps-in-gta-6",
-    "headline": "How to Get 60 FPS in GTA 6",
-    "summary": "With Frame Generation and a PC, you can play GTA 6 in 60 FPS. Here's what you need to do.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-60-fps-guide-pc-frame-generation/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/how-to-get-60-fps-in-gta-6-with-pc-frame-generation.jpg",
-    "published_at": "2026-11-18T14:00:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
     "id": "c37ca2d05768",
     "slug": "voicemod-brings-real-time-voice-skins-directly-into-league-of-legends",
     "headline": "Voicemod brings real-time voice skins directly into League of Legends",
@@ -3353,6 +3432,33 @@
     "game_label": null
   },
   {
+    "id": "c68f6f1ae37c",
+    "slug": "most-profitable-steam-games-run-on-consoles",
+    "headline": "Most Profitable Steam Games Run on Consoles",
+    "summary": "A survey by Ven Studio found that only 4.1% of Steam games have console versions, yet they generate nearly 70% of revenue on the platform.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox",
+      "playstation",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/survey-suggests-only-4-1-of-steam-games-have-console-versions-but-they-account-for-nearly-70-of-revenue/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/c68f6f1ae37c/800/600",
+    "published_at": "2026-11-18T12:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "5344414969a1",
     "slug": "gta-6-first-reviews-out",
     "headline": "GTA 6 First Reviews Out",
@@ -3857,6 +3963,29 @@
     "comment_count": 0,
     "game": "gamerant-daily-crossword",
     "game_label": "GameRant Daily Crossword"
+  },
+  {
+    "id": "33dab17ca2c0",
+    "slug": "attention-addicted-neet-is-a-dark-visual-novel-following-a-shut-in-gir",
+    "headline": "Attention Addicted NEET is a dark visual novel following a shut-in girl obsessed with social media clout ",
+    "summary": "The game is currently in development for Steam.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/attention-addicted-neet-is-a-dark-visual-novel-following-a-shut-in-girl-obsessed-with-social-media-clout/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/33dab17ca2c0/800/600",
+    "published_at": "2026-11-18T11:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "7d676e78bf7f",
@@ -4370,6 +4499,27 @@
     "game_label": null
   },
   {
+    "id": "76c4ab5def8f",
+    "slug": "mihoyo-develops-ai-model-that-can-play-complex-games-like-honkai-star",
+    "headline": "miHoYo develops AI model that can play complex games like Honkai: Star Rail just like a human would, with mouse and keyboard inputs ",
+    "summary": "The project is being headed by the Honkai AI R&D Team, in collaboration with researchers from the National University of Singapore and Tsinghua University.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/mihoyo-develops-ai-model-that-can-play-complex-games-like-honkai-star-rail-just-like-a-human-would-with-mouse-and-keyboard-inputs/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/76c4ab5def8f/800/600",
+    "published_at": "2026-11-18T10:04:57.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "fc8f02ad924b",
     "slug": "grand-theft-auto-to-save-console-gaming-market",
     "headline": "Grand Theft Auto to Save Console Gaming Market",
@@ -4559,6 +4709,27 @@
     "game_label": null
   },
   {
+    "id": "c615d2e24409",
+    "slug": "astrae-oratio-unveils-tokusatsu-obsessed-denpa-girl-who-swears-she-can",
+    "headline": "Astrae Oratio unveils tokusatsu-obsessed “denpa girl” who swears she can communicate with kaiju in latest character showcase ",
+    "summary": "The game's most recent character showcases have exploded in popularity.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/astrae-oratio-unveils-tokusatsu-obsessed-denpa-girl-who-swears-she-can-communicate-with-kaiju-in-latest-character-showcase/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/c615d2e24409/800/600",
+    "published_at": "2026-11-18T09:08:50.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "dee74dbeb6c5",
     "slug": "how-to-build-a-welcoming-company-culture-in-times-of-turmoil",
     "headline": "How to build a welcoming company culture in times of turmoil",
@@ -4649,174 +4820,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "4c2539183059",
-    "slug": "project-rabbits-dark-fantasy-soulslike-gets-new-trailer-showcasing-com",
-    "headline": "Project Rabbit's Dark Fantasy Soulslike Gets New Trailer Showcasing Combat",
-    "summary": "A new trailer for Project Rabbit has been released, showcasing the game's dark fantasy combat mechanics.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/alice-in-wonderland-style-dark-fantasy-soulslike-project-rabbit-gets-new-trailer-showcasing-combat/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/4c2539183059/800/600",
-    "published_at": "2026-11-18T06:56:43.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "project-rabbit",
-    "game_label": "Project Rabbit"
-  },
-  {
-    "id": "14bde1e0ff3c",
-    "slug": "spyros-new-adventure-seemingly-teased-for-the-game-awards-2026",
-    "headline": "Spyro's New Adventure Seemingly Teased For The Game Awards 2026",
-    "summary": "Taking flight next year.\nEarlier this year, Activision and Toys for Bob lifted the lid on Spyro: A Realm Beyond for the Switch 2 and other platforms.\nFollowing the announcement trailer in June, it seems the next look at the game might be at The Game Awards 2026, airing next month on 10th December.\nRead the full article on nintendolife.com",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/11/spyros-new-adventure-seemingly-teased-for-the-game-awards-2026"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/17184805286a9/large.jpg",
-    "published_at": "2026-11-18T05:55:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "35c3d30f20c4",
-    "slug": "crystal-dynamics-cuts-even-more-developers-as-it-prepares-to-ship-two",
-    "headline": "Crystal Dynamics Cuts Even More Developers As It Prepares To Ship Two Massive Tomb Raider Games",
-    "summary": "Crystal Dynamics has laid off more developers as it prepares to release two massive Tomb Raider games, its fifth layoff in over a year.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/crystal-dynamics-cuts-even-more-developers-as-it-prepares-to-ship-two-massive-tomb-raider-games-my-first-layoff-in-14-years-2000757917"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/06/tomb-raider-pr-1280x720.jpg",
-    "published_at": "2026-11-18T05:05:56.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "tomb-raider",
-    "game_label": "Tomb Raider"
-  },
-  {
-    "id": "b01e9d316a39",
-    "slug": "magic-the-gatherings-10-best-uncommon-star-trek-cards-ranked",
-    "headline": "Magic: The Gathering’s 10 Best Uncommon Star Trek Cards, Ranked",
-    "summary": "The most underrated uncommon cards from Magic's Star Trek set that deserve a place in your collection.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/mtg-best-star-trek-uncommon-magic-the-gathering-cards/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/70-000-light-years-from-home-art-1.jpg",
-    "published_at": "2026-11-18T05:00:18.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "90a9a294943c",
-    "slug": "guide-stage-tour-all-songs-list-full-tracklist-every-confirmed-artist",
-    "headline": "Guide: Stage Tour All Songs List - Full Tracklist, Every Confirmed Artist",
-    "summary": "For a song. Stage Tour launches on 10th December 2026, bringing the rhythm-based musical gameplay of classics like Rock Band and Guitar Hero series back on modern consoles, including Switch 2. For those of you looking forward to shredding on a plastic axe, here's a list of all songs in Stage Tour as revealed by developer Red Octane. Read the…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/guides/stage-tour-all-songs-list-full-tracklist-every-confirmed-artist"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/8505e1d0e1c55/large.jpg",
-    "published_at": "2026-11-18T05:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "14493ffff5a9",
-    "slug": "hd-2d-style-game-development-tool-rpg-maker-u2u-set-to-release-on-janu",
-    "headline": "HD-2D-style game development tool RPG Maker U2U set to release on January 28, 2027 ",
-    "summary": "A demo for the P2D Map Editor is available on Steam.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Automaton",
-        "url": "https://automaton-media.com/en/news/hd-2d-style-game-development-tool-rpg-maker-u2u-set-to-release-on-january-28-2027/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/14493ffff5a9/800/600",
-    "published_at": "2026-11-18T04:44:02.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "dff38bc3b1a7",
-    "slug": "2026-esports-awards-winners-revealed-in-miami-ahead-of-gta-vi-launch",
-    "headline": "2026 Esports Awards Winners Revealed in Miami Ahead of GTA VI Launch",
-    "summary": "The 2026 Esports Awards ceremony took place in Miami, honoring esports achievements. The event coincided with the announcement of Grand Theft Auto VI's esports launch, which will feature the 2026 Esports Awards winners.",
-    "category": "esports",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/the-2026-esports-awards-winners-revealed/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/dff38bc3b1a7/800/600",
-    "published_at": "2026-11-18T04:39:10.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-vi",
-    "game_label": "Grand Theft Auto VI"
   }
 ]
