@@ -1,5 +1,26 @@
 [
   {
+    "id": "abd5b0127068",
+    "slug": "gta-6-devs-are-worried-about-getting-laid-off-even-after-working-on-th",
+    "headline": " GTA 6 devs are \"worried about getting laid off\" even after \"working on the biggest game of all time\" ",
+    "summary": "Rockstar's budget doesn't \"represent a business model anyone else can or probably should emulate\"",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-devs-are-worried-about-getting-laid-off-even-after-working-on-the-biggest-game-of-all-time/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/QLpazr6y5eHDC7b3SDFkkh-1920-80.jpg",
+    "published_at": "2026-11-19T00:55:25.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "df12032f6608",
     "slug": "gta-6-officially-cuts-a-controversial-franchise-feature-after-25-years",
     "headline": "GTA 6 Officially Cuts A Controversial Franchise Feature After 25 Years",
@@ -129,6 +150,10 @@
       {
         "name": "GamesRadar+",
         "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-index-how-to-find-your-missions-objectives/"
+      },
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-how-to-fast-travel/"
       }
     ],
     "image_url": "https://cdn.mos.cms.futurecdn.net/dZxov54joa7TQG73D7XHxM-1920-80.png",
@@ -4823,35 +4848,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "46d077b0e685",
-    "slug": "gamerant-daily-crossword-mini-and-regular",
-    "headline": "GameRant Daily Crossword Mini and Regular",
-    "summary": "GameRant has released its Daily Crossword Mini and Regular for November 19, 2026, featuring bullet-time gunfights and Gothic street hunts with a fourth-wall-breaking twist.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/game/gamerant-daily-crossword-2026-11-19/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/game/gamerant-daily-crossword-mini-2026-11-19/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/game-rant-games-game-rant-daily-crossword-puzzle-site-banner-graphic.jpg",
-    "published_at": "2026-11-18T11:00:14.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gamerant-daily-crossword",
-    "game_label": "GameRant Daily Crossword"
   }
 ]
