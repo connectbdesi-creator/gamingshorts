@@ -1,26 +1,5 @@
 [
   {
-    "id": "4584a68396b0",
-    "slug": "call-of-duty-modern-warfare-4-debuts-as-top-selling-game-in-us-for-oct",
-    "headline": "Call of Duty: Modern Warfare 4 debuts as top-selling game in US for October 2026",
-    "summary": "Call of Duty: Modern Warfare 4 led US sales in October according to Circana, marking the 19th consecutive year a Call of Duty title has been the best-selling game during its launch month.\n Read more",
-    "category": "deals",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-debuts-as-top-selling-game-in-us-for-october-2026"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/cod-mw4.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-19T14:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
     "id": "e662c90d945d",
     "slug": "grand-theft-auto-6-is-now-available-on-xbox",
     "headline": "Grand Theft Auto 6 Is Now Available on Xbox",
@@ -37,15 +16,258 @@
       {
         "name": "Xbox Wire",
         "url": "https://news.xbox.com/en-us/2026/11/19/grand-theft-auto-vi-is-out-now/"
+      },
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/the-official-gta-6-map-is-now-available-to-download-for-free"
       }
     ],
     "image_url": "https://images.purexbox.com/3099f043d0d04/large.jpg",
-    "published_at": "2026-11-19T14:00:00.000Z",
+    "published_at": "2026-11-19T14:21:00.000Z",
     "hype_signal": 90,
     "like_count": 0,
     "comment_count": 0,
     "game": "grand-theft-auto-6",
     "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "b8008bf070e3",
+    "slug": "gamestop-ceo-slams-digital-only-games-ahead-of-gta-6-release",
+    "headline": "GameStop CEO Slams Digital-Only Games Ahead of GTA 6 Release",
+    "summary": "GameStop CEO criticizes the shift to all-digital game distribution, stating it harms consumers, as Grand Theft Auto 6 prepares for release without a physical disc",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/gamestop-ceo-criticizes-digital-only-games-gta-6-releases-without-a-disc-2000758233"
+      },
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/gta-6-discless-release-code-in-a-box-gamestop-ceo"
+      },
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-digital-release-has-gamestop-ceo-defending-physical-games-for-obvious-reasons/"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/11/Lucia-Caminos-GTA6-1280x720.jpg",
+    "published_at": "2026-11-19T14:15:21.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "df965ce95e88",
+    "slug": "resident-evil-requiem-drops-to-40-in-amazons-black-friday-sale-hitting",
+    "headline": "Resident Evil Requiem Drops to $40 in Amazon’s Black Friday Sale, Hitting New Low Price",
+    "summary": "As part of Amazon's Black Friday sale, Resident Evil Requiem has been discounted to $40 across PS5, Xbox Series X, and Nintendo Switch 2. That's $30 off its MSRP, and its lowest price to date.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/resident-evil-requiem-black-friday-deal"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/19/resident-evil-requiem-deal-1795092973867.jpg",
+    "published_at": "2026-11-19T14:11:42.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "da7a75106dd2",
+    "slug": "warren-spector-lambasts-gta-6s-billion-dollar-development-i-just-hope",
+    "headline": "Warren Spector lambasts GTA 6's \"billion dollar\" development - 'I just hope it's is the last of its kind even if it's the best we have to offer'",
+    "summary": "As GTA 6 finally arrives, increasingly outspoken games industry legend Warren Spector - known for seminal immersive sims including Deus Ex - has offered both praise for the game's achievements and lambasted its \"billion dollar\" development model, writing, \"I just hope GTA 6 is the last of its kind even if it’s the best we have to offer\".\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/gta-6-warren-spector-lambasts-billion-dollar-development"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/gta-6-cash.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-19T14:08:40.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "206bce19f3da",
+    "slug": "as-rockstars-alleged-union-busting-tribunal-hearing-comes-to-a-close-a",
+    "headline": "As Rockstar's alleged \"union busting\" tribunal hearing comes to a close amid GTA 6 launch, judge pledges to deliver verdict \"as quickly as I possibly can\"",
+    "summary": "Closing statements in Rockstar and IWGB's employment tribunal case - revolving around the GTA 6 developer's alleged 'union busting' and the firing of 34 employees - have now been read, bringing the hearing to an end. There's currently no timeline for a verdict, however, with one commentator suggesting a judgement could take weeks or months to arrive.\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/gta-6-rockstar-tribunal-awaits-verdict"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/grand-theft-auto-6-lucia-lifting-weights.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-19T14:08:10.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7541b19cdc8d",
+    "slug": "despite-the-pricing-hellscape-console-sales-grew-in-october",
+    "headline": "Despite The Pricing Hellscape, Console Sales Grew In October",
+    "summary": "Video game consoles are more expensive than ever, but sales are growing regardless, at least in the US. Circana has released its report for US video game industry sales in October, confirming that PS5 unit sales increased by 5% compared to October 2025. That's despite the average selling price of a PS5 increasing by 13%. https://www.youtube.com/watch?v=4FatSqS3VYY Xbox Series X|S unit…",
+    "category": "deals",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/despite-the-pricing-hellscape-console-sales-grew-in-october/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/XboxNew.png?w=300",
+    "published_at": "2026-11-19T14:07:46.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "308fe09cea78",
+    "slug": "xbox-hardware-sales-finally-saw-a-major-surge-ahead-of-gta-in-the-us",
+    "headline": "Xbox Hardware Sales Finally Saw A Major Surge Ahead Of GTA In The U.S.",
+    "summary": "'Gears and GTA may have provided at least a temporary reprieve'",
+    "category": "deals",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/xbox-hardware-finally-saw-major-surge-gta-us-2000758382"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2025/03/245526aac0e918cb958d1cb426944441-1280x647.jpg",
+    "published_at": "2026-11-19T14:04:18.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "4584a68396b0",
+    "slug": "call-of-duty-modern-warfare-4-debuts-as-top-selling-game-in-us-for-oct",
+    "headline": "Call of Duty: Modern Warfare 4 debuts as top-selling game in US for October 2026",
+    "summary": "Call of Duty: Modern Warfare 4 led US sales in October according to Circana, marking the 19th consecutive year a Call of Duty title has been the best-selling game during its launch month.\n Read more",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-debuts-as-top-selling-game-in-us-for-october-2026"
+      },
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-october-top-seller"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/cod-mw4.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-19T14:01:40.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9c905c9065d4",
+    "slug": "hunger-games-author-suzanne-collins-is-very-involved-with-the-films-sa",
+    "headline": " Hunger Games author Suzanne Collins is \"very involved\" with the films, says Sunrise on the Reaping director ",
+    "summary": "Exclusive: Francis Lawrence breaks down Suzanne Collins's behind the scenes involvement in The Hunger Games: Sunrise on the Reaping",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/action-movies/hunger-games-author-suzanne-collins-is-very-involved-for-probably-hundreds-of-hours-with-the-films-says-sunrise-on-the-reaping-director/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/wxpebwvZ5FGFtjQzN5KzZM-1920-80.jpg",
+    "published_at": "2026-11-19T14:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3a327361a29c",
+    "slug": "gta-6s-opening-two-hours-teach-you-everything-youll-ever-need-to-know",
+    "headline": "GTA 6’s Opening Two Hours Teach You Everything You’ll Ever Need To Know About the Next 100",
+    "summary": "GTA 6 has a slower, more deliberate opening than previous GTA games, but it's the perfect introduction to this 100 hour adventure.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6s-opening-two-hours-teach-you-everything-youll-ever-need-to-know-about-the-next-100"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/19/opening-hours-blog-a-1795087788135.jpg",
+    "published_at": "2026-11-19T14:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a03f3a9b18d0",
+    "slug": "free-play-days-try-these-xbox-games-for-free-november-19-22",
+    "headline": "Free Play Days: Try These Xbox Games For Free (November 19-22)",
+    "summary": "Download and try these games for free this weekend. It's Thursday, which means it's time for your latest batch of Xbox Free Play Days titles! So far, we know of three games in the lineup, thanks to some digging from Redditor Oliomono. They're usually on the money, but there's always a chance Xbox will add another one or two games…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/free-play-days-try-these-xbox-games-for-free-november-19-22"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/ea55f81141964/large.jpg",
+    "published_at": "2026-11-19T14:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "956319f2fb6f",
@@ -304,37 +526,6 @@
     "comment_count": 0,
     "game": "grand-theft-auto-vi",
     "game_label": "Grand Theft Auto VI"
-  },
-  {
-    "id": "b8008bf070e3",
-    "slug": "gamestop-ceo-slams-digital-only-games-ahead-of-gta-6-release",
-    "headline": "GameStop CEO Slams Digital-Only Games Ahead of GTA 6 Release",
-    "summary": "GameStop CEO criticizes the shift to all-digital game distribution, stating it harms consumers, as Grand Theft Auto 6 prepares for release without a physical disc",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/gamestop-ceo-criticizes-digital-only-games-gta-6-releases-without-a-disc-2000758233"
-      },
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/gta-6-discless-release-code-in-a-box-gamestop-ceo"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/11/Lucia-Caminos-GTA6-1280x720.jpg",
-    "published_at": "2026-11-19T13:03:30.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "4c70cbc8b183",
@@ -4655,192 +4846,5 @@
     "comment_count": 0,
     "game": "wuthering-waves",
     "game_label": "Wuthering Waves"
-  },
-  {
-    "id": "35243f7eef87",
-    "slug": "the-15-best-black-friday-nintendo-switch-2-deals-already-in-action-ahe",
-    "headline": " The 15 best Black Friday Nintendo Switch 2 deals already in action ahead of Ninty's November 22 start date ",
-    "summary": "Nintendo's official Black Friday Switch 2 deals don't land until November 22, here's what's up for grabs right now.",
-    "category": "deals",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/platforms/nintendo-switch-2/top-early-black-friday-nintendo-switch-2-deals-in-2026/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/hg8A5u5PUhuuBwPHy8QzbF-1920-80.jpg",
-    "published_at": "2026-11-18T16:31:22.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "31a5d4e0566e",
-    "slug": "kingdom-hearts-4-snubbed-for-most-anticipated-at-the-game-awards",
-    "headline": "Kingdom Hearts 4 Snubbed For Most Anticipated At The Game Awards",
-    "summary": "I know I'm biased, but come on.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/kingdom-hearts-4-the-game-awards-most-anticipated-snubbed/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/kingdomhearts4soracloseup.jpg",
-    "published_at": "2026-11-18T16:23:26.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "28342ee873d0",
-    "slug": "blade-runner-2099-producers-in-talks-for-aaa-game",
-    "headline": "Blade Runner 2099 Producers in Talks for 'AAA' Game",
-    "summary": "GamesRadar+ reports that Blade Runner 2099 producers are discussing a new game based on the cinematic cyberpunk universe, potentially with AAA studio involvement.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/blade-runner-2099-producers-in-talks-for-aaa-game-based-on-the-cinematic-cyberpunk-universe/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/DgFwVB2qofbe3KJj34PmBZ-1920-80.jpg",
-    "published_at": "2026-11-18T16:21:04.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "blade-runner-2099",
-    "game_label": "Blade Runner 2099"
-  },
-  {
-    "id": "33db6319acd0",
-    "slug": "tgas-nominating-a-game-thats-been-left-to-die-shows-what-a-weak-year-i",
-    "headline": "TGAs Nominating A Game That’s Been Left To Die Shows What A Weak Year It Was for Fighting Games",
-    "summary": "Of the five nominees, one is dead and one is on developmental life support",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/tgas-nominating-a-game-thats-been-left-to-die-shows-what-a-weak-year-it-was-for-fighting-games-2000758022"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/02/2XKO-alt-1280x745.jpg",
-    "published_at": "2026-11-18T16:15:25.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0ece7e57184e",
-    "slug": "gta-6-causes-technical-issues-on-official-reddit-page",
-    "headline": "GTA 6 Causes Technical Issues on Official Reddit Page",
-    "summary": "Grand Theft Auto 6 is generating buzz before its release, causing issues on its official Reddit page",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/grand-theft-auto-6-breaks-reddit-not-out-yet"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/reddit-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-18T16:07:50.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "2fb1a44a095c",
-    "slug": "you-can-now-order-mcdonalds-through-discord",
-    "headline": "You Can Now Order McDonald's Through Discord",
-    "summary": "Discord launches a new app allowing users to order McDonald's food directly, integrating the popular platform with food delivery",
-    "category": "deals",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/you-can-now-order-mcdonalds-through-discord"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/18/discordmcdonalds-1-1795013686199.jpg",
-    "published_at": "2026-11-18T16:03:14.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f8d2ddae6b07",
-    "slug": "8bitdo-reveals-its-own-gamecube-controller-for-switch-2",
-    "headline": "8BitDo Reveals Its Own GameCube Controller For Switch 2",
-    "summary": "And it's more affordable than Nintendo's.\n8BitDo, known for its work in providing excellent retro-inspired controllers for modern systems, has announced the GC Bluetooth Gamepad to celebrate the GameCube's 25th anniversary. It's currently scheduled to launch on 10th December 2026.\nCompatible with Switch, Switch 2, and Windows, the GC controller maintains the core shape and layout of the iconic Gam",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/11/8bitdo-reveals-its-own-gamecube-controller-for-switch-2"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/758e8b2543372/large.jpg",
-    "published_at": "2026-11-18T16:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "312050bb1638",
-    "slug": "gta-6-base-ps5-performance-suffers-frame-rate-drops-but-ps5-pro-is-bes",
-    "headline": "GTA 6 Base PS5 Performance Suffers Frame Rate Drops, But PS5 Pro is Best",
-    "summary": "Digital Foundry tested GTA 6 on PS5 and PS5 Pro consoles, finding that the PS5 Pro has a smoother experience due to its improved hardware. The standard PS5 console also has frame rate drops, but they are minor and sustained.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/gta-6-base-ps5-performance-suffers-minor-and-sustained-frame-rate-drops-but-its-unwavering-on-ps5-pro"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/c1bbd6bf78ac4/large.jpg",
-    "published_at": "2026-11-18T16:00:00.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gta-6",
-    "game_label": "GTA 6"
   }
 ]
