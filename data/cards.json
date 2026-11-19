@@ -1,21 +1,91 @@
 [
   {
-    "id": "65ae876f85b3",
-    "slug": "how-well-does-gta-6-run-on-xbox-series-s",
-    "headline": "How Well Does GTA 6 Run On Xbox Series S",
-    "summary": "GTA 6 doesn't just function on Xbox Series S. It runs so well that people don't understand how Rockstar has pulled it off.",
-    "category": "releases",
+    "id": "b8008bf070e3",
+    "slug": "gamestop-ceo-slams-digital-only-games-ahead-of-gta-6-release",
+    "headline": "GameStop CEO Slams Digital-Only Games Ahead of GTA 6 Release",
+    "summary": "GameStop CEO criticizes the shift to all-digital game distribution, stating it harms consumers, as Grand Theft Auto 6 prepares for release without a physical disc",
+    "category": "industry",
     "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/gamestop-ceo-criticizes-digital-only-games-gta-6-releases-without-a-disc-2000758233"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/11/Lucia-Caminos-GTA6-1280x720.jpg",
+    "published_at": "2026-11-19T11:30:22.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "07e227d7c209",
+    "slug": "tom-hiddleston-explains-how-the-avengers-endgame-encore-ending-may-not",
+    "headline": " Tom Hiddleston explains how the Avengers: Endgame Encore ending may not undo Loki's TV show ending ",
+    "summary": "Loki showing up in Avengers: Doomsday might not undermine the Loki TV show ending",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/marvel-movies/tom-hiddleston-explains-how-the-avengers-endgame-encore-ending-may-not-undo-lokis-tv-show-ending/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/YQvBHd2ufmQccUcxmCMGv-1920-80.jpg",
+    "published_at": "2026-11-19T11:21:24.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5fe02893131b",
+    "slug": "baldurs-gate-3-dev-weighs-in-on-gta-6-suggests-not-every-game-needs-to",
+    "headline": "Baldur's Gate 3 Dev Weighs In on GTA 6, Suggests Not Every Game Needs to Be Grand Theft Auto",
+    "summary": "Baldur's Gate 3 developer responds to controversy surrounding Grand Theft Auto 6, stating that not every game needs to emulate GTA's style",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
       "xbox"
     ],
     "sources": [
       {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/gta-6-xbox-series-s/"
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/not-every-game-needs-to-be-gta-baldurs-gate-3-dev-says-grand-theft-auto-6-is-a-rare-cultural-moment-but-theres-still-space-for-other-types-of-experiences/"
       }
     ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/11/new-project-2026-11-19t075929-682.jpg",
-    "published_at": "2026-11-19T09:26:45.000Z",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/q9VEvTmjqXdkuDN5ZDPPxh-1920-80.jpg",
+    "published_at": "2026-11-19T11:05:42.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "baldurs-gate-3",
+    "game_label": "Baldur's Gate 3"
+  },
+  {
+    "id": "945417d1b683",
+    "slug": "all-gta-6-smartphone-apps-and-what-they-do",
+    "headline": "All GTA 6 Smartphone Apps And What They Do",
+    "summary": "Grand Theft Auto games have regularly kept up with the times, and in GTA 6, you once again have a smartphone that you can use to interact with the world around you. From getting new missions to goofing off by wasting some in-game time on social media, the smartphone in GTA 6 is a pretty handy tool for rising up…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/all-gta-6-smartphone-apps-and-what-they-do/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/1a1f3560f7889-screenshotUrl.jpg?w=300",
+    "published_at": "2026-11-19T11:03:39.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
@@ -63,15 +133,299 @@
       {
         "name": "VGC",
         "url": "https://www.videogameschronicle.com/guide/gta-6-podcasts-explained-how-to-listen-to-podcasts-in-gta-6/"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-what-to-do-first-how-to-get-started/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-online-mode/"
       }
     ],
     "image_url": "https://cdn.mos.cms.futurecdn.net/dZxov54joa7TQG73D7XHxM-1920-80.png",
-    "published_at": "2026-11-19T09:17:53.000Z",
+    "published_at": "2026-11-19T11:01:18.000Z",
     "hype_signal": 70,
     "like_count": 0,
     "comment_count": 0,
     "game": "grand-theft-auto-6",
     "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "db26202be536",
+    "slug": "riolu-life-size-plush-hits-china-on-november-20",
+    "headline": "Riolu Life-Size Plush Hits China on November 20",
+    "summary": "The Pokémon company will release a life-size Riolu plush in China on November 20, but it will be exclusive to the Chinese market.",
+    "category": "releases",
+    "platform_tags": [
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/pokemon-life-size-riolu-plush/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/new-project-2026-11-19t100043-859.jpg",
+    "published_at": "2026-11-19T11:00:18.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pokemon",
+    "game_label": "Pokemon"
+  },
+  {
+    "id": "046141083a82",
+    "slug": "gamerant-daily-crossword-november-20-2026",
+    "headline": "GameRant Daily Crossword (November 20, 2026)",
+    "summary": "Ride across windswept feudal islands and collect glowing human souls with today's GameRant Daily Crossword.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/game/gamerant-daily-crossword-2026-11-20/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/game-rant-games-game-rant-daily-crossword-puzzle-site-banner-graphic.jpg",
+    "published_at": "2026-11-19T11:00:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "86555212fe5b",
+    "slug": "gamerant-daily-crossword-mini-november-20-2026",
+    "headline": "GameRant Daily Crossword Mini (November 20, 2026)",
+    "summary": "Sneak across plague-ridden rooftops and challenge the ruler of Stormveil Castle with today's mini video game crossword.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/game/gamerant-daily-crossword-mini-2026-11-20/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/game-rant-games-game-rant-daily-crossword-puzzle-mini-site-banner-graphic.jpg",
+    "published_at": "2026-11-19T11:00:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "aecc1699832c",
+    "slug": "name-that-game-november-20-2026",
+    "headline": "Name That Game (November 20, 2026)",
+    "summary": "Clean up Isle Delfino as Mario and slay Norse mythic beasts as Kratos with today's Name That Game quiz.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/game/name-that-game-2026-11-20/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/game-rant-games-name-that-game-site-banner-graphic.jpg",
+    "published_at": "2026-11-19T11:00:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7aaca0be1dc6",
+    "slug": "microsoft-polls-users-after-plastering-gta-6-artwork-over-xbox-custom",
+    "headline": "Microsoft Polls Users After Plastering GTA 6 Artwork Over Xbox Custom Dashboard Backgrounds",
+    "summary": "Xbox is asking for feedback on its controversial Event Backgrounds, after plastering GTA 6 artwork over users' custom console dashboards.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/microsoft-polls-users-after-plastering-gta-6-artwork-over-xbox-custom-dashboard-backgrounds"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/19/untitled-1-1795085988612.jpg",
+    "published_at": "2026-11-19T11:00:09.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e662c90d945d",
+    "slug": "grand-theft-auto-6-is-now-available-on-xbox",
+    "headline": "Grand Theft Auto 6 Is Now Available on Xbox",
+    "summary": "Rockstar Games has released Grand Theft Auto 6 on Xbox consoles, marking a highly anticipated generational release after 13 years.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/five-xbox-games-are-releasing-today-including-the-big-one-you-probably-know-about-november-19"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/3099f043d0d04/large.jpg",
+    "published_at": "2026-11-19T11:00:00.000Z",
+    "hype_signal": 90,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "f2b75eda47e1",
+    "slug": "gta-6-jason-lucia-relationship-levels-explained-how-to-improve-jason-a",
+    "headline": "GTA 6 Jason & Lucia Relationship Levels explained: How to improve Jason and Lucia's relationship",
+    "summary": "The article provides tips on how to improve Jason and Lucia's relationship in GTA 6, helping players strengthen their bond and unlock new storylines.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/gta-6-jason-lucia-relationship-levels-explained-how-to-improve-jason-and-lucias-relationship/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/f2b75eda47e1/800/600",
+    "published_at": "2026-11-19T10:33:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "fcda53a89191",
+    "slug": "the-future-of-british-gaming-is-more-than-just-games-opinion",
+    "headline": "The future of British gaming is more than just games | Opinion",
+    "summary": "The UK has one of the most creative and innovative video games industries in the world. From independent studios developing original ideas to established businesses creating globally recognised franchises, British developers have consistently shown that they can compete on the international stage.\n Read more",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/the-future-of-british-gaming-is-more-than-just-games-opinion"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Venus-Bluegenes-(Hayley-Atwell)-plays-chess-against-Helm-(Daryl-McCormack).png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-19T10:32:50.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "015353881362",
+    "slug": "the-xbox-series-s-version-of-gta-6-is-seemingly-the-first-to-use-amds",
+    "headline": "The Xbox Series S version of GTA 6 is seemingly the first to use AMD’s FSR 4.1 upscaling",
+    "summary": "It was announced last month that the new tech was coming to Xbox Series X/S consoles",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/the-xbox-series-s-version-of-gta-6-is-seemingly-the-first-to-use-amds-fsr-4-1-upscaling/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/015353881362/800/600",
+    "published_at": "2026-11-19T10:08:25.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0141fd50c395",
+    "slug": "guide-50-best-wii-games-of-all-time",
+    "headline": "Guide: 50 Best Wii Games Of All Time",
+    "summary": "Our guide to the best games on Wii. 19th November 2026 marks the 20th anniversary of Wii's Japanese launch, so it's the perfect time to revisit our list of the best games on the system. Keep an eye out for more Revolution-ary features coming later today and over the weekend! Nintendo changed the game with Wii, the little motion-controlled console…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/guides/50-best-wii-games-of-all-time"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/311f8ca8d5477/large.jpg",
+    "published_at": "2026-11-19T10:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f6e3a125d5b9",
+    "slug": "players-flock-to-share-gta-6-favourite-moments",
+    "headline": "Players Flock to Share GTA 6 Favourite Moments",
+    "summary": "Grand Theft Auto 6 players are sharing their funniest moments online, including slapstick violence and animal fatalities, after the game's launch.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/grand-theft-auto-6-players-love-crime-social-media-animals"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/grand-theft-auto-6-lucia-jason-masks.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-19T09:38:50.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "65ae876f85b3",
+    "slug": "how-well-does-gta-6-run-on-xbox-series-s",
+    "headline": "How Well Does GTA 6 Run On Xbox Series S",
+    "summary": "GTA 6 doesn't just function on Xbox Series S. It runs so well that people don't understand how Rockstar has pulled it off.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/gta-6-xbox-series-s/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/11/new-project-2026-11-19t075929-682.jpg",
+    "published_at": "2026-11-19T09:26:45.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "c513378f749c",
@@ -4486,352 +4840,5 @@
     "comment_count": 0,
     "game": "mindseye",
     "game_label": "MindsEye"
-  },
-  {
-    "id": "c3d99ccc95e6",
-    "slug": "gta-6-honor-system-how-your-criminal-profile-works",
-    "headline": "GTA 6 honor system: how your 'criminal profile' works ",
-    "summary": "Rockstar Games explains how your criminal profile works in Grand Theft Auto 6, including how it affects your gameplay and reputation system.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-criminal-profile-honor-system-explained/"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/how-to-change-characters-in-gta-6/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-save-game/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/m5LURxRUpGJUWXAXqXrBKF-1920-80.jpg",
-    "published_at": "2026-11-18T13:37:18.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "4e4d7165bd1a",
-    "slug": "clair-obscur-studio-has-lost-one-of-its-most-important-developers",
-    "headline": "Clair Obscur Studio Has Lost One of Its Most Important Developers",
-    "summary": "Plot twist. Jennifer Svedberg-Yen was the narrative lead on Clair Obscur: Expedition 33. She basically shaped the game's twisting and turning story, which many would argue is its greatest asset. And so it's a bit of a gut punch to hear that she actually left developer Sandfall Interactive earlier this year — meaning that, unless she's already helped establish some…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/clair-obscur-studio-has-lost-one-of-its-most-important-developers"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/f74008dbd5fd3/large.jpg",
-    "published_at": "2026-11-18T13:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f3ae93e4aa15",
-    "slug": "21-black-friday-ps5-deals-worth-snatching-for-an-extra-week-with-gta-6",
-    "headline": "21 Black Friday PS5 Deals Worth Snatching for an Extra Week with GTA 6",
-    "summary": "GamesRadar+ lists the best PS5 deals for Black Friday, including discounts on GTA 6, making them ideal for players looking to snag a deal during the holiday weekend.",
-    "category": "deals",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/platforms/ps5/these-are-the-21-black-friday-ps5-deals-worth-snatching-for-an-extra-week-with-gta-6/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ozoUDNRNEjVgbcfLYr5oH5-1920-80.jpg",
-    "published_at": "2026-11-18T13:27:09.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gta-6",
-    "game_label": "GTA 6"
-  },
-  {
-    "id": "04322953aa08",
-    "slug": "steamdb-will-add-affiliate-links-to-authorised-game-retailers-and-a-ne",
-    "headline": "SteamDB will add \"affiliate links to authorised game retailers\" and a new tab dedicated to mods, first update since Nexus Mods takeover confirms",
-    "summary": "In a first substantial update since acquiring SteamDB from its founders back in September, the owners of Nexus Mods have outlined some new additions coming to , the two sides in the deal have announced some additions coming to the community-run backend database. Affiliate links aimed at providing options to help folks find the cheapest price for a game and…",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/steamdb-will-add-affiliate-links-to-authorised-game-retailers-and-a-new-tab-dedicated-to-mods-first-update-since-nexus-mods-takeover-confirms"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/steamdb-update-post-nexus-mods-acquisition-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-18T13:25:50.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "98ed9329b361",
-    "slug": "gta-6-boosts-take-twos-stock-amid-positive-reviews",
-    "headline": "GTA 6 Boosts Take-Two's Stock Amid Positive Reviews",
-    "summary": "GTA 6 has finally launched in NZ and AU, sending Take-Two's share price soaring due to overwhelmingly positive reviews from critics.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gta-6-owner-take-twos-stock-explodes-after-high-review-scores-but-its-still-down-massively-this-year/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_19.jpg?w=300",
-    "published_at": "2026-11-18T13:16:55.000Z",
-    "hype_signal": 75,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "92c5911e5c03",
-    "slug": "amazon-slashes-10-off-control-resonant-in-early-black-friday-sale-drop",
-    "headline": "Amazon Slashes $10 off Control Resonant in Early Black Friday Sale, Dropping to Its Lowest Price Yet",
-    "summary": "Control Resonant (on PS5 and Xbox Series X) has been discounted to $50 at Amazon in early Black Friday sales. That's $10 off its MSRP and marks its lowest price yet.",
-    "category": "deals",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/amazon-slashes-10-off-control-resonant-in-early-black-friday-sale-dropping-to-its-lowest-price-yet"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/09/18/controlresonant-review-blogroll-1789695360175.jpg",
-    "published_at": "2026-11-18T13:01:17.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e1efcc712152",
-    "slug": "heres-what-gets-added-to-a-gta-game-right-before-launch",
-    "headline": "Here’s What Gets Added To A GTA Game Right Before Launch",
-    "summary": "Rockstar North head of production Rob Nelson shares the last bits and bobs that made it into GTA 6",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/heres-what-gets-added-to-a-gta-game-right-before-launch-2000757897"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/08/Lucia_Caminos_06-1280x720.jpg",
-    "published_at": "2026-11-18T13:00:10.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e2ee95705acd",
-    "slug": "feature-10-features-that-surprised-me-while-playing-gta-6-on-xbox-seri",
-    "headline": "Feature: 10 Features That Surprised Me While Playing GTA 6 On Xbox Series X",
-    "summary": "The fun stuff that cropped up along the way, avoiding major story spoilers. By now, you've hopefully had a chance to check out our review of GTA 6 for Xbox Series X elsewhere on Pure Xbox, and it exists because Rockstar gave us multiple weeks' worth of early access to the game ahead of release. <related ids=\"209018\"> Read the full…",
-    "category": "reviews",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/features/10-features-that-surprised-me-while-playing-gta-6-on-xbox-series-x"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/6821cb837e929/large.jpg",
-    "published_at": "2026-11-18T13:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "812c689a3ac8",
-    "slug": "amd-says-it-loves-gamers-only-weeks-after-proclaiming-it-is-a-datacent",
-    "headline": " AMD says it 'loves gamers' only weeks after proclaiming it is a datacenter-first company ",
-    "summary": "Someone, please, think of the gamers.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-says-it-loves-gamers-only-weeks-after-proclaiming-it-is-a-datacenter-first-company/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/HPZZoqVz3GyBbJX3DsQ4GR-1920-80.jpg",
-    "published_at": "2026-11-18T12:57:35.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b0e3dfa34637",
-    "slug": "sony-misses-out-on-a-game-awards-goty-nomination-for-the-first-time-in",
-    "headline": " Sony misses out on a Game Awards GOTY nomination for the first time in 12 years ",
-    "summary": "After 14 nominations and 3 wins",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/action/sony-misses-out-on-a-game-awards-goty-nomination-for-the-first-time-in-12-years-with-marvels-wolverine-saros-and-marathon-failing-to-continue-its-record-breaking-run/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/SFrYduvqVY2dBjvrHgZq84-1920-80.jpg",
-    "published_at": "2026-11-18T12:55:09.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9048abe0c7e9",
-    "slug": "coffee-stain-to-revive-bankrupt-chronicles-medieval",
-    "headline": "Coffee Stain to Revive Bankrupt Chronicles: Medieval",
-    "summary": "Coffee Stain Group buys Chronicles: Medieval IP, assets, and funds development after Raw Power Games bankruptcy",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/chronicles-medieval-devs-raw-power-are-bankrupt-but-their-sandbox-rpg-lives-on-at-a-new-studio-co-founded-by-satisfactory-devs-coffee-stain"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/chronicles-medieval-1.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-18T12:53:00.000Z",
-    "hype_signal": 30,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "chronicles-medieval",
-    "game_label": "Chronicles: Medieval"
-  },
-  {
-    "id": "cebca2d7430b",
-    "slug": "gta-6-will-never-get-a-60fps-update-on-playstation-pro-as-its-not-powe",
-    "headline": "GTA 6 Will Never Get a 60fps Update on PlayStation Pro as It's 'Not Powerful Enough'",
-    "summary": "There's bad news for any GTA 6 fans still hoping for a 60fps option on PlayStation 5 Pro.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6-will-never-get-a-60fps-update-on-playstation-pro-as-its-not-powerful-enough"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/18/gtavi-18-1795006209352.jpg",
-    "published_at": "2026-11-18T12:50:38.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "853c4a2f35be",
-    "slug": "crimson-desert-snubs-at-the-game-awards-are-a-terrible-shame-palworld",
-    "headline": " Crimson Desert snubs at The Game Awards are \"a terrible shame,\" Palworld lead says ",
-    "summary": "Crimson Desert was only nominated for one award",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/open-world/crimson-desert-snubs-at-the-game-awards-are-a-terrible-shame-palworld-lead-says-to-say-im-disappointed-would-be-an-understatement/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/D7Q4p44SNTDgUMeASDHj68-1920-80.jpg",
-    "published_at": "2026-11-18T12:31:59.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3ff38f233fab",
-    "slug": "how-wuthering-waves-brings-its-evolving-world-to-life-through-characte",
-    "headline": "How Wuthering Waves Brings Its Evolving World to Life Through Character Design, Music and Storytelling",
-    "summary": "Solaris-3 evolves with striking character design, cinematic game music and immersive storytelling.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/wuthering-waves-evolving-world-character-design-music-storytelling/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/3-8-wuthering-waves-illust.jpeg",
-    "published_at": "2026-11-18T12:30:19.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ab8379200f57",
-    "slug": "where-is-gta-6-online-and-gta-6-multiplayer",
-    "headline": " Where is GTA 6 Online and GTA 6 multiplayer? ",
-    "summary": "GTA 6 is launching as single-player only, but GTA 6 Online might not be far off",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-online-multiplayer/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/QLpazr6y5eHDC7b3SDFkkh-1920-80.jpg",
-    "published_at": "2026-11-18T12:25:05.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
