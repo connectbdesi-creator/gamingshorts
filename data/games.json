@@ -28629,5 +28629,33 @@
     ],
     "stores": [],
     "fetched_at": "2026-11-19T16:07:00.892Z"
+  },
+  {
+    "slug": "the-odyssey",
+    "name": "The Odyssey",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/4c3/4c35c7c4ad51008e0b886ab979db5fbb.jpg",
+    "released": "2016-09-04",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Adventure"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Linux"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c45/c45ed7883d4ae2b6049b0cc244a60839.jpg",
+      "https://media.rawg.io/media/screenshots/025/0259af0af6817900fb1f3c7135dfae1a.jpg",
+      "https://media.rawg.io/media/screenshots/770/770854562cb275950ae357697c944204.jpg",
+      "https://media.rawg.io/media/screenshots/c82/c82a15b0c7e266d7e456f6132eff7cc2.jpg",
+      "https://media.rawg.io/media/screenshots/56c/56cda84b27fb2a90fb4d021fff86f9c9.jpg",
+      "https://media.rawg.io/media/screenshots/240/24097dc2a329cb6e033b124f3c19a847.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-19T17:39:46.612Z"
   }
 ]
