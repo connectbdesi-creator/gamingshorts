@@ -28571,5 +28571,37 @@
     "screenshots": [],
     "stores": [],
     "fetched_at": "2026-11-18T21:08:01.932Z"
+  },
+  {
+    "slug": "rocket-league",
+    "name": "Rocket League",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
+    "released": "2015-07-07",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Racing",
+      "Indie",
+      "Sports"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "macOS",
+      "Linux"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/6a0/6a0745d9dcd0f7a368d372260baf91aa.jpg",
+      "https://media.rawg.io/media/screenshots/5ea/5ea8ab6a35f189489b2ec8713d4f1619.jpg",
+      "https://media.rawg.io/media/screenshots/508/5083fd170bf10606afd12afc7d17db04.jpg",
+      "https://media.rawg.io/media/screenshots/02d/02d36e8e01a9f1063c6431ce09324e24.jpg",
+      "https://media.rawg.io/media/screenshots/036/036ddade8156ac52ecf8de593123d12c.jpg",
+      "https://media.rawg.io/media/screenshots/861/8615727f6e52f1632ae38d71e9e4c800.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-19T15:39:23.233Z"
   }
 ]
