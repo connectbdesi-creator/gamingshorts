@@ -28657,5 +28657,35 @@
     ],
     "stores": [],
     "fetched_at": "2026-11-19T17:39:46.612Z"
+  },
+  {
+    "slug": "deltarune",
+    "name": "Deltarune (itch)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/7a9/7a907fb5e158c8dc34e783d9c22674c3.jpg",
+    "released": "2018-10-30",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/389/3895c536e2811a963a2895d621385774.jpg",
+      "https://media.rawg.io/media/screenshots/86f/86f316c37c5d05b25f3e51d8d037f19a.jpg",
+      "https://media.rawg.io/media/screenshots/3a1/3a140795eb18ccc2df51ba5740f44197.jpg",
+      "https://media.rawg.io/media/screenshots/f2f/f2f247f43c522d7dade724282baec22d.jpg",
+      "https://media.rawg.io/media/screenshots/647/647f16ccf563b5a98d668ca59f2d3228.jpg",
+      "https://media.rawg.io/media/screenshots/660/660c0f6c591b131c6eae0cf667967868.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-20T13:38:48.754Z"
   }
 ]
