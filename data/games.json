@@ -28687,5 +28687,50 @@
     ],
     "stores": [],
     "fetched_at": "2026-11-20T13:38:48.754Z"
+  },
+  {
+    "slug": "star-wars-fate-of-the-old-republic",
+    "name": "Star Wars: Fate of the Old Republic",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/961/961f87752d718ecd06580190685b80bf.jpeg",
+    "released": null,
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/82c/82ccf11502c6abf3291eb6c59f943e00.jpeg",
+      "https://media.rawg.io/media/screenshots/e4a/e4a8cbbafee113b7a4ae023761b994cd.jpeg",
+      "https://media.rawg.io/media/screenshots/454/454a7a11327105cdb2225dbace3b6879.jpeg",
+      "https://media.rawg.io/media/screenshots/961/961f87752d718ecd06580190685b80bf.jpeg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-20T23:40:06.800Z"
+  },
+  {
+    "slug": "tomb-raider-catalyst",
+    "name": "Tomb Raider: Catalyst",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/4c2/4c23a1f571e1569c518da6c1da1be6d2.jpg",
+    "released": "2027-12-31",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/384/384cf40349a6a05dcdad3291582b46ef.jpg",
+      "https://media.rawg.io/media/screenshots/4c2/4c23a1f571e1569c518da6c1da1be6d2.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-20T23:40:07.752Z"
   }
 ]
