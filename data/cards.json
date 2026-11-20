@@ -1,5 +1,550 @@
 [
   {
+    "id": "264ef769026e",
+    "slug": "gta-6-players-are-officially-spending-an-absolutely-bonkers-amount-of",
+    "headline": "GTA 6 Players Are Officially Spending an ‘Absolutely Bonkers’ Amount of Time with the Game",
+    "summary": "Grand Theft Auto 6 players enjoyed GTA 6 for an average of eight hours on its launch day, an \"absolutely bonkers\" number.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-playtime-stats-launch-day-ps5-xbox-series-x/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ultimate_edition_vice_city_style_01.jpg",
+    "published_at": "2026-11-20T21:28:55.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e60ae122343b",
+    "slug": "every-free-game-this-week-on-steam-epic-and-xbox-nov-20-26",
+    "headline": "Every Free Game This Week on Steam, Epic, and Xbox (Nov. 20-26)",
+    "summary": "Check out the free games you can try out this week across all digital platforms.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/free-games-right-now-steam-epic-ps-plus-nov-20-26/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/crusader-kings-3-1.jpg",
+    "published_at": "2026-11-20T21:21:08.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "fa487b18b69a",
+    "slug": "star-wars-kotor-remake-trailer-heavily-rumored-for-this-years-game-awa",
+    "headline": "Star Wars KOTOR Remake Trailer Heavily Rumored For This Year’s Game Awards",
+    "summary": "While there's still no official confirmation, it looks like December will be a big month for Star Wars fans.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/star-wars-knights-of-the-old-republic-kotor-trailer-rumor/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/darth-reven-and-darth-malak-in-front-of-kotor-remake-promotional-image.jpg",
+    "published_at": "2026-11-20T21:16:12.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0e9974c9edb1",
+    "slug": "gta-6",
+    "headline": "GTA 6",
+    "summary": "GamesRadar+ compares the 'thirst levels' of Mandy from GTA 6 to those of a beloved Nintendo character, sparking debate among gamers.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mandy-thirst-levels-reach-heights-that-even-former-nintendo-boss-reggie-fils-aime-cant-help-but-notice/"
+      },
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/blog/podcast/podcast-should-your-teenager-play-gta-6/"
+      },
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/features/gta-6-made-me-want-to-be-a-good-guy-or-girl"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-change-time-how-to-how-long-day/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-all-returning-characters/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/4krbsMvtknkessP9gQAmCh-1920-80.jpg",
+    "published_at": "2026-11-20T21:15:35.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
+    "id": "aa8e898dddf5",
+    "slug": "what-happens-when-you-finally-pay-lenny-in-rob-run",
+    "headline": "What Happens When You Finally Pay Lenny in ROB RUN",
+    "summary": "A guide helps players decide whether to pay Lenny's Debt in ROB RUN, a game where players can interact with various characters and make choices that impact the story",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/rob-run-should-you-pay-lennys-debt/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/should-you-pay-lenny-s-debt-in-rob-run_.jpg",
+    "published_at": "2026-11-20T21:15:28.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "rob-run",
+    "game_label": "ROB RUN"
+  },
+  {
+    "id": "42ba1df75267",
+    "slug": "1666-amsterdam-early-access-first-major-update-launches-in-december",
+    "headline": "1666: Amsterdam Early Access first major update launches in December",
+    "summary": "Panache Digital Games will release the first major content update for the Early Access version …",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/1666-amsterdam-early-access-first-major-update-launches-in-december"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/42ba1df75267/800/600",
+    "published_at": "2026-11-20T21:13:37.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "bf77a53c1f61",
+    "slug": "gta-6-first-person-mode-glitch-method",
+    "headline": "GTA 6 First-Person Mode Glitch Method",
+    "summary": "Learn how to do the GTA 6 first-person mode glitch on PS5 and Xbox Series X|S to drive and explore Leonida through Jason and Lucia's POV.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-first-person-mode-glitch-method/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/first-person-mode-glitch-gta-6.jpg",
+    "published_at": "2026-11-20T21:09:25.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e487e71951e3",
+    "slug": "brokenlore-dont-play-adds-switch-2-version",
+    "headline": "BrokenLore: DON’T PLAY adds Switch 2 version",
+    "summary": "First-person psychological horror game BrokenLore: DON’T PLAY will launch for Switch 2 alongside its previously …",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/brokenlore-dont-play-adds-switch-2-version"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/e487e71951e3/800/600",
+    "published_at": "2026-11-20T21:06:51.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a6fca4222e67",
+    "slug": "third-person-survival-horror-game-ugly-within-to-be-published-by-seraf",
+    "headline": "Third-person survival horror game Ugly Within to be published by Serafini Productions for PS5, Xbox Series, Switch 2, and PC",
+    "summary": "Serafini Productions will publish Yamaitachi-developed third-person survival horror game Ugly Within when it launches or …",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/third-person-survival-horror-game-ugly-within-to-be-published-by-serafini-productions-for-ps5-xbox-series-switch-2-and-pc"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/a6fca4222e67/800/600",
+    "published_at": "2026-11-20T21:06:26.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d58de462cd2a",
+    "slug": "brokenlore-miki-chan-adds-switch-2-version",
+    "headline": "BrokenLore: MIKI-CHAN adds Switch 2 version",
+    "summary": "First-person psychological horror game BrokenLore: MIKI-CHAN will release on Nintendo Switch 2 alongside its previously announced release",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/brokenlore-miki-chan-adds-switch-2-version"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/d58de462cd2a/800/600",
+    "published_at": "2026-11-20T21:01:33.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "brokenlore-miki-chan",
+    "game_label": "BrokenLore: MIKI-CHAN"
+  },
+  {
+    "id": "b35311e759dd",
+    "slug": "gta-6-has-an-impressive-number-of-accessibility-options",
+    "headline": "GTA 6 Has An Impressive Number Of Accessibility Options",
+    "summary": "Rockstar Games is expanding accessibility options for Grand Theft Auto 6 to make the game more accessible to players with disabilities.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/gta-6-has-an-impressive-number-of-accessibility-options-to-make-the-game-less-frustrating-2000758984"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2025/05/d7bc88e2af9aad920fe33de565d86cd8-1280x720.jpg",
+    "published_at": "2026-11-20T21:01:06.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "c824aec1297e",
+    "slug": "how-to-unlock-the-legendary-assassins-pistol-in-gta-6",
+    "headline": "How to Unlock the Legendary Assassin's Pistol in GTA 6",
+    "summary": "A guide reveals a unique way to obtain a high-powered weapon in GTA 6 without spending a dime, showcasing a game feature that can be exploited early on.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/gta-6-legendary-assassins-pistol-unlock-guide-how-to-find-best-starting-weapon/"
+      },
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/gta-6-too-dark-heres-how-to-fix-it-on-ps5"
+      },
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/grand-theft-auto-6-legendary-rifle-kingfisher-w-22-rifle-location-how-to-get-where-to-find-gta-guide/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/11/gta6jasonassassinspistol.jpg",
+    "published_at": "2026-11-20T20:58:01.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "75413602e557",
+    "slug": "hunger-games-star-josh-hutcherson-never-wanted-another-superhero-role",
+    "headline": " Hunger Games star Josh Hutcherson \"never wanted\" another superhero role after losing Spider-Man ",
+    "summary": "Hutcherson was one of the top choices for Sony's 2012 Spider-Man reboot",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/marvel-movies/hunger-games-star-josh-hutcherson-never-wanted-another-superhero-role-after-losing-spider-man-to-andrew-garfield/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/TZnqu9DmoyBCbmTq8KSTfC-1920-80.jpg",
+    "published_at": "2026-11-20T20:57:32.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "28fb96afbba4",
+    "slug": "sexyy-red-had-the-best-response-to-her-viral-gta-6-moment-with-jason",
+    "headline": "Sexyy Red Had the Best Response to Her Viral GTA 6 Moment With Jason",
+    "summary": "Rapper Sexyy Red has given a hilarious response to her cameo in GTA 6 after a clip of famous streamer IShowSpeed playing the game went viral.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/sexyy-red-had-the-best-response-to-her-viral-gta-6-moment-with-jason"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/20/sexyyred-cameo-gta6-1795205750675.jpg",
+    "published_at": "2026-11-20T20:47:54.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a731e8f1d295",
+    "slug": "21-of-rockstar-staff-have-been-employed-by-the-company-for-over-10-yea",
+    "headline": " 21% of Rockstar staff have been employed by the company for over 10 years, which explains a lot about GTA 6's record-breaking launch ",
+    "summary": "It's easier to make successful games when you hold onto the people who know how.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/21-percent-of-rockstar-staff-have-been-employed-by-the-company-for-over-10-years-which-explains-a-lot-about-gta-6s-record-breaking-launch/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/e3fPzBmapimeiWj59SBAiQ-1920-80.jpg",
+    "published_at": "2026-11-20T20:41:34.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "347b40f29221",
+    "slug": "psycho-dead-launches-april-15-2027",
+    "headline": "PSYCHO DEAD launches April 15, 2027",
+    "summary": "Third-person survival horror game PSYCHO DEAD will launch or PlayStation 5 and PC via Steam, …",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/psycho-dead-launches-april-15-2027"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/347b40f29221/800/600",
+    "published_at": "2026-11-20T20:36:46.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9e47c74abeed",
+    "slug": "lets-put-gta-6s-379-billion-launch-into-perspective-gta-5-made-800-mil",
+    "headline": " Let's put GTA 6's $3.79 billion launch into perspective: GTA 5 made $800 million at launch  ",
+    "summary": "Don't even ask Christopher Nolan's The Odyssey or Avengers: Endgame how it's going",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/lets-put-gta-6s-usd3-79-billion-launch-into-perspective-gta-5-made-usd800-million-at-launch-and-red-dead-redemption-2-made-usd725-million/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/6QMGra5w44sXABQSE4nZoA-1920-80.jpg",
+    "published_at": "2026-11-20T20:33:04.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a591e86511fb",
+    "slug": "gta-6-sets-record-for-biggest-entertainment-launch",
+    "headline": "GTA 6 Sets Record for Biggest Entertainment Launch",
+    "summary": "Grand Theft Auto 6 has broken a new record with $3.79 billion in sales in its first day, marking the biggest entertainment launch in history",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Raul_Bautista_02_RUnoiiq.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-20T20:24:00.000Z",
+    "hype_signal": 95,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
+    "id": "32705e3c0c6a",
+    "slug": "podcast-gta-6-deep-ish-dive-with-jeff-gerstmann",
+    "headline": "Podcast: GTA 6 Deep (ish) Dive with Jeff Gerstmann",
+    "summary": "Journalist Jeff Gerstmann and Take-Two Interactive's Dan Houser dive into Grand Theft Auto 6's story, gameplay, and potential features in a recent podcast.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/blog/podcast/podcast-gta-6-deep-ish-dive-with-jeff-gerstmann/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/32705e3c0c6a/800/600",
+    "published_at": "2026-11-20T20:16:22.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "7b10588c34ed",
+    "slug": "even-developers-working-on-deltarune-dont-know-how-the-game-will-end",
+    "headline": "Even Developers Working On Deltarune Don’t Know How The Game Will End",
+    "summary": "Sorry to keep you waiting!",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/even-developers-working-on-deltarune-dont-know-how-the-game-will-end-2000758900"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2025/12/tenna-presents-a-question-to-the-fun-gang-deltarune-1280x640.jpg",
+    "published_at": "2026-11-20T20:00:39.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2d2548b0bcc8",
+    "slug": "gta-6-sets-even-more-records",
+    "headline": "GTA 6 Sets Even More Records",
+    "summary": "Rockstar's Grand Theft Auto 6 has finally arrived, and, to the surprise of no one, it's putting up some big numbers that speak to the pent-up demand. GTA 6 sold more than 30 million copies and hit almost $4 billion on day one, but that's just the start of understanding the impact of the game's release. For starters, the internet…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-sets-even-more-records/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA6Circana.png?w=300",
+    "published_at": "2026-11-20T19:52:51.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "cbc7cf9ef8eb",
+    "slug": "infinite-money-glitch-in-gta-6",
+    "headline": "Infinite Money Glitch in GTA 6",
+    "summary": "A glitch in GTA 6 allows players to earn infinite money, but many are hesitant to use it due to concerns about game balance and design",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/gta-6-infinite-money-glitch-how-to-rockstar-games-ps5-2000758907"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/99-incredible-little-details-in-grand-theft-auto-6"
+      },
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/someone-discovered-how-to-glitch-into-first-person-mode-in-gta-6-2000758931"
+      },
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-earned-usd3-79-billion-on-launch-day/"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/06/gta-6-disc-2-1280x720.jpg",
+    "published_at": "2026-11-20T19:51:48.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
     "id": "f9ea3f398fed",
     "slug": "gta-6-sold-325-million-copies-in-pre-release",
     "headline": "GTA 6 Sold 32.5 Million Copies In Pre-Release",
@@ -15,15 +560,61 @@
       {
         "name": "Kotaku",
         "url": "https://kotaku.com/gta-6-sold-32-5-million-copies-in-pre-release-as-take-two-crowns-it-the-biggest-entertainment-launch-in-history-2000758965"
+      },
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-sold-32-5-million-copies-before-it-was-even-released-for-comparison-elden-ring-sold-30-million-in-3-years/"
       }
     ],
     "image_url": "https://kotaku.com/app/uploads/2026/11/gta-6-1280x720.jpg",
-    "published_at": "2026-11-20T19:30:40.000Z",
+    "published_at": "2026-11-20T19:47:33.000Z",
     "hype_signal": 80,
     "like_count": 0,
     "comment_count": 0,
     "game": "grand-theft-auto-6",
     "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "976bb8315052",
+    "slug": "gta-6-earns-379-billion-in-one-day-as-the-biggest-entertainment-launch",
+    "headline": "GTA 6 earns $3.79 billion in one day as the biggest entertainment launch in history",
+    "summary": "The game was pre-ordered over 32 million times",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/gta-6-earns-3-79-billion-in-one-day-as-the-biggest-entertainment-launch-in-history/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/976bb8315052/800/600",
+    "published_at": "2026-11-20T19:41:21.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9746a9c0cbbc",
+    "slug": "gta-6-is-the-biggest-entertainment-launch-of-all-time-at-379-billion-o",
+    "headline": "GTA 6 Is the Biggest Entertainment Launch of All Time at $3.79 Billion on Day One",
+    "summary": "Rockstar Games has confirmed GTA 6 retail sales reached $3.79 billion in its first 24 hours, securing its place as the biggest entertainment launch of all time.",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-is-the-biggest-entertainment-launch-of-all-time-at-379-billion-on-day-one"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/09/17/gta-6-soundtrack-1789662158949.jpg",
+    "published_at": "2026-11-20T19:37:29.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "17a03da988d8",
@@ -110,39 +701,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "0e9974c9edb1",
-    "slug": "gta-6",
-    "headline": "GTA 6",
-    "summary": "GamesRadar+ compares the 'thirst levels' of Mandy from GTA 6 to those of a beloved Nintendo character, sparking debate among gamers.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mandy-thirst-levels-reach-heights-that-even-former-nintendo-boss-reggie-fils-aime-cant-help-but-notice/"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/blog/podcast/podcast-should-your-teenager-play-gta-6/"
-      },
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/features/gta-6-made-me-want-to-be-a-good-guy-or-girl"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-change-time-how-to-how-long-day/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/4krbsMvtknkessP9gQAmCh-1920-80.jpg",
-    "published_at": "2026-11-20T19:08:23.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gta-6",
-    "game_label": "GTA 6"
   },
   {
     "id": "3407311e0c90",
@@ -351,39 +909,6 @@
     "game_label": "Mass Effect 5"
   },
   {
-    "id": "cbc7cf9ef8eb",
-    "slug": "infinite-money-glitch-in-gta-6",
-    "headline": "Infinite Money Glitch in GTA 6",
-    "summary": "A glitch in GTA 6 allows players to earn infinite money, but many are hesitant to use it due to concerns about game balance and design",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/gta-6-infinite-money-glitch-how-to-rockstar-games-ps5-2000758907"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/99-incredible-little-details-in-grand-theft-auto-6"
-      },
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/someone-discovered-how-to-glitch-into-first-person-mode-in-gta-6-2000758931"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/06/gta-6-disc-2-1280x720.jpg",
-    "published_at": "2026-11-20T18:02:54.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
     "id": "0cb167ef106b",
     "slug": "talking-point-how-often-are-you-willing-to-play-games-at-30fps",
     "headline": "Talking Point: How Often Are You Willing To Play Games At 30FPS?",
@@ -402,6 +927,27 @@
     "image_url": "https://images.purexbox.com/2394aff7420af/large.jpg",
     "published_at": "2026-11-20T18:00:00.000Z",
     "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a2d210e43c57",
+    "slug": "clair-obscur-expedition-33-writer-didnt-think-about-what-the-market-wa",
+    "headline": " Clair Obscur: Expedition 33 writer \"didn't think about what the market wanted\" ",
+    "summary": "\"It was always, from the very beginning, a narrative-focused game\"",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-writer-didnt-think-about-what-the-market-wanted-because-sandfall-just-wanted-to-make-the-jrpg-we-wish-existed/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/gRq5TjqPn9gvR7tyUPh6sa-1920-80.jpg",
+    "published_at": "2026-11-20T17:37:56.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -1916,37 +2462,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "c824aec1297e",
-    "slug": "how-to-unlock-the-legendary-assassins-pistol-in-gta-6",
-    "headline": "How to Unlock the Legendary Assassin's Pistol in GTA 6",
-    "summary": "A guide reveals a unique way to obtain a high-powered weapon in GTA 6 without spending a dime, showcasing a game feature that can be exploited early on.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/gta-6-legendary-assassins-pistol-unlock-guide-how-to-find-best-starting-weapon/"
-      },
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/gta-6-too-dark-heres-how-to-fix-it-on-ps5"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/11/gta6jasonassassinspistol.jpg",
-    "published_at": "2026-11-20T12:30:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "3b179145e2e6",
@@ -4106,523 +4621,6 @@
     ],
     "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/AC_e6f7cd.jpg?w=300",
     "published_at": "2026-11-19T20:15:37.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c1dee268fdbd",
-    "slug": "brandon-sandersons-mistborn-ttrpg-solves-the-biggest-problem-with-lice",
-    "headline": "Brandon Sanderson’s Mistborn TTRPG Solves the Biggest Problem With Licensed Games",
-    "summary": "The wildly ambitious campaign takes generations",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/mistborn-legacy-ttrpg-impressions/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/cosmere-rpg-mistborn-copy.jpg",
-    "published_at": "2026-11-19T20:00:17.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "80014b53fcc8",
-    "slug": "valve-says-memory-and-storage-costs-are-so-bad-it-wont-do-steam-machin",
-    "headline": " Valve says \"memory and storage costs\" are so bad it won't do Steam Machine waitlists anymore ",
-    "summary": "2TB Steam Machines will be \"especially constrained\"",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/valve-says-memory-and-storage-costs-are-so-bad-it-wont-do-steam-machine-waitlists-anymore-as-it-doesnt-know-how-many-it-can-make-or-what-theyll-cost/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/CTbhRgSRGxsuCkSqP43uWF-1920-80.jpg",
-    "published_at": "2026-11-19T19:51:04.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e9d2090f3460",
-    "slug": "gta-6s-jason-and-lucia-actors-break-years-of-silence-with-new-joint-st",
-    "headline": "GTA 6's Jason and Lucia Actors Break Years of Silence With New Joint Statement",
-    "summary": "GTA 6's lead actors, Dylan Rourke and Manni L. Perez, have broken their multi-year streak of silence about being in the game.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6s-jason-and-lucia-actors-break-years-of-silence-with-new-joint-statement"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/19/image-c755c61e-1fe7-450f-ba86-76b5f1ac6044-1795117431730.png",
-    "published_at": "2026-11-19T19:49:45.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5593e0d6d4cd",
-    "slug": "gta-6-devs-are-still-worried-about-layoffs-despite-making-one-of-the-m",
-    "headline": "GTA 6 Devs Are Still Worried About Layoffs, Despite Making One of the Most Successful Games Ever Made",
-    "summary": "GTA 6 is already an incredibly successful game, and when the dust settles, it'll likely end up as one of the most lucrative entertainment releases of all time, yet some of the developers are still worried that layoffs are lurking around the corner.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6-devs-are-still-worried-about-layoffs-despite-making-one-of-the-most-successful-games-ever-made"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/19/ultimate-edition-goodtime-gear-01-1782295792418-1795067565426.jpg",
-    "published_at": "2026-11-19T19:38:02.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a0b3ad9cceb9",
-    "slug": "these-30-games-are-coming-to-nintendo-switch-eshop-this-week-november",
-    "headline": "These 30+ Games Are Coming To Nintendo Switch eShop This Week (November 19)",
-    "summary": "Barbenhammer. It's time for North America's Nintendo Download update and our Switch eShop round-up for November 19th. With a certain big game arriving on other platforms, many publishers are keeping the slate clean this week, but Barbie isn't having any of it, and Warhammer 40,000: Boltgun 2, Curse of Resthaven, Piece by Piece, and a handful of Switch 2 Editions…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/11/these-30plus-games-are-coming-to-nintendo-switch-eshop-this-week-november-19"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/04f45f36bf8a1/large.jpg",
-    "published_at": "2026-11-19T19:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8262df450e2e",
-    "slug": "gta-6s-devotion-to-life-simulation-is-taking-retro-gaming-sickos-back",
-    "headline": " GTA 6's devotion to life simulation is taking retro gaming sickos back to the Dreamcast era ",
-    "summary": "Do you know of any places where criminal couples hang out?",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-excessive-devotion-to-life-simulation-is-taking-retro-gaming-sickos-back-to-the-dreamcast-era-theyre-calling-it-the-shenmue-of-2026/"
-      },
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-radio-stations-feature-zero-doja-cat-and-shes-ready-to-paint-the-town-red-so-f-in-bitter/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Ri7dx2AwWpjGDJXscrb4QX-1920-80.jpg",
-    "published_at": "2026-11-19T19:29:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "85f39c23d9f9",
-    "slug": "how-gta-6s-fitness-system-can-help-you-start-lifting-effectively",
-    "headline": "How GTA 6's Fitness System Can Help You Start Lifting Effectively",
-    "summary": "GTA 6's weightlifting mechanics are surprisingly realistic and helpful for beginners, making it a good resource for those new to weightlifting.",
-    "category": "esports",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/want-to-start-lifting-effectively-gta-6-is-a-good-teacher/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261101163230_.jpg?w=300",
-    "published_at": "2026-11-19T19:21:27.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "ceb3bc82a649",
-    "slug": "gta-6-players-should-change-this-one-setting-before-anything-else",
-    "headline": "GTA 6 Players Should Change This One Setting Before Anything Else",
-    "summary": "Grand Theft Auto 6 allows players to customize their experience with key settings, particularly for those who feel the game moves too slowly.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-movement-speed-settings/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-with-helmet.jpg",
-    "published_at": "2026-11-19T19:20:17.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "46a089413349",
-    "slug": "indie-hit-queens-domain-gets-a-cheats-guide",
-    "headline": "Indie Hit Queen's Domain Gets a Cheats Guide",
-    "summary": "PC Gamer shares a cheat code book for the indie game Queen's Domain, helping players who struggled with the game's gun mechanics.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/rpg/if-you-bounced-off-indie-hit-queens-domain-try-using-the-cheat-code-book-to-give-yourself-a-gun/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/MQ8iSphECjHieTyQxXxJAa-1920-80.jpg",
-    "published_at": "2026-11-19T19:20:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "queens-domain",
-    "game_label": "Queen's Domain"
-  },
-  {
-    "id": "6be7c88a4740",
-    "slug": "open-world-rpgs-for-ps5-with-the-most-satisfying-progression-ranked",
-    "headline": "Open-World RPGs for PS5 With the Most Satisfying Progression, Ranked",
-    "summary": "These open-world RPGs give you plenty to look forward to as you grow stronger, from mastering a new class to leaving your mark on the world.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/open-world-rpgs-ps5-games-satisfying-progression-ranked/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/rpgs4.jpg",
-    "published_at": "2026-11-19T19:13:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "20d914bc7175",
-    "slug": "you-can-play-grand-theft-auto-6-at-60fps-using-this-absurdly-complicat",
-    "headline": "You Can Play Grand Theft Auto 6 At 60fps Using This Absurdly Complicated Method",
-    "summary": "Grand Theft Auto VI is finally out for consoles, and it's every bit the visual showcase of the generation that it was promising to be since its reveal. You'll struggle to find a better-looking game on the current generation of hardware, but one concession Rockstar had to make to achieve that was limiting its frame rate--a limitation some players are…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/you-can-play-grand-theft-auto-6-at-60fps-using-this-absurdly-complicated-method/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/05/Grand-Theft-Auto-VI-Trailer-1-1-16-screenshot-Large.jpeg?w=300",
-    "published_at": "2026-11-19T19:05:04.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "243c02c337fd",
-    "slug": "gta-6-removes-replayable-missions-and-medal-objectives",
-    "headline": "GTA 6 Removes Replayable Missions And Medal Objectives",
-    "summary": "Rockstar has eliminated replayable missions and medal objectives in Grand Theft Auto 6, addressing one of the series' most significant criticisms.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/gta-6-grand-theft-auto-mission-replayability-removal/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/gta6jasonluciacarfire.jpg",
-    "published_at": "2026-11-19T19:02:36.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "d61edd90bcd4",
-    "slug": "grand-theft-auto-6s-weight-system-can-give-jason-a-dad-bod-but-lucia-i",
-    "headline": "Grand Theft Auto 6's Weight System Can Give Jason A Dad Bod, But Lucia Isn't Quite As Malleable",
-    "summary": "A recent Kotaku article discusses the dynamic weight system in Grand Theft Auto 6, where characters' physiques can be affected by their diet and exercise habits.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/grand-theft-auto-6-weight-muscle-gain-fat-jason-lucia-2000758438"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/11/jasonweight-1280x720.jpg",
-    "published_at": "2026-11-19T19:00:24.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "8dc3a49673a8",
-    "slug": "gta-6-has-a-secret-jet-ski-dog-that-gives-you-free-money",
-    "headline": "GTA 6 Has a Secret Jet Ski Dog That Gives You Free Money",
-    "summary": "Rockstar Games has introduced a unique Easter egg in Grand Theft Auto 6, featuring a dog that can be ridden on a jet ski, giving players free in-game money.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-cool-jet-ski-dog-find-where-how-free-money-island/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/cool-jet-ski-dog-gta-6.jpg",
-    "published_at": "2026-11-19T18:56:37.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gta-6",
-    "game_label": "GTA 6"
-  },
-  {
-    "id": "6f8d26ed5f44",
-    "slug": "gta-6-is-the-most-popular-game-ever-across-twitch-and-kick-and-its-onl",
-    "headline": "GTA 6 Is the Most Popular Game Ever Across Twitch and Kick and It’s Only Been Out for a Day",
-    "summary": "GTA 6 has, perhaps unsurprisingly, become the most popular game on Twitch and Kick in the history of both platforms within just the first 26 hours of its global release.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6-is-the-most-popular-game-ever-across-twitch-and-kick-and-its-only-been-out-for-a-day"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/18/gta6-review-blogroll-1794996674466.jpg",
-    "published_at": "2026-11-19T18:51:11.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a037e717f5ed",
-    "slug": "pokemon-tcg-30th-celebration-knock-out-collection-back-in-stock-at-ama",
-    "headline": "Pokémon TCG: 30th Celebration Knock Out Collection Back in Stock at Amazon",
-    "summary": "The Pokémon Trading Card Game 30th Celebration Knock Out Collection is available for purchase at Amazon, featuring a price drop and an exclusive Eevee promo card.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/pokmon-tcg-30th-celebration-knock-out-collection-is-back-in-stock-at-amazon-with-a-price-drop"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/17/30th-knock-out-1794948657215.png",
-    "published_at": "2026-11-19T18:47:31.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "pokemon-tcg-30th-celebration-knock-out-collection",
-    "game_label": "Pokémon TCG 30th Celebration Knock Out Collection"
-  },
-  {
-    "id": "0141fd50c395",
-    "slug": "guide-50-best-wii-games-of-all-time",
-    "headline": "Guide: 50 Best Wii Games Of All Time",
-    "summary": "Our guide to the best games on Wii. 19th November 2026 marks the 20th anniversary of Wii's Japanese launch, so it's the perfect time to revisit our list of the best games on the system. Keep an eye out for more Revolution-ary features coming later today and over the weekend! Nintendo changed the game with Wii, the little motion-controlled console…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/guides/50-best-wii-games-of-all-time"
-      },
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/11/top-20-best-selling-wii-games-of-all-time-revealed-us"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/311f8ca8d5477/large.jpg",
-    "published_at": "2026-11-19T18:45:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f63e43ae3721",
-    "slug": "jason-showers-in-his-underwear-in-the-japanese-version-of-gta-6-but-ce",
-    "headline": "Jason Showers in His Underwear in the Japanese Version of GTA 6, but Censorship Is Nothing New for Rockstar Games",
-    "summary": "GTA 6 is finally here, but for players in Japan the experience is looking a bit different. Pre-release concerns about censorship have proven to be founded, with blood, gore, and nudity getting dialed down, but also some more surprising changes.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/jason-showers-in-his-underwear-in-the-japanese-version-of-gta-6-but-censorship-is-nothing-new-for-rockstar-games"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/19/vintage-vice-city-pack-exclusive-looks-01-1795113789423.jpg",
-    "published_at": "2026-11-19T18:43:45.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "27a631274e45",
-    "slug": "gta-6-features-a-few-cheeky-dexter-easter-eggs",
-    "headline": "GTA 6 Features a Few Cheeky Dexter Easter Eggs",
-    "summary": "GTA 6 fans have uncovered a handful of Dexter Easter eggs after years of speculating the TV serial killer would be referenced in the game.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6-features-a-few-cheeky-dexter-easter-eggs"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/19/gta-6-dexter-1795102962512.jpg",
-    "published_at": "2026-11-19T18:35:24.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9095d7e9cea9",
-    "slug": "rockstars-cheats-in-gta-6-are-weirdly-restrictive",
-    "headline": "Rockstar's Cheats in GTA 6 are Weirdly Restrictive",
-    "summary": "PC Gamer criticizes the lengthy and restrictive cheats menu in Grand Theft Auto 6, calling for a fix in the PC version.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/im-counting-the-minutes-until-the-pc-version-fixes-the-weirdly-restrictive-cheats-in-gta-6/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/88bmYYeTdzTBy8hNsLoXrc-1920-80.jpg",
-    "published_at": "2026-11-19T18:35:22.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gta-6",
-    "game_label": "GTA 6"
-  },
-  {
-    "id": "9641d556fa2e",
-    "slug": "ubisoft-hit-with-166-layoffs",
-    "headline": "Ubisoft Hit With 166 Layoffs",
-    "summary": "Ubisoft has laid off 166 staff members across two studios, a surprising move that could impact the company's development pipeline.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/ubisoft-montreal-quebec-layoffs/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/ubisoft-hit-with-166-layoffs-gamerant.jpg",
-    "published_at": "2026-11-19T18:30:29.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "682833b1d1ac",
-    "slug": "infinity-nikki-players-are-planning-to-girl-cott-the-game-over-maye-mu",
-    "headline": "Infinity Nikki Players Are Planning To ‘Girl-cott’ The Game Over Maye Musk Ad",
-    "summary": "Infold Games, you've done it again",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/infinity-nikki-players-are-planning-to-girl-cott-the-game-over-maye-musk-ad-2000758410"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2025/01/18e617678eeeb1489dcfd1ab02244da7-1280x721.jpg",
-    "published_at": "2026-11-19T18:30:04.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
