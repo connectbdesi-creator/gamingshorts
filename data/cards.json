@@ -1,5 +1,301 @@
 [
   {
+    "id": "756bdefc3bf5",
+    "slug": "unannounced-nioh-3-complete-edition-rated-in-korea",
+    "headline": "Unannounced Nioh 3 Complete Edition Rated in Korea",
+    "summary": "A rating for Nioh 3 Complete Edition has appeared on the Korea Game Rating and Administration Committee, suggesting the game's official release may be imminent.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/nioh-3-complete-edition-rated-korea"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-11-21-at-17.11.47.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-21T17:19:50.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "nioh-3-complete-edition",
+    "game_label": "Nioh 3 Complete Edition"
+  },
+  {
+    "id": "af48ad5d3ebb",
+    "slug": "ps5-survives-gta-6s-huge-launch",
+    "headline": "PS5 Survives GTA 6's Huge Launch",
+    "summary": "Sony's PS5 performed well during the launch of Grand Theft Auto 6, with only minor PSN outages reported before the game's release.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/ps5-survives-gta-6s-unfathomably-humongous-launch-without-a-hitch"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-auto-drive-how-to/"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/99737794c846d/large.jpg",
+    "published_at": "2026-11-21T16:53:58.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "3280efe702bc",
+    "slug": "darkest-dungeon-2s-next-bit-of-dlc-is-a-short-run-combat-focused-gaunt",
+    "headline": "Darkest Dungeon 2's next bit of DLC is a short run, combat focused gauntlet where you must do everything in your power to please the audience",
+    "summary": "The original Darkest Dungeon may have gotten some new DLC earlier this year, but that doesn't mean that Red Hook Studios are abandoning their sequel. No, in fact the next bit of DLC for Darkest Dungeon 2 was teased only a couple of weeks ago, with a new trailer shared today actually showing off what it's all about.\r\n \nRead more",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/darkest-dungeon-2s-next-bit-of-dlc-is-a-short-run-combat-focused-gauntlet-where-you-must-do-everything-in-your-power-to-please-the-audience"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/darkest-dungeon-2-butchers-asylum.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-21T16:53:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "179cc960e827",
+    "slug": "silent-hill-3-is-getting-a-massive-modern-overhaul",
+    "headline": "Silent Hill 3 Is Getting a Massive Modern Overhaul",
+    "summary": "A major update is planned for Silent Hill 3, potentially altering the gameplay and visuals, but preserving the original's essence.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/silent-hill-3-is-getting-a-massive-modern-overhaul/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/silent-hill-3-is-getting-a-massive-modern-overhaul.jpg",
+    "published_at": "2026-11-21T16:48:35.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "silent-hill-3",
+    "game_label": "Silent Hill 3"
+  },
+  {
+    "id": "fba4d012e30a",
+    "slug": "former-nintendo-president-makes-a-perfect-grand-theft-auto-6-joke",
+    "headline": "Former Nintendo President Makes a Perfect Grand Theft Auto 6 Joke",
+    "summary": "A former president of Nintendo shares an absolutely perfect joke about the massively popular Grand Theft Auto 6 following its release.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/nintendo-president-reggie-grand-theft-auto-6-joke/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-reggie-joke.jpg",
+    "published_at": "2026-11-21T16:43:44.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "c824aec1297e",
+    "slug": "how-to-unlock-the-legendary-assassins-pistol-in-gta-6",
+    "headline": "How to Unlock the Legendary Assassin's Pistol in GTA 6",
+    "summary": "A guide reveals a unique way to obtain a high-powered weapon in GTA 6 without spending a dime, showcasing a game feature that can be exploited early on.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/gta-6-legendary-assassins-pistol-unlock-guide-how-to-find-best-starting-weapon/"
+      },
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/gta-6-too-dark-heres-how-to-fix-it-on-ps5"
+      },
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/grand-theft-auto-6-legendary-rifle-kingfisher-w-22-rifle-location-how-to-get-where-to-find-gta-guide/"
+      },
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/grand-theft-auto-6-fix-jasons-house/"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/how-a-6-beer-in-gta-6-sent-me-into-a-spiral-of-crime-and-anxiety"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-president-bunker-location-all-codes/"
+      },
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-a-cozy-game/"
+      },
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-equipment-explained/"
+      },
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-dye-pack-jammer-how-to-unlock/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/11/gta6jasonassassinspistol.jpg",
+    "published_at": "2026-11-21T16:40:00.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "636da04b1744",
+    "slug": "gta-6-la-cascara-motel-safe-code",
+    "headline": "GTA 6 La Cascara Motel safe code",
+    "summary": "PC Gamer has leaked an early, unencrypted safe code for GTA 6, potentially revealing the game's developer location or in-game information.",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-la-cascara-motel-safe-code/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/HenJAcBgYfxiaLBLcqGCJN-1920-80.jpg",
+    "published_at": "2026-11-21T16:36:30.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
+    "id": "ce8e787d8c51",
+    "slug": "darkest-dungeon-2-dlcs-new-mode-is-very-different-from-the-base-game",
+    "headline": "Darkest Dungeon 2 DLC's New Mode Is Very Different From The Base Game",
+    "summary": "The Butcher's Asylum features a new narrator and drastically shakes up the roguelike's structure",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/darkest-dungeon-2-the-butchers-asylum/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/darkest-dungeons-2-dlc.png",
+    "published_at": "2026-11-21T16:31:42.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "478176e7f6b8",
+    "slug": "feature-dont-have-your-wii-set-up-here-are-20-wii-games-you-can-play-o",
+    "headline": "Feature: Don't Have Your Wii Set Up? Here Are 20 Wii Games You Can Play On Switch",
+    "summary": "SWiitching it up. Many people reading this will have a Wii in the house. Even if it's collecting dust in the cupboard after launching 20 years ago, there's over 100 million of the things out in the wild, so the chances are that you or your family have access to one somewhere. However, on the off-chance you don't have a…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/features/dont-have-your-wii-set-up-here-are-20-wii-games-you-can-play-on-switch"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/125bc1bb59dcb/large.jpg",
+    "published_at": "2026-11-21T16:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ccefbffd3bc1",
+    "slug": "poll-so-what-do-you-think-of-gta-6",
+    "headline": "Poll: So, What Do You Think Of GTA 6?",
+    "summary": "It's early days, but let us know your thoughts so far. We've been talking GTA 6 all week here at Pure Xbox, but now it's time for the community to take centre stage! We want to know what you think about the new Grand Theft Auto based on what you've played so far. It's no secret that GTA 6 has…",
+    "category": "reviews",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/features/poll-so-what-do-you-think-of-gta-6"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/5cb9d1f6e8a9c/large.jpg",
+    "published_at": "2026-11-21T16:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7ba505642674",
+    "slug": "rob-run-is-surging-on-steam-as-pc-players-look-for-a-gta-6-alternative",
+    "headline": "Rob Run Is Surging On Steam As PC Players Look For A GTA 6 Alternative",
+    "summary": "Rob Run sounds like the perfect GTA 6 alternative on paper, a \"crime sandbox\" where every NPC is a player, but there's a catch.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/rob-run-gta-6-alternative-steam-mixed-reviews-ai-disclosure-600000-player-peak/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/police-pointing-assault-rifles-at-a-surrounded-bank-robber-in-rob-run.jpg",
+    "published_at": "2026-11-21T15:46:56.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "363932deebe6",
     "slug": "gta-6-online-has-players-worried",
     "headline": "GTA 6 Online Has Players Worried",
@@ -162,29 +458,6 @@
     "game_label": null
   },
   {
-    "id": "af48ad5d3ebb",
-    "slug": "ps5-survives-gta-6s-huge-launch",
-    "headline": "PS5 Survives GTA 6's Huge Launch",
-    "summary": "Sony's PS5 performed well during the launch of Grand Theft Auto 6, with only minor PSN outages reported before the game's release.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/ps5-survives-gta-6s-unfathomably-humongous-launch-without-a-hitch"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/99737794c846d/large.jpg",
-    "published_at": "2026-11-21T15:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
     "id": "1e39099b53a4",
     "slug": "should-you-deposit-5000-in-buckme-in-gta-6",
     "headline": "Should You Deposit $5,000 in BuckMe in GTA 6?",
@@ -296,57 +569,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "c824aec1297e",
-    "slug": "how-to-unlock-the-legendary-assassins-pistol-in-gta-6",
-    "headline": "How to Unlock the Legendary Assassin's Pistol in GTA 6",
-    "summary": "A guide reveals a unique way to obtain a high-powered weapon in GTA 6 without spending a dime, showcasing a game feature that can be exploited early on.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/gta-6-legendary-assassins-pistol-unlock-guide-how-to-find-best-starting-weapon/"
-      },
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/gta-6-too-dark-heres-how-to-fix-it-on-ps5"
-      },
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/grand-theft-auto-6-legendary-rifle-kingfisher-w-22-rifle-location-how-to-get-where-to-find-gta-guide/"
-      },
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/grand-theft-auto-6-fix-jasons-house/"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/how-a-6-beer-in-gta-6-sent-me-into-a-spiral-of-crime-and-anxiety"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-president-bunker-location-all-codes/"
-      },
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-a-cozy-game/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/11/gta6jasonassassinspistol.jpg",
-    "published_at": "2026-11-21T13:45:50.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "f1b930c1dc3d",
@@ -4478,223 +4700,6 @@
     ],
     "image_url": "https://picsum.photos/seed/3762b05edcca/800/600",
     "published_at": "2026-11-20T12:00:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4d7584e6429d",
-    "slug": "persona-6-delayed-not-the-end",
-    "headline": "Persona 6 Delayed, Not the End",
-    "summary": "Persona series producer Kazuhisa Wada suggests a new game is already in development, contradicting recent rumors that Persona 6 is the final installment in the series.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/persona/persona-6-is-not-the-end-for-the-series-lead-hints-and-atlus-is-working-to-ensure-fans-wont-have-to-wait-as-long-for-the-next-game/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/q6xUE6Y2DqVqFSZSWfprBj-1920-80.jpg",
-    "published_at": "2026-11-20T11:53:49.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "persona-series",
-    "game_label": "Persona series"
-  },
-  {
-    "id": "39daac140a92",
-    "slug": "ive-done-some-stupid-stuff-says-wow-forever-dev-whos-adding-unique-fun",
-    "headline": " 'I've done some stupid stuff', says WoW: Forever dev who's adding unique, fun items to the game: 'There's a lot they've not seen that I'm very happy with' ",
-    "summary": "\"There may be an item that is master looter BiS.\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/ive-done-some-stupid-stuff-says-wow-forever-dev-whos-adding-unique-fun-items-to-the-game-theres-a-lot-theyve-not-seen-that-im-very-happy-with/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/9MviixFtL2uKjrGW4rRVsA-1920-80.png",
-    "published_at": "2026-11-20T11:52:22.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e56f0283ca5d",
-    "slug": "rockstars-parody-of-japanese-restaurants-wins-over-japans-players",
-    "headline": "Rockstar's Parody of Japanese Restaurants Wins Over Japan's Players",
-    "summary": "Rockstar Games has gained appreciation in Japan for its recent parody of poorly-named Japanese restaurants in America, highlighting the cultural differences between the two countries.",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/grand-theft-auto-vi-gta6-rockstar-japanese-restaurant-puns-2000758644"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/11/IMG_6888.jpeg",
-    "published_at": "2026-11-20T11:36:58.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "83c435416d33",
-    "slug": "every-future-driving-game-needs-to-steal-this-gta-6-feature",
-    "headline": "Every Future Driving Game Needs to Steal This GTA 6 Feature",
-    "summary": "Rockstar's upcoming Grand Theft Auto 6 is introducing an innovative speed limit cruising system, making it easier for players to navigate at the speed limit on the PS5 with the DualSense adaptive triggers.",
-    "category": "industry",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-ps5-dualsense-driving-cruising/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ultimate_edition_grotti_cheetah_04.jpg",
-    "published_at": "2026-11-20T11:34:01.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "57ffd52959c0",
-    "slug": "gta-6s-full-credits-spark-returning-character-rumor-are-they-really-in",
-    "headline": "GTA 6's Full Credits Spark Returning Character Rumor — Are They Really in the Game?",
-    "summary": "GTA 6's full credits have sparked a rumor about a returning character. Are they really in the game?",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6s-full-credits-spark-returning-character-rumor-are-they-really-in-the-game"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/20/ultimate-edition-grotti-cheetah-04-1795173995841.jpg",
-    "published_at": "2026-11-20T11:27:05.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6bee635ebd48",
-    "slug": "gta-6-features-a-late-game-cameo-thats-worth-avoiding-spoilers-for",
-    "headline": "GTA 6 features a late-game cameo that's worth avoiding spoilers for ",
-    "summary": "A recent leak suggests that Grand Theft Auto 6 will include a notable cameo, but it's best to avoid spoilers to preserve the surprise",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-features-a-late-game-cameo-thats-worth-avoiding-spoilers-for-years-after-their-actor-said-they-didnt-hate-rockstar-but-didnt-love-their-pay-for-that-very-role/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/38dFMrtxrziEumiDGTPJ97-1920-80.png",
-    "published_at": "2026-11-20T11:23:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "06981408fc15",
-    "slug": "devgamm-lisbon-atari-creator-warns-of-ai-game-overload",
-    "headline": "DevGAMM Lisbon: Atari Creator Warns of AI Game Overload",
-    "summary": "Veteran game designer Howard Scott Warshaw compares the surge in AI-made games to the 1983 video game crash, citing poor-quality titles as a contributing factor.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "xbox",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/the-creator-of-et-on-the-atari-2600-likens-the-deluge-of-ai-made-games-to-the-glut-of-poor-quality-titles-released-ahead-of-the-us-video-game-crash-of-1983"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/IMG_8185.jpeg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-20T11:13:00.000Z",
-    "hype_signal": 40,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "et-the-extra-terrestial",
-    "game_label": "E.T. the Extra-Terrestial"
-  },
-  {
-    "id": "f05ff00bc137",
-    "slug": "getting-kyles-chemicals-for-free-in-gta-6",
-    "headline": "Getting Kyle's Chemicals for Free in GTA 6",
-    "summary": "A GTA 6 glitch allows players to obtain Kyle's chemicals without paying or engaging in combat, enabling a peaceful getaway with the van.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-how-get-kyle-chemicals-without-paying-fighting-hazardous-materials-walkthrough/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-demon-location-pentagram-sacrifice-exorcist/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/jason_duval_09.jpg",
-    "published_at": "2026-11-20T11:10:08.000Z",
-    "hype_signal": 10,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "7bb8b823b0f5",
-    "slug": "amds-next-gen-zen-6-desktop-cpus-are-rumoured-to-be-delayed-may-be-pus",
-    "headline": " AMD's next-gen Zen 6 desktop CPUs are rumoured to be delayed, may be pushed back to second half of 2027 ",
-    "summary": "A process switch to TSMC N2X is said to be behind the delay.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/processors/amds-next-gen-zen-6-desktop-cpus-are-rumoured-to-be-delayed-may-be-pushed-back-to-second-half-of-2027/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/bmX8yVA7wL2o5HgERs7WmY-1920-80.jpg",
-    "published_at": "2026-11-20T11:08:26.000Z",
     "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
