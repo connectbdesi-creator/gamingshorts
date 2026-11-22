@@ -28960,5 +28960,33 @@
     ],
     "stores": [],
     "fetched_at": "2026-11-22T15:37:41.946Z"
+  },
+  {
+    "slug": "dota-2",
+    "name": "Dota 2",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
+    "released": "2013-07-09",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Massively Multiplayer",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Linux"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/cef/cefd0f45c88be2d6e2ff7eed94c16cf3.jpg",
+      "https://media.rawg.io/media/screenshots/e2a/e2a1a6c8b07bcdb91d7c6050b16854c5.jpg",
+      "https://media.rawg.io/media/screenshots/55e/55e2c2ff16229eef87cfd8728ca537ac.jpg",
+      "https://media.rawg.io/media/screenshots/601/601ceb08d04da42f4de5d8b9016f31a6.jpg",
+      "https://media.rawg.io/media/screenshots/f02/f02a389dafd748b801cb4ff971a868af.jpg",
+      "https://media.rawg.io/media/screenshots/da6/da6e4cba4e5787674d0e6877d1fc426a.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-22T21:37:14.741Z"
   }
 ]
