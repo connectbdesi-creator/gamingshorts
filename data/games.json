@@ -28911,5 +28911,54 @@
     ],
     "stores": [],
     "fetched_at": "2026-11-22T13:36:36.225Z"
+  },
+  {
+    "slug": "the-binding-of-isaac",
+    "name": "The Binding of Isaac",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/cef/cefedf18016cbab466861eb698daf988.jpg",
+    "released": "2011-09-28",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "macOS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a92/a929eb8caa1364efb248c03ac676d903.jpg",
+      "https://media.rawg.io/media/screenshots/fc7/fc77e7fa174faeb7e42e8e5507ba3b83.jpg",
+      "https://media.rawg.io/media/screenshots/e49/e496a40740172a7fb77d4400a0ecacfc.jpg",
+      "https://media.rawg.io/media/screenshots/784/784b52d3d34a3aa2f67586a252eb9d08.jpg",
+      "https://media.rawg.io/media/screenshots/7d9/7d96c6cbf364399aec83ec35953fe311.jpg",
+      "https://media.rawg.io/media/screenshots/aca/acacefcdac3381ea1775b6e8b29a9a8c.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-22T15:37:40.982Z"
+  },
+  {
+    "slug": "cyberpunk-2",
+    "name": "CYBERPUNK 2",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/e34/e34fdc44ba94a838ce4fbc674b4d59da.jpg",
+    "released": "2021-01-28",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/e34/e34fdc44ba94a838ce4fbc674b4d59da.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-22T15:37:41.946Z"
   }
 ]

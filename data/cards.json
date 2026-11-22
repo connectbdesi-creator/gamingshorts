@@ -1,5 +1,426 @@
 [
   {
+    "id": "c511eb07d0f1",
+    "slug": "grand-theft-auto-6-might-have-confirmed-rockstars-next-game",
+    "headline": "Grand Theft Auto 6 Might Have Confirmed Rockstar's Next Game",
+    "summary": "A newly resurfaced piece of evidence suggests Rockstar Games' next title after GTA 6 might be a different game than expected, involving a surprising IP that few were aware of.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-rockstar-next-game-la-noire-2-leak/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/rockstar-games-next-game-la-noire-2-leak-claims-2030-release-gamerant.jpg",
+    "published_at": "2026-11-22T15:30:14.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3d12cfbc9a36",
+    "slug": "gta-6-parody-in-the-binding-of-isaac-used-ai-without-creators-knowledg",
+    "headline": "GTA 6 Parody in The Binding of Isaac Used AI Without Creator's Knowledge",
+    "summary": "A parody in The Binding of Isaac update used AI-generated music without Edmund McMillen's knowledge or permission.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-parody-binding-of-isaac-ai-use/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/binding-of-isaac-repentance-cropped-1.jpg",
+    "published_at": "2026-11-22T15:29:47.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-binding-of-isaac",
+    "game_label": "The Binding of Isaac"
+  },
+  {
+    "id": "e598d55efe3e",
+    "slug": "cyberpunk-2-director-says-gta-6-is-the-greatest-artistic-achievement-i",
+    "headline": "Cyberpunk 2 Director Says GTA 6 is the Greatest Artistic Achievement In History",
+    "summary": "CD Projekt Red's director believes that matching GTA 6's resources and budget is impossible, highlighting the game's artistic achievement.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/cyberpunk-2-wont-copy-gta-6/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/07/mixcollage-06-jul-2026-03-44-pm-1816.jpg",
+    "published_at": "2026-11-22T15:16:44.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "cyberpunk-2",
+    "game_label": "Cyberpunk 2"
+  },
+  {
+    "id": "e670cfaf3130",
+    "slug": "fortnite-treasure-hunters-gold-sprite-locations-revealed",
+    "headline": "Fortnite Treasure Hunters Gold Sprite Locations Revealed",
+    "summary": "Fortnite Treasure Hunters has introduced Gold Sprite variants, but players are unsure where to find them. The game has provided a list of locations for the new variants.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/fortnite-treasure-hunters-gold-sprites-location-how-to-get-effect/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/all-gold-sprites-in-fortnite-treasure-hunters.jpg",
+    "published_at": "2026-11-22T15:04:47.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "fortnite-treasure-hunters",
+    "game_label": "Fortnite Treasure Hunters"
+  },
+  {
+    "id": "adcb3c6a742d",
+    "slug": "gta-6-could-actually-lose-at-least-3-game-awards-categories",
+    "headline": "GTA 6 Could Actually Lose at Least 3 Game Awards Categories",
+    "summary": "Polygon speculates Rockstar's next GTA game might not sweep all Game of the Year categories due to industry trends and award changes",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-goty-game-awards-sweep/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_and_lucia_14-2.jpg",
+    "published_at": "2026-11-22T15:00:18.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "c421e693b204",
+    "slug": "the-gtas-that-are-still-worth-playing-while-you-wait-for-gta-6",
+    "headline": "The GTAs that are still worth playing while you wait for GTA 6",
+    "summary": "PC Gamer lists several Grand Theft Auto games that are still enjoyable to play before the release of GTA 6",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/the-gtas-that-are-still-worth-playing-while-you-wait-for-gta-6-on-pc/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/efAnj32m7jksy98SeLMVmY-1920-80.jpg",
+    "published_at": "2026-11-22T15:00:00.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto",
+    "game_label": "Grand Theft Auto"
+  },
+  {
+    "id": "59a774886f61",
+    "slug": "how-to-flip-an-overturned-car-in-gta-6",
+    "headline": "How to Flip an Overturned Car in GTA 6",
+    "summary": "Rockstar Games' upcoming open-world game GTA 6 will allow players to physically flip an overturned car with brute force.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-flip-car/"
+      },
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mamba-gt-locations/"
+      },
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-arthur-morgans-hat/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/yVBmP6rZsE7RjwUgHxuc4Y-1920-80.jpg",
+    "published_at": "2026-11-22T14:53:59.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "751965407709",
+    "slug": "the-binding-of-isaacs-new-update-ditches-ai-generated-music",
+    "headline": "The Binding of Isaac's New Update Ditches AI-Generated Music",
+    "summary": "The Binding of Isaac's latest update has removed AI-generated music, leaving the game's soundtracks unchanged. The change was made in response to community feedback, according to the developers.",
+    "category": "patches",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/roguelike/the-binding-of-isaac-removes-ai-generated-music-from-new-update-and-designer-edmund-mcmillen-is-looking-into-how-that-happened/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/8nm9sSTCd3H2bvm46Dngb4-1920-80.jpg",
+    "published_at": "2026-11-22T14:50:29.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-binding-of-isaac",
+    "game_label": "The Binding of Isaac"
+  },
+  {
+    "id": "35c6be810b9c",
+    "slug": "gta-6-players-keep-discovering-ridiculous-new-ways-to-steal-money",
+    "headline": "GTA 6 Players Keep Discovering Ridiculous New Ways To Steal Money",
+    "summary": "GTA 6 players are discovering new creative solutions to get rich in Rockstar Games' latest open-world adventure.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-players-ridiculous-ways-to-steal-money/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/raul_bautista_landscape.jpg",
+    "published_at": "2026-11-22T14:36:30.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "bd2dff519c19",
+    "slug": "should-you-shoot-halifax-in-gta-6-kill-or-spare-him-in-dubious-provena",
+    "headline": "Should you shoot Halifax in GTA 6? Kill or spare him in Dubious Provenance",
+    "summary": "The article explores what happens when playing GTA 6's Dubious Provenance, specifically the choice to spare or kill Benjamin Halifax.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/should-you-shoot-halifax-in-gta-6-kill-or-spare-him-in-dubious-provenance/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/bd2dff519c19/800/600",
+    "published_at": "2026-11-22T14:28:05.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
+    "id": "1ffe977485e6",
+    "slug": "gta-6-glitch-unlocks-the-fps-on-xbox-series-xs-but-with-multiple-drawb",
+    "headline": "GTA 6 Glitch Unlocks The FPS On Xbox Series X|S, But With Multiple Drawbacks",
+    "summary": "It's a bug related to Quick Resume on Series X|S. If there's anything we could add to GTA 6 as things stand, it'd be an official 60FPS mode. That's obviously not possible right now due to how demanding the game is on PS5 and Xbox Series X|S hardware, even in the case of the PS5 Pro. Interestingly though, over the…",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/gta-6-glitch-unlocks-the-fps-on-xbox-series-xs-but-with-multiple-drawbacks"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/d6d0ddc82be6c/large.jpg",
+    "published_at": "2026-11-22T14:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "1bc7b02f1aca",
+    "slug": "nintendo-life-mailbox-is-barely-there-this-month",
+    "headline": "Nintendo Life Mailbox is Barely There This Month",
+    "summary": "The Nintendo Life Mailbox is lighter than usual this month, with the team busy with games like Ocarina of Time and Pikmin, leaving the mailbox pretty empty. Next issue, though, will bring a new surprise.",
+    "category": "industry",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/mailbox-ocarina-intruders-pikmin-day-too-many-humans-nintendo-life-letters"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/5890246f89f6b/large.jpg",
+    "published_at": "2026-11-22T14:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ae272f717452",
+    "slug": "the-legend-of-zelda-ocarina-of-times-final-cutscene-was-something-nint",
+    "headline": " The Legend of Zelda: Ocarina of Time's final cutscene was something Nintendo \"heavily discussed\" ",
+    "summary": "Full circle",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-ocarina-of-times-emotional-final-cutscene-was-something-nintendo-heavily-discussed/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/jaxxxE8nT8jqBysVopTthn-1920-80.jpg",
+    "published_at": "2026-11-22T13:58:02.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "947985e65087",
+    "slug": "can-you-free-roam-after-beating-gta-6",
+    "headline": "Can you free-roam after beating GTA 6?",
+    "summary": "Grand Theft Auto 6 allows players to continue playing after completing the game's credits.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-play-after-credits-beating-the-game/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/QW5FCYaqAURhyZKEhu78Ge-1920-80.jpg",
+    "published_at": "2026-11-22T13:57:14.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "2458a470827d",
+    "slug": "gta-6-at-60fps-is-actually-possible-thanks-to-an-xbox-series-x-glitch",
+    "headline": "GTA 6 at 60fps is actually possible thanks to an Xbox Series X glitch",
+    "summary": "A glitch in the Xbox Series X allows players to run GTA 6 at 60 frames per second, potentially setting a precedent for console performance.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-at-60fps-is-actually-possible-thanks-to-an-xbox-series-x-glitch-but-you-might-need-to-stomach-double-speed-animations-too/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/igwCMw9CEsQDbWE7Waxm6G-1920-80.jpg",
+    "published_at": "2026-11-22T13:32:23.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "c0d1438ffddd",
+    "slug": "gta-6-cars-emphasized-beyond-getaway-vehicles",
+    "headline": "GTA 6 Cars Emphasized Beyond Getaway Vehicles",
+    "summary": "Grand Theft Auto 6 prioritizes cars beyond just high-speed chases, focusing on their use as a mobile base in the game",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/in-gta-6-cars-are-way-way-more-than-just-getaway-wheels"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/21/gta-6-car-op-ed-blogroll-1795266423380.jpg",
+    "published_at": "2026-11-22T13:30:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "279dd26bc9f8",
+    "slug": "grand-theft-auto-6-features-complex-drug-network",
+    "headline": "Grand Theft Auto 6 Features Complex Drug Network",
+    "summary": "Grand Theft Auto 6 incorporates a detailed drug network system, providing a sense of realism and immersion.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-has-a-complex-drug-network-that-tracks-everything-from-where-drugs-come-from-to-how-they-eventually-reach-the-street-level-buyer/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/s8f7vCvwQwKdVpYM98hjNQ-1920-80.jpg",
+    "published_at": "2026-11-22T13:25:42.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
     "id": "c0c437640613",
     "slug": "grand-theft-auto-6-leak-comparison-shows-you-should-never-doubt-rockst",
     "headline": "Grand Theft Auto 6 Leak Comparison Shows You Should Never Doubt Rockstar",
@@ -190,6 +611,29 @@
     "game_label": "E.T."
   },
   {
+    "id": "de84f6dcc666",
+    "slug": "league-of-legends-returns-to-esports-world-cup",
+    "headline": "League of Legends Returns to Esports World Cup",
+    "summary": "League of Legends will compete in the Esports World Cup for the fourth consecutive time, with South Korea aiming to win its fourth title",
+    "category": "esports",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/league-of-legends-confirmed-for-esports-world-cup-2027-as-south-korea-targets-fourth-consecutive-title/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/de84f6dcc666/800/600",
+    "published_at": "2026-11-22T12:08:43.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "league-of-legends",
+    "game_label": "League of Legends"
+  },
+  {
     "id": "e35f15d9ebd8",
     "slug": "over-half-of-all-console-players-active-on-gta-6s-launch-day-played-it",
     "headline": "Over half of all console players active on GTA 6's launch day played it, says Circana",
@@ -231,6 +675,29 @@
     "image_url": "https://images.purexbox.com/69ce19fde04cc/large.jpg",
     "published_at": "2026-11-22T12:00:00.000Z",
     "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b02b41451adc",
+    "slug": "miyamoto-honored-with-legend-award-at-30th-dice-awards",
+    "headline": "Miyamoto Honored with Legend Award at 30th D.I.C.E. Awards",
+    "summary": "Shigeru Miyamoto, director of Nintendo, was selected as the inaugural Legend Award inductee at the 30th Annual D.I.C.E. Awards, recognizing his contributions to the gaming industry.",
+    "category": "industry",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/shigeru-miyamoto-selected-as-inaugural-legend-award-inductee-at-30th-annual-d-i-c-e-awards/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/b02b41451adc/800/600",
+    "published_at": "2026-11-22T11:57:48.000Z",
+    "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -281,32 +748,6 @@
     "image_url": "https://assetsio.gnwcdn.com/gta-6-rockstar-art-jason-and-lucia-sitting-together.jpg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-11-22T11:22:10.000Z",
     "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "59a774886f61",
-    "slug": "how-to-flip-an-overturned-car-in-gta-6",
-    "headline": "How to Flip an Overturned Car in GTA 6",
-    "summary": "Rockstar Games' upcoming open-world game GTA 6 will allow players to physically flip an overturned car with brute force.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-flip-car/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/yVBmP6rZsE7RjwUgHxuc4Y-1920-80.jpg",
-    "published_at": "2026-11-22T11:13:33.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": "grand-theft-auto-6",
@@ -4402,408 +4843,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "213cd26fe0aa",
-    "slug": "gta-6s-autosave-is-ruining-the-game-but-not-for-the-reason-you-think",
-    "headline": "GTA 6's Autosave Is Ruining The Game, But Not For The Reason You Think",
-    "summary": "GTA 6 fans say they're losing many hours of progress during their adventures with Jason and Lucia, but the issue is deeper than lost time",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-auto-save-does-it-why-cant-i-mission-checkpoint-gameplay/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/gta-lucia-jason-sunglasses.jpg",
-    "published_at": "2026-11-20T17:19:57.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "47c8b2ffd948",
-    "slug": "these-13-black-friday-deals-will-help-you-upgrade-your-gta-6-setup",
-    "headline": " These 13 Black Friday deals will help you upgrade your GTA 6 setup ",
-    "summary": "GTA 6 is here, and so are early Black Friday deals. Here's how they can help you enhance your setup for hours of GTA gameplay.",
-    "category": "deals",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/these-13-early-black-friday-deals-will-help-you-upgrade-your-gta-6-setup-from-game-discounts-to-controllers-headsets-and-more/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/bGBhUvqq7Jrh849K3v5CJR-1920-80.jpg",
-    "published_at": "2026-11-20T17:18:27.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "96b466ce42ca",
-    "slug": "nintendo-reinstates-smilebasic-4-to-the-eshop-after-it-was-used-for-sw",
-    "headline": " Nintendo reinstates SmileBasic 4 to the eShop after it was used for Switch 2 jailbreaks ",
-    "summary": "Finally, law-abiding Switch 2 users can rest easy",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/nintendo-reinstates-smilebasic-4-to-the-eshop-after-it-was-used-for-switch-2-jailbreaks/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/HeKahFgtEdEDNPF8tadfx7-1920-80.jpg",
-    "published_at": "2026-11-20T17:18:25.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6499fb45c6f4",
-    "slug": "gta-6-players-agree-that-jasons-stash-needs-a-major-tweak",
-    "headline": "GTA 6 Players Agree That Jason's Stash Needs a Major Tweak",
-    "summary": "GTA 6 players can't help but agree that controlling Jason's stash is harder than it needs to be, and they're asking Rockstar Games for a fix.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6-players-agree-that-jasons-stash-needs-a-major-tweak"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/20/gta-6-jasons-stash-1795194400431.png",
-    "published_at": "2026-11-20T17:15:44.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "532f15037729",
-    "slug": "gta-6-is-crashing-on-some-ps5s-with-ce-108255-1-error-code",
-    "headline": "GTA 6 Is Crashing On Some PS5s With CE-108255-1 Error Code",
-    "summary": "After years of waiting, GTA fans can finally play GTA 6, but some players are encountering a dreaded error code that makes the game crash or otherwise fail. Users are reporting receiving the CE-108255-1 error code, which players might see when a game crashes mid-session or fails to load entirely. Crashing mid-game in GTA 6 would be particularly frustrating given…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gta-6-is-crashing-on-some-ps5s-with-ce-108255-1-error-code/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTALucia.png?w=300",
-    "published_at": "2026-11-20T17:11:20.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0f829ec15def",
-    "slug": "shrek-2-remastered-fails-to-capture-the-magic-of-its-source-material",
-    "headline": "Shrek 2 Remastered Fails To Capture The Magic Of Its Source Material",
-    "summary": "Despite its potential, Shrek 2 Remastered ultimately fails to bring the game up to modern standards while also removing some of its original charm.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/shrek-2-remastered-review/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/11/shrek-closeup-in-shrek-2-remastered.jpg",
-    "published_at": "2026-11-20T17:01:21.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4dd27fb75298",
-    "slug": "share-of-the-week-texture",
-    "headline": "Share of the Week: Texture",
-    "summary": "Last week, we asked you to share textures from the game of your choice using #PSshare #PSBlog for a chance to be featured. Here are this week’s highlights: John_Varela_R shared a detailed look at Arjun’s necklace in Saros heavenlydemon94 shared the stones beneath water in Ghost of Yōtei den_g shared a stony road covered in […]",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PlayStation Blog",
-        "url": "https://blog.playstation.com/2026/11/20/share-of-the-week-texture/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/4dd27fb75298/800/600",
-    "published_at": "2026-11-20T17:00:19.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "026f9cb3549f",
-    "slug": "can-jason-and-lucia-actually-get-naked-in-grand-theft-auto-6",
-    "headline": "Can Jason And Lucia Actually Get Naked In Grand Theft Auto 6?",
-    "summary": "Early leaks showed Jason rocking out with his hog out, but can you actually do that in the final game?",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/grand-theft-auto-6-naked-nudity-jason-lucia-sex-scenes-shower-2000758866"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/11/jasoncropped-1280x701.jpg",
-    "published_at": "2026-11-20T17:00:11.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1e370720a6b6",
-    "slug": "gta-6-display-settings-explained",
-    "headline": "GTA 6 Display Settings Explained",
-    "summary": "IGN provides tips for customizing display settings in GTA 6, such as reducing brightness and motion blur, to enhance the Vice City experience on non-PC platforms.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6-display-settings-explained-our-recommendations-for-motion-blur-brightness-reduction-and-more"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/20/ultimate-edition-saras-salon-03-1795193756470.jpg",
-    "published_at": "2026-11-20T16:56:06.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "45a8e35a6eb1",
-    "slug": "its-officially-the-end-of-an-era-for-playstation",
-    "headline": "It's Officially the End of an Era for PlayStation",
-    "summary": "A defining era for PlayStation and its games comes to an end, and it's a foreboding sign of what's to come in the next generation.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/playstation-games-goty-nominations-streak-over-bad/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/playstation-sunset-game-rant.jpg",
-    "published_at": "2026-11-20T16:48:50.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6f2aa5c8799c",
-    "slug": "gamestop-boss-calls-for-return-of-physical-discs-just-as-gta-6-does-di",
-    "headline": " GameStop boss calls for return of physical discs just as GTA 6 does digital gangbusters ",
-    "summary": "Yes, it's true: this man has no disc.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/gaming-industry/gamestop-boss-calls-for-return-of-physical-discs-just-as-gta-6-does-digital-gangbusters/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/sem9rUwweFsxvNMZtfPBPU-1920-80.jpg",
-    "published_at": "2026-11-20T16:45:10.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "04532fb5efcc",
-    "slug": "avoiding-steam-machine-this-black-friday-heres-what-other-mini-pcs-can",
-    "headline": " Avoiding Steam Machine this Black Friday? Here's what other mini PCs can actually get you for your cash ",
-    "summary": "I've spent months playing, working, and living with mini PCs across the price range to see exactly what you get for your cash in 2026.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/desktop-pc/avoid-steam-machine-this-black-friday-with-our-guide-to-mini-pc-alternatives/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/XTTKvmE4StRGN85rLXrESQ-1920-80.jpg",
-    "published_at": "2026-11-20T16:41:55.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9d659fb7bf62",
-    "slug": "gta-6-doesnt-have-any-doja-cat-music-and-she-didnt-censor-her-message",
-    "headline": "GTA 6 Doesn’t Have Any Doja Cat Music, And She Didn’t Censor Her Message To Rockstar",
-    "summary": "Rockstar's Grand Theft Auto 6 is out now, and the game features a lot of music from famous real-world artists. But Doja Cat is not among them. She's not happy about that, either. Doja Cat said online that she is \"so f**kin bitter\" about that. In follow-up posts, she told Rockstar to \"eat my d**k.\" She said she loves GTA…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gta-6-doesnt-have-any-doja-cat-music-and-she-didnt-censor-her-message-to-rockstar/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_12.jpg?w=300",
-    "published_at": "2026-11-20T16:41:04.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "626c06f17243",
-    "slug": "gta-6-doesnt-officially-have-first-person-but-you-can-force-it-to-here",
-    "headline": "GTA 6 Doesn't Officially Have First-Person, but You Can Force It to — Here's How to Do It",
-    "summary": "GTA 6 may not have launched with the option to play it entirely in first-person, but where there’s a will, there’s a way. Players have already worked out how to switch from the default third-person perspective, and it requires quite a few fiddly button presses.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6-doesnt-officially-have-first-person-but-you-can-force-it-to-heres-how-to-do-it"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/20/screenshot-2026-11-20-163743-1795192684888.png",
-    "published_at": "2026-11-20T16:38:18.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b108743d6a23",
-    "slug": "best-budget-pro-controllers-this-black-friday",
-    "headline": "Best Budget Pro Controllers This Black Friday",
-    "summary": "GamesRadar+ has found several budget pro controllers discounted during Black Friday, with many priced under $50.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/gaming-controllers/these-are-the-budget-controller-deals-id-recommend-this-black-friday-that-all-fall-under-usd100/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/GY6YKmnCGbSofdBfHsWhVi-1920-80.jpg",
-    "published_at": "2026-11-20T16:36:22.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2372627a31f1",
-    "slug": "here-are-the-best-saves-to-start-in-fm-27",
-    "headline": "Here Are The Best Saves To Start In FM 27",
-    "summary": "TheGamer recommends the best saves to start in FM 27, a new challenge for fans of the football management simulation game.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/football-manager-27-best-teams-to-manage/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/fm-27-best-clubs-to-manage.jpg",
-    "published_at": "2026-11-20T16:34:28.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "fm-27",
-    "game_label": "FM 27"
-  },
-  {
-    "id": "30ebb1c33999",
-    "slug": "gta-6s-tenebrae-lux-is-a-hilarious-parody-of-video-game-auteurs-and-a",
-    "headline": "GTA 6′s Tenebrae Lux Is A Hilarious Parody Of Video Game Auteurs, And A Surprisingly Good Puzzle Diversion",
-    "summary": "The Kotaku review",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/gta-6s-tenebrae-lux-is-a-hilarious-parody-of-video-game-auteurs-and-a-surprisingly-good-puzzle-diversion-2000758837"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/11/tenebraeluxe3-1280x720.jpg",
-    "published_at": "2026-11-20T16:30:49.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4d12cb733b07",
-    "slug": "november-24-is-suddenly-an-exciting-day-for-diablo-4-players",
-    "headline": "November 24 is Suddenly an Exciting Day for Diablo 4 Players",
-    "summary": "Blizzard has announced something that may make November 24 a significant day for Diablo 4 players, though the specifics are not yet clear.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/diablo-4-season-16-reveal-november-24-2026/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/diablo-4-season-16-reveal-november-24-2026.jpg",
-    "published_at": "2026-11-20T16:30:15.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "diablo-4",
-    "game_label": "Diablo 4"
   }
 ]
