@@ -1,5 +1,77 @@
 [
   {
+    "id": "50ae49daa5d9",
+    "slug": "activision-patents-ai-voice-system-that-learns-from-in-game-chat-and-c",
+    "headline": "Activision patents AI voice system that learns from in-game chat and creates audio for NPCs who can even speak in place of you",
+    "summary": "Call of Duty publisher Activision has filed for a new patent allowing it to train NPCs on real-world player voice chat. The patent describes an AI-driven system that listens in on player voice chat following key gameplay moments and later recreates it using in-game characters.\n Read more",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/activision-ai-voice-chat-npc-patent"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-beta-shot-crop-2.jpeg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-23T09:27:50.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b85ab946de2c",
+    "slug": "disney-dreamlight-valley-beat-the-oceans-of-truth-quest",
+    "headline": "Disney Dreamlight Valley: Beat the Oceans of Truth Quest",
+    "summary": "The Oceans of Truth quest in Disney Dreamlight Valley requires beating the quest to understand statue positions and locating the last magical letters.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/disney-dreamlight-valley-ddv-oceans-of-truth-quest-turn-statue-correct-position-puzzle/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/oceans-of-truth-quest-guide-statues-position-puzzle-in-ddv.jpg",
+    "published_at": "2026-11-23T09:11:20.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "disney-dreamlight-valley",
+    "game_label": "Disney Dreamlight Valley"
+  },
+  {
+    "id": "b0020388230b",
+    "slug": "naughty-dog-dev-gta-6-appears-to-him-as-as-a-bugatti-veyron-would-to-a",
+    "headline": "Naughty Dog Dev: GTA 6 Appears to Him as ‘as a Bugatti Veyron Would to a Nervous Victorian Child’",
+    "summary": "Rockstar Games' upcoming Grand Theft Auto VI has left its developers, including Naughty Dog, in awe of its advancements",
+    "category": "industry",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/naughty-dog-dev-gta-6-appears-to-him-as-as-a-bugatti-veyron-would-to-a-nervous-victorian-child"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/18/g-blog-6-1795002008156.jpg",
+    "published_at": "2026-11-23T07:58:42.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-vi",
+    "game_label": "Grand Theft Auto VI"
+  },
+  {
     "id": "1baf42e469ab",
     "slug": "searching-the-sea-floor-for-the-plane-quest-in-gta-6",
     "headline": "Searching The Sea Floor For The Plane Quest in GTA 6",
@@ -24,6 +96,29 @@
     "comment_count": 0,
     "game": "gta-6",
     "game_label": "GTA 6"
+  },
+  {
+    "id": "26adbaab1ba6",
+    "slug": "red-bull-india-hosts-battlegrounds-mobile-india-esports-season-finale",
+    "headline": "Red Bull India Hosts Battlegrounds Mobile India Esports Season Finale at Museum",
+    "summary": "Red Bull India will host the LAN Finale of its Battlegrounds Mobile India esports tournament at the Museo Camera Centre for the Photographic Arts in Gurugram, India.",
+    "category": "esports",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/red-bull-india-will-hold-season-finale-for-battlegrounds-mobile-india-esports-tournament-at-museum/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/26adbaab1ba6/800/600",
+    "published_at": "2026-11-23T06:08:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "battlegrounds-mobile-india",
+    "game_label": "Battlegrounds Mobile India"
   },
   {
     "id": "a42386ff1aed",
@@ -4740,93 +4835,6 @@
     "image_url": "https://cdn.mos.cms.futurecdn.net/gMvYBKzqNGgwzXhZgvjq88-1920-80.png",
     "published_at": "2026-11-20T21:49:49.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "264ef769026e",
-    "slug": "gta-6-players-are-officially-spending-an-absolutely-bonkers-amount-of",
-    "headline": "GTA 6 Players Are Officially Spending an ‘Absolutely Bonkers’ Amount of Time with the Game",
-    "summary": "Grand Theft Auto 6 players enjoyed GTA 6 for an average of eight hours on its launch day, an \"absolutely bonkers\" number.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-playtime-stats-launch-day-ps5-xbox-series-x/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ultimate_edition_vice_city_style_01.jpg",
-    "published_at": "2026-11-20T21:28:55.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "11dd71f7d420",
-    "slug": "rockstar-releases-grand-theft-auto-vi-the-album-with-playboi-carti-lan",
-    "headline": "Rockstar releases ‘Grand Theft Auto VI: The Album’ with Playboi Carti, Lana Del Rey and Dua Lipa",
-    "summary": "Rockstar Games is set to drop Grand Theft Auto VI: The Album today, a 34-track collection featuring new music from global artists including Playboi...\nThe post Rockstar releases ‘Grand Theft Auto VI: The Album’ with Playboi Carti, Lana Del Rey and Dua Lipa appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/rockstar-releases-grand-theft-auto-vi-the-album-with-playboi-carti-lana-del-rey-and-dua-lipa/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/11dd71f7d420/800/600",
-    "published_at": "2026-11-20T21:21:53.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e60ae122343b",
-    "slug": "every-free-game-this-week-on-steam-epic-and-xbox-nov-20-26",
-    "headline": "Every Free Game This Week on Steam, Epic, and Xbox (Nov. 20-26)",
-    "summary": "Check out the free games you can try out this week across all digital platforms.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/free-games-right-now-steam-epic-ps-plus-nov-20-26/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/crusader-kings-3-1.jpg",
-    "published_at": "2026-11-20T21:21:08.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "fa487b18b69a",
-    "slug": "star-wars-kotor-remake-trailer-heavily-rumored-for-this-years-game-awa",
-    "headline": "Star Wars KOTOR Remake Trailer Heavily Rumored For This Year’s Game Awards",
-    "summary": "While there's still no official confirmation, it looks like December will be a big month for Star Wars fans.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/star-wars-knights-of-the-old-republic-kotor-trailer-rumor/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/darth-reven-and-darth-malak-in-front-of-kotor-remake-promotional-image.jpg",
-    "published_at": "2026-11-20T21:16:12.000Z",
-    "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
