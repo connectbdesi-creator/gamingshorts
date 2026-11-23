@@ -1,5 +1,527 @@
 [
   {
+    "id": "b3605684075d",
+    "slug": "grand-theft-auto-vi-launches-on-playstation",
+    "headline": "Grand Theft Auto VI Launches on PlayStation",
+    "summary": "Grand Theft Auto VI has launched on PlayStation, marking a significant milestone in the platform's history, and the community is eagerly embracing the game's vast open world and gameplay features.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/11/23/thank-you-for-making-grand-theft-auto-vi-the-biggest-launch-in-playstation-history/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/b3605684075d/800/600",
+    "published_at": "2026-11-23T23:30:13.000Z",
+    "hype_signal": 90,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-vi",
+    "game_label": "Grand Theft Auto VI"
+  },
+  {
+    "id": "33a1af89256e",
+    "slug": "gta-6-easter-egg-puzzle-solved-in-just-3-days",
+    "headline": "GTA 6 Easter Egg Puzzle Solved in Just 3 Days",
+    "summary": "A YouTuber has cracked the code to a GTA 6 Easter egg puzzle in record time, uncovering a surprising revelation.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-easter-egg-danny-dyer-kent-paul"
+      },
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/one-of-gta-6s-most-elaborate-easter-eggs-has-been-solved/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-ghost-ship-lighthouse-mystery-easter-egg/"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gtavi-48-1795462919278.jpg",
+    "published_at": "2026-11-23T23:23:12.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "44434d0baccc",
+    "slug": "who-plays-mandy-in-gta-6",
+    "headline": "Who Plays Mandy in GTA 6?",
+    "summary": "The article reveals the voice actor behind Mandy in Grand Theft Auto 6",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/who-plays-mandy-in-gta-6/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-kraken-location-easter-egg/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/44434d0baccc/800/600",
+    "published_at": "2026-11-23T23:22:43.000Z",
+    "hype_signal": 10,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
+    "id": "a3a9dfddbd6e",
+    "slug": "gta-6-players-are-convinced-rockstar-painted-a-fake-tunnel-just-to-tri",
+    "headline": "GTA 6 Players Are Convinced Rockstar Painted a Fake Tunnel Just to Trick Them Into a Looney Tunes-Style Crash",
+    "summary": "GTA 6 players are convinced that Rockstar Games painted a fake tunnel in Vice City just to trick them into ramming into it in a Looney Tunes-style crash.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-players-are-convinced-rockstar-painted-a-fake-tunnel-just-to-trick-them-into-a-looney-tunes-style-crash"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta-6-secret-blogroll-1795445757736.jpg",
+    "published_at": "2026-11-23T23:03:36.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "240421baf8dc",
+    "slug": "grand-theft-auto-6-hacker-released-on-parole",
+    "headline": "Grand Theft Auto 6 Hacker Released on Parole",
+    "summary": "Arion Kurtaj, convicted of hacking Grand Theft Auto 6, has been released on parole with a warning, allowing him to continue his online activities with restrictions.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/the-grand-theft-auto-6-hacker-who-was-hospitalized-in-2023-has-been-released-on-parole-with-a-warning-not-to-do-it-again/"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-myths-debunked/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/DHupw3zsDFv4RvF7fLXLPV-1920-80.jpg",
+    "published_at": "2026-11-23T23:01:27.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "b47ea02440ad",
+    "slug": "valve-awards-the-witcher-3-and-gta-5-goty-for-years-they-didnt-release",
+    "headline": "Valve Awards The Witcher 3 and GTA 5 GOTY for Years They Didn't Release",
+    "summary": "Valve has announced its Game of the Year winners for years past, defying common convention by awarding titles that were not released during those years",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/valve-crowns-the-witcher-3-and-gta-5-goty-for-years-they-did-not-release-in/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ADYSAqQfGSUu3arn4jLYqC-1920-80.jpg",
+    "published_at": "2026-11-23T22:58:25.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-3-wild-hunt",
+    "game_label": "The Witcher 3: Wild Hunt"
+  },
+  {
+    "id": "63f1a62deb69",
+    "slug": "finding-port-gellhorns-missing-tourists-in-gta-6",
+    "headline": "Finding Port Gellhorn's Missing Tourists in GTA 6",
+    "summary": "A helpful guide for GTA 6 players looking for the missing tourists in Port Gellhorn",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-port-gellhorn-missing-tourists-where-to-find-serial-killer/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-port-gelhorn-missing-tourists.jpg",
+    "published_at": "2026-11-23T22:48:22.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "d4787935a202",
+    "slug": "gta-6-players-discover-60-fps-glitch-but-its-unstable",
+    "headline": "GTA 6 Players Discover 60 FPS Glitch, But It's Unstable",
+    "summary": "PC Gamer reports on a 60 FPS glitch in Grand Theft Auto 6, but notes that it's too unstable for widespread use.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-players-found-a-60-fps-glitch-but-its-too-unstable-to-stop-me-from-wishing-it-was-on-pc-already/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/AcdJAwhDDrMcgdCiMZLoN6-1920-80.jpg",
+    "published_at": "2026-11-23T22:47:08.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "9c70fb43fc32",
+    "slug": "gta-6-photos-mispromised-as-game-screenshot",
+    "headline": "GTA 6 Photos Mispromised as Game Screenshot",
+    "summary": "GTA 6's graphics are so realistic that real-life photos and videos are being mistaken for game footage",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-looks-so-good-that-real-photos-and-videos-are-being-mistaken-as-screenshots-from-the-game"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/19/gtfm-oo-1795100688369.png",
+    "published_at": "2026-11-23T22:43:02.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
+    "id": "994ae6d84aff",
+    "slug": "team-fortress-2-update-released",
+    "headline": "Team Fortress 2 Update Released",
+    "summary": "Valve has released a new update for Team Fortress 2 on Steam.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Steam",
+        "url": "https://store.steampowered.com/news/293917/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/994ae6d84aff/800/600",
+    "published_at": "2026-11-23T22:35:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "team-fortress-2",
+    "game_label": "Team Fortress 2"
+  },
+  {
+    "id": "f9ff62411134",
+    "slug": "gta-6-players-are-getting-banned-from-psn-for-sharing-screenshots",
+    "headline": "GTA 6 Players Are Getting Banned from PSN for Sharing Screenshots",
+    "summary": "Some GTA 6 players are having their PSN accounts suspended for sharing in-game screenshots of content that violates PlayStation's terms of service.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-psn-ban-screenshot-nudity/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/gta-6-psn-account-bans.jpg",
+    "published_at": "2026-11-23T22:30:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "11c3e30818ab",
+    "slug": "gta-6-praised-for-its-accurate-portrayal-of-felon-rehabilitation",
+    "headline": "GTA 6 Praised for Its Accurate Portrayal of Felon Rehabilitation",
+    "summary": "GTA 6 is receiving praise for its portrayal of the challenges faced by felons in rebuilding their lives, with some critics noting that the game's commentary on the rehabilitation process is refreshingly accurate.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-praised-for-its-accurate-portrayal-of-felon-rehabilitation"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta-6-lucia-explosion-1795467537268.jpg",
+    "published_at": "2026-11-23T22:25:46.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
+    "id": "59a774886f61",
+    "slug": "how-to-flip-an-overturned-car-in-gta-6",
+    "headline": "How to Flip an Overturned Car in GTA 6",
+    "summary": "Rockstar Games' upcoming open-world game GTA 6 will allow players to physically flip an overturned car with brute force.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-flip-car/"
+      },
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mamba-gt-locations/"
+      },
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-arthur-morgans-hat/"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-bf-bandito-steal-how-to-moses-grand-theft-auto/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/grand-theft-auto-6-easter-eggs-gta-4-girl/"
+      },
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/gta-6-boobie-time-walkthrough-how-to-complete-the-mission-and-rewards/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/how-flip-your-car-back-over-gta-6/"
+      },
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-schafter-v12/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-how-get-smuggler-gorse-425-shotgun-legendary/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-top-billing-quest-how-find-roxy-dimez-backstage-cut-power/"
+      },
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/gta-6-here-kitty-kitty-mission-walkthrough-how-to-find-charles/"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/are-couples-really-breaking-up-over-gta-6"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-advanced-trackers-guide/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/yVBmP6rZsE7RjwUgHxuc4Y-1920-80.jpg",
+    "published_at": "2026-11-23T22:14:11.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "e325f619cc5e",
+    "slug": "tinybuild-ceo-says-ai-clones-are-unbeatable-in-game-feel",
+    "headline": "TinyBuild CEO Says AI Clones Are Unbeatable in Game Feel",
+    "summary": "TinyBuild CEO emphasizes that game feel and loop are crucial to success, suggesting that AI clones can replicate these elements, making them hard to distinguish from human-made games.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/probably-stolen-publisher-ceo-tells-game-devs-not-to-stress-about-ai-clones-because-game-feel-is-impossible-to-copy/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/qNCqmegvgEdkbyZ5gEvGnE-1920-80.jpg",
+    "published_at": "2026-11-23T22:12:33.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "eb835ebd70df",
+    "slug": "gta-6-train-can-be-stopped-but-players-were-expecting-a-bigger-challen",
+    "headline": "GTA 6 Train Can Be Stopped, But Players Were Expecting a Bigger Challenge",
+    "summary": "GTA 6 players were initially disappointed to find that the game's train can be stopped after spending 13 years with the 'unstoppable' GTA 5 train",
+    "category": "industry",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-players-are-upset-its-new-train-can-actually-be-stopped-after-spending-13-years-with-the-unstoppable-gta-5-train"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta-6-train-1795470147994.png",
+    "published_at": "2026-11-23T22:10:23.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
+    "id": "34146def1003",
+    "slug": "gta-6-paint-quality-differences-revealed-in-new-feature",
+    "headline": "GTA 6 Paint Quality Differences Revealed in New Feature",
+    "summary": "A new feature in GTA 6 has left players stunned, showcasing surprising differences in paint quality for vehicle customization.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/gta6-grand-theft-auto-6-vehicle-paint-difference-discovery/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/06/a-man-and-a-woman-sitting-in-a-yellow-car-while-driving-through-a-city-in-grand-theft-auto-6.jpg",
+    "published_at": "2026-11-23T21:58:25.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "7c04985d6ed8",
+    "slug": "steam-officially-launches-its-2026-game-of-the-year-awards-voting",
+    "headline": "Steam Officially Launches Its 2026 Game of the Year Awards Voting",
+    "summary": "The Steam Awards nominations are now live, letting Steam users vote on the best games of 2026.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/steam-awards-2026-game-of-the-year-nominations/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22688609/InkeeWang_210625_ecl1087_Steam_0001.jpg",
+    "published_at": "2026-11-23T21:48:05.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0d3f34392158",
+    "slug": "how-to-play-grand-theft-auto-vi-in-the-cloud-and-with-remote-play",
+    "headline": "How to Play Grand Theft Auto VI in the Cloud and with Remote Play",
+    "summary": "Grand Theft Auto VI supports XBOX Cloud Gaming, making it available to play even without a current-gen console. With XBOX Cloud Gaming, you can play by streaming it straight from the cloud to your XBOX One, or XBOX Series X|S if you’d like to save some hard drive space. Select Game Pass plans include a […] The post How to…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/11/23/grand-theft-auto-vi-xbox-cloud-and-remote-play/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/0d3f34392158/800/600",
+    "published_at": "2026-11-23T21:36:20.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ff5ed88e9fef",
+    "slug": "every-gta-6-ending-and-how-to-get-them",
+    "headline": "Every GTA 6 ending and how to get them",
+    "summary": "PC Gamer reveals the various endings of GTA 6 and how players can achieve them.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-endings/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/VpCnytmTy4pVTZb2NhTAY6-1920-80.jpg",
+    "published_at": "2026-11-23T21:33:58.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
     "id": "8b79928bd388",
     "slug": "gta-6-hacker-given-reduced-sentence-and-warning",
     "headline": "GTA 6 Hacker Given Reduced Sentence and Warning",
@@ -26,21 +548,73 @@
     "game_label": "GTA 6"
   },
   {
-    "id": "240421baf8dc",
-    "slug": "grand-theft-auto-6-hacker-released-on-parole",
-    "headline": "Grand Theft Auto 6 Hacker Released on Parole",
-    "summary": "Arion Kurtaj, convicted of hacking Grand Theft Auto 6, has been released on parole with a warning, allowing him to continue his online activities with restrictions.",
-    "category": "industry",
-    "platform_tags": [],
+    "id": "75c4eb8a14a4",
+    "slug": "2026-steam-awards-pit-the-goty-winners-of-the-past-10-years-against-ea",
+    "headline": " 2026 Steam Awards pit the GOTY winners of the past 10 years against each other in an all-out battle for supremacy ",
+    "summary": "It's the 10th anniversary of the Steam Awards and that means it's time for something new.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
     "sources": [
       {
         "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/the-grand-theft-auto-6-hacker-who-was-hospitalized-in-2023-has-been-released-on-parole-with-a-warning-not-to-do-it-again/"
+        "url": "https://www.pcgamer.com/games/2026-steam-awards-pit-the-goty-winners-of-the-past-10-years-against-each-other-in-an-all-out-battle-for-supremacy/"
       }
     ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/DHupw3zsDFv4RvF7fLXLPV-1920-80.jpg",
-    "published_at": "2026-11-23T21:16:03.000Z",
-    "hype_signal": null,
+    "image_url": "https://cdn.mos.cms.futurecdn.net/zf4d4yXSPFw7YH4F6S4zdd-1920-80.png",
+    "published_at": "2026-11-23T21:29:46.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3d413ec85388",
+    "slug": "gta-6-players-obsession-shifts-from-mandy-to-vicki",
+    "headline": "GTA 6 Players' Obsession Shifts from Mandy to Vicki",
+    "summary": "Grand Theft Auto 6 players have quickly moved on from their initial enthusiasm for Mandy in Chapter 1 to obsessing over Vicki in Chapter 2.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-vicki-chapter-2-girls-trip/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/lucia_caminos_06.jpg",
+    "published_at": "2026-11-23T21:29:19.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "5d366a8eb424",
+    "slug": "gta-6-glitch-almost-ruined-the-games-most-iconic-scene",
+    "headline": "GTA 6 Glitch Almost Ruined the Game's Most Iconic Scene",
+    "summary": "A recent glitch in Grand Theft Auto 6's Chapter 2 mission has left players laughing, but still made for a memorable experience.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/this-gta-6-glitch-almost-ruined-the-games-most-iconic-scene/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-glitch.jpg?w=300",
+    "published_at": "2026-11-23T21:23:41.000Z",
+    "hype_signal": 80,
     "like_count": 0,
     "comment_count": 0,
     "game": "grand-theft-auto-6",
@@ -255,76 +829,6 @@
     "game_label": null
   },
   {
-    "id": "59a774886f61",
-    "slug": "how-to-flip-an-overturned-car-in-gta-6",
-    "headline": "How to Flip an Overturned Car in GTA 6",
-    "summary": "Rockstar Games' upcoming open-world game GTA 6 will allow players to physically flip an overturned car with brute force.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-flip-car/"
-      },
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mamba-gt-locations/"
-      },
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-arthur-morgans-hat/"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-bf-bandito-steal-how-to-moses-grand-theft-auto/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/grand-theft-auto-6-easter-eggs-gta-4-girl/"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/gta-6-boobie-time-walkthrough-how-to-complete-the-mission-and-rewards/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/how-flip-your-car-back-over-gta-6/"
-      },
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-schafter-v12/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-how-get-smuggler-gorse-425-shotgun-legendary/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-top-billing-quest-how-find-roxy-dimez-backstage-cut-power/"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/gta-6-here-kitty-kitty-mission-walkthrough-how-to-find-charles/"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/are-couples-really-breaking-up-over-gta-6"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/yVBmP6rZsE7RjwUgHxuc4Y-1920-80.jpg",
-    "published_at": "2026-11-23T20:16:56.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
     "id": "a132bf1118f1",
     "slug": "deltarune-chapter-6-is-playable-from-the-beginning-to-the-end-toby-fox",
     "headline": "Deltarune Chapter 6 is playable \"from the beginning to the end,\" Toby Fox says, but the RPG's final part has \"only just started\"",
@@ -467,31 +971,6 @@
     "game_label": null
   },
   {
-    "id": "44434d0baccc",
-    "slug": "who-plays-mandy-in-gta-6",
-    "headline": "Who Plays Mandy in GTA 6?",
-    "summary": "The article reveals the voice actor behind Mandy in Grand Theft Auto 6",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/who-plays-mandy-in-gta-6/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/44434d0baccc/800/600",
-    "published_at": "2026-11-23T19:50:01.000Z",
-    "hype_signal": 10,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gta-6",
-    "game_label": "GTA 6"
-  },
-  {
     "id": "964a0af6a2c4",
     "slug": "players-have-found-a-gta-6-60fps-glitch-but-it-just-reaffirms-rockstar",
     "headline": "Players Have Found a GTA 6 60fps Glitch, but It Just Reaffirms Rockstar's 30fps Cap",
@@ -532,31 +1011,6 @@
     ],
     "image_url": "https://assetsio.gnwcdn.com/gta-6_S2BF1hr.jpg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-11-23T19:43:30.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "33a1af89256e",
-    "slug": "gta-6-easter-egg-puzzle-solved-in-just-3-days",
-    "headline": "GTA 6 Easter Egg Puzzle Solved in Just 3 Days",
-    "summary": "A YouTuber has cracked the code to a GTA 6 Easter egg puzzle in record time, uncovering a surprising revelation.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6-easter-egg-danny-dyer-kent-paul"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gtavi-48-1795462919278.jpg",
-    "published_at": "2026-11-23T19:42:09.000Z",
     "hype_signal": 80,
     "like_count": 0,
     "comment_count": 0,
@@ -4282,414 +4736,5 @@
     "comment_count": 0,
     "game": "gta-6",
     "game_label": "GTA 6"
-  },
-  {
-    "id": "26adbaab1ba6",
-    "slug": "red-bull-india-hosts-battlegrounds-mobile-india-esports-season-finale",
-    "headline": "Red Bull India Hosts Battlegrounds Mobile India Esports Season Finale at Museum",
-    "summary": "Red Bull India will host the LAN Finale of its Battlegrounds Mobile India esports tournament at the Museo Camera Centre for the Photographic Arts in Gurugram, India.",
-    "category": "esports",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/red-bull-india-will-hold-season-finale-for-battlegrounds-mobile-india-esports-tournament-at-museum/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/26adbaab1ba6/800/600",
-    "published_at": "2026-11-23T06:08:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "battlegrounds-mobile-india",
-    "game_label": "Battlegrounds Mobile India"
-  },
-  {
-    "id": "a42386ff1aed",
-    "slug": "build-a-bear-and-nintendo-team-up-for-donkey-kong-plush",
-    "headline": "Build-a-Bear and Nintendo Team Up for Donkey Kong Plush",
-    "summary": "Build-a-Bear is releasing a new Donkey Kong plush in partnership with Nintendo, perfect for fans of the classic game franchise.",
-    "category": "deals",
-    "platform_tags": [
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/build-a-bear-donkey-kong/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/donkey-kong-cast-reacting.jpg",
-    "published_at": "2026-11-23T04:51:11.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "donkey-kong",
-    "game_label": "Donkey Kong"
-  },
-  {
-    "id": "6ed1dcc5d34b",
-    "slug": "grand-theft-auto-6-nda-leads-to-couples-crazy-conflict",
-    "headline": "Grand Theft Auto 6 NDA Leads to Couple's Crazy Conflict",
-    "summary": "A member of GTA 6's voice cast reveals a hilarious 'argument' that broke out after their spouse discovered their vocal contributions in-game.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-nda-couple-conflict/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-nda-leads-to-couple-s-crazy-conflict.jpg",
-    "published_at": "2026-11-23T03:47:27.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d4d23033cc88",
-    "slug": "this-weeks-japanese-game-releases-azur-promilia-expelled-from-paradise",
-    "headline": "This Week’s Japanese Game Releases: Azur Promilia, Expelled from Paradise: The Stellar Angel, more",
-    "summary": "Azur Promilia for PC, iOS, and Android, and Expelled from Paradise: The Stellar Angel for …",
-    "category": "releases",
-    "platform_tags": [
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/this-weeks-japanese-game-releases-azur-promilia-expelled-from-paradise-the-stellar-angel-more"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/d4d23033cc88/800/600",
-    "published_at": "2026-11-23T02:36:01.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "64d5008e1fe7",
-    "slug": "binding-of-isaac-dlc-adds-ai-music-in-gta-6-parodying-update-despite-n",
-    "headline": " Binding of Isaac DLC adds AI music in GTA 6-parodying update despite not having an AI disclosure, Steam reviews drop to Overwhelmingly Negative, music gets pulled ",
-    "summary": "\"Woke up to a shit show,\" Edmund McMillen wrote.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/roguelike/binding-of-isaac-dlc-adds-ai-music-in-gta-6-parodying-update-despite-not-having-an-ai-disclosure-steam-reviews-drop-to-overwhelmingly-negative-music-gets-pulled/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/HNtA6QWZH23oHdCY8geRZU-1920-80.jpg",
-    "published_at": "2026-11-23T01:11:23.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "635a2799f875",
-    "slug": "gta-6-review-bombed-in-zelda-vs-gta-troll-war",
-    "headline": "GTA 6 Review Bombed in Zelda vs. GTA Troll War",
-    "summary": "Grand Theft Auto 6 is experiencing a controversy sparked by a Metacritic score battle with The Legend of Zelda: Ocarina of Time fans, fueling an anti-woke culture war.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-review-bombed-legend-of-zelda/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lucia_caminos_07.jpg",
-    "published_at": "2026-11-23T00:45:43.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "f2adc04264dc",
-    "slug": "i-mean-guys-really-gta-7-questions-batted-aside-by-take-two-boss",
-    "headline": "'I Mean, Guys, Really?!': GTA 7 Questions Batted Aside by Take-Two Boss",
-    "summary": "\"Let me check my watch\". While it’s been available for several days now, I imagine you’re only just beginning to scratch the surface of GTA 6. I’m now comfortably over 200 hours into my game, and it boggles my mind how much I’ve still got left to see. (I have been writing our GTA 6 guide simultaneously, though, so that…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/i-mean-guys-really-gta-7-questions-batted-aside-by-take-two-boss"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/d6584a3a7e66f/large.jpg",
-    "published_at": "2026-11-23T00:45:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a516022d7f05",
-    "slug": "new-activision-patent-would-train-npc-trash-talk-on-discord-voice-chat",
-    "headline": "New Activision Patent Would Train NPC Trash Talk on Discord Voice Chat",
-    "summary": "A new patent from Activision aims to train its NPC characters to trash talk in-game by using logs from voice chats on platforms like Discord.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/activision-patent-ai-voice-chat-discord-teamspeak/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/activision-ai-trash-talk-discord-voice-chat.jpg",
-    "published_at": "2026-11-23T00:31:59.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "45c60c182f78",
-    "slug": "sneg-has-re-released-three-more-venerable-pc-strategy-games-including",
-    "headline": " SNEG has re-released three more venerable PC strategy games including Warlords 4: Heroes of Etheria ",
-    "summary": "Let the war begin.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/strategy/sneg-has-re-released-three-more-venerable-pc-strategy-games-including-warlords-4-heroes-of-etheria/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/avAQzCuSJEy42TSwqASt5H-1920-80.jpg",
-    "published_at": "2026-11-23T00:07:24.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "947985e65087",
-    "slug": "can-you-free-roam-after-beating-gta-6",
-    "headline": "Can you free-roam after beating GTA 6?",
-    "summary": "Grand Theft Auto 6 allows players to continue playing after completing the game's credits.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-play-after-credits-beating-the-game/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-shayna-all-choices/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/QW5FCYaqAURhyZKEhu78Ge-1920-80.jpg",
-    "published_at": "2026-11-23T00:05:10.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "d644dac8e98e",
-    "slug": "ps5-game-is-shutting-down-forever-on-wednesday",
-    "headline": "PS5 Game is Shutting Down Forever on Wednesday",
-    "summary": "PlayStation 5 gamers wanting to play one of the console's few exclusive games are running out of time to do so.",
-    "category": "industry",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/ps5-game-shutting-down-destruction-allstars/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/ps5-destruction-allstars-game-shutting-down.jpg",
-    "published_at": "2026-11-23T00:00:14.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "663f94408f4a",
-    "slug": "the-most-beloved-open-world-rpgs-of-all-time-ranked",
-    "headline": "The Most Beloved Open-World RPGs of All Time, Ranked",
-    "summary": "Even the best open-world RPGs have their rough edges, but these gave players enough to love that the flaws rarely get the last word.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/most-universally-loved-open-world-rpgs-of-all-time-ranked/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/most-universally-loved-open-world-rpgs-of-all-time-ranked.jpg",
-    "published_at": "2026-11-22T23:40:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4fcc4d59e699",
-    "slug": "gta-6-dev-honors-late-mother-with-in-game-memorial-that-players-can-vi",
-    "headline": "GTA 6 Dev Honors Late Mother With In-Game Memorial That Players Can Visit",
-    "summary": "A GTA 6 developer has paid tribute to his late mother with an in-game memorial in Leonida that players can find and visit for themselves.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6-dev-honors-late-mother-with-in-game-memorial-that-players-can-visit"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/22/gta-6-memorial-1795389611043.png",
-    "published_at": "2026-11-22T23:23:53.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "25d17e6a5ace",
-    "slug": "how-to-increase-prosperity-in-crusader-kings-3",
-    "headline": "How to Increase Prosperity in Crusader Kings 3",
-    "summary": "This article provides tips and strategies for maximizing prosperity in Crusader Kings 3, shifting the focus from development to a new stat.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/crusader-kings-3-ck3-how-increase-prosperity/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/crusaders-kings-3-how-to-increase-prosperity.jpg",
-    "published_at": "2026-11-22T23:15:14.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "crusader-kings-3",
-    "game_label": "Crusader Kings 3"
-  },
-  {
-    "id": "e949a389c675",
-    "slug": "25-years-later-dragon-quests-island-hopping-epic-gets-better-in-every",
-    "headline": "25 Years Later, Dragon Quest’s Island-Hopping Epic Gets Better in Every Port",
-    "summary": "The years have been kind to one classic Dragon Quest game, even if it got a slow start.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/dragon-quest-7-25th-anniversary/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25325704/dragon_quest_slime_green.jpg",
-    "published_at": "2026-11-22T23:00:17.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d61419d3c900",
-    "slug": "physicists-long-lost-1977-fantasy-text-adventure-discovered-on-hard-dr",
-    "headline": "Physicist’s Long-Lost 1977 Fantasy Text Adventure Discovered On Hard Drive",
-    "summary": "Described as a 'missing link' between early computer games like Hunt the Wumpus and Zork, John Trenholme took the time to assemble Magic Cave when he wasn't establishing laser technologies",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/physicists-long-lost-1977-fantasy-text-adventure-discovered-on-hard-drive-2000759290"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/11/peoplescomputer.jpg",
-    "published_at": "2026-11-22T22:10:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5ea976a7eaaf",
-    "slug": "final-fantasy-7-remake-rebirth-cost-1548-together-on-xbox-less-than-ga",
-    "headline": "Final Fantasy 7 Remake & Rebirth Cost $15.48 Together on Xbox, Less Than Game Pass Plus Rebirth",
-    "summary": "Final Fantasy 7 Remake Intergrade and FF7 Rebirth are now on sale for just over $15 combined on Xbox, which is cheaper than some Xbox Game Pass tiers.",
-    "category": "deals",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/final-fantasy-7-remake-rebirth-xbox-price/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/final-fantasy-7-remake-rebirth-cost-15-48-together-on-xbox-less-than-game-pass-plus-rebirth.jpg",
-    "published_at": "2026-11-22T21:00:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "19b51c0020f8",
-    "slug": "street-fighter-6-will-return-to-esports-world-cup-2027",
-    "headline": "Street Fighter 6 will return to Esports World Cup 2027",
-    "summary": "Street Fighter 6 will be returning for the Esports World Cup 2027, joining the EWC slate of titles for the fourth consecutive year. The...\nThe post Street Fighter 6 will return to Esports World Cup 2027 appeared first on GamesBeat.",
-    "category": "esports",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/street-fighter-6-will-return-to-esports-world-cup-2027/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/19b51c0020f8/800/600",
-    "published_at": "2026-11-22T20:58:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
