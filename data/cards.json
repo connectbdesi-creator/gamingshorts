@@ -1,5 +1,921 @@
 [
   {
+    "id": "54b8c8eb4760",
+    "slug": "red-dead-redemption-tv-series-adaptation-in-the-works",
+    "headline": "Red Dead Redemption TV Series Adaptation in the Works",
+    "summary": "A new report suggests that Rockstar Games' Red Dead Redemption series could be adapted into a TV series, potentially reviving the franchise's nostalgic appeal.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/red-dead-redemption-tv-series-movie/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/red-dead-redemption2-arthur-train.jpg",
+    "published_at": "2026-11-23T15:30:15.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "red-dead-redemption",
+    "game_label": "Red Dead Redemption"
+  },
+  {
+    "id": "23eca922dffc",
+    "slug": "michelle-yeohs-blade-runner-2099-character-promises-to-be-unsettling",
+    "headline": "Michelle Yeoh's Blade Runner 2099 Character Promises to Be Unsettling",
+    "summary": "Michelle Yeoh's character in Blade Runner 2099 is a replicant, and it's the most unsettling part of the movie",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/video/michelle-yeoh-as-a-replicant-is-terrifying/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/screenshot-2026-11-23-at-4-18-45-pm.png",
+    "published_at": "2026-11-23T15:25:18.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "blade-runner-2099",
+    "game_label": "Blade Runner 2099"
+  },
+  {
+    "id": "c55c44d18d75",
+    "slug": "gta-6-patch-fixes-progression-bug-on-ps5-and-xbox-series-xs",
+    "headline": "GTA 6 Patch Fixes Progression Bug on PS5 and Xbox Series X/S",
+    "summary": "Rockstar has released a patch for Grand Theft Auto 6 on PS5 and Xbox Series X/S to address issues reported by players since the game's launch last week.",
+    "category": "patches",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/gta-6-xbox-playstation-patch-autosave-vignette"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/GTA-6-vignette.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-23T15:22:30.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
+    "id": "d2c5040f81ad",
+    "slug": "gta-6-hunters-laird-350-sniper-rifle-location",
+    "headline": "GTA 6: Hunter’s Laird 350 Sniper Rifle Location",
+    "summary": "The Hunter’s Laird 350 is a unique Sniper Rifle players can find through a world encounter in GTA 6, fairly early on in the game.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-hunters-laird-350-sniper-rifle-location/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/hunter-s-laird-350-sniper-rifle-in-gta-6.jpg",
+    "published_at": "2026-11-23T15:19:48.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b938d7f11946",
+    "slug": "plug-in-digital-acquires-news-tower-publisher-twin-sails-interactive-c",
+    "headline": "Plug in Digital acquires News Tower publisher Twin Sails Interactive, creating new publishing group to \"compete in a highly competitive market\"",
+    "summary": "French publisher and distributor Plug In Digital has acquired Paris-based indie publisher Twin Sails Interactive - formerly the digital division of boardgame publisher Asmodee, and publisher of News Tower - and announced the two will combine to form an indie-focused distribution and publishing group that combines \"Plug In Digital’s global scale with Twin Sails Interactive’s hands-on creative colla",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/plug-in-digital-acquires-news-tower-publisher-twin-sails-interactive-creating-new-publishing-group-to-compete-in-a-highly-competitive-market"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/HeroBanner_TSIxPiD.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-23T15:15:10.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d3348004f6f4",
+    "slug": "avengers-doomsday-final-trailer-has-convinced-me-steve-rogers-got-the",
+    "headline": " Avengers: Doomsday final trailer has convinced me Steve Rogers got the bad ending in Endgame ",
+    "summary": "This is what it's like when worlds collide",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-final-trailer-has-convinced-me-steve-rogers-got-the-bad-ending-in-endgame/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/V6xLAQozUxBBr7ATUnNDY-1920-80.jpg",
+    "published_at": "2026-11-23T15:13:53.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d96d333994a2",
+    "slug": "all-key-valuables-in-the-parlor-apartments-in-gta-6",
+    "headline": "All Key Valuables in the Parlor Apartments in GTA 6",
+    "summary": "A guide to finding and collecting key valuables in Grand Theft Auto 6's Parlor Apartments",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-parlor-apartments-robbery-guide-key-valuables-locations/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/parlor-apartments-in-gta-6-featured-image.jpg",
+    "published_at": "2026-11-23T15:10:35.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "12a6e6cf833a",
+    "slug": "activision-develops-neural-network-tech-for-npc-training",
+    "headline": "Activision Develops Neural Network Tech for NPC Training",
+    "summary": "Activision files patent for AI-powered NPC training using neural networks and large language models",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox",
+      "playstation",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/activision-files-patent-for-neural-network-to-train-npcs-from-in-game-voice-chat"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-dmz-screen-2-crop.webp?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-23T15:09:50.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0c38ab94d64b",
+    "slug": "all-key-valuables-in-the-la-perle-trap-house-in-gta-6",
+    "headline": "All Key Valuables in the La Perle Trap House in GTA 6",
+    "summary": "Grand Theft Auto 6 offers two major rewards for completing the La Perle robbery, including a vehicle worth over $20,000.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-la-perle-trap-house-robbery-guide-key-valuables-locations/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/la-perle-trap-house-in-gta-6-featured-image.jpg",
+    "published_at": "2026-11-23T15:09:46.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "348a9e80fec2",
+    "slug": "trump-backs-nvidia-ceo-reinstatement",
+    "headline": "Trump Backs Nvidia CEO Reinstatement",
+    "summary": "US President Donald Trump has praised Nvidia CEO Jensen Huang's return to the role, calling him a 'great patriot and national treasure.' Elon Musk also expressed support, saying the mistake has been corrected.",
+    "category": "industry",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/graphics-cards/trump-praises-jensen-huangs-reinstatement-as-nvidia-ceo-calls-him-a-great-patriot-and-national-treasure-while-musk-says-the-mistake-has-been-corrected/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/7foqDBPfcAkwqyvMkoRz98-1920-80.jpg",
+    "published_at": "2026-11-23T15:09:09.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "220c67bb7090",
+    "slug": "one-way-to-stave-off-ai-clones-minimise-the-gap-between-announcement-a",
+    "headline": "One way to stave off AI clones? Minimise the gap between announcement and launch",
+    "summary": "\"I think the biggest talking point over the next half year is going to be the time to market, and how devs are now afraid of how AI copies their games,\" says Alex Nichiporchik, the head of Tinybuild.\n Read more",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/one-way-to-stave-off-ai-clones-minimise-the-gap-between-announcement-and-launch"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-23T15:07:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3f57a221df06",
+    "slug": "avengers-doomsday-final-trailer-breakdown",
+    "headline": "Avengers: Doomsday final trailer breakdown",
+    "summary": "The final trailer for Avengers: Doomsday has been released, and it offers a closer look at the game's Marvel storyline, characters, and action. The trailer features 14 key details that fans might have missed upon its initial release.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-final-trailer-breakdown/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/n42kKwvke7RyFJk3aM9cjD-1920-80.jpg",
+    "published_at": "2026-11-23T15:04:24.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "avengers-doomsday",
+    "game_label": "Avengers: Doomsday"
+  },
+  {
+    "id": "ac536204c550",
+    "slug": "k-pop-demon-hunters-hype-train-may-finally-have-run-out-of-steam",
+    "headline": "K-Pop Demon Hunters Hype Train May Finally Have Run Out Of Steam",
+    "summary": "K-Pop group ENHYPEN is facing backlash after promoting a new game, with fans expressing disappointment and frustration",
+    "category": "esports",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/kpop-demon-hunters-world-tour-ticket-sales-price-cancel-2000759455"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2025/08/KpopDemonHunters_ProRes422HQ_SDR_2ch_20250424.00_47_06_06_L-1-1280x720.jpg",
+    "published_at": "2026-11-23T15:00:38.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "enhypen-light-up",
+    "game_label": "ENHYPEN: Light Up"
+  },
+  {
+    "id": "ee94cc3f3b50",
+    "slug": "indie-live-expo-2026-to-feature-over-100-independent-games",
+    "headline": "INDIE Live Expo 2026 to Feature Over 100 Independent Games",
+    "summary": "Gematsu reports on the upcoming INDIE Live Expo in December 2026, which will showcase more than 100 independent games.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "mobile",
+      "switch",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/indie-live-expo-december-1-2026-to-feature-more-than-100-games"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/ee94cc3f3b50/800/600",
+    "published_at": "2026-11-23T15:00:31.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7385b55cffc6",
+    "slug": "the-secret-controls-gta-6-doesnt-tell-you-about-how-to-flip-your-car-f",
+    "headline": "The Secret Controls GTA 6 Doesn't Tell You About — How To Flip Your Car, Flip the Bird, and Much More",
+    "summary": "GTA 6 has a whole bunch of secret controls that the game doesn't really tell you about. Here's how to flip your car, flip the bird, and much more.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/secret-controls-gta-6-buttons"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/23/controls-blog-1795445007043.jpg",
+    "published_at": "2026-11-23T15:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "39133a4cb8bb",
+    "slug": "infinity-nikki-gets-a-new-car-ride",
+    "headline": "Infinity Nikki Gets a New Car Ride",
+    "summary": "Infinity Nikki is getting a new cosmetic update that adds a cute little car, giving the game a Harry Potter vibe.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/ps5s-ultimate-cosy-game-infinity-nikki-is-adding-a-cute-little-car"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/dbd9e245658f4/large.jpg",
+    "published_at": "2026-11-23T15:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "infinity-nikki",
+    "game_label": "Infinity Nikki"
+  },
+  {
+    "id": "4446d3f68be1",
+    "slug": "rockstars-gta-6-launch-sparks-online-backlash",
+    "headline": "Rockstar's GTA 6 Launch Sparks Online Backlash",
+    "summary": "Some gamers are upset with the latest Grand Theft Auto game's portrayal of car-jacking, feeling it doesn't live up to pre-launch expectations.",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/gta-6-car-theft-gamified"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/car-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-23T14:58:20.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "2f656b880f07",
+    "slug": "hunger-games-movie-surpasses-expectations-despite-gta-6-release",
+    "headline": "Hunger Games Movie Surpasses Expectations Despite GTA 6 Release",
+    "summary": "The Hunger Games: Sunrise on the Reaping had a massive opening weekend, beating expectations and defying fears that its release might be impacted by GTA 6",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/new-hunger-games-movie-blows-past-expectations-after-some-feared-gta-6-could-limit-its-reach/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Sunrise.png?w=300",
+    "published_at": "2026-11-23T14:52:04.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a95fb24d42f5",
+    "slug": "gta-6-find-and-break-into-freddie-gibbs-doomsday-compound-in-grand-the",
+    "headline": "GTA 6: Find and break into Freddie Gibbs’ doomsday compound in Grand Theft Auto 6",
+    "summary": "A new GTA 6 gameplay tip reveals how players can find and interact with Freddie Gibbs' doomsday compound, potentially unlocking rewards.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/gta-6-find-break-in-freddie-doomsday-compound-grand-theft-auto/"
+      },
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/gta-6-painted-tunnel-prank/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/a95fb24d42f5/800/600",
+    "published_at": "2026-11-23T14:51:53.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "d5612ba17ca2",
+    "slug": "first-gta-6-ps5-patch-live-now",
+    "headline": "First GTA 6 PS5 Patch Live Now",
+    "summary": "Rockstar Games has released the first post-launch update for Grand Theft Auto 6 on PS5, bringing the game's version number up to 01.002.002. The update is available for PS5 owners, but its download may not be available right away due to a rollout system.",
+    "category": "patches",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/first-gta-6-ps5-patch-live-now-get-all-the-details-here"
+      },
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/gta-6-update-now-live-on-xbox-series-xs-includes-seven-official-fixes"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/14a4f224ce77e/large.jpg",
+    "published_at": "2026-11-23T14:50:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "fe84e34d2522",
+    "slug": "grand-theft-auto-6-patch-fixes-autosaving-issue",
+    "headline": "Grand Theft Auto 6 Patch Fixes Autosaving Issue",
+    "summary": "Rockstar Games has released a new patch for Grand Theft Auto 6, addressing issues with autosaving and other bugs.",
+    "category": "patches",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/grand-theft-auto-6-has-received-a-new-patch-which-fixes-autosaving/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/fe84e34d2522/800/600",
+    "published_at": "2026-11-23T14:44:32.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "8daaa53c88e2",
+    "slug": "gta-6s-first-official-post-release-update-has-a-catch",
+    "headline": "GTA 6's First Official Post-Release Update Has A Catch",
+    "summary": "Rockstar is handling GTA 6's updates differently than usual, differing from typical console game releases.",
+    "category": "industry",
+    "platform_tags": [
+      "xbox",
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-update-today-ver-01002002-where-is-ps5-xbox-download-size-patch-notes/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_duval_17-1.jpg",
+    "published_at": "2026-11-23T14:41:35.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-vi",
+    "game_label": "Grand Theft Auto VI"
+  },
+  {
+    "id": "1dfa5a76e76b",
+    "slug": "nvidia-reinstates-jensen-huang-as-ceo",
+    "headline": "Nvidia Reinstates Jensen Huang as CEO",
+    "summary": "Nvidia has announced the reinstatement of CEO Jensen Huang following input from the US government",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/nvidia-reinstates-jensen-huang-as-ceo-after-input-from-senior-levels-of-the-united-states-government/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/M43ybKaMmGbcS7u8kHJcyc-1920-80.jpg",
+    "published_at": "2026-11-23T14:41:30.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "68c920d69478",
+    "slug": "my-cat-knows-more-about-video-games-than-me",
+    "headline": "My Cat Knows More About Video Games Than Me",
+    "summary": "A writer's cat shares surprising insights on video games, sparking questions about feline gaming expertise.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/my-cat-knows-more-about-video-games-than-me-2000759301"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/11/robo-the-cat-1280x960.jpg",
+    "published_at": "2026-11-23T14:30:03.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "009770d1414d",
+    "slug": "how-old-are-gta-6s-jason-lucia-now-we-officially-know",
+    "headline": "How Old Are GTA 6's Jason & Lucia? Now We Officially Know",
+    "summary": "Date of birth, height, more. Have you found yourself asking how old GTA 6’s dual protagonists Jason and Lucia are? Well, now we have an official answer. Fans on social media discovered some in-game art assets featuring the couple’s ID cards, and they give us a definitive age for the duo. In fact, it looks like we all missed a…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/how-old-are-gta-6s-jason-and-lucia-now-we-officially-know"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/695f7d9a63635/large.jpg",
+    "published_at": "2026-11-23T14:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8faf6a243863",
+    "slug": "how-1up-ventures-views-the-future-of-gamings-growth-ed-fries-and-amir",
+    "headline": "How 1Up Ventures views the future of gaming’s growth | Ed Fries and Amir Satvat",
+    "summary": "Ed Fries and Amir Satvat, two leaders at 1Up Ventures who come from very different backgrounds, are in sync when it comes to gaming’s...\nThe post How 1Up Ventures views the future of gaming’s growth | Ed Fries and Amir Satvat appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/how-1up-ventures-views-the-future-of-gamings-growth-ed-fries-and-amir-satvat/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/8faf6a243863/800/600",
+    "published_at": "2026-11-23T14:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "77c3c9a8ff76",
+    "slug": "cyberpunk-2-is-canceled-director-jokes-after-gta-6-raises-the-bar",
+    "headline": "Cyberpunk 2 Is Canceled, Director Jokes, After GTA 6 Raises The Bar",
+    "summary": "Grand Theft Auto 6 has raised the bar for open-world games, and Cyberpunk 2 creative director Igor Sarzyński is feeling it. Online, the developer jokingly commented about GTA 6 setting a new gold standard for the genre, a level of quality that makes him want to pack up his Cyberpunk 2 development bags and call it a day. \"GTA 6-induced-open-world-game-dev-depression…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/cyberpunk-2-is-canceled-director-jokes-after-gta-6-raises-the-bar/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-Cyberpunk.jpg?w=300",
+    "published_at": "2026-11-23T14:19:27.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "3151afcc49f8",
+    "slug": "gta-6-can-run-at-60fps-on-xbox-series-x-if-you-use-a-glitch-but-theres",
+    "headline": "GTA 6 can run at 60fps on Xbox Series X if you use a glitch, but there's a catch",
+    "summary": "Grand Theft Auto 6 runs at 30 frames-per-second across all the consoles it's currently available on, including the more powerful PlayStation 5 Pro. The game doesn't offer a 60fps performance mode or an option to unlock the frame-rate, but one industrious player has managed to do it anyway on Xbox.\n Read more",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/grand-theft-auto-6-60-fps-glitch-xbox"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/GTA6_5nov-(29).jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-23T14:12:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "20f04dfd3ef1",
+    "slug": "the-regreening-launches-december-7",
+    "headline": "The Regreening launches December 7",
+    "summary": "Cozy restoration adventure game The Regreening will launch for PC via Steam on December 7, publisher …",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/the-regreening-launches-december-7"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/20f04dfd3ef1/800/600",
+    "published_at": "2026-11-23T14:00:38.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "947ab5ad0a96",
+    "slug": "rumour-la-noire-2-is-rockstars-next-game",
+    "headline": "Rumour: LA Noire 2 Is Rockstar's Next Game",
+    "summary": "A supposed leak on the GTAForums suggests that Rockstar is working on LA Noire 2, but the authenticity of the leak is unclear.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/rumour-la-noire-2-is-rockstars-next-game"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/3cfc9d75b96e8/large.jpg",
+    "published_at": "2026-11-23T14:00:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "la-noire",
+    "game_label": "LA Noire"
+  },
+  {
+    "id": "718a3b665239",
+    "slug": "plug-in-digital-acquires-twin-sails-interactive-names-new-ceo",
+    "headline": "Plug In Digital Acquires Twin Sails Interactive, Names New CEO",
+    "summary": "Plug In Digital acquired independent publisher Twin Sails Interactive, appointing a new CEO in the process.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/plug-in-digital-acquires-twin-sails-interactive-and-names-new-ceo/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/718a3b665239/800/600",
+    "published_at": "2026-11-23T14:00:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8c489f93b209",
+    "slug": "fantasy-rpg-sovereign-tower-brings-some-round-table-management-to-swit",
+    "headline": "Fantasy RPG 'Sovereign Tower' Brings Some Round Table Management To Switch Next Year",
+    "summary": "Knight's watch. Sovereign Tower launched on Steam earlier this year and quickly picked up its fair share of fans for its wacky round table management. Today, developer Wild Wits and publisher Curve Games have announced that we Switch fans will be able to get in on the fun in the new year. That's right, this one is coming to Switch…",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/fantasy-rpg-sovereign-tower-brings-some-round-table-management-to-switch-next-year"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/95bf7bf1e112c/large.jpg",
+    "published_at": "2026-11-23T14:00:00.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "738c793ee29c",
+    "slug": "why-you-probably-shouldnt-steal-a-tesla-in-gta-6",
+    "headline": "Why You Probably Shouldn't Steal a Tesla in GTA 6",
+    "summary": "Rockstar Games is taking its parody of Tesla in GTA 6 to the next level, and it might not be as funny as you think.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/why-you-probably-shouldnt-steal-a-tesla-in-gta-6"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gtavi-38-1795441920082.jpg",
+    "published_at": "2026-11-23T13:52:36.000Z",
+    "hype_signal": 10,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "abcb603c5b14",
+    "slug": "gta-6-is-approaching-an-absurd-new-sales-milestone-report-says",
+    "headline": "GTA 6 Is Approaching An Absurd New Sales Milestone, Report Says",
+    "summary": "Grand Theft Auto 6's success continues to come into focus, as a new report from Alinea Analytics says the game sold 44.9 million copies through its first weekend. This would be up from the 32.5 million copies that Rockstar owner Take-Two announced last week, covering the game's pre-purchases alone. According to Rhys Elliott of Alinea Analytics, GTA 6 has reached…",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-is-approaching-an-absurd-new-sales-milestone-report-says/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-9-1.jpg?w=300",
+    "published_at": "2026-11-23T13:47:05.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "06bcd65790f6",
+    "slug": "gta-6s-first-patch-is-rolling-out-heres-what-it-does",
+    "headline": "GTA 6’s First Patch Is Rolling Out, Here’s What It Does",
+    "summary": "Grand Theft Auto 6 has gotten off to a relatively smooth start, which is rare for an open-world game of this scale. It looks like the first GTA 6 patch is also rolling out, and fortunately, it won’t be a mammoth download compared to grabbing the 211 GB game--internet service providers are probably breathing a sigh of relief right now.…",
+    "category": "patches",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-first-patch-is-rolling-out/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-Yes-Im-This-Terrible.jpg?w=300",
+    "published_at": "2026-11-23T13:46:31.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "1b54c8fc657f",
+    "slug": "gta-6-motion-capture-actor-has-no-idea-who-he-is-in-the-game-sparks-so",
+    "headline": "GTA 6 Motion Capture Actor Has No Idea Who He Is in the Game, Sparks Social Media Hunt to Find His Character",
+    "summary": "One GTA 6 actor has no idea who he plays and has asked for fans to help him find his character in the game.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-actor-asks-fans-to-find-his-character"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/23/screenshot-2026-11-23-133103-1795440740947.png",
+    "published_at": "2026-11-23T13:33:16.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6046ac968ad5",
+    "slug": "ill-be-skipping-zenless-zone-zeros-new-meta-unit-in-favour-of-my-all-t",
+    "headline": "I'll Be Skipping Zenless Zone Zero's New Meta Unit in Favour of My All-Time Fave Waifu",
+    "summary": "\"Boom\". I like to think my feedback in some small way contributed to Honkai: Star Rail’s Kafka being added as an S-Rank character to Zenless Zone Zero. I’ve told various people at HoYoverse about my embarrassing admiration for the purple-haired, dual-pistol wielding waifu. But they’ve done me dirty by putting her in the same patch as the new Void Hunter!…",
+    "category": "patches",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/ill-be-skipping-zenless-zone-zeros-new-meta-unit-in-favour-of-my-all-time-fave-waifu"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/1c1c7d7a7f5d6/large.jpg",
+    "published_at": "2026-11-23T13:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "36ef9c74456e",
+    "slug": "sony-patents-ai-that-plays-your-game-while-you-eat-dinner",
+    "headline": "Sony patents AI that plays your game while you eat dinner",
+    "summary": "Sony has patented AI technology that allows AI to play a game for you while you are doing other things like eating your dinner....\nThe post Sony patents AI that plays your game while you eat dinner appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/sony-patents-ai-that-plays-your-game-while-you-eat-dinner/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/36ef9c74456e/800/600",
+    "published_at": "2026-11-23T13:30:00.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "512c6d5f3fc7",
     "slug": "nightdives-thief-remaster-tackles-the-most-infamous-thief-gold-level",
     "headline": "Nightdive's Thief Remaster Tackles the Most Infamous Thief Gold Level",
@@ -23,6 +939,32 @@
     "comment_count": 0,
     "game": "thief-the-dark-project-thief-gold",
     "game_label": "Thief: The Dark Project - Thief Gold"
+  },
+  {
+    "id": "dba92d1f5cd6",
+    "slug": "nodwin-gaming-arena-to-bring-esports-and-gaming-frenzy-to-hyderabad-co",
+    "headline": "Nodwin Gaming Arena to Bring Esports and Gaming Frenzy to Hyderabad Comic Con",
+    "summary": "Nodwin Gaming Arena is set to host a seven-day event at the Hyderabad Comic Con, featuring esports, gaming, and competitive entertainment.",
+    "category": "esports",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/nodwin-gaming-arena-to-bring-seven-days-of-esports-and-to-hyderabad-comic-con/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/dba92d1f5cd6/800/600",
+    "published_at": "2026-11-23T13:18:07.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "b2293cd81bfb",
@@ -219,6 +1161,27 @@
     "game_label": "Cyberpunk 2"
   },
   {
+    "id": "5f21c5637c42",
+    "slug": "samsung-launches-odyssey-g6-the-worlds-1st-1100hz-gaming-monitor",
+    "headline": "Samsung launches Odyssey G6, the world’s 1st 1,100Hz gaming monitor",
+    "summary": "Samsung Electronics America launched the 27-inch class Odyssey G6 (G60H), the world’s first gaming monitor to support a refresh rate of up to 1,100Hz...\nThe post Samsung launches Odyssey G6, the world’s 1st 1,100Hz gaming monitor appeared first on GamesBeat.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/samsung-launches-odyssey-g6-the-worlds-1st-1100hz-gaming-monitor/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/5f21c5637c42/800/600",
+    "published_at": "2026-11-23T13:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "7239f806ffb4",
     "slug": "doom-the-dark-ages-was-originally-planned-as-xbox-exclusive",
     "headline": "DOOM: The Dark Ages Was Originally Planned As Xbox Exclusive",
@@ -382,29 +1345,6 @@
     "game_label": null
   },
   {
-    "id": "d5612ba17ca2",
-    "slug": "first-gta-6-ps5-patch-live-now",
-    "headline": "First GTA 6 PS5 Patch Live Now",
-    "summary": "Rockstar Games has released the first post-launch update for Grand Theft Auto 6 on PS5, bringing the game's version number up to 01.002.002. The update is available for PS5 owners, but its download may not be available right away due to a rollout system.",
-    "category": "patches",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/first-gta-6-ps5-patch-live-now-get-all-the-details-here"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/14a4f224ce77e/large.jpg",
-    "published_at": "2026-11-23T12:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
     "id": "464c79bb00bd",
     "slug": "deals-all-100-backwards-compatible-games-in-the-xbox-black-friday-sale",
     "headline": "Deals: All 100+ Backwards Compatible Games In The Xbox Black Friday Sale 2026",
@@ -527,32 +1467,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "a95fb24d42f5",
-    "slug": "gta-6-find-and-break-into-freddie-gibbs-doomsday-compound-in-grand-the",
-    "headline": "GTA 6: Find and break into Freddie Gibbs’ doomsday compound in Grand Theft Auto 6",
-    "summary": "A new GTA 6 gameplay tip reveals how players can find and interact with Freddie Gibbs' doomsday compound, potentially unlocking rewards.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/gta-6-find-break-in-freddie-doomsday-compound-grand-theft-auto/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a95fb24d42f5/800/600",
-    "published_at": "2026-11-23T11:31:32.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "31618eaf12ed",
@@ -705,6 +1619,29 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
+  },
+  {
+    "id": "8ae42abc5902",
+    "slug": "magical-girl-taboo-village-and-the-streamers-alt-account-labyrinth-del",
+    "headline": "Magical Girl Taboo Village and The Streamer's Alt Account Labyrinth Delayed",
+    "summary": "Acacia has pushed back the release of visual novel Magical Girl Taboo Village to 2027, citing a need for further development and planning.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/magical-girl-taboo-village-and-the-streamers-alt-account-labyrinth-delayed"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/8ae42abc5902/800/600",
+    "published_at": "2026-11-23T10:30:50.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "magical-girl-taboo-village",
+    "game_label": "Magical Girl Taboo Village"
   },
   {
     "id": "6fd83a17d36b",
@@ -913,6 +1850,29 @@
     "comment_count": 0,
     "game": "disney-dreamlight-valley",
     "game_label": "Disney Dreamlight Valley"
+  },
+  {
+    "id": "e5c77d97cefd",
+    "slug": "acts-of-blood-for-pc-delayed-to-spring-2027",
+    "headline": "Acts of Blood for PC delayed to spring 2027",
+    "summary": "Publisher Big Fan Games and developer Eksil Team have delayed beat ’em up action game …",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/acts-of-blood-for-pc-delayed-to-spring-2027"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/e5c77d97cefd/800/600",
+    "published_at": "2026-11-23T09:00:12.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "b0020388230b",
@@ -3841,929 +4801,6 @@
     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/darkest-dungeons-2-dlc.png",
     "published_at": "2026-11-21T16:31:42.000Z",
     "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "66fec29426a0",
-    "slug": "how-to-get-a-slim-jim-in-gta-6-to-steal-cars",
-    "headline": "How to Get a Slim Jim in GTA 6 to Steal Cars",
-    "summary": "In Grand Theft Auto 6, a Slim Jim is crucial for carjacking without triggering an alarm system. This guide helps players master the technique.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-slim-jim-how-to-get/"
-      },
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-key-cloner-how-to-get/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/qou3vPYzbCv7Kk3G9wfBpj-1920-80.jpg",
-    "published_at": "2026-11-21T16:25:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "7e5fb7d39454",
-    "slug": "gta-6s-impact-on-steam-and-roblox-after-record-breaking-launch-reveale",
-    "headline": "GTA 6's Impact on Steam and Roblox After Record-Breaking Launch Revealed",
-    "summary": "GTA 6 did not seem to have much of an effect on platforms it was not available on",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-impact-on-steam-roblox/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/gta-6-setting-vice-city.jpg",
-    "published_at": "2026-11-21T16:05:15.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "478176e7f6b8",
-    "slug": "feature-dont-have-your-wii-set-up-here-are-20-wii-games-you-can-play-o",
-    "headline": "Feature: Don't Have Your Wii Set Up? Here Are 20 Wii Games You Can Play On Switch",
-    "summary": "SWiitching it up. Many people reading this will have a Wii in the house. Even if it's collecting dust in the cupboard after launching 20 years ago, there's over 100 million of the things out in the wild, so the chances are that you or your family have access to one somewhere. However, on the off-chance you don't have a…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/features/dont-have-your-wii-set-up-here-are-20-wii-games-you-can-play-on-switch"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/125bc1bb59dcb/large.jpg",
-    "published_at": "2026-11-21T16:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ccefbffd3bc1",
-    "slug": "poll-so-what-do-you-think-of-gta-6",
-    "headline": "Poll: So, What Do You Think Of GTA 6?",
-    "summary": "It's early days, but let us know your thoughts so far. We've been talking GTA 6 all week here at Pure Xbox, but now it's time for the community to take centre stage! We want to know what you think about the new Grand Theft Auto based on what you've played so far. It's no secret that GTA 6 has…",
-    "category": "reviews",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/features/poll-so-what-do-you-think-of-gta-6"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/5cb9d1f6e8a9c/large.jpg",
-    "published_at": "2026-11-21T16:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ce92d061a678",
-    "slug": "dd-publisher-officially-hands-record-breaking-ai-settlement-money-to-a",
-    "headline": "D&D Publisher Officially Hands Record-Breaking AI Settlement Money to Authors",
-    "summary": "Wizards of the Coast is entitled to a hefty sum of Anthropic settlement money, but it's giving it to Dungeons & Dragons writers.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/dnd-dungeons-dragons-authors-get-settlement-money-wizards-of-the-coast/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dungeons-dragons-world-of-warcraft-bronze-dragons.jpg",
-    "published_at": "2026-11-21T15:59:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "61b7c0031708",
-    "slug": "gta-6-officially-includes-unreleased-song-from-music-legend-dangelo",
-    "headline": "GTA 6 Officially Includes Unreleased Song From Music Legend D'Angelo",
-    "summary": "A newly discovered song from the late D'Angelo will be featured in Grand Theft Auto 6's radio stations, showcasing the game's eclectic music selection.",
-    "category": "industry",
-    "platform_tags": [
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-dangelo-song-rockstar-games-radio/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vintage_vice_city_pack_exclusive_looks_01-1.jpg",
-    "published_at": "2026-11-21T15:53:57.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "7ba505642674",
-    "slug": "rob-run-is-surging-on-steam-as-pc-players-look-for-a-gta-6-alternative",
-    "headline": "Rob Run Is Surging On Steam As PC Players Look For A GTA 6 Alternative",
-    "summary": "Rob Run sounds like the perfect GTA 6 alternative on paper, a \"crime sandbox\" where every NPC is a player, but there's a catch.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/rob-run-gta-6-alternative-steam-mixed-reviews-ai-disclosure-600000-player-peak/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/police-pointing-assault-rifles-at-a-surrounded-bank-robber-in-rob-run.jpg",
-    "published_at": "2026-11-21T15:46:56.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "363932deebe6",
-    "slug": "gta-6-online-has-players-worried",
-    "headline": "GTA 6 Online Has Players Worried",
-    "summary": "Players are expressing concerns about GTA 6 Online's release due to a specific issue, despite the game not having been officially announced yet.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-online-player-count-fps-issues/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/gta-6-online-player-count-fps-issues.jpg",
-    "published_at": "2026-11-21T15:30:14.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7ea399948580",
-    "slug": "the-gta-vi-effect-pwc-predicts-ripple-effects-across-gaming-media-and",
-    "headline": "The GTA VI effect: PwC predicts ripple effects across gaming, media, and private equity",
-    "summary": "PwC’s Bart Spiegel believes that Grand Theft Auto VI is part of a bigger cultural watershed that will reshape how investors view gaming. I...\nThe post The GTA VI effect: PwC predicts ripple effects across gaming, media, and private equity appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/the-gta-vi-effect-pwc-predicts-ripple-effects-across-gaming-media-and-private-equity/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/7ea399948580/800/600",
-    "published_at": "2026-11-21T15:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3eb02f5d89c1",
-    "slug": "gta-6-ps5-review-bombing-out-of-control-as-zelda-receives-revenge-rati",
-    "headline": "GTA 6 PS5 Review Bombing Out of Control as Zelda Receives Revenge Ratings",
-    "summary": "Counter-attack.\nGTA 6, the highest-rated game of all-time, is getting review bombed on Metacritic as idiots attempt to plunge the seminal Rockstar release’s rating with bogus ‘0’ scores.\nAt the time of writing, the title has a user score of 5.4, meaning it’s considered ‘Mixed or Average’:\nRead the full article on pushsquare.com",
-    "category": "reviews",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-review-bombing-out-of-control-as-zelda-receives-revenge-ratings"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/ed14528064898/large.jpg",
-    "published_at": "2026-11-21T15:30:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "5024e5b96945",
-    "slug": "gta-6-xbox-psa-how-to-stop-automatic-clip-uploads-and-avoid-bans",
-    "headline": "GTA 6 Xbox PSA: How to Stop Automatic Clip Uploads and Avoid Bans",
-    "summary": "Xbox players are reporting bans for capturing GTA 6",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/gta-6-xbox-psa-how-to-stop-automatic-clip-uploads-and-avoid-bans/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/5024e5b96945/800/600",
-    "published_at": "2026-11-21T15:25:08.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7fee02bb387d",
-    "slug": "gta-6-is-crashing-on-some-ps5s-with-error-ce-108255-1-heres-what-you-c",
-    "headline": "GTA 6 is crashing on some PS5s with error CE-108255-1 - here's what you can try",
-    "summary": "Some Grand Theft Auto 6 players on PS5 say the game keeps crashing with error code CE-108255-1, and in some cases, it's stopping them from progressing through the story.\n Read more",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/gta-6-ps5-crashing-ce-108255-1-error-fix"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-11-21-at-14.55.00.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-21T15:03:50.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6fa53b297b6f",
-    "slug": "toy-story-3-remaster-shows-how-movie-games-should-be-done",
-    "headline": "Toy Story 3 Remaster Shows How Movie Games Should Be Done",
-    "summary": "Toy Story 3 has returned to show there's still a place for great movie games in the modern era.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/toy-story-3-remaster-gold-standard-movie-games/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/11/mixcollage-20-nov-2026-03-11-pm-818.jpg",
-    "published_at": "2026-11-21T15:00:18.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "4637c4e4bc87",
-    "slug": "new-switch-2-game-is-basically-a-bullet-heaven-pokemon",
-    "headline": "New Switch 2 Game is Basically a Bullet Heaven Pokemon",
-    "summary": "A new game is coming to the Nintendo Switch 2 that plays like a Pokemon Bullet Heaven game, and gamers don't have long to wait for it.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/temtem-swarm-switch-release-date/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/pokemon-switch-2-bullet-heaven.jpg",
-    "published_at": "2026-11-21T15:00:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8e336d72c293",
-    "slug": "pc-gamer-the-elder-scrolls-6-sentinel-has-a-great-game-to-play-in-the",
-    "headline": "PC Gamer: The Elder Scrolls 6: Sentinel has a great game to play in the meantime",
-    "summary": "PC Gamer suggests playing Tainted Grail while waiting for The Elder Scrolls 6: Sentinel",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/rpg/while-you-wait-for-the-elder-scrolls-6-sentinel-you-owe-it-to-yourself-to-play-tainted-grail/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/99cX8e9QjEz66iS6MhMack-1920-80.jpg",
-    "published_at": "2026-11-21T15:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "17bd8c23d6b8",
-    "slug": "seven-years-on-since-persona-5-royal-atlus-says-people-wont-have-to-wa",
-    "headline": " Seven years on since Persona 5 Royal, Atlus says 'people won't have to wait as long as they have previously' for the next game after Persona 6 ",
-    "summary": "\"Persona 6 is not the end\".",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/rpg/seven-years-on-since-persona-5-royal-atlus-says-people-wont-have-to-wait-as-long-as-they-have-previously-for-the-next-game-after-persona-6/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/RtNxgB4RG4rJNWfzDhWpnc-1920-80.jpg",
-    "published_at": "2026-11-21T14:31:07.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d54aec9ea2da",
-    "slug": "feature-50-of-the-best-discounted-games-from-xboxs-black-friday-2026-s",
-    "headline": "Feature: 50 Of The Best Discounted Games From Xbox's Black Friday 2026 Sale",
-    "summary": "A deal, a succulent Black Friday deal! It's official, Xbox's Black Friday sales are live! This year's offering is absolutely massive, so we're back to rummage through them all and pick out a banger or two for you. The annual sale lives up to the hype yet again, with over 2,000 deals to get through. There's so many. Too many,…",
-    "category": "deals",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/features/50-of-the-best-discounted-games-from-xboxs-black-friday-2026-sale"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/07e1f20bb59b6/large.jpg",
-    "published_at": "2026-11-21T14:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e3de36e7e4d4",
-    "slug": "epic-games-gets-amici-brief-support-from-32-states-in-us-supreme-court",
-    "headline": "Epic Games gets amici brief support from 32 states in U.S. Supreme Court case with Apple",
-    "summary": "In the antitrust case of Apple vs Epic Games, 32 states and the District of Columbia have filed amici briefs on Epic’s side. Keep...\nThe post Epic Games gets amici brief support from 32 states in U.S. Supreme Court case with Apple appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/epic-games-gets-amici-brief-support-from-32-states-in-u-s-supreme-court-case-with-apple/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/e3de36e7e4d4/800/600",
-    "published_at": "2026-11-21T14:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6fca5e4bf940",
-    "slug": "gta-6-has-a-99-metascore-from-critics-but-players-are-review-bombing-i",
-    "headline": "GTA 6 has a 99 Metascore from critics, but players are review bombing it",
-    "summary": "Grand Theft Auto 6 might be one of the best-reviewed games of all time, but you wouldn't know it from its Metacritic user score.\n Read more",
-    "category": "reviews",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/gta-6-review-bombed-metacritic-user-score"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/GTA-6-Radio-Station-Hosts-Tracks-Header.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-21T14:19:40.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f1b930c1dc3d",
-    "slug": "clair-obscur-expedition-33-actor-still-cant-quite-believe-the-rpgs-rec",
-    "headline": " Clair Obscur: Expedition 33 actor still can't \"quite believe\" the RPG's record-breaking awards haul ",
-    "summary": "\"People are still so in love with the game\"",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/rpg/one-year-on-clair-obscur-expedition-33-actor-still-cant-quite-believe-the-rpgs-record-breaking-awards-haul/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/A3Vc5vFaEwNS3rCckdoipc-1920-80.jpg",
-    "published_at": "2026-11-21T13:22:39.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "89bf40572639",
-    "slug": "deltarune-chapter-6-is-structurally-complete-while-development-has-beg",
-    "headline": " Deltarune chapter 6 is 'structurally complete' while development has begun on chapter 7, according to Toby Fox ",
-    "summary": "\"All the maps, events and battles exist\" for the next slice of the RPG.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/rpg/deltarune-chapter-6-is-structurally-complete-while-development-has-begun-on-chapter-7-according-to-toby-fox/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/9mtBLYoPocDpbS5srRdg5-1920-80.png",
-    "published_at": "2026-11-21T13:09:55.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3b276874ddf5",
-    "slug": "these-are-the-11-best-romances-bioware-ever-made",
-    "headline": "These Are The 11 Best Romances BioWare Ever Made",
-    "summary": "BioWare set the standard for having some of the best lovers in video games",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/bioware-best-11-romance-dragon-age-mass-effect-garrus-2000758976"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2024/06/d9de42a45f494af809f226f239bcf7c1.jpg",
-    "published_at": "2026-11-21T13:00:31.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "81e4749e6b77",
-    "slug": "rockstars-switch-presence-raises-gta-6-hopes",
-    "headline": "Rockstar's Switch Presence Raises GTA 6 Hopes",
-    "summary": "Rockstar Games has expanded its Switch presence with L.A. Noire and Red Dead Redemption, sparking speculation about the future of Grand Theft Auto on the platform.",
-    "category": "industry",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/switchboard-nintendo-switch-2-gta-6-rockstar/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-3-switch.jpg",
-    "published_at": "2026-11-21T13:00:17.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto",
-    "game_label": "Grand Theft Auto"
-  },
-  {
-    "id": "4bd221ed7b1b",
-    "slug": "robert-downey-jr-chris-evans-the-russo-brothers-and-more-on-the-making",
-    "headline": " Robert Downey Jr., Chris Evans, the Russo brothers, and more on the making of Avengers: Infinity War ",
-    "summary": "In 2017, Total Film traveled to the set of Avengers: Infinity War to witness the beginning of Marvel's endgame…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-infinity-war-making-of-set-report-robert-downey-jr-chris-evans-russo-brothers/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/AyLMAGPvxQ8QC8V26sAAdB-1920-80.jpg",
-    "published_at": "2026-11-21T13:00:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "52676576c7b0",
-    "slug": "these-20-games-are-coming-to-xbox-next-week-november-23-27",
-    "headline": "These 20+ Games Are Coming To Xbox Next Week (November 23-27)",
-    "summary": "Including three more Game Pass titles!\nWelcome to your Xbox games roundup for November 23-27! Most major publishers are staying well away from the recent release of GTA 6, but we've still some interesting indies and Game Pass titles arriving over the next few days.\nHere's what's coming to Xbox next week:\nRead the full article on purexbox.com",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/11/these-20plus-games-are-coming-to-xbox-next-week-november-23-27"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/5b1096fc4d828/large.jpg",
-    "published_at": "2026-11-21T13:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "87ec6aec3371",
-    "slug": "final-fantasy-7-counterfeiting-ring-shuts-down",
-    "headline": "Final Fantasy 7 Counterfeiting Ring Shuts Down",
-    "summary": "A counterfeiting operation producing fake Final Fantasy 7 figures has been shut down, resulting in over a dozen arrests.",
-    "category": "industry",
-    "platform_tags": [
-      "playstation",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/final-fantasy-7-figure-fake-arrests/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/final-fantasy-7-remake-aerith-tifa-back-to-back.jpg",
-    "published_at": "2026-11-21T12:52:12.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "final-fantasy-7",
-    "game_label": "Final Fantasy 7"
-  },
-  {
-    "id": "21f393bcc2b4",
-    "slug": "gta-6-features-the-series-first-non-binary-character-says-actor-jesse",
-    "headline": "GTA 6 features the series' first non-binary character, says actor Jesse James Rose, and players can't hurt them",
-    "summary": "Grand Theft Auto 6 features the first non-binary character in the series' history, according to actor Jesse James Rose, who plays the role of a museum curator in the game.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/gta-6-first-non-binary-character-jesse-james-rose"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/gta-6-launch-jason-lucia.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-21T12:50:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "50c38da281e1",
-    "slug": "rockstar-teases-unity-and-self-awareness-in-gta-6",
-    "headline": "Rockstar Teases Unity and Self-Awareness in GTA 6",
-    "summary": "Rockstar Games is hinting at the themes of loneliness and companionship in Grand Theft Auto VI, suggesting a shift in the series' narrative approach.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-wants-you-to-see-yourself-in-gta-6s-jason-and-lucia-because-we-are-all-about-two-bits-of-bad-luck-away-from-completely-losing-it/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/7GKLvfHyNh9cXxWFVLB7Zg-1920-80.jpg",
-    "published_at": "2026-11-21T12:30:14.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "ef9feda259e1",
-    "slug": "arknights-endfield-version-update-meeting-you-in-the-world-oshrooms-la",
-    "headline": "Arknights: Endfield version update ‘Meeting You in the World o’Shrooms’ launches November 25",
-    "summary": "Publisher GRYPHLINE and developer Mountain Contour will release the version update “Meeting You in the …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/arknights-endfield-version-update-meeting-you-in-the-world-oshrooms-launches-november-25"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/ef9feda259e1/800/600",
-    "published_at": "2026-11-21T12:00:56.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "411d808a07b2",
-    "slug": "guide-these-11-ps5-and-ps-plus-games-are-coming-out-next-week-23rd-29t",
-    "headline": "Guide: These 11+ PS5 and PS Plus Games Are Coming Out Next Week (23rd-29th November)",
-    "summary": "Gothic! Spectrum Retreat! Station to Station! It feels odd to be able to say it, but we're now in a post-GTA 6 world, and the release schedule once again reflects that game's imposing presence. There isn't too much to speak of coming to PS5 next week, but it's always worth going over them in case you spot something you like.…",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/guides/these-11plus-ps5-and-ps-plus-games-are-coming-out-next-week-23rd-29th-november"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/3318633776b75/large.jpg",
-    "published_at": "2026-11-21T12:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2448f4bde56f",
-    "slug": "grand-theft-auto-6-layoffs-raise-concerns-about-game-developer-compens",
-    "headline": "Grand Theft Auto 6 Layoffs Raise Concerns About Game Developer Compensation",
-    "summary": "Rockstar's lead writer expresses concern over game developer compensation during a unionization process",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/expedition-33-lead-writer-says-grand-theft-auto-6-layoff-concerns-show-that-people-creating-the-value-do-not-receive-a-proportionate-amount-of-that-value/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/i5cCoWSMAAZPRHWSpGZxhM-1920-80.jpg",
-    "published_at": "2026-11-21T11:51:01.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "736efeecacc3",
-    "slug": "gta-6-launch-stats-are-in-over-50-of-active-console-users-played",
-    "headline": "GTA 6 Launch Stats Are In: Over 50% Of Active Console Users Played",
-    "summary": "GTA 6 was a monumental launch for Rockstar, with over 50% of all active console users playing the game on day one.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/gta-6-half-of-all-active-console-users-played/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/11/jason-and-lucia-from-gta-6-in-front-of-an-xbox-and-playstation-controller-close-up.jpg",
-    "published_at": "2026-11-21T11:48:54.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "81e983c8355e",
-    "slug": "how-to-turn-off-gta-6-auto-uploads-on-xbox",
-    "headline": " How to turn off GTA 6 auto uploads on Xbox ",
-    "summary": "You could risk a ban by auto-uploading GTA 6 clips to the Xbox Network.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-xbox-auto-uploads/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/N6rB5F3mBGz4tn4FbYbZkF-1920-80.jpg",
-    "published_at": "2026-11-21T11:37:37.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6cb082d0b1c9",
-    "slug": "dragon-ball-super-who-has-the-best-chance-of-beating-black-frieza",
-    "headline": "Dragon Ball Super: Who Has The Best Chance of Beating Black Frieza?",
-    "summary": "A new Dragon Ball Super manga arc is expected, and a question is posed about who could potentially stop the powerful Black Frieza.",
-    "category": "esports",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/dragon-ball-super-who-has-the-best-chance-of-beating-black-frieza/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/03/super-saiyan-goku-black-frieza-and-ultra-ego-vegeta.png",
-    "published_at": "2026-11-21T11:30:14.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3238b8f224a4",
-    "slug": "steam-machines-may-get-a-price-increase",
-    "headline": "Steam Machines May Get a Price Increase",
-    "summary": "Valve's Steam Machine system may face a future price hike, according to recent information.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/steam-machine-price-increase/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/steam-machine-with-steam-controller.jpg",
-    "published_at": "2026-11-21T11:09:41.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "89118e2cd677",
-    "slug": "fortnite-officially-disables-geysers-due-to-flying-exploit",
-    "headline": "Fortnite Officially Disables Geysers Due To Flying Exploit",
-    "summary": "Ahead of today's Treasure Hours, the SUV-geyser exploit to destroy hundreds of chests in minutes has been patched.",
-    "category": "patches",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/fortnite-disables-geysers-pirate-shop-access-token-exploit/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/fortnite-treasure-hours-key-art-of-several-characters-reaching-out-to-a-giant-locked-pirate-chest-as-captain-x-watches.jpg",
-    "published_at": "2026-11-21T11:01:54.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8ffc6576b9bb",
-    "slug": "gamerant-daily-crossword",
-    "headline": "GameRant Daily Crossword",
-    "summary": "A daily crossword puzzle featuring Liberty City and demon-slaying gameplay",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/game/gamerant-daily-crossword-2026-11-22/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/game-rant-games-game-rant-daily-crossword-puzzle-site-banner-graphic.jpg",
-    "published_at": "2026-11-21T11:00:14.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gamerant-daily-crossword",
-    "game_label": "GameRant Daily Crossword"
-  },
-  {
-    "id": "dbee17988682",
-    "slug": "george-rr-martins-7-best-non-game-of-thrones-books-ranked",
-    "headline": "George R.R. Martin’s 7 Best Non-Game of Thrones Books, Ranked",
-    "summary": "From antebellum Mississippi vampires to cat-loving space traders, George R.R. Martin’s best work goes far beyond Westeros and Game of Thrones.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/george-rr-martins-best-non-game-of-thrones-books-ranked/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/dying-of-the-light-cover.jpg",
-    "published_at": "2026-11-21T10:00:17.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f66d29e929a5",
-    "slug": "maniac-a-brilliant-mash-up-of-vampire-survivors-and-grand-theft-auto-2",
-    "headline": "Maniac: A Brilliant Mash-Up of Vampire Survivors and Grand Theft Auto 2",
-    "summary": "Game developer Transhuman combined the chaotic action of Vampire Survivors and Grand Theft Auto 2 to create the roguelite shooter Maniac, but it remains underappreciated.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/grand-theft-auto-6-vampire-survivors-maniac-interview"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/gta-week-maniac-header.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-21T10:00:00.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "maniac",
-    "game_label": "Maniac"
-  },
-  {
-    "id": "006f7c7c4a62",
-    "slug": "what-are-you-playing-this-weekend",
-    "headline": "What Are You Playing This Weekend?",
-    "summary": "Columnist Aaron Bayne shares his weekend gaming plans, asking readers about theirs, in the latest 'Talking Point' column.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/talking-point-what-are-you-playing-this-weekend-issue-659"
-      },
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-21st-november"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/3b6372efdde8c/large.jpg",
-    "published_at": "2026-11-21T10:00:00.000Z",
-    "hype_signal": null,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
