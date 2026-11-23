@@ -29080,5 +29080,51 @@
     ],
     "stores": [],
     "fetched_at": "2026-11-23T11:37:31.107Z"
+  },
+  {
+    "slug": "rez",
+    "name": "Rez",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/603/603a120aba4ac6d857666deabc928af1.jpg",
+    "released": "2001-11-22",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "platforms": [
+      "Xbox 360",
+      "PlayStation 2",
+      "Dreamcast"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/353/3533738029e0bb6c88b983a76aa1f949.jpg",
+      "https://media.rawg.io/media/screenshots/ea3/ea3449165f287fa3da66a0d9236ec2ee.jpg",
+      "https://media.rawg.io/media/screenshots/d46/d46d20c8eb198787f88db90bbca1290e.jpg",
+      "https://media.rawg.io/media/screenshots/855/8550e7d31eb0621fa5567415660ae213.jpg",
+      "https://media.rawg.io/media/screenshots/fb1/fb1186d04359d4bab3192b6ca41415c2.jpg",
+      "https://media.rawg.io/media/screenshots/acc/acc7139be9f2836430df7c38242391ad.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-23T13:38:30.251Z"
+  },
+  {
+    "slug": "massive-entertainment",
+    "name": "Massive Entertainment Platform",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/462/4626121c1cb0c852e52e39ecc9a4e5eb.jpg",
+    "released": "2019-11-01",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "PC"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/462/4626121c1cb0c852e52e39ecc9a4e5eb.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-23T13:38:33.128Z"
   }
 ]
