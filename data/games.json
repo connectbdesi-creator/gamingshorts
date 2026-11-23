@@ -28988,5 +28988,43 @@
     ],
     "stores": [],
     "fetched_at": "2026-11-22T21:37:14.741Z"
+  },
+  {
+    "slug": "donkey-kong",
+    "name": "Donkey Kong",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/23e/23eecccb588a4a9c97f35ebf8f9f00ef.jpg",
+    "released": "1981-07-09",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "platforms": [
+      "Nintendo Switch",
+      "Nintendo 3DS",
+      "Wii U",
+      "Wii",
+      "Game Boy Advance",
+      "Game Boy",
+      "NES",
+      "Apple II",
+      "Commodore / Amiga",
+      "Atari 7800",
+      "Atari 2600",
+      "Atari 8-bit",
+      "Atari XEGS"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/cd0/cd0cd1dd724ea647eb8f6177df32edc2.jpg",
+      "https://media.rawg.io/media/screenshots/68f/68f62e3573d159d5dd2b37c391c2cc05.jpg",
+      "https://media.rawg.io/media/screenshots/c3b/c3bb7dc7dae3f5bc45fb3aab8897622c.jpg",
+      "https://media.rawg.io/media/screenshots/3bb/3bbb59fdb3ee0a147428a809b671656f.jpg",
+      "https://media.rawg.io/media/screenshots/5ab/5abc64073539248832bb70bf840659b3.jpg",
+      "https://media.rawg.io/media/screenshots/dc4/dc4f4674812868a9ac8aa0e4bc88371c.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-23T05:36:46.905Z"
   }
 ]

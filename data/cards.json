@@ -1,5 +1,50 @@
 [
   {
+    "id": "a42386ff1aed",
+    "slug": "build-a-bear-and-nintendo-team-up-for-donkey-kong-plush",
+    "headline": "Build-a-Bear and Nintendo Team Up for Donkey Kong Plush",
+    "summary": "Build-a-Bear is releasing a new Donkey Kong plush in partnership with Nintendo, perfect for fans of the classic game franchise.",
+    "category": "deals",
+    "platform_tags": [
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/build-a-bear-donkey-kong/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/donkey-kong-cast-reacting.jpg",
+    "published_at": "2026-11-23T04:51:11.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "donkey-kong",
+    "game_label": "Donkey Kong"
+  },
+  {
+    "id": "6ed1dcc5d34b",
+    "slug": "grand-theft-auto-6-nda-leads-to-couples-crazy-conflict",
+    "headline": "Grand Theft Auto 6 NDA Leads to Couple's Crazy Conflict",
+    "summary": "A member of GTA 6's voice cast reveals a hilarious 'argument' that broke out after their spouse discovered their vocal contributions in-game.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-nda-couple-conflict/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-nda-leads-to-couple-s-crazy-conflict.jpg",
+    "published_at": "2026-11-23T03:47:27.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "d4d23033cc88",
     "slug": "this-weeks-japanese-game-releases-azur-promilia-expelled-from-paradise",
     "headline": "This Week’s Japanese Game Releases: Azur Promilia, Expelled from Paradise: The Stellar Angel, more",
@@ -4784,54 +4829,5 @@
     "comment_count": 0,
     "game": "rob-run",
     "game_label": "ROB RUN"
-  },
-  {
-    "id": "42ba1df75267",
-    "slug": "1666-amsterdam-early-access-first-major-update-launches-in-december",
-    "headline": "1666: Amsterdam Early Access first major update launches in December",
-    "summary": "Panache Digital Games will release the first major content update for the Early Access version …",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/1666-amsterdam-early-access-first-major-update-launches-in-december"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/42ba1df75267/800/600",
-    "published_at": "2026-11-20T21:13:37.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "bf77a53c1f61",
-    "slug": "gta-6-first-person-mode-glitch-method",
-    "headline": "GTA 6 First-Person Mode Glitch Method",
-    "summary": "Learn how to do the GTA 6 first-person mode glitch on PS5 and Xbox Series X|S to drive and explore Leonida through Jason and Lucia's POV.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-first-person-mode-glitch-method/"
-      },
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-glitch-adds-the-first-person-mode-that-rockstar-skipped/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/first-person-mode-glitch-gta-6.jpg",
-    "published_at": "2026-11-20T21:09:25.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
