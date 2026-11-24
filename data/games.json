@@ -29340,5 +29340,62 @@
     "screenshots": [],
     "stores": [],
     "fetched_at": "2026-11-24T17:36:54.039Z"
+  },
+  {
+    "slug": "lords-of-the-fallen-2",
+    "name": "Lords of the Fallen",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/12c/12c2fd04262732cb5e2e6ff378e1cc2d.jpg",
+    "released": "2023-10-13",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/76b/76bc60d56254710dbf9ba34b41493633.jpg",
+      "https://media.rawg.io/media/screenshots/9b8/9b86053233018aa55a92c7ba1d598621.jpg",
+      "https://media.rawg.io/media/screenshots/d05/d057390034f600065fb2195c146bdaa4.jpg",
+      "https://media.rawg.io/media/screenshots/f68/f6809c649c33b42b6f8b1f96c31a78e0.jpg",
+      "https://media.rawg.io/media/screenshots/8bc/8bca62352fc45ead2e00233b094a10dd.jpg",
+      "https://media.rawg.io/media/screenshots/eba/ebacaf893d4b6e23054ed12686e7d71a.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-24T20:36:40.298Z"
+  },
+  {
+    "slug": "the-legend-of-zelda-skyward-sword",
+    "name": "The Legend of Zelda: Skyward Sword",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/884/884d12f527a9a12b5e486ee1b79ecf7f.jpeg",
+    "released": "2011-11-20",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "Nintendo Switch",
+      "Wii U",
+      "Wii"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/135/135535ee17029445286f19f25b875a3c.jpg",
+      "https://media.rawg.io/media/screenshots/0ec/0ec7f09f3beb7fb61915fd482ee5d07c.jpg",
+      "https://media.rawg.io/media/screenshots/ace/ace3ce5a00ab980d36a73865739ba4de.jpg",
+      "https://media.rawg.io/media/screenshots/a1c/a1c007a85325ffb4303a577a10ae661f.jpg",
+      "https://media.rawg.io/media/screenshots/d92/d92de46333a14e1848948852fba55700.jpg",
+      "https://media.rawg.io/media/screenshots/734/7345e48872a3a0a609387a3b75dead8e.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-24T20:36:41.190Z"
   }
 ]
