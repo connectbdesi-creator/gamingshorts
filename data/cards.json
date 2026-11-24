@@ -1,5 +1,56 @@
 [
   {
+    "id": "5dbcdfe4cba4",
+    "slug": "gta-6-players-struggle-to-complete-chapter-3",
+    "headline": "GTA 6 Players Struggle to Complete Chapter 3",
+    "summary": "According to Grand Theft Auto 6 achievement data, a significant number of players are still working on Chapter 2, with only 40% having completed Chapter 3.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-player-data-taking-it-slow-progress/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-jason-lucia-relationship-deterioration-quickly/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-with-gun.jpg",
+    "published_at": "2026-11-24T21:00:15.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "0e1c8c92c453",
+    "slug": "atari-homebrew-awards-canceled-over-torrent-of-ai-games-i-saw-no-path",
+    "headline": "Atari Homebrew Awards Canceled Over Torrent Of AI Games: ‘I Saw No Path Forward’",
+    "summary": "It would have been the event's ninth year",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/atari-homebrew-awards-canceled-over-torrent-of-ai-games-i-saw-no-path-forward-2001000096"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/11/GettyImages-2178400107-e1795551443398-1280x753.jpg",
+    "published_at": "2026-11-24T21:00:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "83425dc7d56e",
     "slug": "lords-of-the-fallen-2-delayed-to-april-2027-release-date-announced",
     "headline": "Lords of the Fallen 2 Delayed to April 2027, Release Date Announced",
@@ -403,32 +454,6 @@
     "comment_count": 0,
     "game": "white-knuckle",
     "game_label": "White Knuckle"
-  },
-  {
-    "id": "5dbcdfe4cba4",
-    "slug": "gta-6-players-struggle-to-complete-chapter-3",
-    "headline": "GTA 6 Players Struggle to Complete Chapter 3",
-    "summary": "According to Grand Theft Auto 6 achievement data, a significant number of players are still working on Chapter 2, with only 40% having completed Chapter 3.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-player-data-taking-it-slow-progress/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-with-gun.jpg",
-    "published_at": "2026-11-24T19:08:18.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "8b9d4aae2ab2",
@@ -4815,30 +4840,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "11c3e30818ab",
-    "slug": "gta-6-praised-for-its-accurate-portrayal-of-felon-rehabilitation",
-    "headline": "GTA 6 Praised for Its Accurate Portrayal of Felon Rehabilitation",
-    "summary": "GTA 6 is receiving praise for its portrayal of the challenges faced by felons in rebuilding their lives, with some critics noting that the game's commentary on the rehabilitation process is refreshingly accurate.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6-praised-for-its-accurate-portrayal-of-felon-rehabilitation"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta-6-lucia-explosion-1795467537268.jpg",
-    "published_at": "2026-11-23T22:25:46.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gta-6",
-    "game_label": "GTA 6"
   }
 ]
