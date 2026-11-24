@@ -1,5 +1,162 @@
 [
   {
+    "id": "15c9e33b110e",
+    "slug": "lego-brings-beloved-gaming-character-to-life-with-new-video-game-set",
+    "headline": "LEGO Brings Beloved Gaming Character to Life with New Video Game Set",
+    "summary": "LEGO is launching a new video game set featuring a popular gaming character, available for purchase in January 2027.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/lego-new-marvel-rivals-jeff-land-shark-set/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/lego-marvel-rivals-new-set.jpg",
+    "published_at": "2026-11-24T22:00:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "lego",
+    "game_label": "LEGO"
+  },
+  {
+    "id": "1a89c04343f7",
+    "slug": "gta-6-how-to-swap-plates",
+    "headline": "GTA 6 How to Swap Plates",
+    "summary": "There are multiple ways to swap vehicle plates in GTA 6 as you progress through the game.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-how-swap-plates/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/how-to-swap-plates-in-gta-6.jpeg",
+    "published_at": "2026-11-24T21:55:28.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a31a697131c5",
+    "slug": "gta-6-has-more-framerate-drops-on-ps5-than-xbox-series-x-according-to",
+    "headline": "GTA 6 has more framerate drops on PS5 than Xbox Series X, according to analysis",
+    "summary": "It looks like Xbox Series X can maintain 30fps more reliably than PS5",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/gta-6-has-more-framerate-drops-on-ps5-than-xbox-series-x-according-to-analysis/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/a31a697131c5/800/600",
+    "published_at": "2026-11-24T21:51:37.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "76fc67c633c2",
+    "slug": "best-unique-weapons-to-grab-early-in-gta-6",
+    "headline": "Best Unique Weapons to Grab Early in GTA 6",
+    "summary": "GTA 6 has numerous unique collectible weapons, and these are the easiest to obtain early in the game",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-weapons/"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-reveal-map-best-method-defog-tips/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/i8yFwHmtrjiByMrpBUfAhf-1920-80.jpg",
+    "published_at": "2026-11-24T21:49:24.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "5dbcdfe4cba4",
+    "slug": "gta-6-players-struggle-to-complete-chapter-3",
+    "headline": "GTA 6 Players Struggle to Complete Chapter 3",
+    "summary": "According to Grand Theft Auto 6 achievement data, a significant number of players are still working on Chapter 2, with only 40% having completed Chapter 3.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-player-data-taking-it-slow-progress/"
+      },
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-jason-lucia-relationship-deterioration-quickly/"
+      },
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-explained/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-with-gun.jpg",
+    "published_at": "2026-11-24T21:47:58.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "430296cb31ea",
+    "slug": "bitmap-brothers-iconic-robotic-rts-game-z-is-unofficially-back-thanks",
+    "headline": "Bitmap Brothers' iconic, robotic RTS game Z is unofficially back thanks to an open source, 3D remake",
+    "summary": "There can be such a wonderful charm that comes from fan games because the people that make them really are just in it for the love of the (literal) game. They ain't gonna make any money from this thing! So I'm quite tickled by OpenZ, a 3D remake of the 1996 RTS game Z from The Bitmap Brothers that's completely…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/bitmap-brothers-iconic-robotic-rts-game-z-is-unofficially-back-thanks-to-an-open-source-3d-remake"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/z-remake.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-24T21:34:40.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "047229850c8c",
     "slug": "star-trek-set-panned-for-low-value-and-poor-quality",
     "headline": "Star Trek Set Panned for Low Value and Poor Quality",
@@ -148,36 +305,6 @@
     "game_label": null
   },
   {
-    "id": "5dbcdfe4cba4",
-    "slug": "gta-6-players-struggle-to-complete-chapter-3",
-    "headline": "GTA 6 Players Struggle to Complete Chapter 3",
-    "summary": "According to Grand Theft Auto 6 achievement data, a significant number of players are still working on Chapter 2, with only 40% having completed Chapter 3.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-player-data-taking-it-slow-progress/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-jason-lucia-relationship-deterioration-quickly/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-with-gun.jpg",
-    "published_at": "2026-11-24T21:00:15.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
     "id": "0e1c8c92c453",
     "slug": "atari-homebrew-awards-canceled-over-torrent-of-ai-games-i-saw-no-path",
     "headline": "Atari Homebrew Awards Canceled Over Torrent Of AI Games: ‘I Saw No Path Forward’",
@@ -291,32 +418,6 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "76fc67c633c2",
-    "slug": "best-unique-weapons-to-grab-early-in-gta-6",
-    "headline": "Best Unique Weapons to Grab Early in GTA 6",
-    "summary": "GTA 6 has numerous unique collectible weapons, and these are the easiest to obtain early in the game",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-weapons/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/i8yFwHmtrjiByMrpBUfAhf-1920-80.jpg",
-    "published_at": "2026-11-24T20:16:19.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   },
   {
     "id": "3f70df9ad489",
@@ -4728,107 +4829,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "fdd1534c758a",
-    "slug": "gta-6-was-the-biggest-launch-in-playstation-history-with-over-39-milli",
-    "headline": "GTA 6 was the ‘biggest launch in PlayStation history’ with over 39 million players",
-    "summary": "GTA 6 has broken another record",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/gta-6-was-the-biggest-launch-in-playstation-history-with-over-39-million-players/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/fdd1534c758a/800/600",
-    "published_at": "2026-11-23T23:55:23.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0b6e73f9222b",
-    "slug": "grand-theft-auto-vi-for-ps5-tops-39-million-players",
-    "headline": "Grand Theft Auto VI for PS5 tops 39 million players",
-    "summary": "More than 39 million unique users have played Grand Theft Auto VI on PlayStation 5 …",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/grand-theft-auto-vi-for-ps5-tops-39-million-players"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/0b6e73f9222b/800/600",
-    "published_at": "2026-11-23T23:45:54.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b3605684075d",
-    "slug": "grand-theft-auto-vi-launches-on-playstation",
-    "headline": "Grand Theft Auto VI Launches on PlayStation",
-    "summary": "Grand Theft Auto VI has launched on PlayStation, marking a significant milestone in the platform's history, and the community is eagerly embracing the game's vast open world and gameplay features.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "PlayStation Blog",
-        "url": "https://blog.playstation.com/2026/11/23/thank-you-for-making-grand-theft-auto-vi-the-biggest-launch-in-playstation-history/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/b3605684075d/800/600",
-    "published_at": "2026-11-23T23:30:13.000Z",
-    "hype_signal": 90,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-vi",
-    "game_label": "Grand Theft Auto VI"
-  },
-  {
-    "id": "33a1af89256e",
-    "slug": "gta-6-easter-egg-puzzle-solved-in-just-3-days",
-    "headline": "GTA 6 Easter Egg Puzzle Solved in Just 3 Days",
-    "summary": "A YouTuber has cracked the code to a GTA 6 Easter egg puzzle in record time, uncovering a surprising revelation.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6-easter-egg-danny-dyer-kent-paul"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/one-of-gta-6s-most-elaborate-easter-eggs-has-been-solved/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-ghost-ship-lighthouse-mystery-easter-egg/"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gtavi-48-1795462919278.jpg",
-    "published_at": "2026-11-23T23:23:12.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   }
 ]
