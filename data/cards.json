@@ -1,5 +1,149 @@
 [
   {
+    "id": "6f3a4f4ab224",
+    "slug": "2026s-best-isekai-surpasses-solo-leveling-in-fan-ratings",
+    "headline": "2026's Best Isekai Surpasses Solo Leveling In Fan Ratings",
+    "summary": "Fan ratings have crowned 2026's Best Isekai as the top anime series, beating out Solo Leveling",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/best-2026-isekai-rezero-season-4-surpass-solo-leveling/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/2026-top-isekai-surpasses-solo-leveling.jpg",
+    "published_at": "2026-11-24T20:00:15.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "f1f4d56e44aa",
+    "slug": "sony-will-support-the-witcher-4s-marketing-much-like-gta-6",
+    "headline": "Sony Will Support The Witcher 4's Marketing, Much Like GTA 6",
+    "summary": "CDPR signs collaboration.\nThe Witcher 4 dev CDPR has signed a marketing arrangement with Sony, which will likely see the latter promote the upcoming RPG similarly to GTA 6.\nPlayStation pushed Rockstar’s latest release ridiculously hard, claiming it ‘Plays Best on PS5’.\nRead the full article on pushsquare.com",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/sony-will-support-the-witcher-4s-marketing-much-like-gta-6"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/b902682cc5b6e/large.jpg",
+    "published_at": "2026-11-24T20:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2f76e2f740be",
+    "slug": "diablo-4-season-16-released",
+    "headline": "Diablo 4 Season 16 Released",
+    "summary": "Blizzard Entertainment has confirmed the release date for Season 16 of Diablo 4, titled 'Season of Tyrael's Gambit', set to debut on December 1.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/diablo-4-season-16-tyraels-gambit-reveal/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/diablo-4-season-16-tyraels-gambit-reveal.jpg",
+    "published_at": "2026-11-24T19:42:52.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "diablo-4",
+    "game_label": "Diablo 4"
+  },
+  {
+    "id": "449d3171b1bf",
+    "slug": "switch-2s-black-friday-bundle-with-mario-kart-world-is-available-now-f",
+    "headline": "Switch 2’s Black Friday Bundle With Mario Kart World Is Available Now For $500",
+    "summary": "It's Black Friday week, and one of the best gaming deals is a Switch 2 bundle featuring Mario Kart World and other extras for $50 off the normal price. As announced previously, the $500 bundle comes with a Switch 2 and a digital copy of Mario Kart World, as well as a three-month Nintendo Switch Online membership. This is what…",
+    "category": "deals",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/switch-2s-black-friday-bundle-with-mario-kart-world-is-available-now-for-500/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/MKWorldSwitch.png?w=300",
+    "published_at": "2026-11-24T19:38:33.000Z",
+    "hype_signal": 65,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "40d61d23ebb7",
+    "slug": "gta-6-npcs-who-crash-out-when-you-steal-from-them-are-some-of-the-funn",
+    "headline": "GTA 6 NPCs Who Crash Out When You Steal From Them Are Some Of The Funniest In The Game",
+    "summary": "Kotaku discovers a humorous glitch in Grand Theft Auto 6 where NPCs crash out when stolen from, adding to the game's already entertaining gameplay.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/grand-theft-auto-6-gta6-npc-fight-back-car-hijack-2001000086"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/11/jasonluciacar-1280x720.jpg",
+    "published_at": "2026-11-24T19:30:39.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "2a2f99160767",
+    "slug": "cdpr-says-the-witcher-4-leap-will-be-comparable-to-gta-5-and-gta-6",
+    "headline": "CDPR Says The Witcher 4 Leap Will Be Comparable to GTA 5 and GTA 6",
+    "summary": "CD Projekt Red is confident that the transition from The Witcher 3 to The Witcher 4 will be comparable in scope to the leaps from Grand Theft Auto 5 to 6",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/the-witcher/the-leap-from-the-witcher-3-to-the-witcher-4-will-be-comparable-to-gta-5-and-gta-6-says-cdpr/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/DGnMUzTLacm59A4tLG9vi-1920-80.jpg",
+    "published_at": "2026-11-24T19:27:06.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-4",
+    "game_label": "The Witcher 4"
+  },
+  {
     "id": "5f7bcaa81be2",
     "slug": "microsoft-flight-simulator-announces-a-marketplace-exclusive-the-inibu",
     "headline": "Microsoft Flight Simulator Announces a Marketplace Exclusive: The iniBuilds Global Jet",
@@ -322,6 +466,27 @@
     "image_url": "https://kotaku.com/app/uploads/2026/10/meuniverse1-1280x720.jpg",
     "published_at": "2026-11-24T18:30:47.000Z",
     "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "7ed117f689ce",
+    "slug": "gta-vi-netflix-trailer-tripled-the-weekly-sales-pace-while-launch-week",
+    "headline": "GTA VI Netflix trailer tripled the weekly sales pace, while launch week drove nearly three-quarters of campaign GMV",
+    "summary": "An analysis shows how Rockstar's key marketing beats translated into consumer demand across GTA VI’s promotional lifecycle.\nThe post GTA VI Netflix trailer tripled the weekly sales pace, while launch week drove nearly three-quarters of campaign GMV appeared first on GamesBeat.",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/gta-vi-netflix-trailer-tripled-the-weekly-sales-pace-while-launch-week-drove-nearly-three-quarters-of-campaign-gmv/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/7ed117f689ce/800/600",
+    "published_at": "2026-11-24T18:29:25.000Z",
+    "hype_signal": 50,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4665,180 +4830,5 @@
     "comment_count": 0,
     "game": "gta-6",
     "game_label": "GTA 6"
-  },
-  {
-    "id": "8b79928bd388",
-    "slug": "gta-6-hacker-given-reduced-sentence-and-warning",
-    "headline": "GTA 6 Hacker Given Reduced Sentence and Warning",
-    "summary": "A 17-year-old hacker who breached Rockstar's systems has been sentenced to time served with a warning, highlighting concerns over cybersecurity",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/grand-theft-auto-6-gta-6-hacker-sentence-warning-rockstar-2000759580"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/11/jason-gta-6-1280x800.jpg",
-    "published_at": "2026-11-23T21:30:52.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gta-6",
-    "game_label": "GTA 6"
-  },
-  {
-    "id": "75c4eb8a14a4",
-    "slug": "2026-steam-awards-pit-the-goty-winners-of-the-past-10-years-against-ea",
-    "headline": " 2026 Steam Awards pit the GOTY winners of the past 10 years against each other in an all-out battle for supremacy ",
-    "summary": "It's the 10th anniversary of the Steam Awards and that means it's time for something new.",
-    "category": "releases",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/2026-steam-awards-pit-the-goty-winners-of-the-past-10-years-against-each-other-in-an-all-out-battle-for-supremacy/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/zf4d4yXSPFw7YH4F6S4zdd-1920-80.png",
-    "published_at": "2026-11-23T21:29:46.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "3d413ec85388",
-    "slug": "gta-6-players-obsession-shifts-from-mandy-to-vicki",
-    "headline": "GTA 6 Players' Obsession Shifts from Mandy to Vicki",
-    "summary": "Grand Theft Auto 6 players have quickly moved on from their initial enthusiasm for Mandy in Chapter 1 to obsessing over Vicki in Chapter 2.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-vicki-chapter-2-girls-trip/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/lucia_caminos_06.jpg",
-    "published_at": "2026-11-23T21:29:19.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "5d366a8eb424",
-    "slug": "gta-6-glitch-almost-ruined-the-games-most-iconic-scene",
-    "headline": "GTA 6 Glitch Almost Ruined the Game's Most Iconic Scene",
-    "summary": "A recent glitch in Grand Theft Auto 6's Chapter 2 mission has left players laughing, but still made for a memorable experience.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/this-gta-6-glitch-almost-ruined-the-games-most-iconic-scene/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-glitch.jpg?w=300",
-    "published_at": "2026-11-23T21:23:41.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "49c41413ac4b",
-    "slug": "should-you-take-coke-with-mattia-at-the-club-in-gta-6",
-    "headline": "Should You Take Coke with Mattia at the Club in GTA 6?",
-    "summary": "Game Rant discusses the implications of a specific choice in Grand Theft Auto VI, encouraging players to share their thoughts on the game's open-world aspect.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-take-drugs-mattia-choice-day-release-lucia/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/accept-mattias-drugs-or-not-in-gta-6-lucia.jpg",
-    "published_at": "2026-11-23T21:15:48.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-vi",
-    "game_label": "Grand Theft Auto VI"
-  },
-  {
-    "id": "76b6aada100d",
-    "slug": "every-playable-video-game-in-gta-6-ranked-worst-to-best",
-    "headline": "Every Playable Video Game in GTA 6, Ranked Worst to Best",
-    "summary": "Polygon ranks the four playable games in GTA 6, comparing their quality and excitement.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-playable-video-games-ranked/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-lucia-arcade-cabinet.jpg",
-    "published_at": "2026-11-23T21:04:57.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "54eb77d97358",
-    "slug": "nicalis-removes-ai-generated-music-from-the-binding-of-isaac-repentanc",
-    "headline": "Nicalis removes AI-generated music from The Binding of Isaac: Repentance+ after player backlash",
-    "summary": "Nicalis has pulled AI-generated music from The Binding of Isaac: Repentance+ after players discovered it in the game's latest update, prompting a wave of negative Steam reviews.\n Read more",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/nicalis-removes-ai-generated-music-from-the-binding-of-isaac-repentance-after-player-backlash"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/sc8p6l.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-23T20:56:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
