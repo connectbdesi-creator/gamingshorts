@@ -1,5 +1,136 @@
 [
   {
+    "id": "5f7bcaa81be2",
+    "slug": "microsoft-flight-simulator-announces-a-marketplace-exclusive-the-inibu",
+    "headline": "Microsoft Flight Simulator Announces a Marketplace Exclusive: The iniBuilds Global Jet",
+    "summary": "Microsoft Flight Simulator introduces a new marketplace exclusive, The iniBuilds Global Jet, a Boeing 777-300ER aircraft.",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "xbox",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/11/24/microsoft-flight-simulator-announces-a-marketplace-exclusive-the-inibuilds-global-jet/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/5f7bcaa81be2/800/600",
+    "published_at": "2026-11-24T19:19:09.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "microsoft-flight-simulator",
+    "game_label": "Microsoft Flight Simulator"
+  },
+  {
+    "id": "aa3a57617b59",
+    "slug": "open-world-rpgs-that-put-exploration-first",
+    "headline": "Open-World RPGs That Put Exploration First",
+    "summary": "These open-world RPGs prioritize player exploration, allowing players to spend hours exploring and discovering new content",
+    "category": "reviews",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/open-world-rpgs-reward-exploration-ranked/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/open-world-rpgs-that-reward-exploration-over-authored-story-ranked.jpg",
+    "published_at": "2026-11-24T19:15:14.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9fb038938b66",
+    "slug": "white-knuckle-gets-new-update-with-hostile-enclave-the-core",
+    "headline": "White Knuckle Gets New Update with Hostile Enclave 'The Core'",
+    "summary": "White Knuckle, a digital climbing roguelike, has received an update introducing a new region with a hostile reactor sector, where players will likely face challenges and death.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/bare-fist-megastructure-climbing-roguelike-white-knuckle-gets-its-penultimate-region-in-the-core-a-sterile-hostile-reactor-sector-that-youll-probably-die-in"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/white-knuckle.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-24T19:10:40.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "white-knuckle",
+    "game_label": "White Knuckle"
+  },
+  {
+    "id": "5dbcdfe4cba4",
+    "slug": "gta-6-players-struggle-to-complete-chapter-3",
+    "headline": "GTA 6 Players Struggle to Complete Chapter 3",
+    "summary": "According to Grand Theft Auto 6 achievement data, a significant number of players are still working on Chapter 2, with only 40% having completed Chapter 3.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-player-data-taking-it-slow-progress/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-with-gun.jpg",
+    "published_at": "2026-11-24T19:08:18.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto-6",
+    "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "8b9d4aae2ab2",
+    "slug": "lords-of-the-fallen-ii-launches-in-april-2027",
+    "headline": "Lords of the Fallen II launches in April 2027",
+    "summary": "Soulslike action RPG Lords of the Fallen II will launch for PlayStation 5, Xbox Series, Switch …",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/lords-of-the-fallen-ii-launches-in-april-2027"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/8b9d4aae2ab2/800/600",
+    "published_at": "2026-11-24T19:01:50.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "051bcdf3c1b4",
     "slug": "gta-6s-best-easter-egg",
     "headline": "GTA 6's Best Easter Egg",
@@ -61,6 +192,27 @@
     "image_url": "https://picsum.photos/seed/00f9ada137d3/800/600",
     "published_at": "2026-11-24T19:00:00.000Z",
     "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2b067dc0d123",
+    "slug": "gta-6-gets-officially-licensed-trading-cards-based-on-in-game-collecti",
+    "headline": "GTA 6 Gets Officially Licensed Trading Cards Based on In-Game Collectibles",
+    "summary": "Rockstar is teaming up with Panini America to bring the hunt for GTA 6 trading cards to life.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-gets-officially-licensed-trading-cards-based-on-in-game-collectibles"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/24/gta6cards-1795544757077.jpg",
+    "published_at": "2026-11-24T18:50:31.000Z",
+    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -3374,6 +3526,33 @@
     "game_label": "Grand Theft Auto 6"
   },
   {
+    "id": "25531e927c17",
+    "slug": "magical-girl-taboo-village-and-the-streamers-alt-account-labyrinth-rel",
+    "headline": "Magical Girl Taboo Village and The Streamer's Alt Account Labyrinth Release Delayed",
+    "summary": "Developer Acacia has announced a delay for the upcoming releases of Magical Girl Taboo Village and The Streamer's Alt Account Labyrinth, citing a focus on finalizing the games",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Automaton",
+        "url": "https://automaton-media.com/en/news/magical-girl-taboo-village-and-the-streamers-alt-account-labyrinth-wont-be-coming-in-2026-release-delayed-so-devs-can-focus-on-finalizing-the-games/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/25531e927c17/800/600",
+    "published_at": "2026-11-24T07:09:07.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "magical-girl-taboo-village-and-the-streamers-alt-account-labyrinth",
+    "game_label": "Magical Girl Taboo Village and The Streamer's Alt Account Labyrinth"
+  },
+  {
     "id": "ca742e4d7344",
     "slug": "dead-or-alive-series-30th-anniversary-trailer-dead-or-alive-6-last-rou",
     "headline": "DEAD OR ALIVE series 30th anniversary trailer; DEAD OR ALIVE 6 Last Round free update now available",
@@ -4661,184 +4840,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "6725ecf065e9",
-    "slug": "cyberpunk-2-creative-director-jokes-about-games-cancellation",
-    "headline": "Cyberpunk 2 Creative Director Jokes About Game's Cancellation",
-    "summary": "The creative director of Cyberpunk 2 expressed feelings of depression and joke about the game's cancellation due to the pressure of following the success of GTA 6.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/cyberpunk-2-creative-director-says-hes-suffering-from-gta-6-induced-open-world-game-dev-depression-jokes-that-cyberpunk-2-is-cancelled/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/rbG2FUURveWgVE8B7Uidqe-1920-80.jpg",
-    "published_at": "2026-11-23T20:55:56.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "cyberpunk-2",
-    "game_label": "Cyberpunk 2"
-  },
-  {
-    "id": "e7143b306720",
-    "slug": "ps5-games-on-sale-for-15-for-black-friday",
-    "headline": "PS5 Games on Sale for $15 for Black Friday",
-    "summary": "Multiple PS5 games are available for $15 during Black Friday, offering players a discount on popular titles.",
-    "category": "deals",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/ps5-games-on-sale-for-15-for-black-friday"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/23/untitled-design-1795466994088.png",
-    "published_at": "2026-11-23T20:54:55.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cef057c4ed57",
-    "slug": "gta-6-online-could-be-bigger-than-fortnite-bank-of-america-stock-analy",
-    "headline": "GTA 6 Online Could Be Bigger Than Fortnite, Bank Of America Stock Analyst Says",
-    "summary": "Rockstar Games and parent company Take-Two are riding high currently from the success of Grand Theft Auto 6 with a reported 45 million copies sold and $4 billion in revenue already, but this could just the beginning of how much money GTA 6 could bring in. According to Bank of America stock analyst Omar Dessouky, the initial success of GTA…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gta-6-online-could-be-bigger-than-fortnite-bank-of-america-stock-analyst-says/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA6Online.png?w=300",
-    "published_at": "2026-11-23T20:28:38.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a95fb24d42f5",
-    "slug": "gta-6-find-and-break-into-freddie-gibbs-doomsday-compound-in-grand-the",
-    "headline": "GTA 6: Find and break into Freddie Gibbs’ doomsday compound in Grand Theft Auto 6",
-    "summary": "A new GTA 6 gameplay tip reveals how players can find and interact with Freddie Gibbs' doomsday compound, potentially unlocking rewards.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/gta-6-find-break-in-freddie-doomsday-compound-grand-theft-auto/"
-      },
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/gta-6-painted-tunnel-prank/"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-silent-hill-hotel-easter-egg-location-marbelle-hotel-safe/"
-      },
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/gta-6-tyrone-mission-walkthrough-where-to-find-tyrone/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/a95fb24d42f5/800/600",
-    "published_at": "2026-11-23T20:26:31.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "7e8c39b02b90",
-    "slug": "best-black-friday-gaming-deals-for-2024",
-    "headline": "Best Black Friday Gaming Deals for 2024",
-    "summary": "TheGamer shares top gaming deals for Black Friday 2024, including discounts on popular games and consoles.",
-    "category": "deals",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "TheGamer",
-        "url": "https://www.thegamer.com/black-friday-gaming-deals-record-low-prices/"
-      }
-    ],
-    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/donkey-kong-bananza-wallpaper-surrounded-by-dollar-signs.jpg",
-    "published_at": "2026-11-23T20:17:15.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "a132bf1118f1",
-    "slug": "deltarune-chapter-6-is-playable-from-the-beginning-to-the-end-toby-fox",
-    "headline": "Deltarune Chapter 6 is playable \"from the beginning to the end,\" Toby Fox says, but the RPG's final part has \"only just started\"",
-    "summary": "Toby Fox has given eager fans an update on the development of Deltarune Chapter 6 and Chapter 7 - the Undertale follow-up's final two episodes.\n Read more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Eurogamer",
-        "url": "https://www.eurogamer.net/deltarune-chapter-6-playable-toby-fox"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/deltarune-characters.png?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-23T20:04:50.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "351c6863a2aa",
-    "slug": "gta-6-tenebrae-lux-walkthrough-guide",
-    "headline": "GTA 6 Tenebrae Lux Walkthrough Guide",
-    "summary": "A step-by-step guide to completing Tenebrae Lux, a first-person puzzle game in GTA 6, including puzzle solutions.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/guides/gta-6-tenebrae-lux-walkthrough-and-puzzle-solutions"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/472d7ee507168/large.jpg",
-    "published_at": "2026-11-23T20:00:00.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gta-6",
-    "game_label": "GTA 6"
   }
 ]
