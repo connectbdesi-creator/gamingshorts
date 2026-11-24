@@ -29226,5 +29226,57 @@
     ],
     "stores": [],
     "fetched_at": "2026-11-24T04:06:55.479Z"
+  },
+  {
+    "slug": "destruction-allstars",
+    "name": "Destruction AllStars",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/cb3/cb3fa58805e186c72d7cde04f58370a6.jpg",
+    "released": "2021-02-02",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Racing",
+      "Action"
+    ],
+    "platforms": [
+      "PlayStation 5"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/faa/faa8bc638ca9abd8b639b8f52ddf5f14.jpg",
+      "https://media.rawg.io/media/screenshots/570/5704b62ad0791b70461da5a07a58f6b5.jpg",
+      "https://media.rawg.io/media/screenshots/64d/64dcec87852138c6b0eec9a60b148fb3.jpg",
+      "https://media.rawg.io/media/screenshots/ab6/ab65f9fb94eee8410cf9b8d1fb5788c4.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-24T12:06:51.993Z"
+  },
+  {
+    "slug": "scott-pilgrim",
+    "name": "Scott Pilgrim vs. the World: The Game",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/313/3131eaaea9b3e6f69763a150b5a4cdf6.jpg",
+    "released": "2010-08-10",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Platformer",
+      "Arcade",
+      "Fighting"
+    ],
+    "platforms": [
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/015/015331daef19b66496ccb781bd93a0bd_FAop3fB.jpg",
+      "https://media.rawg.io/media/screenshots/f49/f49024cc270f788ba6ed339779aad044.jpg",
+      "https://media.rawg.io/media/screenshots/267/26743e7162800c0e1f5ac24205ee48a6.jpg",
+      "https://media.rawg.io/media/screenshots/c55/c552e51deee19f8b2b62582ede058b45_QyNoQMu.jpg",
+      "https://media.rawg.io/media/screenshots/988/9887af6a57dea3df2f3d754bc3bec956.jpg",
+      "https://media.rawg.io/media/screenshots/86c/86c60085cf804737c08f5a2ce0601fca.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-24T12:06:52.605Z"
   }
 ]
