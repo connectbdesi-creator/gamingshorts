@@ -1,5 +1,53 @@
 [
   {
+    "id": "0285b6462476",
+    "slug": "8-fantasy-movies-george-r-r-martin-wants-you-to-watch",
+    "headline": "8 Fantasy Movies George R. R. Martin Wants You to Watch",
+    "summary": "The Game of Thrones creator knows the ins and outs of fantasy better than most, and these are his favorite movies in the genre.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/fantasy-movies-george-r-r-martin-recommends/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/george-r-r-martin-fantasy-movies-recommendations.jpg",
+    "published_at": "2026-11-24T13:00:14.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "68277b583e60",
+    "slug": "destruction-allstars-ps5-service-shut-down-today",
+    "headline": "Destruction AllStars PS5 Service Shut Down Today",
+    "summary": "Destruction AllStars will be fully taken offline on November 25, 2026, marking the end of a meaningful gaming experience for players with the PS5 version.",
+    "category": "deals",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/today-is-your-last-chance-to-play-destruction-allstars-on-ps5"
+      },
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/destruction-allstars-ps5-exclusive-shuts-down-november-25/"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/7daacdee0e7a4/large.jpg",
+    "published_at": "2026-11-24T12:46:54.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "destruction-allstars",
+    "game_label": "Destruction AllStars"
+  },
+  {
     "id": "73a227993c6f",
     "slug": "gdq-releases-schedule-for-awesome-games-done-quick-2027-in-january-fea",
     "headline": "GDQ releases schedule for Awesome Games Done Quick 2027 in January, featuring new runs like Queen's Domain, Big Walk, Galactic Racer, and the incongruously not-new Yakuza 5",
@@ -95,27 +143,27 @@
     "game_label": null
   },
   {
-    "id": "68277b583e60",
-    "slug": "destruction-allstars-ps5-service-shut-down-today",
-    "headline": "Destruction AllStars PS5 Service Shut Down Today",
-    "summary": "Destruction AllStars will be fully taken offline on November 25, 2026, marking the end of a meaningful gaming experience for players with the PS5 version.",
-    "category": "deals",
+    "id": "b444d4953a15",
+    "slug": "xbox-project-helix-reportedly-designed-to-make-online-multiplayer-free",
+    "headline": "Xbox Project Helix Reportedly Designed to Make Online Multiplayer Free",
+    "summary": "Microsoft's next-gen console, Project Helix, was aimed at making online multiplayer free, a shift from the paywalled model on Xbox consoles, according to a report.",
+    "category": "industry",
     "platform_tags": [
-      "playstation"
+      "xbox"
     ],
     "sources": [
       {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/today-is-your-last-chance-to-play-destruction-allstars-on-ps5"
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/xbox-project-helix-was-reportedly-designed-to-make-online-multiplayer-free/"
       }
     ],
-    "image_url": "https://images.pushsquare.com/7daacdee0e7a4/large.jpg",
-    "published_at": "2026-11-24T12:00:00.000Z",
-    "hype_signal": 20,
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/06/Xbox.png?w=300",
+    "published_at": "2026-11-24T12:03:22.000Z",
+    "hype_signal": 60,
     "like_count": 0,
     "comment_count": 0,
-    "game": "destruction-allstars",
-    "game_label": "Destruction AllStars"
+    "game": "project-helix",
+    "game_label": "Project Helix"
   },
   {
     "id": "31463687d609",
@@ -530,6 +578,33 @@
     "game_label": null
   },
   {
+    "id": "6e3141102eb7",
+    "slug": "gta-6-is-officially-the-biggest-launch-in-playstation-history",
+    "headline": "GTA 6 is Officially the Biggest Launch in PlayStation History",
+    "summary": "Sony just shared some mind-boggling stats about GTA 6 launch, making it the most impressive in PlayStation history.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-biggest-launch-in-ps-history/"
+      },
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-the-biggest-launch-in-playstation-history-with-sony-reporting-more-than-39-million-unique-players-playing-rockstars-new-game-on-ps5/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vintage_vice_city_pack_exclusive_looks_01-1.jpg",
+    "published_at": "2026-11-24T10:56:24.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "bad39004320f",
     "slug": "nintendo-switch-online-adds-acclaimed-gamecube-game",
     "headline": "Nintendo Switch Online Adds Acclaimed GameCube Game",
@@ -600,6 +675,31 @@
     "comment_count": 0,
     "game": "grand-theft-auto-6",
     "game_label": "Grand Theft Auto 6"
+  },
+  {
+    "id": "e07e45be04f3",
+    "slug": "marvel-fans-convinced-spider-man-will-return-in-avengers-doomsday",
+    "headline": "Marvel fans convinced Spider-Man will return in Avengers: Doomsday",
+    "summary": "Marvel fans are spotting a Spider-Man Easter egg in the Avengers: Doomsday trailer, sparking speculation about a potential return for Tobey Maguire's character.",
+    "category": "industry",
+    "platform_tags": [
+      "playstation",
+      "xbox",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/marvel-movies/marvel-fans-are-convinced-that-tobey-maguires-spider-man-will-return-in-avengers-doomsday-thanks-to-the-final-trailer/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/8bNZYymmTYbsXrt3EyA39a-1920-80.jpg",
+    "published_at": "2026-11-24T10:47:27.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "a384d3324a50",
@@ -689,29 +789,6 @@
     "image_url": "https://assetsio.gnwcdn.com/jason-lucia-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp",
     "published_at": "2026-11-24T10:08:20.000Z",
     "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6e3141102eb7",
-    "slug": "gta-6-is-officially-the-biggest-launch-in-playstation-history",
-    "headline": "GTA 6 is Officially the Biggest Launch in PlayStation History",
-    "summary": "Sony just shared some mind-boggling stats about GTA 6 launch, making it the most impressive in PlayStation history.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-biggest-launch-in-ps-history/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vintage_vice_city_pack_exclusive_looks_01-1.jpg",
-    "published_at": "2026-11-24T10:04:01.000Z",
-    "hype_signal": 35,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4713,75 +4790,6 @@
     "image_url": "https://cdn.mos.cms.futurecdn.net/M43ybKaMmGbcS7u8kHJcyc-1920-80.jpg",
     "published_at": "2026-11-23T14:41:30.000Z",
     "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "68c920d69478",
-    "slug": "my-cat-knows-more-about-video-games-than-me",
-    "headline": "My Cat Knows More About Video Games Than Me",
-    "summary": "A writer's cat shares surprising insights on video games, sparking questions about feline gaming expertise.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/my-cat-knows-more-about-video-games-than-me-2000759301"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/11/robo-the-cat-1280x960.jpg",
-    "published_at": "2026-11-23T14:30:03.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "009770d1414d",
-    "slug": "how-old-are-gta-6s-jason-lucia-now-we-officially-know",
-    "headline": "How Old Are GTA 6's Jason & Lucia? Now We Officially Know",
-    "summary": "Date of birth, height, more. Have you found yourself asking how old GTA 6’s dual protagonists Jason and Lucia are? Well, now we have an official answer. Fans on social media discovered some in-game art assets featuring the couple’s ID cards, and they give us a definitive age for the duo. In fact, it looks like we all missed a…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/how-old-are-gta-6s-jason-and-lucia-now-we-officially-know"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/695f7d9a63635/large.jpg",
-    "published_at": "2026-11-23T14:30:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8faf6a243863",
-    "slug": "how-1up-ventures-views-the-future-of-gamings-growth-ed-fries-and-amir",
-    "headline": "How 1Up Ventures views the future of gaming’s growth | Ed Fries and Amir Satvat",
-    "summary": "Ed Fries and Amir Satvat, two leaders at 1Up Ventures who come from very different backgrounds, are in sync when it comes to gaming’s...\nThe post How 1Up Ventures views the future of gaming’s growth | Ed Fries and Amir Satvat appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/how-1up-ventures-views-the-future-of-gamings-growth-ed-fries-and-amir-satvat/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/8faf6a243863/800/600",
-    "published_at": "2026-11-23T14:30:00.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
