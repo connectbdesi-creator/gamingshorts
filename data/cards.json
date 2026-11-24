@@ -1,5 +1,794 @@
 [
   {
+    "id": "3a6adc6f9973",
+    "slug": "yoshinori-kitase-wants-final-fantasy-vii-revelation-players-to-be-curi",
+    "headline": "Yoshinori Kitase Wants Final Fantasy VII Revelation Players To Be ‘Curious About What Happens Next,’ Even Though They Know The Ending",
+    "summary": "The remake producer was giving a lecture at a South Korean games event",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/final-fantasy-7-revelation-square-enix-kitase-fans-remake-2001000016"
+      }
+    ],
+    "image_url": "https://kotaku.com/app/uploads/2026/11/ff7rev-1280x720.jpg",
+    "published_at": "2026-11-24T16:30:54.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e59d5a73050e",
+    "slug": "ps-plus-officially-adds-its-final-4-games-for-november-2026",
+    "headline": "PS Plus Officially Adds Its Final 4 Games for November 2026",
+    "summary": "The third and final wave of PS Plus Extra and Premium games for November 2026 is now out, adding four new titles to Sony's subscription service.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/ps-plus-november-2026-extra-premium-games-wave-3-full-list/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/playstation-plus-d-pad-shaped-abridged-logo-submark-gold-and-dark-red-graphic-over-blurred-pirate-yakuza-den-screenshot-composite.jpg",
+    "published_at": "2026-11-24T16:30:16.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8f6023dd51a0",
+    "slug": "paper-shredder-launches-january-12-2027",
+    "headline": "Paper Shredder launches January 12, 2027",
+    "summary": "Incremental game Paper Shredder will launch for Xbox Series and PC via Steam and Microsoft …",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/paper-shredder-launches-january-12-2027"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/8f6023dd51a0/800/600",
+    "published_at": "2026-11-24T16:28:22.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "56df5c1e5ea5",
+    "slug": "pokemon-go-twilight-wishes-event-guide",
+    "headline": "Pokémon Go 'Twilight Wishes' event guide",
+    "summary": "Pokémon Go is hosting a special event called 'Twilight Wishes', which includes a crown Pikachu and exclusive rewards. Here's how to participate.",
+    "category": "releases",
+    "platform_tags": [
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/pokemon-go-twilight-wishes-pass-sun-moon-umbreon-espeon/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/unnamed-4.jpg",
+    "published_at": "2026-11-24T16:21:31.000Z",
+    "hype_signal": 60,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pokemon-go",
+    "game_label": "Pokémon Go"
+  },
+  {
+    "id": "c16fa6baf4b1",
+    "slug": "atomic-heart-reveal-teaser-trailer-released-by-mundfish",
+    "headline": "Atomic Heart Reveal Teaser Trailer Released by Mundfish",
+    "summary": "A new teaser trailer for the upcoming multiplayer RPG Atomic Heart: The CUBE has been released by Mundfish, showcasing the game's dark and dystopian setting.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/atomic-heart-the-cube-teaser-trailer-archive-file-1"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/c16fa6baf4b1/800/600",
+    "published_at": "2026-11-24T16:19:34.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "atomic-heart-the-cube",
+    "game_label": "Atomic Heart: The CUBE"
+  },
+  {
+    "id": "f7f9f7fdf917",
+    "slug": "black-friday-steam-deck-gift-deals-offer-discounts-on-peripherals",
+    "headline": "Black Friday Steam Deck Gift Deals Offer Discounts on Peripherals",
+    "summary": "Steam Deck owners can enjoy discounted accessories and peripherals on Black Friday, perfect for treating their device right.",
+    "category": "deals",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/hardware/handhelds/got-a-steam-deck-that-needs-a-black-friday-treat-these-deals-will-let-you-deck-out-your-deck-at-bargain-prices/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/UQwEegGh7YU7oP9pLPQAWX-1920-80.jpg",
+    "published_at": "2026-11-24T16:18:20.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "a3a3ebd2cc16",
+    "slug": "how-long-does-it-take-to-beat-gta-6",
+    "headline": " How long does it take to beat GTA 6? ",
+    "summary": "GTA 6 is a massive game, and it might take you over 100 hours to beat",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-how-long-to-beat-length/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/YStK3kAiQWgxho33L4VjMA-1920-80.jpg",
+    "published_at": "2026-11-24T16:17:50.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5507507cf903",
+    "slug": "the-best-gaming-headset-you-can-buy-right-now-is-at-its-lowest-ever-pr",
+    "headline": " The best gaming headset you can buy right now is at its lowest-ever price ",
+    "summary": "Amazon has reduced our top-rated gaming headset, the SteelSeries Arctis Nova Pro Omni, down $15 cheaper than we've ever seen it before.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/hardware/speakers-audio/our-favorite-gaming-headset-is-at-a-new-low-price-in-this-black-friday-deal-making-it-one-of-the-easiest-wins-of-the-season/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/W6h8cRmkMF4GPnu5VZdUFA-1920-80.jpg",
+    "published_at": "2026-11-24T16:17:42.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "1276fdbc2867",
+    "slug": "new-xbox-was-originally-planned-to-ditch-paid-multiplayer",
+    "headline": "New Xbox Was Originally Planned to Ditch Paid Multiplayer",
+    "summary": "The new Xbox was reportedly originally planned as a device without subscription fees, but Microsoft is now reconsidering.",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/xbox-project-helix-ditching-paid-multiplayer/"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/xbox-new-logo.png",
+    "published_at": "2026-11-24T16:17:39.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d3b895f9271f",
+    "slug": "new-escape-from-tarkov-update-is-a-game-changer",
+    "headline": "New Escape from Tarkov Update is a Game-Changer",
+    "summary": "Escape from Tarkov has just received its 1.3.5.0 patch, and it's truly a game-changer for the decade-old extraction shooter.",
+    "category": "patches",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/escape-from-tarkov-november-update-unity-6/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/escape-from-tarkov-november-2026-update.jpg",
+    "published_at": "2026-11-24T16:00:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6705562ed057",
+    "slug": "best-pokemon-games-to-play-on-nintendo-switch-2",
+    "headline": "BEST Pokémon Games to Play on Nintendo Switch 2",
+    "summary": "Pokémon turns 30 in 2026, and nearly a third of the franchise’s lifetime has been spent on the Nintendo Switch platform. While there’s no new mainline Pokémon RPG to play this holiday season, there are no shortage of great Pokémon games to play on Nintendo Switch 2. No matter what kind of player you are, today we’ll find the best…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/video/best-pokmon-games-nintendo-switch-2-generation-console-new/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/pokemon-worth-it-site4-1.jpg",
+    "published_at": "2026-11-24T16:00:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "9b81e534bda3",
+    "slug": "wuthering-waves-becomes-a-stealth-iron-man-game-in-next-ps5-update",
+    "headline": "Wuthering Waves Becomes a Stealth Iron Man Game in Next PS5 Update",
+    "summary": "Stark contrast. If the wait for EA’s upcoming Marvel’s Iron Man is proving too tough to take, then Wuthering Waves’ forthcoming milestone v4.0 update may scratch your Tony Stark itch. In this exclusive IGN footage of the gacha game’s new ‘Embers of Everbright’ arc – scheduled to release on 22nd December – dev Kuro has introduced the new Strider Mechsuit.…",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/wuthering-waves-becomes-a-stealth-iron-man-game-in-next-ps5-update"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/a5029246c85d2/large.jpg",
+    "published_at": "2026-11-24T16:00:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "82b7bd212627",
+    "slug": "where-to-get-the-car-key-cloner-in-gta-6",
+    "headline": "Where To Get The Car Key Cloner In GTA 6",
+    "summary": "This article provides information on how to obtain the Car Key Cloner item in GTA 6, likely for in-game purposes.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/where-to-get-the-car-key-cloner-in-gta-6/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/82b7bd212627/800/600",
+    "published_at": "2026-11-24T15:59:08.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
+    "id": "50e7d0ce4675",
+    "slug": "thursday-night-football-had-lowest-viewership-all-season-on-gta-6-laun",
+    "headline": "Thursday Night Football Had Lowest Viewership All Season On GTA 6 Launch Day",
+    "summary": "The Thursday Night Football matchup on November 19, the day that GTA 6 came out, had the lowest viewership of the entire season so far for a TNF game, but the low ratings might not be due entirely to competition with GTA 6. The data shows that 12.23 million people, on average, watched the November 19 matchup between the Indianapolis…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/thursday-night-football-had-lowest-viewership-all-season-on-gta-6-launch-day/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261030130806_.jpg?w=300",
+    "published_at": "2026-11-24T15:46:40.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2d55ffc835da",
+    "slug": "gta-6-and-red-dead-redemption-share-the-same-universe",
+    "headline": "GTA 6 and Red Dead Redemption Share the Same Universe",
+    "summary": "Several Easter eggs discovered in GTA 6 hint at a shared universe between the two Rockstar Games series.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "mobile"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-red-dead-redemption-2-easter-eggs-secrets-details"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/24/red-dead-blog-1795529199286.jpg",
+    "published_at": "2026-11-24T15:45:00.000Z",
+    "hype_signal": 70,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "grand-theft-auto",
+    "game_label": "Grand Theft Auto"
+  },
+  {
+    "id": "8496ee8482cc",
+    "slug": "steam-users-can-claim-a-multiplayer-game-completely-free-of-charge-in",
+    "headline": "Steam Users Can Claim a Multiplayer Game Completely Free of Charge in December 2026",
+    "summary": "Thanks to Lenovo, Steam users will be able to claim and download a free 2026 multiplayer game next month.",
+    "category": "releases",
+    "platform_tags": [
+      "pc"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/steam-free-games-lgc-slowly-sliding-ducks/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/steam-free-add-to-account-slowly-sliding-ducks-game-rant.jpg",
+    "published_at": "2026-11-24T15:42:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "dea730272696",
+    "slug": "gta-6-comparison-reveals-two-advantages-of-xbox-series-x-over-ps5",
+    "headline": "GTA 6 Comparison Reveals Two Advantages Of Xbox Series X Over PS5",
+    "summary": "But obviously not the PS5 Pro. The good folks over at Digital Foundry are still busy analysing all things to do with GTA 6's launch last week, and their latest comparison takes a look at all four console versions alongside each other - Series X, S, PS5 and PS5 Pro. They also go on to rank the versions in order,…",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/gta-6-comparison-reveals-two-advantages-of-xbox-series-x-over-ps5"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/e2ec029982746/large.jpg",
+    "published_at": "2026-11-24T15:38:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "6e3141102eb7",
+    "slug": "gta-6-is-officially-the-biggest-launch-in-playstation-history",
+    "headline": "GTA 6 is Officially the Biggest Launch in PlayStation History",
+    "summary": "Sony just shared some mind-boggling stats about GTA 6 launch, making it the most impressive in PlayStation history.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/gta-6-biggest-launch-in-ps-history/"
+      },
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-the-biggest-launch-in-playstation-history-with-sony-reporting-more-than-39-million-unique-players-playing-rockstars-new-game-on-ps5/"
+      },
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/gta6-grand-theft-auto-6-ps5-playstation-sony-record-sales-2001000009"
+      }
+    ],
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vintage_vice_city_pack_exclusive_looks_01-1.jpg",
+    "published_at": "2026-11-24T15:33:18.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e5e37f49ee8a",
+    "slug": "gta-6-has-a-secret-mission-that-feels-like-hard-target-meets-saw",
+    "headline": "GTA 6 Has A Secret Mission That Feels Like Hard Target Meets Saw",
+    "summary": "In the mood for a little bloodsport? In GTA 6, you can teach one loud-mouthed hunter that Lucia (or Jason) is the deadliest game, as this secret mission will require cunning and sharp shooting to survive. It's Hard Target meets SAW, and the victor gets a pretty sizable stack of cash. Here's how you can be the most elusive of…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-has-a-secret-mission-that-feels-like-hard-target-meets-saw/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-Lucia.jpg?w=300",
+    "published_at": "2026-11-24T15:33:03.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "bad39004320f",
+    "slug": "nintendo-switch-online-adds-acclaimed-gamecube-game",
+    "headline": "Nintendo Switch Online Adds Acclaimed GameCube Game",
+    "summary": "In its latest update, Nintendo Switch Online has added another acclaimed GameCube game to its Classics library.",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/switch-online-wave-race-blue-storm-game-cube/"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/wave-race-blue-storm-nintendo-switch-online/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/switch-online-update-gamecube-game-super-mario-sunshine.jpg",
+    "published_at": "2026-11-24T15:31:50.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "2051896569da",
+    "slug": "mandalorian-and-han-solo-vehicles-in-star-wars-galactic-racer-next-mon",
+    "headline": "Mandalorian and Han Solo Vehicles in Star Wars: Galactic Racer Next Month",
+    "summary": "Part of a Speed Legends update. Fuse Games has revealed a Speed Legends update to Star Wars: Galactic Racer dropping in December will include both free and premium content, the latter of which contains new vehicles from Star Wars films and TV shows. Available to purchase, there will be the M-68 Landspeeder Icon Vehicle from Solo: A Star Wars Story,…",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/mandalorian-and-han-solo-vehicles-in-star-wars-galactic-racer-next-month"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/7e4e61ccfb897/large.jpg",
+    "published_at": "2026-11-24T15:30:00.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "5d204e06d9fc",
+    "slug": "why-some-devs-prefer-self-publishing-over-traditional-publishing",
+    "headline": "Why Some Devs Prefer Self-Publishing Over Traditional Publishing",
+    "summary": "The Game Bakers' CEO argues that self-publishing is a viable route to market for indie developers, allowing them to maintain control and risk, with many opting for help only where necessary",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/you-are-still-taking-100-of-the-risk-why-cairn-dev-the-game-bakers-backs-self-publishing-for-all-but-the-smallest-developers"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Cairn_KeyArt_4K_LargeShot_NoLogo.png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-24T15:28:00.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "0d6d3cd405a2",
+    "slug": "mass-effect-writers-alternative-ending-proposal",
+    "headline": "Mass Effect Writer's Alternative Ending Proposal",
+    "summary": "A Mass Effect writer suggests an alternative ending for ME3, proposing a playable Elcor main character, and reveals their personal preference",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-writer-says-as-a-fan-i-would-have-been-happy-with-the-solution-they-came-up-with-for-me3s-endings-in-me-universe/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Ejh4Z9YqLYB8hwzrfyYisK-1920-80.jpg",
+    "published_at": "2026-11-24T15:14:07.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "mass-effect",
+    "game_label": "Mass Effect"
+  },
+  {
+    "id": "c8c81ae07a90",
+    "slug": "stardust-wish-of-witch-for-ps5-switch-2-launches-december-14",
+    "headline": "STARDUST: Wish of Witch for PS5, Switch 2 launches December 14",
+    "summary": "Pixel art strategy RPG STARDUST: Wish of Witch will launch for PlayStation 5 and Switch …",
+    "category": "releases",
+    "platform_tags": [
+      "playstation",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/stardust-wish-of-witch-for-ps5-switch-2-launches-december-14"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/c8c81ae07a90/800/600",
+    "published_at": "2026-11-24T15:11:33.000Z",
+    "hype_signal": 50,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b9c7ff163c80",
+    "slug": "remedy-ceo-hails-rockstars-support-for-max-payne-1-2-remake",
+    "headline": "Remedy CEO Hails Rockstar's Support for Max Payne 1 & 2 Remake",
+    "summary": "Remedy Entertainment is developing a Max Payne 1 & 2 remake in partnership with Rockstar Games, which is funding the project and respecting Remedy's creative vision",
+    "category": "deals",
+    "platform_tags": [
+      "pc",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Eurogamer",
+        "url": "https://www.eurogamer.net/remedy-max-payne-1-2-remake-rockstar-relationship"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/max-payne-remedy.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-24T15:09:20.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "max-payne-1-2-remake",
+    "game_label": "Max Payne 1 & 2 Remake"
+  },
+  {
+    "id": "884571987f98",
+    "slug": "game-feel-is-impossible-to-copy-ceo-of-probably-stolen-publisher-tinyb",
+    "headline": "\"Game feel is impossible to copy\": CEO of Probably Stolen publisher tinyBuild says devs \"shouldn't be afraid\" of AI clones",
+    "summary": "GenAI game clones are apparently becoming a real enough threat to the industry that Take-Two CEO Strauss Zelnick pre-warned \"this is likely to invade our business to a greater or lesser extent,\" while threatening legal action against anyone who naughtily tinkered with GTA VI. More recently, one or more apparent crypto grifters claim to have naughtily tinkered with GTA VI,…",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/game-feel-is-impossible-to-copy-ceo-of-probably-stolen-publisher-tinybuild-says-devs-shouldnt-be-afraid-of-ai-clones"
+      }
+    ],
+    "image_url": "https://assetsio.gnwcdn.com/Probably-Stolen-(Tinybuild).png?width=690&quality=85&format=jpg&auto=webp",
+    "published_at": "2026-11-24T15:03:50.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "b44f19bbd23b",
+    "slug": "gta-6-fashion-is-taking-social-media-by-storm",
+    "headline": "GTA 6 Fashion Is Taking Social Media by Storm",
+    "summary": "Dressed to impress.\nGTA 6 is not only taking the gaming world by storm – it’s also taking the fashion world by storm, it seems.\nWhile you don’t get to create your own character in Rockstar’s latest release, you can style protagonists Jason and Lucia however you like.\nRead the full article on pushsquare.com",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/gta-6-fashion-is-taking-social-media-by-storm"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/7a1fcd8cde22d/large.jpg",
+    "published_at": "2026-11-24T15:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "d2eddafe2d33",
+    "slug": "gta-6-players-on-ps5-averaged-17-hours-during-first-weekend",
+    "headline": "GTA 6 Players On PS5 Averaged 17+ Hours During First Weekend",
+    "summary": "Rockstar's Grand Theft Auto 6 is finally here, and it's breaking records everywhere, including at PlayStation. The gaming giant has announced that GTA 6 is the \"biggest launch in PlayStation history, a record that goes back 30+ years and five console generations. According to the gaming giant, more than 39 million unique players on PS5 have jumped into GTA 6…",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-players-on-ps5-averaged-17-hours-during-first-weekend/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Ambrosia_06_a29239.jpg?w=300",
+    "published_at": "2026-11-24T14:52:26.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "8162b2ca0e86",
+    "slug": "john-romero-reflects-on-doom-being-blamed-for-columbine-massacre",
+    "headline": "John Romero Reflects on Doom Being Blamed for Columbine Massacre",
+    "summary": "John Romero, co-creator of Doom, discusses the media's portrayal of the game's connection to the Columbine Massacre",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch",
+      "mobile",
+      "vr"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/it-wasnt-the-game-it-was-something-else-john-romero-reflects-on-doom-being-blamed-for-the-columbine-massacre/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/8162b2ca0e86/800/600",
+    "published_at": "2026-11-24T14:49:14.000Z",
+    "hype_signal": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "doom",
+    "game_label": "Doom"
+  },
+  {
+    "id": "d2baaf08a3e2",
+    "slug": "pokemons-30th-anniversary-countdown-has-a-surprising-answer",
+    "headline": "Pokémon's 30th Anniversary Countdown Has a Surprising Answer",
+    "summary": "The Pokémon Company is sharing mysterious social media images ahead of a big announcement",
+    "category": "industry",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/the-reason-behind-pokemons-mysterious-social-media-countdown-has-been-revealed"
+      }
+    ],
+    "image_url": "https://images.nintendolife.com/a7720b6a8f9c3/large.jpg",
+    "published_at": "2026-11-24T14:45:00.000Z",
+    "hype_signal": 40,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "pokemon",
+    "game_label": "Pokémon"
+  },
+  {
+    "id": "47fac260c82d",
+    "slug": "the-flexible-publishing-playbook-how-independent-experts-are-replacing",
+    "headline": "The Flexible Publishing Playbook: How independent experts are replacing the all-or-nothing publishing deal | GamesBeat Next 2026",
+    "summary": "The Flexible Publishing Playbook: How independent experts are replacing the all-or-nothing publishing deal | GamesBeat Next 2026\nThe post The Flexible Publishing Playbook: How independent experts are replacing the all-or-nothing publishing deal | GamesBeat Next 2026 appeared first on GamesBeat.",
+    "category": "deals",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/the-flexible-publishing-playbook-how-independent-experts-are-replacing-the-all-or-nothing-publishing-deal-gamesbeat-next-2026/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/47fac260c82d/800/600",
+    "published_at": "2026-11-24T14:39:41.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "13634009837f",
+    "slug": "ace-combat-8-online-season-2-launches-next-month",
+    "headline": "Ace Combat 8 Online Season 2 Launches Next Month",
+    "summary": "Bandai Namco reveals new content for Ace Combat 8's online multiplayer mode, including new missions and aircraft, with an upcoming trailer and launch date for PS5.",
+    "category": "releases",
+    "platform_tags": [
+      "playstation"
+    ],
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/ace-combat-8s-online-season-2-adds-new-missions-and-aircraft-next-month-on-ps5"
+      }
+    ],
+    "image_url": "https://images.pushsquare.com/6692946dd0047/large.jpg",
+    "published_at": "2026-11-24T14:30:00.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "ace-combat-8-wings-of-the-vorte",
+    "game_label": "Ace Combat 8: Wings of the Vorte"
+  },
+  {
+    "id": "45de75761b19",
+    "slug": "quantum-break-developer-responds-to-sequel-demand-for-the-2016-xbox-ex",
+    "headline": "Quantum Break Developer Responds To Sequel Demand For The 2016 Xbox Exclusive",
+    "summary": "\"We love the amount of love for the game\". It's been 10 years since Quantum Break made its debut as an Xbox console exclusive in 2016, and Xbox fans have often considered it somewhat of an underated cult classic from the developer behind the likes of Control and Alan Wake. So, could we get a sequel?! Remedy Entertainment's X account…",
+    "category": "releases",
+    "platform_tags": [
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/quantum-break-developer-responds-to-sequel-demand-for-the-2016-xbox-exclusive"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/3126d08e11198/large.jpg",
+    "published_at": "2026-11-24T14:30:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "13975c761954",
+    "slug": "gta-vis-cultural-moment-shows-gaming-at-its-most-powerful-says-ex-take",
+    "headline": "GTA VI’s cultural moment shows gaming at its most powerful, says ex-Take-Two CEO Ben Feder",
+    "summary": "Grand Theft Auto VI is already the biggest entertainment launch in history, but for Ben Feder, former CEO of Take-Two Interactive, the game’s significance...\nThe post GTA VI’s cultural moment shows gaming at its most powerful, says ex-Take-Two CEO Ben Feder appeared first on GamesBeat.",
+    "category": "industry",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "VentureBeat",
+        "url": "https://gamesbeat.com/gta-vis-cultural-moment-shows-gaming-at-its-most-powerful-says-ex-take-two-ceo-ben-feder/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/13975c761954/800/600",
+    "published_at": "2026-11-24T14:30:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "083590aadd62",
     "slug": "gta-6-ties-ocarina-of-times-99-metascore-but-its-user-score-and-playst",
     "headline": "GTA 6 Ties Ocarina of Time's 99 Metascore, but Its User Score and PlayStation Store Rating Tell Different Stories",
@@ -602,6 +1391,29 @@
     "game_label": null
   },
   {
+    "id": "cb11fee3732a",
+    "slug": "gta-6s-most-spectacular-easter-egg-so-far-has-just-been-discovered",
+    "headline": "GTA 6's Most Spectacular Easter Egg So Far Has Just Been Discovered",
+    "summary": "Be warned though, it's pretty complex. One of the coolest things about GTA 6 since release has been watching players discover all kinds of Easter Eggs, such as the Mario-inspired hats that were shared by our sister site Nintendo Life yesterday. We reckon this is the best one so far though - a secret portal that takes you into a…",
+    "category": "releases",
+    "platform_tags": [
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/gta-6s-most-spectacular-easter-egg-so-far-has-just-been-discovered"
+      }
+    ],
+    "image_url": "https://images.purexbox.com/4909c20b34678/large.jpg",
+    "published_at": "2026-11-24T13:00:00.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "7f9455e2808c",
     "slug": "gta-6-easter-egg-transports-you-into-2002s-vice-city-complete-with-two",
     "headline": "GTA 6 Easter Egg Transports You Into 2002's Vice City, Complete With Two Free Items",
@@ -1176,56 +1988,6 @@
     "image_url": "https://images.purexbox.com/d9be422453808/large.jpg",
     "published_at": "2026-11-24T11:00:00.000Z",
     "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "6e3141102eb7",
-    "slug": "gta-6-is-officially-the-biggest-launch-in-playstation-history",
-    "headline": "GTA 6 is Officially the Biggest Launch in PlayStation History",
-    "summary": "Sony just shared some mind-boggling stats about GTA 6 launch, making it the most impressive in PlayStation history.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-biggest-launch-in-ps-history/"
-      },
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-the-biggest-launch-in-playstation-history-with-sony-reporting-more-than-39-million-unique-players-playing-rockstars-new-game-on-ps5/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vintage_vice_city_pack_exclusive_looks_01-1.jpg",
-    "published_at": "2026-11-24T10:56:24.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "bad39004320f",
-    "slug": "nintendo-switch-online-adds-acclaimed-gamecube-game",
-    "headline": "Nintendo Switch Online Adds Acclaimed GameCube Game",
-    "summary": "In its latest update, Nintendo Switch Online has added another acclaimed GameCube game to its Classics library.",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/switch-online-wave-race-blue-storm-game-cube/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/switch-online-update-gamecube-game-super-mario-sunshine.jpg",
-    "published_at": "2026-11-24T10:52:13.000Z",
-    "hype_signal": 20,
     "like_count": 0,
     "comment_count": 0,
     "game": null,
@@ -4017,763 +4779,5 @@
     "comment_count": 0,
     "game": null,
     "game_label": null
-  },
-  {
-    "id": "618c3ab61376",
-    "slug": "its-not-technically-a-gta-6-deal-but-this-ps-store-gift-card-discount",
-    "headline": " It's not technically a GTA 6 deal, but this PS Store gift card discount will save you £10 on the new game ",
-    "summary": "ShopTo is selling £70 PlayStation Store gift cards for £60. Since that's the price of GTA 6, you can use it to pick up the title for a 13% saving.",
-    "category": "deals",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/its-not-technically-a-gta-6-deal-but-this-ps-store-gift-card-discount-will-save-you-gbp10-on-the-new-game-or-any-other-game-you-want/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/3HghybyuEUMsYASfR6Cw9M-1920-80.jpg",
-    "published_at": "2026-11-23T17:00:24.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b4cfe73adb4f",
-    "slug": "wow-forevers-secretly-best-item-changes-everything",
-    "headline": "WoW: Forever’s Secretly Best Item Changes Everything",
-    "summary": "The Cozy Sleeping Bag, a quest reward in Blizzard's new version of World of Warcraft, is a game-changer",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/wow-forever-cozy-sleeping-bag/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/wow_forever_campfire_launchkeyart.png",
-    "published_at": "2026-11-23T17:00:18.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2a73b734f5d2",
-    "slug": "9-years-later-smoshs-best-event-makes-an-epic-comeback",
-    "headline": "9 Years Later, Smosh’s Best Event Makes an Epic Comeback",
-    "summary": "In an exclusive reveal with Polygon, Smosh announced its upcoming winter bonanza: the 2026 Winter Games.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/smosh-winter-games-2026/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/smosh-winter-games-2026.jpg",
-    "published_at": "2026-11-23T17:00:18.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "faa72b78d146",
-    "slug": "poll-has-gta-6-lived-up-to-the-hype-over-its-first-weekend",
-    "headline": "Poll: Has GTA 6 Lived Up to the Hype Over Its First Weekend?",
-    "summary": "Game of the Year contender? With GTA 6 launching worldwide last Thursday, I'm hoping that most of you reading this will have spent at least a few hours with the game over the weekend. As you've no doubt noticed, it's basically been impossible to avoid Rockstar's latest release; here in the online space, it's absolutely everywhere — just as you'd…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Push Square",
-        "url": "https://www.pushsquare.com/features/poll-has-gta-6-lived-up-to-the-hype-over-its-first-weekend"
-      }
-    ],
-    "image_url": "https://images.pushsquare.com/ed37c35f923d3/large.jpg",
-    "published_at": "2026-11-23T17:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1389a4c0ab75",
-    "slug": "sega-and-mclaren-racing-release-sonic-the-hedgehog-x-mclaren-racing-be",
-    "headline": "SEGA and McLaren Racing release ‘Sonic the Hedgehog x McLaren Racing: Beyond Fast’ animated series",
-    "summary": "Sonic is hitting the track with McLaren Racing today as SEGA releases the first episode of Sonic the Hedgehog x McLaren Racing: Beyond Fast,...\nThe post SEGA and McLaren Racing release ‘Sonic the Hedgehog x McLaren Racing: Beyond Fast’ animated series appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/sega-and-mclaren-racing-release-sonic-the-hedgehog-x-mclaren-racing-beyond-fast-animated-series/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/1389a4c0ab75/800/600",
-    "published_at": "2026-11-23T17:00:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "7f70444049d7",
-    "slug": "gta-6-leaker-cyberleek-reportedly-releases-exe-file-for-xbox-build-spa",
-    "headline": "GTA 6 Leaker Cyberleek Reportedly Releases .exe File for Xbox Build, Sparking Concern an Unofficial PC Port Could Be Around the Corner",
-    "summary": "Cyberleek has reportedly made good on their promise and released the executable file for the leaked Xbox build of GTA 6, sparking concern that an unofficial PC port could be around the corner.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6-leaker-cyberleek-reportedly-releases-exe-file-for-xbox-build-sparking-concern-an-unofficial-pc-port-could-be-around-the-corner"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gtavi-37-1795453064677.jpg",
-    "published_at": "2026-11-23T16:59:53.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "76605e87c97f",
-    "slug": "next-gen-xbox-reportedly-ditching-24-year-old-feature",
-    "headline": "Next-Gen Xbox Reportedly Ditching 24-Year-Old Feature",
-    "summary": "Xbox Project Helix is rumored to be moving on from a longtime feature that has persisted since 2002 on the original Xbox console.",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/xbox-project-helix-free-online-multiplayer-leak/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/xbox-project-helix-free-online-multiplayer-leak.jpg",
-    "published_at": "2026-11-23T16:59:09.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ab0d0839fc9b",
-    "slug": "dont-let-this-happen-again-gta-6-hacker-who-pleaded-guilty-to-2022-roc",
-    "headline": "\"Don't let this happen again\": GTA 6 hacker who pleaded guilty to 2022 Rockstar Games breach released under supervision",
-    "summary": "A hacker who pleaded guilty to the 2022 hacking breach of Rockstar Games, which resulted in a bunch of mid-development clips of GTA 6 in action leaking onto the net, has been released under supervision. The hacker, Arion Kurtaj, has also a five year long serious crime prevention order which will restrict what he can do online.\nRead more",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/dont-let-this-happen-again-gta-6-hacker-who-pleaded-guilty-to-2022-rockstar-games-breach-released-under-supervision"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-30.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-23T16:48:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "fde3314881a6",
-    "slug": "world-of-warcraft-forever-gets-disappointing-official-gameplay-update",
-    "headline": "World of Warcraft: Forever Gets Disappointing Official Gameplay Update",
-    "summary": "World of Warcraft: Forever gets a new update, confirming a disappointing gameplay feature.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/world-of-warcraft-wow-forever-healer-update-dungeons-bad/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/o73tw8w369mk1789247716179.jpg",
-    "published_at": "2026-11-23T16:47:05.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f3489dc34809",
-    "slug": "gta-6-pc-version-is-close-modders-say-after-cyberleek-releases-executa",
-    "headline": " GTA 6 PC version is close, modders say after Cyberleek releases executable: \"The game almost boots\"  ",
-    "summary": "GTA 6 Xbox EXE triggers new wave of recompilation work",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pc-version-is-close-modders-say-after-cyberleek-releases-executable-the-game-almost-boots/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/qftUB3KeiYNLRLCEWMq4EY-1920-80.jpg",
-    "published_at": "2026-11-23T16:39:01.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "846d20b3e116",
-    "slug": "report-major-details-revealed-about-xboxs-original-plan-for-project-he",
-    "headline": "Report: Major Details Revealed About Xbox's Original Plan For Project Helix",
-    "summary": "\"Xbox Helix’s original plan was far more radical than we knew\". We've been hearing about Xbox's Project Helix console for some time now, with Xbox always talking very vaguely about what we can expect from it, and perhaps that's because the vision has changed for the system over the years. Today, the folks over at Windows Central are revealing details…",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/11/report-major-details-revealed-about-xboxs-original-plan-for-project-helix"
-      }
-    ],
-    "image_url": "https://images.purexbox.com/3fa86a3bb788c/large.jpg",
-    "published_at": "2026-11-23T16:35:00.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "151df2c3f32f",
-    "slug": "gta-6s-best-kept-secret-is-the-key-to-its-whole-design",
-    "headline": "GTA 6’s Best-Kept Secret Is the Key to Its Whole Design",
-    "summary": "Rockstar kept a reveal in GTA 6's prologue a secret for years, but now we all know it, it's clear how it guides the game's entire design.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6s-best-kept-secret-is-the-key-to-its-whole-design"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta-6-secret-blogroll-1795445757736.jpg",
-    "published_at": "2026-11-23T16:30:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "9b9e42ce21db",
-    "slug": "gta-6-is-a-last-of-its-kind-aaa-game-execs-wont-be-trying-to-copy-anal",
-    "headline": " GTA 6 is a \"last of its kind\" AAA game execs won't be trying to copy, analyst says ",
-    "summary": "Rockstar's always a tough act to follow, anyway",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-a-last-of-its-kind-aaa-game-execs-wont-be-trying-to-copy-analyst-says-because-theyve-learned-you-cant-make-the-next-fortnite-or-a-world-of-warcraft-killer/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/q8PPr4fKcHqMKZAYVAEbX7-1920-80.jpg",
-    "published_at": "2026-11-23T16:28:47.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "fc4e3801e655",
-    "slug": "getting-final-fantasy-7-away-from-nintendo-was-former-playstation-boss",
-    "headline": " Getting Final Fantasy 7 away from Nintendo was former PlayStation boss's proudest moment ",
-    "summary": "\"When I started in [the] third party department, our goal was to get all of the popular IPs from video game publishers to be on PlayStation.\"",
-    "category": "releases",
-    "platform_tags": [
-      "playstation",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/final-fantasy/getting-final-fantasy-7-away-from-nintendo-was-former-playstation-bosss-proudest-moment/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/faecHgR2nh3rSNb4sbNi7S-1920-80.jpg",
-    "published_at": "2026-11-23T16:28:13.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "c2404a6b1649",
-    "slug": "hacker-behind-massive-gta-6-leak-walks-free-with-warning",
-    "headline": "Hacker Behind Massive GTA 6 Leak Walks Free with Warning",
-    "summary": "A hacker who caused a massive leak of GTA 6 information in 2022 has been released on license with a warning from the judge.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6-hacker-free-after-time-served-over-2022-cyber-attack"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gtavi-21-1795450733593.jpg",
-    "published_at": "2026-11-23T16:19:33.000Z",
-    "hype_signal": 0,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "396723074f26",
-    "slug": "team-liquid-and-friendly-fire-launch-esports-and-gaming-cafe-network",
-    "headline": "Team Liquid and Friendly Fire launch esports and gaming cafe network",
-    "summary": "Global esports organization Team Liquid and international gaming cafe franchise Friendly Fire have launched Team Liquid Cafe.\nThe post Team Liquid and Friendly Fire launch esports and gaming cafe network appeared first on GamesBeat.",
-    "category": "esports",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/team-liquid-and-friendly-fire-launch-esports-and-gaming-cafe-network/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/396723074f26/800/600",
-    "published_at": "2026-11-23T16:19:00.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "31b978a5310b",
-    "slug": "fanaticals-black-friday-sale-includes-daily-flash-deals-resident-evil",
-    "headline": "Fanatical’s Black Friday sale includes daily flash deals: Resident Evil Requiem is currently 42% off",
-    "summary": "Thousands of PC games are in the sale, with select games getting extra discounts each day",
-    "category": "deals",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/fanaticals-black-friday-sale-includes-daily-flash-deals-resident-evil-requiem-is-currently-42-off/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/31b978a5310b/800/600",
-    "published_at": "2026-11-23T16:17:31.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "f8e2fe900288",
-    "slug": "how-ai-could-make-game-development-faster-cheaper-and-more-creative-ga",
-    "headline": "How AI could make game development faster, cheaper, and more creative | GamesBeat Next 2026",
-    "summary": "Artificial intelligence could help game developers build faster, reduce costs and take creative risks that were previously out of reach. \nThe post How AI could make game development faster, cheaper, and more creative | GamesBeat Next 2026 appeared first on GamesBeat.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "VentureBeat",
-        "url": "https://gamesbeat.com/ai-could-make-game-development-faster-cheaper-and-more-creative/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/f8e2fe900288/800/600",
-    "published_at": "2026-11-23T16:13:45.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "24813b1d88a1",
-    "slug": "new-ps-plus-extra-game-for-december-2026-officially-announced-early",
-    "headline": "New PS Plus Extra Game for December 2026 Officially Announced Early",
-    "summary": "Sony reveals one of its upcoming PlayStation Plus Extra games for December 2026 quite early, ahead of even the Essential games.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/ps-plus-extra-game-december-2026-dynasty-warriors-origins/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/ps-plus-logos-game-rant-102.jpg",
-    "published_at": "2026-11-23T16:13:32.000Z",
-    "hype_signal": 65,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "cb88abdeccb7",
-    "slug": "finally-some-former-valorant-and-sky-devs-have-answered-the-call-for-a",
-    "headline": "Finally, some former Valorant and Sky devs have answered the call for a Peak-style platformer about throwing a cat through a hole in spacetime",
-    "summary": "As a mature and sophisticated artform, videogames offer answers to many of life's important questions, such as \"how many spaceships is too many spaceships?\" (a trick question, obviously) or \"which 12th century BC civilisation was better at playing Age of Empires 2?\" Lately, I have been wrestling with the enigma of how I should transport a sleeping cat in a…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/finally-some-former-valorant-and-sky-devs-have-answered-the-call-for-a-peak-style-platformer-about-throwing-a-cat-through-a-hole-in-spacetime"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Whisk.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-23T16:10:00.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "d6cda74a537f",
-    "slug": "final-fantasy-7-rebirth-and-a-ton-more-square-enix-games-are-on-sale-f",
-    "headline": "Final Fantasy 7 Rebirth and a Ton More Square Enix Games Are on Sale for Black Friday",
-    "summary": "A selection of Square Enix games have received huge discounts in Black Friday sales, including Final Fantasy 7 Rebirth, the Kingdom Hearts Collection [I–III], and more.",
-    "category": "deals",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/final-fantasy-7-rebirth-and-a-ton-more-square-enix-games-are-on-sale-for-black-friday"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/23/square-enix-black-friday-1795440378541.jpg",
-    "published_at": "2026-11-23T16:08:03.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ffe770b16608",
-    "slug": "predicting-the-game-awards-2026s-biggest-winners",
-    "headline": "Predicting The Game Awards 2026's Biggest Winners",
-    "summary": "Game Rant predicts the winners of The Game Awards 2026, with Grand Theft Auto 6 adding to the competition.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/video/predicting-the-game-awards-2026s-biggest-winners/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/tgas-winner-predictions-gamerant-web-rev1-b.jpg",
-    "published_at": "2026-11-23T16:01:15.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-game-awards",
-    "game_label": "The Game Awards"
-  },
-  {
-    "id": "ab80cc9462a9",
-    "slug": "why-resident-evil-4-dropped-zombies-and-changed-the-series",
-    "headline": "Why Resident Evil 4 Dropped Zombies and Changed the Series",
-    "summary": "Resident Evil 4's shift from zombies to Ganados was a deliberate design choice to create a more terrifying experience, according to the game's director.",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile",
-      "vr"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/resident-evil-4-dropped-zombies-changed-series-why/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/11/resident-evil-4-leon-village-zombie.jpg",
-    "published_at": "2026-11-23T16:01:15.000Z",
-    "hype_signal": 75,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "resident-evil-4",
-    "game_label": "Resident Evil 4"
-  },
-  {
-    "id": "b5d08f8afad0",
-    "slug": "an-absurd-little-immersion-breaking-hiccup-that-reminded-me-gta-6-isnt",
-    "headline": "An Absurd Little Immersion-Breaking Hiccup That Reminded Me GTA 6 Isn't Perfect",
-    "summary": "A minor issue in GTA 6 has led the author to question the game's overall quality and perfection.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/an-absurd-little-immersion-breaking-hiccup-that-reminded-me-gta-6-isnt-perfect-2000759420"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/11/GTA-6-gaming-1280x720.jpg",
-    "published_at": "2026-11-23T16:00:53.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "1e0e03dbcc06",
-    "slug": "activision-refers-itself-as-the-home-of-banjo-kazooie-in-new-job-listi",
-    "headline": "Activision refers itself as the home of Banjo-Kazooie in new job listing",
-    "summary": "It was recently announced that Activision would take over Rare as part of Xbox's shuffle",
-    "category": "releases",
-    "platform_tags": [
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/news/activision-refers-itself-as-the-home-of-banjo-kazooie-in-new-job-listing/"
-      },
-      {
-        "name": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/11/activision-dons-itself-the-home-of-banjo-kazooie-in-new-job-listing"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/1e0e03dbcc06/800/600",
-    "published_at": "2026-11-23T16:00:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "2100636269b0",
-    "slug": "gta-6s-first-big-patch-finally-fixes-a-major-fan-complaint",
-    "headline": "GTA 6's First Big Patch Finally Fixes A Major Fan Complaint",
-    "summary": "One of GTA 6's most hated features literally left PS5 and Xbox players alike in tears, but Rockstar is on the case",
-    "category": "patches",
-    "platform_tags": [
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-first-patch-ps5-xbox-autosave-update-new-changes/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/jason.JPG",
-    "published_at": "2026-11-23T15:58:03.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "ba8c540d4865",
-    "slug": "kirby-and-the-world-beyond-details-revealed-in-nintendo-catalogue",
-    "headline": "Kirby And The World Beyond Details Revealed In Nintendo Catalogue",
-    "summary": "One of 2027's big-hitters. New details regarding Kirby and the World Beyond have been revealed via Nintendo's winter catalogue in Japan (via Genki_JPN on X). While hardly comprehensive, it provides a little more insight into the game's story along with the abilities and environments available upon its release. Of course, we know from the debut trailer that this will boast…",
-    "category": "releases",
-    "platform_tags": [
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/11/kirby-and-the-world-beyond-details-revealed-in-nintendo-catalogue"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/kirby-and-the-world-beyond-new-details-revealed/"
-      }
-    ],
-    "image_url": "https://images.nintendolife.com/d014361034d87/large.jpg",
-    "published_at": "2026-11-23T15:56:08.000Z",
-    "hype_signal": 80,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "13e02de33e0f",
-    "slug": "gta-6s-preorder-dlc-is-now-available-by-itself-for-5",
-    "headline": "GTA 6’s Preorder DLC Is Now Available By Itself For $5",
-    "summary": "Rockstar Games is now selling GTA 6's preorder DLC as a standalone purchase. The Vintage Vice City Pack is now available to buy for $5. The DLC includes '80s-inspired content, including the '55 Vapid Stanier sedan, along with a garage for it on Ocean Beach. The DLC also comes with outfits and hairstyles for Jason and Lucia, along with a…",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com/articles/gta-6s-preorder-dlc-is-now-available-by-itself-for-5/"
-      }
-    ],
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTAVintage.png?w=300",
-    "published_at": "2026-11-23T15:53:44.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "0ba80fb15b57",
-    "slug": "900-off-this-alienware-16-aurora-brings-us-dells-cheapest-gaming-lapto",
-    "headline": " $900 off this Alienware 16 Aurora brings us Dell's cheapest gaming laptop deal of the Black Friday so far ",
-    "summary": "Dell has discounted a range of Alienware gear ahead of Black Friday, including its 16 Aurora laptop which is enjoying a $900 discount for certain configurations.",
-    "category": "deals",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/hardware/laptops/usd900-off-this-alienware-16-aurora-brings-us-dells-cheapest-gaming-laptop-deal-of-the-black-friday-so-far/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/aNkdLppguFFADiy4wtV3nW-1920-80.jpg",
-    "published_at": "2026-11-23T15:51:07.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "1d05a9ecf397",
-    "slug": "this-week-in-pc-games",
-    "headline": "This Week in PC Games",
-    "summary": "This week's PC game round-up discusses upcoming games and industry news, while also mentioning Grand Theft Auto VI and its impact on the gaming industry.",
-    "category": "industry",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-raise-a-psychedelic-baby-invent-terrible-new-religions-and-run-your-own-pc-hardware-business"
-      }
-    ],
-    "image_url": "https://assetsio.gnwcdn.com/Escape-the-Baby-Alarm-brain-screenshot.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "published_at": "2026-11-23T15:43:20.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "8f03aad98fc6",
-    "slug": "avengers-doomsday-trailer-pokes-fun-at-how-much-the-mcu-has-changed-si",
-    "headline": " Avengers: Doomsday trailer pokes fun at how much the MCU has changed since Endgame ",
-    "summary": "Avengers: Doomsday hits theaters on December 18",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-trailer-pokes-fun-at-how-much-the-mcu-has-changed-since-endgame-i-dont-even-know-who-half-of-you-are/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/SiKawC26uixHdhnQ64Pt6h-1920-80.jpg",
-    "published_at": "2026-11-23T15:39:17.000Z",
-    "hype_signal": 35,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "e075774bc7f9",
-    "slug": "world-of-warcraft-forever-review",
-    "headline": "World of Warcraft: Forever review",
-    "summary": "A PC Gamer review of World of Warcraft: Forever, an old-school MMO that has revitalized the author's interest in the genre.",
-    "category": "reviews",
-    "platform_tags": [
-      "pc"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-review/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/iF6yF3P4vNtWudWTcTwyqb-1920-80.png",
-    "published_at": "2026-11-23T15:36:34.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "world-of-warcraft-forever",
-    "game_label": "World of Warcraft: Forever"
-  },
-  {
-    "id": "a80232735e1e",
-    "slug": "telegram-ceo-claims-the-unrealistic-gta-6-crime-scene-is-a-reflective",
-    "headline": "Telegram CEO Claims the Unrealistic GTA 6 Crime Scene is a Reflective Issue",
-    "summary": "Telegram CEO Pavel Durov says that the portrayal of crime scenes in GTA 6 is the most unrealistic aspect of the game",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "Kotaku",
-        "url": "https://kotaku.com/telegram-ceo-says-the-least-realistic-thing-about-gta-6-is-that-nobody-uses-his-app-to-commit-crimes-2000759427"
-      }
-    ],
-    "image_url": "https://kotaku.com/app/uploads/2026/11/Lucia-Caminos-GTA6-1280x720.jpg",
-    "published_at": "2026-11-23T15:30:50.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
   }
 ]
