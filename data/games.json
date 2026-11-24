@@ -29159,5 +29159,49 @@
     ],
     "stores": [],
     "fetched_at": "2026-11-23T15:40:20.606Z"
+  },
+  {
+    "slug": "nioh-3",
+    "name": "Nioh 3",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/18f/18f1e09f98c9a0e822b616d68d73c956.jpg",
+    "released": "2026-02-06",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "screenshots": [],
+    "stores": [],
+    "fetched_at": "2026-11-24T01:57:23.022Z"
+  },
+  {
+    "slug": "super-mario-64",
+    "name": "Super Mario 64",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/1d5/1d565b99cad46c44b534d9803e27bd49.jpg",
+    "released": "1996-06-23",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Platformer"
+    ],
+    "platforms": [
+      "Nintendo 64"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/935/935f6b91408417d45f508ead25a2a720.jpg",
+      "https://media.rawg.io/media/screenshots/58f/58f31020ff1bc36fcf6234b165c1e11b.jpg",
+      "https://media.rawg.io/media/screenshots/eb9/eb948bc11577e9b3d38fcecefb6727c0.jpg",
+      "https://media.rawg.io/media/screenshots/73e/73ef8789f2b5d6b6a62b2f0e1161c238.jpg",
+      "https://media.rawg.io/media/screenshots/77c/77ccfd1e6acb0836b989133d557133a6.jpg",
+      "https://media.rawg.io/media/screenshots/3f0/3f0d202242b4ed4f32c569ea2f30f35d.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-24T01:57:23.611Z"
   }
 ]
