@@ -29397,5 +29397,33 @@
     ],
     "stores": [],
     "fetched_at": "2026-11-24T20:36:41.190Z"
+  },
+  {
+    "slug": "star-trek",
+    "name": "Star Trek (2013)",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/64d/64d9e33affb7a9a1df62229576d0bd6b.jpg",
+    "released": "2013-04-23",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/4db/4db43617365c9f17c6e42a9d546b35f1.jpg",
+      "https://media.rawg.io/media/screenshots/756/7564705382b2b75664b33f2443a13ef0.jpg",
+      "https://media.rawg.io/media/screenshots/20e/20e78907e79fc42bfd7ac41ba2a3f9aa.jpg",
+      "https://media.rawg.io/media/screenshots/3e4/3e49bb23ce98be40cd3bb477603e70b2.jpg",
+      "https://media.rawg.io/media/screenshots/522/522dbec416d400afabf1d1756a3ecd53.jpg",
+      "https://media.rawg.io/media/screenshots/cce/cce975ebc22901f8121492c4e3c4eb75.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-24T21:37:11.611Z"
   }
 ]

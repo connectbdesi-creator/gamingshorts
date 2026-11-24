@@ -1,5 +1,153 @@
 [
   {
+    "id": "047229850c8c",
+    "slug": "star-trek-set-panned-for-low-value-and-poor-quality",
+    "headline": "Star Trek Set Panned for Low Value and Poor Quality",
+    "summary": "Aetherdrift set is often cited as an example of poor quality, and Star Trek is at risk of joining it",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "sources": [
+      {
+        "name": "TheGamer",
+        "url": "https://www.thegamer.com/mtg-star-trek-value-continues-to-decline/"
+      }
+    ],
+    "image_url": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/close-up-of-seven-of-nine-unassimilated-artwork-from-star-trek-mtg.jpg",
+    "published_at": "2026-11-24T21:21:30.000Z",
+    "hype_signal": null,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "star-trek",
+    "game_label": "Star Trek"
+  },
+  {
+    "id": "2a2f99160767",
+    "slug": "cdpr-says-the-witcher-4-leap-will-be-comparable-to-gta-5-and-gta-6",
+    "headline": "CDPR Says The Witcher 4 Leap Will Be Comparable to GTA 5 and GTA 6",
+    "summary": "CD Projekt Red is confident that the transition from The Witcher 3 to The Witcher 4 will be comparable in scope to the leaps from Grand Theft Auto 5 to 6",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/the-witcher/the-leap-from-the-witcher-3-to-the-witcher-4-will-be-comparable-to-gta-5-and-gta-6-says-cdpr/"
+      },
+      {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/the-witcher-4-vs-gta-6-cyberpunk-2-cd-projekt-red/"
+      },
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/the-witcher-4-will-have-a-comparable-leap-from-gta-5-to-gta-6-says-cd-projekt-red"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/DGnMUzTLacm59A4tLG9vi-1920-80.jpg",
+    "published_at": "2026-11-24T21:15:26.000Z",
+    "hype_signal": 80,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "the-witcher-4",
+    "game_label": "The Witcher 4"
+  },
+  {
+    "id": "220e250d1a07",
+    "slug": "how-to-get-twitch-drops-in-gta-6",
+    "headline": "How to Get Twitch Drops in GTA 6",
+    "summary": "Find out how to get all GTA 6 Twitch Drops, unlock the Golden Iguana badge, earn Heist Train rewards, and claim free GTA 6 game codes.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "Game Rant",
+        "url": "https://gamerant.com/gta-6-how-to-get-twitch-drops/"
+      }
+    ],
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/gta-6_-how-to-get-twitch-drops.jpg",
+    "published_at": "2026-11-24T21:12:47.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "e6783b65d743",
+    "slug": "terraria-devs-make-significant-progress-in-their-quest-to-conquer-the",
+    "headline": " Terraria devs make significant progress in their quest to conquer the world: crossplay \"Phase One\" ",
+    "summary": "Dedicated servers complicate the \"without a multiplayer subscription\" part",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/survival/terraria-devs-make-significant-progress-in-their-quest-to-conquer-the-world-phase-one-of-crossplay-is-now-available-after-years-in-the-making/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/RUMQ4mrtRt3CU4c5tT6Sa7-1920-80.jpg",
+    "published_at": "2026-11-24T21:11:15.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
+    "id": "ffafc82b9c12",
+    "slug": "gta-6-chapter-5-mission-list-every-mission-in-order-point-of-no-return",
+    "headline": "GTA 6 Chapter 5 Mission List: Every Mission in Order & Point Of No Return",
+    "summary": "The article lists every mission in GTA 6 Chapter 5, allowing players to easily access and complete all objectives.",
+    "category": "releases",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/gta-6-chapter-5-mission-list-every-mission-in-order-point-of-no-return/"
+      }
+    ],
+    "image_url": "https://picsum.photos/seed/ffafc82b9c12/800/600",
+    "published_at": "2026-11-24T21:10:38.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "gta-6",
+    "game_label": "GTA 6"
+  },
+  {
+    "id": "395690cc7661",
+    "slug": "an-among-us-player-and-his-mom-helped-rescue-a-kidnapped-girl-whod-bee",
+    "headline": " An Among Us player and his mom helped rescue a kidnapped girl who'd been missing for more than a year ",
+    "summary": "After connecting in the game, the teens began talking on Discord, which ultimately led to the discovery of her location.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/an-among-us-player-and-his-mom-helped-rescue-a-kidnapped-girl-whod-been-missing-for-more-than-a-year/"
+      }
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/93GAa4wm3z4HbenzLbxWeQ-1920-80.jpg",
+    "published_at": "2026-11-24T21:00:51.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "5dbcdfe4cba4",
     "slug": "gta-6-players-struggle-to-complete-chapter-3",
     "headline": "GTA 6 Players Struggle to Complete Chapter 3",
@@ -51,6 +199,53 @@
     "game_label": null
   },
   {
+    "id": "110440e94f97",
+    "slug": "call-of-dutys-19-year-sales-streak-continues",
+    "headline": "Call Of Duty's 19-Year Sales Streak Continues",
+    "summary": "Call of Duty: Modern Warfare 4 leads sales for October 2026, marking the 19th consecutive year a new Call of Duty game tops sales for its launch month.",
+    "category": "industry",
+    "platform_tags": [
+      "pc",
+      "playstation",
+      "xbox",
+      "switch"
+    ],
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/call-of-dutys-19-year-sales-streak-continues/"
+      }
+    ],
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/MW4ImageNew.jpg?w=300",
+    "published_at": "2026-11-24T20:49:53.000Z",
+    "hype_signal": 30,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": "call-of-duty-modern-warfare-4",
+    "game_label": "Call of Duty: Modern Warfare 4"
+  },
+  {
+    "id": "b23d0e543c0b",
+    "slug": "crazy-secretive-gta-6-voice-actor-reveals-details-of-rockstars-humongo",
+    "headline": "'Crazy Secretive' — GTA 6 Voice Actor Reveals Details of Rockstar's 'Humongous' NDA",
+    "summary": "A voice actor who appeared in GTA 6 described the wild non-disclosure agreement she had to sign before working on the game, calling the project “crazy secretive.”",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/crazy-secretive-gta-6-voice-actor-reveals-details-of-rockstars-humongous-nda"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2026/11/24/gta-6-voice-actor-reveals-nda-1795552285222.jpg",
+    "published_at": "2026-11-24T20:36:14.000Z",
+    "hype_signal": 35,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
+  },
+  {
     "id": "83425dc7d56e",
     "slug": "lords-of-the-fallen-2-delayed-to-april-2027-release-date-announced",
     "headline": "Lords of the Fallen 2 Delayed to April 2027, Release Date Announced",
@@ -75,6 +270,27 @@
     "comment_count": 0,
     "game": "lords-of-the-fallen-2",
     "game_label": "Lords of the Fallen 2"
+  },
+  {
+    "id": "6b7f10bb4bac",
+    "slug": "cyberpunk-2-is-still-a-ways-out-but-cd-projekt-red-says-its-rpgs-will",
+    "headline": "Cyberpunk 2 Is Still a Ways Out, but CD Projekt Red Says Its RPGs Will Come Out Faster in the Future",
+    "summary": "We are still two years out from The Witcher 4, but Ciri's big breakout adventure isn't the only massive RPG cooking at CD Projekt Red. It sounds like development on Cyberpunk 2 is carrying on smoothly, though it's still very early in its development cycle.",
+    "category": "releases",
+    "platform_tags": [],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/cyberpunk-2-is-still-a-ways-out-but-cd-projekt-red-says-its-rpgs-will-come-out-faster-in-the-future"
+      }
+    ],
+    "image_url": "https://assets-prd.ignimgs.com/2025/11/26/ss-b20689e73e3ac19bcc5fad2c18d0353c769de144-1920x1080-1764175642324.jpg",
+    "published_at": "2026-11-24T20:21:54.000Z",
+    "hype_signal": 20,
+    "like_count": 0,
+    "comment_count": 0,
+    "game": null,
+    "game_label": null
   },
   {
     "id": "76fc67c633c2",
@@ -120,36 +336,6 @@
     "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/WitcherCiri.png?w=300",
     "published_at": "2026-11-24T20:11:48.000Z",
     "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-witcher-4",
-    "game_label": "The Witcher 4"
-  },
-  {
-    "id": "2a2f99160767",
-    "slug": "cdpr-says-the-witcher-4-leap-will-be-comparable-to-gta-5-and-gta-6",
-    "headline": "CDPR Says The Witcher 4 Leap Will Be Comparable to GTA 5 and GTA 6",
-    "summary": "CD Projekt Red is confident that the transition from The Witcher 3 to The Witcher 4 will be comparable in scope to the leaps from Grand Theft Auto 5 to 6",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/the-witcher/the-leap-from-the-witcher-3-to-the-witcher-4-will-be-comparable-to-gta-5-and-gta-6-says-cdpr/"
-      },
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/the-witcher-4-vs-gta-6-cyberpunk-2-cd-projekt-red/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/DGnMUzTLacm59A4tLG9vi-1920-80.jpg",
-    "published_at": "2026-11-24T20:10:45.000Z",
-    "hype_signal": 80,
     "like_count": 0,
     "comment_count": 0,
     "game": "the-witcher-4",
@@ -4644,201 +4830,5 @@
     "comment_count": 0,
     "game": "grand-theft-auto-6",
     "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "44434d0baccc",
-    "slug": "who-plays-mandy-in-gta-6",
-    "headline": "Who Plays Mandy in GTA 6?",
-    "summary": "The article reveals the voice actor behind Mandy in Grand Theft Auto 6",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/who-plays-mandy-in-gta-6/"
-      },
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-kraken-location-easter-egg/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/44434d0baccc/800/600",
-    "published_at": "2026-11-23T23:22:43.000Z",
-    "hype_signal": 10,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gta-6",
-    "game_label": "GTA 6"
-  },
-  {
-    "id": "a3a9dfddbd6e",
-    "slug": "gta-6-players-are-convinced-rockstar-painted-a-fake-tunnel-just-to-tri",
-    "headline": "GTA 6 Players Are Convinced Rockstar Painted a Fake Tunnel Just to Trick Them Into a Looney Tunes-Style Crash",
-    "summary": "GTA 6 players are convinced that Rockstar Games painted a fake tunnel in Vice City just to trick them into ramming into it in a Looney Tunes-style crash.",
-    "category": "releases",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6-players-are-convinced-rockstar-painted-a-fake-tunnel-just-to-trick-them-into-a-looney-tunes-style-crash"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta-6-secret-blogroll-1795445757736.jpg",
-    "published_at": "2026-11-23T23:03:36.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
-  },
-  {
-    "id": "b47ea02440ad",
-    "slug": "valve-awards-the-witcher-3-and-gta-5-goty-for-years-they-didnt-release",
-    "headline": "Valve Awards The Witcher 3 and GTA 5 GOTY for Years They Didn't Release",
-    "summary": "Valve has announced its Game of the Year winners for years past, defying common convention by awarding titles that were not released during those years",
-    "category": "industry",
-    "platform_tags": [],
-    "sources": [
-      {
-        "name": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/valve-crowns-the-witcher-3-and-gta-5-goty-for-years-they-did-not-release-in/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ADYSAqQfGSUu3arn4jLYqC-1920-80.jpg",
-    "published_at": "2026-11-23T22:58:25.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "the-witcher-3-wild-hunt",
-    "game_label": "The Witcher 3: Wild Hunt"
-  },
-  {
-    "id": "63f1a62deb69",
-    "slug": "finding-port-gellhorns-missing-tourists-in-gta-6",
-    "headline": "Finding Port Gellhorn's Missing Tourists in GTA 6",
-    "summary": "A helpful guide for GTA 6 players looking for the missing tourists in Port Gellhorn",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Polygon",
-        "url": "https://www.polygon.com/gta-6-port-gellhorn-missing-tourists-where-to-find-serial-killer/"
-      }
-    ],
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-port-gelhorn-missing-tourists.jpg",
-    "published_at": "2026-11-23T22:48:22.000Z",
-    "hype_signal": 60,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "d4787935a202",
-    "slug": "gta-6-players-discover-60-fps-glitch-but-its-unstable",
-    "headline": "GTA 6 Players Discover 60 FPS Glitch, But It's Unstable",
-    "summary": "PC Gamer reports on a 60 FPS glitch in Grand Theft Auto 6, but notes that it's too unstable for widespread use.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "sources": [
-      {
-        "name": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-players-found-a-60-fps-glitch-but-its-too-unstable-to-stop-me-from-wishing-it-was-on-pc-already/"
-      }
-    ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/AcdJAwhDDrMcgdCiMZLoN6-1920-80.jpg",
-    "published_at": "2026-11-23T22:47:08.000Z",
-    "hype_signal": 70,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "grand-theft-auto-6",
-    "game_label": "Grand Theft Auto 6"
-  },
-  {
-    "id": "9c70fb43fc32",
-    "slug": "gta-6-photos-mispromised-as-game-screenshot",
-    "headline": "GTA 6 Photos Mispromised as Game Screenshot",
-    "summary": "GTA 6's graphics are so realistic that real-life photos and videos are being mistaken for game footage",
-    "category": "industry",
-    "platform_tags": [
-      "pc",
-      "playstation",
-      "xbox",
-      "switch"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/gta-6-looks-so-good-that-real-photos-and-videos-are-being-mistaken-as-screenshots-from-the-game"
-      }
-    ],
-    "image_url": "https://assets-prd.ignimgs.com/2026/11/19/gtfm-oo-1795100688369.png",
-    "published_at": "2026-11-23T22:43:02.000Z",
-    "hype_signal": null,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "gta-6",
-    "game_label": "GTA 6"
-  },
-  {
-    "id": "994ae6d84aff",
-    "slug": "team-fortress-2-update-released",
-    "headline": "Team Fortress 2 Update Released",
-    "summary": "Valve has released a new update for Team Fortress 2 on Steam.",
-    "category": "releases",
-    "platform_tags": [
-      "pc",
-      "mobile"
-    ],
-    "sources": [
-      {
-        "name": "Steam",
-        "url": "https://store.steampowered.com/news/293917/"
-      }
-    ],
-    "image_url": "https://picsum.photos/seed/994ae6d84aff/800/600",
-    "published_at": "2026-11-23T22:35:00.000Z",
-    "hype_signal": 50,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": "team-fortress-2",
-    "game_label": "Team Fortress 2"
-  },
-  {
-    "id": "f9ff62411134",
-    "slug": "gta-6-players-are-getting-banned-from-psn-for-sharing-screenshots",
-    "headline": "GTA 6 Players Are Getting Banned from PSN for Sharing Screenshots",
-    "summary": "Some GTA 6 players are having their PSN accounts suspended for sharing in-game screenshots of content that violates PlayStation's terms of service.",
-    "category": "releases",
-    "platform_tags": [
-      "playstation"
-    ],
-    "sources": [
-      {
-        "name": "Game Rant",
-        "url": "https://gamerant.com/gta-6-psn-ban-screenshot-nudity/"
-      }
-    ],
-    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/gta-6-psn-account-bans.jpg",
-    "published_at": "2026-11-23T22:30:14.000Z",
-    "hype_signal": 20,
-    "like_count": 0,
-    "comment_count": 0,
-    "game": null,
-    "game_label": null
   }
 ]
