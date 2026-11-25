@@ -29500,5 +29500,121 @@
     "screenshots": [],
     "stores": [],
     "fetched_at": "2026-11-25T12:39:17.142Z"
+  },
+  {
+    "slug": "lego-harry-potter",
+    "name": "LEGO Harry Potter: Years 1-4",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/694/6940fa3fbe0d836e4a272c468e65e480.jpg",
+    "released": "2010-06-03",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Family",
+      "Platformer",
+      "Adventure",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Android",
+      "Nintendo DS",
+      "macOS",
+      "Xbox 360",
+      "PlayStation 3",
+      "PS Vita",
+      "PSP",
+      "Wii"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d6d/d6d8cbeb9160ec2dc138fcbc9c7ba3cf.jpg",
+      "https://media.rawg.io/media/screenshots/301/301550cbe46391d6efd00183a9491eda.jpg",
+      "https://media.rawg.io/media/screenshots/328/3283c8fcc9c85ecb8ce76822861d1324.jpg",
+      "https://media.rawg.io/media/screenshots/795/7952972e10cc78718d291f094827b3ba.jpg",
+      "https://media.rawg.io/media/screenshots/ea7/ea79b3df76351ff71b91520518ab9050.jpg",
+      "https://media.rawg.io/media/screenshots/20b/20b8255eb93f310f86731612ffe5444b.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-25T22:08:35.780Z"
+  },
+  {
+    "slug": "digimon-card-game",
+    "name": "Digimon Card Game (Browser) 2.0",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/c0e/c0e0ca12a4799fe2b27e6f7e6208b418.jpg",
+    "released": "2021-01-04",
+    "developers": [],
+    "publishers": [],
+    "genres": [],
+    "platforms": [
+      "Web"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c0e/c0e0ca12a4799fe2b27e6f7e6208b418.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-25T22:08:36.504Z"
+  },
+  {
+    "slug": "yooka-laylee-and-the-impossible-lair",
+    "name": "Yooka-Laylee and the Impossible Lair",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/games/be8/be8f734c9b6f063a454a55aeb6a3509e.jpg",
+    "released": "2019-10-07",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Indie",
+      "Platformer",
+      "Adventure"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Nintendo Switch"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/e67/e678b4f0b234f3774e9dd4eda5300836.jpg",
+      "https://media.rawg.io/media/screenshots/bab/bab41dde698a068f497ea3063b87f860.jpg",
+      "https://media.rawg.io/media/screenshots/c7e/c7e282224e62e2de943441464d83698d.jpg",
+      "https://media.rawg.io/media/screenshots/ce6/ce6a31dc4ff1809d31cae3e5e6ff224c.jpg",
+      "https://media.rawg.io/media/screenshots/bb7/bb7d1cc96d69a91a2894b21c4ea6bafb.jpg",
+      "https://media.rawg.io/media/screenshots/c9f/c9f26a44f4ee40031a2bfae7027d9e99.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-25T22:08:37.174Z"
+  },
+  {
+    "slug": "tony-hawks-pro-skater-34",
+    "name": "Tony Hawk's Pro Skater 4",
+    "description": null,
+    "background_image": "https://media.rawg.io/media/screenshots/c39/c391b587cffb4e013d7854e03a03647c.jpg",
+    "released": "2002-10-23",
+    "developers": [],
+    "publishers": [],
+    "genres": [
+      "Arcade",
+      "Sports"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox",
+      "PlayStation 2",
+      "PlayStation",
+      "GameCube",
+      "Game Boy Advance",
+      "Classic Macintosh"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/430/430c3e3f879c1058b65a5b93dc37c898.jpg",
+      "https://media.rawg.io/media/screenshots/393/393ca5da5bebf0184a8724a7b302e002.jpg",
+      "https://media.rawg.io/media/screenshots/faa/faab368c07608c466ffd14ec684192ea.jpg",
+      "https://media.rawg.io/media/screenshots/27c/27ccb1c3841d1d960154985f92de1cf9.jpg",
+      "https://media.rawg.io/media/screenshots/531/531540d689277edd46a84a286cd4ffc5.jpg",
+      "https://media.rawg.io/media/screenshots/0bd/0bda6ebbb23298511f4c56d37c3bb2e9.jpg"
+    ],
+    "stores": [],
+    "fetched_at": "2026-11-25T22:08:37.747Z"
   }
 ]
